@@ -247,3 +247,30 @@ elemental_emphasis:
   ⛨: "What boundaries protect trust? What structures enable authentic human interaction?"
 context_note: "Widespread AI-generated content creates pervasive uncertainty about authenticity, eroding trust in human communication. Risk: Paralyzing skepticism where all communication is suspect, destroying the foundation of social cohesion."
 ---
+---
+term: "Framing Effects"
+hex_tag: "#A026"
+nemetic: "Φ(Framing) = σ(presentation|equivalent-information) ∘ ρ(emotional-resonance|valence-shift) ∘ λ(interpretation-direction|outcome-bias) ∘ β(choice-reinforcement|preference-formation) ∘ δγ(cognitive-ease|processing-fluency) + ε | :structuring"
+siml_encoding: "⟨Information|equivalent⟩ ⊳ ⟨Frame|positive⟩ ⊲ ⟨Frame|negative⟩ → ⟨Emotion|distinct⟩ ⊗ ⟨Choice|biased⟩ ⇄ ⟨Preference|formed⟩ → ⟨Effect|framing⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between presentation formats despite equivalence)", "∂Φ/∂ρ (emotional resonance shifts with valence framing)", "∂Φ/∂λ (direction of interpretation toward preferred outcome)", "∂Φ/∂β (feedback loop reinforcing choice through preference formation)", "∂Φ/∂δγ (cognitive ease of accepting coherent narratives)"]
+  Z_state: "permeable (awareness of framing can restore objectivity)"
+  tendency: "Emotion/Reason → 0.6 (emotional valence dominates rational equivalence)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: Its
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is 90% survival distinguished from 10% mortality? What cut reveals equivalent information?"
+  ≈: "What emotional resonance flows from 'fat-free' versus 'contains fat'? What feeling shifts?"
+  ▲: "Where does positive framing drive choices that negative framing would prevent?"
+  𐂷: "What if framing itself is a tool for clarity rather than manipulation? What ethical frames exist?"
+  ☷: "What's the metabolic cost of constantly reframing information? What sustains critical awareness?"
+  ⛨: "What structures contain framing effects? What boundaries protect decision-making from manipulation?"
+context_note: "Identical information presented in different ways (survival vs mortality rates, fat-free vs contains fat) produces systematically different decisions. Risk: Manipulators exploit framing to guide choices without changing facts—democracies and markets become vulnerable to presentation-layer attacks on judgment."
+---
