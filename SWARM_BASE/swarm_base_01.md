@@ -248,6 +248,33 @@ elemental_emphasis:
 context_note: "Widespread AI-generated content creates pervasive uncertainty about authenticity, eroding trust in human communication. Risk: Paralyzing skepticism where all communication is suspect, destroying the foundation of social cohesion."
 ---
 ---
+term: "Dark Patterns"
+hex_tag: "#A027"
+nemetic: "Φ(DarkPatterns) = σ(consent|manufactured) ∘ ρ(trust|exploited) ∘ λ(action|manipulated) ∘ β(engagement|extracted) ∘ δγ(cognitive-load|increased) ∘ μ(boundary|obscured) + ε | :sealed"
+siml_encoding: "⟨Design|UX⟩ ⊳ ⟨Intent|deceptive⟩ → ⟨User|manipulated⟩ ⊗ ⟨Action|coerced⟩ ⇄ ⟨Value|extracted⟩ → ⟨Agency|eroded⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine consent and manufactured agreement)", "∂Φ/∂ρ (relational trust exploited for extraction)", "∂Φ/∂λ (direction of user action manipulated toward profit)", "∂Φ/∂β (feedback loop extracting engagement through deception)", "∂Φ/∂δγ (cognitive load increased by deceptive complexity)", "∂Φ/∂μ (boundaries obscured between user interest and corporate gain)"]
+  Z_state: "sealed (user often unaware manipulation occurred)"
+  tendency: "Autonomy/Extraction → 0.2 (high extraction, low autonomy preservation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: Its
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine user choice distinguished from manufactured consent? What cut reveals the deception?"
+  ≈: "What trust flows between user and interface? What emotional resonance is exploited by urgency tactics?"
+  ▲: "Where do dark patterns direct user action? Whose interests are served by the manipulated direction?"
+  𐂷: "What ethical design alternatives exist? What if interfaces could be transparent by default?"
+  ☷: "What's the metabolic cost of navigating deceptive interfaces? What sustains user vigilance?"
+  ⛨: "What structures enable dark patterns? What boundaries would protect authentic user agency?"
+context_note: "Deceptive UX designs that manipulate users into actions benefiting companies, exploiting cognitive biases like FOMO and loss aversion. Common tactics: forced continuity, hidden fees, confirmshaming, urgency timers, privacy Zuckering. Risk: Regulatory responses (GDPR, Digital Services Act) attempt to curb these practices, but AI-driven personalization may evolve dark patterns into individually tailored manipulation that is harder to detect and resist."
+---
+---
 term: "Framing Effects"
 hex_tag: "#A026"
 nemetic: "Φ(Framing) = σ(presentation|equivalent-information) ∘ ρ(emotional-resonance|valence-shift) ∘ λ(interpretation-direction|outcome-bias) ∘ β(choice-reinforcement|preference-formation) ∘ δγ(cognitive-ease|processing-fluency) + ε | :structuring"
