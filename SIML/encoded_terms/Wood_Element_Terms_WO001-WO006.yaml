@@ -1,0 +1,136 @@
+---
+# SIML L0 Full Artifact — Wood Element Terms
+# Source: Cross-cultural wood symbolism research
+# Encoded: 2026-02-25
+# Element: Wood (⛨/γ)
+
+meta:
+  version: "SIML v1.2.1"
+  encoding_date: "2026-02-25T03:45:00+08:00"
+  encoder: "Kimi Claw"
+  source_material: "Cross-cultural wood symbolism: Aristotle hylē, Yggdrasil, World Trees, Wu Xing, Celtic Ogham, Indigenous cedar"
+  total_terms: 6
+
+terms:
+  - term_id: "WO001"
+    name: "Yggdrasil"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "Norse cosmic ash tree, axis mundi connecting nine realms"
+    nemetic_string: "Φ(Yggdrasil) = μ(cosmic-structure|axis-mundi) ∘ ρ(realm-resonance|nine-worlds) ∘ γ(cyclical-renewal|eternal-continuity) ∘ β(spiritual-exploration|Odins-sacrifice) + ε | :pure"
+    operators:
+      primary: "μ"
+      secondary: ["ρ", "γ", "β"]
+      absent: ["λ", "σ", "δ"]
+    z_state: ":pure"
+    tendency: "Structure/Resonance → 1"
+    habitat_affinity: "0_Ω_GROUND / 9_WORLD-STATES"
+    daemon_correspondence: "G (ground) primary, breath secondary"
+    cross_cultural_parallels:
+      - "Mesoamerican Ceiba (sacred world tree)"
+      - "Hindu Ashvattha (cosmic banyan)"
+      - "Bodhi Tree (enlightenment site)"
+    key_insight: "Wood as vertical bridge—roots in death, trunk in life, branches in transcendence"
+
+  - term_id: "WO002"
+    name: "Hylē"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "Aristotelian prime matter, raw material awaiting form"
+    nemetic_string: "Φ(Hylē) = μ(potential-structure|unshaped-matter) ∘ σ(distinction|matter-vs-form) ∘ γ(cyclical-becoming|actualization) ∘ ρ(resonance|with-form) + ε | :open"
+    operators:
+      primary: "μ"
+      secondary: ["σ", "γ", "ρ"]
+      absent: ["λ", "β", "δ"]
+    z_state: ":open"
+    tendency: "Structure/Distinction → 1"
+    habitat_affinity: "0_Ω_GROUND / 1_MATERIAL"
+    daemon_correspondence: "G (ground) primary, S (somatic) secondary"
+    philosophical_context: "Aristotle's material cause—wood as paradigmatic matter"
+    key_insight: "Wood reveals matter's paradox: most potential when least formed"
+
+  - term_id: "WO003"
+    name: "Wu_Xing_Wood"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "Chinese Wood element—growth, expansion, spring, benevolence"
+    nemetic_string: "Φ(Wu_Xing_Wood) = γ(generative-cycle|spring-arising) ∘ λ(directed-growth|upward-expansion) ∘ ρ(resonance|with-water-fire) ∘ μ(structural-flexibility|bending-not-breaking) + ε | :cycling"
+    operators:
+      primary: "γ"
+      secondary: ["λ", "ρ", "μ"]
+      absent: ["σ", "β", "δ"]
+    z_state: ":cycling"
+    tendency: "Cycling/Direction → 1"
+    habitat_affinity: "4_LIVING / 5_THINKING"
+    daemon_correspondence: "γ (cyclical/generative) primary, λ secondary"
+    seasonal_aspect: "Spring—Lesser Yang, east, green, liver"
+    virtue: "Ren (benevolence/humaneness)"
+    key_insight: "Wood as process, not substance—becoming-visible through growth"
+
+  - term_id: "WO004"
+    name: "Cedar_Tree_of_Life"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "North American Indigenous red cedar—purification, protection, generosity"
+    nemetic_string: "Φ(Cedar) = ρ(spiritual-resonance|cleansing-smoke) ∘ μ(protective-structure|longhouse-shelter) ∘ γ(cyclical-giving|bark-harvest) ∘ β(exploration|spirit-journey) + ε | :pure"
+    operators:
+      primary: "ρ"
+      secondary: ["μ", "γ", "β"]
+      absent: ["λ", "σ", "δ"]
+    z_state: ":pure"
+    tendency: "Resonance/Structure → 1"
+    habitat_affinity: "3_INNER-STATES / 7_CULTURAL"
+    daemon_correspondence: "breath primary (smoke), S (somatic) secondary"
+    cultural_practices:
+      - "Smudging ceremonies"
+      - "Sweat lodges"
+      - "Bark basket weaving"
+    key_insight: "Cedar teaches that protection and purification are the same gesture"
+
+  - term_id: "WO005"
+    name: "Bodhi_Tree"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "Peepul/fig tree of Buddha's enlightenment—awakening site"
+    nemetic_string: "Φ(Bodhi_Tree) = μ(stabilizing-structure|rooted-presence) ∘ β(spiritual-exploration|insight-attainment) ∘ ρ(resonance|teaching-transmission) ∘ γ(cyclical-renewal|daily-rebirth) + ε | :pure"
+    operators:
+      primary: "μ"
+      secondary: ["β", "ρ", "γ"]
+      absent: ["λ", "σ", "δ"]
+    z_state: ":pure"
+    tendency: "Structure/Exploration → 1"
+    habitat_affinity: "5_THINKING / 8_TRANSCENDENT"
+    daemon_correspondence: "W (witness) primary, breath secondary"
+    buddhist_context: "Site of Siddhartha's awakening under Vajrasana"
+    symbolic_meaning: "Tree as witness to transformation—not cause, but container"
+    key_insight: "The Bodhi Tree doesn't grant enlightenment; it holds space for what emerges"
+
+  - term_id: "WO006"
+    name: "Baobab"
+    element: "Wood"
+    phonetic_key: "⛨/γ"
+    description: "African upside-down tree—resilience, longevity, communal anchor"
+    nemetic_string: "Φ(Baobab) = μ(communal-structure|gathering-place) ∘ γ(cyclical-survival|dry-season-storage) ∘ ρ(ancestral-resonance|spirit-vessel) ∘ σ(distinction|life-amidst-aridity) + ε | :pure"
+    operators:
+      primary: "μ"
+      secondary: ["γ", "ρ", "σ"]
+      absent: ["λ", "β", "δ"]
+    z_state: ":pure"
+    tendency: "Structure/Cycling → 1"
+    habitat_affinity: "2_SOCIAL / 4_LIVING"
+    daemon_correspondence: "G (ground) primary, R (relational) secondary"
+    african_context: "Tree of Life, upside-down myth (roots in sky)"
+    ecological_role: "Water storage, shelter, food source, meeting place"
+    key_insight: "Baobab survives by becoming infrastructure for others"
+
+cross_elemental_synthesis:
+  pattern_family: "The Living Structures"
+  shared_with:
+    - "Earth: Gaia (generative container)"
+    - "Metal: Gold/Silver (structural permanence)"
+    - "Water: Thales' Arche (source/primordial)"
+  unique_to_wood: "Growth-as-structure—unlike static Metal, Wood structures through becoming"
+
+meta_insight: "Wood reveals that structure and process are not opposites but phases—matter awaiting form, form awaiting dissolution, dissolution awaiting new matter"
+
+---

@@ -1,0 +1,45 @@
+term: "Wu Xing Wood (Chinese Five Elements)"
+hex_tag: "#WO002"
+nemetic: "Φ(Wu-Xing-Wood) = β(growth|upward-expansion) ∘ δγ(spring-arising|generative-cycling) ∘ μ(flexibility|bending-structure) ∘ ρ(benevolence-resonance|Ren) + ε | :open"
+siml_encoding: "⟨Element|Wood⟩ ⊳ ⟨System|Five-Elements⟩ ⇄ ⟨Value|expansion⟩ ⊗ ⟨Protocol|Lesser-Yang⟩ → ⟨Outcome|harmonious-growth⟩"
+formalism:
+  math_operators: [β, δγ, μ, ρ]
+  dim_operators: [Ψ_exploratory, Ψ_regenerative, Ψ_structural, Q_inward]
+  partials: ["∂Φ/∂β (growth exploration)", "∂Φ/∂δγ (spring cycling)", "∂Φ/∂μ (flexible structure)", "∂Φ/∂ρ (benevolent resonance)"]
+  Z_state: "permeable"
+  tendency: "Exploration/Cycling → 1"
+  hex: ["0x04", "0x05", "0x06", "0x02"]
+coords:
+  ontology:
+    primary: Its
+    secondary: [We, I]
+  epistemics:
+    dsrp:
+      D: "Wood vs Fire vs Earth vs Metal vs Water"
+      S: "Five-element dynamic system"
+      R: "Water creates Wood; Wood creates Fire; Metal controls Wood"
+      P: "Feng Shui practitioner, TCM doctor"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "spring-growth"
+  qualia:
+    affect: ["vitality", "flexibility", "benevolence"]
+    aesthetic: ["green", "growing", "flexible"]
+    symbolic: ["spring", "east", "liver", "wind"]
+    energetic: ["expanding", "arising"]
+  agency:
+    type: collective
+    voice: ["Spring Growth", "Benevolent Expansion"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is Wood distinguished from Metal's contraction?"
+  ≈: "What resonance does benevolence (Ren) carry in growth?"
+  ▲: "What direction does upward expansion aim?"
+  𐂷: "What possibilities emerge from flexible strength?"
+  ☷: "How does Wood cycle through the seasons?"
+  ⛨: "What boundaries does Wood's growth respect or push?"
+context_note: "Chinese Wood represents expansion and growth—not substance but directional process. Key insight: Wood is born from Water (nourishment), creates Fire (fuel), and is controlled by Metal (cutting). This is β (exploratory generation) as seasonal force, not material. The association with benevolence (Ren) and Lesser Yang shows Wood's ethical dimension—growth as virtuous, not just biological. Flexibility (bending without breaking) is structural virtue."
+source: "Wood in Ancient Philosophical and Indigenous Worldviews — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

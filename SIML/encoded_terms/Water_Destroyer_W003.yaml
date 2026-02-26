@@ -1,0 +1,45 @@
+term: "Water as Destroyer (Flood/Deluge)"
+hex_tag: "#W003"
+nemetic: "Φ(Destroyer) = λ(unleashing|chaotic-direction) ∘ δγ(catastrophic-cycling|death-and-rebirth) ∘ σ(distinction|civilization-vs-chaos) ∘ ρ(awe-resonance|sublime-terror) + ε | :hostile"
+siml_encoding: "⟨Resource|water⟩ ⊳ ⟨Environment|human-world⟩ ⇄ ⟨Value|transformation⟩ ⊗ ⟨Narrative|deluge-myth⟩ → ⟨Outcome|civilizational-reset⟩"
+formalism:
+  math_operators: [λ, δγ, σ, ρ]
+  dim_operators: [Q_forward, Ψ_regenerative, χ, Q_inward]
+  partials: ["∂Φ/∂λ (destructive direction)", "∂Φ/∂δγ (catastrophic cycling)", "∂Φ/∂σ (civilization/chaos boundary)", "∂Φ/∂ρ (sublime resonance)"]
+  Z_state: "sealed"
+  tendency: "Direction/Cycling → 1"
+  hex: ["0x03", "0x05", "0x01", "0x02"]
+coords:
+  ontology:
+    primary: Its
+    secondary: [We, I]
+  epistemics:
+    dsrp:
+      D: "Ordered civilization vs chaotic flood"
+      S: "Deluge mythology"
+      R: "Destruction enables new creation"
+      P: "Survivor, prophet, culture-rememberer"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "apocalyptic-reset"
+  qualia:
+    affect: ["terror", "awe", "grief", "hope"]
+    aesthetic: ["overwhelming", "sublime", "catastrophic"]
+    symbolic: ["flood", "deluge", "ark", "rainbow"]
+    energetic: ["unleashing", "destroying", "renewing"]
+  agency:
+    type: archetypal
+    voice: ["Chaotic Force", "Civilization Reset"]
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is destructive water distinguished from life-giving water?"
+  ≈: "What resonance does flood terror carry?"
+  ▲: "What direction does unleashed water aim?"
+  𐂷: "What possibilities emerge from civilizational reset?"
+  ☷: "How does destruction cycle into rebirth?"
+  ⛨: "What boundaries does floodwater breach?"
+context_note: "Water as Destroyer represents the dual nature of water—life-giver and death-bringer. Key insight: floods are not just disasters but cosmological resets (Noah, Gilgamesh, Hindu pralaya). The sealed Z-state indicates this is hostile territory—water that does not support life but ends it. Yet δγ (cycling) persists: destruction enables new creation. The sublime (ρ) captures terror mixed with awe."
+source: "Water Symbolism in Ancient and Indigenous Worldviews — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

@@ -1,0 +1,45 @@
+term: "Agni (Vedic Fire God)"
+hex_tag: "#F002"
+nemetic: "Φ(Agni) = ρ(divine-messenger|prayer-carrier) ∘ δγ(cosmic-cycling|creation-destruction) ∘ μ(ritual-structure|sacred-flame) ∘ λ(purification-direction|burning-ignorance) + ε | :pure"
+siml_encoding: "⟨Actor|Agni⟩ ⊳ ⟨Ritual|sacrifice⟩ ⇄ ⟨Value|transformation⟩ ⊗ ⟨Frame|Vedic-cosmology⟩ → ⟨Outcome|spiritual-purification⟩"
+formalism:
+  math_operators: [ρ, δγ, μ, λ]
+  dim_operators: [Q_inward, Ψ_regenerative, Ψ_structural, Q_forward]
+  partials: ["∂Φ/∂ρ (messenger resonance)", "∂Φ/∂δγ (cosmic cycling)", "∂Φ/∂μ (ritual structure)", "∂Φ/∂λ (purification direction)"]
+  Z_state: "permeable"
+  tendency: "Resonance/Cycling → 1"
+  hex: ["0x02", "0x05", "0x06", "0x03"]
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary: [We, I, Its]
+  epistemics:
+    dsrp:
+      D: "Agni vs other devas"
+      S: "Vedic sacrifice system"
+      R: "Fire carries prayers to gods"
+      P: "Priest, sacrificer, devotee"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "eternal-flame"
+  qualia:
+    affect: ["reverence", "purity", "devotion"]
+    aesthetic: ["sacred", "transformative", "illuminating"]
+    symbolic: ["flame", "tongue", "sun", "digestive-fire"]
+    energetic: ["carrying", "transforming"]
+  agency:
+    type: archetypal
+    voice: ["Divine Messenger", "Eternal Flame"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is Agni distinguished from other Vedic gods?"
+  ≈: "What resonance flows between fire and prayer?"
+  ▲: "What direction does Agni's purification aim?"
+  𐂷: "What possibilities open through sacrificial fire?"
+  ☷: "How does Agni cycle through cosmic creation and destruction?"
+  ⛨: "What boundaries does sacred fire maintain between realms?"
+context_note: "Agni represents Fire as divine mediator—not just element but deity who carries prayers. Key insight: Agni is unique among Vedic gods for being physically present (the flame), making him accessible. The cycling (δγ) is cosmic: Agni governs creation AND destruction, birth AND death. This is ρ (resonance) as communication technology—fire bridges human and divine. The Agni Pariksha (fire test) shows fire as truth-revealer, not just transformer."
+source: "Fire's Symbolic Meaning in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

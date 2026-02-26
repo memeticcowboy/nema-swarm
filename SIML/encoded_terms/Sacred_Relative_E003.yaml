@@ -1,0 +1,45 @@
+term: "Earth as Sacred Relative (Indigenous)"
+hex_tag: "#E003"
+nemetic: "Φ(Sacred-Relative) = ρ(reciprocal-kinship|Mitákuye-Oyás'in) ∘ μ(land-as-being|not-property) ∘ δγ(stewardship|sustainable-cycling) ∘ σ(distinction|sacred-vs-profane) + ε | :pure"
+siml_encoding: "⟨Frame|kinship⟩ ⊳ ⟨Actor|Indigenous-community⟩ ⇄ ⟨Environment|Mother-Earth⟩ → ⟨Value|reciprocity⟩ ⊗ ⟨Protocol|stewardship⟩ → ⟨Outcome|sacred-harmony⟩"
+formalism:
+  math_operators: [ρ, μ, δγ, σ]
+  dim_operators: [Q_inward, Ψ_structural, Ψ_regenerative, χ]
+  partials: ["∂Φ/∂ρ (relational resonance)", "∂Φ/∂μ (land boundaries)", "∂Φ/∂δγ (stewardship cycles)", "∂Φ/∂σ (sacred distinction)"]
+  Z_state: "permeable"
+  tendency: "Resonance/Structure → 1"
+  hex: ["0x02", "0x06", "0x05", "0x01"]
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary: [We, Its]
+  epistemics:
+    dsrp:
+      D: "Human vs Earth vs other relations"
+      S: "Sacred kinship network"
+      R: "Reciprocal care (not ownership)"
+      P: "Indigenous worldview"
+    learning: L3
+  time:
+    mode: layered
+    phase: "ancestral-continuity"
+  qualia:
+    affect: ["reverence", "responsibility", "belonging"]
+    aesthetic: ["sacred", "living", "relational"]
+    symbolic: ["Grandmother", "Moon-water", "sacred-sites"]
+    energetic: ["reciprocal", "sustained"]
+  agency:
+    type: collective
+    voice: ["All Our Relations", "Sacred Steward"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is sacred land distinguished from profane space?"
+  ≈: "What is the felt resonance of 'all our relations'?"
+  ▲: "What direction does stewardship aim?"
+  𐂷: "What stories emerge from sacred places?"
+  ☷: "How do ancestral cycles sustain the present?"
+  ⛨: "What boundaries protect sacred kinship?"
+context_note: "The Indigenous Earth is radically different from Greek or Ayurvedic conceptions—not element, not body, but relative. The key shift: from 'belonging to the Earth' (ownership model) to 'the Earth belongs to itself, we belong with it' (kinship model). This is ρ (resonance) as ethical foundation, not just affect. Land loss = spiritual trauma, not resource deprivation."
+source: "The Elemental and the Ethereal — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

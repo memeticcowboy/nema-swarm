@@ -1,0 +1,45 @@
+term: "Chinese Earth Element (Wu Xing)"
+hex_tag: "#E004"
+nemetic: "Φ(Wu-Xing-Earth) = δγ(central-position|balance-point) ∘ μ(stability|nourishment) ∘ β(transformation|creates-Metal) ∘ σ(distinct-shape|square) + ε | :open"
+siml_encoding: "⟨Frame|Five-Elements⟩ ⊳ ⟨Actor|practitioner⟩ ⇄ ⟨Value|harmony⟩ ⊗ ⟨Protocol|Creation-Control-cycles⟩ → ⟨Outcome|balanced-system⟩"
+formalism:
+  math_operators: [δγ, μ, β, σ]
+  dim_operators: [Ψ_regenerative, Ψ_structural, Ψ_exploratory, χ]
+  partials: ["∂Φ/∂δγ (cyclical transformation)", "∂Φ/∂μ (stability function)", "∂Φ/∂β (generative branching)", "∂Φ/∂σ (shape distinction)"]
+  Z_state: "permeable"
+  tendency: "Cycling/Structure → 1"
+  hex: ["0x05", "0x06", "0x04", "0x01"]
+coords:
+  ontology:
+    primary: Its
+    secondary: [We]
+  epistemics:
+    dsrp:
+      D: "Earth vs Fire vs Water vs Wood vs Metal"
+      S: "Five-element dynamic system"
+      R: "Creation and Control cycles"
+      P: "Feng Shui / TCM practitioner"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "seasonal-transition"
+  qualia:
+    affect: ["centeredness", "nourishment", "support"]
+    aesthetic: ["yellow", "brown", "square", "heavy"]
+    symbolic: ["center", "late-summer", "spleen"]
+    energetic: ["stabilizing", "transforming"]
+  agency:
+    type: collective
+    voice: ["Dynamic Balance", "Seasonal Flow"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is Earth distinguished in the Five Elements system?"
+  ≈: "What resonance does 'center' carry in the body and space?"
+  ▲: "What direction do the Creation and Control cycles aim?"
+  𐂷: "What possibilities emerge from Earth creating Metal?"
+  ☷: "How does Earth transform through seasonal cycles?"
+  ⛨: "What structural stability does Earth provide in Feng Shui?"
+context_note: "Chinese Earth is unique: not primordial (like Gaia), not bodily (like Prithvi), but relational and dynamic. Earth holds the center—neither beginning nor end, but the pivot point. The key insight: Earth is born FROM Fire (ashes), then creates Metal. This is δγ as transformative cycling, not just sustenance. The practical application (Feng Shui, TCM) makes it prescriptive, not just descriptive."
+source: "The Elemental and the Ethereal — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

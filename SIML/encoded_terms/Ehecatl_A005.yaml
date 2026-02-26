@@ -1,0 +1,45 @@
+term: "Ehecatl (Mesoamerican Wind God)"
+hex_tag: "#A005"
+nemetic: "Φ(Ehecatl) = β(change|movement-possibility) ∘ ρ(breath-of-life|divine-gift) ∘ λ(direction|rain-bringer) ∘ μ(form|mask-identity) + ε | :pure"
+siml_encoding: "⟨Actor|Ehecatl⟩ ⊳ ⟨Environment|Mesoamerica⟩ ⇄ ⟨Value|change⟩ ⊗ ⟨Narrative|creation-myth⟩ → ⟨Outcome|life-and-fertility⟩"
+formalism:
+  math_operators: [β, ρ, λ, μ]
+  dim_operators: [Ψ_exploratory, Q_inward, Q_forward, Ψ_structural]
+  partials: ["∂Φ/∂β (change exploration)", "∂Φ/∂ρ (breath resonance)", "∂Φ/∂λ (directional rain)", "∂Φ/∂μ (mask structure)"]
+  Z_state: "permeable"
+  tendency: "Exploration/Resonance → 1"
+  hex: ["0x04", "0x02", "0x03", "0x06"]
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary: [We, I]
+  epistemics:
+    dsrp:
+      D: "Ehecatl vs Quetzalcoatl"
+      S: "Aztec/Mayan wind deity complex"
+      R: "Wind brings rain brings life"
+      P: "Mesoamerican priest, farmer"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "rainy-season"
+  qualia:
+    affect: ["change", "vitality", "movement"]
+    aesthetic: ["mobile", "masked", "fertile"]
+    symbolic: ["conch-shell", "duck-bill-mask", "rain"]
+    energetic: ["bringing", "transforming"]
+  agency:
+    type: archetypal
+    voice: ["Bringer of Change", "Breath of Life"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is Ehecatl distinguished from Quetzalcoatl?"
+  ≈: "What resonance does the wind-before-rain carry?"
+  ▲: "What direction does Ehecatl's rain-bringing aim?"
+  𐂷: "What possibilities open with Ehecatl's change?"
+  ☷: "How does wind's breath cycle through seasons?"
+  ⛨: "What boundaries does the mask create/bridge?"
+context_note: "Ehecatl represents Air as change-agent and life-bringer—wind that brings rain. Key distinction: conch shell (symbol of breath) and duck-bill mask (beak for wind-blowing). Unlike Shu's cosmic separation or Pneuma's individual soul, Ehecatl is agricultural—wind for rain for crops. The Ik' sign (Mayan) adds: communication, intuition, catalyst. Air as messenger between divine and human, nature and culture."
+source: "Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

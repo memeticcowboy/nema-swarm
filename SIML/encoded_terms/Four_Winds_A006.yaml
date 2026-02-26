@@ -1,0 +1,45 @@
+term: "Four Winds (Indigenous North America)"
+hex_tag: "#A006"
+nemetic: "Φ(Four-Winds) = δγ(cyclical-power|seasonal-rotation) ∘ σ(distinction|directional-qualities) ∘ ρ(spiritual-resonance|Earth's-breath) ∘ λ(moral-direction|teaching-force) + ε | :pure"
+siml_encoding: "⟨Frame|Medicine-Wheel⟩ ⊳ ⟨Environment|North-America⟩ ⇄ ⟨Value|balance⟩ ⊗ ⟨Narrative|creation-teaching⟩ → ⟨Outcome|harmonious-living⟩"
+formalism:
+  math_operators: [δγ, σ, ρ, λ]
+  dim_operators: [Ψ_regenerative, χ, Q_inward, Q_forward]
+  partials: ["∂Φ/∂δγ (cyclical power)", "∂Φ/∂σ (directional distinction)", "∂Φ/∂ρ (spiritual resonance)", "∂Φ/∂λ (moral direction)"]
+  Z_state: "permeable"
+  tendency: "Cycling/Distinction → 1"
+  hex: ["0x05", "0x01", "0x02", "0x03"]
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary: [We, Its]
+  epistemics:
+    dsrp:
+      D: "North vs East vs South vs West winds"
+      S: "Medicine Wheel cosmology"
+      R: "Winds as Earth's breath/teachers"
+      P: "Elder, healer, seeker"
+    learning: L3
+  time:
+    mode: cyclical
+    phase: "seasonal-cycle"
+  qualia:
+    affect: ["reverence", "endurance", "balance"]
+    aesthetic: ["circular", "directional", "teaching"]
+    symbolic: ["medicine-wheel", "four-directions", "sacred-hoop"]
+    energetic: ["rotating", "teaching"]
+  agency:
+    type: collective
+    voice: ["Earth's Breath", "Directional Teachers"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How are the Four Winds distinguished by direction and quality?"
+  ≈: "What resonance does the Earth's breath carry?"
+  ▲: "What direction does each wind's teaching aim?"
+  𐂷: "What possibilities emerge from understanding all four winds?"
+  ☷: "How do the winds cycle through seasons and life stages?"
+  ⛨: "What boundaries do the winds respect or challenge?"
+context_note: "Four Winds represents Air as cyclical teaching—each direction carries specific qualities (North: wisdom/endurance, East: new beginnings, South: growth/youth, West: introspection). Unlike single-deity Air concepts, this is distributed agency—four powers, not one. Key insight: winds are Earth's breath (Maka Oniye), making Air relational, not elemental. The Medicine Wheel integrates directions with seasons, life stages, and moral lessons."
+source: "Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

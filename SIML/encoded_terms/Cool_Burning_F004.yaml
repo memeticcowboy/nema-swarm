@@ -1,0 +1,45 @@
+term: "Cool Burning (Aboriginal Fire Management)"
+hex_tag: "#F004"
+nemetic: "Φ(Cool-Burning) = δγ(regenerative-cycling|land-renewal) ∘ μ(knowledge-structure|inherited-practice) ∘ ρ(kinship-resonance|land-relationship) ∘ β(ecological-possibility|biodiversity) + ε | :open"
+siml_encoding: "⟨Protocol|cool-burn⟩ ⊳ ⟨Actor|Indigenous-fire-keeper⟩ ⇄ ⟨Environment|land⟩ → ⟨Value|rejuvenation⟩ ⊗ ⟨Frame|kinship⟩ → ⟨Outcome|ecological-harmony⟩"
+formalism:
+  math_operators: [δγ, μ, ρ, β]
+  dim_operators: [Ψ_regenerative, Ψ_structural, Q_inward, Ψ_exploratory]
+  partials: ["∂Φ/∂δγ (regenerative cycling)", "∂Φ/∂μ (knowledge structure)", "∂Φ/∂ρ (land resonance)", "∂Φ/∂β (ecological exploration)"]
+  Z_state: "permeable"
+  tendency: "Cycling/Structure → 1"
+  hex: ["0x05", "0x06", "0x02", "0x04"]
+coords:
+  ontology:
+    primary: We
+    secondary: [Its, MoreThanHuman]
+  epistemics:
+    dsrp:
+      D: "Cool burn vs hot wildfire"
+      S: "Aboriginal fire management system"
+      R: "Fire renews land when applied with knowledge"
+      P: "Elder, fire-keeper, knowledge-holder"
+    learning: L3
+  time:
+    mode: layered
+    phase: "seasonal-burning"
+  qualia:
+    affect: ["responsibility", "connection", "care"]
+    aesthetic: ["controlled", "renewing", "ancient"]
+    symbolic: ["ash", "medicine", "knowledge", "country"]
+    energetic: ["nurturing", "maintaining"]
+  agency:
+    type: collective
+    voice: ["Fire Keeper", "Land Guardian"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is cool burning distinguished from destructive wildfire?"
+  ≈: "What resonance flows between fire-keeper and land?"
+  ▲: "What direction does regenerative fire aim?"
+  𐂷: "What ecological possibilities emerge from controlled burning?"
+  ☷: "How does fire knowledge cycle through generations?"
+  ⛨: "What boundaries separate proper fire from dangerous fire?"
+context_note: "Cool Burning represents Fire as relational technology—not destruction but renewal when practiced with knowledge. Key insight: Aboriginal fire management prevents catastrophic wildfires by regular low-intensity burns that clear undergrowth, promote biodiversity, and maintain ecological balance. This is δγ (cycling) as land-care, not just natural process. The knowledge (μ) is inherited and sacred—fire as cultural practice, not just tool. The ash provides medicine, showing fire as healing, not just harming."
+source: "Fire's Symbolic Meaning in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

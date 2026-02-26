@@ -1,0 +1,45 @@
+term: "Water as Purifier (Ritual Cleansing)"
+hex_tag: "#W002"
+nemetic: "Φ(Purifier) = δγ(renewal|washing-away) ∘ ρ(spiritual-resonance|sacred-waters) ∘ μ(boundary|before-vs-after) ∘ λ(direction|toward-purity) + ε | :pure"
+siml_encoding: "⟨Resource|water⟩ ⊳ ⟨Actor|ritual-participant⟩ ⇄ ⟨Value|purity⟩ ⊗ ⟨Protocol|cleansing-rite⟩ → ⟨Outcome|spiritual-renewal⟩"
+formalism:
+  math_operators: [δγ, ρ, μ, λ]
+  dim_operators: [Ψ_regenerative, Q_inward, Ψ_structural, Q_forward]
+  partials: ["∂Φ/∂δγ (renewal cycling)", "∂Φ/∂ρ (sacred resonance)", "∂Φ/∂μ (purity boundary)", "∂Φ/∂λ (purification direction)"]
+  Z_state: "permeable"
+  tendency: "Cycling/Resonance → 1"
+  hex: ["0x05", "0x02", "0x06", "0x03"]
+coords:
+  ontology:
+    primary: It
+    secondary: [I, We, MoreThanHuman]
+  epistemics:
+    dsrp:
+      D: "Pure vs impure states"
+      S: "Ritual purification system"
+      R: "Water washes away spiritual impurity"
+      P: "Priest, pilgrim, practitioner"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "ritual-moment"
+  qualia:
+    affect: ["renewal", "relief", "sacredness"]
+    aesthetic: ["clear", "flowing", "transformative"]
+    symbolic: ["baptism", "ablution", "sacred-springs"]
+    energetic: ["washing", "renewing"]
+  agency:
+    type: collective
+    voice: ["Sacred Cleanser", "Renewal Bringer"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is ritual water distinguished from ordinary water?"
+  ≈: "What resonance does sacred water carry?"
+  ▲: "What direction does purification aim?"
+  𐂷: "What possibilities open after cleansing?"
+  ☷: "How does water's renewal cycle through ritual repetition?"
+  ⛨: "What boundaries does purity enforce against impurity?"
+context_note: "Water as Purifier represents the universal cross-cultural pattern of water in ritual cleansing—baptism, ablution, sacred springs, ritual baths. Key insight: water doesn't just clean physically but spiritually; the boundary (μ) is between states of being (impure/pure), not just dirt/clean. This is δγ (cycling) as spiritual renewal, not just material washing."
+source: "Water Symbolism in Ancient and Indigenous Worldviews — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"

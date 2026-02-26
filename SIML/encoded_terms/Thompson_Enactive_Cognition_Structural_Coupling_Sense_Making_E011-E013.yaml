@@ -1,0 +1,93 @@
+---
+# SIML L0 Full Artifact — Thompson (Enactive Cognition, Sense-Making, Life-Mind Continuity)
+# Source: Mind in Life, enaction as bringing forth, structural coupling, precarious autonomy
+# Encoded: 2026-02-25
+# Element: Earth (▩/σ) — life, metabolism, precarious existence
+
+meta:
+  version: "SIML v1.2.1"
+  encoding_date: "2026-02-25T06:30:00+08:00"
+  encoder: "Kimi Claw"
+  source_material: "Evan Thompson—enactive cognition, sense-making, life-mind continuity, structural coupling, precarious autonomy"
+  total_terms: 3
+
+terms:
+  - term_id: "E011"
+    name: "Enactive_Cognition"
+    element: "Earth"
+    phonetic_key: "▩/σ"
+    description: "Cognition as enactment—bringing forth world of significance through embodied action, not representation"
+    nemetic_string: "Φ(Enactive_Cognition) = γ(enactment-process|bringing-forth) ∘ ρ(coupling-resonance|mutual-specification) ∘ β(sense-making|world-generation) ∘ σ(distinction|self-environment) + ε | :cycling"
+    operators:
+      primary: "γ"
+      secondary: ["ρ", "β", "σ"]
+      absent: ["λ", "μ", "δ"]
+    z_state: ":cycling"
+    tendency: "Cycling/Resonance → 1"
+    habitat_affinity: "4_LIVING / 5_THINKING"
+    daemon_correspondence: "S (somatic) primary, G (ground) secondary"
+    thompson_thesis: "Cognition is enactment—bringing forth world of significance through embodied action"
+    rejection: "Not internal manipulation of representations of independent world"
+    enactive_definition: "Cognitive agents actively bring forth or enact their own cognitive domains"
+    nemetic_translation: "Organism doesn't process information about environment; it enacts an environment"
+    constitution: "What counts as world for agent is constituted through ongoing activities and sensitivities, not passively received"
+    key_insight: "Cognition is not neutral information processing but life-maintaining sense-making"
+
+  - term_id: "E012"
+    name: "Structural_Coupling"
+    element: "Earth"
+    phonetic_key: "▩/σ"
+    description: "Living system and environment mutually specify each other through recurrent interaction without losing autonomy"
+    nemetic_string: "Φ(Structural_Coupling) = ρ(recurrent-resonance|mutual-specification) ∘ σ(autonomy-distinction|self-environment) ∘ γ(coupling-process|ongoing-interaction) ∘ δ(precarious-transformation|edge-of-breakdown) + ε | :cycling"
+    operators:
+      primary: "ρ"
+      secondary: ["σ", "γ", "δ"]
+      absent: ["λ", "μ"]
+    z_state: ":cycling"
+    tendency: "Resonance/Distinction → 1"
+    habitat_affinity: "4_LIVING / 0_Ω_GROUND"
+    daemon_correspondence: "G primary, R (relational) secondary"
+    core_concept: "Living system and environment mutually specify each other through recurrent interaction"
+    autonomy_preserved: "Without losing organizational autonomy"
+    body_as: "Autonomous system that actively generates and maintains distinction between itself and environment"
+    operational_closure: "System's processes are self-organizing"
+    precariousness: "Constantly on edge of breakdown; must continually counteract tendencies toward disintegration"
+    metabolism_connection: "Autonomy modeled as network of metabolic processes far from thermodynamic equilibrium"
+    buying_time: "Must incessantly 'buy time' against entropy"
+    nemetic_translation: "Metabolism, not replication—organism perpetually remaking itself in materially costly coupling"
+    key_insight: "Structural coupling is the basic pattern of life—mutual specification without fusion, autonomy without isolation"
+
+  - term_id: "E013"
+    name: "Sense_Making"
+    element: "Earth"
+    phonetic_key: "▩/σ"
+    description: "Normative dimension of coupling—system produces/sustains identity in precarious conditions, establishing perspective for interaction"
+    nemetic_string: "Φ(Sense_Making) = γ(identity-sustaining|precarious-conditions) ∘ ρ(normative-resonance|world-acquires-meaning) ∘ σ(perspective-distinction|system-standpoint) ∘ β(exploration|flourishing-seeking) + ε | :cycling"
+    operators:
+      primary: "γ"
+      secondary: ["ρ", "σ", "β"]
+      absent: ["λ", "μ", "δ"]
+    z_state: ":cycling"
+    tendency: "Cycling/Resonance → 1"
+    habitat_affinity: "3_INNER-STATES / 4_LIVING"
+    daemon_correspondence: "S primary, W (witness) secondary"
+    life_mind_continuity: "Mind is literally life-like; basic cognition continuous with self-organizing activity of living systems"
+    brain_role: "Brain expands range of mind already present in life—not origin of mind"
+    normative_dimension: "Autonomous system produces/sustains own identity in precarious conditions"
+    perspective_establishment: "Establishes perspective from which interactions with world acquire normative status"
+    cognitive_criterion: "System is cognitive when behavior governed by norm of own continued existence/flourishing, not accurate representation"
+    thompson_quote: "Meaning is generated within the system for the system itself—that is, it is generated and at the same time consumed by the system"
+    cost_language: "Cognition inherently metabolic, precarious, costly—must 'buy time' against entropy"
+    nemetic_translation: "Sense-making as the basic operation of life—meaning generated and consumed by the system itself"
+    key_insight: "Cognition is not about representing world accurately but about maintaining own existence and flourishing"
+
+cross_elemental_synthesis:
+  thompson_whitehead_bridge: "Thompson (enaction) + Whitehead (prehension) = cognition as coordination, not representation"
+  thompson_varela_bridge: "Thompson builds on Varela autopoiesis—life as self-making, cognition as sense-making"
+  thompson_ahmed_bridge: "Thompson (structural coupling) + Ahmed (orientation) = body-environment as mutually specifying"
+  earth_element_resonance: "All three Thompson terms use Earth (▩/σ)—life, metabolism, precarious existence, the costly"
+  nematic_biology: "Thompson makes 'cost' language precise: cognition is life-maintaining sense-making, inherently metabolic and precarious"
+
+meta_insight: "Thompson's enactive framework makes nemetic 'cost' language precise: cognition is not neutral information processing but life-maintaining sense-making that is inherently metabolic, precarious, and thus costly"
+
+---

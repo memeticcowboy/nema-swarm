@@ -1,0 +1,45 @@
+term: "Gaia (Primordial Earth)"
+hex_tag: "#E001"
+nemetic: "Φ(Gaia) = δγ(primordial|self-generating) ∘ β(autochthonous-birth|Uranus-Ourea-Pontus) ∘ μ(maternal-container|everlasting-foundation) ∘ λ(retaliatory-power|Cronus-sickle-Typhon) + ε | :open"
+siml_encoding: "⟨Narrative|cosmogony⟩ ⊳ ⟨Actor|Gaia⟩ ⇄ ⟨Environment|Chaos⟩ → ⟨Value|creative-power⟩ ⊗ ⟨Resource|primordial-force⟩ → ⟨Outcome|Olympian-gods⟩"
+formalism:
+  math_operators: [δγ, β, μ, λ]
+  dim_operators: [Ψ_regenerative, Ψ_exploratory, Ψ_structural, Q_forward]
+  partials: ["∂Φ/∂δγ (primordial cycling)", "∂Φ/∂β (generative branching)", "∂Φ/∂μ (maternal boundary)", "∂Φ/∂λ (retaliatory direction)"]
+  Z_state: "permeable"
+  tendency: "Earth/Exploration → 1"
+  hex: ["0x05", "0x04", "0x06", "0x03"]
+coords:
+  ontology:
+    primary: Its
+    secondary: [I, We, MoreThanHuman]
+  epistemics:
+    dsrp:
+      D: "Gaia vs Chaos vs Uranus"
+      S: "Primordial cosmogony"
+      R: "Mother-Sky union and conflict"
+      P: "Hesiod's Theogony"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "creation-myth"
+  qualia:
+    affect: ["primal-power", "maternal-fury", "creative-urgency"]
+    aesthetic: ["wide-bosomed", "everlasting", "retaliatory"]
+    symbolic: ["sickle", "mountains", "void"]
+    energetic: ["self-generating", "contained-explosion"]
+  agency:
+    type: archetypal
+    voice: ["Primordial Mother", "Creative Void"]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is Gaia distinguished from Chaos? From her offspring?"
+  ≈: "What affective resonance does the maternal archetype carry?"
+  ▲: "What direction does Gaia's retaliatory power aim?"
+  𐂷: "What forms emerge from her autochthonous births?"
+  ☷: "How does primordial cycling become creation?"
+  ⛨: "What boundaries contain and protect her creative power?"
+context_note: "Gaia represents Earth as active creator, not passive ground. She generates without union (autochthonous births), then with Uranus (Titans), then against Uranus (retaliation). The pattern: creation → conflict → new creation. This is δγ (metabolic cycling) at cosmogonic scale, with β (exploratory generation) producing diverse offspring."
+source: "The Elemental and the Ethereal — Memetic Cowboy"
+date_processed: "2026-02-24"
+processed_by: "Claude/SIML"
