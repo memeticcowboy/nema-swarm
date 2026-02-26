@@ -2,7 +2,7 @@
 title: SWARM_BASE_022726
 domain: Cognitive Bias & Epistemic Fragmentation
 session_date: 2026-02-27
-terms_count: 5
+terms_count: 6
 encoding_version: SIML v1.2.1
 thread_version: v2.2
 notation: dual-layer (math operators + dimensional operators + glyphs)
@@ -154,7 +154,46 @@ quick_reference:
   Z_closure_risk_terms: ["#A016", "#A017", "#A018", "#A019"]
   power_over_terms: ["#A018"]
   
+  - term: "Barnum Effect"
+    hex_tag: "#A01B"
+    nemetic: "Φ(BarnumEffect) = σ(specificity-failure|personal-vs-universal) ∘ ρ(resonance-misattribution|felt-accuracy) ∘ λ(direction-projection|self-relevance) ∘ β(feedback-confirmation|subjective-validation) ∘ δγ(cognitive-ease|effortless-pattern-matching) + ε | :projecting"
+    siml_encoding: "⟨Observer|self⟩ ⊳ ⟨Statement|vague⟩ → ⟨Interpretation|personal⟩ ⊗ ⟨Relation|universal-applicability⟩ ⇄ ⟨Value|felt-accuracy⟩ → ⟨Outcome|illusory-specificity⟩"
+    formalism:
+      math_operators: [σ, ρ, λ, β, δγ]
+      dim_operators: [χ, Ψ_exp, Z]
+      partials: ["∂Φ/∂σ (failure to distinguish personal from universal statements)", "∂Φ/∂ρ (resonance misattributed to accuracy)", "∂Φ/∂λ (projection of self-relevance onto vague direction)", "∂Φ/∂β (subjective validation feedback loop)", "∂Φ/∂δγ (cognitive ease from effortless pattern matching)"]
+      Z_state: "sealing (illusory specificity becomes self-evident)"
+      tendency: "Specificity/Universality → 0 (universal feels specific)"
+      hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+    coords:
+      ontology:
+        primary: I
+      agency:
+        type: individual
+        power_mode: Against
+    elemental_emphasis:
+      ∴: "What makes this feel specific to you? Where is the actual boundary between personal and universal?"
+      ≈: "What resonance makes this feel true? Is accuracy being felt where only familiarity exists?"
+      ▲: "Where are you projecting your own meaning? What direction are you supplying to the vague?"
+      𐂷: "What other interpretations could fit? What if this applies equally to anyone?"
+      ☷: "What's the metabolic cost of maintaining this illusion? What truth is being avoided?"
+      ⛨: "What structure enables this projection? What container would hold the actual ambiguity?"
+    context_note: "Named after P.T. Barnum's 'something for everyone' approach, the Forer Effect (1949) demonstrates how vague personality descriptions feel uniquely accurate. AI-generated 'personalized' content exploits this—creating Barnum statements that feel tailored while remaining broadly applicable. The felt accuracy comes from subjective validation, not actual specificity."
+
+quick_reference:
+  tags_by_element_emphasis:
+    air: ["#A016", "#A017", "#A018", "#A019", "#A01A", "#A01B"]
+    water: ["#A017", "#A018", "#A01A", "#A01B"]
+    fire: ["#A017", "#A018", "#A019", "#A01A", "#A01B"]
+    wood: ["#A016", "#A017", "#A018", "#A019", "#A01A", "#A01B"]
+    earth: ["#A017", "#A019", "#A01A", "#A01B"]
+    metal: ["#A016", "#A018", "#A01A", "#A01B"]
+  
+  high_coordination_terms: ["#A016", "#A017", "#A018", "#A019", "#A01A", "#A01B"]
+  Z_closure_risk_terms: ["#A016", "#A017", "#A018", "#A019", "#A01B"]
+  power_over_terms: ["#A018"]
+  
   pathology_risk_terms:
-    choke_risk: ["#A016", "#A017", "#A019", "#A01A"]
+    choke_risk: ["#A016", "#A017", "#A019", "#A01A", "#A01B"]
     flood_risk: ["#A016", "#A018"]
-    burn_risk: ["#A017", "#A019", "#A01A"]
+    burn_risk: ["#A017", "#A019", "#A01A", "#A01B"]
