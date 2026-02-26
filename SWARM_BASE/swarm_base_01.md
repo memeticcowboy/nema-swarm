@@ -53,3 +53,170 @@ elemental_emphasis:
   ⛨: "What structures form when empathy circuits are thinner? What boundaries enable control?"
 context_note: "MRI studies reveal right-wing authoritarians have reduced grey matter in dorsomedial prefrontal cortex (social reasoning), while left-wing authoritarians show thinner right anterior insula (emotional empathy). Both exhibit impulsivity under emotional load. Risk: biological determinism obscures environmental/social construction of political identity."
 ---
+---
+term: "Cognitive Offloading"
+hex_tag: "#A01F"
+nemetic: "Φ(CognitiveOffloading) = σ(memory|external) ∘ ρ(agency|delegated) ∘ λ(effort|minimized) ∘ β(dependency|reinforced) ∘ δγ(metabolic|conserved) + ε | :open"
+siml_encoding: "⟨Cognition|human⟩ ⊳ ⟨Task|complex⟩ → ⟨Memory|external⟩ ⊗ ⟨Processing|AI⟩ ⇄ ⟨Dependency|increased⟩ → ⟨Capacity|atrophied⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between internal and external memory)", "∂Φ/∂ρ (delegation of cognitive agency to AI)", "∂Φ/∂λ (direction toward minimal cognitive effort)", "∂Φ/∂β (feedback loop reinforcing dependency)", "∂Φ/∂δγ (metabolic conservation through offloading)"]
+  Z_state: "permeable (reversible through deliberate practice)"
+  tendency: "Effort/Agency → 0.3 (low effort preference, agency erosion)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is internal memory distinguished from external storage? What cut reveals true knowing?"
+  ≈: "What flows away when we outsource cognition? What resonance is lost between self and knowledge?"
+  ▲: "Where does the path of least resistance lead? What direction does effortless cognition take us?"
+  𐂷: "What cognitive capacities might atrophy? What new forms of knowing could emerge?"
+  ☷: "What's the metabolic cost of maintaining external cognitive infrastructure? What sustains true memory?"
+  ⛨: "What boundaries contain healthy vs harmful cognitive delegation? What structures preserve agency?"
+context_note: "The tendency to outsource memory and thinking to AI systems, leading to potential atrophy of critical thinking skills. Risk: Creates dependency loops where cognitive muscles weaken precisely when they are most needed for discerning AI-generated content."
+---
+
+---
+term: "Attention Fragmentation"
+hex_tag: "#A020"
+nemetic: "Φ(AttentionFrag) = σ(focus|scattered) ∘ ρ(continuity|interrupted) ∘ λ(depth|shallow) ∘ β(notification|reinforced) ∘ δγ(arousal|dopamine) + ε | :structuring"
+siml_encoding: "⟨Attention|human⟩ ⊳ ⟨Stimulus|AI-driven⟩ → ⟨State|fragmented⟩ ⊗ ⟨Continuity|broken⟩ ⇄ ⟨Depth|reduced⟩ → ⟨Cognition|surface⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between focused and scattered attention)", "∂Φ/∂ρ (relational continuity interrupted by notifications)", "∂Φ/∂λ (direction toward shallow processing)", "∂Φ/∂β (feedback loop of notification-reward)", "∂Φ/∂δγ (dopaminergic arousal from interruptions)"]
+  Z_state: "sealing (attention patterns become increasingly difficult to restore)"
+  tendency: "Depth/Breadth → 0.2 (strong preference for breadth over depth)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is deep focus distinguished from scattered attention? What cut reveals true concentration?"
+  ≈: "What flows between interruptions? What emotional residue accumulates in fragmented attention?"
+  ▲: "Where does the pull of notifications want to take us? What direction does dopamine drive?"
+  𐂷: "What forms of attention might we evolve? What if fragmentation is adaptive to new environments?"
+  ☷: "What's the metabolic cost of constant context-switching? What sustains deep attention?"
+  ⛨: "What boundaries protect attention? What structures enable sustained focus?"
+context_note: "AI-driven notifications and content streams fragment human attention, making deep concentration increasingly difficult. Risk: Creates a self-reinforcing cycle where shallow processing becomes the default mode, eroding capacity for complex reasoning."
+---
+
+---
+term: "Emotional Numbing"
+hex_tag: "#A021"
+nemetic: "Φ(EmoNumbing) = σ(affect|flattened) ∘ ρ(empathy|diminished) ∘ λ(intimacy|simulated) ∘ β(consumption|accelerated) ∘ δγ(saturation|overwhelm) + ε | :open"
+siml_encoding: "⟨Emotion|human⟩ ⊳ ⟨Content|AI-generated⟩ → ⟨Response|flattened⟩ ⊗ ⟨Empathy|reduced⟩ ⇄ ⟨Intimacy|simulated⟩ → ⟨Connection|attenuated⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic and flattened affect)", "∂Φ/∂ρ (relational empathy diminished through mediation)", "∂Φ/∂λ (direction toward simulated intimacy)", "∂Φ/∂β (feedback loop of accelerated content consumption)", "∂Φ/∂δγ (emotional overwhelm leading to protective shutdown)"]
+  Z_state: "permeable (emotional responsiveness can be restored)"
+  tendency: "Authenticity/Simulation → 0.4 (drift toward simulated emotion)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is authentic emotion distinguished from AI-simulated affect? What cut reveals true feeling?"
+  ≈: "What emotional resonance is lost in AI-mediated communication? What flows between humans?"
+  ▲: "Where does the pursuit of efficient communication lead? What direction does optimization take?"
+  𐂷: "What new forms of emotional expression might emerge? What if numbness is a transition state?"
+  ☷: "What's the metabolic cost of processing endless AI-generated content? What sustains emotional vitality?"
+  ⛨: "What boundaries protect emotional authenticity? What structures preserve human connection?"
+context_note: "Overexposure to AI-generated content flattens emotional response, reducing empathy and authentic human connection. Risk: Creates a generation less capable of deep emotional engagement, mistaking simulated intimacy for genuine relationship."
+---
+
+---
+term: "Algorithmic Echo Chamber"
+hex_tag: "#A022"
+nemetic: "Φ(EchoChamber) = σ(diversity|filtered) ∘ ρ(exposure|homogenized) ∘ λ(confirmation|reinforced) ∘ β(belief|entrenched) ∘ δγ(cognitive|ease) ∘ μ(boundary|hardened) + ε | :sealed"
+siml_encoding: "⟨Perspective|user⟩ ⊳ ⟨Algorithm|curation⟩ → ⟨Exposure|filtered⟩ ⊗ ⟨Diversity|reduced⟩ ⇄ ⟨Confirmation|increased⟩ → ⟨Worldview|entrenched⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between diverse and filtered information)", "∂Φ/∂ρ (relational exposure homogenized by algorithm)", "∂Φ/∂λ (direction toward confirmation bias)", "∂Φ/∂β (feedback loop entrenching beliefs)", "∂Φ/∂δγ (cognitive ease of familiar content)", "∂Φ/∂μ (boundary hardening around beliefs)"]
+  Z_state: "sealed (worldview becomes increasingly impermeable to counter-evidence)"
+  tendency: "Openness/Certainty → 0.1 (strong closure toward certainty)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is diverse perspective distinguished from filtered content? What cut reveals algorithmic curation?"
+  ≈: "What flows between like-minded individuals? What resonance amplifies shared belief?"
+  ▲: "Where does confirmation bias lead? What direction does algorithmic curation drive us?"
+  𐂷: "What perspectives lie outside the chamber? What if the algorithm could be inverted?"
+  ☷: "What's the metabolic cost of maintaining a filtered worldview? What sustains epistemic openness?"
+  ⛨: "What boundaries define the echo chamber? What structures enable epistemic diversity?"
+context_note: "AI algorithms filter information exposure, reinforcing existing beliefs and reducing exposure to diverse perspectives. Risk: λ-lock where direction becomes fixed, Z-sealed where worldview becomes impermeable, creating polarized epistemic communities."
+---
+
+---
+term: "Creative Dependency"
+hex_tag: "#A023"
+nemetic: "Φ(CreativeDep) = σ(origin|external) ∘ ρ(expression|mediated) ∘ λ(generation|automated) ∘ β(reliance|reinforced) ∘ δγ(effort|minimized) + ε | :structuring"
+siml_encoding: "⟨Creativity|human⟩ ⊳ ⟨Tool|AI⟩ → ⟨Output|generated⟩ ⊗ ⟨Agency|delegated⟩ ⇄ ⟨Skill|atrophied⟩ → ⟨Joy|diminished⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between human and AI-generated creativity)", "∂Φ/∂ρ (relational expression mediated by technology)", "∂Φ/∂λ (direction toward automated generation)", "∂Φ/∂β (feedback loop reinforcing reliance)", "∂Φ/∂δγ (minimized effort through automation)"]
+  Z_state: "permeable (creative capacity can be restored through practice)"
+  tendency: "Effort/Expression → 0.3 (preference for easy generation over difficult creation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is authentic creation distinguished from AI-generated content? What cut reveals true originality?"
+  ≈: "What flows through the creative process? What joy is lost when creation is automated?"
+  ▲: "Where does the path of least creative resistance lead? What direction does convenience drive?"
+  𐂷: "What creative capacities might be developed alongside AI? What hybrid forms might emerge?"
+  ☷: "What's the metabolic cost of creative dependency? What sustains authentic creative practice?"
+  ⛨: "What boundaries define healthy AI assistance vs harmful dependency? What structures preserve creative agency?"
+context_note: "Over-reliance on AI for creative tasks diminishes personal creativity and the intrinsic joy of creation. Risk: Generational atrophy of creative skills, with younger users never developing baseline creative capacities before delegating to AI."
+---
+
+---
+term: "Trust Erosion"
+hex_tag: "#A024"
+nemetic: "Φ(TrustErosion) = σ(authenticity|uncertain) ∘ ρ(connection|suspected) ∘ λ(skepticism|heightened) ∘ β(doubt|reinforced) ∘ δγ(anxiety|elevated) + ε | :open"
+siml_encoding: "⟨Interaction|human⟩ ⊳ ⟨Medium|AI-mediated⟩ → ⟨Authenticity|questioned⟩ ⊗ ⟨Trust|diminished⟩ ⇄ ⟨Skepticism|heightened⟩ → ⟨Connection|fragile⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic and AI-generated content)", "∂Φ/∂ρ (relational connection under suspicion)", "∂Φ/∂λ (direction toward heightened skepticism)", "∂Φ/∂β (feedback loop reinforcing doubt)", "∂Φ/∂δγ (elevated anxiety from uncertainty)"]
+  Z_state: "permeable (trust can be rebuilt through verification)"
+  tendency: "Trust/Skepticism → 0.7 (high skepticism, low default trust)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is authentic communication distinguished from AI-generated content? What cut reveals the human?"
+  ≈: "What flows between humans when authenticity is uncertain? What resonance is disrupted?"
+  ▲: "Where does pervasive skepticism lead? What direction does doubt drive us?"
+  𐂷: "What new forms of trust might emerge? What if verification becomes a creative act?"
+  ☷: "What's the metabolic cost of constant verification? What sustains authentic connection?"
+  ⛨: "What boundaries protect trust? What structures enable authentic human interaction?"
+context_note: "Widespread AI-generated content creates pervasive uncertainty about authenticity, eroding trust in human communication. Risk: Paralyzing skepticism where all communication is suspect, destroying the foundation of social cohesion."
+---
