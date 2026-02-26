@@ -301,3 +301,30 @@ elemental_emphasis:
   ⛨: "What structures contain framing effects? What boundaries protect decision-making from manipulation?"
 context_note: "Identical information presented in different ways (survival vs mortality rates, fat-free vs contains fat) produces systematically different decisions. Risk: Manipulators exploit framing to guide choices without changing facts—democracies and markets become vulnerable to presentation-layer attacks on judgment."
 ---
+---
+term: "Source Monitoring Error"
+hex_tag: "#A028"
+nemetic: "Φ(SourceMonitor) = σ(internal|external) ∘ ρ(memory-origin|confused) ∘ λ(attribution|misdirected) ∘ β(belief|reinforced) ∘ δγ(absorption|heightened) ∘ μ(reality-boundary|permeable) + ε | :open"
+siml_encoding: "⟨Memory|formed⟩ ⊳ ⟨Source|ambiguous⟩ → ⟨Origin|misattributed⟩ ⊗ ⟨Experience|internal⟩ ⇄ ⟨Content|external⟩ → ⟨Belief|false⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between internally and externally generated content)", "∂Φ/∂ρ (confusion about the relational origin of memories)", "∂Φ/∂λ (direction of attribution toward personal experience)", "∂Φ/∂β (feedback loop reinforcing false beliefs)", "∂Φ/∂δγ (heightened absorption enabling vivid imagination)", "∂Φ/∂μ (permeable boundary between reality and imagination)"]
+  Z_state: "permeable (can be corrected through source verification)"
+  tendency: "Imagination/Reality → 0.6 (strong imagination, weaker reality monitoring)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is a genuine memory distinguished from an imagined one? What cut reveals the true source?"
+  ≈: "What flows between internal imagination and external media? What resonance blurs their boundaries?"
+  ▲: "Where does the drive for meaning direct memory attribution? What direction does the need for explanation take?"
+  𐂷: "What if source confusion reveals creative capacity rather than deficit? What narratives might be consciously constructed?"
+  ☷: "What's the metabolic cost of maintaining vigilance against memory distortion? What sustains reality monitoring?"
+  ⛨: "What structures enable accurate source monitoring? What boundaries protect memory integrity?"
+context_note: "A cognitive error where the origin of a memory is misattributed—confusing imagination with perception, dreams with events, or media content with personal experience. Common in alien abduction beliefs, false memory syndrome, and AI-hallucination recall. Risk: AI-generated content may become increasingly difficult to distinguish from genuine experience, leading to widespread source monitoring failures and epistemic instability."
+---
