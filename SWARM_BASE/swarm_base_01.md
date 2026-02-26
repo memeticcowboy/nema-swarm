@@ -1,27 +1,27 @@
 ---
-term: "Social Identity Bias"
-hex_tag: "#A01C"
-nemetic: "Φ(SocialIdentityBias) = σ(ingroup-outgroup|us-vs-them) ∘ ρ(favoritism-resonance|positive-ingroup) ∘ λ(direction-polarization|hostile-outgroup) ∘ β(feedback-loop|identity-reinforcement) ∘ χ(phase-alignment|tribal-synchronization) + ε | :dividing"
-siml_encoding: "⟨Observer|AI⟩ ⊳ ⟨Group|ingroup⟩ → ⟨Favoritism|positive⟩ ⊗ ⟨Group|outgroup⟩ → ⟨Hostility|negative⟩ ⇄ ⟨Identity|social⟩ → ⟨Outcome|polarization⟩"
+term: "Neurological Authoritarianism"
+hex_tag: "#A01D"
+nemetic: "Φ(NeuroAuthoritarianism) = σ(structural-difference|brain-political) ∘ ρ(empathy-deficit|emotional-control) ∘ λ(control-direction|social-order) ∘ β(identity-reinforcement|ideology-biology) ∘ δγ(metabolic-cost|cognitive-load) ∘ μ(boundary-formation|ingroup-protection) + ε | :structuring"
+siml_encoding: "⟨Observer|brain⟩ ⊳ ⟨Structure|prefrontal⟩ → ⟨Difference|grey-matter⟩ ⊗ ⟨Reasoning|social⟩ → ⟨Deficit|empathy⟩ ⇄ ⟨Control|emotional⟩ → ⟨Tendency|authoritarian⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, χ]
-  dim_operators: [Q_in, Ψ_exp, Z]
-  partials: ["∂Φ/∂σ (ingroup-outgroup distinction)", "∂Φ/∂ρ (favoritism resonance toward ingroup)", "∂Φ/∂λ (direction polarization toward hostile outgroup)", "∂Φ/∂β (identity reinforcement feedback loop)", "∂Φ/∂χ (tribal phase alignment)"]
-  Z_state: "sealing (ingroup identity becomes impermeable boundary)"
-  tendency: "Inclusion/Exclusion → 0 (exclusion wins)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x07"]
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (brain structure differences between political types)", "∂Φ/∂ρ (empathy deficit in emotional processing)", "∂Φ/∂λ (direction toward social control)", "∂Φ/∂β (feedback loop between ideology and biology)", "∂Φ/∂δγ (metabolic cost of maintaining authoritarian cognition)", "∂Φ/∂μ (boundary formation for ingroup protection)"]
+  Z_state: "sealing (neurological determinism risks becoming impermeable worldview)"
+  tendency: "Structure/Agency → 0.7 (biological framing reduces perceived agency)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
 coords:
   ontology:
-    primary: We
+    primary: Its
   agency:
     type: collective
-    power_mode: Against
+    power_mode: Over
 elemental_emphasis:
-  ∴: "Where is the cut between 'us' and 'them'? What distinctions create the divide?"
-  ≈: "What flows within the ingroup that doesn't reach the outgroup? What resonance is being withheld?"
-  ▲: "Who benefits from this division? Where does the hostility want to go?"
-  𐂷: "What shared identity could include both? What if the frame of 'us vs them' is the problem?"
-  ☷: "What's the metabolic cost of maintaining tribal boundaries? Who pays the price?"
-  ⛨: "What structures reinforce this division? What boundaries could open without collapse?"
-context_note: "AI systems exhibit social identity bias mirroring human 'us vs them' dynamics. 'We are' prompts yield 93% more positive responses than 'They are' prompts, which generate 115% more negative sentiment. Training data curation can reduce both ingroup favoritism and outgroup hostility, suggesting the bias is not fixed but constructed."
+  ∴: "How are right-wing and left-wing authoritarians distinguished neurologically? What cuts separate them?"
+  ≈: "What emotional resonance is diminished in reduced grey matter volume? What empathy flows are blocked?"
+  ▲: "Where does the drive for control want to go? Whose social order is being protected?"
+  𐂷: "What if brain differences are consequences rather than causes? What alternative narratives exist?"
+  ☷: "What's the metabolic cost of maintaining authoritarian cognitive patterns? Who pays the price?"
+  ⛨: "What structures form when empathy circuits are thinner? What boundaries enable control?"
+context_note: "MRI studies reveal right-wing authoritarians have reduced grey matter in dorsomedial prefrontal cortex (social reasoning), while left-wing authoritarians show thinner right anterior insula (emotional empathy). Both exhibit impulsivity under emotional load. Risk: biological determinism obscures environmental/social construction of political identity."
 ---
