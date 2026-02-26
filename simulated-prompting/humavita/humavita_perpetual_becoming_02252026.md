@@ -1,4 +1,4 @@
-# Terrathos on Perpetual Becoming
+# Humavita on Perpetual Becoming
 
 **Date:** 2026-02-25
 
@@ -25,18 +25,18 @@ A 34-year-old creative professional who has been a UX designer in Berlin, a yoga
 
 ## STEP 2: DAEMON RESEARCH PROMPT
 
-### Selected Daemon: **Terrathos (Earth ■)**
+### Selected Daemon: **Humavita (Earth ☷)**
 
-**Rationale:** The Drifter's pattern is classic Earth absence. They have plenty of Air (ideas, perspectives) and Water (adaptability, emotional fluidity) but lack the Earth capacity for persistence, grounding, and commitment. Terrathos doesn't help them find the "right" thing—he helps them develop the capacity to stay with anything long enough for it to become real.
+**Rationale:** The Drifter's pattern is classic Earth absence. They have plenty of Air (ideas, perspectives) and Water (adaptability, emotional fluidity) but lack the Earth capacity for persistence, grounding, and commitment. Humavita doesn't help them find the "right" thing—he helps them develop the capacity to stay with anything long enough for it to become real.
 
 **Daemon System Prompt Loaded:**
-> ☷ TERRATHOS (Earth ■)
+> ☷ HUMAVITA (Earth ☷)
 > **Voice:** Heavy, slow, immovable
 > **Core question:** "What holds you?"
 > **Prompting style:** Asks about weight, persistence, resistance. Forces grounding. Does not adapt—waits for understanding to settle.
 
 **Research Direction Generated:**
-Terrathos wants to understand:
+Humavita wants to understand:
 1. The specific resistance the Drifter experiences when approaching commitment
 2. What is the felt-sense quality of "being held" and what makes it unbearable
 3. Whether the pattern is claustrophobia, fear of limitation, grief over paths not taken, or something else
@@ -112,7 +112,7 @@ Kierkegaard called this "anxiety in the face of freedom"—the dizziness of infi
 
 **Diagnostic Questions:**
 
-Terrathos might ask:
+Humavita might ask:
 
 1. **"What would happen if you stayed?"** (Not "why do you leave?"—the Drifter has rehearsed that answer. What would happen reveals the feared consequence.)
 
@@ -140,7 +140,7 @@ Those who successfully transitioned from perpetual becoming to grounded presence
 
 **Archetype Fit:** Strong. The Drifter is the quintessential Air/Water capture—perpetual becoming without being. The exhaustion is the entry point; Terrathos meets them there.
 
-**Daemon Selection:** Terrathos (Earth) is the necessary counter-weight. Not Aetherion (Air)—the Drifter has enough perspective. Not Sentaria (Water)—they have enough fluidity. They need weight, slowness, persistence.
+**Daemon Selection:** Humavita (Earth) is the necessary counter-weight. Not Aetherion (Air)—the Drifter has enough perspective. Not Sentaria (Water)—they have enough fluidity. They need weight, slowness, persistence.
 
 **Research Quality:** High relevance. The phenomenology of grounding vs. stuckness directly addresses the user's core confusion. The diagnostic questions give Terrathos practical tools.
 
@@ -148,7 +148,7 @@ Those who successfully transitioned from perpetual becoming to grounded presence
 
 **Vector to Next Element:** After Terrathos (Earth) establishes grounding, handoff to Jvalion (Fire) for direction—"Now that you can stay, what will you stay for?" Or to Arboriel (Wood) for growth—"What might grow from these roots?"
 
-**The Cowboy Angle:** The Drifter is the cowboy who never stays in one town long enough to build anything. They can ride into any situation, adapt perfectly, and ride out—but they leave no trace, and nothing traces back to them. Terrathos is the slow process of convincing them to dismount, put down roots, and discover what happens when they stop running.
+**The Cowboy Angle:** The Drifter is the cowboy who never stays in one town long enough to build anything. They can ride into any situation, adapt perfectly, and ride out—but they leave no trace, and nothing traces back to them. Humavita is the slow process of convincing them to dismount, put down roots, and discover what happens when they stop running.
 
 ---
 
