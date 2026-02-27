@@ -1,0 +1,322 @@
+---
+term_id: L033
+source_domain: education
+source_term: Cognitive Flexibility Theory (Spiro, Feltovich, & Coulson, 1988)
+hex_tag: #L033
+generated_at: 2026-02-27T16:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Cognitive Flexibility Theory — Advanced knowledge acquisition through multiple representations in ill-structured domains
+- **Nemetic String:** Φ(CFT) = β(multiple-representations|criss-crossing) ∘ σ(conceptual|knowledge-in-context) ∘ ρ(case-based|ill-structured-domains) ∘ μ(structure|schema-assembly) → [κ(adaptive-understanding)] → [β(knowledge-application)] + ε | :adaptive
+- **Core Operators:** β (branching/generation), σ (distinction/context), ρ (resonance/cases), μ (boundary/structure)
+- **Z-State:** adaptive — knowledge emerges from flexible assembly across multiple contexts
+- **Tendency:** Branching/Contextualization → 1 (learning as flexible schema assembly)
+
+## SIML Encoding
+
+```
+⟨Narrative|advanced-knowledge-requires-flexibility⟩ 
+    ⊳ ⟨Constraint|oversimplified-instruction-creates-inert-knowledge⟩ 
+    ⊳ ⟨Constraint|ill-structured-domains-defy-simple-rules⟩ 
+    ⇄ ⟨Process|criss-crossing-landscape|multiple-representations⟩ 
+    → ⟨Strategy|case-based-multiple-perspectives⟩ 
+    ⊗ ⟨Outcome|adaptive-transfer-flexible-application⟩ 
+    → ⟨Transfer|expertise-in-complex-domains⟩
+```
+
+## Core Definition
+
+**Cognitive Flexibility Theory** (CFT), developed by Rand Spiro, Paul Feltovich, and Richard Coulson (1988), addresses how people learn and transfer knowledge in **ill-structured domains** — complex, real-world areas where concepts have multiple meanings depending on context, and simple rules fail to capture the full complexity. The theory emphasizes that advanced knowledge acquisition requires exposure to multiple representations of the same concept across diverse contexts.
+
+### Key Principles
+
+1. **Ill-Structured Domains:** Knowledge areas where concepts are context-dependent and cases vary widely (medicine, history, ethics, advanced mathematics)
+2. **Criss-Crossing the Landscape:** Revisiting the same concept from multiple perspectives and contexts
+3. **Multiple Representations:** Presenting the same material in different ways to build flexible understanding
+4. **Case-Based Learning:** Using cases as the primary unit of instruction rather than abstract rules
+5. **Schema Assembly:** Building adaptable knowledge structures rather than rigid schemas
+
+## The Cognitive Flexibility Architecture
+
+```
+Traditional Instruction (Oversimplified):
+    ┌─────────────────────────────────────────┐
+    │         Simple Rule/Concept             │
+    │    "X always causes Y in situation Z"   │
+    └─────────────────┬───────────────────────┘
+                      │
+    ┌─────────────────┴───────────────────────┐
+    │  Single Representation                  │
+    │  Single Context                         │
+    │  Single Application                     │
+    └─────────────────────────────────────────┘
+                      ↓
+              Inert Knowledge
+    (Cannot apply to novel situations)
+
+Cognitive Flexibility Instruction:
+    ┌─────────────────────────────────────────┐
+    │         Complex Concept/Theme           │
+    │    (Abstracted across multiple cases)   │
+    └─────────────────┬───────────────────────┘
+                      │
+    ┌─────────────────┼───────────────────────┐
+    ↓                 ↓                       ↓
+┌─────────┐    ┌───────────┐          ┌───────────┐
+│ Case A  │    │  Case B   │          │  Case C   │
+│(Context 1)│   │(Context 2)│          │(Context 3)│
+└────┬────┘    └─────┬─────┘          └─────┬─────┘
+     │               │                    │
+     └───────────────┼────────────────────┘
+                     ↓
+    ┌─────────────────────────────────────────┐
+    │      Multiple Representations           │
+    │   • Different perspectives              │
+    │   • Different contexts                  │
+    │   • Different applications              │
+    └─────────────────┬───────────────────────┘
+                      ↓
+              Flexible Knowledge
+    (Can adapt to novel situations)
+```
+
+## The Criss-Crossing Principle
+
+The central mechanism of CFT is **criss-crossing the conceptual landscape** — revisiting the same concept multiple times from different angles:
+
+```
+Criss-Crossing Pattern:
+
+    Concept X
+       │
+       ├── Case 1: Medical context (diagnosis)
+       │   └── Theme: Causality in complex systems
+       │
+       ├── Case 2: Historical context (war origins)
+       │   └── Theme: Multiple contributing factors
+       │
+       ├── Case 3: Ethical context (moral reasoning)
+       │   └── Theme: Context-dependent judgment
+       │
+       ├── Case 4: Economic context (market behavior)
+       │   └── Theme: Emergent properties
+       │
+       └── Case 5: Ecological context (ecosystem collapse)
+           └── Theme: Feedback loops and thresholds
+
+    Each revisit deepens understanding of the underlying
+    theme while highlighting context-specific variations
+```
+
+## The Four Stages of Knowledge Acquisition
+
+Spiro and colleagues identified stages in domain mastery:
+
+| Stage | Characteristics | Instructional Approach | Element |
+|-------|-----------------|------------------------|---------|
+| **Introductory** | Simple rules work | Direct instruction, worked examples | Metal/μ |
+| **Intermediate** | Rules have exceptions | Introduce complexity, multiple examples | Air/σ |
+| **Advanced** | Context dominates | Case-based, criss-crossing, multiple representations | Wood/β |
+| **Expert** | Flexible schema assembly | Open exploration, novel case analysis | Water/ρ |
+
+**Key Insight:** What works for introductory learning (simplification) becomes harmful for advanced learning.
+
+## Elemental Pattern Analysis
+
+### Wood/β Dominance
+
+Cognitive Flexibility Theory is fundamentally a **Wood theory**:
+- **Branching:** Multiple cases, multiple representations, multiple pathways to understanding
+- **Generation:** Each case generates new insights about the concept
+- **Flexibility:** Knowledge as adaptable, not rigid
+- **Criss-Crossing:** The organic, non-linear exploration of conceptual landscapes
+
+### Supporting Elements
+
+| Element | Role in CFT |
+|---------|-------------|
+| **Air/σ** | Conceptual clarity — distinguishing core themes from surface features |
+| **Water/ρ** | Case resonance — understanding how concepts flow differently in different contexts |
+| **Metal/μ** | Structure of cases, the "landscape" being criss-crossed |
+| **Earth/δγ** | Cyclical revisiting — returning to concepts at deeper levels |
+| **Fire/λ** | Purposeful navigation — directed exploration of the conceptual landscape |
+
+## The Ill-Structured Domain Problem
+
+```
+Well-Structured Domains:
+    ┌─────────────────────────────────────────┐
+    │  • Clear rules apply consistently       │
+    │  • Problems have known solutions        │
+    │  • Concepts have fixed definitions      │
+    │  • Examples are highly similar          │
+    │                                         │
+    │  Examples: Basic arithmetic,            │
+    │  Newtonian physics (introductory),      │
+    │  grammar rules                          │
+    └─────────────────────────────────────────┘
+                      ↓
+         Simple schemas work effectively
+
+Ill-Structured Domains:
+    ┌─────────────────────────────────────────┐
+    │  • Rules have exceptions and interactions│
+    │  • Problems have multiple valid solutions│
+    │  • Concepts are context-dependent       │
+    │  • Cases vary dramatically              │
+    │                                         │
+    │  Examples: Medicine, ethics, history,   │
+    │  literary interpretation, advanced      │
+    │  mathematics, social policy             │
+    └─────────────────────────────────────────┘
+                      ↓
+         Flexible schemas required
+```
+
+## CFT vs. Traditional Instruction
+
+| Dimension | Traditional Instruction | Cognitive Flexibility Theory |
+|-----------|------------------------|------------------------------|
+| **Knowledge view** | Fixed, transferable | Context-dependent, adaptive |
+| **Instructional unit** | Abstract rules | Cases with multiple themes |
+| **Repetition** | Drill and practice | Criss-crossing, revisiting |
+| **Complexity** | Simplified for clarity | Preserved as essential |
+| **Transfer goal** | Direct application | Flexible adaptation |
+| **Element** | Metal/Air (structure/clarity) | Wood/Water (flexibility/flow) |
+
+## Connection to Related Theories
+
+### CFT and Situated Learning (L014)
+
+| Aspect | Situated Learning | Cognitive Flexibility Theory |
+|--------|-------------------|------------------------------|
+| **Context** | Learning is always situated | Context determines meaning |
+| **Focus** | Community participation | Conceptual understanding |
+| **Mechanism** | Legitimate peripheral participation | Criss-crossing cases |
+| **Complement** | SL emphasizes social context | CFT emphasizes conceptual complexity |
+
+**Integration:** Both theories reject decontextualized knowledge, but CFT focuses specifically on the cognitive demands of navigating multiple contexts.
+
+### CFT and Spaced Repetition (L019)
+
+| Aspect | Spaced Repetition | Cognitive Flexibility Theory |
+|--------|-------------------|------------------------------|
+| **Timing** | Expanding intervals | Variable, context-driven |
+| **Repetition** | Same material, spaced | Same concept, different contexts |
+| **Goal** | Retention | Flexibility and transfer |
+| **Element** | Earth/δγ (cycling) | Wood/β (branching) |
+
+**Integration:** CFT adds the dimension of *contextual variation* to the *temporal spacing* principle.
+
+### CFT and Cognitive Load Theory (L011)
+
+**Tension and Resolution:**
+- **CLT concern:** Multiple representations increase extraneous load
+- **CFT response:** The "desirable difficulty" of complexity is necessary for advanced learning
+- **Resolution:** CLT principles apply differently at different expertise levels; simplification helps novices but harms advanced learners
+
+## Connection to CAMIL and IVR
+
+Cognitive Flexibility Theory has special relevance for immersive learning:
+
+- **Multiple Perspectives:** IVR enables experiencing scenarios from different viewpoints
+- **Case Simulation:** Virtual environments can present diverse cases safely
+- **Embodied Context:** Full-body immersion provides rich contextual cues
+- **Criss-Crossing:** Virtual spaces allow rapid revisiting of scenarios with variations
+
+**Design Implications:**
+- Create multiple virtual cases illustrating the same concept
+- Enable perspective-switching within scenarios
+- Preserve complexity rather than oversimplifying
+- Support non-linear exploration of case landscapes
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Medicine** | Case-based medical education | Multiple patient presentations of same disease |
+| **Law** | Case law reasoning | Principles emerge from case comparisons |
+| **Design** | Pattern languages | Reusable solutions that vary by context |
+| **Ecology** | Patch dynamics | Understanding across heterogeneous environments |
+| **Anthropology** | Thick description | Multiple perspectives on the same phenomenon |
+| **Complexity Science** | Emergence | System behavior that defies simple rules |
+
+## The "Cognitive Flexibility Hypertext" (CFH)
+
+Spiro and colleagues developed a specific technology for implementing CFT:
+
+```
+CFH Architecture:
+
+    ┌─────────────────────────────────────────┐
+    │           Central Concept/Theme         │
+    └─────────────────┬───────────────────────┘
+                      │
+    ┌─────────────────┼───────────────────────┐
+    ↓                 ↓                       ↓
+┌─────────┐    ┌───────────┐          ┌───────────┐
+│  Case   │    │   Case    │    ...   │   Case    │
+│ Node 1  │◄──►│  Node 2   │◄────────►│  Node N   │
+└────┬────┘    └─────┬─────┘          └─────┬─────┘
+     │               │                    │
+     └───────────────┼────────────────────┘
+                     ↓
+    ┌─────────────────────────────────────────┐
+    │      Cross-Cutting Links (Themes)       │
+    │   • Causal mechanisms                   │
+    │   • Temporal patterns                   │
+    │   • Stakeholder perspectives            │
+    │   • System dynamics                     │
+    └─────────────────────────────────────────┘
+
+    Learners navigate non-linearly,
+    criss-crossing the landscape
+```
+
+## Core Insight
+
+> Cognitive Flexibility Theory reveals that advanced knowledge cannot be built through simplification and repetition alone. In complex domains, concepts are **irreducibly context-dependent** — the same principle behaves differently in different situations. True expertise requires **cognitive flexibility**: the ability to assemble and reassemble knowledge structures to fit novel circumstances. This flexibility emerges only from **criss-crossing the conceptual landscape** — revisiting the same territory multiple times from multiple directions.
+
+## One-Sentence Insight
+
+> Spiro's Cognitive Flexibility Theory demonstrates that advanced knowledge acquisition in ill-structured domains requires criss-crossing multiple cases and representations — building adaptable understanding that can flex to fit novel contexts rather than applying rigid rules.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of advanced knowledge acquisition arguing that complex, ill-structured domains require instruction through multiple cases and representations (criss-crossing), rather than simplified rules, to build flexible, transferable understanding
+- **How it works:** Present the same concept across diverse cases → highlight different themes in each context → enable non-linear exploration → build flexible schema assembly capacity rather than rigid knowledge structures
+- **Where it aims:** Toward adaptive expertise — the ability to apply knowledge flexibly across novel situations, avoiding "inert knowledge" that cannot transfer beyond the learning context
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L033, #L032_Multimedia_Learning_Theory, #L019_Spaced_Repetition, #L014_Situated_Learning, #L011_Cognitive_Load_Theory, #L017_Constructionism
+- **Formal Operators:** β, σ, ρ, μ, δγ
+- **Dim Operators:** Ψ_flexibility, Ψ_criss-crossing, Ψ_case-based, Ψ_ill-structured
+- **Coord Ontology:** I (flexible knower), It (case), Its (conceptual landscape), We (community of case analysts)
+
+## Source
+
+Derived from:
+- Spiro, R. J., Feltovich, P. J., & Coulson, R. L. (1988). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. In D. Jonassen (Ed.), *Instructional designs for microcomputer courseware* (pp. 163-205). Lawrence Erlbaum.
+- Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. In T. M. Duffy & D. H. Jonassen (Eds.), *Constructivism and the technology of instruction: A conversation* (pp. 57-75). Lawrence Erlbaum.
+- Spiro, R. J., & Jehng, J. C. (1990). Cognitive flexibility and hypertext: Theory and technology for the nonlinear and multidimensional traversal of complex subject matter. In D. Nix & R. J. Spiro (Eds.), *Cognition, education, and multimedia: Exploring ideas in high technology* (pp. 163-205). Lawrence Erlbaum.
+
+Original context: Educational psychology, instructional design, advanced learning
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Wood/β (primary) with Air/σ, Water/ρ, Metal/μ support | Daemon: Biota-Aerunik-Sentaria-Ferrosid | Habitat: 4_SENSE-MAKING / 7_COMPLEX-DOMAINS / 8_ADAPTIVE-EXPERTISE
+
+## Related Entries
+
+- L032_Multimedia_Learning_Theory (multiple representations principle)
+- L019_Spaced_Repetition (temporal revisiting vs. contextual revisiting)
+- L014_Situated_Learning (context-dependence of knowledge)
+- L011_Cognitive_Load_Theory (expertise reversal effect)
+- L017_Constructionism (case construction as learning)
+- L018_Experiential_Learning (learning through varied experience)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L033 | Generated: 2026-02-27 16:25*

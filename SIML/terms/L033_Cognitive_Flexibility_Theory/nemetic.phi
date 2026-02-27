@@ -1,0 +1,50 @@
+{
+  "term_id": "L033",
+  "nemetic_string": "Φ(CFT) = β(multiple-representations|criss-crossing) ∘ σ(conceptual|knowledge-in-context) ∘ ρ(case-based|ill-structured-domains) ∘ μ(structure|schema-assembly) → [κ(adaptive-understanding)] → [β(knowledge-application)] + ε | :adaptive",
+  "core_operators": ["β", "σ", "ρ", "μ"],
+  "z_state": "adaptive",
+  "tendency": "Branching/Contextualization → 1",
+  "elemental_profile": {
+    "primary": "Wood/β",
+    "secondary": ["Air/σ", "Water/ρ"],
+    "supporting": ["Metal/μ", "Earth/δγ"]
+  },
+  "daemon_mapping": {
+    "primary": "Biota",
+    "secondary": ["Aerunik", "Sentaria"],
+    "supporting": ["Ferrosid"]
+  },
+  "habitat": ["4_SENSE-MAKING", "7_COMPLEX-DOMAINS", "8_ADAPTIVE-EXPERTISE"],
+  "coord_ontology": {
+    "I": "flexible knower",
+    "It": "case",
+    "Its": "conceptual landscape",
+    "We": "community of case analysts"
+  },
+  "cross_references": [
+    "L032_Multimedia_Learning_Theory",
+    "L019_Spaced_Repetition",
+    "L014_Situated_Learning",
+    "L011_Cognitive_Load_Theory",
+    "L017_Constructionism",
+    "L018_Experiential_Learning"
+  ],
+  "diagnostic_markers": {
+    "well_structured_domain": false,
+    "ill_structured_domain": true,
+    "requires_multiple_representations": true,
+    "case_based": true,
+    "criss_crossing_required": true,
+    "flexibility_emphasis": true,
+    "schema_assembly_vs_acquisition": true
+  },
+  "instructional_implications": {
+    "avoid_oversimplification": true,
+    "use_case_based_instruction": true,
+    "enable_criss_crossing": true,
+    "preserve_complexity": true,
+    "multiple_perspectives": true,
+    "non_linear_navigation": true
+  },
+  "generated_at": "2026-02-27T16:25:00+08:00"
+}
