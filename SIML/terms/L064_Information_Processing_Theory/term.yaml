@@ -1,0 +1,373 @@
+---
+term_id: L064
+source_domain: education
+source_term: Information Processing Theory (Atkinson & Shiffrin, 1968; Craik & Lockhart, 1972)
+hex_tag: #L064
+generated_at: 2026-02-28T01:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Information Processing Theory — Cognitive architecture for learning through encoding, storage, and retrieval
+- **Nemetic String:** Φ(IPT) = σ(encoding|sensory-attention) ∘ μ(structure|storage-hierarchies) ∘ δγ(cycling|rehearsal-consolidation) ∘ σ(retrieval|distinction-access) → [σ+μ+δγ+σ(cognitive-processing)] → [κ(knowledge-organization)] + ε | :structured
+- **Core Operators:** σ (air/distinction/attention-encoding), μ (metal/structure/memory-systems), δγ (earth/cycling/rehearsal), σ (air/distinction/retrieval)
+- **Z-State:** structured — knowledge emerges from organized processing through distinct memory systems
+- **Tendency:** Organization/Retention → 1 (durable knowledge construction)
+
+## SIML Encoding
+
+```
+⟨Narrative|knowledge-acquisition-through-processing⟩ 
+    ⊳ ⟨Constraint|sensory-bottleneck⟩ 
+    ⊳ ⟨Constraint|working-memory-limits⟩ 
+    ⊳ ⟨Constraint|retrieval-failure⟩ 
+    ⇄ ⟨Process|attention-encoding⟩ 
+    ⇄ ⟨Process|storage-organization⟩ 
+    ⇄ ⟨Process|rehearsal-consolidation⟩ 
+    ⇄ ⟨Process|retrieval-reconstruction⟩ 
+    → ⟨State|organized-knowledge⟩ 
+    ⊗ ⟨Outcome|durable-learning⟩ 
+    → ⟨Transfer|schema-application⟩ 
+    → ⟨Transformation|cognitive-restructuring⟩
+```
+
+## Core Definition
+
+**Information Processing Theory** models human cognition as an information-processing system analogous to computer architecture. Originating with Atkinson and Shiffrin's multi-store model (1968) and enriched by Craik and Lockhart's levels-of-processing framework (1972), the theory describes how information flows through distinct cognitive structures — sensory memory, working (short-term) memory, and long-term memory — undergoing transformation at each stage through attention, encoding, rehearsal, and retrieval processes.
+
+### The Information Processing Model
+
+```
+    ENVIRONMENTAL
+       INPUT
+         │
+         ▼
+┌─────────────────┐
+│  SENSORY        │  ← Large capacity, very brief duration (~0.5-3 sec)
+│  MEMORY         │    Iconic (visual) + Echoic (auditory)
+│     (σ)         │    σ: Pattern recognition, selective attention
+└────────┬────────┘
+         │ Attention filter
+         ▼
+┌─────────────────┐
+│  WORKING        │  ← Limited capacity (7±2 chunks), brief duration (~20-30 sec)
+│  MEMORY         │    Central executive + Phonological loop + Visuospatial sketchpad
+│   (σ + μ)       │    σ: Maintenance rehearsal, chunking
+└────────┬────────┘    μ: Organization, structuring
+         │ Elaborative rehearsal, encoding strategies
+         ▼
+┌─────────────────┐
+│  LONG-TERM      │  ← Virtually unlimited capacity, potentially permanent
+│  MEMORY         │    Declarative (episodic + semantic) + Procedural
+│     (μ)         │    μ: Hierarchical organization, schema formation
+└────────┬────────┘    δγ: Consolidation, sleep-dependent reorganization
+         │ Retrieval cues, reconstruction
+         ▼
+      OUTPUT
+   (behavior, response)
+```
+
+### The Three Memory Stores
+
+| Memory Store | Capacity | Duration | Key Processes | Element |
+|--------------|----------|----------|---------------|---------|
+| **Sensory** | Very large | 0.5-3 seconds | Pattern recognition, selective attention | σ (Air) |
+| **Working** | 7±2 chunks | 20-30 seconds | Rehearsal, chunking, organization | σ + μ |
+| **Long-Term** | Unlimited | Potentially permanent | Encoding, storage, retrieval | μ (Metal) |
+
+## The Processing Stages
+
+### Stage 1: Sensory Registration (σ)
+
+**Function:** Brief retention of sensory information in modality-specific form
+
+```
+SENSORY MEMORY DYNAMICS
+├── Iconic Memory (visual)
+│   ├── Duration: ~250-500ms
+│   ├── Capacity: Very large
+│   └── Decay: Rapid fading
+│
+└── Echoic Memory (auditory)
+    ├── Duration: ~2-4 seconds
+    ├── Capacity: Large
+    └── Decay: Slower than iconic
+```
+
+**Key Process:** Selective attention acts as a filter, determining what information receives further processing.
+
+**Nemetic Mapping:** σ (distinction) — the ability to discriminate relevant from irrelevant stimuli
+
+### Stage 2: Working Memory Processing (σ + μ)
+
+**Function:** Temporary holding and manipulation of information for complex cognitive tasks
+
+```
+WORKING MEMORY ARCHITECTURE (Baddeley & Hitch, 1974)
+┌─────────────────────────────────────────┐
+│         CENTRAL EXECUTIVE               │
+│    (σ: attention control, coordination) │
+└──────────────┬──────────────────────────┘
+               │
+    ┌──────────┴──────────┐
+    ▼                     ▼
+┌──────────┐        ┌──────────┐
+│PHONOLOGICAL│        │VISUOSPATIAL│
+│   LOOP    │        │  SKETCHPAD │
+│(σ: verbal)│        │(σ: visual) │
+└──────────┘        └──────────┘
+```
+
+**Capacity Limitations:**
+- **Magic number 7±2** (Miller, 1956): The typical capacity of working memory
+- **Chunking:** Organizing information into meaningful units increases effective capacity
+- **Duration:** Information decays within ~20 seconds without rehearsal
+
+**Nemetic Mapping:** σ (maintenance, attention) + μ (organization, structure)
+
+### Stage 3: Long-Term Storage (μ + δγ)
+
+**Function:** Relatively permanent storage of information through organized structures
+
+```
+LONG-TERM MEMORY SYSTEMS
+├── Declarative (Explicit) Memory
+│   ├── Episodic: Personal experiences, events (context-bound)
+│   └── Semantic: Facts, concepts, general knowledge (context-free)
+│
+└── Non-Declarative (Implicit) Memory
+    ├── Procedural: Skills, habits, motor sequences
+    ├── Priming: Unconscious influence of prior exposure
+    └── Conditioning: Learned associations
+```
+
+**Organization Principles:**
+- **Hierarchical structure:** Categories and subcategories
+- **Schema formation:** Organized patterns of thought/behavior
+- **Semantic networks:** Web of interconnected concepts
+- **Spreading activation:** Retrieval triggers related concepts
+
+**Nemetic Mapping:** μ (structural organization) + δγ (consolidation, metabolic cycling)
+
+### Stage 4: Retrieval (σ)
+
+**Function:** Accessing and reconstructing stored information
+
+```
+RETRIEVAL DYNAMICS
+├── Recall: Generating information without cues
+│   └── Free recall, cued recall, serial recall
+│
+├── Recognition: Identifying previously learned information
+│   └── Higher accuracy than recall (more cues available)
+│
+└── Reconstruction: Rebuilding memories during retrieval
+    └── Influenced by schemas, expectations, current context
+```
+
+**Retrieval Factors:**
+- **Encoding specificity:** Context at encoding matches context at retrieval
+- **State-dependent learning:** Internal state (mood, arousal) matches
+- **Transfer-appropriate processing:** Type of processing at encoding matches retrieval demands
+
+**Nemetic Mapping:** σ (distinction, pattern matching)
+
+## Levels of Processing Framework (Craik & Lockhart, 1972)
+
+An alternative to the stage model, emphasizing depth of processing:
+
+```
+LEVELS OF PROCESSING HIERARCHY
+
+Shallow Processing ←─────────────────────────→ Deep Processing
+       │                                          │
+       ▼                                          ▼
+┌──────────────┐                        ┌──────────────────┐
+│ Structural   │                        │ Semantic         │
+│ (physical    │    ←───────►           │ (meaning-based)  │
+│  features)   │    Intermediate        │  associations)   │
+└──────────────┘    Phonemic            └──────────────────┘
+       │            (sound-based)                │
+       │                                          │
+   Lower retention                          Higher retention
+   (maintenance rehearsal)                  (elaborative rehearsal)
+```
+
+| Level | Processing Type | Example | Retention |
+|-------|-----------------|---------|-----------|
+| **Structural** | Physical features | "Is this word in capital letters?" | Poor |
+| **Phonemic** | Sound patterns | "Does this word rhyme with 'cat'?" | Moderate |
+| **Semantic** | Meaning | "Does this word fit in the sentence?" | Excellent |
+
+**Key Insight:** Depth of processing determines durability — semantic (meaning-based) encoding creates stronger traces than shallow (maintenance) rehearsal.
+
+## Elemental Pattern Analysis
+
+### Metal/μ Dominance with Air/σ Support
+
+Information Processing Theory is fundamentally a **Metal/Air theory**:
+
+| Element | Role in IPT |
+|---------|-------------|
+| **Metal/μ** | Structural organization of memory systems, hierarchical storage, schema formation |
+| **Air/σ** | Attention, encoding, pattern recognition, retrieval, distinction-making |
+| **Earth/δγ** | Consolidation processes, sleep-dependent memory stabilization, cycling through rehearsal |
+| **Fire/λ** | Goal-directed processing, intentional learning strategies, motivation to process deeply |
+| **Water/ρ** | Context effects, encoding-retrieval match, emotional associations |
+| **Wood/β** | Exploration of retrieval cues, generative reconstruction of memories |
+
+### The Processing Cycle
+
+```
+         ┌─────────────────────────────────────┐
+         │                                     │
+         ▼                                     │
+    ┌─────────┐    ┌─────────┐    ┌─────────┐ │
+    │ATTENTION│───►│ ENCODING│───►│ STORAGE │─┘
+    │   (σ)   │    │  (σ+μ)  │    │   (μ)   │
+    └─────────┘    └─────────┘    └────┬────┘
+         ▲                             │
+         │                             ▼
+         │    ┌───────────────────────────────┐
+         └────┤         RETRIEVAL             │
+              │            (σ)                │
+              └───────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### IPT and Cognitive Load Theory
+
+| Aspect | Cognitive Load Theory | Information Processing Theory |
+|--------|----------------------|-------------------------------|
+| **Core concern** | Managing limited WM capacity | Understanding memory architecture |
+| **Element** | σ (air/clarity) | σ + μ (air + metal) |
+| **Relationship** | CLT applies IPT principles to instruction | IPT provides theoretical foundation for CLT |
+
+**Integration:** CLT operationalizes IPT by identifying three load types (intrinsic, extraneous, germane) that affect the limited processing capacity described by IPT.
+
+### IPT and Schema Theory
+
+| Aspect | Schema Theory | Information Processing Theory |
+|--------|---------------|-------------------------------|
+| **Core concept** | Organized knowledge structures | Memory systems and processes |
+| **Element** | μ (metal/structure) | μ (metal/structure) |
+| **Relationship** | Schemas explain how LTM is organized | IPT explains how schemas are formed and accessed |
+
+**Integration:** Schemas are the organizational units of long-term memory; IPT describes the processing that creates, modifies, and retrieves them.
+
+### IPT and Levels of Processing
+
+| Aspect | Multi-Store Model | Levels of Processing |
+|--------|-------------------|----------------------|
+| **Metaphor** | Computer architecture | Depth continuum |
+| **Focus** | Structural stores | Processing depth |
+| **Element** | μ (structural) | σ (attention depth) |
+
+**Integration:** Both frameworks emphasize that how information is processed determines retention — the multi-store model describes where; levels of processing describes how.
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Computer Science** | Memory hierarchy (cache/RAM/disk) | Multi-level storage with speed/capacity tradeoffs |
+| **Neuroscience** | Synaptic consolidation | Biological basis of memory formation and storage |
+| **Library Science** | Cataloging and retrieval systems | Organization enables access |
+| **Data Management** | Database architecture | Structured storage with query mechanisms |
+| **Communications** | Signal processing | Encoding, transmission, decoding with noise reduction |
+
+## Educational Implications
+
+### Design Principles from IPT
+
+```
+INSTRUCTIONAL DESIGN FROM IPT
+├── Attention Management
+│   ├── Minimize distractions
+│   ├── Use signaling to highlight important information
+│   └── Create appropriate novelty
+│
+├── Working Memory Support
+│   ├── Chunk information (7±2 rule)
+│   ├── Provide worked examples
+│   ├── Use dual coding (verbal + visual)
+│   └── Scaffold complex tasks
+│
+├── Deep Encoding Promotion
+│   ├── Elaborative interrogation (why questions)
+│   ├── Self-explanation
+│   ├── Concrete examples
+│   └── Spaced practice (distributed encoding)
+│
+└── Retrieval Enhancement
+    ├── Practice testing
+    ├── Varied contexts
+    ├── Interleaving
+    └── Cue-rich environments
+```
+
+### The Forgetting Problem
+
+```
+THE FORGETTING CURVE (Ebbinghaus)
+Retention
+    │
+100%├─────●
+    │      ╲
+ 50%│       ╲────●
+    │             ╲────●
+ 20%│                   ╲────●─────●─────●
+    │
+    └───────────────────────────────────────► Time
+      1hr   1day  2days  1week  1month
+
+Intervention: Spaced retrieval practice flattens the curve
+```
+
+## Core Insight
+
+> Information Processing Theory reveals that learning is not simply the absorption of information but a complex transformation through distinct cognitive systems. The bottleneck of working memory forces selectivity; the architecture of long-term memory enables organization; and the dynamics of retrieval ensure that memories are reconstructed, not merely replayed. Understanding these processes allows educators to design instruction that respects cognitive constraints while optimizing for durable, transferable learning.
+
+## One-Sentence Insight
+
+> Information Processing Theory demonstrates that learning emerges from the structured flow of information through distinct cognitive systems — where attention filters input, working memory manipulates limited content, and long-term memory organizes knowledge hierarchically — with durability determined by depth of encoding and quality of retrieval cues.
+
+## Three-Bullet Expansion
+
+- **What:** A cognitive architecture model describing how information flows through sensory, working, and long-term memory systems — with each stage involving distinct processes of attention, encoding, storage, and retrieval that transform raw input into organized, accessible knowledge
+- **How it works:** Environmental input → sensory registration (brief, modality-specific) → attentional selection → working memory processing (limited capacity, manipulation) → encoding strategies (shallow to deep) → long-term storage (hierarchical organization) → retrieval reconstruction (cue-dependent, schema-influenced)
+- **Where it aims:** Toward durable, transferable knowledge organization — where deep processing creates robust memory traces, effective retrieval cues enable access, and schema formation supports application to novel situations
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L064, #L011_Cognitive_Load_Theory, #L041_Schema_Theory, #L019_Spaced_Repetition, #L030_Metacognition, #P004_Working_Memory
+- **Formal Operators:** σ, μ, δγ, λ
+- **Dim Operators:** Ψ_encoding, Ψ_storage, Ψ_retrieval, Ψ_consolidation
+- **Coord Ontology:** I (processor), It (information), We (shared schemas), Its (the cognitive architecture)
+
+## Source
+
+Derived from:
+- Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89-195). Academic Press.
+- Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior*, 11(6), 671-684.
+- Baddeley, A. D., & Hitch, G. J. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47-89). Academic Press.
+- Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
+- Craik, F. I. M., & Tulving, E. (1975). Depth of processing and the retention of words in episodic memory. *Journal of Experimental Psychology: General*, 104(3), 268-294.
+
+Original context: Cognitive psychology, memory research, educational psychology
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Metal/μ (primary) with Air/σ, Earth/δγ support | Daemon: Ferrosid-Aerunik-Humavita | Habitat: 2_MEMORY-SYSTEMS / 6_COGNITIVE-ARCHITECTURE / 10_INSTRUCTIONAL-DESIGN
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (managing WM limitations)
+- L041_Schema_Theory (LTM organization)
+- L019_Spaced_Repetition (optimizing consolidation)
+- L030_Metacognition (monitoring one's own processing)
+- P004_Working_Memory (detailed WM mechanisms)
+- L061_Learning_Transfer_Theory (retrieval and application)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L064 | Generated: 2026-02-28 01:22*
