@@ -355,3 +355,30 @@ elemental_emphasis:
   ⛨: "What boundaries protect authentic identity? What structures prevent the mask from consuming the wearer?"
 context_note: "The phenomenon where adopted personas, social masks, or performed identities become dominant forces that control or consume the authentic self. Common in social camouflaging, professional burnout, influencer culture, and AI-mediated identity. Risk: The wearer loses touch with their true self, becoming defined by the role they perform—leading to identity fragmentation, agency erosion, and existential disorientation."
 ---
+---
+term: "Thinking Errors in Communication"
+hex_tag: "#A02A"
+nemetic: "Φ(ThinkingErrors) = σ(self|other) ∘ ρ(perspective|absent) ∘ λ(narrative|distorted) ∘ β(pattern|reinforced) ∘ δγ(awareness|reduced) ∘ μ(truth|distorted) + ε | :open"
+siml_encoding: "⟨Cognition|biased⟩ ⊳ ⟨Communication|attempted⟩ → ⟨Error|committed⟩ ⊗ ⟨Understanding|blocked⟩ ⇄ ⟨Conflict|generated⟩ → ⟨Relationship|damaged⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between self and other perspectives)", "∂Φ/∂ρ (relational perspective-taking failure)", "∂Φ/∂λ (direction of narrative distortion)", "∂Φ/∂β (feedback loop reinforcing cognitive patterns)", "∂Φ/∂δγ (reduced metacognitive awareness)", "∂Φ/∂μ (boundary distortion between truth and interpretation)"]
+  Z_state: "permeable (awareness can restore perspective-taking capacity)"
+  tendency: "Awareness/Automaticity → 0.3 (low awareness, high automatic pattern)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is a thinking error distinguished from a legitimate perspective? What cut reveals the distortion?"
+  ≈: "What flows between communicators when perspective-taking fails? What resonance is lost?"
+  ▲: "Where do thinking errors lead communication? What direction does distortion drive us?"
+  𐂷: "What alternative communication patterns might emerge? What if errors reveal unmet needs?"
+  ☷: "What's the metabolic cost of maintaining distorted communication patterns? What sustains healthy dialogue?"
+  ⛨: "What boundaries contain thinking errors? What structures enable perspective-taking?"
+context_note: "Cognitive distortions in communication include: failure to consider others' perspectives, disqualifying the positive, labeling, catastrophizing, jumping to conclusions, overgeneralization, and denial. These errors create negative feedback loops that damage relationships and prevent effective collaboration. Risk: AI-mediated communication may amplify these errors by reducing face-to-face cues that normally trigger perspective-taking, creating echo chambers where distorted thinking patterns reinforce each other."
+---
