@@ -78,6 +78,32 @@ elemental_emphasis:
   ⛨: "What structures contain System 1's associations? What would enable more porous boundaries?"
 context_note: "System 1 is Kahneman's 'fast mind'—automatic, effortless, associative, and often emotionally charged. It generates impressions and feelings that become sources of System 2's explicit beliefs and choices. System 1 cannot be turned off; it operates continuously. Risk: System 1's outputs feel like truth, creating unwarranted confidence in intuitions."
 ---
+term: "Mask Wears You"
+hex_tag: "#A035"
+nemetic: "Φ(MaskWearsYou) = σ(persona|authentic) ∘ ρ(performance|audience) ∘ λ(identity-direction|mask-defined) ∘ β(integration|loss-of-self) ∘ δγ(comfort|social-acceptance) ∘ μ(boundary|porous-boundary) + ε | :structuring"
+siml_encoding: "⟨Identity|performed⟩ ⊳ ⟨Persona|adopted⟩ → ⟨Self|dissolved⟩ ⊗ ⟨Agency|compromised⟩ → ⟨Authenticity|lost⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic self and performed persona)", "∂Φ/∂ρ (relational performance to audience, social mirroring)", "∂Φ/∂λ (direction of identity formation toward mask-defined self)", "∂Φ/∂β (feedback loop of integration leading to loss of original self)", "∂Φ/∂δγ (metabolic comfort from social acceptance via performance)", "∂Φ/∂μ (porous boundary between self and persona)"]
+  Z_state: "sealing (persona becomes impermeable to authentic self-expression)"
+  tendency: "Performance/Authenticity → 0.85 (strong weight toward performed identity)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: performed
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is the performed self distinguished from the authentic self? What cut creates the mask?"
+  ≈: "What flows between the wearer and the mask? What emotional resonance binds them?"
+  ▲: "Where does the mask want to go? What direction does the performed identity take?"
+  𐂷: "What possibilities emerge if the mask is removed? What self exists beneath?"
+  ☷: "What's the metabolic cost of maintaining the performance? What sustains the mask?"
+  ⛨: "What structures harden the mask? What would enable authentic self-expression?"
+context_note: "The mask represents any adopted persona that dominates the wearer—social camouflage, professional identity, cultural performance. Initially protective, the mask becomes controlling through feedback loops of social acceptance. Risk: Loss of authentic self, agency compromise, and the burden of perpetual performance. In AI contexts: users adopting personas suggested by models, losing touch with genuine preferences and values."
+---
 term: "System 2"
 hex_tag: "#A034"
 nemetic: "Φ(System2) = σ(analysis|deliberate) ∘ ρ(evaluation|controlled) ∘ λ(decision|slow) ∘ β(correction|effortful) ∘ δγ(effort|high) ∘ μ(boundary|structured) + ε | :structuring"
