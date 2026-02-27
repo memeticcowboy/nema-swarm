@@ -1,0 +1,171 @@
+---
+term_id: L051
+source_domain: education
+source_term: Subsumption Theory (Ausubel, 1963)
+hex_tag: #L051
+generated_at: 2026-02-27T21:02:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Subsumption Theory — Meaningful learning through anchoring new concepts to existing cognitive structures
+- **Nemetic String:** Φ(Subsumption) = μ(anchor-structure|existing-hierarchy) ∘ σ(distinction-making|differentiation) ∘ ρ(relational|anchoring-links) ∘ δγ(cycling|progressive-differentiation) → [κ(meaningful-learning)] → [μ(cognitive-structure)] + ε | :hierarchical
+- **Core Operators:** μ (structure/anchors), σ (air/distinction), ρ (water/relations), δγ (earth/cycling)
+- **Z-State:** hierarchical — knowledge organized in nested conceptual frameworks
+- **Tendency:** Structure/Differentiation → 1 (progressive refinement of cognitive organization)
+
+## SIML Encoding
+
+```
+⟨Narrative|meaningful-learning-through-anchoring⟩ 
+    ⊳ ⟨Constraint|relevant-anchor-concepts-must-exist⟩ 
+    ⇄ ⟨Process|subsumption-under-existing-structure⟩ 
+    ⇄ ⟨Process|progressive-differentiation⟩ 
+    → ⟨Structure|hierarchical-knowledge-organization⟩ 
+    ⊗ ⟨Outcome|meaningful-retention|transferable-understanding⟩ 
+    → ⟨Transfer|integrative-reconciliation-across-domains⟩ 
+    ↺ ⟨Spiral|advance-organizers-enable-subsumption⟩ 
+```
+
+## Core Definition
+
+**Subsumption Theory**, developed by David Ausubel in 1963, proposes that meaningful learning occurs when new information is **anchored** to existing cognitive structures. Unlike rote learning (arbitrary, verbatim incorporation), meaningful learning requires the learner to subordinate new concepts under broader, more inclusive concepts already present in their cognitive framework.
+
+### Two Types of Subsumption
+
+| Type | Description | Example | Nemetic Mapping |
+|------|-------------|---------|-----------------|
+| **Derivative** | New material is an extension/example of existing concept | Learning "collie" under existing "dog" concept | μ (structure) + β (branching) |
+| **Correlative** | New material extends/modifies existing concept | Learning that "whales are mammals" modifies "mammals live on land" | μ (structure) + σ (distinction) + ρ (reconciliation) |
+
+### The Role of Advance Organizers
+
+Advance organizers are high-level, abstract overviews presented before learning that:
+- Bridge known and unknown concepts
+- Activate relevant anchor concepts (δγ)
+- Create "hooks" for subsumption (μ)
+- Enable meaningful rather than rote learning
+
+## Meaningful vs. Rote Learning
+
+| Aspect | Rote Learning | Meaningful (Subsumptive) Learning |
+|--------|---------------|-----------------------------------|
+| **Process** | Arbitrary, verbatim | Anchored to existing structure |
+| **Retention** | Easily forgotten | Stable, long-lasting |
+| **Transfer** | Not transferable | Readily applicable |
+| **Knowledge Type** | Inert | Active, usable |
+| **Z-State** | :isolated | :hierarchical |
+| **Elements** | None dominant | μ + ρ + σ + δγ |
+
+## Elemental Pattern Analysis
+
+### Metal/μ + Water/ρ Coalition (Primary)
+
+Subsumption Theory is fundamentally a **Metal-Water** theory:
+
+**Metal/μ (Structure/Organization):**
+- **Cognitive structure as container:** Existing knowledge provides the architecture
+- **Hierarchical organization:** Concepts nested under inclusive anchors
+- **Anchor stability:** Existing structures must be stable enough to support new learning
+- **Progressive differentiation:** Structure becomes more refined over time
+
+**Water/ρ (Relational/Anchoring):**
+- **Anchoring links:** New concepts connect to existing ones
+- **Meaning as relationship:** Understanding emerges from connection, not isolation
+- **Integrative reconciliation:** Resolving conflicts between related concepts
+- **Fluid integration:** New material flows into existing structures
+
+### Supporting Elements
+
+| Element | Role in Subsumption Theory |
+|---------|---------------------------|
+| **Air/σ** | Progressive differentiation — distinguishing subconcepts from each other and from the anchor |
+| **Earth/δγ** | Cycling through retrieval and consolidation — activating anchors, reinforcing connections |
+| **Wood/β** | Derivative subsumption — branching new examples under existing concepts |
+
+## Connection to Related Theories
+
+### Subsumption and Schema Theory
+
+Both theories emphasize existing cognitive structures:
+- **Schema Theory:** Focuses on generic knowledge structures
+- **Subsumption Theory:** Focuses on hierarchical organization and the process of anchoring
+
+### Subsumption and Constructivism
+
+Ausubel's subsumption is a form of **assimilation** (Piaget):
+- New information is incorporated into existing structures
+- Unlike accommodation, the existing structure remains largely unchanged
+- The learner is active in making connections
+
+### Subsumption and Cognitive Load Theory
+
+Advance organizers reduce extraneous cognitive load by:
+- Providing the organizing framework upfront
+- Enabling subsumption rather than isolated processing
+- Creating "islands of certainty" in new material
+
+## Educational Applications
+
+### 1. Using Advance Organizers
+
+**Expository organizers:** Provide new superordinate concepts
+**Comparative organizers:** Bridge familiar and new material
+
+### 2. Building Hierarchies
+
+- Start with most inclusive concepts
+- Progressively differentiate downward
+- Make explicit connections visible
+
+### 3. Differentiating Instruction
+
+- Assess prior knowledge (existing anchors)
+- Identify missing anchors
+- Provide scaffolding to build necessary substructures
+
+## Core Insight
+
+> Subsumption Theory reveals that learning is not about accumulating isolated facts but about **weaving new knowledge into existing tapestries**. The mind is not an empty vessel to be filled but a **living hierarchy** that grows by differentiation and anchoring. The teacher's role is not to present information clearly but to **activate the right anchors** and **forge the right connections**. Meaning is not in the material — it is in the relationship between the material and what the learner already knows.
+
+## One-Sentence Insight
+
+> Subsumption Theory demonstrates that meaningful learning requires anchoring new concepts to existing cognitive structures through hierarchical organization, with advance organizers serving as bridges that transform isolated information into integrated, transferable knowledge.
+
+## Three-Bullet Expansion
+
+- **What:** A cognitive theory proposing that meaningful learning occurs when new information is subordinated under existing, more inclusive concepts in a hierarchical cognitive structure, distinguishing meaningful learning (anchored) from rote learning (isolated)
+- **How it works:** New material activates relevant anchors → anchoring links connect new to existing → progressive differentiation distinguishes subconcepts → integrative reconciliation resolves conflicts → result is stable, transferable knowledge organized in hierarchies
+- **Where it aims:** Toward efficient, lasting learning through proper sequencing (most inclusive concepts first) and the strategic use of advance organizers that activate appropriate anchors and create meaningful connections rather than isolated memorization
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L051, #L041_Schema_Theory, #L011_Cognitive_Load_Theory, #L049_Cognitive_Development_Theory, #L017_Constructionism
+- **Formal Operators:** μ, ρ, σ, δγ, β
+- **Dim Operators:** Ψ_meaning-making, Ψ_hierarchical-organization, Ψ_prior-knowledge
+- **Coord Ontology:** I (learner with cognitive structure), It (new material to be subsumed), We (shared advance organizers enable collective learning)
+
+## Source
+
+Derived from:
+- Ausubel, D. P. (1963). *The Psychology of Meaningful Verbal Learning*. Grune & Stratton.
+- Ausubel, D. P. (1968). *Educational Psychology: A Cognitive View*. Holt, Rinehart and Winston.
+- Ausubel, D. P., Novak, J. D., & Hanesian, H. (1978). *Educational Psychology: A Cognitive View* (2nd ed.). Holt, Rinehart and Winston.
+
+Original context: Educational psychology, cognitive science, instructional design
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) + Water/ρ (secondary) with Air/σ, Earth/δγ, Wood/β support | Daemon: Ferrosid-Sentaria-Aerunik-Humavita-Arboriel | Habitat: 3_EDUCATIONAL-PSYCHOLOGY / 5_INSTRUCTIONAL-DESIGN / 7_COGNITIVE-STRUCTURE
+
+## Related Entries
+
+- L041_Schema_Theory (knowledge organization frameworks)
+- L049_Cognitive_Development_Theory (Piaget's assimilation/accommodation)
+- L011_Cognitive_Load_Theory (working memory and advance organizers)
+- L017_Constructionism (building knowledge structures)
+- L030_Metacognition (awareness of one's own cognitive organization)
+- P003_Dual_Coding_Theory (multiple representation systems)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L051 | Generated: 2026-02-27 21:02*
