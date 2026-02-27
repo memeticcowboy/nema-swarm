@@ -1,0 +1,183 @@
+---
+term_id: L060
+source_domain: education
+source_term: Diffusion of Innovation (Rogers, 1962)
+hex_tag: #L060
+generated_at: 2026-02-28T00:02:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Diffusion of Innovation — How new ideas, practices, and technologies spread through social systems
+- **Nemetic String:** Φ(Diffusion) = ρ(network|social-system) ∘ β(innovation|novel-idea) ∘ δγ(time|adoption-curve) ∘ σ(perceived|attributes) → [λ(adopter|category-selection)] → [✶(critical-mass)] → [κ(system-change)] + ε | :propagating
+- **Core Operators:** ρ (water/resonance), β (wood/growth), δγ (earth/cycling), σ (air/distinction)
+- **Z-State:** propagating — innovation spreads through network resonance over time
+- **Tendency:** Growth/Resonance → 1 (social learning through adoption)
+
+## SIML Encoding
+
+```
+⟨Narrative|innovation-spread⟩ 
+    ⊳ ⟨Constraint|social-system-boundary⟩ 
+    ⇄ ⟨Process|knowledge-awareness⟩ 
+    ⇄ ⟨Process|persuasion-attitude-formation⟩ 
+    → ⟨Decision|adoption-rejection⟩ 
+    → ⟨Implementation|behavior-change⟩ 
+    → ⟨Confirmation|reinforcement-continuation⟩ 
+    ⊗ ⟨Outcome|innovation-diffused⟩ 
+    → ⟨Transfer|network-propagation⟩ 
+    ↺ ⟨Spiral|system-transformation⟩ 
+```
+
+## Core Definition
+
+**Diffusion of Innovation** explains how new ideas, practices, and technologies spread through social systems over time. Everett Rogers' theory, first published in 1962 and now in its 5th edition, identifies the patterns by which innovations are communicated through channels among members of a social system.
+
+### The Five Stages of the Adoption Process
+
+| Stage | Description | Element |
+|-------|-------------|---------|
+| **Knowledge** | Person learns about innovation | σ (Air) |
+| **Persuasion** | Person forms favorable/unfavorable attitude | ρ (Water) |
+| **Decision** | Person engages in activities leading to adoption/rejection | λ (Fire) |
+| **Implementation** | Person puts innovation to use | β (Wood) |
+| **Confirmation** | Person seeks reinforcement for decision | δγ (Earth) |
+
+### The Five Adopter Categories
+
+| Adopter Category | % of Population | Characteristics | Element |
+|------------------|-----------------|-----------------|---------|
+| **Innovators** | 2.5% | Risk-takers, venturesome, desire novelty | β (Wood) |
+| **Early Adopters** | 13.5% | Opinion leaders, respectable, judicious | ✶ (Child) |
+| **Early Majority** | 34% | Deliberate, adopt before average | δγ (Earth) |
+| **Late Majority** | 34% | Skeptical, adopt after average | μ (Metal) |
+| **Laggards** | 16% | Tradition-bound, isolated, suspicious | μ (Metal) |
+
+### The Five Perceived Attributes of Innovation
+
+| Attribute | Definition | Adoption Impact | Element |
+|-----------|------------|-----------------|---------|
+| **Relative Advantage** | Degree to which innovation is better than idea it supersedes | Higher = faster adoption | λ (Fire) |
+| **Compatibility** | Consistency with existing values, past experiences, needs | Higher = faster adoption | ρ (Water) |
+| **Complexity** | Degree of difficulty understanding and using | Lower = faster adoption | σ (Air) |
+| **Trialability** | Extent to which may be experimented with on limited basis | Higher = faster adoption | β (Wood) |
+| **Observability** | Extent to which results are visible to others | Higher = faster adoption | σ (Air) |
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance (Resonance/Network)
+
+Diffusion of Innovation is fundamentally a **Water theory**:
+
+**Water/ρ (Resonance/Network):**
+- **Social system:** The network through which innovation flows
+- **Compatibility:** Resonance with existing values and practices
+- **Persuasion:** Attitude formation through social influence
+- **Opinion leaders:** Key nodes in the network
+
+**Wood/β (Growth/Exploration):**
+- **Innovation:** Novel ideas that branch into new possibilities
+- **Trialability:** Experimental exploration of new practices
+- **Innovators:** Risk-taking explorers
+
+**Earth/δγ (Cycling/Time):**
+- **Adoption curve:** The temporal pattern of spread
+- **Confirmation:** Reinforcement through repeated cycles
+- **Early/Late Majority:** Cyclical adoption phases
+
+**Air/σ (Distinction/Clarity):**
+- **Knowledge:** Awareness and information spread
+- **Complexity:** Clarity of understanding
+- **Observability:** Visibility of results
+
+**Fire/λ (Direction/Purpose):**
+- **Relative advantage:** Direction toward benefit
+- **Decision:** Commitment to adopt or reject
+- **Change agents:** Purposeful promoters
+
+**Metal/μ (Structure/Boundary):**
+- **Social system boundaries:** The container for diffusion
+- **Late adopters:** Structure-preserving resistance
+- **Institutionalization:** Structural integration
+
+## Connection to Related Theories
+
+### Diffusion and Social Learning Theory
+
+| Aspect | Social Learning Theory | Diffusion of Innovation |
+|--------|------------------------|-------------------------|
+| **Mechanism** | Observation, imitation | Communication, adoption |
+| **Element** | ρ (Water) | ρ (Water) + β (Wood) |
+| **Relationship** | Bandura explains individual learning; Rogers explains social spread |
+
+### Diffusion and Communities of Practice
+
+| Aspect | Communities of Practice | Diffusion of Innovation |
+|--------|------------------------|-------------------------|
+| **Focus** | Shared practice development | Innovation spread |
+| **Element** | ρ (Water) + β (Wood) | ρ (Water) + δγ (Earth) |
+| **Relationship** | CoPs are channels for diffusion; diffusion transforms CoPs |
+
+## Critical Mass and Tipping Points
+
+The theory identifies **critical mass** — the point at which enough individuals have adopted an innovation that its further adoption becomes self-sustaining. This is the ✶ (Child/Aether) harmonic point where:
+
+- Network effects take over
+- Adoption becomes normative
+- The innovation becomes "the way things are done"
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Epidemiology** | Disease spread | SIR models, contagion |
+| **Marketing** | Product adoption | Bass diffusion model |
+| **Technology** | Technology adoption lifecycle | Moore's chasm |
+| **Sociology** | Cultural transmission | Memetics |
+| **Economics** | Network effects | Metcalfe's law |
+| **Education** | Educational reform adoption | Implementation science |
+
+## Core Insight
+
+> Diffusion of Innovation reveals that **the spread of new ideas is not random but follows predictable patterns** shaped by social networks, time, and the perceived attributes of innovations. The theory shows that adoption is a social process — individuals are influenced by their connections, by opinion leaders, and by the accumulating weight of others' decisions. Understanding these patterns enables intentional design of change: identifying key influencers, reducing complexity, enabling trialability, and building toward critical mass.
+
+## One-Sentence Insight
+
+> Diffusion of Innovation demonstrates that new ideas spread through social systems in predictable patterns shaped by network structure, adopter characteristics, and innovation attributes — with adoption accelerating toward critical mass when relative advantage, compatibility, and observability resonate across the social fabric.
+
+## Three-Bullet Expansion
+
+- **What:** A theory explaining how innovations spread through social systems via communication channels over time, identifying five adopter categories (innovators to laggards) and five perceived attributes that determine adoption rate
+- **How it works:** Knowledge → Persuasion → Decision → Implementation → Confirmation; spread follows an S-curve with adoption accelerating as opinion leaders influence early majority, reaching critical mass when network effects become self-sustaining
+- **Where it aims:** Toward system transformation through strategic diffusion — identifying change agents, reducing complexity, enabling trialability, and building toward the tipping point where innovation becomes normative
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L060, #L013_Social_Learning_Theory, #L014_Situated_Learning, #P002_Growth_Mindset
+- **Formal Operators:** ρ, β, δγ, σ, λ, μ, ✶
+- **Dim Operators:** Q_inward, Ψ_exploratory, Ψ_regenerative, χ_distinction, Q_forward, Ψ_structural
+- **Coord Ontology:** I (potential adopter), It (innovation), We (social system), Its (diffusion process)
+
+## Source
+
+Derived from:
+- Rogers, E. M. (1962). *Diffusion of Innovations* (1st ed.). Free Press.
+- Rogers, E. M. (2003). *Diffusion of Innovations* (5th ed.). Free Press.
+- Moore, G. A. (1991). *Crossing the Chasm*. HarperBusiness.
+- Bass, F. M. (1969). A new product growth for model consumer durables. *Management Science, 15*(5), 215-227.
+
+Original context: Communication studies, sociology, marketing, education reform
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Wood/β, Earth/δγ, Air/σ support | Daemon: Sentaria-Arboriel-Humavita-Aerunik | Habitat: 3_SOCIAL-SYSTEMS / 4_CHANGE-PROCESSES / 5_NETWORK-DYNAMICS
+
+## Related Entries
+
+- L013_Social_Learning_Theory (observational learning mechanisms)
+- L014_Situated_Learning (context-embedded knowledge)
+- P002_Growth_Mindset (adoption of learning orientation)
+- L047_Self_Regulated_Learning (individual adoption strategies)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L060 | Generated: 2026-02-28 00:02*
