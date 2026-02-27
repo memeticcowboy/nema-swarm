@@ -1,0 +1,410 @@
+---
+term_id: P003
+source_domain: psychology
+source_term: Dual Coding Theory (Paivio, 1971; 1986)
+hex_tag: #P003
+generated_at: 2026-02-27T15:15:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Dual Coding Theory — Cognitive theory of how humans process verbal and visual information through separate but interconnected systems
+- **Nemetic String:** Φ(Dual_Coding) = σ(distinction|verbal-visual-separation) ∘ ρ(resonance|interconnected-representation) ∘ β(branching|referential-processing) ∘ μ(structure|mental-models) → [κ(knowledge)] → [✶(integrated-comprehension)] + ε | :multimodal
+- **Core Operators:** σ (distinction/air), ρ (resonance/water), β (branching/wood), μ (structure/metal)
+- **Z-State:** multimodal — cognition distributed across representational channels
+- **Tendency:** Integration/Distinction → 1 (separate but interconnected processing)
+
+## SIML Encoding
+
+```
+⟨Narrative|cognition-through-dual-representation⟩ 
+    ⊳ ⟨Constraint|verbal-and-nonverbal-systems⟩ 
+    ⊳ ⟨Constraint|separate-but-interconnected⟩ 
+    ⇄ ⟨Process|logogen-activation⟩ 
+    ⇄ ⟨Process|imagene-activation⟩ 
+    → ⟨Structure|referential-connections⟩ 
+    ⊗ ⟨Outcome|additive-effects⟩ 
+    → ⟨Transfer|mnemonic-enhancement⟩ 
+    → ⟨Transformation|deeper-comprehension⟩
+```
+
+## Core Definition
+
+**Dual Coding Theory (DCT)**, developed by Allan Paivio in 1971 and elaborated in his 1986 book *Mental Representations*, proposes that human cognition involves two separate but interconnected processing systems: a **verbal system** for processing language-based information and a **nonverbal system** (primarily visual/spatial) for processing imagery and nonverbal information. These systems can operate independently but also form connections that enhance learning and memory.
+
+### The Two Systems
+
+```
+DUAL CODING ARCHITECTURE
+│
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                    COGNITIVE SYSTEM                             │
+│                                                                 │
+│  ┌─────────────────────┐      ┌─────────────────────┐          │
+│  │   VERBAL SYSTEM     │◄────►│  NONVERBAL SYSTEM   │          │
+│  │   (Logogens)        │      │  (Imagens)          │          │
+│  │                     │      │                     │          │
+│  │  • Words            │      │  • Images           │          │
+│  │  • Language         │      │  • Scenes           │
+│  │  • Sounds (verbal)  │      │  • Sounds (nonverbal)│         │
+│  │  • Written text     │      │  • Actions          │          │
+│  │  • Speech           │      │  • Emotional expressions│      │
+│  │                     │      │                     │          │
+│  │  Element: σ (Air)   │      │  Element: ρ (Water) │          │
+│  │  — distinction,     │      │  — resonance,       │          │
+│  │    symbolic         │      │    holistic         │          │
+│  │                     │      │                     │          │
+│  └──────────┬──────────┘      └──────────┬──────────┘          │
+│             │                            │                     │
+│             └────────────┬───────────────┘                     │
+│                          │                                     │
+│                   REFERENTIAL CONNECTIONS                       │
+│                    (β — Wood/branching)                         │
+│                          │                                     │
+│                          ▼                                     │
+│              ┌─────────────────────┐                           │
+│              │  INTEGRATED         │                           │
+│              │  REPRESENTATION     │                           │
+│              │  (✶ — Child/Aether) │                           │
+│              └─────────────────────┘                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Representational Units
+
+| System | Unit | Characteristics |
+|--------|------|-----------------|
+| **Verbal** | Logogen | Abstract, sequential, symbolic, arbitrary |
+| **Nonverbal** | Imagen | Concrete, synchronous, analog, structural |
+
+### Processing Types
+
+```
+PROCESSING MODALITY MATRIX
+
+                    NONVERBAL PROCESSING
+                    Low          High
+              ┌────────────┬────────────┐
+    High      │  Abstract  │  Dual      │
+              │  symbolic  │  coding    │
+VERABAL       │  (words    │  (words +  │
+              │  only)     │  images)   │
+PROCESSING    ├────────────┼────────────┤
+    Low       │  Sensory   │  Imaginal  │
+              │  awareness │  (images   │
+              │  (minimal  │  only)     │
+              │  coding)   │            │
+              └────────────┴────────────┘
+
+Optimal learning occurs in the HIGH-HIGH quadrant (Dual Coding)
+```
+
+## The Three Types of Processing
+
+### 1. Representational Processing
+
+Activating the appropriate verbal or nonverbal representations directly:
+
+```
+REPRESENTATIONAL PROCESSING
+
+Verbal Input → [Logogen Activation] → Verbal Representation
+                    ↑
+              (symbolic decoding)
+
+Nonverbal Input → [Imagene Activation] → Nonverbal Representation
+                       ↑
+                 (pattern recognition)
+```
+
+### 2. Referential Processing
+
+Making connections between the two systems:
+
+```
+REFERENTIAL PROCESSING (β — Wood/branching)
+
+    Verbal Representation ←────────→ Nonverbal Representation
+           (word)          bidirectional      (image)
+                              ↕
+                         "cat"
+                           ↕
+                    ┌───────────────┐
+                    │  /\_/\        │
+                    │ ( o.o )       │
+                    │  > ^ <        │
+                    └───────────────┘
+
+The word "cat" activates the image of a cat
+The image of a cat activates the word "cat"
+```
+
+### 3. Associative Processing
+
+Making connections within each system:
+
+```
+ASSOCIATIVE PROCESSING
+
+Within Verbal System:
+"cat" → "feline" → "mammal" → "animal" → "living thing"
+
+Within Nonverbal System:
+[cat image] → [furry texture] → [whiskers] → [purr sound]
+```
+
+## The Additive Effects Hypothesis
+
+```
+MEMORY ENHANCEMENT THROUGH DUAL CODING
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  Single Coding (Verbal Only)                                    │
+│  ═══════════════════════════                                    │
+│  Input: "The hippocampus is involved in memory formation"       │
+│  │                                                              │
+│  ▼                                                              │
+│  [Logogen: hippocampus] ──► [Logogen: memory]                   │
+│       │                           │                             │
+│       └───────────┬───────────────┘                             │
+│                   ▼                                             │
+│           Memory Trace (modest strength)                        │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Dual Coding (Verbal + Visual)                                  │
+│  ═══════════════════════════════                                │
+│  Input: "The hippocampus is involved in memory formation"       │
+│         + [diagram of brain showing hippocampus location]       │
+│  │                                                              │
+│  ├─► [Logogen: hippocampus] ──┐                                 │
+│  │                            │                                 │
+│  │                            ▼                                 │
+│  │                     [Imagene: hippocampus-shape]              │
+│  │                            │                                 │
+│  └─► [Logogen: memory] ◄──────┘                                 │
+│         │                                                       │
+│         └───────────┬───────────────┐                           │
+│                     ▼               ▼                           │
+│         Memory Trace (enhanced strength)                        │
+│         = Verbal trace + Visual trace + Referential links       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+Result: Better recall, deeper comprehension, richer associations
+```
+
+## Elemental Pattern Analysis
+
+### Air/σ and Water/ρ Co-Dominance
+
+Dual Coding Theory is fundamentally a theory of **distinction and resonance**:
+
+- **Air/σ (Distinction):** The verbal system operates through symbolic abstraction — words as arbitrary signs distinct from their referents. This is the realm of clear categories, definitions, and sequential processing.
+
+- **Water/ρ (Resonance):** The nonverbal system operates through holistic, analog processing — images that resonate with sensory experience and emotional tone.
+
+- **Wood/β (Branching):** Referential connections create branching pathways between the two systems, enabling richer mental models.
+
+- **Metal/μ (Structure):** The overall architecture provides a structured framework for understanding how multimodal information is organized.
+
+### Elemental Mapping
+
+| Element | Role in Dual Coding Theory |
+|---------|---------------------------|
+| **Air/σ** | Verbal system, logogens, symbolic processing, sequential decoding |
+| **Water/ρ** | Nonverbal system, imagens, holistic processing, analog representation |
+| **Wood/β** | Referential connections, associative pathways, branching between systems |
+| **Metal/μ** | Structural organization of mental models, categorical frameworks |
+| **Knowledge/κ** | The informational content encoded in both systems |
+| **Child/✶** | Integrated comprehension, the "aha" moment when both systems align |
+
+## Connection to Related Theories
+
+### Dual Coding and Cognitive Load Theory (L011)
+
+| Aspect | Cognitive Load Theory | Dual Coding Theory |
+|--------|----------------------|-------------------|
+| **Focus** | Managing limited working memory capacity | Maximizing memory through multiple channels |
+| **Element** | Air/σ (clarity, reduction) | Air/σ + Water/ρ (distinction + resonance) |
+| **Application** | Reduce extraneous load | Split information across modalities |
+| **Relationship** | DCT provides mechanism for CLT's modality principle | CLT explains why DCT works (separate WM channels) |
+
+**Integration:** The "modality principle" in CLT directly draws on DCT — presenting words as narration rather than on-screen text frees the visual channel for processing diagrams/images.
+
+### Dual Coding and Multimedia Learning (Mayer)
+
+```
+DUAL CODING × MULTIMEDIA LEARNING
+
+Mayer's Cognitive Theory of Multimedia Learning extends Paivio:
+
+┌─────────────────────────────────────────────────────────────┐
+│                    DUAL-CHANNEL ASSUMPTION                  │
+│  (from DCT: separate verbal and visual processing)          │
+├─────────────────────────────────────────────────────────────┤
+│                   LIMITED CAPACITY ASSUMPTION               │
+│  (from CLT: each channel has limited processing capacity)   │
+├─────────────────────────────────────────────────────────────┤
+│                   ACTIVE PROCESSING ASSUMPTION              │
+│  (new: meaningful learning requires cognitive engagement)   │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+                    Mayer's 12 Principles
+              (coherence, signaling, redundancy,
+               spatial/temporal contiguity, etc.)
+```
+
+### Dual Coding and Bloom's Taxonomy (L029)
+
+| Bloom's Level | Dual Coding Application |
+|---------------|------------------------|
+| Remember | Dual-coded information more memorable |
+| Understand | Images help explain abstract concepts |
+| Apply | Visual schemas guide procedural application |
+| Analyze | Diagrams make relationships visible |
+| Evaluate | Multiple representations enable comparison |
+| Create | Rich mental models support novel synthesis |
+
+## Practical Applications
+
+### Educational Design Principles
+
+```
+DUAL CODING PRINCIPLES FOR INSTRUCTION
+
+1. PAIR WORDS WITH IMAGES
+   ❌ "The mitochondria is the powerhouse of the cell"
+   ✓  Text + diagram showing ATP production
+
+2. AVOID COGNITIVE OVERLOAD
+   ❌ Text + identical narration + decorative images
+   ✓  Complementary text and visuals (not redundant)
+
+3. SPATIAL CONTIGUITY
+   ❌ Text on page 1, image on page 5
+   ✓  Text integrated with relevant image
+
+4. SIGNALING
+   Use visual cues (arrows, highlighting) to direct attention
+   between text and relevant image components
+
+5. TEMPORAL CONTIGUITY
+   Present narration and animation simultaneously
+   (not sequentially)
+```
+
+### Examples of Effective Dual Coding
+
+```
+BEFORE (Verbal Only):
+"The water cycle involves evaporation, condensation, 
+and precipitation. Water evaporates from bodies of water, 
+condenses into clouds, and falls as precipitation."
+
+AFTER (Dual Coded):
+
+    [Diagram of Water Cycle]
+    
+         Condensation
+              ↑
+    ┌─────────┴─────────┐
+    │    ☁️ ☁️ ☁️      │  ← Clouds form
+    │   💧💧💧💧💧      │
+    └─────────┬─────────┘
+              │ Precipitation
+              ▼
+    🏔️  🌲  🌧️  🌲  🏔️
+    Mountain → Rain → Forest
+              │
+              ▼
+    ═══════════════════  ← Runoff
+              │
+              ▼
+         🌊🌊🌊🌊🌊       ← Ocean
+              │
+              │ Evaporation
+              ▼
+            💨💨💨        ← Water vapor rises
+              │
+              └──────────► (back to condensation)
+
+Key terms labeled directly on diagram
+Arrows show process flow
+Visual metaphors (clouds, rain, ocean) reinforce verbal labels
+```
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Individual differences:** Not everyone has equal imagery ability ("vividness" varies)
+2. **Domain specificity:** More effective for concrete vs. abstract content
+3. **Developmental factors:** Young children may have less developed verbal system
+4. **Cultural factors:** Symbol systems vary across cultures
+5. **Redundancy risk:** Poorly designed dual coding can increase load rather than aid processing
+
+### The Expert-Novice Difference
+
+> Experts have richer, more interconnected referential links. Novices may process verbal and visual information separately without making meaningful connections. Instruction must explicitly support referential processing for novices.
+
+**Element:** Wood/β (branching) — experts have more developed referential pathways
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Computing** | RAID storage (redundant arrays) | Multiple channels for reliability |
+| **Biology** | Bilateral brain hemispheres | Specialization with integration |
+| **Design** | Information visualization | Visual encoding of abstract data |
+| **Art** | Iconography | Image + text creating meaning |
+| **Music** | Programmatic music | Sound representing non-musical concepts |
+
+## Core Insight
+
+> Dual Coding Theory reveals that human cognition is inherently multimodal — we don't just think in words or just think in images, but in the dynamic interplay between symbolic and analog representations. The power of dual coding lies not merely in presenting information twice, but in creating referential bridges that enable richer, more flexible, and more durable mental models. When we see and hear, label and visualize, abstract and concretize — we learn more deeply than either mode alone could achieve.
+
+## One-Sentence Insight
+
+> Dual Coding Theory demonstrates that human cognition operates through separate but interconnected verbal and nonverbal systems, and that learning is enhanced when information is encoded in both modalities simultaneously, creating referential connections that produce additive memory and comprehension effects.
+
+## Three-Bullet Expansion
+
+- **What:** A cognitive theory proposing that humans process information through two separate but interconnected systems — a verbal system for language-based information and a nonverbal system for imagery — with referential connections between them enabling richer mental representations
+- **How it works:** Information enters through either verbal or nonverbal channels, activating representational units (logogens or imagens); referential processing creates bidirectional connections between the systems; associative processing builds networks within each system; the result is additive — dual-coded information is remembered better than single-coded information
+- **Where it aims:** Toward optimized learning and communication — by presenting information in complementary verbal and visual formats, educators and communicators can leverage both processing systems, creating multiple retrieval pathways and deeper conceptual understanding
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #P003, #P002_Growth_Mindset, #P001_self_efficacy_theory, #L011_Cognitive_Load_Theory, #L029_Blooms_Taxonomy
+- **Formal Operators:** σ, ρ, β, μ, κ, ✶
+- **Dim Operators:** χ_distinction, Ψ_resonance, Ψ_exploratory, Ψ_structure
+- **Coord Ontology:** Its (the theory itself), I (learner processing information), We (educational designers using multimodal principles)
+
+## Source
+
+Derived from:
+- Paivio, A. (1971). Imagery and verbal processes. *Holt, Rinehart and Winston*.
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.
+- Paivio, A. (2006). Mind and its evolution: A dual coding theoretical approach. *Lawrence Erlbaum Associates*.
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press.
+- Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review*, 3(3), 149-210.
+
+Original context: Cognitive psychology, educational psychology, instructional design
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Air/σ + Water/ρ (co-dominant) with Wood/β, Metal/μ support | Daemon: Aerunik-Aquariel-Arboriel-Ferrosid | Habitat: 5_INSTRUCTIONAL-DESIGN / 7_MULTIMEDIA-LEARNING / 8_MEMORY-ENHANCEMENT
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (working memory and modality effects)
+- L029_Blooms_Taxonomy (cognitive levels and representation)
+- P002_Growth_Mindset (cognitive beliefs about learning)
+- P001_self_efficacy_theory (confidence in processing capabilities)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #P003 | Generated: 2026-02-27 15:15*
