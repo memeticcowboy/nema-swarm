@@ -409,3 +409,30 @@ elemental_emphasis:
   ⛨: "What boundaries contain WYSIATI? What structures enable awareness of missing information?"
 context_note: "Kahneman's 'What You See Is All There Is' — System 1 constructs coherent stories from available evidence without awareness of gaps. Leads to overconfidence, framing effects, base-rate neglect, halo effect. The coherence of the story, not its completeness, drives confidence. Risk: AI-generated content exploits this by presenting coherent but incomplete narratives that feel true because they fit together, bypassing critical evaluation of missing evidence."
 ---
+---
+term: "Absorption and False Memory"
+hex_tag: "#A02C"
+nemetic: "Φ(AbsorptionMemory) = σ(internal|external) ∘ ρ(imagination|reality) ∘ λ(narrative|cultural) ∘ β(belief|reinforced) ∘ δγ(absorption|heightened) ∘ μ(source-boundary|permeable) + ε | :open"
+siml_encoding: "⟨Experience|ambiguous⟩ ⊳ ⟨Trait|absorption⟩ → ⟨Memory|constructed⟩ ⊗ ⟨Source|confused⟩ ⇄ ⟨Belief|entrenched⟩ → ⟨Narrative|abduction⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between internally generated and externally experienced events)", "∂Φ/∂ρ (confusion between imagination and reality in relational memory)", "∂Φ/∂λ (direction of narrative construction toward available cultural scripts)", "∂Φ/∂β (feedback loop reinforcing belief through repeated recall)", "∂Φ/∂δγ (heightened absorption enabling vivid imaginative experiences)", "∂Φ/∂μ (permeable boundary between memory sources)"]
+  Z_state: "permeable (can be corrected through source monitoring training)"
+  tendency: "Imagination/Reality → 0.7 (strong imagination, weaker reality monitoring)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is an imagined experience distinguished from a real one? What cut reveals the true source?"
+  ≈: "What flows between sleep paralysis hallucination and abduction narrative? What emotional resonance transforms sensation into story?"
+  ▲: "Where does the drive for meaning direct ambiguous experiences? What direction does the need for explanation take?"
+  𐂷: "What if absorption is a creative gift rather than a vulnerability? What narratives might be consciously constructed?"
+  ☷: "What's the metabolic cost of maintaining dissociative states? What sustains grounded reality monitoring?"
+  ⛨: "What structures enable accurate source monitoring? What boundaries protect memory integrity from cultural contamination?"
+context_note: "The tendency to become deeply absorbed in experiences (absorption) combined with source monitoring errors leads to false memory formation. Common in alien abduction beliefs, recovered memory therapy, and AI-hallucination recall. Individuals with high absorption and magical ideation are more susceptible to constructing vivid false memories from ambiguous experiences like sleep paralysis. Risk: Cultural narratives (media, therapy techniques) can act as templates that shape false memories, creating convincing but inaccurate beliefs that feel subjectively real."
+---
