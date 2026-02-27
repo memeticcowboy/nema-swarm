@@ -1,0 +1,462 @@
+---
+term_id: L059
+source_domain: education
+source_term: Cognitive Apprenticeship (Collins, Brown, & Newman, 1989)
+hex_tag: #L059
+generated_at: 2026-02-27T23:55:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Cognitive Apprenticeship — Learning through guided participation in authentic practice
+- **Nemetic String:** Φ(CognitiveApprenticeship) = ρ(situated|authentic-context) ⊗ μ(modeling|expert-demonstration) → [β(scaffolding|guided-support)] → [δγ(coaching|iterative-feedback)] → [✶(fading|gradual-autonomy)] → [λ(articulation|reflection)] → [σ(exploration|independent-practice)] + ε | :embedded
+- **Core Operators:** ρ (water/situated), μ (metal/structure), β (wood/scaffolding), δγ (earth/cycling), ✶ (child/integration), λ (fire/direction), σ (air/distinction)
+- **Z-State:** embedded — learning occurs within authentic practice contexts through expert-guided participation
+- **Tendency:** Resonance/Structure/Growth/Cycling/Integration/Direction/Distinction → 1 (expert-novice knowledge transmission through practice)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-authentic-practice⟩ 
+    ⊳ ⟨Constraint|abstract-knowledge-needs-context⟩ 
+    ⇄ ⟨Process|situated-learning-activation⟩ 
+    ⇄ ⟨Process|expert-modeling-demonstration⟩ 
+    → ⟨Structure|cognitive-apprenticeship-framework⟩ 
+    ⊗ ⟨Process|scaffolding-and-coaching⟩ 
+    → ⟨Process|fading-support-gradually⟩ 
+    → ⟨Process|articulation-and-reflection⟩ 
+    → ⟨Outcome|independent-expert-practice⟩ 
+    ↺ ⟨Spiral|expertise-development-through-participation⟩ 
+```
+
+## Core Definition
+
+**Cognitive Apprenticeship**, developed by Allan Collins, John Seely Brown, and Ann Newman in 1989, extends traditional apprenticeship models to **cognitive and metacognitive skills**. While traditional apprenticeship focuses on physical tasks (crafts, trades), cognitive apprenticeship makes thinking visible and learnable in domains like reading, writing, mathematics, and problem-solving.
+
+The framework addresses a critical problem in education: **expert knowledge is often tacit** — experts have automated their thinking to the point where they can no longer articulate how they do what they do. Cognitive apprenticeship provides methods to externalize, model, and teach these invisible cognitive processes.
+
+### The Four Dimensions of Cognitive Apprenticeship
+
+```
+COGNITIVE APPRENTICESHIP FRAMEWORK
+
+┌─────────────────────────────────────────────────────────────────┐
+│                    CONTENT DIMENSION                            │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │  DOMAIN KNOWLEDGE                                       │   │
+│  │  • Concepts, facts, procedures of the subject           │   │
+│  │  • Explicit, codified knowledge                         │   │
+│  │  Element: Air/σ (distinction, clarity)                  │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                              │                                  │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │  STRATEGIC KNOWLEDGE                                    │   │
+│  │  • Heuristics, techniques, methods for problem-solving  │   │
+│  │  • Tacit, experiential knowledge                        │   │
+│  │  Element: Water/ρ (flow, expertise)                     │   │
+│  └─────────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│                    METHOD DIMENSION                             │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────────┐ │
+│  │  MODELING   │  │   COACHING  │  │      SCAFFOLDING        │ │
+│  │             │  │             │  │                         │ │
+│  │ Expert      │  │ Expert      │  │ Structured support      │ │
+│  │ demonstrates│  │ observes &  │  │ that enables performance│ │ │
+│  │ thinking    │  │ gives       │  │ beyond current ability  │ │
+│  │ aloud       │  │ feedback    │  │                         │ │
+│  │             │  │             │  │                         │ │
+│  │ Element:    │  │ Element:    │  │ Element:                │ │
+│  │ Metal/μ     │  │ Earth/δγ    │  │ Wood/β                  │ │
+│  │ (structure) │  │ (cycling)   │  │ (growth)                │ │
+│  └─────────────┘  └─────────────┘  └─────────────────────────┘ │
+│                              │                                  │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────────┐ │
+│  │ ARTICULATION│  │  REFLECTION │  │      EXPLORATION        │ │
+│  │             │  │             │  │                         │ │
+│  │ Student     │  │ Comparison  │  │ Independent problem-    │ │
+│  │ verbalizes  │  │ of expert   │  │ solving with increasing │ │
+│  │ their       │  │ and novice  │  │ autonomy                │ │
+│  │ thinking    │  │ performance │  │                         │ │
+│  │             │  │             │  │                         │ │
+│  │ Element:    │  │ Element:    │  │ Element:                │ │
+│  │ Air/σ       │  │ Child/✶     │  │ Fire/λ                  │ │
+│  │ (distinction)│  │ (integration)│  │ (direction)            │ │
+│  └─────────────┘  └─────────────┘  └─────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│                    SEQUENCING DIMENSION                         │
+│  • Global before local skills                                   │
+│  • Increasing complexity                                        │
+│  • Increasing diversity                                         │
+│  Element: Metal/μ (structure, progression)                      │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│                    SOCIOLOGY DIMENSION                          │
+│  • Situated learning: authentic contexts                        │
+│  • Community of practice: learning with others                  │
+│  • Intrinsic motivation: learning for real purposes             │
+│  • Cooperation: exploiting social resources                     │
+│  Element: Water/ρ (resonance, situatedness)                     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## The Six Teaching Methods
+
+### 1. Modeling (μ - Metal/Structure)
+
+```
+MODELING: Making Thinking Visible
+
+Expert demonstrates while verbalizing internal processes:
+
+┌─────────────────────────────────────────────────────────────┐
+│ EXPERT THINKING ALOUD (Mathematics Problem)                 │
+│                                                             │
+│ "Okay, I need to solve for x. First, I look at what's      │
+│  given... Hmm, I have two equations with two variables.    │
+│  My strategy is substitution. Let me check if that will    │
+│  work... Actually, elimination might be cleaner here.      │
+│  I'm noticing the coefficients..."                         │
+│                                                             │
+│ Element: Metal/μ — Structure of expert cognition            │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Externalize tacit expert knowledge
+Key: Show the false starts, the strategy selection, the monitoring
+```
+
+### 2. Coaching (δγ - Earth/Cycling)
+
+```
+COACHING: Observation and Feedback
+
+Expert watches student practice and provides guidance:
+
+┌─────────────────────────────────────────────────────────────┐
+│ COACHING INTERACTION                                        │
+│                                                             │
+│ Student: [Works on problem]                                 │
+│                                                             │
+│ Coach: "I see you're trying to factor. What made you        │
+│        choose that approach?"                               │
+│                                                             │
+│ Student: "The form looks factorable."                       │
+│                                                             │
+│ Coach: "Good pattern recognition. What would you check      │
+│        before committing to that path?"                     │
+│                                                             │
+│ Element: Earth/δγ — Iterative feedback cycles               │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Guide performance in the moment
+Key: Questions over answers, process over product
+```
+
+### 3. Scaffolding (β - Wood/Growth)
+
+```
+SCAFFOLDING: Support for Stretch Performance
+
+┌─────────────────────────────────────────────────────────────┐
+│ SCAFFOLDING EXAMPLES                                        │
+│                                                             │
+│ High Support:                                               │
+│ • Provide problem-solving framework                         │
+│ • Break task into sub-tasks                                 │
+│ • Offer hints and prompts                                   │
+│ • Reduce degrees of freedom                                 │
+│                                                             │
+│ Medium Support:                                             │
+│ • Remind of relevant strategies                             │
+│ • Ask monitoring questions                                  │
+│ • Provide partial solutions                                 │
+│                                                             │
+│ Low Support:                                                │
+│ • Check understanding                                       │
+│ • Confirm approach                                          │
+│ • Available if needed                                       │
+│                                                             │
+│ Element: Wood/β — Generative growth support                 │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Enable performance beyond current independent ability
+Key: Temporary support that fades as competence develops
+```
+
+### 4. Articulation (σ - Air/Distinction)
+
+```
+ARTICULATION: Verbalizing Thought Processes
+
+Methods for making student thinking explicit:
+
+┌─────────────────────────────────────────────────────────────┐
+│ ARTICULATION TECHNIQUES                                     │
+│                                                             │
+│ • Think-aloud protocols: Student verbalizes while solving   │
+│ • Self-explanation: Student explains why steps were taken   │
+│ • Peer teaching: Student explains concepts to others        │
+│ • Process journals: Written reflection on problem-solving   │
+│                                                             │
+│ Example: "Explain why you chose that strategy"              │
+│          "What made you think of that approach?"            │
+│          "How did you know to stop there?"                  │
+│                                                             │
+│ Element: Air/σ — Distinction through verbalization          │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Make implicit strategies explicit and examinable
+Key: Both correct and incorrect reasoning is valuable to articulate
+```
+
+### 5. Reflection (✶ - Child/Integration)
+
+```
+REFLECTION: Comparing Performance
+
+┌─────────────────────────────────────────────────────────────┐
+│ REFLECTION ACTIVITIES                                       │
+│                                                             │
+│ Expert-Novice Comparison:                                   │
+│ • "Notice how the expert approached this differently"       │
+│ • "What did you miss that they saw?"                        │
+│                                                             │
+│ Self-Comparison Over Time:                                  │
+│ • "Compare your solution to last week's"                    │
+│ • "What strategies have you added?"                         │
+│                                                             │
+│ Multiple Solution Comparison:                               │
+│ • "Here are three approaches — what differs?"               │
+│ • "When would each be most effective?"                      │
+│                                                             │
+│ Element: Child/✶ — Integration through comparison           │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Develop self-monitoring and abstract understanding
+Key: Comparison reveals patterns not visible in single instances
+```
+
+### 6. Exploration (λ - Fire/Direction)
+
+```
+EXPLORATION: Independent Problem-Solving
+
+┌─────────────────────────────────────────────────────────────┐
+│ EXPLORATION PHASE                                           │
+│                                                             │
+│ Student characteristics:                                    │
+│ • Sets own learning goals                                   │
+│ • Chooses problems to solve                                 │
+│ • Selects strategies independently                          │
+│ • Monitors own understanding                                │
+│ • Seeks help when needed                                    │
+│                                                             │
+│ Expert role shifts to:                                      │
+│ • Resource provider                                         │
+│ • Consultant on demand                                      │
+│ • Occasional coach                                          │
+│                                                             │
+│ Element: Fire/λ — Autonomous direction                      │
+└─────────────────────────────────────────────────────────────┘
+
+Purpose: Develop independent expertise
+Key: Student takes increasing responsibility for learning
+```
+
+## The Fading Process
+
+```
+FADING: Gradual Transfer of Responsibility
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  EXPERT    MODELING → COACHING → SCAFFOLDING → EXPLORATION  │
+│  CONTROL        │         │          │            │         │
+│    High         │         │          │            │         │
+│                 ▼         ▼          ▼            ▼         │
+│  NOVICE    OBSERVING → PRACTICING → GUIDED → INDEPENDENT   │
+│  AUTONOMY       │         │          │            │         │
+│    Low          └─────────┴──────────┴────────────┘         │
+│                        FADING PATH                          │
+│                                                             │
+│  Support decreases as competence increases                  │
+│  ─────────────────────────────────────────►                 │
+│  Time/Experience                                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+Fading is not abandonment — it's calibrated release
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance (Situated/Resonant)
+
+Cognitive Apprenticeship is fundamentally a **Water theory** — learning is **embedded in authentic contexts**:
+
+**Water/ρ (Situated/Resonant):**
+- **Authentic contexts:** Learning occurs in real practice situations
+- **Legitimate peripheral participation:** Novices join communities of practice
+- **Context-dependent knowledge:** Skills transfer because they were learned in context
+- **Social learning:** Exploiting the social nature of cognition
+
+**Metal/μ (Structure/Form):**
+- **Systematic sequencing:** Global before local, increasing complexity
+- **Method framework:** Six structured teaching methods
+- **Progression markers:** Clear developmental trajectory
+
+**Wood/β (Growth/Exploration):**
+- **Scaffolding:** Support that enables growth beyond current ability
+- **Branching paths:** Multiple strategies and approaches
+- **Generative learning:** Student generates solutions with support
+
+**Earth/δγ (Cycling/Metabolic):**
+- **Iterative practice:** Repeated cycles of attempt-feedback-revision
+- **Coaching loops:** Ongoing observation and guidance
+- **Skill consolidation:** Through repeated cycles
+
+**Child/✶ (Integration/Harmony):**
+- **Reflection:** Integration through comparison
+- **Fading:** Seamless transition from supported to independent
+- **Whole practice:** Global skills before component skills
+
+**Fire/λ (Direction/Purpose):**
+- **Exploration:** Self-directed learning goals
+- **Intrinsic motivation:** Learning for authentic purposes
+- **Autonomy development:** Increasing self-direction
+
+**Air/σ (Distinction/Clarity):**
+- **Articulation:** Making thinking explicit and distinct
+- **Strategy comparison:** Distinguishing between approaches
+- **Process visibility:** Externalizing internal cognition
+
+### Supporting Elements
+
+| Element | Role in Cognitive Apprenticeship |
+|---------|----------------------------------|
+| **Knowledge/κ** | Domain and strategic knowledge transmission |
+| **Pathology/π** | Expert blind spot, premature fading |
+
+## Connection to Related Theories
+
+### Cognitive Apprenticeship vs. Situated Learning
+
+| Aspect | Situated Learning | Cognitive Apprenticeship |
+|--------|-------------------|--------------------------|
+| **Focus** | Social context of learning | Teaching methods for cognitive skills |
+| **Mechanism** | Legitimate peripheral participation | Modeling, coaching, scaffolding, fading |
+| **Element** | Water/ρ (situatedness) | Water/ρ + Metal/μ + Wood/β |
+| **Relationship** | CA provides pedagogical methods for situated learning |
+
+### Cognitive Apprenticeship vs. Scaffolding
+
+| Aspect | Scaffolding (Vygotsky/Wood) | Cognitive Apprenticeship |
+|--------|----------------------------|--------------------------|
+| **Scope** | Temporary support structure | Complete pedagogical framework |
+| **Methods** | Support and fading | Six integrated methods |
+| **Element** | Wood/β (growth) | Multiple elements |
+| **Relationship** | Scaffolding is one method within CA |
+
+### Cognitive Apprenticeship vs. Cognitive Apprenticeship vs. PCK
+
+| Aspect | PCK | Cognitive Apprenticeship |
+|--------|-----|--------------------------|
+| **Focus** | Teacher knowledge | Teaching methods |
+| **Question** | "What does the teacher know?" | "How does the teacher teach?" |
+| **Element** | Child/✶ (integration) | Water/ρ (situated) |
+| **Relationship** | PCK enables effective CA; CA is a method PCK employs |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Traditional Crafts** | Apprenticeship | Learning by doing with expert guidance |
+| **Medical Training** | Residency | Progressive responsibility in authentic practice |
+| **Sports Coaching** | Skill development | Modeling, feedback, guided practice |
+| **Music Education** | Master classes | Expert demonstration, student performance, feedback |
+| **Workplace Learning** | Mentoring | On-the-job guidance and support |
+| **Clinical Psychology** | Supervision | Guided development of therapeutic skills |
+
+## Cognitive Apprenticeship in Practice
+
+### Example: Teaching Reading Comprehension
+
+```
+COGNITIVE APPRENTICESHIP IN READING
+
+┌─────────────────────────────────────────────────────────────┐
+│ MODELING (Expert thinks aloud while reading):               │
+│ "I'm confused here — let me reread... Ah, this connects     │
+│  to what the author said earlier. I'm making an inference   │
+│  based on..."                                               │
+├─────────────────────────────────────────────────────────────┤
+│ COACHING (While student reads):                             │
+│ "What do you do when you don't understand?"                 │
+│ "Good — you reread. What else could you try?"               │
+├─────────────────────────────────────────────────────────────┤
+│ SCAFFOLDING (Structured support):                           │
+│ • Graphic organizers for main ideas                         │
+│ • Question prompts for self-monitoring                      │
+│ • Strategy reminders                                        │
+├─────────────────────────────────────────────────────────────┤
+│ ARTICULATION (Student explains thinking):                   │
+│ "I was confused so I went back and looked for..."           │
+├─────────────────────────────────────────────────────────────┤
+│ REFLECTION (Compare strategies):                            │
+│ "How did your approach differ from the expert's?"           │
+├─────────────────────────────────────────────────────────────┤
+│ EXPLORATION (Independent practice):                         │
+│ Student selects texts and applies strategies independently  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Core Insight
+
+> Cognitive Apprenticeship reveals that **cognitive skills can be taught like craft skills** — through modeling, coaching, and guided practice in authentic contexts. The framework solves the "expert blind spot" problem by making thinking visible, externalizing tacit knowledge, and providing structured support that fades as competence develops. It bridges the gap between knowing and doing, between abstract knowledge and situated expertise.
+
+## One-Sentence Insight
+
+> Cognitive Apprenticeship makes expert thinking visible and learnable through modeling, coaching, scaffolding, and fading — teaching cognitive skills through guided participation in authentic practice.
+
+## Three-Bullet Expansion
+
+- **What:** A pedagogical framework that extends traditional apprenticeship to cognitive skills, using six methods (modeling, coaching, scaffolding, articulation, reflection, exploration) to make thinking visible and teachable
+- **How it works:** Expert demonstrates thinking → coaches student practice → provides scaffolding → fades support → student articulates and reflects → achieves independent exploration
+- **Where it aims:** Toward expertise development through legitimate peripheral participation in authentic practice communities, with tacit knowledge becoming explicit and transferable
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L059, #L027_Scaffolding_Theory, #L028_Cognitive_Apprenticeship, #L058_Pedagogical_Content_Knowledge, #L014_Situated_Learning, #L013_Social_Learning_Theory
+- **Formal Operators:** ρ, μ, β, δγ, ✶, λ, σ
+- **Dim Operators:** Ψ_situated, Ψ_visible, Ψ_guided, Ψ_fading
+- **Coord Ontology:** I (novice learner), It (authentic task), We (community of practice), Its (expertise domain)
+
+## Source
+
+Derived from:
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453-494). Erlbaum.
+- Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6-11, 38-46.
+- Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. *Educational Researcher, 18*(1), 32-42.
+- Collins, A. (2006). Cognitive apprenticeship. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 47-60). Cambridge University Press.
+
+Original context: Learning sciences, instructional design, professional education
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Water/ρ (primary) with Metal/μ, Wood/β, Earth/δγ, Child/✶, Fire/λ, Air/σ support | Daemon: Sentaria-Metallos-Arboriel-Humavita-Aethon-Jvalion-Aerunik | Habitat: 6_SITUATED-COGNITION / 7_EXPERT-TRANSMISSION / 8_PROFESSIONAL-EDUCATION
+
+## Related Entries
+
+- L027_Scaffolding_Theory (temporary support structure)
+- L028_Cognitive_Apprenticeship (expert-novice knowledge transmission)
+- L058_Pedagogical_Content_Knowledge (teacher knowledge for transformation)
+- L014_Situated_Learning (context-embedded knowledge)
+- L013_Social_Learning_Theory (observational learning)
+- L047_Self_Regulated_Learning (learner autonomy development)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L059 | Generated: 2026-02-27 23:55*
