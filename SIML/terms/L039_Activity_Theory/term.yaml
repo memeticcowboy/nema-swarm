@@ -1,0 +1,427 @@
+---
+term_id: L039
+source_domain: education
+source_term: Activity Theory (Leontiev, 1974; Vygotsky tradition)
+hex_tag: #L039
+generated_at: 2026-02-27T18:55:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Activity Theory — Understanding human cognition and learning through the lens of purposeful, tool-mediated social activity
+- **Nemetic String:** Φ(Activity) = ρ(social|collective-motive) ∘ μ(tools|mediation) ∘ λ(purpose|object-oriented) ∘ δγ(transformation|activity-cycle) → [β(development|zone-of-potential)] → [κ(outcome|transformed-object)] + ε | :mediated-praxis
+- **Core Operators:** ρ (water/resonance), μ (metal/structure), λ (fire/direction), δγ (earth/cycling), β (wood/generation)
+- **Z-State:** mediated-praxis — cognition emerges through tool-mediated activity toward meaningful objects
+- **Tendency:** Social/Transformation → 1 (collective becoming through instrumental action)
+
+## SIML Encoding
+
+```
+⟨Narrative|activity-as-unit-of-analysis⟩ 
+    ⊳ ⟨Constraint|subject-object-tool-mediation⟩ 
+    ⊳ ⟨Constraint|social-historical-context⟩ 
+    ⇄ ⟨Process|internalization-externalization⟩ 
+    → ⟨Structure|activity-system⟩ 
+    ⊗ ⟨Outcome|transformed-object-and-subject⟩ 
+    → ⟨Transfer|cultural-reproduction⟩ 
+    → ⟨Transformation|development-through-contradictions⟩
+```
+
+## Core Definition
+
+**Activity Theory**, developed by Alexei Leontiev (1974) as an extension of Vygotsky's cultural-historical psychology, posits that human cognition and learning cannot be understood in isolation but must be analyzed through **purposeful, tool-mediated social activity**. The basic unit of analysis is not the individual or the stimulus-response pair, but the **activity system** — a collective, object-oriented, historically situated formation.
+
+### The Activity System Model (Engeström, 1987)
+
+```
+                    ┌─────────────────────┐
+                    │      RULES          │
+                    │  (norms, conventions)│
+                    │      Metal/μ        │
+                    └──────────┬──────────┘
+                               │
+    ┌─────────────┐    ┌───────┴───────┐    ┌─────────────┐
+    │   SUBJECT   │◄───┤    TOOLS      ├───►│   OBJECT    │
+    │  (individual │    │  (artifacts,   │    │ (raw material│
+    │   or group   │    │   signs,      │    │  or problem  │
+    │   seeking    │    │   instruments)│    │   to act on) │
+    │   motive)    │    │    Metal/μ    │    │              │
+    │   Fire/λ     │    └───────────────┘    │   Fire/λ     │
+    └──────┬──────┘                           └──────┬──────┘
+           │                                         │
+           │    ┌─────────────────────────────────┐  │
+           └───►│      COMMUNITY                  │◄─┘
+                │  (social group sharing object)  │
+                │         Water/ρ                 │
+                └─────────────────────────────────┘
+                          │
+                          ▼
+                ┌─────────────────────┐
+                │   DIVISION OF LABOR │
+                │ (roles, power, tasks)│
+                │      Metal/μ        │
+                └─────────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      OUTCOME        │
+                    │  (transformed object│
+                    │   + developed subject│
+                    │   + transformed community)
+                    │      Knowledge/κ    │
+                    └─────────────────────┘
+
+The activity system as a minimal meaningful context for understanding human doing
+```
+
+### Three Levels of Activity (Leontiev)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  LEVEL 1: ACTIVITY (Деятельность)                               │
+│  ═══════════════════════════════════                            │
+│  • Driven by MOTIVE (motive → object)                           │
+│  • Collective, social, historically formed                      │
+│  • Element: Fire/λ (direction toward meaningful object)         │
+│  • Example: "Getting a university education"                    │
+│                                                                 │
+│       ↓ Decomposes into                                         │
+│                                                                 │
+│  LEVEL 2: ACTIONS (Действия)                                    │
+│  ═══════════════════════════                                    │
+│  • Driven by GOALS (conscious, specific)                        │
+│  • Can be individual or collective                              │
+│  • Element: Metal/μ (structured, goal-directed)                 │
+│  • Example: "Attending lecture," "Writing essay," "Studying"    │
+│                                                                 │
+│       ↓ Decomposes into                                         │
+│                                                                 │
+│  LEVEL 3: OPERATIONS (Операции)                                 │
+│  ═══════════════════════════════                                │
+│  • Driven by CONDITIONS (automatic, unconscious)                │
+│  • Context-dependent execution                                  │
+│  • Element: Earth/δγ (conditioned, habitual)                    │
+│  • Example: "Holding pen," "Turning page," "Typing"             │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  THE HIERARCHY IS FLUID:                                        │
+│                                                                 │
+│  What is an OPERATION in one context...                         │
+│       ↓                                                         │
+│  ...can become an ACTION when conditions change                 │
+│       ↓                                                         │
+│  ...can become ACTIVITY when given new social meaning           │
+│                                                                 │
+│  Example: Typing                                                │
+│  • Operation: For skilled typist (automatic)                    │
+│  • Action: For learner (conscious attention to keys)            │
+│  • Activity: For typing instructor (motive: teaching others)    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Mediation: The Core Mechanism
+
+```
+MEDIATION TRIANGLE (Vygotsky's Original Insight)
+
+          Subject ◄─────────────────────► Object
+              \                           /
+               \                         /
+                \                       /
+                 \    MEDIATING        /
+                  \   ARTIFACTS       /
+                   \   (Tools)        /
+                    \                 /
+                     ▼               ▼
+                ┌─────────────────────┐
+                │  • Physical tools   │
+                │  • Signs/symbols    │
+                │  • Language         │
+                │  • Cultural schemas │
+                └─────────────────────┘
+
+Without mediation: Direct stimulus → Response (animal behavior)
+With mediation:   Stimulus → Tool/Sign → Response (human behavior)
+
+The tool transforms both the object AND the subject
+```
+
+## Key Concepts
+
+### 1. Object-Orientedness (Fire/λ)
+
+Every activity is oriented toward an **object** that holds motive power:
+- The object is not just a thing but a **problem space**
+- It carries cultural and historical meaning
+- It transforms through activity (raw → processed)
+- The object motivates and directs activity
+
+```
+OBJECT TRANSFORMATION
+
+Raw Object          Activity Process          Transformed Object
+──────────          ────────────────          ──────────────────
+
+Illiterate          Education system          Literate citizen
+person                                        (new capabilities)
+
+Raw materials       Manufacturing             Finished product
+                                          
+Social problem      Collective action         Changed social
+                                            conditions
+
+The object is both the target and the catalyst of transformation
+```
+
+### 2. Internalization and Externalization (Earth/δγ)
+
+```
+THE CYCLE OF TRANSFORMATION
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   EXTERNAL (Social, Collective)                             │
+│   ═════════════════════════════                             │
+│                                                             │
+│   • Cultural tools exist "out there"                        │
+│   • Social practices precede individual mastery             │
+│   • Interpsychological (between people)                     │
+│                                                             │
+│          ↓ INTERNALIZATION                                  │
+│            (Earth/δγ — metabolic absorption)                │
+│                                                             │
+│   INTERNAL (Individual, Psychological)                      │
+│   ═══════════════════════════════════                       │
+│                                                             │
+│   • Tools become part of cognitive structure                │
+│   • Social processes become mental functions                │
+│   • Intrapsychological (within person)                      │
+│                                                             │
+│          ↓ EXTERNALIZATION                                  │
+│            (Wood/β — generative expression)                 │
+│                                                             │
+│   • Individual transforms external world                    │
+│   • New tools/artifacts created                             │
+│   • Culture is reproduced AND transformed                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+"Every function in the child's cultural development appears twice:
+first on the social level, and later, on the individual level."
+— Vygotsky
+```
+
+### 3. Contradictions as Drivers of Development
+
+```
+CONTRADICTIONS IN ACTIVITY SYSTEMS
+
+Activity systems develop through the resolution of contradictions:
+
+PRIMARY CONTRADICTION (within elements):
+• The dual nature of use-value vs. exchange-value in any element
+• Example: Tool designed for one purpose used for another
+
+SECONDARY CONTRADICTION (between elements):
+• Mismatch between subject skills and object demands
+• New tools vs. old rules
+• Example: Digital tools in traditional classroom rules
+
+TERTIARY CONTRADICTION (between activity and neighbor):
+• New activity form emerges alongside old
+• Example: Online learning vs. traditional schooling
+
+QUATERNARY CONTRADICTION (between activity and culture):
+• Activity system vs. broader cultural patterns
+• Example: Collaborative learning in individualist culture
+
+Each contradiction, when addressed, drives system transformation
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ (Resonance) — Primary
+
+Activity Theory is fundamentally a **Water** theory:
+- **Social constitution:** All activity is inherently collective
+- **Relational ontology:** Subject exists in relation to community and object
+- **Flow of practice:** Activity flows through social networks
+- **Resonance with history:** Every activity carries historical sediment
+
+### Metal/μ (Structure) — Secondary
+
+The structural dimensions:
+- **Tools as crystallized knowledge:** Artifacts embody past learning
+- **Rules and division of labor:** Structural organization of activity
+- **System boundaries:** The activity system as bounded unit of analysis
+- **Hierarchical organization:** Activity → Action → Operation
+
+### Fire/λ (Direction) — Tertiary
+
+The purposive dimension:
+- **Object-orientation:** Activity is always directed toward something
+- **Motive as driver:** The "why" that energizes activity
+- **Goal-directedness:** Conscious intention in actions
+- **Transformation as telos:** Development toward expanded capabilities
+
+### Earth/δγ (Cycling) — Supporting
+
+The developmental dimension:
+- **Internalization cycles:** Social → Individual transformation
+- **Historical development:** Activities evolve over time
+- **Metabolic processing:** Activity as transformation of raw to refined
+- **Regenerative growth:** Development through contradiction resolution
+
+### Wood/β (Generation) — Supporting
+
+The creative dimension:
+- **Externalization:** Creating new artifacts and practices
+- **Expansive learning:** Moving beyond existing activity patterns
+- **Zone of proximal development:** Potential for growth
+- **Innovation through contradiction:** New forms emerging from tensions
+
+## Connection to Related Theories
+
+### Activity Theory and Sociocultural Theory (L022)
+
+| Aspect | Sociocultural Theory | Activity Theory |
+|--------|---------------------|-----------------|
+| **Focus** | Zone of proximal development | Activity system as unit |
+| **Element** | Water/ρ (social scaffolding) | Water/ρ + Metal/μ (social + structural) |
+| **Unit** | Dyad (learner + more knowledgeable other) | Collective activity system |
+| **Relationship** | AT extends SCT to collective, object-oriented activity |
+
+### Activity Theory and Situated Learning (L014)
+
+Both emphasize context, but:
+- **Situated Learning:** Learning as legitimate peripheral participation in communities of practice
+- **Activity Theory:** Learning as transformation through object-oriented activity
+- **Integration:** Communities of practice can be analyzed as activity systems
+
+### Activity Theory and Distributed Cognition
+
+| Aspect | Distributed Cognition | Activity Theory |
+|--------|----------------------|-----------------|
+| **Origin** | Hutchins (cognitive science) | Leontiev (Soviet psychology) |
+| **Focus** | Cognitive processes distributed across people and tools | Human development through activity |
+| **Element** | Air/σ (information flow) | Water/ρ + Metal/μ (social + structural) |
+| **Integration** | DC provides cognitive mechanisms; AT provides developmental framework |
+
+## Applications in Learning Design
+
+### Third-Generation Activity Theory (Engeström)
+
+```
+MINIMAL REPRESENTATION OF TWO INTERACTING ACTIVITY SYSTEMS
+
+    Activity System A                    Activity System B
+    (e.g., School)                       (e.g., Workplace)
+    
+    ┌─────────┐                          ┌─────────┐
+    │ Subject │                          │ Subject │
+    │ (Student)│                         │(Worker) │
+    └────┬────┘                          └────┬────┘
+         │                                    │
+         ▼                                    ▼
+    ┌─────────┐      SHARED OBJECT       ┌─────────┐
+    │  Tools  │◄────(e.g., internship)──►│  Tools  │
+    │(theory) │                          │(practice)│
+    └─────────┘                          └─────────┘
+         │                                    │
+    ┌─────────┐                          ┌─────────┐
+    │Community│                          │Community│
+    │(academic)│                         │(professional)│
+    └─────────┘                          └─────────┘
+    
+    BOUNDARY CROSSING: The shared object creates zone for learning
+    BOUNDARY OBJECTS: Artifacts that function in both systems
+```
+
+### Activity-Centered Design
+
+Principles for designing learning environments:
+
+1. **Identify the object:** What is the meaningful problem learners engage with?
+2. **Analyze mediation:** What tools (physical, conceptual, social) are available?
+3. **Map the activity system:** Who is the community? What are the rules? How is labor divided?
+4. **Find contradictions:** Where are the tensions that can drive development?
+5. **Design for expansive learning:** How can learners transcend current practices?
+
+## Critiques and Developments
+
+### Valid Criticisms
+
+1. **Functionalist bias:** Early versions emphasized adaptation over transformation
+2. **Underestimation of power:** Insufficient attention to domination and resistance
+3. **Complexity:** Difficult to operationalize for empirical research
+4. **Cultural specificity:** Rooted in Soviet context; universal applicability questioned
+5. **Subjectivity:** Insufficient attention to individual experience within activity
+
+### Post-Vygotskian Developments
+
+- **Cultural-Historical Activity Theory (CHAT):** Emphasizing diversity of voices
+- **Actor-Network Theory (ANT) integration:** More symmetrical treatment of human/non-human
+- **Critical psychology:** Attention to power, marginalization, resistance
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Organizational studies** | Communities of practice | Social learning through participation |
+| **Human-computer interaction** | Activity-centered design | Designing for meaningful activity, not just tasks |
+| **Systems thinking** | Soft systems methodology | Human activity systems as complex wholes |
+| **Marxist theory** | Labor process theory | Object-oriented activity, tool mediation |
+| **Ecology** | Niche construction | Organisms transforming their environment |
+
+## Core Insight
+
+> Activity Theory reveals that human cognition is not a property of individual brains but of **activity systems** — collective, tool-mediated, object-oriented formations that stretch across time and space. To understand learning, we must look not at what happens "in the head" but at the transformations occurring through engagement with meaningful objects, mediated by cultural tools, within social communities. The elemental wisdom is clear: we are not isolated thinkers but nodes in networks of activity, and our development occurs through the contradictions and resolutions of collective praxis.
+
+## One-Sentence Insight
+
+> Activity Theory demonstrates that human learning and development must be understood not as individual cognitive acquisition but as transformation occurring through collective, tool-mediated, object-oriented activity systems that carry historical meaning and develop through the resolution of internal contradictions.
+
+## Three-Bullet Expansion
+
+- **What:** A theoretical framework developed by Leontiev extending Vygotsky's work, analyzing human cognition and learning through the lens of collective, tool-mediated, object-oriented activity systems rather than isolated individual behavior
+- **How it works:** Subject (individual or group) engages with object (problem/motive) through tools (artifacts, signs, language), within a community, governed by rules and division of labor → activity transforms both object and subject → internalization absorbs social practices into individual cognition → externalization creates new artifacts and practices → contradictions drive system development
+- **Where it aims:** Toward expansive learning and human development — understanding how individuals and collectives can transcend existing practices, transform their activity systems, and develop new capabilities through meaningful engagement with their world
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L039, #L022_Sociocultural_Theory, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L028_Cognitive_Apprenticeship, #L036_Action_Learning
+- **Formal Operators:** ρ, μ, λ, δγ, β, κ
+- **Dim Operators:** Q_inward, Ψ_structural, Q_forward, Ψ_regenerative, Ψ_exploratory
+- **Coord Ontology:** I (subject), It (object), We (community), Its (tools as crystallized culture)
+
+## Source
+
+Derived from:
+- Leontiev, A. N. (1974). *The Problem of Activity in Psychology*. Soviet Psychology, 13(2), 4-33.
+- Leontiev, A. N. (1978). *Activity, Consciousness, and Personality*. Prentice-Hall.
+- Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+- Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit.
+- Engeström, Y. (2001). Expansive Learning at Work: Toward an Activity Theoretical Reconceptualization. *Journal of Education and Work*, 14(1), 133-156.
+- Kuutti, K. (1996). Activity Theory as a Potential Framework for Human-Computer Interaction Research. In B. Nardi (Ed.), *Context and Consciousness: Activity Theory and Human-Computer Interaction* (pp. 17-44). MIT Press.
+
+Original context: Soviet psychology, educational research, human-computer interaction, organizational studies
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Water/ρ (primary) + Metal/μ (secondary) + Fire/λ (tertiary) + Earth/δγ + Wood/β | Daemon: Aquariel-Ferrosid-Jvalion-Humavita-Arboriel | Habitat: 5_INSTRUCTIONAL-DESIGN / 6_ORGANIZATIONAL-LEARNING / 7_HCI-DESIGN
+
+## Related Entries
+
+- L022_Sociocultural_Theory (Vygotsky's foundation)
+- L014_Situated_Learning (communities of practice)
+- L013_Social_Learning_Theory (social dimensions of learning)
+- L028_Cognitive_Apprenticeship (activity-based skill development)
+- L036_Action_Learning (learning through doing)
+- L027_Scaffolding_Theory (support structures within activity)
+- L017_Constructionism (building as activity)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L039 | Generated: 2026-02-27 18:55*

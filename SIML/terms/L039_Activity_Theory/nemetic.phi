@@ -1,0 +1,109 @@
+{
+  "term_id": "L039",
+  "term_name": "Activity Theory",
+  "source": "Leontiev (1974), Vygotsky tradition",
+  "elemental_mapping": {
+    "primary": {
+      "element": "Water",
+      "daemon": "Aquariel",
+      "operator": "ρ",
+      "dim_operator": "Q_inward",
+      "rationale": "Activity Theory is fundamentally about the social constitution of mind — cognition as collective, relational, and historically situated"
+    },
+    "secondary": {
+      "element": "Metal",
+      "daemon": "Ferrosid",
+      "operator": "μ",
+      "dim_operator": "Ψ_structural",
+      "rationale": "Tool mediation and the hierarchical structure of activity (activity/action/operation) provide enabling constraints"
+    },
+    "tertiary": {
+      "element": "Fire",
+      "daemon": "Jvalion",
+      "operator": "λ",
+      "dim_operator": "Q_forward",
+      "rationale": "Object-orientation gives activity its directional motive force"
+    },
+    "supporting": [
+      {
+        "element": "Earth",
+        "daemon": "Humavita",
+        "operator": "δγ",
+        "dim_operator": "Ψ_regenerative",
+        "rationale": "Internalization/externalization cycles transform both individual and culture"
+      },
+      {
+        "element": "Wood",
+        "daemon": "Arboriel",
+        "operator": "β",
+        "dim_operator": "Ψ_exploratory",
+        "rationale": "Expansive learning enables breakthrough beyond existing activity patterns"
+      }
+    ]
+  },
+  "nemetic_string": "Φ(Activity) = ρ(social|collective-motive) ∘ μ(tools|mediation) ∘ λ(purpose|object-oriented) ∘ δγ(transformation|activity-cycle) → [β(development|zone-of-potential)] → [κ(outcome|transformed-object)] + ε",
+  "z_state": "mediated-praxis",
+  "tendency": "Social/Transformation → 1",
+  "pathology_risks": [
+    {
+      "pathology": "The Swamp",
+      "composition": "δγ↑ ∧ σ↓",
+      "manifestation": "Activity becomes habitualized; contradictions ignored; system stagnates",
+      "intervention": "Introduce Air/σ — make contradictions visible"
+    },
+    {
+      "pathology": "The Lattice",
+      "composition": "μ↑ ∧ ρ↓",
+      "manifestation": "Bureaucratic structure overwhelms social connection; object lost behind procedure",
+      "intervention": "Strengthen Water/ρ — reconnect with community"
+    },
+    {
+      "pathology": "The Burn",
+      "composition": "λ↑ ∧ β↓",
+      "manifestation": "Rigid purpose prevents innovation; no expansive learning",
+      "intervention": "Activate Wood/β — introduce experimentation"
+    }
+  ],
+  "core_insight": "Human cognition is not a property of individual brains but of activity systems — collective, tool-mediated, object-oriented formations that stretch across time and space.",
+  "key_concepts": [
+    "Activity system (subject-object-tool-community-rules-division of labor)",
+    "Three levels: Activity (motive) → Action (goal) → Operation (conditions)",
+    "Mediation through tools and signs",
+    "Internalization and externalization",
+    "Contradictions as drivers of development",
+    "Zone of proximal development",
+    "Expansive learning"
+  ],
+  "related_entries": [
+    "L022_Sociocultural_Theory",
+    "L014_Situated_Learning",
+    "L013_Social_Learning_Theory",
+    "L028_Cognitive_Apprenticeship",
+    "L036_Action_Learning",
+    "L027_Scaffolding_Theory"
+  ],
+  "cross_domain_bridges": [
+    {
+      "domain": "Organizational studies",
+      "concept": "Communities of practice",
+      "shared_pattern": "Social learning through participation"
+    },
+    {
+      "domain": "Human-computer interaction",
+      "concept": "Activity-centered design",
+      "shared_pattern": "Designing for meaningful activity"
+    },
+    {
+      "domain": "Systems thinking",
+      "concept": "Soft systems methodology",
+      "shared_pattern": "Human activity systems as complex wholes"
+    },
+    {
+      "domain": "Marxist theory",
+      "concept": "Labor process theory",
+      "shared_pattern": "Object-oriented activity, tool mediation"
+    }
+  ],
+  "generated_at": "2026-02-27T18:55:00+08:00",
+  "status": "draft"
+}
