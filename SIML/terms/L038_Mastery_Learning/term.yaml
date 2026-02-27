@@ -1,0 +1,484 @@
+---
+term_id: L038
+source_domain: education
+source_term: Mastery Learning (Bloom, 1968)
+hex_tag: #L038
+generated_at: 2026-02-27T18:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Mastery Learning — Instructional strategy where students must achieve a high level of understanding before progressing
+- **Nemetic String:** Φ(Mastery) = μ(criterion|fixed-standard) ∘ δγ(cycling|formative-feedback) ∘ λ(persistence|time-variable) → [β(competence|hierarchical-buildup)] → [κ(mastery-achievement)] + ε | :competence-based
+- **Core Operators:** μ (metal/structure), δγ (earth/cycling), λ (fire/direction), β (wood/generation)
+- **Z-State:** competence-based — learning organized around demonstrated proficiency rather than time spent
+- **Tendency:** Structure/Cycling → 1 (iterative refinement toward fixed standards)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-for-mastery⟩ 
+    ⊳ ⟨Constraint|fixed-criterion-variable-time⟩ 
+    ⇄ ⟨Process|formative-assessment→feedback→corrective⟩ 
+    → ⟨Strategy|alternative-learning-pathways⟩ 
+    ⊗ ⟨Outcome|high-achievement-distribution⟩ 
+    → ⟨Transfer|positive-academic-self-concept⟩ 
+    → ⟨Transformation|equality-of-educational-opportunity⟩
+```
+
+## Core Definition
+
+**Mastery Learning**, developed by Benjamin Bloom in 1968, is an instructional approach based on the radical premise that **most students (perhaps 95%) can learn whatever the school has to teach**—if given sufficient time and appropriate instruction. This directly challenges the traditional model where time is fixed and achievement varies.
+
+### The Mastery Learning Cycle
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    MASTERY LEARNING CYCLE               │
+│                                                         │
+│   ┌─────────────┐                                       │
+│   │ 1. OBJECTIVE│◄── Clear, specific learning goals    │
+│   │   SETTING   │    (Metal/μ — structure)              │
+│   └──────┬──────┘                                       │
+│          │                                              │
+│          ▼                                              │
+│   ┌─────────────┐                                       │
+│   │ 2. INITIAL  │◄── High-quality group instruction    │
+│   │ INSTRUCTION │                                       │
+│   └──────┬──────┘                                       │
+│          │                                              │
+│          ▼                                              │
+│   ┌─────────────┐                                       │
+│   │ 3. FORMATIVE│◄── Diagnostic assessment (not graded) │
+│   │ ASSESSMENT  │    (Air/σ — distinction)              │
+│   └──────┬──────┘                                       │
+│          │                                              │
+│    ┌─────┴─────┐                                        │
+│    │           │                                        │
+│    ▼           ▼                                        │
+│ ┌──────┐   ┌──────┐                                     │
+│ │PASS  │   │NEEDS │                                     │
+│ │(80%+ │   │WORK  │                                     │
+│ │typ.) │   │      │                                     │
+│ └──┬───┘   └──┬───┘                                     │
+│    │          │                                         │
+│    ▼          ▼                                         │
+│ ┌──────┐   ┌─────────────────────────────────────┐     │
+│ │ENRICH│   │ 4. CORRECTIVE INSTRUCTION           │     │
+│ │MENT  │   │    • Alternative explanations       │     │
+│ │ACTIV │   │    • Different learning materials   │     │
+│ │ITIES │   │    • Peer tutoring                  │     │
+│ │      │   │    • Study groups                   │     │
+│ │      │   │    (Earth/δγ — cycling)             │     │
+│ │      │   └─────────────────────────────────────┘     │
+│ │      │          │                                     │
+│ │      │          ▼                                     │
+│ │      │   ┌─────────────┐                              │
+│ │      │   │ 5. PARALLEL │◄── Second formative test    │
+│ │      │   │  ASSESSMENT │                              │
+│ │      │   └──────┬──────┘                              │
+│ │      │          │                                     │
+│ │      │    ┌─────┴─────┐                               │
+│ │      │    │           │                               │
+│ │      │    ▼           ▼                               │
+│ │      │ ┌──────┐   ┌──────┐                           │
+│ │      │ │PASS  │   │STILL │──► Additional cycles      │
+│ │      │ │      │   │NEEDS │    (Earth/δγ↑)            │
+│ │      │ │      │   │WORK  │                           │
+│ │      │ └──┬───┘   └──────┘                           │
+│ │      │    │                                          │
+│ │      │    ▼                                          │
+│ │      │ ┌─────────────┐                               │
+│ │      │ │  MASTERY    │                               │
+│ │      │ │  ACHIEVED   │                               │
+│ │      │ └─────────────┘                               │
+│ │      │                                               │
+│ └──────┴───────────────────────────────────────────────┘
+│                                                         │
+│   KEY PRINCIPLE: Time is the variable, mastery is fixed │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### The Two Sigma Problem
+
+Bloom's research revealed a profound finding:
+
+```
+ACHIEVEMENT DISTRIBUTION UNDER DIFFERENT CONDITIONS
+
+Traditional Instruction:
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁│
+│   ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔│
+│        C (Average)                                      │
+│   Achievement varies widely                             │
+│   Time is fixed                                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+Mastery Learning:
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│         A (High Mastery)                                │
+│   80%+ of students achieve mastery                      │
+│   Time varies                                           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+One-on-One Tutoring (The "2 Sigma" Goal):
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│         A+ (2 standard deviations above)                │
+│   Individual pacing + immediate feedback                │
+│   The benchmark for instructional design                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+**The Two Sigma Problem:** How can group instruction achieve results comparable to one-on-one tutoring?
+
+## Key Components
+
+### 1. Clear Learning Objectives (Metal/μ)
+
+```
+OBJECTIVE HIERARCHY
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  UNIT OBJECTIVE                                         │
+│  "Students will understand photosynthesis"              │
+│                                                         │
+│           │                                             │
+│           ▼                                             │
+│  ┌─────────────────────────────────────────────────┐   │
+│  │ SPECIFIC OBJECTIVES                              │   │
+│  │                                                  │   │
+│  │ • Define photosynthesis                          │   │
+│  │ • Identify reactants and products                │   │
+│  │ • Explain the light-dependent reactions          │   │
+│  │ • Explain the Calvin cycle                       │   │
+│  │ • Diagram the process                            │   │
+│  │ • Apply to real-world scenarios                  │   │
+│  │                                                  │   │
+│  │ Each: Observable, measurable, specific           │   │
+│  │ (Metal/μ — clear structure)                      │   │
+│  └─────────────────────────────────────────────────┘   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 2. Formative Assessment (Air/σ)
+
+Unlike summative assessment (grading), formative assessment:
+- **Diagnoses** learning gaps
+- **Guides** corrective instruction
+- **Occurs** during learning, not at the end
+- **Is** non-punitive (information, not evaluation)
+
+### 3. Corrective Instruction (Earth/δγ + Wood/β)
+
+```
+CORRECTIVE STRATEGIES
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  When initial instruction fails, provide alternatives:  │
+│                                                         │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐     │
+│  │ Alternative │  │   Peer      │  │  Different  │     │
+│  │Explanation  │  │  Tutoring   │  │  Materials  │     │
+│  │             │  │             │  │             │     │
+│  │ (Wood/β)    │  │ (Water/ρ)   │  │ (Wood/β)    │     │
+│  │ New angle   │  │ Relational  │  │ Alternative │     │
+│  │ Branching   │  │ learning    │  │ media       │     │
+│  └─────────────┘  └─────────────┘  └─────────────┘     │
+│                                                         │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐     │
+│  │   Study     │  │  Computer-  │  │  Small      │     │
+│  │   Groups    │  │   Assisted  │  │   Groups    │     │
+│  │             │  │             │  │             │     │
+│  │ (Water/ρ)   │  │ (Metal/μ)   │  │ (Water/ρ)   │     │
+│  │ Collaborative│  │ Adaptive    │  │ Discussion  │     │
+│  │ sense-making│  │ practice    │  │ & practice  │     │
+│  └─────────────┘  └─────────────┘  └─────────────┘     │
+│                                                         │
+│  Key: Match corrective to student need (Air/σ)         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 4. Enrichment Activities (Fire/λ)
+
+For students who achieve mastery quickly:
+- Extension activities
+- Creative applications
+- Peer tutoring (teaching reinforces learning)
+- Independent projects
+- Higher-order thinking tasks
+
+## Elemental Pattern Analysis
+
+### Metal/μ (Structure) — Primary
+
+Mastery Learning is fundamentally a **Metal** theory:
+
+- **Fixed standards:** Clear, non-negotiable criteria for mastery
+- **Criterion-referenced:** Achievement measured against objective, not other students
+- **Hierarchical organization:** Prerequisites must be mastered before advancement
+- **Structured feedback:** Systematic, timely, specific
+
+### Earth/δγ (Cycling) — Secondary
+
+The iterative nature of mastery learning:
+
+- **Formative loops:** Assessment → Feedback → Correction → Re-assessment
+- **Time as variable:** Students cycle until mastery achieved
+- **Metabolic processing:** Learning is digested, not just consumed
+- **Regenerative:** Each cycle builds capacity for next
+
+### Fire/λ (Direction) — Tertiary
+
+The motivational dimension:
+
+- **Persistence:** Students keep working until mastery
+- **Self-efficacy:** Success breeds confidence
+- **Internal locus:** "I can learn this if I keep trying"
+- **Variable time:** Some need more time — that's acceptable
+
+### Wood/β (Generation) — Supporting
+
+The growth aspect:
+
+- **Competence building:** Each mastered unit enables next
+- **Alternative pathways:** Multiple routes to same goal
+- **Hierarchical growth:** Prerequisites → complex understanding
+- **Branching possibilities:** Enrichment extends learning
+
+## The Mastery Learning vs. Traditional Model
+
+```
+┌─────────────────────────────────────────────────────────┐
+│              TRADITIONAL INSTRUCTION                    │
+│                                                         │
+│   Time: FIXED ──────────────────────────────►          │
+│                                                         │
+│   Achievement: VARIABLE                                 │
+│   ┌─────┐                                               │
+│   │  A  │  ──► 20%                                       │
+│   │  B  │  ──► 30%                                       │
+│   │  C  │  ──► 30%                                       │
+│   │  D  │  ──► 15%                                       │
+│   │  F  │  ──► 5%                                        │
+│   └─────┘                                               │
+│                                                         │
+│   Assumption: Achievement is normally distributed       │
+│   (some will succeed, some will fail)                   │
+│                                                         │
+│   Element: Metal/μ↑ (fixed time) + Air/σ (sorting)      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│                MASTERY LEARNING                         │
+│                                                         │
+│   Achievement: FIXED ───────────────────────►          │
+│   (High standard for all)                               │
+│                                                         │
+│   Time: VARIABLE                                        │
+│   ┌─────┐                                               │
+│   │Fast │  ──► 20%  (enrichment)                        │
+│   │Avg  │  ──► 60%  (standard path)                     │
+│   │Slow │  ──► 20%  (extra cycles)                      │
+│   └─────┘                                               │
+│                                                         │
+│   Assumption: Most can achieve mastery given time       │
+│   (95% success rate possible)                           │
+│                                                         │
+│   Element: Metal/μ (criterion) + Earth/δγ (cycling)     │
+│            + Fire/λ (persistence)                       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### Mastery Learning and Behaviorism (L021)
+
+| Aspect | Behaviorism | Mastery Learning |
+|--------|-------------|------------------|
+| **Focus** | Observable behavior | Demonstrated competence |
+| **Mechanism** | Stimulus-response | Feedback-corrective loops |
+| **Element** | Metal/μ (conditioning) | Earth/δγ (cycling) + Metal/μ (criterion) |
+| **Difference** | External control | Internal mastery orientation |
+
+Bloom was influenced by Skinner's programmed instruction but shifted focus from behavioral control to **cognitive mastery**.
+
+### Mastery Learning and Self-Determination Theory (L015)
+
+Mastery Learning supports SDT's three needs:
+- **Autonomy:** Choice in corrective activities, self-paced
+- **Competence:** Clear feedback, achievable goals, mastery experience
+- **Relatedness:** Peer tutoring, study groups
+
+### Mastery Learning and Cognitive Load Theory (L011)
+
+| Aspect | Cognitive Load Theory | Mastery Learning |
+|--------|----------------------|------------------|
+| **Focus** | Working memory capacity | Time and feedback |
+| **Element** | Air/σ (distinction) | Metal/μ (structure) + Earth/δγ (cycling) |
+| **Integration** | CLT explains why some need more time (higher element interactivity) |
+
+### Mastery Learning and Zone of Proximal Development (L022)
+
+Bloom's "corrective instruction" parallels Vygotsky's "scaffolding":
+- Both recognize learners need support
+- Both emphasize appropriate challenge
+- Both see learning as social (peer tutoring, group work)
+
+## Research Evidence
+
+### The 1 Sigma Effect
+
+Meta-analyses show Mastery Learning produces:
+- **Effect size ~1.0** (one standard deviation above traditional instruction)
+- **Reduced variation** in achievement
+- **Improved attitudes** toward subject and self
+
+### Conditions for Success
+
+```
+SUCCESS FACTORS
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  HIGH IMPACT                    MODERATE IMPACT         │
+│  ━━━━━━━━━━━━                   ━━━━━━━━━━━━━━━         │
+│                                                         │
+│  • High-quality initial         • Specific objectives   │
+│    instruction                  • Frequent feedback     │
+│                                                         │
+│  • Immediate, specific          • Enrichment for        │
+│    diagnostic feedback            fast learners         │
+│                                                         │
+│  • Effective corrective         • Criterion level      │
+│    procedures                     (80-90% typical)      │
+│                                                         │
+│  • Adequate time for            • Student awareness     │
+│    correctives                    of mastery process    │
+│                                                         │
+│  Key: The feedback-corrective cycle is the engine       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Critiques and Limitations
+
+### Valid Concerns
+
+1. **Time demands:** Requires significant restructuring of school schedules
+2. **Resource intensive:** Corrective instruction requires additional materials, staffing
+3. **Curriculum coverage:** May reduce breadth for depth
+4. **Implementation fidelity:** Requires substantial teacher training
+5. **The "ceiling effect":** High-achieving students may be held back
+
+### Implementation Challenges
+
+```
+COMMON PITFALLS
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  PITFALL              │  SYMPTOM           │  FIX       │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  Criterion too low    │  False mastery     │  Raise to  │
+│                       │  (forgetting)      │  85-90%    │
+│                                                         │
+│  Criterion too high   │  Frustration       │  Lower or  │
+│                       │  (demoralization)  │  subdivide │
+│                                                         │
+│  Weak correctives     │  No improvement    │  Train     │
+│                       │  on retest         │  teachers  │
+│                                                         │
+│  Summative used       │  Anxiety, gaming   │  Separate  │
+│  as formative         │  the system        │  purposes  │
+│                                                         │
+│  No enrichment        │  Fast learners     │  Provide   │
+│                       │  bored/disruptive  │  extensions│
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Modern Applications
+
+### Adaptive Learning Systems
+
+Modern educational technology implements Mastery Learning principles:
+- **Khan Academy:** Mastery challenges, skill progression
+- **Duolingo:** Unit mastery before advancement
+- **ALEKS:** Adaptive assessment and learning paths
+
+### Competency-Based Education (CBE)
+
+Mastery Learning evolved into CBE:
+- **Direct assessment:** Demonstrate competence, not seat time
+- **Flexible pacing:** Move when ready
+- **Personalized pathways:** Multiple routes to same outcomes
+
+## Core Insight
+
+> Mastery Learning is a radical act of educational democracy. It asserts that the bell curve is not a natural law but a failure of instruction. When we say "most students can learn" and organize our systems accordingly, we transform education from a sorting mechanism into a growth engine. The elemental wisdom is clear: structure (Metal/μ) provides the container, cycling (Earth/δγ) enables the growth, and direction (Fire/λ) sustains the persistence. But the soul of Mastery Learning is its faith in human potential — the belief that given appropriate conditions, nearly all can achieve excellence.
+
+## One-Sentence Insight
+
+> Mastery Learning demonstrates that when instruction is organized around fixed standards with variable time and effective feedback-corrective cycles, the majority of students can achieve high levels of understanding that were previously thought possible only for a select few.
+
+## Three-Bullet Expansion
+
+- **What:** An instructional approach developed by Benjamin Bloom that organizes learning around clear objectives and criterion-referenced assessment, where students cycle through formative feedback and corrective instruction until achieving mastery (typically 80-90% criterion), with time allowed to vary rather than achievement
+- **How it works:** High-quality initial instruction → formative assessment → immediate diagnostic feedback → targeted corrective instruction (alternative explanations, peer tutoring, different materials) → parallel formative assessment → enrichment for those who master quickly, additional cycles for those who need more time
+- **Where it aims:** Toward educational equity and high achievement for all — challenging the assumption that learning ability is normally distributed and instead demonstrating that with appropriate conditions, approximately 95% of students can achieve mastery, reducing achievement gaps while maintaining high standards
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L038, #L021_Behaviorism, #L015_Self_Determination_Theory, #L011_Cognitive_Load_Theory, #L022_Sociocultural_Theory, #L027_Scaffolding_Theory
+- **Formal Operators:** μ, δγ, λ, β, σ
+- **Dim Operators:** Ψ_structure, Ψ_cycling, Ψ_persistence, Ψ_criterion
+- **Coord Ontology:** I (learner), It (objectives), We (peer tutoring), Its (mastery standard)
+
+## Source
+
+Derived from:
+- Bloom, B. S. (1968). Learning for Mastery. *UCLA Evaluation Comment*, 1(2), 1-12.
+- Bloom, B. S. (1976). *Human Characteristics and School Learning*. McGraw-Hill.
+- Bloom, B. S. (1984). The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. *Educational Researcher*, 13(6), 4-16.
+- Guskey, T. R. (1997). *Implementing Mastery Learning* (2nd ed.). Wadsworth.
+- Kulik, C. L., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research*, 60(2), 265-299.
+
+Original context: Educational psychology, instructional design, curriculum theory
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) + Earth/δγ (secondary) + Fire/λ (tertiary) | Daemon: Ferrosid-Humavita-Jvalion-Arboriel-Aerunik | Habitat: 5_INSTRUCTIONAL-DESIGN / 9_ASSESSMENT-EVALUATION / 10_PROFESSIONAL-EDUCATION
+
+## Related Entries
+
+- L021_Behaviorism (programmed instruction influence)
+- L015_Self_Determination_Theory (autonomy, competence, relatedness)
+- L011_Cognitive_Load_Theory (why some need more time)
+- L022_Sociocultural_Theory (zone of proximal development)
+- L027_Scaffolding_Theory (support until mastery)
+- L029_Blooms_Taxonomy (Bloom's other major contribution)
+- L019_Spaced_Repetition (cycling for retention)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L038 | Generated: 2026-02-27 18:25*
