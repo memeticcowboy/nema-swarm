@@ -490,3 +490,30 @@ elemental_emphasis:
   ⛨: "What boundaries enforce norm persistence? What structures would enable healthy frame evolution?"
 context_note: "Communication norms persist through social reinforcement (Spiral of Silence), cognitive biases (anchoring, cognitive dissonance), and institutional inertia (path dependency). Cultural tightness increases resistance to frame shifting. Risk: Z-sealing where norms become invisible—'that's just how things are'—making alternatives literally unthinkable. Crisis may be required to unlock Z-state and enable normative transformation."
 ---
+---
+term: "Cognitive Dissonance"
+hex_tag: "#A02F"
+nemetic: "Φ(CogDissonance) = σ(belief|evidence) ∘ ρ(identity|threat) ∘ λ(consistency|restored) ∘ β(rationalization|reinforced) ∘ δγ(discomfort|elevated) ∘ μ(boundary|defended) + ε | :open"
+siml_encoding: "⟨Belief|held⟩ ⊳ ⟨Evidence|contradictory⟩ → ⟨Dissonance|experienced⟩ ⊗ ⟨Identity|threatened⟩ ⇄ ⟨Rationalization|deployed⟩ → ⟨Comfort|restored⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between held belief and contradictory evidence)", "∂Φ/∂ρ (relational threat to identity from belief challenge)", "∂Φ/∂λ (direction toward cognitive consistency restoration)", "∂Φ/∂β (feedback loop reinforcing rationalization patterns)", "∂Φ/∂δγ (elevated psychological discomfort from inconsistency)", "∂Φ/∂μ (boundary defense protecting core beliefs)"]
+  Z_state: "permeable (dissonance can motivate belief change rather than rationalization)"
+  tendency: "Comfort/Growth → 0.3 (strong preference for restoring comfort over embracing dissonance)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is the contradictory evidence distinguished from the held belief? What cut reveals the dissonance?"
+  ≈: "What flows between the discomfort of inconsistency and the relief of rationalization? What emotional resonance maintains belief?"
+  ▲: "Where does the drive for cognitive consistency lead? What direction does the need for coherence take us?"
+  𐂷: "What if cognitive dissonance is an invitation to growth rather than a threat? What beliefs might be consciously updated?"
+  ☷: "What's the metabolic cost of maintaining contradictory beliefs? What sustains the energy of rationalization?"
+  ⛨: "What boundaries protect core identity beliefs? What structures enable healthy belief revision?"
+context_note: "Leon Festinger's 1950s theory describing the psychological discomfort experienced when holding conflicting cognitions. The doomsday cult study showed believers doubling down on beliefs after failed predictions. Risk: Motivated reasoning leads to selective exposure—avoiding contradictory information and seeking confirming evidence. In the post-truth era, dissonance drives retreat into echo chambers rather than belief updating, making collective sensemaking increasingly difficult."
+---
