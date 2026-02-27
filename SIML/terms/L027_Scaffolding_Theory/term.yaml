@@ -1,0 +1,435 @@
+---
+term_id: L027
+source_domain: education
+source_term: Scaffolding Theory (Wood, Bruner & Ross, 1976)
+hex_tag: #L027
+generated_at: 2026-02-27T14:42:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Scaffolding Theory — Temporary support structures that enable learners to perform beyond their current independent capability
+- **Nemetic String:** Φ(Scaffolding) = μ(structure|temporary-support) ∘ ρ(resonance|expert-learner-relationship) ∘ β(branching|gradual-fade) ∘ σ(distinction|zone-of-proximal-development) → [λ(learner-direction)] → [κ(independent-mastery)] + ε | :supported
+- **Core Operators:** μ (structure/metal), ρ (resonance/water), β (branching/wood), σ (distinction/air)
+- **Z-State:** supported — learner operates within ZPD with temporary structural assistance
+- **Tendency:** Structure/Resonance → 1 (relationship enables growth)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-supported-performance⟩ 
+    ⊳ ⟨Constraint|task-beyond-current-capability⟩ 
+    ⇄ ⟨Support|expert-provided-scaffold⟩ 
+    → ⟨Process|guided-participation⟩ 
+    → ⟨Fade|gradual-support-reduction⟩ 
+    ⊗ ⟨Outcome|independent-mastery⟩ 
+    → ⟨Transfer|internalized-capability⟩ 
+    → ⟨Transformation|expanded-ZPD⟩
+```
+
+## Core Definition
+
+**Scaffolding** is an instructional technique where a more knowledgeable person provides temporary support structures that enable a learner to perform tasks they cannot yet complete independently. Coined by Wood, Bruner, and Ross in 1976, the term draws from construction scaffolding — temporary structures that enable work at heights impossible to reach alone, then are removed when the building can stand on its own.
+
+### The Scaffolding Metaphor
+
+```
+CONSTRUCTION SCAFFOLDING          LEARNING SCAFFOLDING
+┌─────────────────────┐          ┌─────────────────────┐
+│                     │          │                     │
+│   🏗️ SCAFFOLD       │    →     │   👨‍🏫 EXPERT         │
+│   (temporary)       │          │   (temporary)       │
+│                     │          │                     │
+│   Enables work      │    →     │   Enables learning  │
+│   at higher level   │          │   beyond current    │
+│                     │          │   capability        │
+│                     │          │                     │
+│   Removed when      │    →     │   Faded when        │
+│   structure stands  │          │   learner masters   │
+│                     │          │                     │
+└─────────────────────┘          └─────────────────────┘
+         │                                │
+         ▼                                ▼
+┌─────────────────────┐          ┌─────────────────────┐
+│   🏢 BUILDING       │    →     │   🎓 LEARNER        │
+│   (permanent)       │          │   (independent)     │
+└─────────────────────┘          └─────────────────────┘
+```
+
+### The Six Scaffolding Functions (Wood et al., 1976)
+
+| Function | Description | Nemetic Mapping |
+|----------|-------------|-----------------|
+| **Recruitment** | Engaging learner's interest and buy-in | λ (fire/direction/motivation) |
+| **Reduction in degrees of freedom** | Simplifying task to manageable units | μ (metal/structure/constraint) |
+| **Direction maintenance** | Keeping learner focused on goal | λ (fire/direction) |
+| **Marking critical features** | Highlighting relevant vs. irrelevant | σ (air/distinction) |
+| **Frustration control** | Managing emotional response to difficulty | ρ (water/resonance/emotional) |
+| **Demonstration** | Modeling expert performance | κ (knowledge/transmission) |
+
+## The Scaffolding Process Model
+
+```
+THE SCAFFOLDING CYCLE
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                         │
+    │  PHASE 1: ASSESSMENT                                    │
+    │  ─────────────────                                      │
+    │                                                         │
+    │  ┌─────────────┐      ┌─────────────┐      ┌─────────┐ │
+    │  │   Current   │  →   │    Task     │  →   │   Gap   │ │
+    │  │   Level     │      │   Demand    │      │ Analysis│ │
+    │  └─────────────┘      └─────────────┘      └────┬────┘ │
+    │       │                    │                    │      │
+    │       ▼                    ▼                    ▼      │
+    │  Element: σ            Element: σ           Element: μ │
+    │  (distinction)         (distinction)        (structure)│
+    │                                                         │
+    │  ═══════════════════════════════════════════════════   │
+    │                                                         │
+    │  PHASE 2: SCAFFOLD CONSTRUCTION                         │
+    │  ───────────────────────────────                        │
+    │                                                         │
+    │  ┌─────────────┐      ┌─────────────┐      ┌─────────┐ │
+    │  │   Select    │  →   │   Design    │  →   │  Build  │ │
+    │  │   Support   │      │   Scaffold  │      │  Structure│ │
+    │  │   Type      │      │             │      │         │ │
+    │  └─────────────┘      └─────────────┘      └────┬────┘ │
+    │       │                    │                    │      │
+    │       ▼                    ▼                    ▼      │
+    │  Element: μ            Element: β           Element: μ │
+    │  (structure)           (branching)          (structure)│
+    │                                                         │
+    │  ═══════════════════════════════════════════════════   │
+    │                                                         │
+    │  PHASE 3: SUPPORTED PERFORMANCE                         │
+    │  ──────────────────────────────                         │
+    │                                                         │
+    │  ┌─────────────┐      ┌─────────────┐      ┌─────────┐ │
+    │  │   Guided    │  →   │  Collaborative│ →  │  Shared │ │
+    │  │   Practice  │      │  Problem-   │      │  Success│ │
+    │  │             │      │  Solving    │      │         │ │
+    │  └─────────────┘      └─────────────┘      └────┬────┘ │
+    │       │                    │                    │      │
+    │       ▼                    ▼                    ▼      │
+    │  Element: ρ            Element: ρ           Element: ρ │
+    │  (resonance)           (resonance)          (resonance)│
+    │                                                         │
+    │  ═══════════════════════════════════════════════════   │
+    │                                                         │
+    │  PHASE 4: FADING                                        │
+    │  ────────────                                           │
+    │                                                         │
+    │  ┌─────────────┐      ┌─────────────┐      ┌─────────┐ │
+    │  │  Reduce     │  →   │  Transfer   │  →   │ Remove  │ │
+    │  │  Support    │      │  Control    │      │ Scaffold│ │
+    │  │             │      │             │      │         │ │
+    │  └─────────────┘      └─────────────┘      └────┬────┘ │
+    │       │                    │                    │      │
+    │       ▼                    ▼                    ▼      │
+    │  Element: β            Element: λ           Element: ✶ │
+    │  (branching)           (direction)          (integration)│
+    │                                                         │
+    │  ═══════════════════════════════════════════════════   │
+    │                                                         │
+    │  PHASE 5: INDEPENDENT MASTERY                           │
+    │  ────────────────────────────                           │
+    │                                                         │
+    │  ┌─────────────┐      ┌─────────────┐                  │
+    │  │  Independent│  →   │  Internalized│                 │
+    │  │  Performance│      │  Capability │                  │
+    │  │             │      │             │                  │
+    │  └─────────────┘      └─────────────┘                  │
+    │       │                    │                           │
+    │       ▼                    ▼                           │
+    │  Element: κ            Element: κ                      │
+    │  (knowledge)           (knowledge)                     │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Types of Scaffolding
+
+```
+SCAFFOLDING TYPOLOGY
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  CONCEPTUAL SCAFFOLDING                                     │
+│  ─────────────────────                                      │
+│  What: Tools for organizing ideas                           │
+│  Examples: Graphic organizers, concept maps, advance        │
+│            organizers, analogies                            │
+│  Element: σ (Air) — clarity, distinction, organization      │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  PROCEDURAL SCAFFOLDING                                     │
+│  ─────────────────────                                      │
+│  What: Guidance on how to do something                      │
+│  Examples: Step-by-step instructions, checklists,           │
+│            worked examples, modeling                        │
+│  Element: μ (Metal) — structure, sequence, boundaries       │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  STRATEGIC SCAFFOLDING                                      │
+│  ─────────────────────                                      │
+│  What: Support for planning and monitoring                  │
+│  Examples: Think-alouds, prompting questions,               │
+│            metacognitive cues                               │
+│  Element: λ (Fire) — direction, purpose, intentionality     │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  METACOGNITIVE SCAFFOLDING                                  │
+│  ─────────────────────────                                  │
+│  What: Support for thinking about thinking                  │
+│  Examples: Self-assessment rubrics, reflection prompts,     │
+│            learning journals                                │
+│  Element: ✶ (Child/Aether) — integration, self-awareness    │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  TECHNOLOGICAL SCAFFOLDING                                  │
+│  ─────────────────────────                                  │
+│  What: Digital tools that provide adaptive support          │
+│  Examples: Intelligent tutoring systems, hints in           │
+│            educational software, adaptive learning paths    │
+│  Element: μ+β (Metal+Wood) — structured flexibility         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## The Zone of Proximal Development Connection
+
+```
+ZPD AND SCAFFOLDING: THE RELATIONSHIP
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                         │
+    │                    LEARNING ZONE                        │
+    │                                                         │
+    │  ┌─────────────────────────────────────────────────┐   │
+    │  │                                                 │   │
+    │  │   CANNOT DO          CAN DO WITH         CAN DO │   │
+    │  │   (frustration)      SUPPORT            (mastery)│   │
+    │  │                                                 │   │
+    │  │   ◄──────────────────────────────────────────►  │   │
+    │  │                                                 │   │
+    │  │   ◄──────── ZONE OF PROXIMAL ───────────────►   │   │
+    │  │              DEVELOPMENT (ZPD)                  │   │
+    │  │                                                 │   │
+    │  │              ↑ SCAFFOLDING ENABLES ↑            │   │
+    │  │              ↑ PERFORMANCE IN THIS ↑            │   │
+    │  │              ↑ ZONE TEMPORARILY    ↑            │   │
+    │  │                                                 │   │
+    │  └─────────────────────────────────────────────────┘   │
+    │                                                         │
+    │   Vygotsky's ZPD (L022) describes the space.            │
+    │   Scaffolding describes the mechanism to navigate it.   │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Metal/μ Dominance
+
+Scaffolding is fundamentally a **Metal theory**:
+- **Structure:** Temporary frameworks that hold learning in place
+- **Boundaries:** Defining what support is provided and when
+- **Sequence:** Ordered steps toward independence
+- **Containment:** Holding the learner safely as they stretch
+
+### Supporting Elements
+
+| Element | Role in Scaffolding |
+|---------|---------------------|
+| **Water/ρ** | Expert-learner relationship, emotional safety, trust |
+| **Wood/β** | Gradual fading, branching pathways, growth |
+| **Air/σ** | Clear goals, distinguishing relevant from irrelevant |
+| **Fire/λ** | Motivation, direction maintenance, purpose |
+| **Earth/δγ** | Iterative cycles of support and fade |
+| **Child/✶** | Integration of support into independent capability |
+
+## Scaffolding vs. Other Support Models
+
+| Aspect | Scaffolding | Direct Instruction | Discovery Learning |
+|--------|-------------|-------------------|-------------------|
+| **Expert role** | Temporary support, fades | Ongoing direction | Minimal intervention |
+| **Learner agency** | Guided participation | Following directions | Full exploration |
+| **Element** | μ (Metal) + ρ (Water) | μ (Metal) dominant | β (Wood) dominant |
+| **Risk** | Dependency if fade fails | Passivity | Frustration, gaps |
+| **Best for** | ZPD tasks, complex skills | Basic skills, safety | Exploration, creativity |
+
+## The Fading Dilemma
+
+```
+THE ART OF REMOVING SUPPORT
+
+Too Early ──────────────────────────────────────► Too Late
+┌─────────────┐                              ┌─────────────┐
+│  FRUSTRATION│                              │  DEPENDENCY │
+│             │                              │             │
+│  Learner    │      OPTIMAL FADE ZONE       │  Learner    │
+│  collapses  │      ┌─────────────┐         │  cannot     │
+│  without    │      │  SUPPORTED  │         │  perform    │
+│  support    │      │  INDEPENDENCE│        │  without    │
+│             │      │             │         │  scaffold   │
+│             │      │  ✓ Confident│         │             │
+│             │      │  ✓ Competent│         │             │
+│             │      │  ✓ Independent│       │             │
+│             │      └─────────────┘         │             │
+└─────────────┘                              └─────────────┘
+
+Element: Fire/λ (knowing when) + Water/ρ (reading readiness)
+```
+
+## Connection to Related Theories
+
+### Scaffolding and Sociocultural Theory (L022)
+
+| Aspect | Sociocultural Theory | Scaffolding Theory |
+|--------|---------------------|-------------------|
+| **Origin** | Vygotsky (1934) | Wood, Bruner, Ross (1976) |
+| **Focus** | Social origins of cognition | Instructional technique |
+| **Concept** | ZPD — zone of development | Mechanism to bridge ZPD |
+| **Element** | Water/ρ (social) | Metal/μ (structural) |
+| **Relationship** | Scaffolding operationalizes ZPD principles | Applied sociocultural learning |
+
+### Scaffolding and Cognitive Load Theory (L011)
+
+```
+SCAFFOLDING × COGNITIVE LOAD: COMPLEMENTARY APPROACHES
+
+Cognitive Load Theory:          Scaffolding Theory:
+┌─────────────────────┐        ┌─────────────────────┐
+│ Manage intrinsic,   │        │ Provide temporary   │
+│ reduce extraneous,  │   +    │ structure for      │
+│ maximize germane    │        │ complex tasks       │
+├─────────────────────┤        ├─────────────────────┤
+│ Element: σ (Air)    │        │ Element: μ (Metal)  │
+│ Focus: Information  │        │ Focus: Relationship │
+│   design            │        │   + structure       │
+├─────────────────────┤        ├─────────────────────┤
+│ "Reduce load"       │        │ "Support through    │
+│                     │        │   load"             │
+└─────────────────────┘        └─────────────────────┘
+
+Together: Optimal challenge with appropriate support
+```
+
+### Scaffolding and Self-Determination Theory (L015)
+
+| Aspect | Self-Determination Theory | Scaffolding |
+|--------|--------------------------|-------------|
+| **Autonomy** | Self-directed behavior | Faded support enables autonomy |
+| **Competence** | Mastery experiences | Scaffolding creates mastery opportunities |
+| **Relatedness** | Connection with others | Expert-learner relationship |
+| **Element** | Fire/λ | Metal/μ + Water/ρ |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Construction** | Physical scaffolding | Temporary support for permanent structure |
+| **Software** | Training wheels, onboarding | Guided introduction, gradual complexity |
+| **Psychology** | Graduated exposure therapy | Supported confrontation of challenge |
+| **Medicine** | Rehabilitation protocols | Supported recovery of function |
+| **Parenting** | "Helping without hovering" | Balanced support for independence |
+| **Management** | Delegation with oversight | Supported autonomy in work |
+
+## Contemporary Applications
+
+### In Educational Technology
+
+```
+ADAPTIVE SCAFFOLDING SYSTEMS
+
+Traditional Scaffolding:        Intelligent Tutoring Systems:
+┌─────────────────────┐        ┌─────────────────────┐
+│ Human expert        │        │ AI algorithm        │
+│ judges readiness    │   →    │ detects errors &   │
+│ and fades support   │        │ adjusts hints       │
+├─────────────────────┤        ├─────────────────────┤
+│ Element: ρ (Water)  │        │ Element: μ+σ        │
+│                     │        │ (Metal+Air)         │
+└─────────────────────┘        └─────────────────────┘
+
+Examples: Khan Academy hints, Carnegie Learning, Duolingo
+```
+
+### In Peer Learning
+
+**Reciprocal Scaffolding:** Peers with complementary expertise scaffold each other
+- Element: ρ (Water) — peer relationship
+- Element: β (Wood) — mutual growth
+
+**Peer Tutoring:** More advanced peers provide scaffolding
+- Element: ρ (Water) — near-peer relationship
+- Element: μ (Metal) — structured support
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Expertise requirement:** Effective scaffolding requires skilled experts who understand both content and learner
+2. **Time intensity:** One-to-one or small group scaffolding is resource-intensive
+3. **Cultural assumptions:** Scaffolding assumes certain relationship patterns that may not be universal
+4. **Fade failure:** Scaffolds that don't fade create dependency rather than independence
+5. **Assessment challenge:** Hard to measure "what learner can do with support" vs. independent capability
+
+### The Contingency Principle
+
+> Scaffolding must be **contingent** on learner responses — responsive, adaptive, and dynamically adjusted. Rigid scaffolds fail; responsive scaffolds succeed.
+
+**Element:** Water/ρ (responsiveness) + Metal/μ (structure)
+
+## Core Insight
+
+> Scaffolding reveals that learning is not a solitary achievement but a relational accomplishment — the temporary meeting of expert structure and learner capability that creates a bridge to independence. The art is not in building the scaffold but in knowing when to remove it.
+
+## One-Sentence Insight
+
+> Scaffolding Theory demonstrates how temporary structural support, provided within the zone of proximal development and gradually faded, enables learners to perform beyond their current independent capabilities while building toward autonomous mastery.
+
+## Three-Bullet Expansion
+
+- **What:** An instructional technique where experts provide temporary support structures — recruiting interest, reducing complexity, maintaining direction, marking critical features, managing frustration, and modeling — that enable learners to perform tasks beyond their current independent capability
+- **How it works:** Assessment of learner's ZPD → construction of appropriate scaffold → supported performance through guided participation → gradual fading of support → independent mastery and internalized capability
+- **Where it aims:** Toward learner autonomy — the scaffold is temporary by design, with the goal of building independent competence rather than creating ongoing dependency
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L027, #L022_Sociocultural_Theory, #L011_Cognitive_Load_Theory, #L015_Self_Determination_Theory, #L026_Problem_Based_Learning
+- **Formal Operators:** μ, ρ, β, σ, λ, κ, ✶
+- **Dim Operators:** Ψ_structural, Q_inward, Ψ_exploratory, χ_distinction, Q_forward
+- **Coord Ontology:** We (expert-learner dyad), I (learner developing agency), Its (the scaffold structure)
+
+## Source
+
+Derived from:
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89-100.
+- Bruner, J. S. (1983). *Child's Talk: Learning to Use Language*. Norton.
+- Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+- van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review*, 22(3), 271-296.
+- Reiser, B. J., & Tabak, I. (2014). Scaffolding. In R. K. Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (2nd ed., pp. 44-62). Cambridge University Press.
+
+Original context: Developmental psychology, instructional design, educational psychology
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) with Water/ρ, Wood/β, Air/σ support | Daemon: Ferrosid-Sentaria-Arboriel-Aerunik | Habitat: 4_INQUIRY-LEARNING / 5_INSTRUCTIONAL-DESIGN / 6_SOCIAL-LEARNING
+
+## Related Entries
+
+- L022_Sociocultural_Theory (ZPD foundation)
+- L011_Cognitive_Load_Theory (managing cognitive demands)
+- L015_Self_Determination_Theory (autonomy support)
+- L026_Problem_Based_Learning (scaffolding in inquiry)
+- L013_Social_Learning_Theory (expert-learner relationships)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L027 | Generated: 2026-02-27 14:42*
