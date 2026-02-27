@@ -1,0 +1,358 @@
+---
+term_id: L037
+source_domain: education
+source_term: Double-Loop Learning (Argyris & Schön, 1978)
+hex_tag: #L037
+generated_at: 2026-02-27T18:15:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Double-Loop Learning — Learning that transforms the underlying assumptions governing action
+- **Nemetic String:** Φ(DoubleLoop) = σ(assumption|surface) ∘ δγ(reflection|deep-cycling) ∘ λ(inquiry|assumption-challenge) → [β(governing-variable|transformation)] → [κ(epistemic-shift)] + ε | :transformative
+- **Core Operators:** σ (air/distinction), δγ (earth/cycling), λ (fire/direction), β (wood/generation)
+- **Z-State:** transformative — learning that changes the frame itself, not just the content
+- **Tendency:** Inquiry/Transformation → 1 (questioning assumptions enables paradigm shifts)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-beyond-symptoms⟩ 
+    ⊳ ⟨Constraint|single-loop-fixes-symptoms-not-causes⟩ 
+    ⇄ ⟨Process|action→result→question-assumptions→new-governing-variables⟩ 
+    → ⟨Strategy|inquiry-into-defensive-routines⟩ 
+    ⊗ ⟨Outcome|transformed-theory-in-use⟩ 
+    → ⟨Transfer|increased-learning-capacity⟩ 
+    → ⟨Transformation|organizational-and-personal-change⟩
+```
+
+## Core Definition
+
+**Double-Loop Learning** is a theory of learning developed by Chris Argyris and Donald Schön (1978) that distinguishes between two levels of learning:
+
+1. **Single-Loop Learning:** Changing actions to correct errors while keeping governing values/assumptions constant (like a thermostat that turns heat on/off to maintain a set temperature)
+
+2. **Double-Loop Learning:** Questioning and transforming the underlying assumptions, values, and policies that govern actions (like a thermostat that asks "Why am I set to 72°F? Should I be set differently?")
+
+### The Two Loops
+
+```
+┌─────────────────────────────────────────────────────────┐
+│              SINGLE-LOOP LEARNING                       │
+│              (Fixing within the system)                 │
+│                                                         │
+│    ┌──────────┐      ┌──────────┐      ┌──────────┐    │
+│    │  Detect  │─────►│  Correct │─────►│  Action  │    │
+│    │  Error   │      │  Error   │      │          │    │
+│    └──────────┘      └──────────┘      └────┬─────┘    │
+│         ▲                                   │          │
+│         │                                   │          │
+│         └───────────────────────────────────┘          │
+│                                                         │
+│    Governing Variables: UNCHANGED                      │
+│    "The room is cold → Turn up heat → Check temp"      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│              DOUBLE-LOOP LEARNING                       │
+│              (Transforming the system)                  │
+│                                                         │
+│    ┌──────────┐      ┌──────────┐      ┌──────────┐    │
+│    │  Detect  │─────►│ Question │─────►│ Transform│    │
+│    │  Error   │      │Assumptions      │Governing │    │
+│    └──────────┘      └────┬─────┘      │Variables │    │
+│         ▲                 │            └────┬─────┘    │
+│         │                 │                 │          │
+│         │           ┌─────▼─────┐           │          │
+│         │           │  NEW      │           │          │
+│         │           │ASSUMPTIONS│◄──────────┘          │
+│         │           └───────────┘                      │
+│         │                                              │
+│         └──────────────────────────────────────────────┘
+│                                                         │
+│    Governing Variables: TRANSFORMED                    │
+│    "The room is cold → Why 72°F? → Adjust setpoint    │
+│     → OR improve insulation → OR add zones"            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Ladder of Inference
+
+Argyris and Schön identified how we climb the "ladder of inference" and how double-loop learning requires climbing back down:
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  6. TAKE ACTION          ┌─────────┐                    │
+│     (Based on beliefs)   │ Actions │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  5. FORM BELIEFS         ┌─────────┐                    │
+│     (Draw conclusions)   │Beliefs  │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  4. MAKE ASSUMPTIONS     ┌─────────┐                    │
+│                          │Assumptions                   │
+│                          └────┬────┘                    │
+│                               │                         │
+│  3. ADD MEANING          ┌─────────┐                    │
+│     (Cultural/personal)  │ Meanings│                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  2. SELECT DATA          ┌─────────┐                    │
+│                          │  Data   │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  1. REALITY/EXPERIENCE   ┌─────────┐                    │
+│                          │Reality  │                    │
+│                          └─────────┘                    │
+│                                                         │
+│   SINGLE-LOOP: Climbs to level 6, adjusts actions       │
+│   DOUBLE-LOOP: Climbs down to question levels 4-5       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Espoused Theory vs. Theory-in-Use
+
+Argyris and Schön distinguished between:
+
+| Concept | Definition | Learning Implication |
+|---------|------------|---------------------|
+| **Espoused Theory** | What we say we believe and do | Often idealized, socially desirable |
+| **Theory-in-Use** | What our actions reveal we actually believe | Often defensive, protective |
+| **The Gap** | The difference between the two | Source of organizational dysfunction |
+
+### The Gap
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ESPoused THEORY              THEORY-IN-USE           │
+│   (What we say)                (What we do)             │
+│                                                         │
+│   "We value collaboration"     Competition, hierarchy   │
+│   "We encourage risk-taking"   Punish failure          │
+│   "We are transparent"         Withhold information    │
+│   "We learn from mistakes"     Blame and cover-up      │
+│                                                         │
+│   ═══════════════════════════════════════════════════   │
+│                    THE GAP                              │
+│   ═══════════════════════════════════════════════════   │
+│                                                         │
+│   Double-loop learning requires making this gap         │
+│   visible and inquiring into its causes                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Model I vs. Model II Theories-in-Use
+
+### Model I (Defensive)
+
+**Governing Variables:**
+1. Achieve your intended purpose
+2. Maximize winning, minimize losing
+3. Suppress negative feelings
+4. Be rational (appear so)
+
+**Action Strategies:**
+- Advocate your position
+- Evaluate others' ideas (and your own)
+- Attribute causes
+- Exercise unilateral control
+
+**Consequences:**
+- Defensive relationships
+- Low freedom of choice
+- Reduced production of valid information
+- Self-sealing processes
+
+### Model II (Productive)
+
+**Governing Variables:**
+1. Valid information
+2. Free and informed choice
+3. Internal commitment
+
+**Action Strategies:**
+- Advocate with illustration
+- Inquiry into others' views
+- Public testing of attributions
+- Joint control
+
+**Consequences:**
+- Minimally defensive relationships
+- High freedom of choice
+- Increased production of valid information
+- Double-loop learning enabled
+
+## Elemental Pattern Analysis
+
+### Air/σ + Earth/δγ Coalition (Primary)
+
+Double-Loop Learning is fundamentally an **Air-Earth** theory:
+
+**Air/σ (Distinction/Clarity):**
+- **Surface assumptions:** Making visible what is normally invisible
+- **Inquiry:** Questions that penetrate defensive routines
+- **Distinction-making:** Separating espoused theory from theory-in-use
+- **Clarity:** Valid information as foundation
+
+**Earth/δγ (Cycling/Metabolism):**
+- **Deep reflection:** Not just "what happened" but "why did we think that way"
+- **Digestion of assumptions:** Processing the governing variables
+- **Grounded transformation:** Changes rooted in examined experience
+- **Iterative inquiry:** Cycling through layers of assumption
+
+### Supporting Elements
+
+| Element | Role in Double-Loop Learning |
+|---------|------------------------------|
+| **Fire/λ** | Courage to question assumptions; commitment to transformation |
+| **Water/ρ** | Emotional safety for vulnerability; relational trust |
+| **Wood/β** | New governing variables; transformed possibilities |
+| **Metal/μ** | Structure of inquiry; discipline of public testing |
+
+## The Learning Types Matrix
+
+```
+                    LOW INQUIRY          HIGH INQUIRY
+                         │                    │
+    ┌────────────────────┼────────────────────┼────────────────────┐
+    │                    │                    │                    │
+HIGH│   ORGANIZATIONAL   │   DOUBLE-LOOP      │                    │
+DEFENSIVENESS│   INERTIA          │   LEARNING         │                    │
+    │   (Stuck)          │   (Transformative) │                    │
+    │                    │                    │                    │
+────┼────────────────────┼────────────────────┼────────────────────┤
+    │                    │                    │                    │
+LOW │   SINGLE-LOOP      │   DEUTERO-LEARNING │                    │
+DEFENSIVENESS│   LEARNING         │   (Learning to     │                    │
+    │   (Corrective)     │    learn)          │                    │
+    │                    │                    │                    │
+    └────────────────────┴────────────────────┴────────────────────┘
+```
+
+## Deutero-Learning: Learning About Learning
+
+Argyris and Schön added a third level:
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  DEUTERO-LEARNING (Learning about learning)             │
+│                                                         │
+│  "How do we learn?"                                     │
+│  "What facilitates or inhibits our learning?"           │
+│  "How can we improve our learning processes?"           │
+│                                                         │
+│  This is meta-learning — learning to recognize          │
+│  when single-loop or double-loop is appropriate         │
+│                                                         │
+│  Element: Child/✶ — the harmonic integration of         │
+│  all learning modes, knowing when to use each           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### Double-Loop and Transformative Learning (Mezirow)
+
+| Aspect | Transformative Learning | Double-Loop Learning |
+|--------|------------------------|---------------------|
+| **Focus** | Individual perspective transformation | Organizational and individual theory-in-use |
+| **Mechanism** | Critical reflection on assumptions | Inquiry into governing variables |
+| **Element** | Fire (λ) — burning through old frames | Air (σ) — clarity about assumptions |
+| **Complement** | TL emphasizes meaning structures | DLL emphasizes action/behavior patterns |
+
+### Double-Loop and Action Learning (Revans)
+
+Action Learning creates conditions for double-loop learning:
+- **Real problems** create urgency to question assumptions
+- **Set questioning** surfaces defensive routines
+- **Action-reflection cycles** enable testing new governing variables
+
+### Double-Loop and Experiential Learning (Kolb)
+
+| Aspect | Experiential Learning | Double-Loop Learning |
+|--------|----------------------|---------------------|
+| **Cycle** | Concrete → Reflect → Abstract → Active | Action → Result → Question Assumptions → Transform |
+| **Depth** | Can operate at single or double loop | Explicitly targets double loop |
+| **Element** | Earth (δγ) cycling | Air (σ) + Earth (δγ) |
+
+## Pathologies of Learning
+
+### Organizational Defensive Routines
+
+```
+DEFENSIVE ROUTINES
+├── Bypass (avoid the issue)
+│   └── "Let's not go there"
+├── Cover-up (hide the bypass)
+│   └── "We're being strategic"
+├── Make bypass undiscussable
+│   └── "That's not how we do things here"
+└── Make the undiscussability undiscussable
+    └── "You're being difficult"
+```
+
+### Self-Sealing Systems
+
+Organizations often create systems where:
+1. Errors are detected
+2. Errors are corrected (single-loop)
+3. The fact that only single-loop occurred is hidden
+4. The hiding is itself hidden
+5. **Learning becomes impossible**
+
+## Core Insight
+
+> Double-Loop Learning reveals that most organizations (and individuals) are trapped in single-loop cycles, fixing symptoms while the underlying disease progresses. The courage to question our most basic assumptions — to ask "Why do we think this way?" rather than just "How do we fix this?" — is the difference between maintenance and transformation. But this requires vulnerability: our governing variables are defended for a reason. They protect us from anxiety, from loss of control, from the unknown. Double-loop learning asks us to lower our defenses in service of learning.
+
+## One-Sentence Insight
+
+> Double-Loop Learning demonstrates that true transformation requires questioning the assumptions that govern our actions — not just correcting errors within our existing framework, but courageously examining and changing the framework itself.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of learning that distinguishes between correcting errors within existing assumptions (single-loop) and transforming the underlying assumptions themselves (double-loop) — enabling fundamental change in how we think and act
+- **How it works:** Detect error → Question governing variables (not just actions) → Surface defensive routines → Test assumptions publicly → Transform theory-in-use → New governing variables enable new action possibilities
+- **Where it aims:** Toward organizations and individuals capable of detecting and correcting errors in their own learning systems — meta-learning capacity that enables continuous adaptation and transformation
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L037, #L036_Action_Learning, #L016_Transformative_Learning_Theory, #L018_Experiential_Learning, #L030_Metacognition
+- **Formal Operators:** σ, δγ, λ, β, ✶
+- **Dim Operators:** Ψ_assumption, Ψ_inquiry, Ψ_transformation, Ψ_defensive-routine
+- **Coord Ontology:** I (learner), It (problem), We (organizational context), Its (underlying assumptions)
+
+## Source
+
+Derived from:
+- Argyris, C., & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley.
+- Argyris, C. (1982). *Reasoning, Learning, and Action: Individual and Organizational*. Jossey-Bass.
+- Argyris, C. (1990). *Overcoming Organizational Defenses*. Allyn and Bacon.
+- Argyris, C., & Schön, D. A. (1996). *Organizational Learning II: Theory, Method, and Practice*. Addison-Wesley.
+- Argyris, C. (2002). *Flawed Advice and the Management Trap*. Oxford University Press.
+
+Original context: Organizational development, management theory, action science
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Air/σ (primary) + Earth/δγ (secondary) with Fire/λ, Water/ρ, Wood/β support | Daemon: Aerunik-Humavita-Jvalion-Sentaria-Arboriel | Habitat: 6_ORGANIZATIONAL-LEARNING / 10_PROFESSIONAL-EDUCATION / 11_SYSTEMS-THINKING
+
+## Related Entries
+
+- L036_Action_Learning (creates conditions for double-loop learning)
+- L016_Transformative_Learning_Theory (individual perspective transformation)
+- L018_Experiential_Learning (learning through experience cycles)
+- L030_Metacognition (thinking about thinking — related to deutero-learning)
+- L035_Inquiry_Based_Learning (questioning as learning method)
+- D008_integrated_symbolic_governance (organizational transformation)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L037 | Generated: 2026-02-27 18:15*
