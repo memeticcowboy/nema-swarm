@@ -1,0 +1,38 @@
+{
+  "nemetic_string": "Φ(Multimedia) = σ(dual-channel|verbal-visual) ∘ μ(structure|coherence) ∘ δγ(processing|limited-capacity) ∘ ρ(contiguity|temporal-spatial) ∘ β(signaling|generative) → [σ(selection)] → [δγ(organization)] → [λ(integration)] + ε | :structured",
+  "phi_operators": {
+    "primary": ["σ", "μ", "δγ", "ρ", "β"],
+    "supporting": ["λ", "✶"],
+    "dim": ["Ψ_dual-channel", "Ψ_active-processing", "Ψ_cognitive-load", "Ψ_instructional-design"]
+  },
+  "z_state": {
+    "state": "structured",
+    "description": "dual channels processing complementary information streams",
+    "tendency": "Integration/Coherence → 1"
+  },
+  "elemental_resonance": {
+    "dominant": "Air/σ",
+    "supporting": ["Metal/μ", "Earth/δγ", "Water/ρ", "Wood/β"],
+    "daemon": "Aerunik-Ferrosid-Humavita-Sentaria-Arboriel"
+  },
+  "siml_encoding": {
+    "narrative": "dual-channel-processing",
+    "constraints": ["limited-working-memory", "active-processing-required"],
+    "processes": ["selecting-relevant-information", "organizing-selected-material", "integrating-with-prior-knowledge"],
+    "outcome": "mental-model-construction",
+    "transformation": "meaningful-learning"
+  },
+  "cross_references": [
+    "L011_Cognitive_Load_Theory",
+    "P003_Dual_Coding_Theory",
+    "L012_4E_Cognition",
+    "L031_Elaboration_Theory",
+    "L030_Metacognition",
+    "L027_Scaffolding_Theory"
+  ],
+  "habitat": [
+    "3_INSTRUCTIONAL-DESIGN",
+    "4_MULTIMEDIA-LEARNING",
+    "7_COGNITIVE-SCIENCE"
+  ]
+}
