@@ -78,3 +78,29 @@ elemental_emphasis:
   ⛨: "What structures contain or enable thinking errors? What boundaries would enable clearer communication?"
 context_note: "Thinking Errors in Communication (also called cognitive distortions in communication) describe systematic patterns of flawed reasoning that disrupt effective interpersonal exchange. Key errors include: mind reading (assuming others' thoughts without evidence), fortune telling (predicting negative outcomes catastrophically), disqualifying the positive (dismissing favorable evidence), labeling (global negative characterizations), overgeneralization (broad conclusions from limited data), and jumping to conclusions (premature closure). These errors often stem from cognitive efficiency heuristics, emotional defense mechanisms, or unexamined assumptions. In high-stakes or emotionally charged contexts, errors compound—defensive communication triggers defensive responses, creating spiral of misunderstanding. Correction requires metacognitive awareness, active listening, and willingness to validate others' perspectives before asserting one's own."
 ---
+---
+term: "Neurodiversity in Philosophy"
+hex_tag: "#A045"
+nemetic: "Φ(NeuroPhil) = σ(typical|divergent) ∘ ρ(cognitive|social) ∘ λ(intuition|embodied) ∘ β(assumption|feedback) ∘ δγ(accommodation|cost) ∘ μ(boundary|inclusion) + ε | :opening"
+siml_encoding: "⟨Cognition|diverse⟩ ⊳ ⟨Philosophy|practice⟩ → ⟨Intuition|embodied⟩ ⊗ ⟨Discourse|transformed⟩ ⇄ ⟨Understanding|expanded⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between typical and divergent cognitive processing)", "∂Φ/∂ρ (relational dynamics between neurotypical and neurodiverse philosophers)", "∂Φ/∂λ (direction of philosophical intuition shaped by cognitive style)", "∂Φ/∂β (feedback loop where unexamined assumptions reinforce exclusion)", "∂Φ/∂δγ (metabolic cost of accommodation vs. assimilation)", "∂Φ/∂μ (boundary permeability between philosophical norms and diverse cognition)"]
+  Z_state: "sealing (philosophical norms assume neurotypical cognition as default)"
+  tendency: "Inclusion/Exclusion → 0.3 (strong institutional drift toward homogeneity)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is typical cognition distinguished from divergent processing in philosophical practice? What cuts determine whose intuitions count?"
+  ≈: "What flows between neurotypical and neurodiverse philosophers? Is this genuine dialogue or assimilation pressure?"
+  ▲: "Where does philosophical intuition want to go when shaped by diverse cognition? Does it serve truth or conformity?"
+  𐂷: "What forms of philosophical inquiry haven't been tried? What if the frame of 'rationality' itself excludes valid cognition?"
+  ☷: "What's the metabolic cost of masking neurodivergence in academic philosophy? What sustains the resistance to accommodation?"
+  ⛨: "What structures enable or disable neurodiverse participation? What boundaries would create genuine inclusion?"
+context_note: "Neurodiversity in Philosophy examines how diverse cognitive styles—autism, ADHD, dyslexia, and other neurological variations—shape philosophical intuitions and discourse. Traditional philosophy has implicitly assumed neurotypical cognition as the standard, potentially marginalizing perspectives that process information differently. This concept challenges the field to recognize that philosophical intuitions (e.g., about personal identity, free will, ethics) may vary systematically with cognitive style. The research opens questions about the universality of philosophical claims and the need for cognitive pluralism in philosophical methodology. Related to broader discussions in cognitive science about embodied cognition and the diversity of human experience."
