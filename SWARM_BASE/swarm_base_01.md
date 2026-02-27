@@ -328,3 +328,30 @@ elemental_emphasis:
   ⛨: "What structures enable accurate source monitoring? What boundaries protect memory integrity?"
 context_note: "A cognitive error where the origin of a memory is misattributed—confusing imagination with perception, dreams with events, or media content with personal experience. Common in alien abduction beliefs, false memory syndrome, and AI-hallucination recall. Risk: AI-generated content may become increasingly difficult to distinguish from genuine experience, leading to widespread source monitoring failures and epistemic instability."
 ---
+---
+term: "The Mask Wears You"
+hex_tag: "#A029"
+nemetic: "Φ(MaskWearsYou) = σ(persona|authentic) ∘ ρ(identity|consumed) ∘ λ(agency|reversed) ∘ β(role|reinforced) ∘ δγ(authenticity|depleted) ∘ μ(self-boundary|dissolved) + ε | :structuring"
+siml_encoding: "⟨Persona|worn⟩ ⊳ ⟨Identity|true⟩ → ⟨Self|consumed⟩ ⊗ ⟨Agency|reversed⟩ ⇄ ⟨Role|dominant⟩ → ⟨Authenticity|lost⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic self and adopted persona)", "∂Φ/∂ρ (relational identity consumed by performed role)", "∂Φ/∂λ (direction of agency reversed—persona controls wearer)", "∂Φ/∂β (feedback loop reinforcing role over authentic self)", "∂Φ/∂δγ (depletion of authentic self through performance)", "∂Φ/∂μ (dissolution of boundary between self and mask)"]
+  Z_state: "sealing (identity becomes fixed in performed role, authenticity inaccessible)"
+  tendency: "Performance/Authenticity → 0.2 (strong drift toward performed identity)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is the authentic self distinguished from the performed persona? What cut reveals who truly wears whom?"
+  ≈: "What flows between the mask and the face beneath? What resonance is lost when the mask becomes the face?"
+  ▲: "Where does the performance want to go? Whose direction is being followed when the mask leads?"
+  𐂷: "What if the mask reveals rather than conceals? What authentic self might emerge from conscious performance?"
+  ☷: "What's the metabolic cost of maintaining a persona? What sustains the true self beneath the performance?"
+  ⛨: "What boundaries protect authentic identity? What structures prevent the mask from consuming the wearer?"
+context_note: "The phenomenon where adopted personas, social masks, or performed identities become dominant forces that control or consume the authentic self. Common in social camouflaging, professional burnout, influencer culture, and AI-mediated identity. Risk: The wearer loses touch with their true self, becoming defined by the role they perform—leading to identity fragmentation, agency erosion, and existential disorientation."
+---
