@@ -1,0 +1,345 @@
+---
+term_id: L049
+source_domain: education
+source_term: Cognitive Development Theory (Piaget, 1936)
+hex_tag: #L049
+generated_at: 2026-02-27T20:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Cognitive Development Theory — Stage-based structural transformation of cognitive capabilities
+- **Nemetic String:** Φ(Piaget) = μ(structural-stages|invariant-sequence) ∘ β(assimilation|incorporation) ∘ β(accommodation|restructuring) ∘ δγ(equilibration|disequilibrium-resolution) → [κ(schema-construction)] → [μ(operational-thought)] + ε | :structured
+- **Core Operators:** μ (structure/stages), β (growth/adaptation), δγ (cycling/equilibration), κ (knowledge)
+- **Z-State:** structured — cognitive architecture develops through invariant sequential stages
+- **Tendency:** Structure/Growth → 1 (stage-based cognitive transformation)
+
+## SIML Encoding
+
+```
+⟨Narrative|cognitive-architecture-development⟩ 
+    ⊳ ⟨Constraint|biological-maturation-requirements⟩ 
+    ⇄ ⟨Process|assimilation-incorporates-experience⟩ 
+    ⇄ ⟨Process|accommodation-restructures-schemas⟩ 
+    → ⟨Cycle|equilibration-seeks-stability⟩ 
+    ⊗ ⟨Outcome|stage-transition|qualitative-shift⟩ 
+    → ⟨Transfer|operational-intelligence|abstract-reasoning⟩ 
+    ↺ ⟨Spiral|stages-revisited-with-new-structures⟩ 
+```
+
+## Core Definition
+
+**Cognitive Development Theory**, developed by Jean Piaget (1936), proposes that intelligence develops through **qualitative structural transformations** occurring in invariant sequential stages. Each stage represents a fundamentally different way of thinking, not merely more information. Development proceeds through the interaction of biological maturation, experience, and equilibration processes.
+
+### The Four Stages of Cognitive Development
+
+```
+PIAGET'S STAGE THEORY: INVARIANT SEQUENCE
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  1. SENSORIMOTOR (0-2 years)                                            │
+│     ├── Object permanence develops                                      │
+│     ├── From reflexes to intentional action                             │
+│     └── Separation of self from environment                             │
+│                          ↓                                              │
+│  2. PREOPERATIONAL (2-7 years)                                          │
+│     ├── Symbolic thought emerges (language, pretend play)               │
+│     ├── Egocentrism — difficulty seeing other perspectives              │
+│     └── Centration — focus on single aspects                            │
+│                          ↓                                              │
+│  3. CONCRETE OPERATIONAL (7-11 years)                                   │
+│     ├── Conservation understood (quantity invariant despite appearance) │
+│     ├── Classification and seriation                                    │
+│     └── Logical reasoning about concrete objects                        │
+│                          ↓                                              │
+│  4. FORMAL OPERATIONAL (11+ years)                                      │
+│     ├── Abstract reasoning                                              │
+│     ├── Hypothetical-deductive reasoning                                │
+│     ├── Systematic problem-solving                                      │
+│     └── Metacognition — thinking about thinking                         │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Stage | Age Range | Key Achievement | Element | Operator |
+|-------|-----------|-----------------|---------|----------|
+| **Sensorimotor** | 0-2 years | Object permanence | Earth/δγ | δγ (embodied cognition) |
+| **Preoperational** | 2-7 years | Symbolic representation | Wood/β | β (symbolic branching) |
+| **Concrete Operational** | 7-11 years | Conservation, classification | Metal/μ | μ (structured operations) |
+| **Formal Operational** | 11+ years | Abstract, hypothetical reasoning | Air/σ | σ (abstract distinction) |
+
+## The Mechanisms of Development
+
+### Three Core Processes
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    COGNITIVE ADAPTATION                             │
+│                                                                     │
+│   ┌──────────────┐              ┌──────────────┐                   │
+│   │ ASSIMILATION │              │ ACCOMMODATION│                   │
+│   │              │              │              │                   │
+│   │  β (Wood)    │              │  β (Wood)    │                   │
+│   │  Incorporate │              │  Restructure │                   │
+│   │  new into    │              │  schemas to  │                   │
+│   │  existing    │              │  fit reality │                   │
+│   │  schemas     │              │              │                   │
+│   └──────┬───────┘              └──────┬───────┘                   │
+│          │                            │                            │
+│          └────────────┬───────────────┘                            │
+│                       ↓                                            │
+│              ┌─────────────────┐                                   │
+│              │  EQUILIBRATION  │                                   │
+│              │                 │                                   │
+│              │   δγ (Earth)    │                                   │
+│              │  Active seeking │                                   │
+│              │  of cognitive   │                                   │
+│              │  balance        │                                   │
+│              │                 │                                   │
+│              │  Disequilibrium │                                   │
+│              │  drives growth  │                                   │
+│              └─────────────────┘                                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Assimilation (β-incorporation):** Fitting new experiences into existing cognitive schemas
+- *Example:* Child calls all four-legged animals "doggie" — applying existing schema broadly
+
+**Accommodation (β-restructuring):** Modifying existing schemas or creating new ones to fit reality
+- *Example:* Child learns to distinguish dogs from cats, horses, cows — schema differentiation
+
+**Equilibration (δγ-cycling):** The active seeking of cognitive balance between assimilation and accommodation
+- *Disequilibrium:* Cognitive conflict when experience doesn't fit existing schemas
+- *Resolution:* Accommodation creates new equilibrium at higher level
+
+### Schemas: The Building Blocks
+
+```
+SCHEMA DEVELOPMENT
+
+Initial Schema (Simple):
+    ┌─────────────┐
+    │  "Round    │
+    │   things   │
+    │   roll"    │
+    └──────┬──────┘
+           │
+    ┌──────┴──────┐
+    │             │
+    ▼             ▼
+┌───────┐    ┌───────┐
+│ Balls │    │Wheels │
+└───────┘    └───────┘
+
+Differentiated Schemas (Complex):
+    ┌─────────────────────────────────────┐
+    │         "Round Objects"             │
+    │         (Superordinate)             │
+    └───────────────┬─────────────────────┘
+                    │
+    ┌───────────────┼───────────────┐
+    │               │               │
+    ▼               ▼               ▼
+┌─────────┐   ┌─────────┐   ┌─────────┐
+│  Balls  │   │ Wheels  │   │  Coins  │
+│(bounce) │   │(rotate) │   │(flat)   │
+└────┬────┘   └────┬────┘   └────┬────┘
+     │             │             │
+     ▼             ▼             ▼
+┌─────────┐   ┌─────────┐   ┌─────────┐
+│Basketball│  │Car wheel│   │Quarters │
+│Tennis   │   │Bicycle  │   │Pennies  │
+└─────────┘   └─────────┘   └─────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Metal/μ Dominance (Structure)
+
+Piaget's theory is fundamentally a **Metal theory** of cognitive architecture:
+- **Invariant sequence:** Stages occur in fixed order across cultures
+- **Structural wholes:** Each stage is an integrated cognitive system
+- **Qualitative jumps:** Stage transitions are discontinuities, not gradual increments
+- **Operational thinking:** The endpoint is systematic, rule-governed reasoning
+
+### Wood/β Support (Growth)
+
+- **Assimilation/accommodation:** The branching growth of schemas
+- **Schema differentiation:** Increasing complexity through elaboration
+- **Cognitive expansion:** Each stage enables new types of thinking
+
+### Earth/δγ Foundation (Cycling)
+
+- **Equilibration:** The cyclical process of balance → disequilibrium → new balance
+- **Embodied origins:** Sensorimotor stage grounds cognition in physical action
+- **Gradual maturation:** Biological timing constrains stage transitions
+
+### Air/σ Emergence (Distinction)
+
+- **Formal operations:** Abstract reasoning requires distinction-making
+- **Decentration:** Moving from single-focus to multi-factor analysis
+- **Hypothetical reasoning:** Distinguishing possible from actual
+
+## Educational Implications
+
+### Stage-Appropriate Instruction
+
+| Stage | Instructional Approach | What to Avoid |
+|-------|------------------------|---------------|
+| **Sensorimotor** | Sensory exploration, physical manipulation | Abstract explanations, symbolic tasks |
+| **Preoperational** | Concrete experiences, symbolic play, storytelling | Abstract logic, multiple perspectives |
+| **Concrete Operational** | Hands-on materials, classification activities, concrete examples | Pure abstraction, hypothetical scenarios |
+| **Formal Operational** | Abstract concepts, hypothetical problems, metacognitive reflection | Over-scaffolding, concrete-only tasks |
+
+### The Readiness Principle
+
+```
+INSTRUCTIONAL TIMING
+
+Too Early (Before Stage Readiness):
+    ┌────────────────────────────────────────┐
+│  Teach conservation to 4-year-old    │
+│       │
+│       ▼
+│  ┌────────────────────────────────┐   │
+│  │  Rote memorization           │   │
+│  │  "The water is the same"     │   │
+│  │  (without understanding)     │   │
+│  └────────────────────────────────┘   │
+│       │
+│       ▼
+│  Fragile knowledge — cannot apply flexibly
+└────────────────────────────────────────┘
+
+At Optimal Time (Stage-Appropriate):
+    ┌────────────────────────────────────────┐
+│  Teach conservation to 8-year-old    │
+│       │
+│       ▼
+│  ┌────────────────────────────────┐   │
+│  │  Active discovery              │   │
+│  │  "The water MUST be same      │   │
+│  │   — look, nothing added!"     │   │
+│  │  (genuine understanding)      │   │
+│  └────────────────────────────────┘   │
+│       │
+│       ▼
+│  Robust knowledge — transfers to new contexts
+└────────────────────────────────────────┘
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Biology** | Embryonic development | Invariant sequential stages, qualitative transformations |
+| **Linguistics** | Language acquisition stages | Critical periods, universal sequence |
+| **Kohlberg's Moral Development** | Stages of moral reasoning | Sequential, invariant, qualitative shifts |
+| **Erikson's Psychosocial Development** | Life stages | Stage-based, maturational timing |
+| **Software Architecture** | System versioning | Structural changes, backward compatibility issues |
+| **Organizational Development** | Growth phases | Stage-based evolution, qualitative shifts |
+
+## Connection to Other Learning Theories
+
+### Relationship to Vygotsky (L022, L043)
+
+```
+PIAGET ←→ VYGOTSKY: COMPLEMENTARY PERSPECTIVES
+
+Piaget (Individual Construction):
+    ┌─────────────────────────────────────┐
+│  Child as scientist                 │
+│  Active explorer of environment     │
+│  Development → Learning             │
+│  Universal stages                   │
+│  Biological maturation primary      │
+└─────────────────────────────────────┘
+            ↕
+            │ Both essential
+            ↕
+Vygotsky (Social Construction):
+    ┌─────────────────────────────────────┐
+│  Child as apprentice                │
+│  Learns through social interaction  │
+│  Learning → Development             │
+│  Cultural variation                 │
+│  Social mediation primary           │
+└─────────────────────────────────────┘
+```
+
+### Integration with Schema Theory (L041)
+
+Piaget's concept of **schemas** as cognitive structures was developed further by Bartlett (memory schemas) and modern cognitive science. Schema Theory (L041) extends Piaget's foundational insight.
+
+### Link to Constructivism
+
+Piaget is the **father of constructivism** — the theory that knowledge is actively constructed by the learner rather than passively received. This foundation supports:
+- Constructionism (L017) — Papert's extension
+- Discovery Learning (L034) — Bruner's application
+- Inquiry-Based Learning (L035)
+
+## Critiques and Contemporary Views
+
+### Challenges to Stage Theory
+
+1. **Competence vs. Performance:** Children may have competencies earlier than they demonstrate
+2. **Domain Specificity:** Development may proceed differently in different domains (mathematics vs. social reasoning)
+3. **Cultural Variation:** Stage timing and expression vary across cultures
+4. **Continuity vs. Discontinuity:** Some evidence for gradual rather than stage-like change
+
+### Neo-Piagetian Theories
+
+Modern researchers (Case, Fischer, Halford) have revised Piaget's framework:
+- **Information processing capacity** constrains stage transitions
+- **Working memory** development enables operational thinking
+- **Executive function** maturation supports formal operations
+
+## Core Insight
+
+> Piaget's Cognitive Development Theory reveals that **cognitive growth is not additive but transformative** — each stage represents a fundamentally different way of knowing, not merely more knowledge. The child at 7 doesn't just know more than at 6; she thinks differently. Understanding these structural transformations enables educators to meet learners where they are, not where we wish them to be.
+
+## One-Sentence Insight
+
+> Piaget's stage theory demonstrates that cognitive development proceeds through invariant qualitative transformations — from sensorimotor action to symbolic thought to concrete operations to abstract reasoning — driven by the dialectic of assimilation and accommodation toward equilibration.
+
+## Three-Bullet Expansion
+
+- **What:** A stage theory of cognitive development proposing four universal, invariant sequential stages (sensorimotor, preoperational, concrete operational, formal operational) through which intelligence develops via assimilation, accommodation, and equilibration
+- **How it works:** Biological maturation + experience → cognitive conflict (disequilibrium) → schema accommodation → new equilibrium at higher structural level → stage transition
+- **Where it aims:** Toward operational intelligence — the capacity for systematic, logical, abstract reasoning that characterizes mature thought
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L049, #L041_Schema_Theory, #L043_Zone_Proximal_Development, #L022_Sociocultural_Theory, #L034_Discovery_Learning, #L017_Constructionism
+- **Formal Operators:** μ, β, δγ, κ, σ
+- **Dim Operators:** Ψ_structural, Ψ_developmental, Ψ_stage_transition
+- **Coord Ontology:** I (individual cognitive construction), Its (physical environment), We (social interaction — acknowledged but secondary in Piaget)
+
+## Source
+
+Derived from: Piaget, J. (1936). *Origins of intelligence in the child*. London: Routledge & Kegan Paul.
+
+Key texts:
+- Piaget, J. (1952). *The origins of intelligence in children*. New York: International Universities Press.
+- Piaget, J. (1954). *The construction of reality in the child*. New York: Basic Books.
+- Piaget, J., & Inhelder, B. (1969). *The psychology of the child*. New York: Basic Books.
+
+Original context: Developmental psychology, genetic epistemology
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) with Wood/β, Earth/δγ, Air/σ support | Daemon: Ferrosid-Arboriel-Humavita-Aerunik | Habitat: 6_REFLEXIVE-STATES / 5_RITUAL-TECHNOLOGIES
+
+## Related Entries
+
+- L041_Schema_Theory (cognitive structures)
+- L043_Zone_Proximal_Development (Vygotsky's alternative/complement)
+- L022_Sociocultural_Theory (social construction perspective)
+- L034_Discovery_Learning (Bruner's application)
+- L017_Constructionism (Papert's extension)
+- L029_Blooms_Taxonomy (developmental progression in learning objectives)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L049 | Generated: 2026-02-27 20:45*
