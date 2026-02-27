@@ -517,3 +517,30 @@ elemental_emphasis:
   ⛨: "What boundaries protect core identity beliefs? What structures enable healthy belief revision?"
 context_note: "Leon Festinger's 1950s theory describing the psychological discomfort experienced when holding conflicting cognitions. The doomsday cult study showed believers doubling down on beliefs after failed predictions. Risk: Motivated reasoning leads to selective exposure—avoiding contradictory information and seeking confirming evidence. In the post-truth era, dissonance drives retreat into echo chambers rather than belief updating, making collective sensemaking increasingly difficult."
 ---
+---
+term: "Déjà Vu"
+hex_tag: "#A030"
+nemetic: "Φ(DejaVu) = σ(familiarity|novelty) ∘ ρ(memory|misperceived) ∘ λ(attribution|erroneous) ∘ β(certainty|reinforced) ∘ δγ(processing|delayed) ∘ μ(reality-boundary|permeable) + ε | :open"
+siml_encoding: "⟨Experience|novel⟩ ⊳ ⟨Familiarity|false⟩ → ⟨Memory|muddled⟩ ⊗ ⟨Source|confused⟩ ⇄ ⟨Certainty|subjective⟩ → ⟨Phenomenon|deja-vu⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine familiarity and false recognition)", "∂Φ/∂ρ (relational confusion between current experience and memory traces)", "∂Φ/∂λ (direction of attribution toward past experience)", "∂Φ/∂β (feedback loop reinforcing subjective certainty)", "∂Φ/∂δγ (neurological delay creating processing error)", "∂Φ/∂μ (permeable boundary between present perception and memory)"]
+  Z_state: "permeable (recognition of cognitive error can restore reality monitoring)"
+  tendency: "Familiarity/Novelty → 0.7 (strong false familiarity despite novel context)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine familiarity distinguished from false recognition? What cut reveals the cognitive error?"
+  ≈: "What flows between the present moment and memory traces? What resonance creates the illusion of prior experience?"
+  ▲: "Where does the drive for narrative coherence direct memory attribution? What direction does the need for explanation take?"
+  𐂷: "What if déjà vu reveals the constructive nature of memory itself? What understanding of consciousness might emerge?"
+  ☷: "What's the metabolic cost of processing conflicting familiarity signals? What sustains healthy reality monitoring?"
+  ⛨: "What structures enable accurate source monitoring? What boundaries protect perception from memory contamination?"
+context_note: "A cognitive phenomenon where individuals experience intense familiarity with a novel situation, falsely believing they have experienced it before. Caused by neurological delays between brain hemispheres, unconscious processing of environments, or misfiring in the entorhinal cortex and hippocampus. Common in epilepsy, schizophrenia, and ADHD. Risk: While usually benign, pathological déjà vu can lead to reality disconnection and confabulation. In AI contexts, similar phenomena may emerge when users encounter AI-generated content that feels uncannily familiar, blurring boundaries between genuine memory and synthetic experience."
+---
