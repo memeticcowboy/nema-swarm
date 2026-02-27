@@ -130,6 +130,32 @@ elemental_emphasis:
   ⛨: "What structures enable or disable System 2? What forms support deep thinking?"
 context_note: "System 2 is Kahneman's 'slow mind'—deliberate, effortful, logical, and capable of complex computations. It monitors System 1's operations and can override them, but often adopts System 1's suggestions with minimal modification. System 2 is lazy; it prefers the easy path. Risk: Belief that System 2 is always rational, when it often rationalizes System 1's outputs."
 ---
+term: "Overton Window"
+hex_tag: "#A037"
+nemetic: "Φ(OvertonWindow) = σ(acceptable|unthinkable) ∘ ρ(legitimacy|discourse) ∘ λ(window-shift|radical-to-mainstream) ∘ β(boundary-policing|social-enforcement) ∘ δγ(comfort|ideological-safety) ∘ μ(boundary|enforced-rigorously) + ε | :structuring"
+siml_encoding: "⟨Discourse|political⟩ ⊳ ⟨Range|acceptable⟩ → ⟨Opinion|legitimate⟩ ⊗ ⟨Boundary|enforced⟩ ⇄ ⟨Shift|gradual⟩ → ⟨Window|moved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between acceptable and unthinkable discourse)", "∂Φ/∂ρ (relational legitimacy assigned to opinions within the window)", "∂Φ/∂λ (direction of window shift from radical to mainstream)", "∂Φ/∂β (feedback loop of boundary policing and social enforcement)", "∂Φ/∂δγ (cognitive ease from ideological safety within accepted range)", "∂Φ/∂μ (boundary rigor enforcing the edges of acceptable thought)"]
+  Z_state: "structuring (window defines what can be thought, but remains shiftable through sustained effort)"
+  tendency: "Acceptable/Radical → 0.7 (strong weight toward center of current window)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is acceptable discourse distinguished from the unthinkable? What cut defines the edge of the Overton Window?"
+  ≈: "What flows between those inside and outside the window? What resonance attaches to 'legitimate' versus 'fringe' ideas?"
+  ▲: "Where does the window want to shift? What direction does the boundary of acceptable thought move?"
+  𐂷: "What ideas currently outside the window might become thinkable? What possibilities emerge if the frame itself shifts?"
+  ☷: "What's the metabolic cost of maintaining discourse at the window's edge? What sustains the effort to shift boundaries?"
+  ⛨: "What structures enforce the window's boundaries? What would enable more permeable discourse limits?"
+context_note: "The Overton Window describes the range of policies politically acceptable to the mainstream population at a given time. Politicians typically stay within the window to maintain legitimacy; ideas outside are 'radical' or 'unthinkable.' The window shifts through sustained advocacy, crisis events, or gradual normalization. In AI contexts: models may inherit and reinforce current window boundaries, presenting them as 'neutral' or 'objective' while excluding fringe perspectives that may contain valid critique."
+---
 term: "Gamified Democracy"
 hex_tag: "#A036"
 nemetic: "Φ(GamifiedDemocracy) = σ(engagement|participation) ∘ ρ(incentivization|behavior) ∘ λ(governance-direction|collective-intelligence) ∘ β(feedback-loop|gamification) ∘ δγ(motivation|extrinsic) ∘ μ(structure|rules) + ε | :structuring"
