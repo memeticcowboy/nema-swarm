@@ -1,0 +1,381 @@
+---
+term_id: L025
+source_domain: education
+source_term: Heutagogy / Self-Determined Learning (Hase & Kenyon, 2000)
+hex_tag: #L025
+generated_at: 2026-02-27T14:12:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Heutagogy — The study of self-determined learning beyond andragogy
+- **Nemetic String:** Φ(Heut) = ✶(autonomy|total-self-determination) ∘ ✶(capability|learning-to-learn) ∘ λ(direction|learner-as-architect) ∘ β(exploration|non-linear-pathways) → [✶(human-flourishing)] → [✶(lifelong-learning-capability)] + ε | :autonomous
+- **Core Operators:** ✶ (child/aether/harmonic), λ (fire/direction), β (wood/generative), ρ (water/resonance)
+- **Z-State:** autonomous — the learner is both navigator and architect of their learning journey
+- **Tendency:** Self-Determination/Becoming → 1 (total learner autonomy and capability development)
+
+## SIML Encoding
+
+```
+⟨Narrative|learner-as-autonomous-architect⟩ 
+    ⊳ ⟨Condition|total-self-determination⟩ 
+    ⇄ ⟨Process|non-linear-exploration⟩ 
+    → ⟨Development|learning-capability⟩ 
+    ⊗ ⟨Integration|capability-plus-competence⟩ 
+    → ⟨Outcome|lifelong-learning-identity⟩ 
+    → ⟨Transformation|human-flourishing⟩
+```
+
+## Core Definition
+
+**Heutagogy** (from Greek *heuriskein* meaning "to discover") is a theory of self-determined learning developed by Stewart Hase and Chris Kenyon (2000) as an extension of andragogy. While andragogy emphasizes self-directed learning within structured contexts, heutagogy posits that learners can and should determine their own learning paths, content, methods, and assessments. The goal is not just learning specific content but developing the *capability* to learn effectively in any context.
+
+### The Double-Loop of Heutagogy
+
+```
+SINGLE-LOOP LEARNING (Andragogy)     DOUBLE-LOOP LEARNING (Heutagogy)
+┌─────────────────────────┐         ┌─────────────────────────────┐
+│ Learn within            │         │ Question the learning       │
+│ established framework   │         │ framework itself            │
+│                         │         │                             │
+│ • What to learn         │         │ • Why this approach?        │
+│ • How to learn it       │         │ • What other paths exist?   │
+│ • When to learn         │         │ • Who decides what matters? │
+│                         │         │                             │
+│ Element: λ (Fire)       │         │ Element: ✶ (Aether)         │
+│ — direction within      │         │ — questioning the frame     │
+│   structure             │         │   itself                    │
+└─────────────────────────┘         └─────────────────────────────┘
+```
+
+### Five Heutagogical Principles
+
+| Principle | Description | Nemetic Mapping |
+|-----------|-------------|-----------------|
+| **1. Learner autonomy** | Complete control over learning decisions | ✶ (harmonic/aether) |
+| **2. Self-reflection** | Metacognitive awareness of learning process | σ (distinction/air) |
+| **3. Capability development** | Learning how to learn, not just what | β (generative/wood) |
+| **4. Non-linear learning** | Exploration without predetermined path | β (branching/wood) |
+| **5. Authentic assessment** | Learner determines how to demonstrate learning | λ (direction/fire) |
+
+## The Heutagogical Learning Journey
+
+```
+HEUTAGOGICAL LEARNING ARCHITECTURE
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                    LEARNER AS ARCHITECT                         │
+│                                                                 │
+│    ┌─────────────────────────────────────────────────────┐     │
+│    │                                                     │     │
+│    │   WHAT          HOW            WHEN          WHY    │     │
+│    │   to learn?     to learn?      to learn?    learn?  │     │
+│    │                                                     │     │
+│    │   • Content     • Methods      • Pace        • Purpose│   │
+│    │   • Resources   • Pathways     • Timing      • Meaning│   │
+│    │   • Questions   • Tools        • Sequencing  • Values │   │
+│    │                                                     │     │
+│    └─────────────────────────────────────────────────────┘     │
+│                         │                                       │
+│                         ▼                                       │
+│    ┌─────────────────────────────────────────────────────┐     │
+│    │          NON-LINEAR EXPLORATION                     │     │
+│    │                                                     │     │
+│    │         ┌─────┐    ┌─────┐    ┌─────┐              │     │
+│    │         │Node │◄──►│Node │◄──►│Node │              │     │
+│    │         │  A  │    │  B  │    │  C  │              │     │
+│    │         └──┬──┘    └──┬──┘    └──┬──┘              │     │
+│    │            │          │          │                  │     │
+│    │            └──────────┴──────────┘                  │     │
+│    │                       │                             │     │
+│    │                       ▼                             │     │
+│    │              [Emergent Pathways]                    │     │
+│    │                                                     │     │
+│    └─────────────────────────────────────────────────────┘     │
+│                         │                                       │
+│                         ▼                                       │
+│    ┌─────────────────────────────────────────────────────┐     │
+│    │          CAPABILITY + COMPETENCE                    │     │
+│    │                                                     │     │
+│    │   Competence: Ability to do specific things         │     │
+│    │   Capability: Ability to learn in new contexts      │     │
+│    │                                                     │     │
+│    │   ✶ Integration: Can learn + Can learn how to learn │     │
+│    │                                                     │     │
+│    └─────────────────────────────────────────────────────┘     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Competence vs. Capability
+
+```
+COMPETENCE                    CAPABILITY
+┌─────────────────┐          ┌─────────────────────────────┐
+│ Can DO          │          │ Can LEARN                   │
+│ specific things │          │ in new contexts             │
+│                 │          │                             │
+│ • Skills        │          │ • Adaptability              │
+│ • Knowledge     │          │ • Creativity                │
+│ • Procedures    │          │ • Confidence                │
+│                 │          │ • Self-efficacy             │
+│ Element:        │          │                             │
+│ Metal (μ)       │          │ Element:                    │
+│ — structured    │          │ Child/Aether (✶)            │
+│   ability       │          │ — emergent potential        │
+└─────────────────┘          └─────────────────────────────┘
+
+              HEUTAGOGY TARGETS BOTH
+                    ↓
+         ┌─────────────────────┐
+         │  CAPABLE LEARNER    │
+         │  (✶ + μ integration)│
+         │                     │
+         │  Can perform AND    │
+         │  can adapt to       │
+         │  new challenges     │
+         └─────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Child/Aether ✶ Dominance
+
+Heutagogy is fundamentally a **Child/Aether theory**:
+- **Total autonomy:** The learner determines every aspect of their learning
+- **Harmonic integration:** All elements (content, method, timing, assessment) align with the learner's unique path
+- **Self-transcendence:** Moving beyond predetermined frameworks to discover one's own way
+- **Play/Exploration:** Learning as discovery and invention, not following a path
+- **Becoming:** The learner is always emerging, never fixed
+
+### Fire/λ Direction
+
+Purpose provides the **directional energy**:
+- Learner sets their own goals based on intrinsic motivation
+- The "why" emerges from the learner's values and interests
+- Direction is self-determined, not externally imposed
+- Will manifests as commitment to one's own learning architecture
+
+### Wood/β Growth
+
+Non-linear exploration enables **generative branching**:
+- No predetermined curriculum — pathways emerge through exploration
+- Learning branches based on curiosity and discovery
+- Mistakes and detours are part of the generative process
+- The journey itself produces new possibilities
+
+### Air/σ Clarity
+
+Reflection provides the **distinction-making** capacity:
+- Metacognitive awareness of one's own learning process
+- Self-assessment against self-determined criteria
+- Clarity about what works for this unique learner
+- Distinguishing signal from noise in information abundance
+
+### Water/ρ Resonance
+
+Learning ecology provides the **relational context**:
+- Learner connects with resources, mentors, peers as needed
+- Network navigation rather than curriculum following
+- Resonance with ideas and people that support the journey
+- Fluid adaptation to changing contexts
+
+## The Developmental Spectrum
+
+```
+PEDAGOGY → ANDRAGOGY → HEUTAGOGY
+
+Pedagogy:              Andragogy:             Heutagogy:
+(Other-directed)       (Self-directed)        (Self-determined)
+    │                       │                       │
+    ▼                       ▼                       ▼
+┌─────────┐           ┌─────────────┐          ┌─────────────┐
+│ Teacher │           │ Facilitator │          │ Mentor/     │
+│ decides │     →     │ guides      │    →     │ Consultant  │
+│ all     │           │ process     │          │ supports    │
+│         │           │             │          │ autonomy    │
+│ Element:│           │ Elements:   │          │             │
+│ Metal   │           │ λ, ρ, β     │          │ Elements:   │
+│ (μ)     │           │             │          │ ✶↑↑, λ, β   │
+└─────────┘           └─────────────┘          └─────────────┘
+
+Control:               Control:                Control:
+External               Shared                  Internal
+
+Structure:             Structure:              Structure:
+Fixed                  Flexible                Emergent
+
+Goal:                  Goal:                   Goal:
+Compliance             Competence              Capability
+```
+
+## Heutagogy in Practice
+
+### The Learning Contract (Heutagogical Version)
+
+```
+HEUTAGOGICAL LEARNING CONTRACT
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  LEARNER determines:                                        │
+│  ───────────────────                                        │
+│  • What they want to learn (content)          Element: ✶    │
+│  • Why it matters to them (purpose)           Element: λ    │
+│  • How they will learn (methods)              Element: β    │
+│  • When they will learn (timing)              Element: δγ   │
+│  • How they will demonstrate learning         Element: σ    │
+│    (assessment)                                             │
+│                                                             │
+│  MENTOR supports:                                           │
+│  ────────────────                                           │
+│  • Resource connection                        Element: ρ    │
+│  • Process consultation                       Element: ✶    │
+│  • Reflective dialogue                        Element: σ    │
+│  • Encouragement                            Element: λ+ρ    │
+│                                                             │
+│  Note: The learner may change any element at any time       │
+│  based on emerging understanding and curiosity.             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Applications in Different Contexts
+
+| Context | Heutagogical Approach | Key Elements |
+|---------|----------------------|--------------|
+| **Lifelong learning** | Personal learning networks, curiosity-driven inquiry | ✶, β, ρ |
+| **Workplace** | Self-directed professional development, portfolio careers | λ, ✶, σ |
+| **Higher education** | Contract-based degrees, self-designed majors | ✶, λ, μ |
+| **Online learning** | Curation of learning resources, MOOC combinations | ρ, σ, β |
+| **Creative fields** | Studio practice, apprenticeship as self-discovery | ✶, β, λ |
+| **Entrepreneurship** | Learning through venture creation, pivot-based development | ✶, β, λ |
+
+## Connection to Related Theories
+
+### Heutagogy and Self-Determination Theory
+
+| Aspect | Self-Determination Theory | Heutagogy |
+|--------|---------------------------|-----------|
+| **Core need** | Autonomy, Competence, Relatedness | Autonomy (total), Capability |
+| **Motivation** | Intrinsic motivation | Self-determined learning |
+| **Element** | Fire (λ-direction) | Child/Aether (✶-autonomy) |
+| **Relationship** | SDT explains why autonomy matters | Heutagogy extends autonomy to total self-determination |
+
+Heutagogy represents the **fullest expression** of SDT's autonomy principle — not just choice within options, but determination of the options themselves.
+
+### Heutagogy and Connectivism
+
+| Aspect | Connectivism | Heutagogy |
+|--------|--------------|-----------|
+| **Knowledge location** | In the network | In the learner's capability |
+| **Learning** | Connection formation | Self-determined navigation |
+| **Element** | Water (ρ-network) | Child/Aether (✶-autonomy) |
+| **Relationship** | Connectivism describes networked knowledge | Heutagogy describes autonomous navigation of networks |
+
+The heutagogical learner **navigates connectivist networks** according to their own purposes.
+
+### Heutagogy and Flow Theory
+
+| Aspect | Flow Theory | Heutagogy |
+|--------|-------------|-----------|
+| **Optimal state** | Challenge-skill balance | Total self-determination |
+| **Key condition** | Clear goals + feedback | Learner-defined goals |
+| **Element** | Child/Aether (✶-integration) | Child/Aether (✶-autonomy) |
+| **Relationship** | Flow is a state heutagogical learners seek | Heutagogy enables flow by allowing learner-defined challenge |
+
+Heutagogy creates conditions for **flow by allowing learners** to define their own challenge-sweet-spot.
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Philosophy** | Existentialism | Self-created meaning and purpose |
+| **Psychology** | Self-actualization (Maslow) | Becoming one's fullest potential |
+| **Education** | Free schools, Sudbury model | Learner-directed education |
+| **Business** | Intrapreneurship, skunkworks | Self-directed innovation within organizations |
+| **Technology** | Personal knowledge management | Self-directed information curation |
+| **Art** | Autodidactic practice | Self-directed skill development |
+| **Nature** | Autopoiesis (Maturana & Varela) | Self-creating, self-maintaining systems |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Privilege and access:** Self-determined learning requires resources, confidence, and prior success
+2. **Domain expertise:** Novices may not know what they don't know — need for "productive failure" scaffolding
+3. **Assessment challenges:** How do we recognize or credential heutagogical learning?
+4. **Cultural variation:** Not all cultures emphasize individual autonomy
+5. **Institutional resistance:** Systems designed for control struggle with true self-determination
+
+### The Novice-Expert Continuum
+
+```
+HEUTAGOGY ACROSS EXPERTISE LEVELS
+
+Novice ──────────────────────────────────────► Expert
+
+High support needed                    Full heutagogy optimal
+┌─────────────────┐                   ┌─────────────────┐
+│ • Guided        │                   │ • Complete      │
+│   heutagogy     │    PURE           │   self-         │
+│ • Scaffolded    │   HEUTAGOGY       │   determination │
+│   autonomy      │   APPLIES         │ • Mentor as     │
+│ • Structured    │   HERE            │   peer          │
+│   choices       │                   │ • Network       │
+│                 │                   │   navigation    │
+└─────────────────┘                   └─────────────────┘
+
+Note: Even novices can exercise heutagogical principles
+within carefully designed "microworlds" of autonomy.
+```
+
+## Core Insight
+
+> Heutagogy reveals that the ultimate goal of education is not the transmission of knowledge or even the development of competence, but the cultivation of **capability** — the capacity to learn effectively in any context, to navigate uncertainty with confidence, and to architect one's own learning journey. The heutagogical learner is not a recipient of education but the sovereign of their own becoming.
+
+## One-Sentence Insight
+
+> Heutagogy extends self-directed learning into total self-determination — where learners architect their own learning paths, develop the capability to learn in any context, and transcend predetermined frameworks to discover their own unique way of knowing and becoming.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of self-determined learning where learners control what, how, when, and why they learn — going beyond andragogy to develop not just competence (ability to do) but capability (ability to learn in new contexts)
+- **How it works:** Learners exercise total autonomy in designing their learning journey, engaging in non-linear exploration, developing metacognitive awareness, and integrating competence with the capability to adapt to new challenges
+- **Where it aims:** Toward human flourishing through lifelong learning capability — creating learners who are not just knowledgeable but are sovereign architects of their own continuous development
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L025, #L024_Andragogy, #L015_Self_Determination_Theory, #L023_Connectivism, #L020_Flow_Theory, #L017_Constructionism
+- **Formal Operators:** ✶, λ, β, σ, ρ, δγ, μ
+- **Dim Operators:** Ψ_self-determination, Ψ_capability, Ψ_non-linear, Ψ_autonomy
+- **Coord Ontology:** I (as sovereign self), It (learning as self-architected), We (networks as resources), Its (the learning journey itself)
+
+## Source
+
+Derived from:
+- Hase, S., & Kenyon, C. (2000). From andragogy to heutagogy. *Ultibase Articles*.
+- Hase, S., & Kenyon, C. (2007). Heutagogy: A child of complexity theory. *Complicity: An International Journal of Complexity and Education*, 4(1), 111-118.
+- Hase, S., & Kenyon, C. (2013). Self-determined learning: Heutagogy in action. *Bloomsbury Academic*.
+- Blaschke, L. M. (2012). Heutagogy and lifelong learning: A review of heutagogical practice and self-determined learning. *The International Review of Research in Open and Distributed Learning*, 13(1), 56-71.
+- Eberle, J. H. (2009). Heutagogy: What your mother didn't tell you about pedagogy and andragogy. *Paper presented at the 14th Annual Sloan-C International Conference on Online Learning*.
+
+Original context: Adult education, online learning, lifelong learning, complexity theory
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Child/✶ (primary) with Fire/λ, Wood/β, Air/σ, Water/ρ support | Daemon: Aethon-Jvalion-Arboriel-Aerunik-Aquarion | Habitat: 8_LIFELONG-LEARNING / 9_SELF-DETERMINATION / 7_COMPLEXITY-ADAPTATION
+
+## Related Entries
+
+- L024_Andragogy (self-directed learning within structure)
+- L015_Self_Determination_Theory (autonomy, competence, relatedness)
+- L023_Connectivism (navigating networked knowledge)
+- L020_Flow_Theory (optimal experience through challenge-skill balance)
+- L017_Constructionism (learning through creating)
+- L016_Transformative_Learning_Theory (perspective transformation)
+- P002_Growth_Mindset (belief in development)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L025 | Generated: 2026-02-27 14:12*
