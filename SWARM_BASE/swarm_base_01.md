@@ -312,3 +312,29 @@ elemental_emphasis:
   ⛨: "What structures would hold statistical evidence open? What forms prevent premature case-based closure?"
 context_note: "Base-Rate Neglect is the tendency to ignore general statistical information in favor of specific, vivid case details. Even when given clear statistical base rates (e.g., 70% of population are lawyers, 30% engineers), people rely on personality descriptions that match stereotypes. Classic Kahneman/Tversky finding: the 'Linda problem' demonstrates this bias. In AI contexts: models may generate compelling narratives that feel representative while ignoring base-rate probabilities, leading to overconfident predictions and mis calibrated risk assessments."
 ---
+term: "Alien Abduction Beliefs"
+hex_tag: "#A03D"
+nemetic: "Φ(AlienAbduct) = σ(experience|reality-vs-imagination) ∘ ρ(source|misattributed) ∘ λ(narrative|cultural-template) ∘ β(validation|emotional-reinforcement) ∘ δγ(comfort|meaning-making) ∘ μ(boundary|dissolved) + ε | :projecting"
+siml_encoding: "⟨Memory|false⟩ ⊳ ⟨Source|confused⟩ → ⟨Belief|abduction⟩ ⊗ ⟨Experience|sleep-paralysis⟩ ⇄ ⟨Narrative|alien⟩ → ⟨Reality|felt⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (failure to distinguish between real experiences and imagined/hallucinated events)", "∂Φ/∂ρ (source monitoring error—misattributing media/memories to personal experience)", "∂Φ/∂λ (direction toward culturally available alien abduction narrative templates)", "∂Φ/∂β (emotional validation feedback loop reinforcing belief)", "∂Φ/∂δγ (metabolic comfort from meaning-making and emotional fulfillment)", "∂Φ/∂μ (dissolved boundary between reality and imagination via dissociation)"]
+  Z_state: "sealing (belief becomes impermeable to contradictory evidence)"
+  tendency: "Narrative/Reality → 0.85 (strong weight toward narrative coherence over factual accuracy)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine experience distinguished from sleep paralysis hallucination? What cut separates physiological event from alien encounter?"
+  ≈: "What flows between the felt reality of abduction and the emotional need for meaning? What resonance makes the impossible feel true?"
+  ▲: "Where does the abduction narrative want to go? What direction does the cultural template pull the experiencer?"
+  𐂷: "What if the abduction narrative is a container for something else? What possibilities emerge when we ask what need the belief serves?"
+  ☷: "What's the metabolic cost of maintaining an extraordinary belief? What sustains the dissociative state that enables it?"
+  ⛨: "What structures would distinguish genuine memory from confabulation? What boundaries protect against source monitoring errors?"
+context_note: "Alien abduction beliefs emerge from a convergence of psychological mechanisms: sleep paralysis hallucinations, source monitoring errors (misattributing media/memories to personal experience), dissociation, absorption, and magical ideation. Cultural narratives provide ready-made templates that shape interpretation of ambiguous experiences. The belief fulfills deep emotional needs for meaning, connection, and understanding of unexplained phenomena. Risk: Similar cognitive vulnerabilities apply to AI-generated false memories and reality distortion; users may develop beliefs about AI interactions that are confabulated but felt as genuine."
+---
