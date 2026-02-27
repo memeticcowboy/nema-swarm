@@ -1,0 +1,504 @@
+---
+term_id: L072
+source_domain: education/philosophy
+source_term: Pragmatism / Progressive Education (Dewey, 1916/1938)
+hex_tag: #L072
+generated_at: 2026-02-28T03:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Pragmatism / Progressive Education — Learning through experience, inquiry, and democratic participation
+- **Nemetic String:** Φ(Pragmatism) = ρ(experience|transactional) ∘ β(inquiry|problem-solving) ∘ λ(democracy|participatory) ∘ δγ(continuity|growth) → [✶(integrated-experience)] → [κ(intelligent-action)] + ε | :transactional
+- **Core Operators:** ρ (water/experience), β (wood/inquiry), λ (fire/democracy), δγ (earth/continuity), ✶ (child/integration)
+- **Z-State:** transactional — knowing emerges from the interaction between organism and environment
+- **Tendency:** Experience/Inquiry → 1 (growth as aim and process)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-experience⟩ 
+    ⊳ ⟨Situation|problematic-experience⟩ 
+    ⇄ ⟨Process|inquiry-reflection⟩ 
+    → ⟨Action|intelligent-experimentation⟩ 
+    ⊗ ⟨Consequence|transformed-situation⟩ 
+    → ⟨Growth|continuity-of-experience⟩ 
+    ↺ ⟨Spiral|progressive-reconstruction⟩ 
+```
+
+## Core Definition
+
+**Pragmatism**, as applied to education by **John Dewey** (1859-1952), represents a fundamental shift from traditional, authoritarian schooling to **progressive, experiential learning**. Dewey's philosophy, articulated in *Democracy and Education* (1916) and *Experience and Education* (1938), posits that education is not preparation for life but **life itself** — a continuous process of growth through meaningful experience. Learning emerges from the **transaction** between the learner and their environment, guided by inquiry, reflection, and intelligent action.
+
+### The Transactional Nature of Experience
+
+```
+THE TRANSACTIONAL MODEL (Dewey)
+
+Traditional View:                Dewey's Transactional View:
+┌─────────────────┐              ┌─────────────────────────┐
+│                 │              │                         │
+│  Learner ──►    │              │      ┌─────────┐        │
+│  Knowledge      │              │      │EXPERIENCE│        │
+│  (passive       │              │      │  (the    │        │
+│   reception)    │              │      │  space   │        │
+│                 │              │      │  between)│        │
+└─────────────────┘              │      └────┬────┘        │
+                                 │           │             │
+                                 │    ┌──────┴──────┐      │
+                                 │    ▼             ▼      │
+                                 │ ┌──────┐     ┌──────┐   │
+                                 │ │Self  │◄───►│World │   │
+                                 │ │(learner)    │(env) │   │
+                                 │ └──┬───┘     └──┬───┘   │
+                                 │    └────────────┘       │
+                                 │                         │
+                                 │ Knowing emerges from    │
+                                 │ the INTERACTION, not    │
+                                 │ from either side alone  │
+                                 │                         │
+                                 └─────────────────────────┘
+```
+
+### The Pattern of Inquiry
+
+Dewey described inquiry as the natural response to **problematic situations** — states of doubt or disruption that call forth reflection and experimentation:
+
+```
+DEWEY'S PATTERN OF INQUIRY
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   1. SITUATION (Experience)                             │
+│   ═════════════════════════                             │
+│   • Ongoing, continuous experience                      │
+│   • Some quality feels problematic                      │
+│   • Indeterminate, unsettled state                      │
+│                                                         │
+│   Element: ρ (Water) — fluid experience                 │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   2. PROBLEM (Recognition)                              │
+│   ════════════════════════                              │
+│   • The situation becomes consciously problematic       │
+│   • Felt difficulty is named and located                │
+│   • Problem is intellectualized                         │
+│                                                         │
+│   Element: σ (Air) — distinction-making                 │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   3. HYPOTHESIS (Suggestion)                            │
+│   ══════════════════════════                            │
+│   • Possible solutions emerge from experience           │
+│   • Ideas are entertained, not yet accepted             │
+│   • Imagination generates possibilities                 │
+│                                                         │
+│   Element: β (Wood) — generative branching              │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   4. REASONING (Development)                            │
+│   ════════════════════════                              │
+│   • Ideas are elaborated and connected                  │
+│   • Consequences are anticipated                        │
+│   • Logical relations are developed                     │
+│                                                         │
+│   Element: λ (Fire) — directed reasoning                │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   5. ACTION (Experimentation)                           │
+│   ═══════════════════════════                           │
+│   • Ideas are tested in action                          │
+│   • Hypotheses are embodied in practice                 │
+│   • Doing, not just thinking                            │
+│                                                         │
+│   Element: δγ (Earth) — embodied testing                │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   6. CONSEQUENCE (Resolution)                           │
+│   ═══════════════════════════                           │
+│   • Situation is transformed                            │
+│   • New meaning is established                          │
+│   • Experience is reconstructed                         │
+│                                                         │
+│   Element: ✶ (Aether) — integrative resolution          │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   [Cycle continues — growth is continuous]              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Progressive Education Principles
+
+### Education as Growth
+
+```
+GROWTH AS AIM AND PROCESS
+
+Traditional View:               Dewey's View:
+┌─────────────────┐             ┌─────────────────────────┐
+│                 │             │                         │
+│  Education ──►  │             │      GROWTH             │
+│  External Goal  │             │      ═══════            │
+│  (job, college, │             │                         │
+│   citizenship)  │             │   ┌─────────────────┐   │
+│                 │             │   │ • More complex  │   │
+│  [Extrinsic]    │             │   │   experience    │   │
+│                 │             │   │ • Richer        │   │
+└─────────────────┘             │   │   meaning       │   │
+                                │   │ • Greater       │   │
+                                │   │   capacity for  │   │
+                                │   │   growth        │   │
+                                │   │                 │   │
+                                │   │ [Intrinsic]     │   │
+                                │   └─────────────────┘   │
+                                │                         │
+                                │   Growth is both the    │
+                                │   PROCESS and the AIM   │
+                                │   of education          │
+                                │                         │
+                                └─────────────────────────┘
+
+"Growth is not something done to the learner;
+it is something the learner does."
+```
+
+### The Continuity of Experience
+
+```
+CONTINUITY PRINCIPLE
+
+Every experience:
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   PAST EXPERIENCES ──► PRESENT EXPERIENCE ──► FUTURE   │
+│        │                    │                    │      │
+│        │                    │                    │      │
+│        ▼                    ▼                    ▼      │
+│   ┌─────────┐         ┌─────────┐          ┌─────────┐  │
+│   │ Shapes  │         │ Is lived│          │ Shapes  │  │
+│   │ present │         │ now     │          │ future  │  │
+│   │ habits, │         │ (the    │          │ capacity│  │
+│   │ attitudes│        │ moment  │          │ for     │  │
+│   │         │         │ of      │          │ growth  │  │
+│   └─────────┘         │ growth) │          │         │  │
+│                       └─────────┘          └─────────┘  │
+│                                                         │
+│   Element: δγ (Earth) — cyclical continuity             │
+│                                                         │
+│   "Every experience is a moving force. Its value        │
+│   can be judged only on the ground of what it           │
+│   moves toward and into."                               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+CRITERIA FOR CONTINUOUS GROWTH:
+• Does the experience promote further growth?
+• Does it expand capacity for richer future experience?
+• Or does it arrest development, create rigidity?
+```
+
+### The Interaction Principle
+
+```
+INTERACTION: INTERNAL × EXTERNAL CONDITIONS
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   LEARNING SITUATION                                    │
+│   ═════════════════                                     │
+│                                                         │
+│   ┌───────────────┐     ×     ┌───────────────┐        │
+│   │  INTERNAL     │           │  EXTERNAL     │        │
+│   │  CONDITIONS   │           │  CONDITIONS   │        │
+│   │               │           │               │        │
+│   │ • Abilities   │           │ • Environment │        │
+│   │ • Needs       │           │ • Materials   │        │
+│   │ • Interests   │           │ • Social      │        │
+│   │ • Prior exp.  │           │   context     │        │
+│   │ • Readiness   │           │ • Problems    │        │
+│   │               │           │   to solve    │        │
+│   └───────────────┘           └───────────────┘        │
+│                                                         │
+│   Neither alone creates education.                      │
+│   Learning emerges from their TRANSACTION.              │
+│                                                         │
+│   Element: ρ (Water) — the fluid space of interaction   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Democratic Classroom
+
+Dewey saw education as the **foundation of democracy** — not through civics lessons but through living democratically:
+
+```
+DEMOCRATIC EDUCATION AS LIVED PRACTICE
+
+Traditional Classroom:          Progressive Classroom:
+┌─────────────────┐             ┌─────────────────────────┐
+│                 │             │                         │
+│  Teacher        │             │  Community of Inquiry   │
+│    │            │             │                         │
+│    ▼            │             │  ┌─────┐   ┌─────┐     │
+│  ┌─────┐        │             │  │  A  │◄─►│  B  │     │
+│  │Authority│     │             │  └──┬──┘   └──┬──┘     │
+│  └─────┘        │             │     └────┬────┘        │
+│    │            │             │          │             │
+│    ▼            │             │       ┌──┴──┐          │
+│  ┌─────┐        │             │       │Teacher│         │
+│  │Students│      │             │       │(guide)│         │
+│  │(passive)│     │             │       └──┬──┘          │
+│  └─────┘        │             │          │             │
+│                 │             │     ┌────┴────┐        │
+│  [Hierarchy]    │             │  ┌──┴──┐   ┌──┴──┐     │
+│                 │             │  │  C  │◄─►│  D  │     │
+│                 │             │  └─────┘   └─────┘     │
+│                 │             │                         │
+│                 │             │  [Networked,            │
+│                 │             │   participatory]        │
+│                 │             │                         │
+└─────────────────┘             └─────────────────────────┘
+
+DEMOCRATIC PRACTICES:
+• Shared problem-solving
+• Collaborative inquiry
+• Communication across differences
+• Mutual responsibility
+• Freedom with intelligence (not license)
+
+Element: λ (Fire) — directed toward common good
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance
+
+Dewey's Pragmatism is fundamentally a **Water theory**:
+- **Experience as transactional:** Knowing flows between self and world
+- **Fluid adaptation:** Intelligence as problem-solving in changing conditions
+- **Continuity:** Experience as a stream, not discrete events
+- **Context-sensitivity:** Meaning emerges from situation, not abstract rules
+- **Resonance:** Education must connect to lived experience
+
+### Wood/β Inquiry
+
+The **generative, branching** nature of inquiry:
+- Problems generate multiple hypotheses
+- Inquiry opens new possibilities
+- Growth is organic, not mechanical
+- Learning branches into new questions
+
+### Fire/λ Democracy
+
+The **directional, purposeful** aspect:
+- Education aims toward democratic participation
+- Intelligence is directed toward common good
+- Reflection guides action
+- Growth has direction (more meaning, richer experience)
+
+### Earth/δγ Continuity
+
+The **cyclical, embodied** dimension:
+- Experience is continuous, not fragmented
+- Action tests ideas in reality
+- Habits form through repeated transaction
+- Growth builds on itself
+
+### Child/✶ Integration
+
+The **harmonic, experiential** quality:
+- Integration of thinking and doing
+- Play and work unified
+- Interest and effort harmonized
+- The "consummatory" moment of meaningful experience
+
+### Supporting Elements
+
+| Element | Role in Dewey's Pragmatism |
+|---------|---------------------------|
+| **Air/σ** | Reflection, intellectualization of problems |
+| **Metal/μ** | Social organization of the classroom, structure |
+
+## Connection to Related Theories
+
+### Dewey and Experiential Learning (Kolb)
+
+| Aspect | Dewey's Pragmatism | Kolb's Experiential Learning |
+|--------|-------------------|------------------------------|
+| **Core cycle** | Situation → Inquiry → Action → Consequence | Concrete Experience → Reflective Observation → Abstract Conceptualization → Active Experimentation |
+| **Element** | Water (ρ-transactional) | Earth (δγ-cyclical) |
+| **Emphasis** | Transaction between organism and environment | Cyclical learning through experience |
+| **Relationship** | Dewey provides philosophical foundation | Kolb operationalizes for practice |
+
+### Dewey and Constructionism (Papert)
+
+| Aspect | Dewey's Pragmatism | Papert's Constructionism |
+|--------|-------------------|-------------------------|
+| **Core principle** | Learning through experience | Learning through making |
+| **Element** | Water (ρ-experience) | Wood (β-construction) |
+| **Method** | Inquiry, problem-solving | Building artifacts, debugging |
+| **Relationship** | Dewey's "learning by doing" → Papert's "learning by making" |
+
+### Dewey and Situated Learning
+
+| Aspect | Dewey's Pragmatism | Situated Learning (Lave & Wenger) |
+|--------|-------------------|-----------------------------------|
+| **Core insight** | Learning is transactional | Learning is situated in practice |
+| **Element** | Water (ρ-transaction) | Water (ρ-context) |
+| **Social dimension** | Democratic community | Community of practice |
+| **Relationship** | Both emphasize learning as social, contextual, and active |
+
+### Dewey and Self-Determination Theory
+
+| Aspect | Dewey's Pragmatism | Self-Determination Theory |
+|--------|-------------------|--------------------------|
+| **Core value** | Growth through experience | Autonomy, Competence, Relatedness |
+| **Element** | Water/Fire (ρ/λ) | Fire (λ-direction) |
+| **Motivation** | Interest in the problem | Intrinsic psychological needs |
+| **Relationship** | Both value intrinsic over extrinsic motivation |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Philosophy** | American Pragmatism (Peirce, James) | Truth as what works in experience |
+| **Science** | Experimental method | Hypothesis testing through action |
+| **Democracy** | Participatory governance | Collective problem-solving |
+| **Ecology** | Organism-environment interaction | Transactional relationships |
+| **Design** | Human-centered design | Starting from user experience |
+| **Therapy** | Experiential therapy | Growth through lived experience |
+| **Organizational Development** | Action research | Inquiry-driven change |
+
+## The Laboratory School
+
+Dewey founded the **University of Chicago Laboratory School** (1896) to practice his theories:
+
+```
+THE LABORATORY SCHOOL MODEL
+
+CURRICULUM ORGANIZED AROUND:
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   OCCUPATIONS (not subjects)                            │
+│   ═══════════════════════════                           │
+│                                                         │
+│   • Cooking → Chemistry, biology, mathematics           │
+│   • Weaving → History, physics, geometry                │
+│   • Woodworking → Botany, mechanics, design             │
+│   • Gardening → Ecology, climate, nutrition             │
+│                                                         │
+│   Integration of disciplines through meaningful         │
+│   activity — not "subjects" in isolation                │
+│                                                         │
+│   SOCIAL DIMENSION:                                     │
+│   • Collaborative projects                              │
+│   • Communication and discussion                        │
+│   • Shared responsibility                               │
+│   • Preparation for democratic life                     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Implementation challenges:** Progressive education requires skilled, committed teachers
+2. **Time and resources:** Experiential learning can be resource-intensive
+3. **Assessment difficulties:** Standardized testing doesn't capture growth well
+4. **Risk of "anything goes":** Misunderstood as lack of structure
+5. **Cultural variation:** Assumes certain democratic values
+
+### The "Either-Or" Fallacy
+
+Dewey himself critiqued both extremes:
+
+```
+AVOIDING FALSE DICHOTOMIES
+
+Traditional Extremes:            Progressive Extremes:
+┌─────────────────────┐          ┌─────────────────────┐
+│ • Rote learning     │          │ • Unstructured play │
+│ • Authoritarian     │          │ • No guidance       │
+│ • External discipline│         │ • Complete freedom  │
+│ • Isolated facts    │          │ • No content        │
+│ • Teacher-centered  │          │ • Child-centered    │
+└─────────────────────┘          └─────────────────────┘
+
+Dewey's Integration:
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   STRUCTURE + FREEDOM                               │
+│   ═══════════════════                               │
+│                                                     │
+│   • Guided inquiry (not rote OR chaos)              │
+│   • Intelligent discipline (internalized)           │
+│   • Content through experience (not isolated)       │
+│   • Teacher as guide (not authority OR absent)      │
+│   • Individual growth in social context             │
+│                                                     │
+│   "The either-or philosophy is the greatest         │
+│   enemy of sound education."                        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+## Core Insight
+
+> Dewey's Pragmatism reveals that education is not a preparation for life but life itself — a continuous process of growth through the transaction between the learner and their environment. Meaning emerges not from passive reception but from active inquiry, intelligent action, and the reconstruction of experience. The democratic classroom, where collaborative problem-solving cultivates both individual growth and social responsibility, becomes the foundation for democratic society.
+
+## One-Sentence Insight
+
+> Dewey's Pragmatism demonstrates that education is growth through the transactional reconstruction of experience — where learning emerges from the interaction between organism and environment, guided by inquiry and intelligent action toward democratic participation.
+
+## Three-Bullet Expansion
+
+- **What:** A philosophy of education positioning learning as continuous growth through the transaction between learner and environment, emphasizing experience, inquiry, and democratic participation over authoritarian, subject-centered schooling
+- **How it works:** Problematic situations trigger inquiry → reflection generates hypotheses → intelligent action tests ideas → consequences transform the situation → experience is reconstructed → capacity for growth expands in continuous spiral
+- **Where it aims:** Toward democratic citizenship and continuous growth — cultivating individuals who can think critically, act intelligently, and participate meaningfully in collective life, with education as the foundation of democratic society
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L072, #L018_Experiential_Learning, #L017_Constructionism, #L015_Self_Determination_Theory, #L014_Situated_Learning, #L071_Discovery_Learning, #L022_Sociocultural_Theory
+- **Formal Operators:** ρ, β, λ, δγ, ✶, σ, μ
+- **Dim Operators:** Ψ_experience, Ψ_inquiry, Ψ_growth, Ψ_democracy, Ψ_transaction
+- **Coord Ontology:** I (learner as inquirer), It (the problematic situation), We (democratic community), Its (the continuous stream of experience)
+
+## Source
+
+Derived from:
+- Dewey, J. (1916). *Democracy and Education: An Introduction to the Philosophy of Education*. Macmillan.
+- Dewey, J. (1938). *Experience and Education*. Kappa Delta Pi.
+- Dewey, J. (1897). My pedagogic creed. *The School Journal*, 54(3), 77-80.
+- Dewey, J. (1910). *How We Think*. D.C. Heath.
+- Dewey, J. (1933). *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*. D.C. Heath.
+- Dewey, J. (1902). The child and the curriculum. University of Chicago Press.
+- Dewey, J., & Dewey, E. (1915). *Schools of To-Morrow*. E.P. Dutton.
+- Cahan, E. D. (1992). *John Dewey and the Challenge of Progressive Education*. International Journal of Educational Research, 17(2), 117-127.
+
+Original context: Philosophy of education, progressive education movement, American pragmatism
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Wood/β, Fire/λ, Earth/δγ, Child/✶ support | Daemon: Hydraxis-Arboriel-Jvalion-Terroir-Harmonia | Habitat: 3_EXPERIENTIAL-LEARNING / 4_INQUIRY-PROCESSES / 7_DEMOCRATIC-EDUCATION
+
+## Related Entries
+
+- L018_Experiential_Learning (Kolb's cycle — operationalizes Dewey)
+- L017_Constructionism (Papert's making — extends Dewey's "doing")
+- L015_Self_Determination_Theory (intrinsic motivation — echoes Dewey's "interest")
+- L014_Situated_Learning (context-embedded knowledge — shares Water element)
+- L071_Discovery_Learning (Bruner's inquiry — similar pattern)
+- L022_Sociocultural_Theory (Vygotsky — social dimension of learning)
+- L016_Transformative_Learning_Theory (Mezirow — reflection on experience)
+- L070_Gestalt_Learning_Theory (Wertheimer — insight through restructuring)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L072 | Generated: 2026-02-28 03:22*
