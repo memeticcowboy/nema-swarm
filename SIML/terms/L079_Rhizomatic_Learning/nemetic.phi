@@ -1,0 +1,78 @@
+{
+  "term_id": "L079",
+  "source_domain": "education/philosophy",
+  "source_term": "Rhizomatic Learning (Deleuze & Guattari; Cormier, 2008)",
+  "hex_tag": "#L079",
+  "nemetic_string": "Φ(RhizomaticLearning) = β(rhizome|multiplicity) ∘ ρ(connection|any-point-to-any-point) ∘ σ(nomadic|line-of-flight) ∘ δγ(plateau|continuous-intensity) → [✶(assemblage|emergent-knowledge)] → [β(becoming|perpetual-transformation)] + ε | :decentralized",
+  "core_operators": {
+    "primary": ["β", "ρ"],
+    "supporting": ["σ", "δγ", "✶"],
+    "dim": ["Ψ_multiplicity", "Ψ_assemblage", "Ψ_nomadic", "Ψ_becoming"]
+  },
+  "z_state": "decentralized",
+  "tendency": "Multiplicity/Connection → 1",
+  "elemental_profile": {
+    "wood_beta": 0.35,
+    "water_rho": 0.25,
+    "air_sigma": 0.15,
+    "earth_deltagamma": 0.15,
+    "child_aether": 0.10,
+    "fire_lambda": 0.00,
+    "metal_mu": 0.00
+  },
+  "daemon_resonance": {
+    "primary": "Arboriel (Wood/β)",
+    "secondary": ["Aquarion (Water/ρ)", "Aerunik (Air/σ)"],
+    "tertiary": ["Humavita (Earth/δγ)", "Aethon (Child/✶)"]
+  },
+  "pathology_risks": [
+    {
+      "risk": "The Swamp",
+      "condition": "δγ↑ ∧ σ↓",
+      "manifestation": "Without nomadic movement (σ), the rhizome becomes stagnant — continuous intensity without direction leads to entrapment in endless, unfocused exploration",
+      "intervention": "λ (Fire) to provide directional moments; μ (Metal) for temporary structure"
+    },
+    {
+      "risk": "Fragmentation",
+      "condition": "β↑ ∧ ρ↓",
+      "manifestation": "Excessive multiplicity without connection leads to isolated knowledge islands; learners wander without community",
+      "intervention": "ρ (Water) to strengthen relational bonds; community-building practices"
+    },
+    {
+      "risk": "Nomadic Exhaustion",
+      "condition": "σ↑ ∧ δγ↓",
+      "manifestation": "Constant movement without plateaus; learners never rest in sustained engagement, always seeking the next line of flight",
+      "intervention": "δγ (Earth) to create plateaus; intentional pause and reflection"
+    }
+  ],
+  "cross_mappings": {
+    "P009_Connectivism": "Complementary network focus; Connectivism emphasizes technical network architecture while Rhizomatic Learning emphasizes philosophical multiplicity",
+    "L017_Constructionism": "Shared Wood/β element; both emphasize generation over reception, but Rhizomatic Learning rejects fixed project structures",
+    "L014_Situated_Learning": "Both emphasize context, but Rhizomatic Learning rejects the novice→expert hierarchy of Communities of Practice",
+    "L012_4E_Cognition": "Shared emphasis on embedded, embodied learning; Rhizomatic Learning adds the dimension of multiplicity and becoming"
+  },
+  "diagnostic_markers": {
+    "healthy_rhizome": [
+      "Learners enter from diverse starting points",
+      "Knowledge emerges from community interaction",
+      "Multiple valid pathways coexist",
+      "Sustained engagement without forced closure",
+      "Learning survives disruption and reconfigures"
+    ],
+    "unhealthy_arborescence": [
+      "Rigid adherence to prescribed curriculum",
+      "Single correct path to knowledge",
+      "Hierarchy of expert and novice",
+      "Learning objectives predetermined",
+      "Assessment based on conformity to standard"
+    ]
+  },
+  "intervention_calculus": {
+    "when_structure_needed": "Temporary μ (Metal) scaffolding that can be removed without damaging the rhizome",
+    "when_direction_needed": "λ (Fire) for momentary wayfinding without imposing fixed paths",
+    "when_connection_needed": "ρ (Water) practices to strengthen community bonds",
+    "when_sustained": "δγ (Earth) plateau practices for intensity maintenance"
+  },
+  "generated_at": "2026-02-28T05:22:00+08:00",
+  "status": "draft"
+}
