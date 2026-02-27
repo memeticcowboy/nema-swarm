@@ -1,0 +1,352 @@
+---
+term_id: P006
+source_domain: psychology
+source_term: Achievement Goal Theory (Dweck, Elliot, & McGregor, 1988; Ames, 1992)
+hex_tag: #P006
+generated_at: 2026-02-27T23:08:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Achievement Goal Theory — Motivation through mastery vs. performance goal orientations
+- **Nemetic String:** Φ(AchievementGoals) = λ(orientation|mastery-performance) ∘ σ(definition|success-failure) ∘ ρ(competence|self-other-reference) ∘ β(learning|strategy-selection) → [✶(engagement-pattern)] → [κ(outcome-quality)] + ε | :oriented
+- **Core Operators:** λ (fire/direction), σ (air/distinction), ρ (water/resonance), β (wood/growth)
+- **Z-State:** oriented — motivational direction shapes learning engagement and outcomes
+- **Tendency:** Direction/Resonance → 1 (goal orientation drives competence pursuit)
+
+## SIML Encoding
+
+```
+⟨Narrative|competence-pursuit⟩ 
+    ⊳ ⟨Constraint|achievement-situations-require-goals⟩ 
+    ⇄ ⟨Process|goal-orientation-activation⟩ 
+    ⇄ ⟨Process|definition-of-success-selection⟩ 
+    → ⟨Structure|mastery-vs-performance-frame⟩ 
+    ⊗ ⟨Process|strategy-and-effort-allocation⟩ 
+    → ⟨Outcome|learning-vs-performance-outcome⟩ 
+    → ⟨Transfer|goal-pattern-stability⟩ 
+    ↺ ⟨Spiral|goal-orientation-development⟩ 
+```
+
+## Core Definition
+
+**Achievement Goal Theory** explains how individuals define success in achievement contexts and how these definitions shape motivation, affect, and performance. The theory distinguishes between:
+
+1. **Mastery Goals:** Focus on developing competence, learning, understanding
+2. **Performance Goals:** Focus on demonstrating competence relative to others
+
+Each goal type creates distinct **cognitive, affective, and behavioral patterns**.
+
+### The 2×2 Achievement Goal Framework
+
+```
+ACHIEVEMENT GOAL FRAMEWORK (Elliot & McGregor, 2001)
+
+                    DEFINITION OF COMPETENCE
+                    ┌─────────────────────────────┐
+                    │  Absolute/Intrapersonal     │
+                    │       (Mastery)             │
+                    └─────────────────────────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+        ▼                     ▼                     ▼
+   ┌─────────┐          ┌─────────┐           ┌─────────┐
+   │APPROACH │          │MASTERY  │           │PERFORM-│
+   │  (+)    │          │ APPROACH│           │ANCE    │
+   │         │          │         │           │APPROACH│
+   │Seek     │          │Develop  │           │Demonstr│
+   │positive │          │competence│          │superior│
+   │judgment │          │         │           │ability │
+   │         │          │• Deep   │           │        │
+   │• High   │          │  learning│          │• High  │
+   │  grades  │          │• Effort │          │  grades │
+   │• Public │          │  focus  │           │• Public│
+   │  recognition│       │• Challenge│         │  recognition│
+   │         │          │  seeking│           │        │
+   └─────────┘          └─────────┘           └─────────┘
+        ▲                     ▲                     ▲
+        │                     │                     │
+   ┌─────────┐           ┌─────────┐           ┌─────────┐
+   │AVOIDANCE│           │MASTERY  │           │PERFORM-│
+   │  (-)    │           │AVOIDANCE│           │ANCE    │
+   │         │           │         │           │AVOIDANCE│
+   │Avoid    │           │Avoid    │           │Avoid    │
+   │negative │           │incompetence│         │looking  │
+   │judgment │           │         │           │inferior │
+   │         │           │• Easy   │           │        │
+   │• Avoid  │           │  tasks   │           │• Avoid  │
+   │  failure │           │• Safety  │           │  public │
+   │• Hide   │           │  seeking │           │  comparison│
+   │  mistakes│           │         │           │        │
+   └─────────┘           └─────────┘           └─────────┘
+        │                     │                     │
+        └─────────────────────┼─────────────────────┘
+                              │
+                    ┌─────────────────────────────┐
+                    │  Normative/Interpersonal    │
+                    │      (Performance)          │
+                    └─────────────────────────────┘
+```
+
+## Goal Orientation Patterns
+
+### Mastery-Approach Goals
+
+```
+MASTERY-APPROACH PATTERN
+
+Definition of Success: "I understand this deeply"
+Reference Standard:    Self-improvement, task mastery
+
+COGNITIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Deep processing strategies            │
+│ • Effort attribution for success        │
+│ • Challenge-seeking behavior            │
+│ • Error framing as learning opportunities│
+│ • Interest-driven engagement            │
+└─────────────────────────────────────────┘
+
+AFFECTIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Intrinsic motivation                  │
+│ • Positive affect during difficulty     │
+│ • Resilience after setbacks             │
+│ • Satisfaction from understanding       │
+└─────────────────────────────────────────┘
+
+BEHAVIORAL PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Help-seeking when needed              │
+│ • Time investment in learning           │
+│ • Exploration of alternative strategies │
+│ • Long-term persistence                 │
+└─────────────────────────────────────────┘
+
+Element: Fire/λ (direction toward growth) + Wood/β (generative learning)
+```
+
+### Performance-Approach Goals
+
+```
+PERFORMANCE-APPROACH PATTERN
+
+Definition of Success: "I outperform others"
+Reference Standard:    Normative comparison, grades, recognition
+
+COGNITIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Surface processing strategies         │
+│ • Ability attribution for success       │
+│ • Success-seeking in visible tasks      │
+│ • Error avoidance                       │
+│ • Outcome-focused monitoring            │
+└─────────────────────────────────────────┘
+
+AFFECTIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Pride from high grades                │
+│ • Anxiety about evaluation              │
+│ • Shame from poor comparison            │
+│ • Excitement from winning               │
+└─────────────────────────────────────────┘
+
+BEHAVIORAL PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Strategic help-seeking (impression)   │
+│ • Time investment in graded work        │
+│ • Avoidance of challenging tasks        │
+│ • Cheating risk when failure threatens  │
+└─────────────────────────────────────────┘
+
+Element: Fire/λ (direction toward status) + Metal/μ (structured achievement)
+```
+
+### Performance-Avoidance Goals
+
+```
+PERFORMANCE-AVOIDANCE PATTERN
+
+Definition of Success: "I don't look stupid"
+Reference Standard:    Avoiding negative judgment, hiding incompetence
+
+COGNITIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Minimal processing strategies         │
+│ • Ability attribution for failure       │
+│ • Failure-avoidance focus               │
+│ • Self-handicapping strategies          │
+│ • Defensive pessimism                   │
+└─────────────────────────────────────────┘
+
+AFFECTIVE PATTERNS:
+┌─────────────────────────────────────────┐
+│ • High anxiety                          │
+│ • Hopelessness                          │
+│ • Shame anticipation                    │
+│ • Relief from avoiding failure          │
+└─────────────────────────────────────────┘
+
+BEHAVIORAL PATTERNS:
+┌─────────────────────────────────────────┐
+│ • Avoidance of help-seeking             │
+│ • Procrastination                       │
+│ • Task avoidance                        │
+│ • Withdrawal from challenge             │
+└─────────────────────────────────────────┘
+
+Element: Fire/λ (direction away from shame) + pathology: The Choke (σ↑ ∧ μ↑)
+```
+
+## Elemental Pattern Analysis
+
+### Fire/λ Dominance (Direction/Purpose)
+
+Achievement Goal Theory is fundamentally a **Fire theory**:
+
+**Fire/λ (Direction/Purpose):**
+- **Goal orientation:** The directional vector of motivation
+- **Approach vs. avoidance:** Moving toward vs. away from outcomes
+- **Competence pursuit:** The energizing force of achievement
+- **Effort allocation:** Directing energy based on goal type
+
+**Air/σ (Distinction/Clarity):**
+- **Success definition:** How competence is defined and measured
+- **Self vs. other reference:** Distinction between standards
+- **Mastery vs. performance:** Categorical distinction of goal types
+
+**Water/ρ (Resonance/Competence):**
+- **Competence perception:** Feeling capable or not
+- **Social comparison:** Resonance with others' performance
+- **Feedback reception:** How evaluation is experienced
+
+**Wood/β (Growth/Exploration):**
+- **Strategy selection:** Choosing learning approaches
+- **Deep processing:** Generative engagement with material
+- **Help-seeking:** Branching out for support
+
+### Supporting Elements
+
+| Element | Role in Achievement Goals |
+|---------|--------------------------|
+| **Metal/μ** | Structural achievement systems, grading |
+| **Earth/δγ** | Cyclic feedback loops, habit formation |
+| **Child/✶** | Integration of multiple goal types |
+
+## Connection to Related Theories
+
+### Achievement Goals vs. Self-Determination Theory
+
+| Aspect | Self-Determination Theory | Achievement Goal Theory |
+|--------|--------------------------|------------------------|
+| **Focus** | Need satisfaction | Goal definition |
+| **Mechanism** | Autonomy, competence, relatedness | Mastery vs. performance framing |
+| **Element** | Fire/λ (autonomous direction) | Fire/λ (goal-directed energy) |
+| **Relationship** | Mastery goals satisfy competence need; performance goals may undermine autonomy |
+
+### Achievement Goals vs. Growth Mindset
+
+| Aspect | Growth Mindset | Achievement Goals |
+|--------|---------------|-------------------|
+| **Level** | Implicit theory | Situational orientation |
+| **Mechanism** | Belief about ability malleability | Definition of success |
+| **Element** | Wood/β (growth belief) | Fire/λ (directional pursuit) |
+| **Relationship** | Growth mindset enables mastery goal adoption |
+
+### Achievement Goals vs. Attribution Theory
+
+| Aspect | Attribution Theory | Achievement Goals |
+|--------|-------------------|-------------------|
+| **Focus** | Causal explanations | Success definitions |
+| **Mechanism** | Locus, stability, controllability | Mastery vs. performance orientation |
+| **Element** | Air/σ (causal analysis) | Fire/λ (motivational direction) |
+| **Relationship** | Goals shape attributional patterns |
+
+## Classroom Goal Structures
+
+```
+CLASSROOM GOAL STRUCTURES (Ames, 1992)
+
+MASTERY-FOCUSED CLASSROOM          PERFORMANCE-FOCUSED CLASSROOM
+┌─────────────────────────┐       ┌─────────────────────────┐
+│                         │       │                         │
+│ TASK-RELATED            │       │ EGO-RELATED             │
+│                         │       │                         │
+│ • Variety of tasks      │       │ • Uniform tasks         │
+│ • Multiple timelines    │       │ • Single timeline       │
+│ • Private evaluation    │       │ • Public evaluation     │
+│ • Effort recognition    │       │ • Ability recognition   │
+│ • Learning-focused      │       │ • Grade-focused         │
+│   feedback              │       │   feedback              │
+│ • Collaboration         │       │ • Competition           │
+│   encouraged            │       │   emphasized            │
+│                         │       │                         │
+│ Result: Mastery goals   │       │ Result: Performance goals│
+│         dominate        │       │         dominate        │
+│                         │       │                         │
+└─────────────────────────┘       └─────────────────────────┘
+         │                                 │
+         ▼                                 ▼
+    Element: Wood/β                  Element: Metal/μ
+    (generative, diverse)            (structured, uniform)
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Sports** | Task vs. ego orientation | Mastery vs. performance in athletics |
+| **Workplace** | Learning vs. performance culture | Organizational goal climates |
+| **Therapy** | Process vs. outcome goals | Therapeutic orientation |
+| **Parenting** | Mastery vs. performance praise | Dweck's praise studies |
+| **Economics** | Intrinsic vs. extrinsic motivation | Incentive structures |
+| **Politics** | Policy learning vs. winning | Legislative orientation |
+
+## Core Insight
+
+> Achievement Goal Theory reveals that **how we define success shapes everything that follows** — the strategies we use, the emotions we feel, the risks we take, and ultimately what we achieve. The mastery-performance distinction is not merely academic: it predicts who will persist through difficulty, who will seek help when needed, who will cheat to avoid failure, and who will find genuine satisfaction in learning. The theory's power lies in showing that goals are not fixed traits but **situated orientations** that can be shaped by context, feedback, and culture.
+
+## One-Sentence Insight
+
+> Achievement Goal Theory demonstrates that whether learners define success as developing competence (mastery) or demonstrating superiority (performance) fundamentally shapes their motivation, strategies, affect, and outcomes — with mastery goals generally fostering deeper learning and resilience.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of achievement motivation distinguishing mastery goals (developing competence) from performance goals (demonstrating competence), each creating distinct cognitive, affective, and behavioral patterns in learning contexts
+- **How it works:** Goal orientation activates → definition of success shapes standards → competence perception drives affect → strategy selection determines engagement quality → outcomes reinforce or shift goal patterns
+- **Where it aims:** Toward optimal motivation through mastery-approach goal adoption, supported by classroom structures that emphasize learning, effort, and self-improvement over normative comparison and ability evaluation
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #P006, #P002_Growth_Mindset, #P001_self_efficacy_theory, #L015_Self_Determination_Theory, #L044_Attribution_Theory, #L047_Self_Regulated_Learning
+- **Formal Operators:** λ, σ, ρ, β, μ
+- **Dim Operators:** Q_forward, χ_distinction, Q_inward, Ψ_exploratory
+- **Coord Ontology:** I (goal-directed learner), It (achievement task), We (comparison others), Its (competence standards)
+
+## Source
+
+Derived from:
+- Dweck, C. S. (1986). Motivational processes affecting learning. *American Psychologist, 41*(10), 1040-1048.
+- Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256-273.
+- Ames, C. (1992). Classrooms: Goals, structures, and student motivation. *Journal of Educational Psychology, 84*(3), 261-271.
+- Elliot, A. J., & McGregor, H. A. (2001). A 2 × 2 achievement goal framework. *Journal of Personality and Social Psychology, 80*(3), 501-519.
+- Elliot, A. J. (2005). A conceptual history of the achievement goal construct. In A. J. Elliot & C. S. Dweck (Eds.), *Handbook of competence and motivation* (pp. 52-72). Guilford Press.
+
+Original context: Educational psychology, motivation, achievement
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire/λ (primary) + Air/σ + Water/ρ + Wood/β support | Daemon: Jvalion-Aerunik-Sentaria-Arboriel | Habitat: 3_SOCIAL-PSYCHOLOGY / 4_MOTIVATION / 5_ACHIEVEMENT / 8_CLASSROOM-CLIMATE
+
+## Related Entries
+
+- P002_Growth_Mindset (belief foundation for mastery goals)
+- P001_self_efficacy_theory (competence beliefs)
+- L015_Self_Determination_Theory (need satisfaction)
+- L044_Attribution_Theory (causal explanations)
+- L047_Self_Regulated_Learning (goal-directed strategies)
+- L046_Goal_Setting_Theory (goal properties)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #P006 | Generated: 2026-02-27 23:08*

@@ -1,0 +1,262 @@
+---
+term_id: L056
+source_domain: education
+source_term: Cognitive Flexibility Theory (Spiro, Feltovich, & Coulson, 1988)
+hex_tag: #L056
+generated_at: 2026-02-27T23:05:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Cognitive Flexibility Theory — Advanced knowledge acquisition in ill-structured domains through multiple representations
+- **Nemetic String:** Φ(CogFlex) = β(case-variation|multiple-contexts) ∘ σ(concept|re-representation) ∘ ρ(knowledge|web-like-interconnection) ∘ ✶(transfer|adaptive-application) → [κ(schema-revision)] → [λ(adaptive-expertise)] + ε | :flexible
+- **Core Operators:** β (wood/branching), σ (air/distinction), ρ (water/resonance), ✶ (child/integration)
+- **Z-State:** flexible — knowledge structured for adaptive application across contexts
+- **Tendency:** Exploration/Integration → 1 (multiple perspectives enable transfer)
+
+## SIML Encoding
+
+```
+⟨Narrative|advanced-knowledge-acquisition⟩ 
+    ⊳ ⟨Constraint|ill-structured-domains-defy-simple-rules⟩ 
+    ⇄ ⟨Process|multiple-case-encounters⟩ 
+    ⇄ ⟨Process|criss-crossing-conceptual-landscape⟩ 
+    → ⟨Structure|web-like-knowledge-representation⟩ 
+    ⊗ ⟨Process|schema-revision-and-re-representation⟩ 
+    → ⟨Outcome|adaptive-expertise⟩ 
+    → ⟨Transfer|context-sensitive-application⟩ 
+    ↺ ⟨Spiral|increasing-conceptual-flexibility⟩ 
+```
+
+## Core Definition
+
+**Cognitive Flexibility Theory (CFT)** addresses learning in **ill-structured domains** — areas where concepts have multiple meanings, cases vary widely, and simple rules fail. Developed by Rand Spiro and colleagues, CFT argues that advanced knowledge requires:
+
+1. **Multiple Representations:** Concepts presented in various contexts and formats
+2. **Case Variation:** Exposure to diverse examples rather than prototypical cases
+3. **Criss-Crossing:** Non-linear exploration of conceptual landscapes
+4. **Schema Revision:** Continuous restructuring of understanding
+
+### The Ill-Structured Domain Problem
+
+```
+WELL-STRUCTURED vs. ILL-STRUCTURED DOMAINS
+
+WELL-STRUCTURED                    ILL-STRUCTURED
+┌─────────────────┐               ┌─────────────────┐
+│                 │               │                 │
+│ • Clear rules   │               │ • Multiple      │
+│ • Right answers │               │   interpretations│
+│ • Linear        │               │ • Context-      │
+│   progression   │               │   dependent     │
+│ • Novice-friendly│              │ • Expert-level  │
+│                 │               │                 │
+│ Examples:       │               │ Examples:       │
+│ • Basic math    │               │ • Medical       │
+│ • Grammar rules │               │   diagnosis     │
+│ • Programming   │               │ • Literary      │
+│   syntax        │               │   interpretation│
+│                 │               │ • Ethics        │
+│                 │               │ • History       │
+│                 │               │                 │
+└─────────────────┘               └─────────────────┘
+       │                                 │
+       ▼                                 ▼
+   Element: Metal/μ                 Element: Wood/β
+   (structured, linear)            (branching, complex)
+```
+
+## The Cognitive Flexibility Hypertext
+
+CFT pioneered hypertext learning environments:
+
+```
+CRISS-CROSSING THE CONCEPTUAL LANDSCAPE
+
+                    Concept A
+                   /    |    \
+                  /     |     \
+            Case 1    Case 2   Case 3
+            /    \    /    \   /    \
+           /      \  /      \ /      \
+      Concept B ───── Concept C ───── Concept D
+           \      /  \      / \      /
+            \    /    \    /   \    /
+            Case 4    Case 5   Case 6
+                  \    |    /
+                   \   |   /
+                   Concept E
+
+LEARNER PATHS (non-linear):
+• Path 1: Case 1 → Concept A → Case 2 → Concept C → Case 5
+• Path 2: Concept B → Case 1 → Concept A → Case 3 → Concept D
+• Path 3: Case 4 → Concept B → Concept C → Case 5 → Concept E
+
+Each path constructs different understanding.
+No single path is sufficient.
+All paths together build flexible knowledge.
+```
+
+## Key Instructional Principles
+
+| Principle | Mechanism | Element | Implementation |
+|-----------|-----------|---------|----------------|
+| **Multiple Representations** | Same concept, different forms | Air/σ | Text, diagram, case, simulation |
+| **Case Variation** | Diverse examples, not prototypes | Wood/β | Wide range of cases, edge cases included |
+| **Criss-Crossing** | Non-linear traversal | Wood/β | Learner-chosen paths through hypertext |
+| **Schema Revision** | Restructuring understanding | Water/ρ | Confronting conceptual contradictions |
+| **Knowledge Web** | Interconnected concepts | Water/ρ | Concept maps, semantic networks |
+| **Adaptive Application** | Context-sensitive use | Fire/λ | Applying knowledge to novel situations |
+
+## The Re-representation Process
+
+```
+SCHEMA REVISION THROUGH RE-REPRESENTATION
+
+Initial Understanding (Simplified)
+┌─────────────────────────────────────────┐
+│  Concept X = Definition Y               │
+│  (single, stable meaning)               │
+└─────────────────┬───────────────────────┘
+                  │
+                  ▼ Encounter Case 1
+┌─────────────────────────────────────────┐
+│  Concept X in Context A                 │
+│  → Slight modification needed           │
+└─────────────────┬───────────────────────┘
+                  │
+                  ▼ Encounter Case 2
+┌─────────────────────────────────────────┐
+│  Concept X in Context B                 │
+│  → Different emphasis required          │
+│  → Conflict with Context A understanding│
+└─────────────────┬───────────────────────┘
+                  │
+                  ▼ Schema Revision
+┌─────────────────────────────────────────┐
+│  Concept X = {Context A: Xa,            │
+│              Context B: Xb,             │
+│              ...}                       │
+│  (flexible, context-sensitive meaning)  │
+└─────────────────────────────────────────┘
+
+Element: Water/ρ (flow, adaptation)
+Element: Air/σ (distinction between contexts)
+```
+
+## Elemental Pattern Analysis
+
+### Wood/β Dominance (Exploration/Branching)
+
+CFT is fundamentally a **Wood theory**:
+
+**Wood/β (Exploration/Branching):**
+- **Case variation:** Multiple branches of examples
+- **Criss-crossing:** Non-linear exploration paths
+- **Hypertext structure:** Tree-like knowledge organization
+- **Generative growth:** Each case generates new connections
+
+**Air/σ (Distinction/Clarity):**
+- **Multiple representations:** Distinguishing different forms
+- **Context discrimination:** Recognizing situational differences
+- **Conceptual boundaries:** Flexible but present
+
+**Water/ρ (Resonance/Flow):**
+- **Knowledge webs:** Interconnected conceptual networks
+- **Schema revision:** Fluid restructuring of understanding
+- **Transfer:** Flow of knowledge across contexts
+
+**Fire/λ (Direction/Purpose):**
+- **Adaptive application:** Purposeful use in new situations
+- **Expertise development:** Direction toward mastery
+
+**Child/✶ (Integration/Harmony):**
+- **Flexible expertise:** Integration of multiple perspectives
+- **Adaptive competence:** Holistic application
+
+### Supporting Elements
+
+| Element | Role in Cognitive Flexibility |
+|---------|------------------------------|
+| **Earth/δγ** | Cyclic revisiting, spaced case encounters |
+| **Metal/μ** | Structural organization of hypertext |
+| **Knowledge/κ** | Building domain expertise |
+
+## Connection to Related Theories
+
+### Cognitive Flexibility vs. Cognitive Load Theory
+
+| Aspect | Cognitive Load Theory | Cognitive Flexibility Theory |
+|--------|----------------------|------------------------------|
+| **Domain type** | Well-structured | Ill-structured |
+| **Learner level** | Novice | Advanced |
+| **Structure** | Reduce complexity | Embrace complexity |
+| **Path** | Linear, guided | Non-linear, exploratory |
+| **Element** | Air/σ (clarity) | Wood/β (complexity) |
+| **Relationship** | CLT for beginners, CFT for experts |
+
+### Cognitive Flexibility vs. Constructivism
+
+| Aspect | Constructivism | Cognitive Flexibility |
+|--------|---------------|----------------------|
+| **Focus** | Knowledge construction | Representation flexibility |
+| **Mechanism** | Active engagement | Multiple perspectives |
+| **Element** | Wood/β (generative) | Wood/β + Air/σ (branching + distinction) |
+| **Relationship** | CFT is a specific constructivist approach |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Medicine** | Case-based reasoning | Multiple patient presentations |
+| **Law** | Precedent analysis | Cases across jurisdictions |
+| **Design** | Wicked problems | No single solution, context-dependent |
+| **Ecology** | Ecosystem complexity | Multiple interacting factors |
+| **Music** | Jazz improvisation | Flexible application of patterns |
+| **Military** | Adaptive leadership | Context-dependent decision making |
+
+## Core Insight
+
+> Cognitive Flexibility Theory reveals that expertise in complex domains requires not just knowing more, but knowing **differently** — holding multiple representations, traversing knowledge webs non-linearly, and revising schemas continuously. The goal is not simplified understanding but **flexible understanding**: the capacity to adapt knowledge to the unique demands of each new situation.
+
+## One-Sentence Insight
+
+> Cognitive Flexibility Theory demonstrates that advanced learning in ill-structured domains requires criss-crossing conceptual landscapes through multiple cases and representations, building web-like knowledge structures that enable adaptive expertise rather than rigid rule-following.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of advanced knowledge acquisition for ill-structured domains, using multiple representations, case variation, and non-linear "criss-crossing" of conceptual landscapes to build flexible, transferable understanding
+- **How it works:** Complex concepts encountered in diverse contexts → schema revision through re-representation → web-like knowledge structures → adaptive application to novel situations
+- **Where it aims:** Toward adaptive expertise — the capacity to apply knowledge flexibly across contexts, recognizing that ill-structured domains defy simple rules and require context-sensitive judgment
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L056, #L011_Cognitive_Load_Theory, #L017_Constructionism, #L033_Cognitive_Flexibility_Theory, #P004_Working_Memory, #L030_Metacognition
+- **Formal Operators:** β, σ, ρ, ✶, λ, κ
+- **Dim Operators:** Ψ_exploratory, χ_distinction, Q_inward, Z_flexible
+- **Coord Ontology:** I (advanced learner), It (ill-structured domain), We (case community), Its (conceptual landscape)
+
+## Source
+
+Derived from:
+- Spiro, R. J., Feltovich, P. J., & Coulson, R. L. (1988). Cognitive flexibility in advanced knowledge acquisition: Theory and evidence. *Proceedings of the Tenth Annual Conference of the Cognitive Science Society*, 375-383.
+- Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1991). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. *Educational Technology*, 31(5), 24-33.
+- Spiro, R. J., & Jehng, J. C. (1990). Cognitive flexibility and hypertext: Theory and technology for the nonlinear and multidimensional traversal of complex subject matter. In D. Nix & R. J. Spiro (Eds.), *Cognition, education, and multimedia: Exploring ideas in high technology* (pp. 163-205). Lawrence Erlbaum.
+
+Original context: Educational psychology, instructional design, advanced learning
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Wood/β (primary) + Air/σ + Water/ρ + Child/✶ support | Daemon: Arboriel-Aerunik-Sentaria-Aethon | Habitat: 6_REFLEXIVE-STATES / 7_EXPERT-COGNITION / 9_COMPLEX-SYSTEMS
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (foundational instruction vs. advanced)
+- L017_Constructionism (knowledge construction)
+- L033_Cognitive_Flexibility_Theory (note: potential duplicate entry)
+- P004_Working_Memory (schema revision demands)
+- L030_Metacognition (monitoring flexible understanding)
+- L052_Concept_Mapping (knowledge web representation)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L056 | Generated: 2026-02-27 23:05*
