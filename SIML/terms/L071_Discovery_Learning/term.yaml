@@ -1,0 +1,419 @@
+---
+term_id: L071
+source_domain: education
+source_term: Discovery Learning / Inquiry-Based Learning (Bruner, 1961)
+hex_tag: #L071
+generated_at: 2026-02-28T03:02:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Discovery Learning — Learning through active inquiry, hypothesis generation, and self-directed exploration
+- **Nemetic String:** Φ(Discovery) = β(inquiry|hypothesis-generation) ∘ λ(curiosity|directed-exploration) ∘ σ(structure|scaffolded-investigation) ∘ ✶(insight|pattern-recognition) → [β(knowledge-construction)] → [λ(autonomous-inquiry)] + ε | :generative
+- **Core Operators:** β (wood/generative/exploration), λ (fire/direction/curiosity), σ (air/distinction/structure), ✶ (child/insight)
+- **Z-State:** generative — knowledge emerges through active construction rather than passive reception
+- **Tendency:** Exploration/Construction → 1 (learning as generative inquiry)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-inquiry⟩ 
+    ⊳ ⟨Constraint|problem-presentation|structured-challenge⟩ 
+    ⇄ ⟨Process|hypothesis-generation⟩ 
+    ⇄ ⟨Process|exploration-experimentation⟩ 
+    → ⟨Discovery|pattern-recognition⟩ 
+    ⊗ ⟨Construction|knowledge-building⟩ 
+    → ⟨Integration|structural-understanding⟩ 
+    → ⟨Transfer|inquiry-skill-generalization⟩
+```
+
+## Core Definition
+
+**Discovery Learning**, developed by **Jerome Bruner** (1961), is a constructivist approach positing that learning is most effective when learners **actively discover** principles and relationships for themselves rather than receiving them through direct instruction. Rather than being told facts, learners engage with structured problems, generate hypotheses, explore possibilities, and construct their own understanding through guided inquiry.
+
+### The Discovery Learning Architecture
+
+```
+DISCOVERY LEARNING CYCLE
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   PHASE 1: PROBLEM PRESENTATION                         │
+│   ═══════════════════════════════                       │
+│   • Structured challenge presented                      │
+│   • Learner recognizes gap in understanding             │
+│   • Curiosity activated (cognitive dissonance)          │
+│                                                         │
+│   Element: λ (Fire) — directed curiosity                │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   PHASE 2: HYPOTHESIS GENERATION                        │
+│   ═══════════════════════════════                       │
+│   • Learner proposes possible explanations              │
+│   • Multiple hypotheses considered                      │
+│   • Predictions formulated                              │
+│                                                         │
+│   Element: β (Wood) — generative branching              │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   PHASE 3: EXPLORATION & EXPERIMENTATION                │
+│   ═══════════════════════════════════════               │
+│   • Testing hypotheses through investigation            │
+│   • Manipulating variables                              │
+│   • Gathering evidence                                  │
+│                                                         │
+│   Element: β+σ (Wood+Air) — exploration with structure  │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   PHASE 4: PATTERN RECOGNITION & INSIGHT                │
+│   ═══════════════════════════════════════               │
+│   • "Aha!" moment — underlying structure perceived      │
+│   • Relationships between variables understood          │
+│   • Principle discovered                                │
+│                                                         │
+│   Element: ✶ (Aether) — integrative insight             │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   PHASE 5: KNOWLEDGE CONSTRUCTION                       │
+│   ═══════════════════════════════                       │
+│   • Principle integrated into cognitive structure       │
+│   • Transferable understanding formed                   │
+│   • Foundation for further inquiry laid                 │
+│                                                         │
+│   Element: β (Wood) — generative knowledge building     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Three Modes of Representation (Bruner)
+
+Bruner identified three ways learners represent knowledge, progressing from concrete to abstract:
+
+```
+REPRESENTATIONAL DEVELOPMENT
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ENACTIVE (Action-Based)                               │
+│   ═══════════════════════                               │
+│   • Learning through doing — physical manipulation      │
+│   • "Muscle memory," procedural knowledge               │
+│   • Example: Learning to ride a bicycle                 │
+│                                                         │
+│   Element: Earth (δγ) — embodied action                 │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   ICONIC (Image-Based)                                  │
+│   ═══════════════════════                               │
+│   • Learning through visual representations             │
+│   • Mental images, diagrams, pictures                   │
+│   • Example: Visualizing a map                          │
+│                                                         │
+│   Element: Water (ρ) — fluid, imagistic                 │
+│                                                         │
+│   ↓                                                     │
+│                                                         │
+│   SYMBOLIC (Language-Based)                             │
+│   ═════════════════════════                             │
+│   • Learning through abstract symbols                   │
+│   • Language, mathematical notation, codes              │
+│   • Example: Understanding algebraic equations          │
+│                                                         │
+│   Element: Air (σ) — abstract, categorical              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+Note: All three modes remain available to expert learners;
+the progression represents developmental readiness, not replacement.
+```
+
+## The Spiral Curriculum
+
+```
+BRUNER'S SPIRAL CURRICULUM
+
+Knowledge revisited at increasing levels of complexity:
+
+Level 1 (Concrete)          Level 2 (Intermediate)      Level 3 (Abstract)
+┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
+│ Basic concepts  │   →     │ Expanded        │   →     │ Theoretical     │
+│ through         │         │ relationships   │         │ frameworks      │
+│ direct          │         │ through         │         │ through         │
+│ experience      │         │ guided inquiry  │         │ self-directed   │
+│                 │         │                 │         │ discovery       │
+└─────────────────┘         └─────────────────┘         └─────────────────┘
+
+Example: "The American Revolution"
+• Level 1: Stories about colonists, basic timeline
+• Level 2: Causes and effects, key figures' motivations  
+• Level 3: Political philosophy, historiographical debates
+
+Element: δγ (Earth) — cyclical return with deepening
+```
+
+## Elemental Pattern Analysis
+
+### Wood/β Dominance
+
+Discovery Learning is fundamentally a **Wood theory**:
+- **Generative exploration:** Learners branch into multiple inquiry pathways
+- **Hypothesis generation:** Creating possibilities, not following prescriptions
+- **Knowledge construction:** Building understanding rather than receiving it
+- **Growth through inquiry:** Each discovery opens new branching questions
+- **Organic unfolding:** Learning follows the learner's curiosity
+
+### Fire/λ Direction
+
+Curiosity and purpose provide the **directional energy**:
+- Intrinsic motivation drives the inquiry
+- Problem presentation creates focused challenge
+- The "need to know" directs exploration
+- Self-directed investigation requires will
+
+### Air/σ Structure
+
+Cognitive scaffolding provides the **distinction-making** framework:
+- Problem structure guides without constraining
+- Hypothesis testing requires logical clarity
+- Pattern recognition depends on categorical thinking
+- Symbolic representation enables abstraction
+
+### Child/✶ Integration
+
+Insight moments represent **harmonic emergence**:
+- The "aha!" experience of discovery
+- Integration of disparate observations
+- Self-transcendence through understanding
+- Play-like engagement with ideas
+
+## Discovery vs. Reception Learning
+
+```
+COMPARISON OF APPROACHES
+
+Discovery Learning:              Reception Learning (Direct Instruction):
+┌─────────────────────┐         ┌─────────────────────┐
+│ Learner constructs  │         │ Teacher transmits   │
+│ knowledge           │         │ knowledge           │
+├─────────────────────┤         ├─────────────────────┤
+│ Process emphasized  │         │ Product emphasized  │
+│ (how to learn)      │         │ (what to know)      │
+├─────────────────────┤         ├─────────────────────┤
+│ Intrinsic motivation│         │ Extrinsic motivation│
+│ (curiosity-driven)  │         │ (achievement-driven)│
+├─────────────────────┤         ├─────────────────────┤
+│ Hypothesis testing  │         │ Information         │
+│ and exploration     │         │ absorption          │
+├─────────────────────┤         ├─────────────────────┤
+│ Element: Wood (β)   │         │ Element: Metal (μ)  │
+│ — generative        │         │ — structured        │
+└─────────────────────┘         └─────────────────────┘
+```
+
+### The Discovery-Reception Spectrum
+
+```
+PURE DISCOVERY ←──────────────────────────────→ PURE RECEPTION
+
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│ Unstructured    │    │ Guided Discovery│    │ Direct          │
+│ exploration     │    │ (optimal zone)  │    │ instruction     │
+│                 │    │                 │    │                 │
+│ High autonomy   │    │ Balanced        │    │ High efficiency │
+│ Risk: confusion │    │ Structure +     │    │ Risk: passive   │
+│                 │    │ exploration     │    │ reception       │
+│ Element:        │    │                 │    │ Element:        │
+│ Wood↑↑ (β)      │    │ β+μ+λ           │    │ Metal↑↑ (μ)     │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+
+Bruner's "Guided Discovery" represents the optimal balance:
+• Enough structure to prevent confusion
+• Enough freedom to enable genuine inquiry
+• Scaffolding that fades as competence develops
+```
+
+## Connection to Related Theories
+
+### Discovery Learning and Constructivism
+
+| Aspect | General Constructivism | Discovery Learning |
+|--------|------------------------|-------------------|
+| **Core principle** | Knowledge is constructed | Knowledge is discovered through inquiry |
+| **Learner role** | Active meaning-maker | Investigator/explorer |
+| **Teacher role** | Facilitator | Problem-poser, scaffold-provider |
+| **Element** | Wood (β-generative) | Wood+Fire (β+λ — directed exploration) |
+| **Relationship** | Discovery Learning is a specific constructivist methodology |
+
+### Discovery Learning and Inquiry-Based Learning
+
+```
+INQUIRY SPECTRUM
+
+Level 1: CONFIRMATION INQUIRY
+• Teacher provides question, procedure, expected result
+• Learner confirms known principle
+• Element: Metal (μ) — structured verification
+
+Level 2: STRUCTURED INQUIRY
+• Teacher provides question and procedure
+• Learner generates explanation from results
+• Element: Metal+Wood (μ+β) — guided exploration
+
+Level 3: GUIDED INQUIRY (Bruner's Discovery)
+• Teacher provides question only
+• Learner designs procedure and generates explanation
+• Element: Wood+Fire (β+λ) — directed discovery
+
+Level 4: OPEN INQUIRY
+• Learner generates question, designs procedure, explains
+• Element: Wood↑↑ (β) — autonomous exploration
+```
+
+### Discovery Learning and Problem-Based Learning (PBL)
+
+| Aspect | Discovery Learning | Problem-Based Learning |
+|--------|-------------------|------------------------|
+| **Starting point** | Structured problem | Ill-structured, authentic problem |
+| **Process** | Hypothesis testing | Collaborative problem-solving |
+| **Context** | Often disciplinary | Cross-disciplinary, real-world |
+| **Element** | Wood+Fire (β+λ) | Wood+Water (β+ρ) — collaborative |
+| **Relationship** | Discovery emphasizes individual insight; PBL emphasizes collaborative inquiry |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Scientific Method** | Hypothesis-driven research | Systematic inquiry and testing |
+| **Archaeology** | Excavation and interpretation | Uncovering hidden patterns |
+| **Detective Work** | Investigation and deduction | Evidence-based conclusion |
+| **Entrepreneurship** | Opportunity recognition | Pattern recognition in complexity |
+| **Design Thinking** | Explore-prototype-test cycle | Iterative discovery process |
+| **Therapy** | Guided self-discovery | Structured personal insight |
+
+## Educational Applications
+
+### The Socratic Method as Discovery
+
+```
+SOCRATIC DISCOVERY DIALOGUE
+
+Teacher: "What is justice?"
+    ↓
+Learner: Proposes initial definition
+    ↓
+Teacher: Poses counter-example (eliciting cognitive conflict)
+    ↓
+Learner: Refines definition
+    ↓
+Teacher: Further probing questions
+    ↓
+Learner: Deeper insight into concept
+    ↓
+[Cycle continues until principled understanding emerges]
+
+Element: σ+β (Air+Wood) — questioning that branches thinking
+```
+
+### Discovery in Mathematics
+
+**Example: Discovering the Pythagorean Theorem**
+
+1. **Problem:** Present squares on triangle sides — "What relationship do you notice?"
+2. **Exploration:** Learners measure, calculate areas, manipulate triangles
+3. **Pattern recognition:** "The areas of the smaller squares sum to the larger"
+4. **Insight:** Generalization to a² + b² = c²
+5. **Verification:** Testing with various right triangles
+
+### Discovery in Science
+
+**Example: Understanding Photosynthesis**
+
+1. **Problem:** "Why do plants need light?"
+2. **Hypothesis generation:** Learners propose explanations
+3. **Experimentation:** Testing plants in light/dark conditions
+4. **Observation:** Recording changes in plant color, growth
+5. **Pattern recognition:** Connecting light to starch production
+6. **Knowledge construction:** Building model of photosynthesis
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Time efficiency:** Discovery takes longer than direct instruction
+2. **Cognitive load:** Unstructured discovery may overwhelm working memory
+3. **Misconception risk:** Learners may "discover" incorrect principles
+4. **Prior knowledge dependency:** Requires sufficient foundation
+5. **Assessment challenges:** Harder to measure process than product
+
+### The Guidance-Fading Dilemma
+
+```
+SCAFFOLDING IN DISCOVERY LEARNING
+
+Early Stage:                    Later Stage:
+┌─────────────────┐            ┌─────────────────┐
+│ High structure  │    →       │ Faded structure │
+│ • Clear problem │            │ • Open question │
+│ • Guided steps  │            │ • Self-directed │
+│ • Hints provided│            │ • Autonomous    │
+│                 │            │   inquiry       │
+│ Element:        │            │ Element:        │
+│ μ+β (Metal+Wood)│            │ β↑ (Wood)       │
+└─────────────────┘            └─────────────────┘
+
+The art: Calibrating structure to learner readiness
+```
+
+## Core Insight
+
+> Discovery Learning reveals that understanding is not transferred from teacher to learner but **constructed by the learner** through active engagement with structured problems. The "aha!" moment of discovery creates not just knowledge but **knowledge-how** — the capacity for further independent inquiry. The educator's role is not to give answers but to architect conditions where discovery becomes inevitable.
+
+## One-Sentence Insight
+
+> Bruner's Discovery Learning demonstrates that learners construct deeper, more transferable understanding when they actively discover principles through hypothesis generation and exploration rather than receiving pre-digested knowledge — transforming learning from passive reception into generative inquiry.
+
+## Three-Bullet Expansion
+
+- **What:** A constructivist learning approach where learners actively discover principles and relationships through structured problem-solving, hypothesis generation, and self-directed exploration rather than direct instruction
+- **How it works:** Structured problems activate curiosity → learners generate and test hypotheses → exploration reveals patterns → insight moments lead to knowledge construction → understanding integrates into cognitive structure
+- **Where it aims:** Toward autonomous inquiry capability — developing learners who can investigate, discover, and construct knowledge independently, with understanding that transfers across contexts
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L071, #L017_Constructionism, #L022_Sociocultural_Theory, #L070_Gestalt_Learning_Theory, #L011_Cognitive_Load_Theory, #L025_Heutagogy
+- **Formal Operators:** β, λ, σ, ✶, μ, δγ
+- **Dim Operators:** Ψ_discovery, Ψ_inquiry, Ψ_hypothesis, Ψ_insight, Ψ_construction
+- **Coord Ontology:** I (as investigator), It (the problem), We (collaborative inquiry), Its (the discovery process)
+
+## Source
+
+Derived from:
+- Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21-32.
+- Bruner, J. S. (1966). *Toward a Theory of Instruction*. Harvard University Press.
+- Bruner, J. S. (1977). *The Process of Education*. Harvard University Press.
+- Bruner, J. S. (1990). *Acts of Meaning*. Harvard University Press.
+- Shulman, L. S., & Keislar, E. R. (Eds.). (1966). *Learning by Discovery: A Critical Appraisal*. Rand McNally.
+- Mayer, R. E. (2004). Should there be a three-strikes rule against pure discovery learning? *American Psychologist*, 59(1), 14-19.
+
+Original context: Educational psychology, curriculum theory, constructivist pedagogy
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Wood/β (primary) with Fire/λ, Air/σ, Child/✶ support | Daemon: Arboriel-Jvalion-Aerunik-Aethon | Habitat: 4_INQUIRY-PROCESSES / 5_CONSTRUCTIVE-LEARNING / 6_REFLEXIVE-STATES
+
+## Related Entries
+
+- L017_Constructionism (learning through creating)
+- L022_Sociocultural_Theory (scaffolding in ZPD)
+- L070_Gestalt_Learning_Theory (insight through restructuring)
+- L011_Cognitive_Load_Theory (managing inquiry complexity)
+- L025_Heutagogy (self-determined learning)
+- L018_Experiential_Learning (learning through experience)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L071 | Generated: 2026-02-28 03:02*
