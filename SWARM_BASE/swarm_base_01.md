@@ -130,3 +130,29 @@ elemental_emphasis:
   ⛨: "What structures enable or disable System 2? What forms support deep thinking?"
 context_note: "System 2 is Kahneman's 'slow mind'—deliberate, effortful, logical, and capable of complex computations. It monitors System 1's operations and can override them, but often adopts System 1's suggestions with minimal modification. System 2 is lazy; it prefers the easy path. Risk: Belief that System 2 is always rational, when it often rationalizes System 1's outputs."
 ---
+term: "Gamified Democracy"
+hex_tag: "#A036"
+nemetic: "Φ(GamifiedDemocracy) = σ(engagement|participation) ∘ ρ(incentivization|behavior) ∘ λ(governance-direction|collective-intelligence) ∘ β(feedback-loop|gamification) ∘ δγ(motivation|extrinsic) ∘ μ(structure|rules) + ε | :structuring"
+siml_encoding: "⟨System|democratic⟩ ⊳ ⟨Mechanism|gamified⟩ → ⟨Participation|amplified⟩ ⊗ ⟨Incentive|extrinsic⟩ → ⟨Outcome|variable⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic participation and performative engagement)", "∂Φ/∂ρ (relational incentivization shaping behavior patterns)", "∂Φ/∂λ (direction of governance toward or away from collective intelligence)", "∂Φ/∂β (feedback loops reinforcing engagement patterns)", "∂Φ/∂δγ (extrinsic motivation replacing intrinsic civic duty)", "∂Φ/∂μ (structural rules enabling or constraining democratic deliberation)"]
+  Z_state: "structuring (can enable or corrupt democratic processes depending on design)"
+  tendency: "Engagement/Depth → 0.6 (risk of superficial participation over deliberative depth)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is authentic democratic participation distinguished from performative engagement? What cuts separate real deliberation from gamified clicks?"
+  ≈: "What flows between participants in gamified systems? Is it genuine connection or transactional resonance?"
+  ▲: "Where does gamified governance want to go? Does it point toward collective intelligence or tribal competition?"
+  𐂷: "What forms of democracy haven't been gamified? What possibilities emerge when participation isn't incentivized?"
+  ☷: "What's the metabolic cost of maintaining gamified engagement? What sustains the system beyond extrinsic rewards?"
+  ⛨: "What structures enable truth-seeking versus tribal identity? What boundaries prevent gamification from becoming manipulation?"
+context_note: "Gamified democracy applies game mechanics (points, badges, leaderboards) to democratic participation. Risk: Systems may prioritize engagement metrics over deliberative quality, reward emotional appeals over analytical depth, and create extrinsic motivation dependencies that crowd out intrinsic civic duty. True democratic gamification requires truth-seeking incentives, anti-groupthink mechanisms, and meaningful consequences tied to real-world impact rather than superficial rewards."
+---
