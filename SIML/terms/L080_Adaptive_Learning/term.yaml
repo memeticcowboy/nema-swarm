@@ -1,0 +1,436 @@
+---
+term_id: L080
+source_domain: education/technology
+source_term: Adaptive Learning / Personalized Learning (AI-Enhanced)
+hex_tag: #L080
+generated_at: 2026-02-28T05:42:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Adaptive Learning — Dynamic personalization of learning pathways through real-time assessment and algorithmic adjustment
+- **Nemetic String:** Φ(AdaptiveLearning) = σ(assessment|real-time-diagnostic) ∘ μ(pathway|algorithmic-structure) ∘ δγ(iteration|feedback-loop) ∘ ρ(learner-model|individual-resonance) → [κ(personalized-content)] → [λ(adaptive-trajectory)] + ε | :responsive
+- **Core Operators:** σ (distinction/diagnosis), μ (structure/pathway), δγ (cycling/iteration), ρ (resonance/personalization), κ (knowledge/content), λ (direction/trajectory)
+- **Z-State:** responsive — system continuously adjusts to learner state
+- **Tendency:** Personalization/Optimization → 1 (learning as dynamically tailored experience)
+
+## SIML Encoding
+
+```
+⟨Narrative|every-learner-is-unique⟩ 
+    ⊳ ⟨Constraint|one-size-fits-all-ineffective⟩ 
+    ⇄ ⟨Process|continuous-assessment⟩ 
+    → ⟨Mechanism|algorithmic-pathway-adjustment⟩ 
+    ⊗ ⟨State|optimal-challenge-zone⟩ 
+    → ⟨Transfer|individualized-mastery⟩ 
+    → ⟨Transformation|self-regulated-adaptive-learner⟩
+```
+
+## Core Definition
+
+**Adaptive Learning** (also called Personalized Learning or AI-Enhanced Learning) refers to educational approaches that use technology to dynamically adjust the learning experience to each individual learner's needs, preferences, goals, and performance in real-time. Unlike traditional instruction where all students receive the same content at the same pace, adaptive systems continuously assess learner state and modify content difficulty, presentation format, learning pathway, and support resources accordingly.
+
+### The Adaptive Learning Loop
+
+```
+ADAPTIVE LEARNING CYCLE
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────┐
+    │                                                     │
+    ▼                                                     │
+┌──────────┐    ┌──────────┐    ┌──────────┐    ┌────────┴───┐
+│  Learner │───►│  System  │───►│Algorithm │───►│ Adjusted   │
+│  Action  │    │  Senses  │    │ Analyzes │    │ Experience │
+└──────────┘    └──────────┘    └──────────┘    └────────────┘
+      ▲                                              │
+      │                                              │
+      └──────────────────────────────────────────────┘
+                    Feedback Loop
+
+Continuous Cycle:
+  1. ASSESS — System evaluates learner knowledge/state (σ)
+  2. DIAGNOSE — Algorithm identifies gaps/misconceptions (σ)
+  3. ADAPT — System selects optimal next content/action (μ)
+  4. DELIVER — Personalized experience presented (κ)
+  5. MEASURE — Learner response captured (δγ)
+  6. REPEAT — Cycle continues, model refines (δγ)
+```
+
+## Key Components of Adaptive Systems
+
+| Component | Function | Nemetic Mapping | Element |
+|-----------|----------|-----------------|---------|
+| **Learner Model** | Representation of individual knowledge, skills, preferences | ρ (resonance) — attunement to individual | Water |
+| **Domain Model** | Structured map of knowledge domain and relationships | μ (structure) — organized content space | Metal |
+| **Pedagogical Model** | Rules for instructional decisions and interventions | λ (direction) — guidance strategy | Fire |
+| **Adaptation Engine** | Algorithm that selects optimal next steps | σ (distinction) — decision-making | Air |
+| **Feedback Loop** | Continuous sensing and adjustment | δγ (cycling) — iterative refinement | Earth |
+
+## The Personalization Spectrum
+
+```
+PERSONALIZATION CONTINUUM
+═══════════════════════════════════════════════════════════════
+
+NON-ADAPTIVE ◄────────────────────────────────────────► FULLY ADAPTIVE
+
+    │           │            │             │            │
+    ▼           ▼            ▼             ▼            ▼
+┌────────┐  ┌────────┐   ┌────────┐   ┌────────┐   ┌──────────┐
+│One-Size│  │ Branched│   │  Rule- │   │Machine │   │  Full AI │
+│Fits All│  │Learning│   │ Based  │   │Learning│   │ Adaptive │
+│        │  │        │   │        │   │        │   │          │
+└────────┘  └────────┘   └────────┘   └────────┘   └──────────┘
+    │           │            │             │            │
+    ▼           ▼            ▼             ▼            ▼
+Same content  Pre-set      IF-THEN       Predictive   Continuous
+for all       pathways     rules         models       modeling
+                              │         (Bayesian,   (deep
+                              │          neural nets)  learning)
+                              ▼
+                    ┌─────────────────┐
+                    │  CURRENT STATE  │
+                    │  OF THE FIELD   │
+                    └─────────────────┘
+```
+
+## Types of Adaptation
+
+### 1. Content Adaptation (What)
+
+```
+CONTENT PERSONALIZATION
+═══════════════════════
+
+Learner Profile: Struggling with fractions
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    ADAPTATION DECISION                       │
+│                                                              │
+│  IF knowledge_gap = fractions AND confidence = low THEN      │
+│     ┌─────────────────────────────────────────────────┐      │
+│     │ • Present visual fraction models               │      │
+│     │ • Add worked examples                          │      │
+│     │ • Reduce problem complexity                    │      │
+│     │ • Increase scaffolding                         │      │
+│     └─────────────────────────────────────────────────┘      │
+│                                                              │
+│  IF knowledge_gap = fractions AND confidence = high THEN     │
+│     ┌─────────────────────────────────────────────────┐      │
+│     │ • Skip basic review                             │      │
+│     │ • Present challenging applications            │      │
+│     │ • Increase pace                                 │      │
+│     └─────────────────────────────────────────────────┘      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 2. Pathway Adaptation (How)
+
+```
+ADAPTIVE PATHWAY EXAMPLE
+════════════════════════
+
+                    ┌─────────────┐
+                    │   START     │
+                    │  Diagnostic │
+                    └──────┬──────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+        ┌─────────┐  ┌─────────┐  ┌─────────┐
+        │ Beginner│  │Intermediate│ │ Advanced│
+        │  Path   │  │   Path    │  │  Path   │
+        └────┬────┘  └────┬────┘  └────┬────┘
+             │            │            │
+             ▼            ▼            ▼
+        [Module A]   [Module B]   [Module C]
+             │            │            │
+        ┌────┴────┐  ┌────┴────┐  ┌────┴────┐
+        ▼         ▼  ▼         ▼  ▼         ▼
+     [Pass]   [Struggle]  [Pass]  [Master]  [Pass]
+        │         │        │        │        │
+        ▼         ▼        ▼        ▼        ▼
+     [Advance][Review] [Advance][Enrich] [Complete]
+                  │
+                  ▼
+             [Remedial]
+             [Content]
+                  │
+                  └──────────────► (rejoins main path)
+```
+
+### 3. Presentation Adaptation (Format)
+
+| Learner Preference | Adapted Presentation |
+|-------------------|---------------------|
+| Visual learner | Diagrams, videos, infographics |
+| Reading/writing | Text explanations, articles |
+| Kinesthetic | Interactive simulations, hands-on activities |
+| Auditory | Podcasts, spoken explanations |
+| Social | Collaborative activities, discussion prompts |
+| Solitary | Self-paced modules, individual reflection |
+
+### 4. Pace Adaptation (When)
+
+```
+PACE ADAPTATION
+═══════════════
+
+Traditional:                    Adaptive:
+    Time ──►                        Time ──►
+    │││││││││││││                   │  │    │ │││   ││
+    ▼▼▼▼▼▼▼▼▼▼▼▼▼                   ▼  ▼    ▼ ▼▼▼   ▼▼
+    AAAAAAAAAAAA                   A  B    C DDD   EE
+    (all same)                     │  │    │  │    │
+                                   │  │    │  │    │
+                                   └──┴────┴──┴────┘
+                                   (individualized)
+
+A = quick mastery (accelerated)
+B = standard pace
+C = brief review needed
+D = extended practice required
+E = remediation and retry
+```
+
+## The Knowledge Space Theory (Doignon & Falmagne)
+
+Adaptive learning draws on formal mathematical models of knowledge:
+
+```
+KNOWLEDGE SPACE MODEL
+═════════════════════
+
+Knowledge Domain: Elementary Algebra
+
+┌─────────────────────────────────────────────────────────────┐
+│                    KNOWLEDGE STATES                          │
+│                                                              │
+│  ∅ ──► {+} ──► {+,×} ──► {+,×,^} ──► {+,×,^,√} ──► ...     │
+│   │      │         │           │                             │
+│   │      ▼         ▼           ▼                             │
+│   │   {+,−}    {+,×,÷}    {+,×,^,log}                       │
+│   │      │         │                                         │
+│   ▼      ▼         ▼                                         │
+│  {−} ──► {−,×} ──► ...                                       │
+│                                                              │
+│  Each state = set of skills mastered                         │
+│  Prerequisites define valid learning paths                   │
+│  Adaptive system finds optimal path through space            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Major Adaptive Learning Platforms
+
+| Platform | Approach | Key Feature |
+|----------|----------|-------------|
+| **Knewton** | Knowledge graph + predictive analytics | Prerequisite mapping |
+| **DreamBox** | Intelligent adaptive learning (K-8 math) | Manipulative-based virtual environment |
+| **ALEKS** | Knowledge Space Theory | Complete mastery before advancement |
+| **Smart Sparrow** | Adaptive courseware authoring | Instructor-controlled adaptivity |
+| **CogBooks** | Machine learning adaptation | Continuous model refinement |
+| **Squirrel AI** | Deep learning + knowledge space | AI-first tutoring system |
+| **Khan Academy** | Mastery-based progression | Self-paced with recommendation |
+
+## Elemental Pattern Analysis
+
+### Air/σ Dominance (Assessment & Diagnosis)
+
+Adaptive Learning is fundamentally an **Air theory** at its core:
+- **Distinction-making:** Continuous assessment differentiates what learner knows from what they don't
+- **Signal detection:** System senses learner state through interactions
+- **Clarity:** Diagnosis brings precision to understanding learner needs
+- **Information processing:** Algorithms analyze patterns in performance data
+
+### Metal/μ Support (Structure & Pathways)
+
+The adaptive system provides **structured guidance**:
+- **Boundaries:** Knowledge space defines what can be learned and in what order
+- **Pathways:** Predefined or emergent routes through content
+- **Organization:** Domain model structures knowledge relationships
+- **Containment:** System boundaries prevent overwhelming learners
+
+### Earth/δγ Foundation (Iteration & Cycling)
+
+Adaptation depends on **continuous feedback loops**:
+- **Cyclical refinement:** Each interaction refines the learner model
+- **Accumulation:** System builds understanding of learner over time
+- **Regeneration:** Failed attempts trigger new approaches
+- **Stability:** Consistent framework enables reliable adaptation
+
+### Water/ρ Personalization (Resonance & Flow)
+
+True adaptation requires **attunement to individual**:
+- **Resonance:** System "tunes" to individual learner characteristics
+- **Flow:** Content difficulty matched to ability for optimal experience
+- **Relationship:** Ongoing connection between learner and system model
+- **Context-sensitivity:** Adaptation considers learner context and preferences
+
+### Fire/λ Direction (Purpose & Trajectory)
+
+Adaptive systems provide **directional guidance**:
+- **Goal-orientation:** Pathways lead toward learning objectives
+- **Motivation:** Optimal challenge maintains engagement
+- **Purpose:** Clear trajectory gives learning meaning
+- **Transformation:** System guides learner from novice to competent
+
+### Knowledge/κ Content (Information & Resources)
+
+The substrate of adaptation is **content delivery**:
+- **Resources:** Library of learning materials at varied difficulty
+- **Information:** Explanations, examples, feedback
+- **Memory:** System retains learner history and preferences
+- **Transfer:** Skills build upon each other in structured ways
+
+## The Adaptive Learning Equation
+
+```
+OPTIMAL LEARNING EXPERIENCE
+═══════════════════════════
+
+Adaptivity = f(Learner_Model, Domain_Model, Pedagogical_Model)
+
+Where:
+  Learner_Model = Knowledge × Skills × Preferences × Context × History
+  Domain_Model = Concepts × Prerequisites × Relationships × Difficulty
+  Pedagogical_Model = Strategies × Interventions × Feedback × Scaffolding
+
+Optimal_Challenge = Current_Ability + α (where α = "stretch" zone)
+
+Flow_Condition: Challenge_Level ≈ Skill_Level (Csikszentmihalyi)
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Medicine** | Personalized medicine | Treatment adapted to individual genetics/biology |
+| **Marketing** | Recommendation engines | Content/products matched to user profile |
+| **Gaming** | Dynamic difficulty adjustment | Game adapts to player skill in real-time |
+| **Navigation** | GPS routing | Path adjusted based on current location/conditions |
+| **Fitness** | Personalized training | Workouts adapted to fitness level and goals |
+| **Music** | Spotify recommendations | Content matched to listening history/preferences |
+
+## Connection to Related Theories
+
+### Adaptive Learning vs. Mastery Learning (L038)
+
+| Aspect | Mastery Learning | Adaptive Learning |
+|--------|-----------------|-------------------|
+| **Pace** | Fixed time, variable outcome | Variable time, fixed outcome (mastery) |
+| **Path** | Same for all | Individualized |
+| **Assessment** | Summative (end of unit) | Continuous, formative |
+| **Element** | Earth/δγ (cycling until mastery) | Air/σ (continuous diagnosis) |
+| **Evolution** | Adaptive adds algorithmic personalization to mastery principles |
+
+### Adaptive Learning vs. Self-Regulated Learning (L047)
+
+| Aspect | Self-Regulated Learning | Adaptive Learning |
+|--------|------------------------|-------------------|
+| **Agency** | Learner controls learning | System guides learner |
+| **Metacognition** | Learner monitors own understanding | System monitors learner |
+| **Scaffolding** | Learner develops self-scaffolding | System provides scaffolding |
+| **Element** | Fire/λ (self-direction) | Air/σ (external diagnosis) |
+| **Complement** | Adaptive can support development of SRL skills |
+
+### Adaptive Learning vs. Cognitive Load Theory (L011)
+
+| Aspect | Cognitive Load Theory | Adaptive Learning |
+|--------|----------------------|-------------------|
+| **Focus** | Managing working memory load | Matching challenge to ability |
+| **Mechanism** | Instructional design principles | Algorithmic adjustment |
+| **Measurement** | Expert review of materials | Real-time performance data |
+| **Element** | Air/σ (distinction of load types) | Air/σ + μ (diagnosis + structure) |
+| **Integration** | Adaptive systems can monitor and respond to cognitive load indicators |
+
+## Criticisms and Limitations
+
+| Criticism | Response |
+|-----------|----------|
+| "Algorithmic black box" | Increasing emphasis on explainable AI; learner dashboards showing model |
+| "Loss of teacher role" | Adaptive systems augment rather than replace teachers; enable targeted intervention |
+| "Data privacy concerns" | Requires robust privacy frameworks; learner data ownership principles |
+| "Narrow focus on easily measured skills" | Expanding to complex competencies, collaborative skills, creativity |
+| "Can perpetuate biases" | Critical need for bias auditing; diverse training data; equity-focused design |
+| "Over-optimization" | Risk of "teaching to the algorithm"; need for serendipity and exploration |
+
+## The Ethics of Adaptation
+
+```
+ADAPTIVE LEARNING ETHICS FRAMEWORK
+═══════════════════════════════════
+
+┌─────────────────────────────────────────────────────────────┐
+│  TRANSPARENCY                                               │
+│  • Learners understand how system makes decisions           │
+│  • Teachers can inspect and override algorithm              │
+├─────────────────────────────────────────────────────────────┤
+│  AGENCY                                                     │
+│  • Learners retain choice over learning path                │
+│  • System recommends rather than dictates                   │
+├─────────────────────────────────────────────────────────────┤
+│  EQUITY                                                     │
+│  • Algorithm audited for bias                               │
+│  • All learners have access to high-quality adaptation      │
+├─────────────────────────────────────────────────────────────┤
+│  PRIVACY                                                    │
+│  • Learner data protected                                   │
+│  • Clear policies on data use                               │
+├─────────────────────────────────────────────────────────────┤
+│  HUMAN CONNECTION                                           │
+│  • Technology augments rather than replaces relationships   │
+│  • Teachers remain central to learning experience           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Core Insight
+
+> Adaptive Learning represents a fundamental shift from "teaching" to "responding." Instead of assuming all learners should receive the same instruction, adaptive systems recognize that every learner brings unique prior knowledge, preferences, and contexts. The technology doesn't replace the teacher—it extends their capacity to know each student deeply and respond precisely. The goal is not efficiency for efficiency's sake, but the creation of optimal learning conditions for every individual. In the best implementations, adaptive learning becomes invisible—the learner simply experiences learning that feels "just right," challenging enough to engage, supported enough to persist.
+
+## One-Sentence Insight
+
+> Adaptive Learning uses continuous assessment and algorithmic adjustment to create personalized learning pathways that match content, pace, and support to each individual learner's evolving needs—transforming education from one-size-fits-all to precisely-tailored experiences.
+
+## Three-Bullet Expansion
+
+- **What:** An educational approach using technology to dynamically adjust learning experiences based on real-time assessment of individual learner knowledge, skills, preferences, and performance—creating personalized pathways through content
+- **How it works:** System continuously senses learner state (σ) → analyzes patterns → selects optimal next content and presentation (μ) → delivers personalized experience → measures response → refines learner model (δγ) in an ongoing feedback loop
+- **Where it aims:** Toward learning experiences that maintain optimal challenge for every individual—neither boringly easy nor overwhelming difficult—enabling efficient mastery while preserving agency and supporting the development of self-regulated learning capabilities
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L080, #L011_Cognitive_Load_Theory, #L047_Self_Regulated_Learning, #L038_Mastery_Learning, #L020_Flow_Theory, #L015_Self_Determination_Theory
+- **Formal Operators:** σ, μ, δγ, ρ, κ, λ
+- **Dim Operators:** Ψ_personalization, Ψ_optimization, Ψ_responsiveness, Ψ_algorithmic
+- **Coord Ontology:** I (individual learner profile), It (adaptive system), We (teacher-learner-system relationship), Its (learning analytics ecosystem)
+
+## Source
+
+Derived from:
+- Doignon, J.-P., & Falmagne, J.-C. (1999). *Knowledge Spaces*. Springer.
+- Brusilovsky, P., & Peylo, C. (2003). Adaptive and intelligent web-based educational systems. *International Journal of Artificial Intelligence in Education*, 13(2-4), 159-172.
+- Martin, F., Chen, Y., Moore, R. L., & Westine, C. D. (2020). Systematic review of adaptive learning research designs, context, strategies, and technologies from 2009 to 2018. *Educational Technology Research and Development*, 68(4), 1903-1929.
+- VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist*, 46(4), 197-221.
+- Holmes, W., Bialik, M., & Fadel, C. (2019). *Artificial Intelligence in Education: Promises and Implications for Teaching and Learning*. Center for Curriculum Redesign.
+- Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). *Intelligence Unleashed: An Argument for AI in Education*. Pearson.
+
+Original context: Educational technology, learning sciences, artificial intelligence, computer-assisted instruction
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Air/σ (primary) with Metal/μ, Earth/δγ, Water/ρ support | Daemon: Aerunik-Ferrosid-Humavita-Aquarion | Habitat: 9_DIAGNOSTIC-LOOPS / 10_PERSONALIZATION-FLOWS / 11_ALGORITHMIC-GUIDANCE
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (optimizing mental effort)
+- L047_Self_Regulated_Learning (learner agency and metacognition)
+- L038_Mastery_Learning (competency-based progression)
+- L020_Flow_Theory (optimal challenge and engagement)
+- L015_Self_Determination_Theory (autonomy in learning)
+- L019_Spaced_Repetition (algorithmic scheduling)
+- P001_self_efficacy_theory (confidence calibration)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L080 | Generated: 2026-02-28 05:42*
