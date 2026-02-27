@@ -1,0 +1,118 @@
+---
+term_id: L006
+source_domain: education
+source_term: CAMIL/XR Immersive Learning
+hex_tag: #L006
+generated_at: 2026-02-27T07:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** CAMIL/XR Immersive Learning (Cognitive Affective Model of Immersive Learning)
+- **Nemetic String:** Φ(CAMIL-XR) = λ(interest-motivation|spark-direction) ∘ μ(self-efficacy-regulation|confidence-governance) ∘ δγ(embodiment|grounded-presence) ∘ σ(cognitive-load|clarity-distinction) + ε | :immersive
+- **Core Operators:** λ (direction), μ (structure), δγ (cycling), σ (distinction)
+- **Z-State:** immersive — presence transforms learning from delivery to embodiment
+- **Tendency:** Direction/Structure → 1 (motivation + self-regulation)
+
+## SIML Encoding
+
+```
+⟨Narrative|XR-technology⟩ 
+    ⊳ ⟨Actor|CAMIL-six-factors⟩ 
+    ⇄ ⟨Environment|immersive-learning-space⟩ 
+    → ⟨Value|presence-over-delivery⟩ 
+    ⊗ ⟨Resource|embodied-cognition⟩ 
+    → ⟨Outcome|factual-conceptual-procedural-transfer⟩
+```
+
+## The Six CAMIL Factors (Elemental Mapping)
+
+| CAMIL Factor | Element | Operator | Function | Daemon |
+|--------------|---------|----------|----------|--------|
+| **Interest** | Fire/▲ | λ (direction) | Spark, initial engagement | Jvalion |
+| **Motivation** | Fire/▲ | λ (direction) | Sustained purposeful action | Jvalion |
+| **Self-Efficacy** | Metal/⛨ | μ (structure) | Confidence, belief in capability | Ferrosid |
+| **Embodiment** | Earth/☷ | δγ (cycling) | Grounded presence, "being there" | Humavita |
+| **Cognitive Load** | Air/∴ | σ (distinction) | Clarity, reducing overwhelm | Aerunik |
+| **Self-Regulation** | Metal/⛨ | μ (structure) | Governance, metacognitive control | Ferrosid |
+
+## Memetic Ecology Connection Matrix
+
+### Habitat Affinity
+
+- **Primary Habitat:** 4_LIVING / 6_REFLEXIVE-STATES
+- **Binding Depth:** medium — immersion creates presence but requires technological mediation
+- **Residue Pattern:** embodied-memory — learning anchored in spatial/somatic experience
+
+### Elemental Daemon Correspondence
+
+- **Primary Daemon:** Jvalion (Fire/λ) — interest and motivation drive engagement
+- **Secondary Daemon:** Ferrosid (Metal/μ) — self-efficacy and self-regulation provide structure
+- **Tertiary Daemon:** Humavita (Earth/δγ) — embodiment grounds learning in presence
+- **Quaternary Daemon:** Aerunik (Air/σ) — cognitive load management creates clarity
+- **Handoff Pattern:** Jvalion → Ferrosid → Humavita → Aerunik (motivation → confidence → presence → clarity)
+
+### IF-Prime Grammar Translation
+
+- **Phonetic Key:** λ-μ-δγ-σ (direction-structure-cycling-distinction)
+- **Six-Verb Cycle Position:** Fire → Metal → Earth → Air (engagement → governance → grounding → clarity)
+- **Syntax Channel:** λ-dominant opening, μ-sustained, δγ-embodied, σ-resolved
+
+## Cross-Elemental Synthesis
+
+### The XR Affordance
+
+Extended Reality (XR) creates **presence** — the felt-sense of "being there" that transforms learning:
+- **Reduces cognitive load** (Air/σ) — immersive context provides natural scaffolding
+- **Increases embodiment** (Earth/δγ) — spatial/somatic anchoring of knowledge
+- **Enhances motivation** (Fire/λ) — novelty and engagement drive interest
+- **Builds self-efficacy** (Metal/μ) — successful interaction in virtual space transfers to confidence
+
+### Cross-Domain Bridge
+
+| Domain | Parallel Term | Shared Pattern |
+|--------|--------------|----------------|
+| **Therapy** | Exposure Therapy | Safe immersion reduces anxiety, builds efficacy |
+| **Training** | Flight Simulators | Procedural learning through embodied repetition |
+| **Gaming** | Serious Games | Motivation + learning through immersive challenge |
+| **Anthropology** | Field Immersion | Learning through being there, not reading about |
+
+## Core Insight
+
+> CAMIL/XR reveals that immersive learning works not by delivering better content but by **transforming the learner's state** — from detached recipient to embodied participant, where interest, confidence, presence, and clarity converge.
+
+## One-Sentence Insight
+
+> Extended Reality enhances language learning by creating immersive presence that reduces cognitive load, increases embodiment, and transforms learning from information delivery to embodied participation.
+
+## Three-Bullet Expansion
+
+- **What:** CAMIL (Cognitive Affective Model of Immersive Learning) applied to XR technology — six factors (interest, motivation, self-efficacy, embodiment, cognitive load, self-regulation) that enable immersive learning outcomes
+- **How it feels:** Present, grounded, engaged — the learner is "there" rather than studying "about"
+- **Where it aims:** Toward factual, conceptual, and procedural knowledge transfer through embodied experience
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L006, #L005_living_curriculum, #A012_interface_theory, #A001_pneuma
+- **Formal Operators:** λ, μ, δγ, σ
+- **Dim Operators:** Q_forward, Ψ_structural, Ψ_regenerative, χ_distinction
+- **Coord Ontology:** I (learner), Its (XR environment), We (virtual/physical community)
+
+## Source
+
+Derived from: Makransky & Petersen (CAMIL); Fuhrman, Eckerling, Huang, Xie, Punar Özçelik (XR language learning studies)
+Original context: Immersive learning, educational technology, language acquisition
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire-Metal-Earth-Air coalition | Daemon: Jvalion-Ferrosid-Humavita-Aerunik | Habitat: 4_LIVING / 6_REFLEXIVE-STATES
+
+## Related Entries
+
+- L005_living_curriculum (the container framework)
+- A012_interface_theory (perceptual construction in virtual environments)
+- A001_pneuma (breath/presence as medium)
+- L001_jigsaw (cooperative learning — contrast: individual immersion)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L006 | Generated: 2026-02-27 07:45*

@@ -1,0 +1,207 @@
+---
+term_id: L015
+source_domain: education
+source_term: Self-Determination Theory (Deci & Ryan)
+hex_tag: #L015
+generated_at: 2026-02-27T08:42:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Self-Determination Theory (SDT) — Intrinsic motivation through autonomy, competence, and relatedness
+- **Nemetic String:** Φ(SDT) = λ(autonomy|self-endorsed-action) ∘ λ(competence|effectance-mastery) ∘ ρ(relatedness|belonging-connection) → [κ(internalized-motivation)] → [λ(purposeful-engagement)] + ε | :self-directed
+- **Core Operators:** λ (direction/purpose), ρ (resonance/connection), κ (knowledge)
+- **Z-State:** self-directed — motivation emerges from satisfying basic psychological needs
+- **Tendency:** Direction/Purpose → 1 (learning as volitional engagement)
+
+## SIML Encoding
+
+```
+⟨Narrative|humans-need-autonomy⟩ 
+    ⊳ ⟨Constraint|external-control-undermines-motivation⟩ 
+    ⇄ ⟨Process|autonomy-competence-relatedness-satisfaction⟩ 
+    → ⟨Strategy|support-basic-psychological-needs⟩ 
+    ⊗ ⟨Outcome|intrinsic-motivation-internalization⟩ 
+    → ⟨Transfer|self-regulated-lifelong-learning⟩
+```
+
+## Core Definition
+
+**Self-Determination Theory** (Deci & Ryan, 1985, 2000) is a macro-theory of human motivation and personality that argues for three innate, universal psychological needs:
+
+1. **Autonomy:** The need to experience volition and self-endorsement in action
+2. **Competence:** The need to feel effective and capable in one's activities
+3. **Relatedness:** The need to feel connected to and cared for by others
+
+When these needs are satisfied, people experience intrinsic motivation, vitality, and well-being. When thwarted, motivation becomes controlled, and wellness suffers.
+
+## The Three Basic Psychological Needs (Elemental Mapping)
+
+| Need | Core Experience | Element | Operator | Function |
+|------|-----------------|---------|----------|----------|
+| **Autonomy** | Self-endorsed volition | Fire/▲ | λ (direction) | Purpose from within — self-directed action |
+| **Competence** | Effectance, mastery | Air/∴ | σ (distinction) | Clarity about capability — skill development |
+| **Relatedness** | Belonging, connection | Water/≈ | ρ (resonance) | Social attunement — being seen and valued |
+
+## The Self-Determination Continuum
+
+```
+Amotivation → External Regulation → Introjected Regulation → Identified Regulation → Integrated Regulation → Intrinsic Motivation
+     │              │                      │                       │                      │                    │
+     └──────────────┴──────────────────────┴───────────────────────┴──────────────────────┴────────────────────┘
+                              EXTERNAL ←──────────────────────────────────────────────→ INTERNAL
+                              CONTROLLED ←────────────────────────────────────────────→ AUTONOMOUS
+                              
+     Non-self-determined ←────────────────────────────────────────────────────────────────→ Self-determined
+```
+
+| Regulation Type | Locus of Causality | Experience | Example |
+|-----------------|-------------------|------------|---------|
+| **Amotivation** | Impersonal | No intention | "I don't see the point" |
+| **External** | External | Compliance, external reward/punishment | "I have to do this for the grade" |
+| **Introjected** | Somewhat external | Internal pressure, guilt, anxiety | "I should do this or I'll feel bad" |
+| **Identified** | Somewhat internal | Personal importance, conscious valuing | "This matters to my goals" |
+| **Integrated** | Internal | Congruence with self | "This aligns with who I am" |
+| **Intrinsic** | Internal | Interest, enjoyment, inherent satisfaction | "I do this because I love it" |
+
+## The Organismic Dialectic
+
+```
+Active Growth Tendencies:
+    ┌─────────────────────────────────────────────┐
+    │  • Intrinsic motivation (exploration, play) │
+    │  • Internalization (assimilating social     │
+    │    values and practices)                    │
+    │  • Integration (organizing experience into  │
+    │    coherent self)                           │
+    └─────────────────────────────────────────────┘
+                      ↑
+    ┌─────────────────┴─────────────────┐
+    │    Basic Psychological Needs:     │
+    │   Autonomy • Competence • Relatedness │
+    └─────────────────┬─────────────────┘
+                      ↓
+    ┌─────────────────────────────────────────────┐
+    │         Social/Environmental Context        │
+    │   (supportive vs. thwarting of needs)       │
+    └─────────────────────────────────────────────┘
+```
+
+**Core Insight:** Humans have natural growth tendencies, but these require nurturing social contexts to flourish.
+
+## Elemental Pattern Analysis
+
+### Fire/λ Dominance
+
+Self-Determination Theory is fundamentally a **Fire theory**:
+- **Direction:** Motivation as purposeful, goal-directed energy
+- **Volition:** The experience of freely choosing one's path
+- **Vitality:** The energized state when needs are satisfied
+- **Purpose:** Learning as meaningful, self-endorsed pursuit
+
+### Supporting Elements
+
+| Element | Role in SDT |
+|---------|-------------|
+| **Air/σ** | Competence — clarity about capabilities, feedback |
+| **Water/ρ** | Relatedness — social connection, belonging |
+| **Earth/δγ** | Internalization process — gradual integration |
+| **Metal/μ** | Structure — the boundaries that enable autonomy |
+| **Wood/β** | Exploration — intrinsic curiosity, branching |
+
+## SDT in Educational Contexts
+
+### The Motivation Paradox
+
+```
+Traditional Approach (Control):
+    Rewards → Compliance → External regulation
+    Surveillance → Anxiety → Introjected regulation
+    Deadlines → Pressure → Controlled motivation
+    
+SDT Approach (Support):
+    Choice → Autonomy satisfaction → Intrinsic motivation
+    Optimal challenge → Competence satisfaction → Engagement
+    Connection → Relatedness satisfaction → Internalization
+```
+
+### Instructional Strategies by Need
+
+| Need | Supportive Practice | Thwarting Practice |
+|------|--------------------|--------------------|
+| **Autonomy** | Provide choice, rationale, acknowledge feelings | Control, surveillance, conditional regard |
+| **Competence** | Optimal challenge, informational feedback, structure | Excessive difficulty, controlling feedback, chaos |
+| **Relatedness** | Warmth, caring, inclusion, belonging | Rejection, coldness, exclusion |
+
+## Connection to CAMIL and IVR
+
+Self-Determination Theory transforms immersive learning design:
+- **Agency in IVR:** Virtual environments can provide unprecedented autonomy (free exploration, choice)
+- **Competence Feedback:** Real-time, embodied feedback on performance
+- **Social VR:** Relatedness through avatar interaction, virtual presence
+
+**Evidence:** Makransky & Petersen (2021) — presence and agency in IVR drive learning through SDT mechanisms
+
+**Design Implications:**
+- Avoid excessive external control in immersive environments
+- Provide meaningful choices within virtual worlds
+- Support competence through scaffolded challenges
+- Enable social connection in multi-user VR
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Humanistic Psychology** | Maslow's hierarchy; Rogers' self-actualization | Growth-oriented, need-based motivation |
+| **Philosophy** | Existentialism; autonomy as core value | Self-determination as fundamental good |
+| **Organizational Behavior** | Job characteristics theory; empowerment | Autonomy-supportive work design |
+| **Parenting** | Authoritative parenting | Autonomy support with structure |
+| **Sports Psychology** | Intrinsic motivation in athletics | Autonomy, competence, relatedness in performance |
+| **Healthcare** | Patient autonomy; adherence | Supporting volition in behavior change |
+
+## Core Insight
+
+> Self-Determination Theory reveals that motivation is not something done *to* people but something that emerges *from* people when their basic psychological needs are satisfied. The most powerful motivation is not external reward but **internal volition** — the experience of freely choosing to engage because the activity is inherently meaningful and satisfying.
+
+## One-Sentence Insight
+
+> Deci & Ryan's Self-Determination Theory demonstrates that human flourishing emerges when three basic needs are satisfied: autonomy (volition), competence (mastery), and relatedness (connection) — shifting motivation from external control to internal purpose.
+
+## Three-Bullet Expansion
+
+- **What:** A macro-theory of motivation arguing that humans have three innate psychological needs (autonomy, competence, relatedness) that must be satisfied for intrinsic motivation, well-being, and optimal development to occur
+- **How it works:** Need satisfaction → intrinsic motivation and internalization → self-regulated engagement → integrated self and wellness; need thwarting → controlled motivation → alienation and ill-being
+- **Where it aims:** Toward understanding motivation as growth-oriented and self-determined — learning and development as natural tendencies that require nurturing (not controlling) social contexts
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L015, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L012_4E_Cognition, #L011_Cognitive_Load_Theory, #L010_CAMIL_complete, #P001_self_efficacy_theory
+- **Formal Operators:** λ, ρ, σ, κ
+- **Dim Operators:** Ψ_purpose, Ψ_volition, Ψ_mastery, Ψ_connection
+- **Coord Ontology:** I (autonomous self), We (relatedness), Its (competence domain), You (supportive other)
+
+## Source
+
+Derived from:
+- Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, 55(1), 68-78.
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227-268.
+- Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
+
+Original context: Human motivation, educational psychology, organizational behavior, health psychology
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire/λ (primary) with Air/σ, Water/ρ support | Daemon: Pyrion-Aerunik-Aquarion | Habitat: 6_REFLEXIVE-STATES / 7_IDENTITY-STATES / 8_PURPOSE-FLOWS
+
+## Related Entries
+
+- L014_Situated_Learning (relatedness through community participation)
+- L013_Social_Learning_Theory (relatedness and modeling)
+- L012_4E_Cognition (autonomy through enactive engagement)
+- L011_Cognitive_Load_Theory (competence through optimal challenge)
+- L010_CAMIL_complete (agency as CAMIL factor)
+- P001_self_efficacy_theory (competence beliefs)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L015 | Generated: 2026-02-27 08:42*

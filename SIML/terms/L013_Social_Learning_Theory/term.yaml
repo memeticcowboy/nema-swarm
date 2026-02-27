@@ -1,0 +1,207 @@
+---
+term_id: L013
+source_domain: education
+source_term: Social Learning Theory / Communities of Practice (Bandura; Lave & Wenger)
+hex_tag: #L013
+generated_at: 2026-02-27T08:12:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Social Learning Theory / Communities of Practice — Learning through social participation and relational resonance
+- **Nemetic String:** Φ(SLT) = ρ(observation|vicarious-experience) ∘ ρ(modeling|attention-retention-reproduction-motivation) ∘ ρ(community|legitimate-peripheral-participation) → [κ(shared-repertoire)] → [κ(identity-formation)] + ε | :relational
+- **Core Operators:** ρ (resonance/flow), κ (knowledge), μ (boundary)
+- **Z-State:** relational — learning emerges from social coupling and participation
+- **Tendency:** Resonance/Connection → 1 (learning as social becoming)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-is-social⟩ 
+    ⊳ ⟨Constraint|isolated-individual-is-insufficient⟩ 
+    ⇄ ⟨Process|observation-modeling-participation⟩ 
+    → ⟨Strategy|learn-through-relationships⟩ 
+    ⊗ ⟨Outcome|shared-practice-identity-transformation⟩ 
+    → ⟨Transfer|community-as-curriculum⟩
+```
+
+## Core Definition
+
+**Social Learning Theory** (Bandura, 1977) and **Communities of Practice** (Lave & Wenger, 1991) represent complementary perspectives on learning as fundamentally social:
+
+1. **Observational Learning:** Learning by watching others (models) and vicariously experiencing consequences
+2. **Modeling:** The four processes — attention, retention, reproduction, motivation
+3. **Legitimate Peripheral Participation:** Entering a community through low-stakes, scaffolded participation
+4. **Identity Formation:** Learning as becoming a certain kind of person through social participation
+
+## The Social Learning Architecture
+
+```
+Individual Learning (Traditional View):
+    ┌─────────┐
+    │ Learner │ ← Content is input
+    └─────────┘
+
+Social Learning (Relational View):
+    ┌─────────────────────────────────────────────┐
+    │            Community of Practice            │
+    │                                             │
+    │    ┌─────────┐         ┌─────────┐         │
+    │    │  Novice │ ←────→  │  Expert │         │
+    │    │ (LPP)   │  ρ      │ (Model) │         │
+    │    └────┬────┘         └────┬────┘         │
+    │         │                   │              │
+    │         └───────┬───────────┘              │
+    │                 ↓                          │
+    │          ┌─────────────┐                   │
+    │          │ Shared Repertoire               │
+    │          │ (language, tools, stories)      │
+    │          └─────────────┘                   │
+    │                 ↓                          │
+    │          Identity Transformation           │
+    └─────────────────────────────────────────────┘
+    
+    Learning = Participation in Social Practice
+```
+
+## Bandura's Social Learning Theory (1977)
+
+### The Four Processes of Modeling
+
+| Process | Description | Element | Function |
+|---------|-------------|---------|----------|
+| **Attention** | Noticing the model's behavior | Air/∴ | σ (distinction) — what to observe |
+| **Retention** | Remembering the observed behavior | Metal/⛨ | μ (structuring) — encoding for memory |
+| **Reproduction** | Physically/intellectually replicating | Wood/𐂷 | β (branching) — attempting the action |
+| **Motivation** | Willingness to perform the behavior | Fire/λ | λ (direction) — purpose and drive |
+
+### Vicarious Learning
+
+```
+Direct Experience:        I act → I experience consequences → I learn
+                                ↓
+Vicarious Experience:     They act → They experience consequences → I observe → I learn
+                                ↓
+Advantage: Learn from others' successes and failures without personal risk
+```
+
+## Lave & Wenger's Communities of Practice (1991)
+
+### Legitimate Peripheral Participation (LPP)
+
+| Stage | Position | Participation | Identity |
+|-------|----------|---------------|----------|
+| **Newcomer** | Peripheral | Legitimate but limited tasks | Aspiring member |
+| **Journeyer** | Moving inward | Increasing responsibility | Developing competence |
+| **Old-timer** | Central | Full participation | Master/mentor |
+
+### Three Dimensions of CoP
+
+```
+         ┌─────────────────┐
+         │  Joint Enterprise │
+         │ (mutual engagement)│
+         └────────┬────────┘
+                  │
+    ┌─────────────┼─────────────┐
+    ↓             ↓             ↓
+┌───────┐   ┌───────────┐   ┌───────────┐
+│Shared │   │  Shared   │   │  Shared   │
+│Repertoire│  │  Practice  │   │  Identity  │
+└───────┘   └───────────┘   └───────────┘
+    │             │             │
+    └─────────────┴─────────────┘
+                  │
+         Community of Practice
+```
+
+1. **Mutual Engagement:** People interact, establishing norms and relationships
+2. **Joint Enterprise:** Collective negotiation of shared purpose
+3. **Shared Repertoire:** Resources for communication and action (routines, tools, stories)
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance
+
+Social Learning is fundamentally a **Water theory**:
+- **Resonance:** Learning through attunement to others
+- **Flow:** Knowledge circulates through social networks
+- **Coupling:** The learner is coupled to the community
+- **Relationality:** Understanding emerges between people, not just within them
+
+### Supporting Elements
+
+| Element | Role in Social Learning |
+|---------|------------------------|
+| **Air/σ** | Attention — what to observe, what models to select |
+| **Fire/λ** | Motivation — the drive to emulate and achieve |
+| **Wood/β** | Reproduction — trying, practicing, branching |
+| **Metal/μ** | Retention — structuring, organizing observed behavior |
+| **Earth/δγ** | Iteration — repeated exposure, cycling through participation |
+
+## Connection to CAMIL and IVR
+
+Social Learning transforms immersive learning:
+- **Social Presence:** Virtual others as models and mentors
+- **Collaborative IVR:** Multi-user environments for joint practice
+- **Virtual Communities:** Online communities of practice in immersive spaces
+- **Avatar Modeling:** Observing and learning from virtual representations
+
+**Evidence:** Bandura's work on media modeling extends to virtual environments; avatar appearance affects behavior (Proteus effect)
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Anthropology** | Apprenticeship learning | Learning through legitimate participation |
+| **Organizational Learning** | Knowledge management | Communities of practice in organizations |
+| **Network Science** | Social contagion | Ideas spread through relational networks |
+| **Psychology** | Mirror neurons | Neural basis for observational learning |
+| **Religion** | Ritual participation | Learning through communal practice |
+| **Art** | Master-apprentice tradition | Transmission through observation and guidance |
+
+## Core Insight
+
+> Social Learning Theory reveals that learning is not an individual achievement but a **relational resonance** — we learn by attuning to others, participating in shared practices, and gradually becoming the kind of person who belongs. The community is not just the context for learning; it **is** the curriculum.
+
+## One-Sentence Insight
+
+> Bandura and Lave & Wenger demonstrate that learning is fundamentally social — we acquire knowledge not through isolated study but through observing models, participating in communities, and transforming our identities through relational practice.
+
+## Three-Bullet Expansion
+
+- **What:** A family of theories (Social Learning, Communities of Practice) arguing that learning occurs through observation, modeling, and participation in social communities — not through individual information processing alone
+- **How it works:** Attention to models → retention of observed behaviors → reproduction attempts → motivational reinforcement → legitimate peripheral participation → identity transformation → full community membership
+- **Where it aims:** Toward learning as social becoming — the transformation of identity through participation in communities of shared practice
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L013, #L012_4E_Cognition, #L011_Cognitive_Load_Theory, #L010_CAMIL_complete, #P001_self_efficacy_theory
+- **Formal Operators:** ρ, κ, μ
+- **Dim Operators:** Ψ_resonance, Ψ_participation, Ψ_identity
+- **Coord Ontology:** We (community), I (learner becoming), Its (shared repertoire), You (model/mentor)
+
+## Source
+
+Derived from:
+- Bandura, A. (1977). Social learning theory. Prentice Hall.
+- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice Hall.
+- Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.
+- Wenger, E. (1998). Communities of practice: Learning, meaning, and identity. Cambridge University Press.
+
+Original context: Educational psychology, anthropology of learning, organizational studies
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Water/ρ (primary) with Air/σ, Fire/λ, Wood/β, Metal/μ support | Daemon: Aquarion-Aerunik-Pyrion-Biota-Ferrosid | Habitat: 3_SOCIAL-FLOWS / 5_RITUAL-TECHNOLOGIES / 7_IDENTITY-STATES
+
+## Related Entries
+
+- L012_4E_Cognition (embedded cognition includes social embedding)
+- L011_Cognitive_Load_Theory (social scaffolding reduces individual load)
+- L010_CAMIL_complete (social presence as CAMIL factor)
+- P001_self_efficacy_theory (efficacy beliefs shaped by social modeling)
+- L001_jigsaw (cooperative learning structures)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L013 | Generated: 2026-02-27 08:12*

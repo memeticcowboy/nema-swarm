@@ -1,0 +1,418 @@
+---
+term_id: P002
+source_domain: psychology
+source_term: Growth Mindset Theory (Dweck, 2006)
+hex_tag: #P002
+generated_at: 2026-02-27T12:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Growth Mindset — Belief that abilities can be developed through effort and learning
+- **Nemetic String:** Φ(Mindset) = β(neuroplasticity|malleable-self) ∘ λ(effort|process-focus) ∘ μ(challenge|stretch-zone) ∘ ρ(feedback|informational) → [κ(growth)] → [✶(becoming)] + ε | :developmental
+- **Core Operators:** β (wood/generative), λ (fire/direction), μ (metal/structure), ρ (water/resonance)
+- **Z-State:** developmental — continuous becoming through intentional effort
+- **Tendency:** Growth/Expansion → 1 (abilities as developable, not fixed)
+
+## SIML Encoding
+
+```
+⟨Narrative|implicit-theory-of-intelligence⟩ 
+    ⊳ ⟨Belief|fixed-vs-growth-mindset⟩ 
+    ⇄ ⟨Response|challenge-effort-feedback-setback⟩ 
+    → ⟨Pattern|mastery-oriented-vs-helpless⟩ 
+    ⊗ ⟨Outcome|learning-vs-performance-goals⟩ 
+    → ⟨Transfer|domain-generalization⟩ 
+    → ⟨Transformation|self-theory-change⟩
+```
+
+## Core Definition
+
+**Growth Mindset** is the belief that intelligence, abilities, and talents can be developed through dedication, effort, and learning. Coined by Carol Dweck based on decades of research on achievement and success, it stands in contrast to a **fixed mindset**—the belief that abilities are static traits that cannot be changed.
+
+### The Two Mindsets
+
+```
+MINDSET PARADIGM
+│
+├── FIXED MINDSET (Entity Theory)
+│   ├── Intelligence/ability is static
+│   ├── Success = proving you're smart/talented
+│   ├── Challenges are threats (might expose inadequacy)
+│   ├── Effort is for those without natural ability
+│   ├── Feedback is personal judgment
+│   ├── Setbacks are permanent failures
+│   └── Goal: Look smart, avoid mistakes
+│
+└── GROWTH MINDSET (Incremental Theory)
+    ├── Intelligence/ability can be developed
+    ├── Success = learning and improving
+    ├── Challenges are opportunities to grow
+    ├── Effort is the path to mastery
+    ├── Feedback is information for improvement
+    ├── Setbacks are temporary and instructive
+    └── Goal: Embrace learning, persist through difficulty
+```
+
+## The Self-Fulfilling Structure
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   FIXED MINDSET CYCLE                                       │
+│                                                             │
+│   ┌──────────┐      Avoid      ┌──────────┐                │
+│   │  Belief  │ ───────────────► │ Challenge│                │
+│   │"I'm not   │    challenges   │ Avoided  │                │
+│   │good at X" │                 └──────────┘                │
+│   └────┬─────┘                      │                       │
+│        ▲                            │ No growth             │
+│        │                            ▼                       │\n│   ┌────┴─────┐               ┌──────────┐                   │
+│   │  Confirms│ ◄──────────── │  No      │                   │
+│   │  belief  │    limited    │ improvement                  │
+│   └──────────┘    ability     └──────────┘                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   GROWTH MINDSET CYCLE                                      │
+│                                                             │
+│   ┌──────────┐      Embrace   ┌──────────┐                 │
+│   │  Belief  │ ───────────────► │ Challenge│                │
+│   │"I can    │    challenges   │ Engaged  │                │
+│   │learn X"  │                 └──────────┘                │
+│   └────┬─────┘                      │                       │
+│        ▲                            │ Effort + strategies   │
+│        │                            ▼                       │
+│   ┌────┴─────┐               ┌──────────┐                   │
+│   │  Confirms│ ◄──────────── │  Growth  │                   │
+│   │  belief  │    in         │  &       │                   │
+│   └──────────┘    ability     │  learning│                   │
+│                               └──────────┘                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## The Neuroscience Foundation
+
+### Brain Plasticity as Evidence
+
+Dweck's research aligns with neuroscience findings on neuroplasticity:
+
+```
+NEUROPLASTICITY PRINCIPLE
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Every time you work hard and learn something new,        │
+│    your brain forms new connections and strengthens         │
+│    existing ones. Intelligence is not fixed—it grows        │
+│    through effort and practice."                            │
+│                                                             │
+│   — Teaching intervention based on brain plasticity         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Studies show that teaching students about neuroplasticity:
+- Increases growth mindset adoption
+- Improves academic performance
+- Reduces stereotype threat effects
+- Enhances resilience to setbacks
+
+## Elemental Pattern Analysis
+
+### Wood/β Dominance
+
+Growth Mindset is fundamentally a **Wood theory**:
+- **Generative:** Abilities grow and branch like living things
+- **Developmental:** Focus on process and becoming, not fixed state
+- **Branching:** Multiple paths to mastery, not single "talent" trajectory
+- **Resilience:** Like wood that bends rather than breaks
+- **Organic:** Learning as natural growth process
+
+### Supporting Elements
+
+| Element | Role in Growth Mindset |
+|---------|------------------------|
+| **Fire/λ** | Directed effort, persistence, goal pursuit |
+| **Metal/μ** | Structure of challenges, stretch zones, deliberate practice |
+| **Water/ρ** | Feedback as informational, emotional resilience |
+| **Air/σ** | Learning strategies, metacognition, self-awareness |
+| **Earth/δγ** | Habit formation, cyclical practice, incremental progress |
+| **Child/✶** | Playful exploration, curiosity-driven learning |
+
+## The Four Pathways of Mindset Influence
+
+### 1. Cognitive Pathway
+
+```
+Growth Mindset → Challenge Interpretation
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │  "This is hard" =       │
+        │  "This is an opportunity│
+        │   to grow"              │
+        └─────────────────────────┘
+                      │
+                      ▼
+         Enhanced Problem-Solving
+         (more strategies, persistence)
+```
+
+### 2. Motivational Pathway
+
+```
+Growth Mindset → Goal Orientation
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │  Learning Goals >       │
+        │  Performance Goals      │
+        │  (mastery vs. looking   │
+        │   good)                 │
+        └─────────────────────────┘
+                      │
+                      ▼
+         Increased Effort Investment
+         (effort as path, not sign of inadequacy)
+```
+
+### 3. Affective Pathway
+
+```
+Growth Mindset → Emotional Response to Setbacks
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │  Failure = Information  │
+        │  (not indictment of     │
+        │   self-worth)           │
+        └─────────────────────────┘
+                      │
+                      ▼
+         Resilience & Re-engagement
+         (faster recovery, less anxiety)
+```
+
+### 4. Behavioral Pathway
+
+```
+Growth Mindset → Action Selection
+                      │
+                      ▼
+        ┌─────────────────────────┐
+        │  Choose challenging     │
+        │  tasks over easy wins   │
+        │  (stretch vs. comfort)  │
+        └─────────────────────────┘
+                      │
+                      ▼
+         Skill Development
+         (deliberate practice behaviors)
+```
+
+## Mindset in Educational Practice
+
+### Process Praise vs. Person Praise
+
+| Type | Example | Effect |
+|------|---------|--------|
+| **Person Praise** | "You're so smart!" | Fixed mindset; fear of challenging tasks |
+| **Process Praise** | "You worked hard and used good strategies!" | Growth mindset; embrace challenges |
+
+### The Power of "Yet"
+
+```
+THE POWER OF "YET"
+
+Fixed statement          →    Growth reframing
+─────────────────────────────────────────────────
+"I'm not good at math"   →    "I'm not good at math YET"
+"I can't do this"        →    "I can't do this YET"
+"This doesn't work"      →    "This doesn't work YET"
+
+The word "yet" opens the temporal dimension—
+implies possibility, trajectory, becoming.
+```
+
+### Classroom Interventions
+
+**Effective growth mindset interventions:**
+1. **Brainology:** Interactive program teaching neuroplasticity
+2. **Reading + writing:** Articles about brain growth + reflection
+3. **Workshop format:** Structured sessions on learning strategies
+4. **Embedded practices:** Process praise, "yet" language, challenge framing
+
+## Connection to Related Theories
+
+### Growth Mindset and Self-Determination Theory
+
+| Aspect | Self-Determination Theory | Growth Mindset |
+|--------|---------------------------|----------------|
+| **Core need** | Autonomy, Competence, Relatedness | Belief in developable competence |
+| **Focus** | Intrinsic motivation sources | Beliefs about ability nature |
+| **Element** | Fire (λ-direction) | Wood (β-growth) |
+| **Complement** | SDT explains motivation sources | Mindset explains motivation sustainability |
+
+Growth mindset enables **sustained intrinsic motivation** by:
+- Framing effort as path to competence (not sign of incompetence)
+- Supporting persistence through competence development
+- Creating positive feedback loop of growth
+
+### Growth Mindset and Self-Efficacy (P001)
+
+```
+MINDSET × SELF-EFFICACY INTERACTION
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Growth Mindset     +     High Self-Efficacy               │
+│   (ability can grow)       (I can do this specific task)    │
+│          │                        │                         │
+│          └────────┬───────────────┘                         │
+│                   │                                         │
+│                   ▼                                         │
+│        ┌─────────────────────┐                              │
+│        │ OPTIMAL LEARNING    │                              │
+│        │ • Embrace challenges│                              │
+│        │ • Persist through   │                              │
+│        │   difficulty        │                              │
+│        │ • Recover from      │                              │
+│        │   setbacks          │                              │
+│        └─────────────────────┘                              │
+│                                                             │
+│   Mindset = Theory about ability in general                 │
+│   Self-efficacy = Belief about specific capability          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Growth Mindset and Flow Theory
+
+| Aspect | Flow Theory | Growth Mindset |
+|--------|-------------|----------------|
+| **Optimal state** | Challenge-skill balance | Challenge as growth opportunity |
+| **Effort** | Effortless absorption | Effort as path to mastery |
+| **Element** | Child/Aether (✶) | Wood (β) |
+| **Synthesis** | Growth mindset enables seeking flow states | |
+
+Growth mindset creates the **psychological safety** to:
+- Enter the flow channel (risk of anxiety zone)
+- Persist when flow breaks (setback = information)
+- Return to challenge after difficulty
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Education** | Mastery learning, formative assessment | Progress over perfection |
+| **Sports** | Training mentality, athletic development | Deliberate practice |
+| **Business** | Agile mindset, continuous improvement | Iteration and learning |
+| **Therapy** | CBT thought reframing | Belief → behavior change |
+| **Neuroscience** | Neuroplasticity, brain training | Biological basis for growth |
+| **Eastern Philosophy** | Beginner's mind (shoshin) | Openness to learning |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Oversimplification:** "Just believe you can grow" ignores structural barriers
+2. **Victim-blaming:** Focus on individual beliefs can obscure systemic inequity
+3. **Effort worship:** "Just try harder" without strategy is ineffective
+4. **False growth mindset:** Superficial adoption without behavioral change
+5. **Context matters:** Growth mindset effects vary by domain and culture
+
+### The "False Growth Mindset"
+
+Dweck identified a problematic pattern:
+
+```
+FALSE GROWTH MINDSET
+
+Surface belief: "Anyone can learn anything"
+Actual behavior: Same fixed patterns
+                • Avoiding challenge
+                • Giving up quickly
+                • Defensive to feedback
+
+Problem: Belief without behavioral integration
+Solution: Focus on process, strategies, and actual
+          responses to challenge—not just "positivity"
+```
+
+### The "Yet" Intervention
+
+Research shows the word "yet" is powerful because it:
+- Opens temporal dimension (future possibility)
+- Implies trajectory, not fixed state
+- Maintains identity while allowing change
+- Is simple and memorable
+
+## Contemporary Research
+
+### Meta-Analytic Findings
+
+- Mindset predicts academic achievement (r ≈ 0.10-0.20)
+- Effects strongest for:
+  - Students facing challenges/transition
+  - Low socioeconomic status students
+  - Students with history of struggle
+- Interventions show small but meaningful effects (d ≈ 0.20)
+
+### Boundary Conditions
+
+Growth mindset interventions work best when:
+- Combined with **learning strategy instruction**
+- Delivered in **supportive environment**
+- Focused on **specific domain** (not generic)
+- Reinforced through **consistent practices**
+
+## Core Insight
+
+> Growth mindset reveals that our beliefs about ability are not merely descriptive but **performative**—they create the reality they describe. The belief that abilities can be developed is itself a developable ability. The theory offers not just an explanation of achievement but a practical technology for transformation: change the self-theory, and the self follows.
+
+## One-Sentence Insight
+
+> Dweck's growth mindset theory demonstrates that beliefs about the malleability of intelligence create self-fulfilling cycles—those who believe abilities can be developed embrace challenges, persist through setbacks, and achieve more, while those who view abilities as fixed avoid challenges and confirm their limited potential.
+
+## Three-Bullet Expansion
+
+- **What:** A psychological theory (Dweck) that implicit beliefs about intelligence shape achievement—growth mindset (abilities developable) vs. fixed mindset (abilities static) create different responses to challenge, effort, and setbacks
+- **How it works:** Belief → challenge interpretation → effort allocation → persistence → outcomes → belief confirmation; growth mindset reframes difficulty as opportunity, effort as path, feedback as information, and setbacks as temporary
+- **Where it aims:** Toward optimal learning and achievement through belief change—enabling individuals to embrace challenge, sustain effort, and recover from setbacks by viewing abilities as developable through dedicated practice
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #P002, #P001_self_efficacy_theory, #L015_Self_Determination_Theory, #L020_Flow_Theory, #L017_Constructionism
+- **Formal Operators:** β, λ, μ, ρ
+- **Dim Operators:** Ψ_growth, Ψ_becoming, Ψ_process, Ψ_resilience
+- **Coord Ontology:** I (self as becoming), It (challenge as opportunity), We (community of learners), Its (growth process itself)
+
+## Source
+
+Derived from:
+- Dweck, C. S. (1999). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
+- Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
+- Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review*, 95(2), 256-273.
+- Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. *Child Development*, 78(1), 246-263.
+- Yeager, D. S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature*, 573(7774), 364-369.
+
+Original context: Achievement motivation, educational psychology, social-cognitive theory
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Wood/β (primary) with Fire/λ, Metal/μ, Water/ρ support | Daemon: Arboriel-Jvalion-Ferrosid-Sentaria | Habitat: 4_GROWTH-PROCESSES / 6_REFLEXIVE-STATES / 9_PRACTICE-ARCHITECTURES
+
+## Related Entries
+
+- P001_self_efficacy_theory (complementary belief system)
+- L015_Self_Determination_Theory (motivation foundation)
+- L020_Flow_Theory (optimal experience through challenge engagement)
+- L017_Constructionism (learning as building/growing)
+- L018_Experiential_Learning (learning through doing and reflecting)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #P002 | Generated: 2026-02-27 12:45*
