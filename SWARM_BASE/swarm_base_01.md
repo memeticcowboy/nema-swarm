@@ -286,3 +286,29 @@ elemental_emphasis:
   ⛨: "What structures would protect against Barnum deception? What boundaries enable discernment of genuine specificity?"
 context_note: "The Barnum Effect (or Forer Effect) describes the tendency to accept vague, general statements as highly accurate and personally meaningful. Named after P.T. Barnum and formally identified by Bertram Forer (1949). Exploited by horoscopes, personality tests, fortune-telling, and AI 'personalization' that adapts vocabulary but not substance. Risk: Prevents genuine self-knowledge, creates false sense of being understood, enables manipulation through pseudo-personal content."
 ---
+term: "Base-Rate Neglect"
+hex_tag: "#A03C"
+nemetic: "Φ(BaseRateNeglect) = σ(specific|vivid) ∘ ρ(representativeness|stereotype) ∘ λ(judgment|intuitive) ∘ β(confidence|unwarranted) ∘ δγ(ease|fluency) ∘ μ(closure|premature) + ε | :structuring"
+siml_encoding: "⟨Evidence|statistical⟩ ⊳ ⟨Case|specific⟩ → ⟨Probability|ignored⟩ ⊗ ⟨Vividness|high⟩ → ⟨Judgment|biased⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction favors vivid specific cases over abstract statistics)", "∂Φ/∂ρ (relational representativeness heuristic, stereotype matching)", "∂Φ/∂λ (direction of intuitive judgment toward narrative coherence)", "∂Φ/∂β (confidence feedback loop from case detail fluency)", "∂Φ/∂δγ (cognitive ease from story processing vs statistical reasoning)", "∂Φ/∂μ (premature closure on case-based judgment)"]
+  Z_state: "sealed (intuitive judgment feels complete, statistical gap invisible)"
+  tendency: "Specific/Abstract → 0.9 (strong weight toward vivid particulars)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: Its
+  agency:
+    type: automatic
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is the vivid case distinguished from the statistical base rate? What makes the specific feel more real than the abstract?"
+  ≈: "What flows between the compelling story and the felt probability? Where does resonance override calculation?"
+  ▲: "Where does intuitive judgment want to go? What direction does the representativeness heuristic pull us?"
+  𐂷: "What if the base rate is the story? What possibilities emerge when statistics become narrative?"
+  ☷: "What's the metabolic cost of statistical reasoning? Why does System 1 avoid abstract probability?"
+  ⛨: "What structures would hold statistical evidence open? What forms prevent premature case-based closure?"
+context_note: "Base-Rate Neglect is the tendency to ignore general statistical information in favor of specific, vivid case details. Even when given clear statistical base rates (e.g., 70% of population are lawyers, 30% engineers), people rely on personality descriptions that match stereotypes. Classic Kahneman/Tversky finding: the 'Linda problem' demonstrates this bias. In AI contexts: models may generate compelling narratives that feel representative while ignoring base-rate probabilities, leading to overconfident predictions and mis calibrated risk assessments."
+---
