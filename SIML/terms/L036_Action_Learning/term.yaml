@@ -1,0 +1,409 @@
+---
+term_id: L036
+source_domain: education
+source_term: Action Learning (Revans, 1980)
+hex_tag: #L036
+generated_at: 2026-02-27T17:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Action Learning — Learning through action, reflection, and peer collaboration
+- **Nemetic String:** Φ(ActionLearning) = λ(action|purposeful-doing) ∘ δγ(reflection|metabolic-cycling) ∘ ρ(collaboration|relational-set) ∘ σ(questioning|distinction-making) → [β(insight-generation|branching)] → [κ(wisdom-through-experience)] + ε | :pragmatic
+- **Core Operators:** λ (fire/direction), δγ (earth/cycling), ρ (water/connection), σ (air/distinction), β (wood/generation)
+- **Z-State:** pragmatic — knowledge emerges from doing and reflecting in community
+- **Tendency:** Action/Reflection → 1 (learning through the dialectic of practice and inquiry)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-doing⟩ 
+    ⊳ ⟨Constraint|theory-without-practice-remains-abstract⟩ 
+    ⇄ ⟨Process|action→reflection→insight→new-action⟩ 
+    → ⟨Strategy|small-group-inquiry-into-real-problems⟩ 
+    ⊗ ⟨Outcome|double-loop-learning⟩ 
+    → ⟨Transfer|wisdom-capacity⟩ 
+    → ⟨Transformation|individual-and-organizational-change⟩
+```
+
+## Core Definition
+
+**Action Learning** is an approach to problem solving and learning that involves taking action and reflecting upon the results. Developed by Reg Revans in the 1980s (building on work dating back to the 1940s), it is based on the simple yet profound formula:
+
+> **L = P + Q**
+> 
+> Learning = Programmed Knowledge (traditional instruction) + Questioning Insight (fresh inquiry)
+
+Action Learning occurs in small groups called **"sets"** where participants tackle real problems, take action, and learn from the results through structured reflection and peer questioning.
+
+### The Action Learning Formula
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│              L = P + Q                                  │
+│                                                         │
+│   ┌─────────────┐         ┌─────────────┐              │
+│   │      P      │    +    │      Q      │              │
+│   │  Programmed │         │ Questioning │              │
+│   │  Knowledge  │         │   Insight   │              │
+│   │             │         │             │              │
+│   │ • Theories  │         │ • Fresh     │              │
+│   │ • Facts     │         │   questions │              │
+│   │ • Models    │         │ • Curiosity │              │
+│   │ • Best      │         │ • "Why?"    │              │
+│   │   practices │         │ • "What if?"│              │
+│   └─────────────┘         └─────────────┘              │
+│          ↓                       ↓                     │
+│          └───────────┬───────────┘                     │
+│                      ↓                                 │
+│              ┌───────────────┐                         │
+│              │   LEARNING    │                         │
+│              │  (L = P + Q)  │                         │
+│              └───────────────┘                         │
+│                                                         │
+│   Programmed knowledge tells us what is known.         │
+│   Questioning insight discovers what is not yet known. │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### The Action Learning Cycle
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
+│   │   ACTION    │───►│ REFLECTION  │───►│   LEARNING  │ │
+│   │  (Take step │    │  (What      │    │  (Insight,  │ │
+│   │   into the  │    │   happened? │    │   meaning,  │ │
+│   │   unknown)  │    │   So what?) │    │   principles)│ │
+│   └──────┬──────┘    └─────────────┘    └──────┬──────┘ │
+│          ▲                                       │       │
+│          │                                       ▼       │
+│          │                                ┌─────────────┐ │
+│          │                                │  PLANNING   │ │
+│          │                                │ (What next? │ │
+│          │                                │  How?)      │ │
+│          │                                └──────┬──────┘ │
+│          │                                       │       │
+│          └───────────────────────────────────────┘       │
+│                                                         │
+│              The Action Learning Cycle                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Six Components of Action Learning
+
+| Component | Description | Nemetic Mapping |
+|-----------|-------------|-----------------|
+| **1. Problem/Project** | A real, urgent, significant challenge | λ (fire/purpose) |
+| **2. Action Learning Set** | Small group (4-8) meeting regularly | ρ (water/connection) |
+| **3. Process of Inquiry** | Questions before statements | σ (air/distinction) |
+| **4. Action Taken** | Implementation between sessions | λ (fire/action) |
+| **5. Learning** | Individual, team, organizational | β (wood/growth) |
+| **6. Facilitator/Coach** | Helps with process, not content | μ (metal/structure) |
+
+## The Action Learning Set
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    ACTION LEARNING SET                  │
+│                                                         │
+│    ┌─────┐                                            │
+│    │  A  │◄────────────────────────────────────┐       │
+│    │(Set │                                     │       │
+│    │Member│                                     │       │
+│    └──┬──┘                                     │       │
+│       │                                        │       │
+│       │    ┌─────┐         ┌─────┐            │       │
+│       └───►│  B  │◄───────►│  C  │◄───────────┘       │
+│            │(Set │         │(Set │                    │
+│            │Member│         │Member│                    │
+│            └──┬──┘         └──┬──┘                    │
+│               │               │                        │
+│               │    ┌─────┐    │                        │
+│               └───►│  D  │◄───┘                        │
+│                    │(Set │                             │
+│                    │Member│                             │
+│                    └─────┘                             │
+│                                                         │
+│   • 4-8 members                                         │
+│   • Meet regularly (e.g., half-day monthly)             │
+│   • Each presents real problem                          │
+│   • Others ask questions (no advice)                    │
+│   • Take action between sessions                        │
+│   • Reflect on results together                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Fire/λ + Earth/δγ Coalition (Primary)
+
+Action Learning is fundamentally a **Fire-Earth** theory:
+
+**Fire/λ (Direction/Action):**
+- **Purposeful doing:** Learning happens through committed action
+- **Urgency:** Real problems demand real responses
+- **Courage:** Stepping into the unknown requires fire
+- **Transformation:** Action changes both situation and actor
+
+**Earth/δγ (Cycling/Metabolism):**
+- **Reflection cycles:** The rhythm of action and reflection
+- **Digestion of experience:** Making meaning from what happened
+- **Grounded learning:** Theory tested against reality
+- **Iterative growth:** Each cycle builds on the last
+
+### Supporting Elements
+
+| Element | Role in Action Learning |
+|---------|------------------------|
+| **Water/ρ** | Set dynamics — trust, empathy, relational safety for honest inquiry |
+| **Air/σ** | Questioning insight — the discipline of asking before telling |
+| **Wood/β** | Insight generation — new possibilities emerging from reflection |
+| **Metal/μ** | Set structure — time boundaries, process discipline, facilitation |
+
+## Single-Loop vs. Double-Loop Learning
+
+```
+SINGLE-LOOP LEARNING (Fix the problem)
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Problem ──► Action ──► Result ──► Adjust Action ──►   │
+│      │                    │                             │
+│      └────────────────────┘                             │
+│           (Same strategy)                               │
+│                                                         │
+│   "The thermostat detected the room was cold            │
+│    and turned up the heat."                             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+DOUBLE-LOOP LEARNING (Question the assumptions)
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Problem ──► Action ──► Result ──► Question ──►        │
+│      │                    │        Assumptions          │
+│      │                    │            │                │
+│      │                    │            ▼                │
+│      │                    │    ┌──────────────┐         │
+│      │                    │    │ "Why did we  │         │
+│      │                    │    │  assume...?" │         │
+│      │                    │    └──────────────┘         │
+│      │                    │            │                │
+│      └────────────────────┴────────────┘                │
+│              (New strategy possible)                    │
+│                                                         │
+│   "The thermostat asked: Why do we assume               │
+│    72°F is the right temperature?                       │
+│    Maybe we need different zones, or                    │
+│    better insulation, or..."                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Art of Questioning
+
+### Revans' Questioning Approach
+
+> **"The most important thing about questioning is not the answer, but the question itself."**
+> — Reg Revans
+
+Action Learning emphasizes **questions over statements**:
+
+| Instead of... | Try asking... |
+|---------------|---------------|
+| "You should..." | "What have you considered?" |
+| "I think..." | "What would happen if...?" |
+| "The problem is..." | "How do you see the situation?" |
+| "You need to..." | "What support do you need?" |
+| "Have you tried..." | "What have you learned so far?" |
+
+### The Ladder of Inference
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  6. TAKE ACTION          ┌─────────┐                    │
+│     (Based on beliefs)   │ Actions │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  5. FORM BELIEFS         ┌─────────┐                    │
+│     (Draw conclusions)   │Beliefs  │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  4. MAKE ASSUMPTIONS     ┌─────────┐                    │
+│                          │Assumptions                   │
+│                          └────┬────┘                    │
+│                               │                         │
+│  3. ADD MEANING          ┌─────────┐                    │
+│     (Cultural/personal)  │ Meanings│                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  2. SELECT DATA          ┌─────────┐                    │
+│                          │  Data   │                    │
+│                          └────┬────┘                    │
+│                               │                         │
+│  1. REALITY/EXPERIENCE   ┌─────────┐                    │
+│                          │Reality  │                    │
+│                          └─────────┘                    │
+│                                                         │
+│   Action Learning questions help people climb           │
+│   back down the ladder to examine their                 │
+│   assumptions and data selection.                       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### Action Learning and Experiential Learning (Kolb)
+
+| Aspect | Experiential Learning | Action Learning |
+|--------|----------------------|-----------------|
+| **Cycle** | Concrete → Reflect → Abstract → Active | Action → Reflect → Learn → Plan → Action |
+| **Focus** | Individual learning style | Group problem-solving |
+| **Element** | Earth (δγ) cycling | Fire (λ) + Earth (δγ) |
+| **Complement** | EL describes the learning cycle | AL adds the social dimension |
+
+Action Learning extends Kolb's cycle by embedding it in **social inquiry** — the set provides the mirror for reflection.
+
+### Action Learning and Transformative Learning (Mezirow)
+
+Both theories address **perspective transformation**:
+- **Transformative Learning:** Through critical reflection on assumptions
+- **Action Learning:** Through action and peer questioning
+
+Action Learning creates conditions for transformative learning by:
+- Presenting **disorienting dilemmas** (real problems)
+- Providing **critical reflection** partners (the set)
+- Enabling **rational discourse** (questioning process)
+- Supporting **action** (testing new perspectives)
+
+### Action Learning and Communities of Practice (Lave & Wenger)
+
+| Aspect | Communities of Practice | Action Learning |
+|--------|------------------------|-----------------|
+| **Structure** | Organic, ongoing | Time-bounded, intentional |
+| **Focus** | Domain knowledge | Problem-solving |
+| **Membership** | Shared practice | Diverse perspectives |
+| **Element** | Water (ρ) relational | Fire (λ) purposeful |
+| **Complement** | CoPs sustain knowledge | AL generates breakthroughs |
+
+## Action Learning in Different Contexts
+
+### Management Development
+- Executives bring real organizational challenges
+- Cross-functional sets provide diverse perspectives
+- Results: Better decisions + leadership development
+
+### Education
+- Students tackle community problems
+- Learning integrated with service
+- Results: Deeper understanding + civic engagement
+
+### Healthcare
+- Clinicians improve patient care processes
+- Interprofessional sets break silos
+- Results: Better outcomes + team cohesion
+
+### Social Change
+- Community members address local issues
+- Participatory action research approach
+- Results: Sustainable solutions + empowered citizens
+
+## The Role of the Facilitator
+
+```
+FACILITATOR RESPONSIBILITIES
+├── Process Management
+│   ├── Timekeeping
+│   ├── Equal airtime
+│   └── Maintaining focus
+├── Questioning Support
+│   ├── Modeling good questions
+│   ├── Preventing advice-giving
+│   └── Deepening inquiry
+├── Reflection Prompts
+│   ├── "What are you noticing?"
+│   ├── "What surprised you?"
+│   └── "What would you do differently?"
+├── Safety Maintenance
+│   ├── Confidentiality
+│   ├── Respectful challenge
+│   └── Psychological safety
+└── Learning Capture
+    ├── Surfacing insights
+    ├── Connecting to theory
+    └── Supporting transfer
+```
+
+## Core Insight
+
+> Action Learning reveals that wisdom cannot be transmitted through instruction alone — it must be forged in the fire of action, tempered by reflection, and shaped by the questioning of peers. The set is both furnace and mirror: it heats the problem until it demands response, and reflects our blind spots until we see clearly. Learning is not preparation for action; learning is action, reflected upon.
+
+## One-Sentence Insight
+
+> Action Learning demonstrates that the most powerful learning emerges from the cycle of taking action on real problems, reflecting with peers who question rather than advise, and allowing insights to reshape both the problem-solver and the problem itself.
+
+## Three-Bullet Expansion
+
+- **What:** A learning methodology where small groups (sets) tackle real, urgent problems through a cycle of action and structured reflection, guided by the principle that learning equals programmed knowledge plus questioning insight (L = P + Q)
+- **How it works:** Participants present challenges → peers ask clarifying questions → individual takes action between sessions → group reflects on results and learning → insights inform next actions, creating double-loop learning that transforms both the problem and the problem-solver
+- **Where it aims:** Toward wisdom capacity — developing not just solutions to immediate problems, but the capability to learn from experience, question assumptions, and create sustainable individual and organizational change through the disciplined practice of action-reflection cycles in community
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L036, #L035_Inquiry_Based_Learning, #L034_Discovery_Learning, #L033_Cognitive_Flexibility_Theory, #L032_Multimedia_Learning_Theory, #L031_Elaboration_Theory, #L030_Metacognition, #L029_Blooms_Taxonomy, #L028_Cognitive_Apprenticeship, #L027_Scaffolding_Theory, #L026_Problem_Based_Learning, #L025_Heutagogy, #L024_Andragogy, #L023_Connectivism, #L022_Sociocultural_Theory, #L021_Behaviorism, #L020_Flow_Theory, #L019_Spaced_Repetition, #L018_Experiential_Learning, #L017_Constructionism, #L016_Transformative_Learning_Theory, #L015_Self_Determination_Theory, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L012_4E_Cognition, #L011_Cognitive_Load_Theory
+- **Formal Operators:** λ, δγ, ρ, σ, β, μ
+- **Dim Operators:** Ψ_action, Ψ_reflection, Ψ_inquiry, Ψ_pragmatic
+- **Coord Ontology:** I (learner), It (problem), We (the set), Its (organizational context)
+
+## Source
+
+Derived from:
+- Revans, R. W. (1980). *Action Learning: New Techniques for Management*. Blond & Briggs.
+- Revans, R. W. (1982). *The Origins and Growth of Action Learning*. Chartwell-Bratt.
+- Revans, R. W. (1983). *ABC of Action Learning*. Chartwell-Bratt.
+- Pedler, M. (Ed.). (1997). *Action Learning in Practice* (3rd ed.). Gower.
+- Marquardt, M. J. (2004). *Optimizing the Power of Action Learning*. Davies-Black.
+- Raelin, J. A. (2008). *Work-Based Learning*. Jossey-Bass.
+
+Original context: Management development, organizational learning, leadership education
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire/λ (primary) + Earth/δγ (secondary) with Water/ρ, Air/σ, Wood/β support | Daemon: Jvalion-Humavita-Sentaria-Aerunik-Arboriel | Habitat: 3_LEADERSHIP-DEVELOPMENT / 6_ORGANIZATIONAL-LEARNING / 10_PROFESSIONAL-EDUCATION
+
+## Related Entries
+
+- L035_Inquiry_Based_Learning (student-driven questioning)
+- L034_Discovery_Learning (learning through exploration)
+- L033_Cognitive_Flexibility_Theory (adapting to complex situations)
+- L032_Multimedia_Learning_Theory (cognitive processing)
+- L031_Elaboration_Theory (sequencing instruction)
+- L030_Metacognition (thinking about thinking)
+- L029_Blooms_Taxonomy (learning objectives)
+- L028_Cognitive_Apprenticeship (learning through guided participation)
+- L027_Scaffolding_Theory (temporary support structures)
+- L026_Problem_Based_Learning (learning through problem-solving)
+- L025_Heutagogy (self-determined learning)
+- L024_Andragogy (adult learning principles)
+- L023_Connectivism (networked learning)
+- L022_Sociocultural_Theory (social context of learning)
+- L021_Behaviorism (conditioning and reinforcement)
+- L020_Flow_Theory (optimal experience)
+- L019_Spaced_Repetition (timing of review)
+- L018_Experiential_Learning (learning through experience)
+- L017_Constructionism (building knowledge through making)
+- L016_Transformative_Learning_Theory (perspective transformation)
+- L015_Self_Determination_Theory (intrinsic motivation)
+- L014_Situated_Learning (context-embedded learning)
+- L013_Social_Learning_Theory (observational learning)
+- L012_4E_Cognition (embodied, extended, embedded, enactive)
+- L011_Cognitive_Load_Theory (working memory management)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L036 | Generated: 2026-02-27 17:45*
