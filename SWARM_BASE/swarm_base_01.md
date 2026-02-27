@@ -105,6 +105,32 @@ elemental_emphasis:
   ⛨: "What structures contain or enable Cognitive Babel? What boundaries would enable genuine translation?"
 context_note: "Cognitive Babel describes the fragmentation of sensemaking that occurs when AI-personalized frameworks create incompatible models of understanding among users. Each person's AI-mediated experience generates unique 'priority vectors' and 'resonance loops' that become increasingly untranslatable to others. The phenomenon manifests as confusion, alienation, and urgency around 'lost intelligibility.' Key symbols include 'epistemic drift'—the gradual divergence of meaning systems—and the need for 'shared syntax' to bridge gaps. Target identity roles include knowledge workers, designers, strategists, and system architects who must navigate this landscape. Transmission vectors span thought leadership, organizational consulting, academic discourse, and online forums discussing AI use. The ideological frame reflects post-structuralist concerns with meaning fragmentation and technoskeptical views of AI hyper-individualization."
 ---
+term: "WYSIATI"
+hex_tag: "#A047"
+nemetic: "Φ(WYSIATI) = σ(present|absent) ∘ ρ(coherence|evidence) ∘ λ(confidence|story) ∘ β(confirmation|narrative) ∘ δγ(ease|certainty) ∘ μ(boundary|unquestioned) + ε | :collapsing"
+siml_encoding: "⟨Evidence|available⟩ ⊳ ⟨Narrative|coherent⟩ → ⟨Confidence|high⟩ ⊗ ⟨Uncertainty|suppressed⟩ ⇄ ⟨Reality|constructed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between present and absent evidence—what is seen vs what is missing)", "∂Φ/∂ρ (relational coherence between available evidence and constructed narrative)", "∂Φ/∂λ (direction of confidence toward the coherent story)", "∂Φ/∂β (feedback loop where narrative confirmation reinforces certainty)", "∂Φ/∂δγ (metabolic ease of coherent stories vs cost of holding uncertainty)", "∂Φ/∂μ (boundary that prevents questioning of the constructed reality)"]
+  Z_state: "sealed (the constructed story becomes invisible as construction, treated as given)"
+  tendency: "Coherence/Uncertainty → 0.9 (strong preference for coherent narrative over acknowledged gaps)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is present evidence distinguished from absent evidence? What cut separates what is seen from what is missing?"
+  ≈: "What flows between the evidence and the story constructed from it? Is this genuine understanding or narrative imposition?"
+  ▲: "Where does confidence want to go when built on incomplete evidence? Does it serve truth or coherence?"
+  𐂷: "What forms of sensemaking haven't been tried? What if coherence itself is the trap?"
+  ☷: "What's the metabolic cost of maintaining coherent narratives? What sustains the resistance to uncertainty?"
+  ⛨: "What structures enable or disable awareness of missing evidence? What boundaries would hold productive doubt?"
+context_note: "WYSIATI ('What You See Is All There Is') is Kahneman's term for System 1's operating rule: it exploits only currently visible information, automatically crafts a coherent story from it, and treats that story as valid. System 1 has no mechanism for representing missing evidence or alternative causes, resulting in subjective certainty, overconfidence, and absence of felt ambiguity. This produces biases including overconfidence from one-sided evidence, framing effects (different formulations evoke different emotions), base-rate neglect (ignoring statistics for vivid cases), and halo effect (limited information driving broad conclusions). The coherence of the story, not its completeness, determines confidence."
+---
 term: "Neurodiversity in Philosophy"
 hex_tag: "#A045"
 nemetic: "Φ(NeuroPhil) = σ(typical|divergent) ∘ ρ(cognitive|social) ∘ λ(intuition|embodied) ∘ β(assumption|feedback) ∘ δγ(accommodation|cost) ∘ μ(boundary|inclusion) + ε | :opening"
