@@ -1,376 +1,283 @@
 ---
 term_id: L016
 source_domain: education
-source_term: Transformative Learning Theory (Mezirow, 1978/1991)
+source_term: Transformative Learning Theory (Mezirow)
 hex_tag: #L016
-generated_at: 2026-02-28T02:45:00+08:00
+generated_at: 2026-02-28T05:52:00+08:00
 status: draft
 ---
 
 ## SIML Term Summary
 
-- **Term:** Transformative Learning Theory — Perspective transformation through critical reflection on meaning perspectives
-- **Nemetic String:** Φ(TLT) = λ(disorienting-dilemma|crisis-of-meaning) ∘ σ(critical-reflection|premise-questioning) ∘ ρ(rational-discourse|perspective-testing) ∘ δγ(transformation-process|meaning-revision) → [κ(transformed-meaning-perspective)] → [λ(emancipatory-action)] + ε | :transformative
-- **Core Operators:** λ (fire/direction), σ (air/distinction/reflection), ρ (water/flow/discourse), δγ (earth/cycling/transformation)
-- **Z-State:** transformative — a fundamental shift in meaning-making structures through perspective change
-- **Tendency:** Purpose/Transformation → 1 (critical examination of assumptions enables emancipatory change)
+- **Term:** Transformative Learning Theory — Critical reflection leading to perspective transformation
+- **Nemetic String:** Φ(TLT) = σ(disorienting-dilemma|assumption-challenge) → λ(critical-reflection|meaning-scheme-examination) → λ(perspective-transformation|habit-of-mind-revision) → [κ(transformed-meaning-structure)] + ε | :transformed
+- **Core Operators:** σ (distinction/clarity), λ (direction/purpose), κ (knowledge)
+- **Z-State:** transformed — fundamental restructuring of meaning-making frameworks
+- **Tendency:** Direction/Purpose → 1 (learning as emancipatory perspective shift)
 
 ## SIML Encoding
 
 ```
-⟨Narrative|meaning-perspectives-shape-experience⟩ 
-    ⊳ ⟨Constraint|habits-of-mind-filter-perception⟩ 
-    ⇄ ⟨Process|disorienting-dilemma→critical-reflection→rational-discourse→perspective-transformation⟩ 
-    → ⟨Strategy|examine-premises-through-content-process-premise-reflection⟩ 
-    ⊗ ⟨Outcome|more-inclusive-discriminating-open-integrative-perspective⟩ 
-    → ⟨Transfer|transformed-meaning-schemes-guide-action⟩ 
-    → ⟨Transformation|emancipatory-learning-autonomy⟩ 
+⟨Narrative|habits-of-mind-guide-interpretation⟩ 
+    ⊳ ⟨Constraint|assumptions-become-uncritically-internalized⟩ 
+    ⇄ ⟨Process|disorienting-dilemma-triggers-reflection⟩ 
+    → ⟨Strategy|rational-discourse-and-critical-examination⟩ 
+    ⊗ ⟨Outcome|perspective-transformation⟩ 
+    → ⟨Transfer|emancipated-autonomous-thinker⟩
 ```
 
 ## Core Definition
 
-**Transformative Learning Theory**, developed by Jack Mezirow (1978, 1991, 2000), describes how adults critically examine their **meaning perspectives** — the broad sets of assumptions (habits of mind) and specific beliefs (meaning schemes) that act as filters for interpreting experience. Learning becomes *transformative* when these meaning perspectives themselves are transformed, leading to more inclusive, discriminating, open, emotionally able to change, and integrative perspectives.
+**Transformative Learning Theory** (Mezirow, 1978, 1991, 2000) is a theory of adult learning that focuses on how adults make meaning of their experiences through critical reflection on assumptions. The theory posits that transformative learning occurs when individuals critically examine their "meaning perspectives" (habits of mind) and "meaning schemes" (specific expectations) that shape how they interpret experience.
 
-### Key Processes
+The transformative process involves:
+1. **A disorienting dilemma** — an experience that doesn't fit existing meaning structures
+2. **Critical reflection** — examination of assumptions, beliefs, and values
+3. **Rational discourse** — dialogue with others to test new perspectives
+4. **Perspective transformation** — revision of meaning structures
+5. **Action** — acting on transformed perspectives
 
-1. **Disorienting Dilemma:** A crisis of meaning that cannot be resolved within existing meaning schemes — the catalyst for transformation
-2. **Critical Reflection:** Examining assumptions at three levels — content, process, and premise
-3. **Rational Discourse:** Testing the validity of transformed perspectives through dialogue with others
-4. **Perspective Transformation:** A fundamental shift in the structure of meaning-making
-5. **Action:** Immediate or delayed action upon the transformed perspective
-
-## The Architecture of Transformative Learning
-
-```
-Traditional Learning (Meaning Scheme Change):
-    ┌─────────────────────────────────────────────┐
-    │           Existing Meaning Perspective        │
-    │    (Habits of Mind + Meaning Schemes)         │
-    └─────────────────┬───────────────────────────┘
-                      │
-    Experience ───────┼──────→ Interpretation (filtered)
-                      │
-    New Information ──┼──────→ Assimilation (within frame)
-                      ↓
-              Learning (additive, incremental)
-              Meaning scheme changes within
-              existing perspective
-
-Transformative Learning (Perspective Transformation):
-    ┌─────────────────────────────────────────────┐
-    │           Existing Meaning Perspective        │
-    │    (Habits of Mind + Meaning Schemes)         │
-    └─────────────────┬───────────────────────────┘
-                      │
-    Disorienting ─────┼──────→ Crisis: Cannot interpret
-    Dilemma           │         within existing frame
-                      │
-                      ↓
-    ┌─────────────────────────────────────────────┐
-    │         Critical Self-Reflection              │
-    │    ┌─────────────────────────────────────┐    │
-    │    │ Content Reflection (what)           │    │
-    │    │ Process Reflection (how)            │    │
-    │    │ Premise Reflection (why) ← KEY      │    │
-    │    └─────────────────────────────────────┘    │
-    └─────────────────┬───────────────────────────┘
-                      │
-                      ↓
-    ┌─────────────────────────────────────────────┐
-    │         Rational Discourse                    │
-    │    (Testing new perspectives with others)     │
-    │         Water/ρ — relational flow             │
-    └─────────────────┬───────────────────────────┘
-                      │
-                      ↓
-    ┌─────────────────────────────────────────────┐
-    │        TRANSFORMED Meaning Perspective        │
-    │   (More inclusive, discriminating, open,      │
-    │    emotionally able to change, integrative)   │
-    └─────────────────┬───────────────────────────┘
-                      │
-                      ↓
-    ┌─────────────────────────────────────────────┐
-    │         Action                                │
-    │    • Immediate action (living change now)     │
-    │    • Delayed action (opportunity pending)     │
-    └─────────────────────────────────────────────┘
-```
-
-## Meaning Perspectives and Meaning Schemes
-
-### Habits of Mind (Broad Frames)
-The underlying assumptions that shape how we interpret experience:
-- **Epistemic habits:** How we know what we know
-- **Sociolinguistic habits:** Cultural norms and language patterns
-- **Psychological habits:** Self-concept and emotional patterns
-- **Moral-ethical habits:** Values and ethical frameworks
-
-### Meaning Schemes (Specific Beliefs)
-Particular beliefs, feelings, judgments about specific situations:
-- "I am bad at public speaking"
-- "Leaders should be decisive"
-- "Conflict is destructive"
-
-### The Critical Distinction
-
-| Aspect | Meaning Scheme | Meaning Perspective |
-|--------|---------------|---------------------|
-| **Scope** | Specific belief about particular situations | Broad frame through which schemes are interpreted |
-| **Example** | "I am bad at public speaking" | "My worth depends on others' approval" |
-| **Change** | Can change without transformation | Requires transformative learning |
-| **Element** | Metal/μ (structure) | Fire/λ (direction/transformation) |
-
-**Key Insight:** Transformative learning changes the *perspective* (frame), not just the *scheme* (content).
-
-## The Three Levels of Critical Reflection
+## The Transformative Learning Process
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│              LEVELS OF CRITICAL REFLECTION              │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  LEVEL 1: CONTENT REFLECTION                            │
-│  ┌─────────────────────────────────────────────────┐    │
-│  │ "What happened?"                                 │    │
-│  │ • What did I perceive?                           │    │
-│  │ • What did I think?                              │    │
-│  │ • What did I feel?                               │    │
-│  │ Element: Air/σ — distinction of experience       │    │
-│  └─────────────────────────────────────────────────┘    │
-│                      ↓                                  │
-│  LEVEL 2: PROCESS REFLECTION                            │
-│  ┌─────────────────────────────────────────────────┐    │
-│  │ "How did I experience this?"                     │    │
-│  │ • How did I perceive it?                         │    │
-│  │ • How did I think about it?                      │    │
-│  │ • How did I feel about it?                       │    │
-│  │ Element: Air/σ + Earth/δγ — cycling through      │    │
-│  └─────────────────────────────────────────────────┘    │
-│                      ↓                                  │
-│  LEVEL 3: PREMISE REFLECTION ← TRANSFORMATIVE           │
-│  ┌─────────────────────────────────────────────────┐    │
-│  │ "Why did I interpret this way?"                  │    │
-│  │ • What assumptions guided my perception?         │    │
-│  │ • Why did I think this way?                      │    │
-│  │ • What beliefs shaped my feelings?               │    │
-│  │ Element: Fire/λ — burning through to premises    │    │
-│  └─────────────────────────────────────────────────┘    │
-│                                                         │
-│  Transformative learning requires PREMISE REFLECTION    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    THE TRANSFORMATIVE LEARNING CYCLE                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+    ┌──────────────────┐
+    │  DISORIENTING    │ ←── Life experience that contradicts expectations
+    │    DILEMMA       │     (loss, transition, crisis, contradiction)
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ SELF-EXAMINATION │ ←── Questioning self, feelings of guilt/shame
+    │   WITH FEELINGS  │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ CRITICAL ASSESS  │ ←── Examining assumptions about self/others
+    │   OF ASSUMPTIONS │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │  RECOGNITION     │ ←── Realizing discontent is shared
+    │   SHARED DISC.   │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ EXPLORATION OF   │ ←── Seeking new options/roles/relationships
+    │    NEW OPTIONS   │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ PLANNING COURSE  │ ←── Building competence and confidence
+    │      OF ACTION   │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │  ACQUIRING INFO  │ ←── Learning new knowledge/skills
+    │    & SKILLS      │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │  TRYING NEW      │ ←── Provisional testing of new roles
+    │     ROLES        │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ BUILDING COMP.   │ ←── Developing new relationships
+    │   & SELF-CONF.   │
+    └────────┬─────────┘
+             ↓
+    ┌──────────────────┐
+    │ REINTEGRATION    │ ←── Living with transformed perspective
+    │  INTO LIFE W/    │     (new meaning structures guide action)
+    │  NEW PERSPECTIVE │
+    └──────────────────┘
 ```
 
-## The Transformative Learning Cycle
+## Meaning Structures
+
+### Habits of Mind vs. Meaning Schemes
+
+| Level | Definition | Example | Transformation |
+|-------|------------|---------|----------------|
+| **Habit of Mind** | Broad, abstract predispositions for interpreting experience | "People are fundamentally untrustworthy" | Revision of entire worldview |
+| **Meaning Scheme** | Specific expectations about particular situations | "My boss will micromanage me" | Adjustment of specific belief |
 
 ```
-        ┌─────────────────────────────────────┐
-        │   1. EXPERIENCE                     │
-        │   (Encounter with life situation)   │
-        │         Earth/δγ — grounding        │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   2. DISORIENTING DILEMMA           │
-        │   (Crisis: existing frame fails)    │
-        │         Fire/λ — catalytic spark    │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   3. SELF-EXAMINATION               │
-        │   (Emotional, cognitive exploration)│
-        │         Air/σ — making distinctions │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   4. CRITICAL ASSESSMENT            │
-        │   (Premise reflection)              │
-        │         Fire/λ + Air/σ — insight    │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   5. RATIONAL DISCOURSE             │
-        │   (Dialogue with others)            │
-        │         Water/ρ — relational flow   │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   6. PERSPECTIVE TRANSFORMATION     │
-        │   (New meaning perspective)         │
-        │         Fire/λ — directional change │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   7. ACTION                         │
-        │   • Immediate (living change)       │
-        │   • Delayed (awaiting opportunity)  │
-        │         Fire/λ — emancipatory will  │
-        └──────────────┬──────────────────────┘
-                       │
-                       ↓
-        ┌─────────────────────────────────────┐
-        │   8. REINTEGRATION                  │
-        │   (New meaning perspective stable)  │
-        │         Earth/δγ — cycling complete │
-        └──────────────┬──────────────────────┘
-                       │
-                       └───────────────────────┐
-                                               │
-                       ←────────────────────────┘
-                    (Cycle continues with new experiences)
+HABIT OF MIND (broad interpretive filter)
+    │
+    ├── Meaning Scheme A (specific expectation)
+    ├── Meaning Scheme B (specific expectation)
+    ├── Meaning Scheme C (specific expectation)
+    └── ...
+    
+TRANSFORMATION can occur at:
+    • Meaning scheme level (easier, more common)
+    • Habit of mind level (deeper, more difficult, more transformative)
 ```
 
-## Immediate vs. Delayed Action
+## Types of Reflection
 
-| Action Type | Description | Example | Element |
-|-------------|-------------|---------|---------|
-| **Immediate Action** | Acting upon transformed perspective right away | Leaving a job immediately after realizing it conflicts with core values | Fire/λ — direct expression |
-| **Delayed Action** | Holding the transformed perspective until opportunity arises | Planning to change careers after completing current obligations | Earth/δγ — patient cycling |
-
-Both forms of action validate the transformation. Delayed action is not failed transformation — it is wise integration.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    TYPES OF REFLECTION                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  CONTENT REFLECTION               PROCESS REFLECTION            │
+│  (What happened?)                 (How did it happen?)          │
+│       │                                 │                       │
+│       ▼                                 ▼                       │
+│  ┌─────────────┐                 ┌─────────────┐                │
+│  │ Examining   │                 │ Examining   │                │
+│  │ the actual  │                 │ the process │                │
+│  │ experience  │                 │ of making   │                │
+│  │ itself      │                 │ meaning     │                │
+│  └─────────────┘                 └─────────────┘                │
+│                                                                 │
+│  PREMISE REFLECTION (Critical)                                  │
+│  (Why did I perceive this way?)                                 │
+│       │                                                         │
+│       ▼                                                         │
+│  ┌─────────────────────────────────────┐                        │
+│  │ Examining the underlying            │                        │
+│  │ assumptions, beliefs, and values    │                        │
+│  │ that frame our perception           │                        │
+│  │ ← THIS IS TRANSFORMATIVE            │                        │
+│  └─────────────────────────────────────┘                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ## Elemental Pattern Analysis
 
-### Fire/λ Dominance (Primary)
+### Fire/λ Dominance
 
 Transformative Learning Theory is fundamentally a **Fire theory**:
-- **Direction:** The shift from one meaning perspective to another — a change in life's direction
-- **Purpose:** Moving toward more authentic, autonomous, self-directed meaning-making
-- **Transformation:** The burning away of old assumptions to reveal new possibilities
-- **Emancipation:** Liberation from forces that limit awareness and choice
-- **Disorienting Dilemma:** The catalytic spark that initiates transformation
-
-### Air/σ Support (Secondary)
-
-Critical reflection depends on Air:
-- **Distinction-making:** Separating content, process, and premise levels
-- **Clarity:** Seeing assumptions that were previously invisible
-- **Examination:** The analytical capacity to question one's own premises
-- **Perspective-taking:** Viewing experience from multiple angles
-
-### Water/ρ Support (Tertiary)
-
-Rational discourse flows through Water:
-- **Relational testing:** Validating new perspectives through dialogue
-- **Emotional processing:** Working through the feelings triggered by disorientation
-- **Empathy:** Understanding others' perspectives to enrich one's own
-- **Flow:** The ongoing process of meaning negotiation
-
-### Earth/δγ Support (Quaternary)
-
-Transformation as process requires Earth:
-- **Cycling:** The ongoing revision of meaning schemes within new perspectives
-- **Grounding:** Integrating transformed perspectives into daily life
-- **Digestion:** Processing the experience of transformation
-- **Reintegration:** Returning to stability after the crisis
+- **Direction:** The shift from one meaning perspective to another
+- **Purpose:** Emancipation from oppressive, limiting assumptions
+- **Transformation:** The burning away of old structures to make way for new
+- **Agency:** The learner as autonomous, self-directed meaning-maker
 
 ### Supporting Elements
 
 | Element | Role in TLT |
 |---------|-------------|
-| **Metal/μ** | Boundaries — the distinction between transformed and untransformed states; structure of habits of mind |
-| **Wood/β** | New possibilities — the branching into alternative ways of seeing; exploration of new meaning schemes |
+| **Air/σ** | Critical reflection — the clarity to see assumptions; the disorienting dilemma as signal |
+| **Water/ρ** | Rational discourse — the social process of testing perspectives with others |
+| **Metal/μ** | Habits of mind — the rigid structures that both constrain and enable meaning |
+| **Earth/δγ** | The cyclical nature of transformation — ongoing revision of meaning structures |
 
-## The Emancipatory Dimension
-
-Mezirow was influenced by critical theory (Habermas) and emphasized that transformative learning is **emancipatory**:
+## The Role of Critical Reflection
 
 ```
-Forces That Limit Awareness (Distorted Assumptions):
-    ┌─────────────────────────────────────────────┐
-    │  • Cultural norms and social expectations   │
-    │  • Institutional power structures           │
-    │  • Psychological defense mechanisms         │
-    │  • Unexamined assumptions from upbringing   │
-    │  • Ideologies that serve dominant interests │
-    │  • Epistemic habits that limit knowing      │
-    └─────────────────────────────────────────────┘
-                      ↓
-    Transformative Learning as Liberation:
-    ┌─────────────────────────────────────────────┐
-    │  • Recognizing these constraints            │
-    │  • Examining their validity (premise level) │
-    │  • Choosing more autonomous perspectives    │
-    │  • Acting from transformed awareness        │
-    │  • Becoming more self-directed in learning  │
-    └─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│              CRITICAL REFLECTION PROCESS                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  OBJECTIVE REFLECTION              SUBJECTIVE REFLECTION     │
+│  (On the object of perception)     (On the self)             │
+│       │                                  │                   │
+│       ▼                                  ▼                   │
+│  ┌─────────────┐                  ┌─────────────┐            │
+│  │ What is     │                  │ How do my   │            │
+│  │ actually    │                  │ biases and  │            │
+│  │ happening?  │                  │ assumptions │            │
+│  │             │                  │ color my    │            │
+│  │ (Evidence)  │                  │ perception? │            │
+│  └─────────────┘                  └─────────────┘            │
+│                                                              │
+│  CRITICAL-DISCOURSE REFLECTION                               │
+│  (On the social/cultural context)                            │
+│       │                                                      │
+│       ▼                                                      │
+│  ┌─────────────────────────────────────┐                     │
+│  │ How do cultural norms, power        │                     │
+│  │ structures, and social contexts     │                     │
+│  │ shape what I see as "normal"?       │                     │
+│  └─────────────────────────────────────┘                     │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Transformative vs. Instrumental Learning
+
+| Dimension | Instrumental Learning | Transformative Learning |
+|-----------|----------------------|------------------------|
+| **Focus** | Task-oriented, problem-solving | Meaning-oriented, perspective-changing |
+| **Question** | "How do I do this better?" | "Why do I see things this way?" |
+| **Reflection** | Content and process | Premise (assumptions) |
+| **Outcome** | Improved performance | Changed meaning structures |
+| **Element** | Air/σ (clarity, skill) | Fire/λ (purpose, transformation) |
+| **Analogy** | Sharpening a tool | Changing which tools you use and why |
+
+## Connection to Adult Development
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│         TRANSFORMATIVE LEARNING AND ADULT DEVELOPMENT           │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  EGO DEVELOPMENT (Kegan, Loevinger)                             │
+│       │                                                         │
+│       ▼                                                         │
+│  ┌─────────────────────────────────────┐                        │
+│  │ Progression through stages of       │                        │
+│  │ meaning-making complexity           │                        │
+│  │ (instrumental → socialized →        │                        │
+│  │  self-authoring → self-transforming)│                        │
+│  └─────────────────────────────────────┘                        │
+│                                                                 │
+│  TRANSFORMATIVE LEARNING                                        │
+│       │                                                         │
+│       ▼                                                         │
+│  ┌─────────────────────────────────────┐                        │
+│  │ The mechanism by which adults       │                        │
+│  │ move between developmental stages   │                        │
+│  │ — critical reflection on            │                        │
+│  │  previously uncritically-held       │                        │
+│  │  assumptions                        │                        │
+│  └─────────────────────────────────────┘                        │
+│                                                                 │
+│  SYNTHESIS: Transformative learning enables developmental       │
+│  growth by providing the mechanism (critical reflection)        │
+│  through which meaning structures are revised                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ## Cross-Domain Bridges
 
 | Domain | Parallel Concept | Shared Pattern |
 |--------|------------------|----------------|
-| **Psychotherapy** | Cognitive restructuring; insight-oriented therapy | Changing fundamental assumptions about self/world |
-| **Spiritual Traditions** | Conversion; awakening; enlightenment | Fundamental shift in worldview and identity |
-| **Philosophy** | Paradigm shift (Kuhn); epistemological break | Change in the framework of understanding |
-| **Social Justice** | Consciousness-raising; critical pedagogy (Freire) | Liberation through critical awareness |
-| **Developmental Psychology** | Post-formal operations; wisdom development | Qualitative changes in meaning-making |
-| **Narrative Therapy** | Re-authoring; externalizing conversations | Changing the stories that shape identity |
-| **Organizational Learning** | Double-loop learning (Argyris & Schön) | Questioning governing variables/assumptions |
-
-## Connection to Related Theories
-
-### Transformative Learning and Double-Loop Learning
-
-| Aspect | Transformative Learning | Double-Loop Learning |
-|--------|------------------------|---------------------|
-| **Focus** | Individual meaning perspectives | Organizational and individual theory-in-use |
-| **Mechanism** | Critical reflection on premises | Inquiry into governing variables |
-| **Element** | Fire/λ — burning through frames | Air/σ — surfacing assumptions |
-| **Complement** | TLT emphasizes personal meaning | DLL emphasizes action/behavior patterns |
-
-### Transformative Learning and Experiential Learning
-
-| Aspect | Experiential Learning | Transformative Learning |
-|--------|----------------------|------------------------|
-| **Cycle** | CE → RO → AC → AE | Dilemma → Reflection → Discourse → Action |
-| **Depth** | Can operate at surface or depth | Explicitly targets deep structural change |
-| **Element** | Wood/β (generation) | Fire/λ (transformation) |
-| **Relationship** | EL provides the cycle; TLT provides the depth mechanism |
-
-## Connection to CAMIL and IVR
-
-Transformative learning has special relevance for immersive learning:
-
-- **Embodied Disorientation:** IVR can create visceral, embodied experiences that challenge assumptions
-- **Perspective-Taking:** Virtual environments enable experiencing others' perspectives directly
-- **Safe Crisis:** Virtual dilemmas can trigger reflection without real-world risk
-- **Rehearsal Space:** IVR as space to practice new ways of being
-
-**Design Implications:**
-- Create experiences that challenge learners' assumptions (disorienting dilemmas)
-- Provide scaffolding for all three levels of reflection
-- Enable discourse and dialogue within virtual environments
-- Support the full cycle, not just the disorienting moment
-- Allow for both immediate and delayed action pathways
+| **Psychotherapy** | Cognitive restructuring; insight-oriented therapy | Examining and revising core beliefs |
+| **Philosophy** | Critical theory; ideology critique | Uncovering hidden assumptions; emancipation |
+| **Spirituality** | Conversion; awakening; enlightenment | Fundamental shift in worldview |
+| **Organizational Change** | Double-loop learning (Argyris) | Questioning underlying assumptions vs. just fixing problems |
+| **Social Justice** | Consciousness raising; critical pedagogy | Examining how power structures shape perception |
+| **Science** | Paradigm shift (Kuhn) | Fundamental change in explanatory frameworks |
 
 ## Core Insight
 
-> Transformative Learning Theory reveals that the most profound learning is not adding new information but **changing the very framework through which we interpret information**. The disorienting dilemma is not an obstacle to learning — it is the doorway through which transformation becomes possible. By examining our premises rather than just our conclusions, we become more autonomous, more aware, and more capable of directing our own lives.
+> Transformative Learning Theory reveals that the deepest learning is not about acquiring more information but about **changing how we know**. It is the process of becoming aware of the invisible frameworks that shape our perception — and having the courage to revise them when they no longer serve us. This is learning as emancipation: freeing ourselves from the tyranny of unexamined assumptions.
 
 ## One-Sentence Insight
 
-> Mezirow's Transformative Learning Theory demonstrates that the deepest learning occurs when a disorienting dilemma triggers critical examination of our meaning-making assumptions at the premise level, leading through rational discourse to perspective transformation and more autonomous, authentic engagement with life.
+> Mezirow's Transformative Learning Theory demonstrates that the most profound learning occurs when adults critically examine the assumptions that shape their meaning-making, leading to perspective transformation and emancipated autonomy.
 
 ## Three-Bullet Expansion
 
-- **What:** A theory of adult learning describing how meaning perspectives — the broad assumptions (habits of mind) and specific beliefs (meaning schemes) through which we interpret experience — can be transformed through critical reflection on premises, leading to more inclusive, discriminating, open, and integrative ways of understanding
-- **How it works:** Disorienting dilemma → self-examination → critical assessment (content/process/premise reflection) → rational discourse → perspective transformation → action (immediate or delayed) → reintegration; the transformation changes the *frame* of interpretation (perspective), not just its content (scheme)
-- **Where it aims:** Toward emancipatory learning — liberation from forces that limit awareness and choice, enabling more autonomous, self-directed meaning-making and action in the world
+- **What:** A theory of adult learning focused on how critical reflection on assumptions leads to perspective transformation — the revision of meaning structures (habits of mind and meaning schemes) that shape how we interpret experience
+- **How it works:** Disorienting dilemma → self-examination → critical assessment of assumptions → rational discourse → exploration of new options → planning action → acquiring knowledge → trying new roles → building competence → reintegration with transformed perspective
+- **Where it aims:** Toward emancipated autonomy — freeing adults from the constraints of unexamined assumptions and enabling more discriminating, justified meaning-making
 
 ## SWARM BASE Routing
 
-- **Hex Tags:** #L016, #L037_Double_Loop_Learning, #L018_Experiential_Learning, #L015_Self_Determination_Theory, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L012_4E_Cognition, #L011_Cognitive_Load_Theory, #L010_CAMIL_complete
-- **Formal Operators:** λ, σ, ρ, δγ, κ
-- **Dim Operators:** Ψ_purpose, Ψ_reflection, Ψ_discourse, Ψ_transformation, Ψ_autonomy, Ψ_emancipation
-- **Coord Ontology:** I (autonomous self), We (discourse community), Its (social forces/ideologies), You (transformed other)
+- **Hex Tags:** #L016, #L015_Self_Determination_Theory, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L012_4E_Cognition, #L011_Cognitive_Load_Theory
+- **Formal Operators:** λ, σ, ρ, κ
+- **Dim Operators:** Ψ_purpose, Ψ_reflection, Ψ_transformation, Ψ_emancipation
+- **Coord Ontology:** I (autonomous meaning-maker), We (discourse community), Its (cultural assumptions), You (critical other)
 
 ## Source
 
@@ -379,25 +286,21 @@ Derived from:
 - Mezirow, J. (1991). *Transformative dimensions of adult learning*. Jossey-Bass.
 - Mezirow, J. (2000). Learning as transformation: Critical perspectives on a theory in progress. *Jossey-Bass*.
 - Mezirow, J., & Associates (2000). *Learning as transformation: Critical perspectives on a theory in progress*. Jossey-Bass.
-- Taylor, E. W. (2007). An update of transformative learning theory: A critical review of the empirical research (1999–2005). *International Journal of Lifelong Education*, 26(2), 173-191.
 - Cranton, P. (2006). *Understanding and promoting transformative learning* (2nd ed.). Jossey-Bass.
+- Taylor, E. W. (2007). An update of transformative learning theory: A critical review of the empirical research (1999–2005). *International Journal of Lifelong Education*, 26(2), 173-191.
 
 Original context: Adult education, critical pedagogy, developmental psychology
 Processed: 2026-02-28 via SIML Elemental Framework
-Element: Fire/λ (primary) with Air/σ, Water/ρ, Earth/δγ support | Daemon: Pyrion-Aerunik-Aquarion-Terroir | Habitat: 7_IDENTITY-STATES / 8_PURPOSE-FLOWS / 9_TRANSFORMATION
+Element: Fire/λ (primary) with Air/σ, Water/ρ support | Daemon: Pyrion-Aerunik-Aquarion | Habitat: 7_IDENTITY-STATES / 8_PURPOSE-FLOWS / 9_INTEGRATION-FIELDS
 
 ## Related Entries
 
-- L037_Double_Loop_Learning (organizational assumption-questioning)
-- L018_Experiential_Learning (learning through cycles of experience)
-- L015_Self_Determination_Theory (autonomy as outcome of transformation)
-- L014_Situated_Learning (context shapes meaning perspectives)
-- L013_Social_Learning_Theory (discourse and social influence)
-- L012_4E_Cognition (embodied nature of meaning-making)
-- L011_Cognitive_Load_Theory (reflection as cognitive process)
-- L010_CAMIL_complete (agency and transformation in immersive contexts)
-- L004_transformative_learning (Bateson's second-order change)
+- L015_Self_Determination_Theory (autonomy as foundation for transformation)
+- L014_Situated_Learning (context shapes meaning-making)
+- L013_Social_Learning_Theory (discourse and social process)
+- L012_4E_Cognition (embodied meaning-making)
+- L011_Cognitive_Load_Theory (cognitive resources for reflection)
 
 ---
 
-*End of SWARM_BASE Entry | Hex: #L016 | Generated: 2026-02-28 02:45*
+*End of SWARM_BASE Entry | Hex: #L016 | Generated: 2026-02-28 05:52*
