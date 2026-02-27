@@ -1,0 +1,386 @@
+---
+term_id: L052
+source_domain: education
+source_term: Concept Mapping (Novak & Gowin, 1984)
+hex_tag: #L052
+generated_at: 2026-02-27T21:30:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Concept Mapping — Visual tool for representing knowledge structures through hierarchical node-link diagrams
+- **Nemetic String:** Φ(ConceptMapping) = μ(hierarchical-structure|top-down-organization) ∘ ρ(relational|cross-links) ∘ β(branching|propositional-networks) ∘ σ(distinction|concept-labeling) → [κ(meaningful-learning)] → [✶(integrated-understanding)] + ε | :visual-hierarchical
+- **Core Operators:** μ (structure/hierarchy), ρ (resonance/connection), β (wood/branching), σ (air/distinction)
+- **Z-State:** visual-hierarchical — knowledge organized as nested conceptual networks
+- **Tendency:** Structure/Connection → 1 (meaningful integration of concepts)
+
+## SIML Encoding
+
+```
+⟨Narrative|visualizing-knowledge-structures⟩ 
+    ⊳ ⟨Constraint|hierarchical-organization-required⟩ 
+    ⇄ ⟨Process|concept-identification⟩ 
+    ⇄ ⟨Process|hierarchical-arrangement⟩ 
+    → ⟨Structure|node-link-diagram⟩ 
+    ⊗ ⟨Process|cross-linking⟩ 
+    → ⟨Outcome|meaningful-learning⟩ 
+    → ⟨Transfer|knowledge-integration⟩ 
+    ↺ ⟨Spiral|progressive-map-refinement⟩
+```
+
+## Core Definition
+
+**Concept Mapping**, developed by Joseph Novak and Bob Gowin in 1984, is a visual tool for organizing and representing knowledge. Based on David Ausubel's Subsumption Theory, concept maps use **nodes** (concepts) connected by **labeled links** (relationships) to create hierarchical diagrams that make knowledge structures visible and explicit.
+
+### The Anatomy of a Concept Map
+
+```
+CONCEPT MAP STRUCTURE
+│
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                    [FOCUS QUESTION]                             │
+│                         ↓                                       │
+│                                                                 │
+│                    ┌─────────┐                                  │
+│                    │CONCEPT A│ ←── Most general, inclusive       │
+│                    │(Root)   │     concept at the top            │
+│                    └────┬────┘                                  │
+│                         │ is a                                  │
+│            ┌────────────┼────────────┐                          │
+│            │ is a       │            │ is a                    │
+│            ▼            ▼            ▼                          │
+│       ┌─────────┐  ┌─────────┐  ┌─────────┐                    │
+│       │CONCEPT B│  │CONCEPT C│  │CONCEPT D│                    │
+│       │(Branch) │  │(Branch) │  │(Branch) │                    │
+│       └────┬────┘  └────┬────┘  └────┬────┘                    │
+│            │            │            │                          │
+│            │ leads to   │ contains  │ results in               │
+│            ▼            ▼            ▼                          │
+│       ┌─────────┐  ┌─────────┐  ┌─────────┐                    │
+│       │CONCEPT E│  │CONCEPT F│  │CONCEPT G│                    │
+│       │(Leaf)   │  │(Leaf)   │  │(Leaf)   │                    │
+│       └─────────┘  └─────────┘  └─────────┘                    │
+│                                                                 │
+│       ═══════════════════════════════════════                   │
+│                    CROSS-LINKS                                  │
+│       CONCEPT E ←────influences────→ CONCEPT G                  │
+│                                                                 │
+│  • Hierarchical: Most general at top, specific below            │
+│  • Linking words: Define relationships (is a, leads to, etc.)   │
+│  • Cross-links: Show connections between different branches     │
+│  • Examples: Specific instances at the bottom                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Key Components
+
+| Component | Description | Nemetic Mapping |
+|-----------|-------------|-----------------|
+| **Concepts** | Perceived regularities in events or objects | σ (distinction-making) |
+| **Hierarchical Structure** | General → specific, top-down organization | μ (structural hierarchy) |
+| **Linking Words/Phrases** | Define relationships between concepts | ρ (relational definition) |
+| **Cross-Links** | Connections between concepts in different branches | β (branching/integration) |
+| **Specific Examples** | Concrete instances of concepts | κ (knowledge instantiation) |
+
+## The Concept Mapping Process
+
+```
+CONCEPT MAPPING WORKFLOW
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  1. DEFINE FOCUS QUESTION                               │
+│     "What is the key question this map should answer?"  │
+│                      ↓                                  │
+│  2. BRAINSTORM CONCEPTS                                 │
+│     Generate 10-20 key concepts related to the topic    │
+│                      ↓                                  │
+│  3. RANK CONCEPTS BY INCLUSIVENESS                      │
+│     Most general → Most specific                        │
+│                      ↓                                  │
+│  4. CONSTRUCT HIERARCHY                                 │
+│     Place most general concept at top                   │
+│     Arrange subordinate concepts below                  │
+│                      ↓                                  │
+│  5. ADD LINKING WORDS                                   │
+│     Connect concepts with relationship phrases          │
+│                      ↓                                  │
+│  6. IDENTIFY CROSS-LINKS                                │
+│     Find meaningful connections between branches        │
+│                      ↓                                  │
+│  7. REVISE AND REFINE                                   │
+│     Iterate, seek feedback, improve structure           │
+│                      ↓                                  │
+│  8. ADD EXAMPLES                                        │
+│     Include specific instances at appropriate levels    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Connection to Ausubel's Subsumption Theory
+
+Concept Mapping directly operationalizes Ausubel's theory of meaningful learning:
+
+```
+SUBSUMPTION THEORY ←→ CONCEPT MAPPING
+
+Ausubel's Principle          Concept Map Element
+─────────────────────────────────────────────────────────
+Advance Organizers     →     Root concept at top
+Subsumption            →     Hierarchical arrangement
+Progressive            →     Branching structure
+  Differentiation
+Integrative            →     Cross-links between
+  Reconciliation           branches
+Meaningful Learning    →     Propositional structure
+                              (concept-link-concept)
+```
+
+> **"The most important single factor influencing learning is what the learner already knows."**
+> — David Ausubel
+
+Concept maps make this prior knowledge **visible and manipulable**.
+
+## Elemental Pattern Analysis
+
+### Metal/μ + Water/ρ Coalition (Primary)
+
+Concept Mapping is fundamentally a **Metal-Wood** theory with strong Water elements:
+
+**Metal/μ (Structure/Hierarchy):**
+- **Hierarchical organization:** The top-down structure reflects cognitive organization
+- **Anchor concepts:** The most inclusive concepts serve as anchors for subordinate learning
+- **Framework provision:** The map provides a structural framework for new knowledge
+
+**Water/ρ (Relational/Connection):**
+- **Linking phrases:** Define the nature of relationships between concepts
+- **Cross-links:** Reveal unexpected connections, fostering integrative thinking
+- **Propositional units:** Each concept-link-concept triad forms a meaningful proposition
+
+**Wood/β (Branching/Generation):**
+- **Network growth:** Maps grow through branching from central concepts
+- **Multiple pathways:** Cross-links create multiple routes through knowledge space
+- **Emergent insight:** New connections often reveal unexpected relationships
+
+### Supporting Elements
+
+| Element | Role in Concept Mapping |
+|---------|------------------------|
+| **Air/σ** | Concept distinction — clear labeling and differentiation |
+| **Earth/δγ** | Iterative refinement — maps evolve through cycles of revision |
+| **Knowledge/κ** | The content being organized and represented |
+| **Child/✶** | Holistic understanding — seeing the "big picture" of a domain |
+
+## Types of Concept Maps
+
+```
+CONCEPT MAP VARIETIES
+
+1. HIERARCHICAL (Standard)
+   ┌─────────┐
+   │   A     │
+   └────┬────┘
+   ┌────┴────┐
+   ▼         ▼
+┌─────┐   ┌─────┐
+│  B  │   │  C  │
+└──┬──┘   └──┬──┘
+   │         │
+   ▼         ▼
+┌─────┐   ┌─────┐
+│  D  │   │  E  │
+└─────┘   └─────┘
+
+2. SPIDER/WEB (Radial)
+        ┌───┐
+   ┌────┤ A ├────┐
+   │    └───┘    │
+┌──┴──┐      ┌──┴──┐
+│  B  │      │  C  │
+└──┬──┘      └──┬──┘
+   │    ┌───┐   │
+   └────┤ D ├────┘
+        └───┘
+
+3. FLOWCHART (Sequential)
+   ┌───┐    ┌───┐    ┌───┐    ┌───┐
+   │ A │───→│ B │───→│ C │───→│ D │
+   └───┘    └───┘    └───┘    └───┘
+
+4. SYSTEMS (Interconnected)
+        ┌───┐
+   ┌────┤ A ├────┐
+   ↓    └───┘    ↓
+┌───┐         ┌───┐
+│ B │←───────→│ C │
+└───┘    ↑    └───┘
+         └────┤ D ├────┐
+              └───┘    ↓
+                    ┌───┐
+                    │ E │
+                    └───┘
+```
+
+## Educational Applications
+
+### For Students
+
+| Application | Purpose | Outcome |
+|-------------|---------|---------|
+ **Pre-assessment** | Reveal prior knowledge | Identify misconceptions |
+| **Note-taking** | Organize lecture content | Structured understanding |
+| **Study tool** | Review and integrate | Enhanced retention |
+| **Collaborative learning** | Negotiate meaning | Shared understanding |
+| **Assessment** | Demonstrate understanding | Visible knowledge structures |
+
+### For Teachers
+
+```
+CONCEPT MAP USES IN INSTRUCTION
+
+Curriculum Design
+├── Identify core concepts
+├── Sequence learning progression
+└── Align assessments
+
+Lesson Planning
+├── Structure content presentation
+├── Design learning activities
+└── Create advance organizers
+
+Assessment
+├── Diagnose misconceptions
+├── Evaluate conceptual change
+└── Measure integration depth
+
+Research
+├── Analyze knowledge structures
+├── Track learning progression
+└── Compare expert-novice differences
+```
+
+## CmapTools and Digital Mapping
+
+The **CmapTools** software (developed at IHMC) enables:
+- **Collaborative construction:** Multiple users building maps simultaneously
+- **Multimedia integration:** Links to resources, images, videos
+- **Knowledge sharing:** Publishing to public servers
+- **Analysis tools:** Metrics on map complexity, cross-link density
+
+```
+DIGITAL CONCEPT MAP FEATURES
+
+┌─────────────────────────────────────────────────────────┐
+│                    CmapTools Interface                  │
+│                                                         │
+│  ┌─────────────────────────────────────────────────┐   │
+│  │                                                 │   │
+│  │     [Concept Map Canvas]                        │   │
+│  │                                                 │   │
+│  │     ┌─────┐                                     │   │
+│  │     │     │───is a──→┌─────┐                   │   │
+│  │     └──┬──┘          └─────┘                   │   │
+│  │        │                                        │   │
+│  │        └─leads to→┌─────┐                      │   │
+│  │                   └──┬──┘                      │   │
+│  │                      │ [📎 resource.pdf]       │   │
+│  │                      ▼ [🎥 video.mp4]         │   │
+│  │                   ┌─────┐                      │   │
+│  │                   └─────┘                      │   │
+│  │                                                 │   │
+│  └─────────────────────────────────────────────────┘   │
+│                                                         │
+│  [Tools] [Resources] [Collaborate] [Publish] [Analyze] │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### Concept Mapping and Subsumption Theory (L051)
+
+Concept Mapping is the **visual operationalization** of Ausubel's Subsumption Theory:
+- Advance organizers become the **root concept**
+- Subsumption becomes **hierarchical arrangement**
+- Meaningful learning becomes **propositional clarity**
+
+### Concept Mapping and Constructivism
+
+| Aspect | Constructivism | Concept Mapping |
+|--------|---------------|-----------------|
+| **Knowledge** | Actively constructed | Visibly organized |
+| **Learning** | Building understanding | Building maps |
+| **Role of learner** | Active organizer | Map constructor |
+| **Element** | Wood (β) generation | Metal (μ) + Wood (β) |
+
+### Concept Mapping and Metacognition (L030)
+
+Concept maps serve as **metacognitive tools**:
+- Making thinking visible (σ — distinction)
+- Monitoring understanding gaps (χ — limitation awareness)
+- Regulating learning strategies (λ — direction)
+
+## Expert vs. Novice Maps
+
+```
+EXPERT MAP CHARACTERISTICS          NOVICE MAP CHARACTERISTICS
+────────────────────────────        ────────────────────────────
+• Dense cross-links                 • Few or no cross-links
+• Hierarchical depth                • Flat structure
+• Accurate propositions             • Misconceptions visible
+• Multiple organizing               • Single perspective
+  principles                        
+• Integration across domains        • Siloed knowledge
+• Dynamic, evolving structure       • Static, unchanging
+
+Element: β (Wood) highly developed  Element: μ (Metal) underdeveloped
+```
+
+## Core Insight
+
+> Concept Mapping reveals that knowledge is not a collection of isolated facts but a web of meaningful relationships. By making these relationships visible, concept maps transform abstract cognitive structures into manipulable objects. The act of mapping is itself a learning process — as we decide where concepts belong and how they connect, we are actively organizing our understanding. The hierarchy is not just a visual convenience; it mirrors how the mind actually stores and retrieves information, with inclusive concepts serving as anchors for more specific knowledge.
+
+## One-Sentence Insight
+
+> Concept Mapping transforms abstract knowledge into visible hierarchical structures, enabling learners to organize concepts meaningfully, identify relationships through linking phrases, and integrate understanding through cross-connections that mirror the architecture of human cognition.
+
+## Three-Bullet Expansion
+
+- **What:** A visual knowledge representation tool using hierarchical node-link diagrams where concepts are connected by labeled relationships (linking words), developed by Novak and Gowin (1984) based on Ausubel's Subsumption Theory
+- **How it works:** Learners identify key concepts, arrange them hierarchically (most general at top), connect them with relationship-defining phrases, and add cross-links between branches to reveal integrative connections — creating propositional networks that make knowledge structures explicit and manipulable
+- **Where it aims:** Toward meaningful learning and knowledge integration — by externalizing cognitive structures, concept maps enable learners to see gaps in understanding, correct misconceptions, build on prior knowledge, and develop increasingly sophisticated mental models of complex domains
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L052, #L051_Subsumption_Theory, #L029_Blooms_Taxonomy, #L030_Metacognition, #L041_Schema_Theory, #L042_Generative_Learning_Theory
+- **Formal Operators:** μ, ρ, β, σ, κ, ✶
+- **Dim Operators:** Ψ_structure, Ψ_relational, Ψ_exploratory, Ψ_distinction
+- **Coord Ontology:** I (mapper), It (conceptual domain), We (collaborative mappers), Its (knowledge resources)
+
+## Source
+
+Derived from:
+- Novak, J. D., & Gowin, D. B. (1984). *Learning How to Learn*. Cambridge University Press.
+- Novak, J. D. (1998). *Learning, Creating, and Using Knowledge: Concept Maps as Facilitative Tools in Schools and Corporations*. Lawrence Erlbaum Associates.
+- Novak, J. D., & Cañas, A. J. (2008). *The Theory Underlying Concept Maps and How to Construct and Use Them* (Technical Report). Florida Institute for Human and Machine Cognition.
+- Ausubel, D. P. (1963). *The Psychology of Meaningful Verbal Learning*. Grune & Stratton.
+
+Original context: Science education, knowledge representation, instructional design
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) + Water/ρ + Wood/β support | Daemon: Ferrosid-Aquariel-Arboriel | Habitat: 5_INSTRUCTIONAL-DESIGN / 7_KNOWLEDGE-REPRESENTATION / 8_SCIENCE-EDUCATION
+
+## Related Entries
+
+- L051_Subsumption_Theory (theoretical foundation)
+- L029_Blooms_Taxonomy (cognitive organization)
+- L030_Metacognition (thinking about thinking)
+- L041_Schema_Theory (mental structures)
+- L042_Generative_Learning_Theory (knowledge construction)
+- L032_Multimedia_Learning_Theory (visual learning)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L052 | Generated: 2026-02-27 21:30*
