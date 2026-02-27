@@ -1,0 +1,425 @@
+---
+term_id: L057
+source_domain: education
+source_term: Mental Models Theory (Johnson-Laird, 1983)
+hex_tag: #L057
+generated_at: 2026-02-27T23:15:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Mental Models Theory — Internal representations of external reality that enable reasoning and prediction
+- **Nemetic String:** Φ(MentalModels) = σ(situation|structural-representation) ∘ ρ(knowledge|analogical-mapping) ∘ β(inference|generative-simulation) → [✶(understanding|integrated-comprehension)] → [λ(reasoning|predictive-action)] + ε | :structured
+- **Core Operators:** σ (air/distinction), ρ (water/resonance), β (wood/generation), ✶ (child/integration)
+- **Z-State:** structured — coherent internal representations enable coherent external action
+- **Tendency:** Distinction/Resonance/Generation → 1 (representational fidelity enables prediction)
+
+## SIML Encoding
+
+```
+⟨Narrative|mental-representation⟩ 
+    ⊳ ⟨Constraint|reality-is-too-complex-for-direct-manipulation⟩ 
+    ⇄ ⟨Process|structural-analogue-construction⟩ 
+    ⇄ ⟨Process|working-memory-simulation⟩ 
+    → ⟨Structure|internal-model-of-external-system⟩ 
+    ⊗ ⟨Process|inferential-reasoning⟩ 
+    → ⟨Outcome|prediction-and-explanation⟩ 
+    → ⟨Transfer|model-revision-through-feedback⟩ 
+    ↺ ⟨Spiral|increasing-representational-accuracy⟩ 
+```
+
+## Core Definition
+
+**Mental Models Theory**, developed by Philip Johnson-Laird, proposes that humans reason not through formal logic or abstract rules, but by constructing **mental models** — structural analogues of the world that represent objects, situations, and processes. These models:
+
+1. **Are Structural Analogues:** They mirror the structure of what they represent
+2. **Enable Simulation:** We can "run" models to predict outcomes
+3. **Support Inference:** New information emerges from model manipulation
+4. **Are Limited:** Working memory constraints affect model complexity
+5. **Are Revised:** Feedback updates and refines models
+
+### The Mental Model Architecture
+
+```
+MENTAL MODEL ARCHITECTURE
+
+┌─────────────────────────────────────────────────────────────┐
+│                    EXTERNAL REALITY                          │
+│  ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐  │
+│  │ System  │    │ Situation│    │ Process │    │  Event  │  │
+│  │   A     │    │    B    │    │    C    │    │    D    │  │
+│  └────┬────┘    └────┬────┘    └────┬────┘    └────┬────┘  │
+│       │              │              │              │        │
+│       └──────────────┴──────────────┴──────────────┘        │
+│                      PERCEPTION                              │
+│                         │                                    │
+└─────────────────────────┼────────────────────────────────────┘
+                          ▼
+┌─────────────────────────────────────────────────────────────┐
+│              MENTAL MODEL CONSTRUCTION                       │
+│                                                              │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  STRUCTURAL ANALOGUE                                  │    │
+│  │                                                       │    │
+│  │   • Objects → Symbols/Icons                           │    │
+│  │   • Relations → Spatial/Temporal arrangements         │    │
+│  │   • Processes → Causal/Temporal sequences             │    │
+│  │   • Possibilities → Multiple model variants           │    │
+│  │                                                       │    │
+│  └─────────────────────────────────────────────────────┘    │
+│                         │                                    │
+│                         ▼                                    │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  WORKING MEMORY SIMULATION                            │    │
+│  │                                                       │    │
+│  │   ┌─────────┐      ┌─────────┐      ┌─────────┐      │    │
+│  │   │  State  │ ───→ │  State  │ ───→ │  State  │      │    │
+│  │   │    1    │      │    2    │      │    3    │      │    │
+│  │   └─────────┘      └─────────┘      └─────────┘      │    │
+│  │        │                                              │    │
+│  │        ▼                                              │    │
+│  │   ┌─────────┐                                         │    │
+│  │   │Prediction│                                        │    │
+│  │   │  or     │                                        │    │
+│  │   │Explanation│                                       │    │
+│  │   └─────────┘                                         │    │
+│  │                                                       │    │
+│  └─────────────────────────────────────────────────────┘    │
+│                         │                                    │
+└─────────────────────────┼────────────────────────────────────┘
+                          ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   REASONING OUTPUT                           │
+│                                                              │
+│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐         │
+│   │  Prediction │  │ Explanation │  │  Decision   │         │
+│   │  of future  │  │  of past    │  │   about     │         │
+│   │   states    │  │   events    │  │   action    │         │
+│   └─────────────┘  └─────────────┘  └─────────────┘         │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Types of Mental Models
+
+### 1. Models of Systems
+
+```
+SYSTEM MENTAL MODEL (Example: Thermostat)
+
+External System:
+┌─────────────────────────────────────┐
+│  Room → Sensor → Controller → Heater│
+│   ↑                              │  │
+│   └──────────────────────────────┘  │
+│         (feedback loop)             │
+└─────────────────────────────────────┘
+
+Mental Model (Naive):
+┌─────────────────────────────────────┐
+│  Cold → Turn up → Warmer            │
+│       thermostat                    │
+│  (linear, no feedback)              │
+└─────────────────────────────────────┘
+
+Mental Model (Expert):
+┌─────────────────────────────────────┐
+│  Setpoint → Comparator → Output    │
+│      ↑          │          │        │
+│   Sensor ← Room Temp ← Heat Output │
+│  (feedback loop understood)         │
+└─────────────────────────────────────┘
+
+Element: Air/σ (distinction between models)
+Element: Water/ρ (flow of feedback)
+```
+
+### 2. Models of Situations
+
+```
+SITUATION MENTAL MODEL (Example: Reading a Map)
+
+┌─────────────────────────────────────────┐
+│           MAP (External)                │
+│                                         │
+│    ┌───┐        Park                    │
+│    │You│──────────┐                     │
+│    └───┘          │                     │
+│      │            │                     │
+│      └─────┬──────┘                     │
+│           Station                       │
+│                                         │
+└─────────────────────────────────────────┘
+              ↓ PERCEPTION
+┌─────────────────────────────────────────┐
+│      MENTAL MODEL (Internal)            │
+│                                         │
+│    You are HERE ──→ Park is NORTH      │
+│         │                               │
+│         ↓                               │
+│    Station is SOUTH-EAST                │
+│                                         │
+│    Spatial relationships encoded        │
+│    as relative positions                │
+│                                         │
+└─────────────────────────────────────────┘
+              ↓ SIMULATION
+┌─────────────────────────────────────────┐
+│    "If I go north, I'll reach Park"    │
+│    "If I go south-east → Station"      │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+### 3. Models of Processes
+
+```
+PROCESS MENTAL MODEL (Example: Photosynthesis)
+
+Naive Model:
+┌─────────────────────────────────────────┐
+│                                         │
+│   Sunlight + Plant → Plant grows        │
+│                                         │
+│   (black box, no mechanism)             │
+│                                         │
+└─────────────────────────────────────────┘
+
+Intermediate Model:
+┌─────────────────────────────────────────┐
+│                                         │
+│   Sunlight                              │
+│      │                                  │
+│      ▼                                  │
+│   Leaves ──→ Food ──→ Plant grows      │
+│                                         │
+│   (transformation understood)           │
+│                                         │
+└─────────────────────────────────────────┘
+
+Expert Model:
+┌─────────────────────────────────────────┐
+│                                         │
+│   Light Energy                          │
+│      │                                  │
+│      ▼                                  │
+│   Chloroplasts                          │
+│      │                                  │
+│      ▼                                  │
+│   CO₂ + H₂O ──→ Glucose + O₂           │
+│      ↑                                  │
+│   Chemical Energy                       │
+│                                         │
+│   (mechanism + energy transformation)   │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+## Reasoning Through Model Manipulation
+
+### Deductive Reasoning Example
+
+```
+SYLLOGISM: "All humans are mortal. Socrates is human. Therefore..."
+
+Mental Model Construction:
+┌─────────────────────────────────────────┐
+│                                         │
+│  [humans] ⊂ [mortals]                   │
+│     ↑                                   │
+│  [socrates]                             │
+│                                         │
+│  Spatial: Socrates inside Humans        │
+│           Humans inside Mortals         │
+│                                         │
+│  Therefore: Socrates inside Mortals     │
+│                                         │
+└─────────────────────────────────────────┘
+
+Element: Air/σ (containment relations)
+Element: Metal/μ (structural hierarchy)
+```
+
+### Inductive Reasoning Example
+
+```
+INDUCTION: "Every swan I've seen is white..."
+
+Mental Model Development:
+┌─────────────────────────────────────────┐
+│  Observation 1: Swan A ──→ White       │
+│  Observation 2: Swan B ──→ White       │
+│  Observation 3: Swan C ──→ White       │
+│         ...                             │
+│                                         │
+│  Model: [Swan] ──→ [White]             │
+│         (default property)              │
+│                                         │
+│  Until: Swan D ──→ Black               │
+│                                         │
+│  Model Revision: [Swan] ──→ [Variable] │
+│                                         │
+└─────────────────────────────────────────┘
+
+Element: Wood/β (model generation)
+Element: Water/ρ (model revision)
+```
+
+## Elemental Pattern Analysis
+
+### Air/σ Dominance (Distinction/Representation)
+
+Mental Models Theory is fundamentally an **Air theory**:
+
+**Air/σ (Distinction/Clarity):**
+- **Structural representation:** Creating analogues that mirror reality
+- **Possibility representation:** Distinguishing between what is and what could be
+- **Explicit representation:** Making implicit knowledge visible
+- **Model discrimination:** Choosing between competing models
+
+**Water/ρ (Resonance/Flow):**
+- **Analogical mapping:** Seeing similarities across domains
+- **Model revision:** Flowing from inaccurate to accurate representations
+- **Transfer:** Applying models to new situations
+- **Feedback integration:** Resonance between prediction and observation
+
+**Wood/β (Growth/Exploration):**
+- **Model generation:** Creating new representations
+- **Possibility exploration:** What-if simulations
+- **Inferential extension:** Growing knowledge from models
+- **Creative reasoning:** Novel model combinations
+
+**Child/✶ (Integration/Harmony):**
+- **Unified understanding:** Integrating multiple models
+- **Coherent comprehension:** When models align with reality
+- **Expertise development:** Integration of domain models
+
+### Supporting Elements
+
+| Element | Role in Mental Models |
+|---------|----------------------|
+| **Fire/λ** | Purposeful reasoning, directed simulation |
+| **Metal/μ** | Structural constraints on model complexity |
+| **Earth/δγ** | Cyclic model revision, feedback loops |
+| **Knowledge/κ** | Building accurate domain representations |
+
+## Connection to Related Theories
+
+### Mental Models vs. Schema Theory
+
+| Aspect | Schema Theory | Mental Models Theory |
+|--------|--------------|---------------------|
+| **Structure** | Generic knowledge structures | Specific situation representations |
+| **Content** | Abstracted patterns | Concrete analogues |
+| **Function** | Recognition and categorization | Reasoning and prediction |
+| **Element** | Metal/μ (structured patterns) | Air/σ + Water/ρ (representation + flow) |
+| **Relationship** | Schemas inform model construction; models instantiate schemas |
+
+### Mental Models vs. Situated Learning
+
+| Aspect | Situated Learning | Mental Models |
+|--------|------------------|---------------|
+| **Focus** | Context-embedded practice | Internal representations |
+| **Knowledge** | Distributed in activity | Encoded in mental structures |
+| **Element** | Water/ρ (contextual flow) | Air/σ (internal representation) |
+| **Relationship** | Authentic contexts provide model-building material |
+
+### Mental Models vs. Conceptual Change Theory
+
+| Aspect | Conceptual Change | Mental Models |
+|--------|------------------|---------------|
+| **Focus** | Theory revision | Model revision |
+| **Mechanism** | Accommodation, paradigm shift | Feedback-driven updating |
+| **Element** | Water/ρ (transformation) | Air/σ + Water/ρ |
+| **Relationship** | Mental model theory explains the mechanics of conceptual change |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Engineering** | System dynamics models | Structural analogues for prediction |
+| **Design** | Prototypes | Physical models for mental simulation |
+| **Computer Science** | Computational models | Explicit representations for simulation |
+| **Physics** | Thought experiments | Mental simulation of physical systems |
+| **Economics** | Mental accounting | Cognitive representations of value |
+| **Medicine** | Clinical reasoning | Patient-specific mental models |
+
+## Mental Models in Learning Design
+
+```
+INSTRUCTIONAL PRINCIPLES FROM MENTAL MODEL THEORY
+
+┌─────────────────────────────────────────────────────────────┐
+│  1. MAKE MODELS EXPLICIT                                    │
+│     • Ask learners to externalize their understanding       │
+│     • Use concept maps, diagrams, analogies                 │
+│     • Element: Air/σ (distinction through representation)   │
+├─────────────────────────────────────────────────────────────┤
+│  2. PROVIDE FEEDBACK FOR REVISION                           │
+│     • Confront predictions with outcomes                    │
+│     • Support model revision, not just correction           │
+│     • Element: Water/ρ (flow through feedback)              │
+├─────────────────────────────────────────────────────────────┤
+│  3. USE MULTIPLE REPRESENTATIONS                            │
+│     • Show same concept through different models            │
+│     • Support flexible model selection                      │
+│     • Element: Wood/β (branching possibilities)             │
+├─────────────────────────────────────────────────────────────┤
+│  4. SIMULATE BEFORE ACTING                                  │
+│     • Encourage mental simulation                           │
+│     • "What do you think will happen?"                      │
+│     • Element: Child/✶ (integrated prediction)              │
+├─────────────────────────────────────────────────────────────┤
+│  5. ADDRESS MISCONCEPTIONS AT MODEL LEVEL                   │
+│     • Don't just correct errors                             │
+│     • Help revise underlying mental models                  │
+│     • Element: Air/σ + Water/ρ (distinction + revision)     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Core Insight
+
+> Mental Models Theory reveals that human reasoning is fundamentally **simulative** — we understand the world not through abstract rules but by constructing and manipulating internal analogues. The accuracy of our mental models determines the accuracy of our predictions, explanations, and decisions. Learning, from this perspective, is the progressive refinement of these internal representations through feedback and experience.
+
+## One-Sentence Insight
+
+> Mental Models Theory demonstrates that humans reason by constructing structural analogues of reality that enable simulation, prediction, and inference — with learning representing the progressive refinement of these internal representations through feedback and experience.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of reasoning proposing that humans understand and predict the world through internal mental models — structural analogues that mirror external reality and enable simulation-based inference
+- **How it works:** Perception triggers model construction → working memory simulates model dynamics → predictions emerge from simulation → feedback drives model revision → increasing representational accuracy over time
+- **Where it aims:** Toward accurate, flexible mental representations that enable effective reasoning, prediction, and action across diverse domains and situations
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L057, #L011_Cognitive_Load_Theory, #L030_Metacognition, #P004_Working_Memory, #L052_Concept_Mapping, #L033_Cognitive_Flexibility_Theory
+- **Formal Operators:** σ, ρ, β, ✶, λ, κ
+- **Dim Operators:** χ_distinction, Q_inward, Ψ_exploratory, Z_structured
+- **Coord Ontology:** I (model-builder), It (represented system), We (shared models), Its (model-world correspondence)
+
+## Source
+
+Derived from:
+- Johnson-Laird, P. N. (1983). *Mental models: Towards a cognitive science of language, inference, and consciousness*. Harvard University Press.
+- Johnson-Laird, P. N. (2006). How we reason. *Oxford University Press*.
+- Gentner, D., & Stevens, A. L. (Eds.). (1983). *Mental models*. Lawrence Erlbaum Associates.
+- Norman, D. A. (1983). Some observations on mental models. In D. Gentner & A. L. Stevens (Eds.), *Mental models* (pp. 7-14). Lawrence Erlbaum Associates.
+
+Original context: Cognitive psychology, reasoning, learning sciences
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Air/σ (primary) + Water/ρ + Wood/β + Child/✶ support | Daemon: Aerunik-Sentaria-Arboriel-Aethon | Habitat: 5_RITUAL-TECHNOLOGIES / 6_REFLEXIVE-STATES / 7_EXPERT-COGNITION
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (working memory constraints on models)
+- L030_Metacognition (awareness of one's own models)
+- P004_Working_Memory (model construction and simulation limits)
+- L052_Concept_Mapping (externalizing mental models)
+- L033_Cognitive_Flexibility_Theory (multiple mental models)
+- L051_Subsumption_Theory (hierarchical model organization)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L057 | Generated: 2026-02-27 23:15*
