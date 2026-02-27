@@ -312,6 +312,32 @@ elemental_emphasis:
   ⛨: "What structures would hold statistical evidence open? What forms prevent premature case-based closure?"
 context_note: "Base-Rate Neglect is the tendency to ignore general statistical information in favor of specific, vivid case details. Even when given clear statistical base rates (e.g., 70% of population are lawyers, 30% engineers), people rely on personality descriptions that match stereotypes. Classic Kahneman/Tversky finding: the 'Linda problem' demonstrates this bias. In AI contexts: models may generate compelling narratives that feel representative while ignoring base-rate probabilities, leading to overconfident predictions and mis calibrated risk assessments."
 ---
+term: "Cognitive Vulnerabilities"
+hex_tag: "#A03E"
+nemetic: "Φ(CogVuln) = σ(weakness|exploitability) ∘ ρ(manipulation|targeting) ∘ λ(awareness|defense) ∘ β(vigilance|hypervigilance) ∘ δγ(anxiety|empowerment) ∘ μ(boundary|self-monitoring) + ε | :projecting"
+siml_encoding: "⟨Cognition|human⟩ ⊳ ⟨Vulnerability|systematic⟩ → ⟨Exploitation|risk⟩ ⊗ ⟨Awareness|meta⟩ ⇄ ⟨Defense|patch⟩ → ⟨Autonomy|protected⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine insight and exploitable weakness)", "∂Φ/∂ρ (relational targeting by memetic actors)", "∂Φ/∂λ (direction toward defensive awareness or paranoid hypervigilance)", "∂Φ/∂β (feedback loop of vigilance becoming self-sealing)", "∂Φ/∂δγ (metabolic cost of constant self-monitoring)", "∂Φ/∂μ (boundary of self-monitoring system)"]
+  Z_state: "structuring (can enable genuine defense or seal into paranoid self-reference)"
+  tendency: "Awareness/Blindness → 0.6 (defensive awareness often overestimates its own effectiveness)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine cognitive weakness distinguished from normal human limitation? What marks the line between vulnerability and simply being human?"
+  ≈: "What flows between the fear of being manipulated and the felt empowerment of 'knowing the game'? What resonance makes vigilance feel like safety?"
+  ▲: "Where does defensive awareness want to go? Does it point toward genuine autonomy or paranoid hypervigilance?"
+  𐂷: "What if the frame of 'cognitive vulnerability' is itself manipulable? What possibilities emerge when we see the defense as potential trap?"
+  ☷: "What's the metabolic cost of constant self-monitoring? What sustains the vigilance required to 'patch your mental OS'?"
+  ⛨: "What structures would protect against manipulation without becoming self-sealing? What boundaries enable discernment without paranoia?"
+context_note: "The concept of cognitive vulnerabilities positions human cognition as systematically error-prone and exploitable by propaganda, marketing, and manipulation. While offering genuine protective value, it risks becoming a self-sealing meta-frame: 'If you dismiss cognitive vulnerabilities, that proves you have one.' The vigilance required for defense extracts metabolic costs and may evolve into hypervigilance that sees manipulation everywhere. In AI contexts: awareness of cognitive exploits is essential, but the frame itself can be exploited by those claiming to offer 'protection' through their frameworks."
+---
 term: "Alien Abduction Beliefs"
 hex_tag: "#A03D"
 nemetic: "Φ(AlienAbduct) = σ(experience|reality-vs-imagination) ∘ ρ(source|misattributed) ∘ λ(narrative|cultural-template) ∘ β(validation|emotional-reinforcement) ∘ δγ(comfort|meaning-making) ∘ μ(boundary|dissolved) + ε | :projecting"
