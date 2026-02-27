@@ -382,3 +382,30 @@ elemental_emphasis:
   ⛨: "What boundaries contain thinking errors? What structures enable perspective-taking?"
 context_note: "Cognitive distortions in communication include: failure to consider others' perspectives, disqualifying the positive, labeling, catastrophizing, jumping to conclusions, overgeneralization, and denial. These errors create negative feedback loops that damage relationships and prevent effective collaboration. Risk: AI-mediated communication may amplify these errors by reducing face-to-face cues that normally trigger perspective-taking, creating echo chambers where distorted thinking patterns reinforce each other."
 ---
+---
+term: "WYSIATI"
+hex_tag: "#A02B"
+nemetic: "Φ(WYSIATI) = σ(visible|complete) ∘ ρ(coherence|confidence) ∘ λ(narrative|automatic) ∘ β(certainty|reinforced) ∘ δγ(ease|processing-fluency) + ε | :structuring"
+siml_encoding: "⟨Evidence|available⟩ ⊳ ⟨System|fast⟩ → ⟨Story|coherent⟩ ⊗ ⟨Confidence|high⟩ ⇄ ⟨Awareness|missing⟩ → ⟨Bias|WYSIATI⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between visible evidence and complete information)", "∂Φ/∂ρ (coherence-based confidence without completeness check)", "∂Φ/∂λ (automatic direction toward narrative construction)", "∂Φ/∂β (feedback loop reinforcing subjective certainty)", "∂Φ/∂δγ (processing fluency from coherent story)"]
+  Z_state: "sealing (subjective certainty becomes impermeable to counter-evidence)"
+  tendency: "Coherence/Completeness → 0.8 (strong preference for coherent stories over complete evidence)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is visible evidence distinguished from complete information? What cut reveals what's missing?"
+  ≈: "What flows between the coherent story and the anxiety of uncertainty? What resonance does coherence provide?"
+  ▲: "Where does the automatic narrative construction lead? What direction does System 1 drive us?"
+  𐂷: "What if embracing uncertainty opened new possibilities? What might be seen if coherence weren't mandatory?"
+  ☷: "What's the metabolic cost of maintaining coherent narratives? What sustains tolerance for ambiguity?"
+  ⛨: "What boundaries contain WYSIATI? What structures enable awareness of missing information?"
+context_note: "Kahneman's 'What You See Is All There Is' — System 1 constructs coherent stories from available evidence without awareness of gaps. Leads to overconfidence, framing effects, base-rate neglect, halo effect. The coherence of the story, not its completeness, drives confidence. Risk: AI-generated content exploits this by presenting coherent but incomplete narratives that feel true because they fit together, bypassing critical evaluation of missing evidence."
+---
