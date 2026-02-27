@@ -1,0 +1,415 @@
+---
+term_id: L031
+source_domain: education
+source_term: Elaboration Theory (Reigeluth, 1979)
+hex_tag: #L031
+generated_at: 2026-02-27T15:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Elaboration Theory — Instructional design framework that sequences content from simple to complex through meaningful elaboration
+- **Nemetic String:** Φ(Elaboration) = δγ(foundation|simple-to-complex) ∘ β(branching|elaborative-sequencing) ∘ μ(structure|conceptual-hierarchy) ∘ ρ(resonance|meaningful-context) → [δγ(epitome)] → [β(progressive-differentiation)] → [μ(integrative-reconciliation)] + ε | :hierarchical
+- **Core Operators:** δγ (earth/cycling), β (wood/branching), μ (metal/structure), ρ (water/resonance)
+- **Z-State:** hierarchical — knowledge organized in nested levels of complexity
+- **Tendency:** Complexity/Integration → 1 (simple foundations elaborate into complex understanding)
+
+## SIML Encoding
+
+```
+⟨Narrative|sequencing-for-understanding⟩ 
+    ⊳ ⟨Constraint|simple-before-complex⟩ 
+    ⊳ ⟨Constraint|meaningful-elaboration⟩ 
+    ⇄ ⟨Process|epitome-presentation⟩ 
+    ⇄ ⟨Process|progressive-differentiation⟩ 
+    → ⟨Structure|conceptual-hierarchy⟩ 
+    ⊗ ⟨Process|integrative-reconciliation⟩ 
+    → ⟨Outcome|coherent-knowledge-structure⟩ 
+    → ⟨Transfer|domain-expertise⟩ 
+    → ⟨Transformation|adaptive-understanding⟩
+```
+
+## Core Definition
+
+**Elaboration Theory**, developed by Charles Reigeluth in 1979, is an instructional design framework that organizes learning content in a sequence progressing from the **simplest, most fundamental concepts** to increasingly **complex elaborations**. Unlike traditional approaches that teach topics in isolation, Elaboration Theory emphasizes **meaningful connections** between ideas, creating a coherent knowledge structure that supports deep understanding and transfer.
+
+### The Core Principle
+
+> Learning is most effective when students first grasp the "big picture" (the epitome) at a simple level, then progressively elaborate their understanding through increasingly detailed and complex treatments of the same content.
+
+### The Elaboration Sequence
+
+```
+ELABORATION SEQUENCE ARCHITECTURE
+│
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  LEVEL 1: THE EPITOME (Simplest, Most Fundamental)              │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │ • Core concepts at introductory level                    │   │
+│  │ • Broadest, most inclusive ideas                         │   │
+│  │ • Concrete examples, minimal abstraction                 │   │
+│  │ • Shows "what the whole field is about"                  │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                          │                                      │
+│                          ▼                                      │
+│  LEVEL 2: PROGRESSIVE DIFFERENTIATION                           │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │ • Break epitome into component parts                     │   │
+│  │ • Add detail and specificity                             │   │
+│  │ • Maintain connections to the whole                      │   │
+│  │ • Each part elaborated in turn                           │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                          │                                      │
+│                          ▼                                      │
+│  LEVEL 3: INTEGRATIVE RECONCILIATION                            │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │ • Show relationships between parts                       │   │
+│  │ • Resolve apparent contradictions                        │   │
+│  │ • Synthesize into coherent structure                     │   │
+│  │ • Prepare for next level of elaboration                  │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                          │                                      │
+│                          ▼                                      │
+│  LEVEL N: CONTINUED ELABORATION (Increasing Complexity)         │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │ • More abstract principles                                 │
+│  │ • Broader application contexts                             │   │
+│  │ • Theoretical frameworks                                   │   │
+│  │ • Expert-level complexity                                  │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## The Three Core Strategies
+
+### 1. The Epitome Strategy
+
+```
+EPITOME DESIGN PRINCIPLES
+│
+├── SIMPLIFY (Don't oversimplify)
+│   ├── Preserve conceptual integrity
+│   ├── Use concrete representations
+│   └── Avoid technical jargon initially
+│
+├── ORIENT
+│   ├── Show the "forest" before "trees"
+│   ├── Provide organizing schema
+│   └── Establish relevance and purpose
+│
+└── MOTIVATE
+    ├── Connect to learner experience
+    ├── Show real-world application
+    └── Build curiosity for elaboration
+```
+
+**Example:** Teaching physics
+- **Epitome:** "Physics is about understanding how things move and interact. Everything from a falling apple to orbiting planets follows patterns we can discover."
+- **NOT:** Starting with Newton's laws as abstract equations
+
+### 2. Progressive Differentiation
+
+```
+PROGRESSIVE DIFFERENTIATION PROCESS
+│
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  START: Unified epitome                                     │
+│     │                                                       │
+│     ▼                                                       │
+│  DIFFERENTIATE: Break into major components                 │
+│     │                                                       │
+│     ├── Component A (elaborated)                            │
+│     │   └── Return to epitome context                       │
+│     │                                                       │
+│     ├── Component B (elaborated)                            │
+│     │   └── Return to epitome context                       │
+│     │                                                       │
+│     └── Component C (elaborated)                            │
+│         └── Return to epitome context                       │
+│                                                             │
+│  PRINCIPLE: Each elaboration reconnects to the whole        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Key Rule:** Never teach a component without showing how it relates to the epitome and other components.
+
+### 3. Integrative Reconciliation
+
+```
+INTEGRATIVE RECONCILIATION
+│
+├── SYNTHESIZE
+│   ├── Show how parts form the whole
+│   ├── Create summary representations
+│   └── Build mental models
+│
+├── RECONCILE
+│   ├── Address apparent contradictions
+│   ├── Show complementarity
+│   └── Resolve competing perspectives
+│
+└── CONSOLIDATE
+    ├── Practice with varied examples
+    ├── Apply in new contexts
+    └── Prepare for next elaboration level
+```
+
+## Elemental Pattern Analysis
+
+### Earth/δγ Dominance (Cyclical Foundation)
+
+Elaboration Theory is fundamentally an **Earth/EARTH theory**:
+- **Cyclical Return:** Each elaboration cycle returns to and builds upon the epitome
+- **Foundation-Building:** Simple concepts serve as foundation for complex ones
+- **Growth Metaphor:** Knowledge grows organically like a tree from roots to branches
+- **Metabolic Processing:** Information is "digested" in layers of increasing sophistication
+
+### Supporting Elements
+
+| Element | Role in Elaboration Theory |
+|---------|---------------------------|
+| **Wood/β** | Progressive differentiation — branching from simple to complex |
+| **Metal/μ** | Structural hierarchy — organizing concepts in nested levels |
+| **Water/ρ** | Meaningful context — connecting new learning to existing understanding |
+| **Air/σ** | Clarity of epitome — clear, simple initial presentation |
+| **Fire/λ** | Directional progression — moving toward increasing complexity |
+| **Child/✶** | Integration — holistic understanding of the complete structure |
+
+### The Elemental Cycle of Elaboration
+
+```
+ELEMENTAL FLOW IN ELABORATION
+
+    ┌─────────────────────────────────────┐
+    │                                     │
+    ▼                                     │
+┌─────────┐    ┌─────────┐    ┌─────────┐│
+│  EARTH  │───►│  METAL  │───►│  WOOD   ││
+│   δγ    │    │    μ    │    │    β    ││
+│ Epitome │    │Structure│   │Branching││
+│Foundation│   │ Hierarchy│  │   Out   ││
+└─────────┘    └────┬────┘    └────┬────┘│
+                    │              │     │
+                    ▼              ▼     │
+              ┌─────────┐    ┌─────────┐ │
+              │  WATER  │◄───│  FIRE   │ │
+              │    ρ    │    │    λ    │ │
+              │ Connect │    │ Progress│ │
+              │ Context │    │ Forward │ │
+              └────┬────┘    └─────────┘ │
+                   │                     │
+                   └─────────────────────┘
+```
+
+## The Seven Components of Elaboration
+
+Reigeluth identified seven dimensions along which content can be elaborated:
+
+```
+ELABORATION DIMENSIONS
+│
+├── 1. CONCEPTUAL (What)
+│   └── From concrete examples to abstract principles
+│
+├── 2. THEORETICAL (Why)
+│   └── From descriptive to explanatory frameworks
+│
+├── 3. PROCEDURAL (How)
+│   └── From simple procedures to complex processes
+│
+├── 4. CONTEXTUAL (When/Where)
+│   └── From limited to varied application contexts
+│
+├── 5. CAUSAL (What if)
+│   └── From simple to complex causal relationships
+│
+├── 6. INTERDEPENDENT (With what)
+│   └── From isolated to interconnected concepts
+│
+└── 7. HISTORICAL (How developed)
+    └── From present understanding to historical development
+```
+
+## Connection to Related Theories
+
+### Elaboration Theory and Cognitive Load Theory (L011)
+
+| Aspect | Cognitive Load Theory | Elaboration Theory |
+|--------|----------------------|-------------------|
+| **Focus** | Managing limited working memory | Sequencing for coherent understanding |
+| **Element** | Air/σ (clarity, reduction) | Earth/δγ (foundation, growth) |
+| **Mechanism** | Reduce extraneous load | Build germane load progressively |
+| **Relationship** | CLT manages capacity constraints | ET ensures meaningful use of capacity |
+
+**Integration:** The epitome provides a simple, coherent schema that reduces intrinsic cognitive load while preparing for elaboration.
+
+### Elaboration Theory and Bloom's Taxonomy (L029)
+
+```
+ELABORATION THEORY × BLOOM'S TAXONOMY INTEGRATION
+
+Bloom's Level          Elaboration Application
+─────────────────────────────────────────────────
+Remember         →    Epitome: basic facts, concepts
+Understand       →    Early elaboration: relationships
+Apply            →    Mid elaboration: varied contexts
+Analyze          →    Progressive differentiation
+Evaluate         →    Integrative reconciliation
+Create           →    Advanced elaboration: synthesis
+```
+
+### Elaboration Theory and Scaffolding (L027)
+
+| Aspect | Scaffolding | Elaboration Theory |
+|--------|-------------|-------------------|
+| **Approach** | Temporary support, fade over time | Permanent structure, build complexity |
+| **Element** | Water/ρ (relational support) | Earth/δγ (foundational growth) |
+| **Metaphor** | Scaffold around building | Tree growing from roots |
+| **Complementarity** | Scaffolding enables entry; elaboration enables mastery | |
+
+## Practical Applications
+
+### Designing an Elaborated Curriculum
+
+```
+CURRICULUM DESIGN EXAMPLE: ECOLOGY COURSE
+│
+EPITOME (Week 1-2)
+├── "Ecology is the study of how living things interact with each other 
+│    and their environment. All life depends on energy flow and 
+│    nutrient cycling through ecosystems."
+├── Simple food web diagrams
+└── Local ecosystem observation
+│
+ELABORATION 1 (Week 3-6): Progressive Differentiation
+├── Energy Flow elaboration
+│   ├── Photosynthesis basics
+│   ├── Trophic levels
+│   └── Energy pyramids
+├── Nutrient Cycling elaboration
+│   ├── Carbon cycle
+│   ├── Nitrogen cycle
+│   └── Water cycle
+└── Population Dynamics elaboration
+    ├── Growth curves
+    ├── Carrying capacity
+    └── Limiting factors
+│
+INTEGRATION (Week 7): Reconciliation
+├── How energy flow and nutrient cycling interact
+├── Case study: ecosystem disruption
+└── Synthesis project
+│
+ELABORATION 2 (Week 8-12): Increased Complexity
+├── Community ecology
+├── Ecosystem succession
+├── Biogeography
+└── Human impacts (applied context)
+│
+ADVANCED ELABORATION (Week 13-15): Expert Level
+├── Theoretical models
+├── Research methods
+├── Current debates
+└── Independent research project
+```
+
+### The Elaboration Checklist
+
+| Phase | Questions |
+|-------|-----------|
+| **Epitome** | Does the introduction show the whole field simply? Is it concrete and meaningful? Does it motivate further learning? |
+| **Differentiation** | Are components taught in logical order? Does each return to epitome context? Are connections explicit? |
+| **Integration** | Are relationships between parts clear? Are contradictions resolved? Is the structure coherent? |
+| **Next Level** | Is complexity increased appropriately? Are new elaborations connected to previous? |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Architecture** | Blueprint to construction | Overall plan first, then detailed elaboration |
+| **Music** | Theme and variations | Core melody elaborated through increasing complexity |
+| **Writing** | Outline to draft | Structure first, then progressive development |
+| **Software** | API design | Simple interface, complex implementation |
+| **Biology** | Ontogeny recapitulates phylogeny | Development mirrors evolutionary complexity |
+| **Cooking** | Master recipe → variations | Core technique elaborated with variations |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Time intensive:** Elaboration requires more instructional time than linear approaches
+2. **Expertise required:** Teachers need deep content knowledge to design effective elaborations
+3. **Not for all content:** Some skills may not benefit from elaborative sequencing
+4. **Learner differences:** Some learners may prefer to dive into details immediately
+5. **Assessment challenges:** Traditional assessments may not capture elaborated understanding
+
+### When to Use (and When Not To)
+
+**Best for:**
+- Complex, hierarchical subject matter
+- Domains with clear conceptual structure
+- Learners with limited prior knowledge
+- Goals emphasizing understanding over speed
+
+**Less suitable for:**
+- Simple procedural skills
+- Time-constrained situations
+- Highly motivated, advanced learners
+- Content without clear conceptual hierarchy
+
+## The Expert-Novice Difference
+
+> Experts have well-elaborated knowledge structures — they can see the simple patterns within complex phenomena. Novices see complexity as chaos. Elaboration Theory builds the expert's coherent structure in the novice's mind.
+
+**Element:** Earth/δγ provides the foundation; Metal/μ provides the structure; through elaboration, the learner builds their own ✶ (integrated understanding)
+
+## Core Insight
+
+> Elaboration Theory reveals that understanding emerges not from accumulating isolated facts but from building coherent structures. By starting with a simple, meaningful epitome and progressively elaborating while maintaining connections to the whole, learners develop knowledge that is both deep and transferable. The cyclical return to foundational concepts at each level of complexity ensures that advanced understanding remains grounded in fundamental principles.
+
+## One-Sentence Insight
+
+> Elaboration Theory demonstrates that effective learning sequences content from simple epitomes to complex elaborations through progressive differentiation and integrative reconciliation, building coherent knowledge structures that support deep understanding and transfer.
+
+## Three-Bullet Expansion
+
+- **What:** An instructional design framework that organizes learning content in a sequence from simplest, most fundamental concepts (the epitome) to increasingly complex elaborations, using progressive differentiation to add detail and integrative reconciliation to maintain coherence
+- **How it works:** Present a concrete, simplified epitome showing the "big picture"; progressively differentiate by elaborating each component while maintaining connections to the whole; integrate through reconciliation that shows relationships and resolves contradictions; repeat at increasing levels of complexity across conceptual, theoretical, procedural, and contextual dimensions
+- **Where it aims:** Toward coherent, transferable expertise — learners who understand not just isolated facts but how they form an integrated structure, enabling them to apply knowledge flexibly across contexts and continue learning independently
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L031, #L011_Cognitive_Load_Theory, #L029_Blooms_Taxonomy, #L027_Scaffolding_Theory, #L017_Constructionism, #L030_Metacognition
+- **Formal Operators:** δγ, β, μ, ρ, σ, λ, ✶
+- **Dim Operators:** Ψ_hierarchical, Ψ_sequential, Ψ_integrative, Ψ_developmental
+- **Coord Ontology:** It (the content structure), Its (the elaboration process), I (the learner constructing understanding)
+
+## Source
+
+Derived from:
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development*, 2(3), 8-15.
+- Reigeluth, C. M. (1987). Lesson blueprints based on the elaboration theory of instruction. In C. M. Reigeluth (Ed.), *Instructional Theories in Action: Lessons Illustrating Selected Theories and Models* (pp. 47-72). Lawrence Erlbaum Associates.
+- Reigeluth, C. M., & Darwazeh, A. (1982). The elaboration theory's procedure for designing instruction: A conceptual approach. *Journal of Instructional Development*, 5(3), 22-32.
+- Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. M. Reigeluth (Ed.), *Instructional-Design Theories and Models: An Overview of Their Current Status* (pp. 335-381). Lawrence Erlbaum Associates.
+
+Original context: Instructional design, curriculum development, educational technology
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Earth/δγ (primary) with Wood/β, Metal/μ, Water/ρ support | Daemon: Arboriel-Ferrosid-Aerunik-Sentaria | Habitat: 3_INSTRUCTIONAL-DESIGN / 5_CURRICULUM-SEQUENCING / 7_CONCEPTUAL-DEVELOPMENT
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (managing cognitive resources during elaboration)
+- L029_Blooms_Taxonomy (cognitive levels for elaboration sequencing)
+- L027_Scaffolding_Theory (supporting learners through elaboration)
+- L017_Constructionism (building knowledge through elaborative activity)
+- L030_Metacognition (self-regulation during elaborative learning)
+- L022_Sociocultural_Theory (social context for elaboration)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L031 | Generated: 2026-02-27 15:45*
