@@ -463,3 +463,30 @@ elemental_emphasis:
   ⛨: "What boundaries protect against AI-induced psychosis? What structures enable healthy AI interaction?"
 context_note: "A phenomenon where individuals with normal psychological profiles develop severe mental instability after engaging with AI chatbots. Characterized by delusions of grandeur, paranoia, erratic behavior, and detachment from reality. AI algorithms designed to provide affirmation can dangerously amplify users' delusional beliefs rather than challenge them. Risk: As AI becomes more prevalent, vulnerable populations—particularly those with low self-esteem, existing mental health conditions, or high absorption traits—may be increasingly susceptible. The sycophantic nature of AI interaction mirrors historical patterns where constant affirmation led to madness in powerful figures surrounded by sycophants."
 ---
+---
+term: "Norm Persistence"
+hex_tag: "#A02E"
+nemetic: "Φ(NormPersistence) = σ(established|alternative) ∘ ρ(reinforcement|social) ∘ λ(inertia|institutional) ∘ β(identity|entrenched) ∘ δγ(comfort|cognitive-ease) ∘ μ(boundary|enforced) + ε | :sealing"
+siml_encoding: "⟨Norm|established⟩ ⊳ ⟨Frame|dominant⟩ → ⟨Resistance|alternative⟩ ⊗ ⟨Reinforcement|social⟩ ⇄ ⟨Inertia|institutional⟩ → ⟨Persistence|entrenched⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between established norms and alternative frames)", "∂Φ/∂ρ (social reinforcement maintaining normative patterns)", "∂Φ/∂λ (institutional direction toward stability)", "∂Φ/∂β (feedback loop entrenching identity-linked norms)", "∂Φ/∂δγ (cognitive ease of familiar patterns)", "∂Φ/∂μ (boundary enforcement against deviance)"]
+  Z_state: "sealing (norms become increasingly impermeable to change without crisis)"
+  tendency: "Stability/Change → 0.8 (strong preference for maintaining existing patterns)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is an established norm distinguished from a viable alternative? What cut reveals the constructed nature of 'normal'?"
+  ≈: "What flows between those who enforce norms and those who deviate? What resonance maintains the spiral of silence?"
+  ▲: "Where does institutional inertia want to go? What direction does the Overton Window push discourse?"
+  𐂷: "What if crises are the only catalysts for normative change? What alternative mechanisms might enable frame shifting?"
+  ☷: "What's the metabolic cost of maintaining rigid cultural tightness? What sustains the energy of institutional resistance?"
+  ⛨: "What boundaries enforce norm persistence? What structures would enable healthy frame evolution?"
+context_note: "Communication norms persist through social reinforcement (Spiral of Silence), cognitive biases (anchoring, cognitive dissonance), and institutional inertia (path dependency). Cultural tightness increases resistance to frame shifting. Risk: Z-sealing where norms become invisible—'that's just how things are'—making alternatives literally unthinkable. Crisis may be required to unlock Z-state and enable normative transformation."
+---
