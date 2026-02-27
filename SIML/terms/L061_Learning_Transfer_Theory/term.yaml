@@ -1,0 +1,348 @@
+---
+term_id: L061
+source_domain: education
+source_term: Learning Transfer Theory (Thorndike, 1901; Perkins & Salomon, 1992)
+hex_tag: #L061
+generated_at: 2026-02-28T00:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Learning Transfer Theory — Application of learned knowledge/skills to new contexts
+- **Nemetic String:** Φ(Transfer) = ρ(source|learning-context) ∘ β(bridge|connection-making) ∘ σ(target|application-context) ∘ μ(abstraction|schema-extraction) → [✶(far-transfer)] → [κ(generalized-knowledge)] + ε | :bridging
+- **Core Operators:** ρ (water/resonance), β (wood/growth), σ (air/distinction), μ (metal/structure)
+- **Z-State:** bridging — connections form between distinct learning contexts
+- **Tendency:** Resonance/Growth → 1 (knowledge generalizes across domains)
+
+## SIML Encoding
+
+```
+⟨Narrative|knowledge-migration⟩ 
+    ⊳ ⟨Source|original-learning-context⟩ 
+    ⇄ ⟨Process|abstraction-extraction⟩ 
+    ⇄ ⟨Process|connection-formation⟩ 
+    → ⟨Bridge|analogical-mapping⟩ 
+    ⊗ ⟨Target|novel-application-context⟩ 
+    → ⟨Outcome|successful-application⟩ 
+    → ⟨Transfer|generalized-understanding⟩ 
+    ↺ ⟨Spiral|adaptive-expertise⟩ 
+```
+
+## Core Definition
+
+**Learning Transfer** refers to the application of knowledge, skills, or attitudes learned in one context to a different context. First studied systematically by Edward Thorndike in 1901, transfer theory examines when, why, and how learning travels across situations — from school to work, from one problem to another, from theory to practice.
+
+### The Transfer Taxonomy
+
+```
+TRANSFER DISTANCE SPECTRUM
+
+Near Transfer ←————————————————————————————→ Far Transfer
+     │                                            │
+     ▼                                            ▼
+┌─────────────┐                          ┌─────────────┐
+│ Same domain │                          │ Different   │
+│ Similar     │                          │ domain      │
+│ context     │                          │ Novel       │
+│ Low         │                          │ context     │
+│ abstraction │                          │ High        │
+│ required    │                          │ abstraction │
+│             │                          │ required    │
+│ Example:    │                          │ Example:    │
+│ Math skills │                          │ Physics     │
+│ to similar  │                          │ principles  │
+│ math problem│                          │ to business │
+│             │                          │ strategy    │
+└─────────────┘                          └─────────────┘
+     │                                            │
+   Element: μ (Metal)                        Element: ✶ (Child)
+   (structured similarity)                   (creative synthesis)
+```
+
+### Positive vs. Negative Transfer
+
+| Type | Definition | Example | Element |
+|------|------------|---------|---------|
+| **Positive** | Prior learning aids new learning | Piano skills help organ playing | β (Wood) |
+| **Negative** | Prior learning interferes with new learning | Driving on left interferes with right-side driving | σ (Air) |
+| **Zero** | No measurable effect | Latin study on math ability | — |
+
+## The Transfer Problem
+
+```
+THE TRANSFER PARADOX
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "The more specific the training, the better the          │
+│    performance in the training context...                   │
+│                                                             │
+│    ...but the worse the transfer to novel contexts."        │
+│                                                             │
+│   "The more abstract the training, the better the          │
+│    potential for transfer...                                │
+│                                                             │
+│    ...but the harder to apply in any specific context."     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+                        │
+            ┌───────────┴───────────┐
+            ▼                       ▼
+    SPECIFIC TRAINING          ABSTRACT TRAINING
+    (Low Road Transfer)        (High Road Transfer)
+    ━━━━━━━━━━━━━━━━━━         ━━━━━━━━━━━━━━━━━━━
+    • Heavy practice             • Explicit abstraction
+    • Context-bound              • Mindful extraction
+    • Automaticity               • Decontextualization
+    • Drill & repetition         • Reflection & analysis
+    • Element: Earth/δγ          • Element: Air/σ
+            │                       │
+            └───────────┬───────────┘
+                        ▼
+               OPTIMAL TRANSFER
+               requires BOTH:
+               • Deep, contextualized learning
+               • Explicit abstraction mechanisms
+```
+
+## Perkins & Salomon's Dual Mechanisms
+
+### Low-Road Transfer
+
+```
+LOW-ROAD TRANSFER MECHANISM
+
+Context A                    Context B
+Learning                     Application
+    │                            │
+    ▼                            ▼
+┌─────────┐                ┌─────────┐
+│ Practice│ ──automatic──→ │ Spontaneous│
+│ Practice│    transfer    │ application│
+│ Practice│                │            │
+│ Practice│                │            │
+└─────────┘                └─────────┘
+     │                            │
+   Element: Earth/δγ          Element: Earth/δγ
+   (habit formation)          (habit activation)
+
+Mechanism: Extensive practice creates automatized skills
+that trigger when similar contextual cues appear.
+```
+
+### High-Road Transfer
+
+```
+HIGH-ROAD TRANSFER MECHANISM
+
+Context A                    Context B
+Learning                     Application
+    │                            │
+    ▼                            ▼
+┌─────────┐                ┌─────────┐
+│ Abstract│ ──mindful────→ │ Intentional│
+│ General │    search      │ application│
+│ Principle│               │            │
+│ Extraction│              │            │
+└─────────┘                └─────────┘
+     │                            │
+   Element: Air/σ             Element: Fire/λ
+   (abstraction)               (intentional direction)
+
+Mechanism: Mindful abstraction of general principles
+enables deliberate search for application opportunities.
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance (Resonance/Connection)
+
+Learning Transfer is fundamentally a **Water theory**:
+
+**Water/ρ (Resonance/Connection):**
+- **Analogical mapping:** Finding similarities between contexts
+- **Relational correspondence:** "This is like that"
+- **Bridge formation:** Connecting source and target
+- **Context resonance:** Feeling when knowledge applies
+
+**Wood/β (Growth/Exploration):**
+- **Knowledge extension:** Stretching understanding to new domains
+- **Generative application:** Creating novel solutions
+- **Exploration:** Testing boundaries of what applies where
+
+**Air/σ (Distinction/Clarity):**
+- **Abstraction:** Extracting general principles from specifics
+- **Discrimination:** Knowing when transfer applies vs. when it doesn't
+- **Surface vs. deep structure:** Distinguishing irrelevant from relevant similarities
+
+**Metal/μ (Structure/Boundary):**
+- **Schema extraction:** Structured knowledge organization
+- **Domain boundaries:** Understanding where knowledge applies
+- **Systematic abstraction:** Formal principle identification
+
+### The Transfer Elements Matrix
+
+| Transfer Type | Primary Element | Secondary | Mechanism |
+|---------------|-----------------|-----------|-----------|
+| **Near Transfer** | μ (Metal) | δγ (Earth) | Structural similarity, automaticity |
+| **Far Transfer** | ✶ (Child) | β (Wood) | Creative synthesis, exploration |
+| **Low-Road** | δγ (Earth) | μ (Metal) | Habit, practice, cycling |
+| **High-Road** | σ (Air) | λ (Fire) | Abstraction, intentional search |
+| **Positive** | β (Wood) | ρ (Water) | Growth, connection |
+| **Negative** | σ (Air) | μ (Metal) | Interference, rigid structure |
+
+## Factors Affecting Transfer
+
+### Learner Characteristics
+
+```
+TRANSFER-READY LEARNER PROFILE
+
+Metacognitive Awareness (Air/σ)
+├── Recognition of underlying principles
+├── Monitoring of comprehension
+└── Awareness of context similarities
+
+Abstract Thinking (Air/σ + ✶)
+├── Generalization capability
+├── Principle extraction
+└── Decontextualization skill
+
+Motivation (Fire/λ)
+├── Intention to transfer
+├── Persistence in novel contexts
+└── Value placed on application
+
+Prior Knowledge Organization (Metal/μ)
+├── Well-structured schemas
+├── Connected knowledge networks
+└── Flexible retrieval cues
+```
+
+### Instructional Conditions
+
+| Condition | Transfer Effect | Element |
+|-----------|-----------------|---------|
+| **Varied practice** | Multiple contexts build flexible schemas | β + δγ |
+| **Explicit abstraction** | Direct teaching of general principles | σ |
+| **Analogical examples** | Multiple surface forms, same deep structure | ρ |
+| **Metacognitive prompts** | Reflection on learning process | σ |
+| **Authentic contexts** | Real-world application opportunities | ρ |
+| **Spaced practice** | Distributed learning enhances retention | δγ |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Cognitive Psychology** | Analogical reasoning | Structure mapping theory |
+| **AI/Machine Learning** | Domain adaptation | Transfer learning in neural networks |
+| **Linguistics** | Metaphor | Cross-domain mapping |
+| **Physics Education** | Problem-solving transfer | Expert-novice differences |
+| **Organizational Learning** | Knowledge management | Best practice diffusion |
+| **Developmental Psychology** | Stage transition | Piagetian generalization |
+
+## Connection to Related Theories
+
+### Transfer and Situated Learning
+
+| Aspect | Situated Learning | Transfer Theory |
+|--------|-------------------|-----------------|
+| **Core claim** | Learning is context-bound | Learning can cross contexts |
+| **Element** | ρ (Water) + μ (Metal) | ρ (Water) + σ (Air) |
+| **Synthesis** | Authentic contexts + explicit abstraction = optimal transfer |
+
+### Transfer and Cognitive Load Theory
+
+| Aspect | CLT | Transfer Theory |
+|--------|-----|-----------------|
+| **Focus** | Working memory optimization | Knowledge application |
+| **Element** | σ (Air) | ρ (Water) + σ (Air) |
+| **Connection** | Reduced extraneous load frees resources for schema abstraction |
+
+### Transfer and Constructivism
+
+| Aspect | Constructivism | Transfer Theory |
+|--------|----------------|-----------------|
+| **Mechanism** | Active knowledge construction | Application of constructed knowledge |
+| **Element** | β (Wood) | ρ (Water) |
+| **Relationship** | Construction enables transfer; transfer validates construction |
+
+## The Modern Transfer Landscape
+
+```
+CONTEMPORARY TRANSFER RESEARCH
+
+Preparation for Future Learning (PFL)
+┌─────────────────────────────────────────┐
+│ Bransford & Schwartz (1999)             │
+│                                         │
+│ "Transfer is not just about applying    │
+│  what you know; it's about learning     │
+│  new things faster because of what      │
+│  you've learned before."                │
+│                                         │
+│ Element: β (Wood) — generative growth   │
+└─────────────────────────────────────────┘
+
+Adaptive Expertise (Hatano & Inagaki)
+┌─────────────────────────────────────────┐
+│                                         │
+│ Routine Expertise ──→ Efficient but     │
+│                       rigid             │
+│                                         │
+│ Adaptive Expertise ─→ Flexible,         │
+│                       innovative          │
+│                       transfer            │
+│                                         │
+│ Element: ✶ (Child) — harmonic balance   │
+└─────────────────────────────────────────┘
+```
+
+## Core Insight
+
+> Learning Transfer reveals that **the ultimate test of learning is not performance in the learning context but application in novel contexts**. The paradox of transfer — that specific training aids specific performance but hinders generalization, while abstract training enables generalization but hinders immediate application — points to the need for balanced instructional design. True expertise is not merely knowing; it is knowing **when, where, and how** to apply what one knows. The theory shifts focus from "Did they learn it?" to "Can they use it when it matters?"
+
+## One-Sentence Insight
+
+> Learning Transfer Theory demonstrates that knowledge gains value through its mobility across contexts — with near transfer relying on automatic pattern recognition, far transfer requiring mindful abstraction, and optimal learning combining deep contextualized practice with explicit generalization mechanisms.
+
+## Three-Bullet Expansion
+
+- **What:** A theory explaining how knowledge, skills, and attitudes learned in one context are applied to different contexts — distinguishing near/far transfer, positive/negative transfer, and low-road (automatic) vs. high-road (mindful) transfer mechanisms
+- **How it works:** Learning in source context → abstraction of principles or formation of habits → recognition of applicability in target context → application attempt → feedback refines transfer capability — with transfer success depending on learner characteristics, instructional design, and context similarity
+- **Where it aims:** Toward adaptive expertise — the ability not merely to perform within trained domains but to flexibly apply, adapt, and extend knowledge to novel challenges, creating learners who can "learn how to learn" across their lifetimes
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L061, #L014_Situated_Learning, #L011_Cognitive_Load_Theory, #L017_Constructionism, #L018_Experiential_Learning, #L043_Zone_Proximal_Development
+- **Formal Operators:** ρ, β, σ, μ, δγ, ✶
+- **Dim Operators:** Q_inward, Ψ_exploratory, χ_distinction, Ψ_structural, Ψ_regenerative, Z
+- **Coord Ontology:** I (transferring learner), It (source knowledge), We (target context), Its (abstract principles)
+
+## Source
+
+Derived from:
+- Thorndike, E. L. (1901). Animal intelligence: An experimental study of the associative processes in animals. *Psychological Review Monograph Supplement, 2*(4), 1-109.
+- Thorndike, E. L., & Woodworth, R. S. (1901). The influence of improvement in one mental function upon the efficiency of other functions. *Psychological Review, 8*(3), 247-261.
+- Perkins, D. N., & Salomon, G. (1992). Transfer of learning. *International Encyclopedia of Education* (2nd ed.).
+- Bransford, J. D., & Schwartz, D. L. (1999). Rethinking transfer: A simple proposal with multiple implications. *Review of Research in Education, 24*, 61-100.
+- Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn? A taxonomy for far transfer. *Psychological Bulletin, 128*(4), 612-637.
+- Schwartz, D. L., Chase, C. C., Oppezzo, M. A., & Chin, D. B. (2011). Practicing versus inventing with contrasting cases: The effects of telling first on learning and transfer. *Journal of Educational Psychology, 103*(4), 759-775.
+
+Original context: Educational psychology, cognitive psychology, instructional design
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Wood/β, Air/σ, Metal/μ support | Daemon: Sentaria-Arboriel-Aerunik-Ferrosid | Habitat: 3_LEARNING-SCIENCES / 4_APPLICATION / 5_GENERALIZATION / 8_ADAPTIVE-EXPERTISE
+
+## Related Entries
+
+- L014_Situated_Learning (context-embedded knowledge)
+- L011_Cognitive_Load_Theory (working memory and schema automation)
+- L017_Constructionism (knowledge building)
+- L018_Experiential_Learning (Kolb's cycle)
+- L043_Zone_Proximal_Development (scaffolded learning)
+- L042_Generative_Learning_Theory (knowledge construction)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L061 | Generated: 2026-02-28 00:22*
