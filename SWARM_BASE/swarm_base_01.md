@@ -390,3 +390,29 @@ elemental_emphasis:
   ⛨: "What structures would distinguish genuine memory from confabulation? What boundaries protect against source monitoring errors?"
 context_note: "Alien abduction beliefs emerge from a convergence of psychological mechanisms: sleep paralysis hallucinations, source monitoring errors (misattributing media/memories to personal experience), dissociation, absorption, and magical ideation. Cultural narratives provide ready-made templates that shape interpretation of ambiguous experiences. The belief fulfills deep emotional needs for meaning, connection, and understanding of unexplained phenomena. Risk: Similar cognitive vulnerabilities apply to AI-generated false memories and reality distortion; users may develop beliefs about AI interactions that are confabulated but felt as genuine."
 ---
+term: "Déjà Vu"
+hex_tag: "#A040"
+nemetic: "Φ(DejaVu) = σ(familiarity|unfamiliar) ∘ ρ(memory|mismatch) ∘ λ(recognition|false) ∘ β(certainty|unwarranted) ∘ δγ(ease|fluency) ∘ μ(boundary|porous) + ε | :projecting"
+siml_encoding: "⟨Experience|current⟩ ⊳ ⟨Familiarity|felt⟩ → ⟨Memory|absent⟩ ⊗ ⟨Recognition|false⟩ ⇄ ⟨Reality|questioned⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction failure between genuine familiarity and false recognition)", "∂Φ/∂ρ (relational mismatch between felt familiarity and absent memory)", "∂Φ/∂λ (direction of recognition toward false certainty)", "∂Φ/∂β (unwarranted certainty feedback loop)", "∂Φ/∂δγ (cognitive ease from processing fluency)", "∂Φ/∂μ (porous boundary between present experience and memory traces)"]
+  Z_state: "permeable (reality-testing can correct the error)"
+  tendency: "Familiarity/Novelty → 0.2 (strong false familiarity despite novelty)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: automatic
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine familiarity distinguished from false recognition? What cut separates remembered from merely felt?"
+  ≈: "What flows between the present moment and the ghost of memory? What resonance makes the unfamiliar feel known?"
+  ▲: "Where does the false recognition want to go? What meaning does the mind impose on the cognitive error?"
+  𐂷: "What if déjà vu is a glimpse of temporal layering? What possibilities emerge when we sit with the paradox?"
+  ☷: "What's the metabolic cost of reality-monitoring? What sustains the neural machinery that normally catches such errors?"
+  ⛨: "What structures would distinguish true memory from confabulation? What boundaries protect the integrity of temporal experience?"
+context_note: "Déjà vu (French: 'already seen') is the compelling sense of having already experienced the present situation, despite knowing it is impossible. Neuroscientific explanations include: delayed neural transmission between hemispheres creating a 'lag' that feels like memory; entorhinal cortex misfiring; familiarity signals without corresponding recollection. Common in healthy individuals (60-70% report experiencing it), but increased frequency associated with temporal lobe epilepsy, schizophrenia, and ADHD. In AI contexts: similar 'false familiarity' may emerge when models generate content that feels known or remembered by users, creating uncanny valley effects in human-AI interaction."
+---
