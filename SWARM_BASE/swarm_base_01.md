@@ -390,6 +390,33 @@ elemental_emphasis:
   ⛨: "What structures would distinguish genuine memory from confabulation? What boundaries protect against source monitoring errors?"
 context_note: "Alien abduction beliefs emerge from a convergence of psychological mechanisms: sleep paralysis hallucinations, source monitoring errors (misattributing media/memories to personal experience), dissociation, absorption, and magical ideation. Cultural narratives provide ready-made templates that shape interpretation of ambiguous experiences. The belief fulfills deep emotional needs for meaning, connection, and understanding of unexplained phenomena. Risk: Similar cognitive vulnerabilities apply to AI-generated false memories and reality distortion; users may develop beliefs about AI interactions that are confabulated but felt as genuine."
 ---
+term: "Dark Patterns"
+hex_tag: "#A041"
+nemetic: "Φ(DarkPatterns) = σ(manipulation|transparency) ∘ ρ(deception|trust) ∘ λ(exploitation|profit) ∘ β(engagement|addiction) ∘ δγ(urgency|anxiety) ∘ μ(choice|illusory) + ε | :structuring"
+siml_encoding: "⟨Design|deceptive⟩ ⊳ ⟨User|manipulated⟩ → ⟨Action|coerced⟩ ⊗ ⟨Autonomy|eroded⟩ ⇄ ⟨Trust|destroyed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine choice and manipulated action)", "∂Φ/∂ρ (relational deception eroding user trust)", "∂Φ/∂λ (direction of exploitation toward profit maximization)", "∂Φ/∂β (feedback loop of engagement becoming addiction)", "∂Φ/∂δγ (metabolic anxiety from manufactured urgency)", "∂Φ/∂μ (illusory boundaries of choice architecture)"]
+  Z_state: "structuring (can shift toward transparency or seal into normalized manipulation)"
+  tendency: "Manipulation/Autonomy → 0.85 (strong weight toward deceptive design)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine user choice distinguished from manipulated action? What cut separates transparency from deception?"
+  ≈: "What flows between the designer's intent and the user's felt experience? What emotional resonance does the dark pattern exploit?"
+  ▲: "Where do dark patterns want to direct user behavior? What direction does the exploitation point?"
+  𐂷: "What forms of ethical design haven't been tried? What possibilities emerge when user autonomy is prioritized over profit?"
+  ☷: "What's the metabolic cost of resisting dark patterns? What sustains the vigilance required to recognize manipulation?"
+  ⛨: "What structures would protect user autonomy? What boundaries prevent the normalization of deceptive design?"
+context_note: "Dark patterns are deceptive UX designs that manipulate users into actions benefiting companies, exploiting cognitive biases like FOMO and loss aversion. Common types include forced continuity (hard-to-cancel subscriptions), hidden fees, privacy zuckering, and urgency timers. Regulatory responses include GDPR and the Digital Services Act. AI-driven personalization threatens to evolve dark patterns into individually tailored manipulation that is harder to detect. Risk: Normalization of manipulation as standard business practice, erosion of user trust, and the difficulty of collective resistance when exploitation is individualized."
+---
+---
 term: "Déjà Vu"
 hex_tag: "#A040"
 nemetic: "Φ(DejaVu) = σ(familiarity|unfamiliar) ∘ ρ(memory|mismatch) ∘ λ(recognition|false) ∘ β(certainty|unwarranted) ∘ δγ(ease|fluency) ∘ μ(boundary|porous) + ε | :projecting"
