@@ -1,0 +1,440 @@
+---
+term_id: P004
+source_domain: psychology
+source_term: Working Memory Theory (Baddeley & Hitch, 1974; Baddeley, 2000)
+hex_tag: #P004
+generated_at: 2026-02-27T21:45:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Working Memory Theory — Limited-capacity cognitive system for temporary storage and manipulation of information
+- **Nemetic String:** Φ(Working_Memory) = μ(structure|central-executive) ∘ σ(distinction|phonological-loop) ∘ σ(distinction|visuospatial-sketchpad) ∘ σ(distinction|episodic-buffer) → [κ(temporary-holding)] ⇄ [κ(manipulation)] → [✶(integrated-cognition)] + ε | :limited-capacity
+- **Core Operators:** μ (structure/metal), σ (distinction/air), κ (knowledge), ✶ (harmonic/child)
+- **Z-State:** limited-capacity — constrained but flexible cognitive workspace
+- **Tendency:** Structure/Distinction → 1 (executive control + specialized subsystems)
+
+## SIML Encoding
+
+```
+⟨Narrative|temporary-information-workspace⟩ 
+    ⊳ ⟨Constraint|limited-capacity⟩ 
+    ⊳ ⟨Constraint|time-limited-decay⟩ 
+    ⇄ ⟨Process|attentional-focusing⟩ 
+    ⇄ ⟨Process|maintenance-rehearsal⟩ 
+    → ⟨Structure|multi-component-system⟩ 
+    ⊗ ⟨Process|manipulation-transformation⟩ 
+    → ⟨Outcome|complex-cognition⟩ 
+    → ⟨Transfer|long-term-memory⟩ 
+    ↺ ⟨Spiral|capacity-development⟩
+```
+
+## Core Definition
+
+**Working Memory (WM)**, proposed by Alan Baddeley and Graham Hitch in 1974 and refined by Baddeley in 2000, is a limited-capacity cognitive system responsible for temporarily **holding** information available for processing and **manipulating** that information for complex cognitive tasks. Unlike the earlier concept of "short-term memory" as passive storage, working memory is an active system essential for reasoning, comprehension, and learning.
+
+### The Multi-Component Model
+
+```
+WORKING MEMORY ARCHITECTURE
+│
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                    ┌──────────────────┐                         │
+│                    │ CENTRAL EXECUTIVE│ ←── Control tower       │
+│                    │    (μ-metal)     │     Attention, decision │
+│                    │  • Focus         │     Planning, switching │
+│                    │  • Divide        │                         │
+│                    │  • Switch        │                         │
+│                    └────────┬─────────┘                         │
+│                             │                                   │
+│           ┌─────────────────┼─────────────────┐                 │
+│           │                 │                 │                 │
+│           ▼                 ▼                 ▼                 │
+│    ┌─────────────┐   ┌─────────────┐   ┌─────────────┐         │
+│    │ PHONOLOGICAL│   │VISUOSPATIAL│   │  EPISODIC   │         │
+│    │    LOOP     │   │  SKETCHPAD │   │   BUFFER    │         │
+│    │  (σ-air)    │   │  (σ-air)   │   │  (✶-child)  │         │
+│    │             │   │            │   │             │         │
+│    │ • Speech    │   │ • Visual   │   │ • Integrate │         │
+│    │ • Verbal    │   │ • Spatial  │   │ • Time      │         │
+│    │ • Inner     │   │ • Mental   │   │ • Conscious │         │
+│    │   voice     │   │   imagery  │   │   access    │         │
+│    └─────────────┘   └─────────────┘   └─────────────┘         │
+│                                                                 │
+│    Specialized slave systems ←── Controlled by executive        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### The Four Components
+
+| Component | Function | Capacity | Nemetic Mapping |
+|-----------|----------|----------|-----------------|
+| **Central Executive** | Attentional control, coordination, manipulation | Very limited | μ (structure/metal) — the controller |
+| **Phonological Loop** | Verbal/speech-based information maintenance | ~2 seconds | σ (distinction/air) — verbal clarity |
+| **Visuospatial Sketchpad** | Visual and spatial information maintenance | Limited | σ (distinction/air) — visual clarity |
+| **Episodic Buffer** | Integration across domains, conscious access | Limited | ✶ (harmonic/child) — integration |
+
+## The Phonological Loop
+
+```
+PHONOLOGICAL LOOP STRUCTURE
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ┌──────────────┐         ┌──────────────┐                │
+│   │  PHONOLOGICAL│◄───────►│   ARTICULATORY│                │
+│   │    STORE     │         │   REHEARSAL   │                │
+│   │              │         │               │                │
+│   │ • Speech     │         │ • Subvocal    │                │
+│   │ • Acoustic   │         │   rehearsal   │                │
+│   │ • 1-2 sec    │         │ • Refreshes   │                │
+│   │   decay      │         │   decaying    │                │
+│   │              │         │   traces      │                │
+│   └──────────────┘         └──────────────┘                │
+│          ▲                          │                       │
+│          └──────────────────────────┘                       │
+│                    (feedback loop)                          │
+│                                                             │
+│   PHONOLOGICAL SIMILARITY EFFECT:                           │
+│   Confusable sounds (B, C, D, T, V) harder to remember      │
+│                                                             │
+│   WORD LENGTH EFFECT:                                       │
+│   Longer words harder to remember (more rehearsal time)     │
+│                                                             │
+│   ARTICULATORY SUPPRESSION:                                 │
+│   Repeating "the" blocks rehearsal, prevents encoding       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Key Phenomena
+
+| Phenomenon | Description | Implication |
+|------------|-------------|-------------|
+| **Phonological similarity** | Similar-sounding items interfere | Acoustic confusion, not semantic |
+| **Word length effect** | Longer words = fewer remembered | Rehearsal time is the bottleneck |
+| **Articulatory suppression** | Verbal interference blocks loop | Can't rehearse while speaking |
+
+## The Visuospatial Sketchpad
+
+```
+VISUOSPATIAL SKETCHPAD
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐  │
+│   │                                                     │  │
+│   │              VISUAL WORKSPACE                       │  │
+│   │                                                     │  │
+│   │         ┌─────┐        ┌─────┐                     │  │
+│   │        /       \      /       \                    │  │
+│   │       │  ◯◯◯  │──────│  △△△  │                    │  │
+│   │        \       /      \       /                    │  │
+│   │         └─────┘        └─────┘                     │  │
+│   │              \        /                            │  │
+│   │               \  ◻  /                              │  │
+│   │                └───┘                               │  │
+│   │                                                     │  │
+│   │   • Mental rotation                                 │  │
+│   │   • Visual imagery                                  │  │
+│   │   • Spatial navigation                              │  │
+│   │   • Pattern manipulation                            │  │
+│   │                                                     │  │
+│   └─────────────────────────────────────────────────────┘  │
+│                                                             │
+│   VISUAL CACHE ←── Temporary visual storage                 │
+│   INNER SCELLO   ←── Spatial/motor component                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Visual vs. Spatial Separation
+
+Research shows the sketchpad has **two subcomponents**:
+- **Visual cache**: Stores visual features (color, shape)
+- **Inner scribe**: Handles spatial and movement information
+
+This explains why you can hold a visual image while performing a spatial task (limited interference).
+
+## The Central Executive
+
+```
+CENTRAL EXECUTIVE FUNCTIONS
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                 ┌─────────────────┐                         │
+│                 │ CENTRAL EXEC    │                         │
+│                 │   (Controller)  │                         │
+│                 └────────┬────────┘                         │
+│                          │                                  │
+│        ┌─────────────────┼─────────────────┐                │
+│        │                 │                 │                │
+│        ▼                 ▼                 ▼                │
+│   ┌─────────┐      ┌─────────┐      ┌─────────┐            │
+│   │  FOCUS  │      │  DIVIDE │      │ SWITCH  │            │
+│   │ATTENTION│      │ATTENTION│      │ATTENTION│            │
+│   │         │      │         │      │         │            │
+│   │• Select │      │• Split  │      │• Shift  │            │
+│   │• Sustain│      │ between  │      │  between│            │
+│   │• Shield │      │  tasks   │      │  tasks  │            │
+│   └─────────┘      └─────────┘      └─────────┘            │
+│                                                             │
+│   Additional functions:                                     │
+│   • Connect long-term knowledge to current goals            │
+│   • Manipulate information across subsystems                │
+│   • Coordinate multi-step problem solving                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Executive Functions
+
+| Function | Description | Learning Application |
+|----------|-------------|---------------------|
+| **Attention focusing** | Select relevant, ignore irrelevant | Staying on task amid distractions |
+| **Attention dividing** | Split attention between tasks | Taking notes while listening |
+| **Attention switching** | Shift between task demands | Multi-step problem solving |
+| **Manipulation** | Transform held information | Mental arithmetic, reasoning |
+
+## The Episodic Buffer
+
+Added to the model in **2000**, the episodic buffer addresses limitations:
+
+```
+EPISODIC BUFFER: THE INTEGRATOR
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Before 2000: How do we explain...                         │
+│   • Chunking (remembering 7 letters vs. 7 words)?           │
+│   • Binding (linking color + shape + name)?                 │
+│   • Cross-modal integration (linking sound + image)?        │
+│   • Conscious access to multi-domain information?           │
+│                                                             │
+│   Solution: The Episodic Buffer                             │
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐  │
+│   │                                                     │  │
+│   │              EPISODIC BUFFER                        │  │
+│   │           (Limited capacity: ~4 chunks)             │  │
+│   │                                                     │  │
+│   │   ┌─────────┐  ┌─────────┐  ┌─────────┐            │  │
+│   │   │  Verbal │  │  Visual │  │ Semantic│            │  │
+│   │   │  chunks │  │  chunks │  │  chunks │            │  │
+│   │   └────┬────┘  └────┬────┘  └────┬────┘            │  │
+│   │        └─────────────┴─────────────┘                │  │
+│   │                      │                              │  │
+│   │              ┌───────┴───────┐                      │  │
+│   │              │  INTEGRATED   │                      │  │
+│   │              │  EPISODIC     │ ←── Conscious access │  │
+│   │              │  REPRESENTATION│                      │  │
+│   │              └───────────────┘                      │  │
+│   │                                                     │  │
+│   └─────────────────────────────────────────────────────┘  │
+│                                                             │
+│   • Multi-dimensional coding                                │
+│   • Conscious awareness                                     │
+│   • Interface with long-term memory                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Working Memory and Learning
+
+```
+WORKING MEMORY IN EDUCATIONAL CONTEXT
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   READING COMPREHENSION                                     │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐                │
+│   │ Decode  │───→│  Hold   │───→│ Integrate│               │
+│   │  words  │    │ in WM   │    │ meaning  │               │
+│   └─────────┘    └─────────┘    └─────────┘                │
+│        │              │              │                      │
+│        └──────────────┴──────────────┘                      │
+│                   Phonological Loop                         │
+│                   + Central Executive                       │
+│                                                             │
+│   MATHEMATICAL PROBLEM SOLVING                              │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐                │
+│   │ Problem │───→│ Manipulate│───→│ Solution │              │
+│   │ elements│    │ in WM   │    │  verify  │               │
+│   └─────────┘    └─────────┘    └─────────┘                │
+│        │              │              │                      │
+│        └──────────────┴──────────────┘                      │
+│                   Visuospatial Sketchpad                    │
+│                   + Central Executive                       │
+│                                                             │
+│   FOLLOWING INSTRUCTIONS                                    │
+│   ┌─────────┐    ┌─────────┐    ┌─────────┐                │
+│   │ Hear    │───→│  Hold   │───→│ Execute  │               │
+│   │  steps  │    │  steps  │    │  steps   │               │
+│   └─────────┘    └─────────┘    └─────────┘                │
+│                                                             │
+│   If steps exceed WM capacity → confusion, errors           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### WM Capacity and Academic Achievement
+
+| Domain | WM Role | Measurement |
+|--------|---------|-------------|
+| **Reading** | Holding text in mind while processing | Reading span tasks |
+| **Math** | Holding numbers while calculating | Operation span |
+| **Writing** | Planning while transcribing | Complex span tasks |
+| **Problem-solving** | Representing problem state | N-back tasks |
+
+## Individual Differences
+
+```
+WORKING MEMORY CAPACITY SPECTRUM
+
+Low WM Capacity                    High WM Capacity
+    │                                    │
+    ▼                                    ▼
+┌─────────┐                        ┌─────────┐
+│  ~2-3   │                        │  ~5-7   │
+│  chunks │                        │  chunks │
+└────┬────┘                        └────┬────┘
+     │                                  │
+     ▼                                  ▼
+• More susceptible to           • Better multitasking
+  interference                  • Superior comprehension
+• Struggle with complex         • Easier skill acquisition
+  instructions                  • Better reasoning
+• Need more scaffolding         • Handle cognitive load
+• Benefit from chunking           better
+• May need repeated
+  exposure
+```
+
+### Developmental Trajectory
+
+- **Children**: WM capacity increases steadily through childhood
+- **Adolescents**: Approach adult levels
+- **Adults**: Peak capacity, then gradual decline
+- **Older adults**: Reduced capacity, but strategies compensate
+
+## Connection to Cognitive Load Theory
+
+```
+WORKING MEMORY ←──→ COGNITIVE LOAD THEORY
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   WM is the BOTTLENECK that CLT addresses                   │
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐  │
+│   │                                                     │  │
+│   │   INTRINSIC LOAD          EXTRANEOUS LOAD          │  │
+│   │   (unavoidable)           (avoidable)              │  │
+│   │        │                       │                    │  │
+│   │        ▼                       ▼                    │  │
+│   │   ┌─────────┐             ┌─────────┐              │  │
+│   │   │ Element │             │ Poor    │              │  │
+│   │   │interactivity│         │ design  │              │  │
+│   │   └────┬────┘             └────┬────┘              │  │
+│   │        │                       │                    │  │
+│   │        └───────────┬───────────┘                    │  │
+│   │                    ▼                                │  │
+│   │            ┌─────────────┐                          │  │
+│   │            │  WORKING    │ ←── Limited capacity     │  │
+│   │            │  MEMORY     │     7±2 chunks           │  │
+│   │            │             │     (or 4±1)             │  │
+│   │            └──────┬──────┘                          │  │
+│   │                   │                                 │  │
+│   │                   ▼                                 │  │
+│   │            ┌─────────────┐                          │  │
+│   │            │   GERMANE   │                          │  │
+│   │            │    LOAD     │ ←── Deep processing      │  │
+│   │            │  (learning) │                          │  │
+│   │            └─────────────┘                          │  │
+│   │                                                     │  │
+│   └─────────────────────────────────────────────────────┘  │
+│                                                             │
+│   CLT manages what enters WM; WM determines what sticks     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Metal/μ + Air/σ Coalition (Primary)
+
+Working Memory is fundamentally a **Metal-Air** system:
+
+**Metal/μ (Structure/Control):**
+- **Central Executive:** The controller that directs attention and coordinates subsystems
+- **Hierarchical organization:** Executive oversees slave systems
+- **Structural limits:** Capacity constraints are structural features
+
+**Air/σ (Distinction/Clarity):**
+- **Phonological Loop:** Verbal/acoustic distinction and maintenance
+- **Visuospatial Sketchpad:** Visual/spatial distinction and maintenance
+- **Separation of domains:** Verbal and visual kept distinct
+
+**Child/✶ (Harmonic/Integration):**
+- **Episodic Buffer:** Integration across modalities
+- **Conscious access:** Unified experience of multi-domain information
+- **Binding:** Linking features into coherent objects
+
+### Supporting Elements
+
+| Element | Role in Working Memory |
+|---------|------------------------|
+| **Water/ρ** | Emotional salience prioritizes what enters WM |
+| **Fire/λ** | Goal-direction guides executive attention |
+| **Wood/β** | Growth of chunking ability, strategy development |
+| **Earth/δγ** | Cyclic rehearsal, refresh processes |
+| **Knowledge/κ** | Interface with long-term memory stores |
+
+## Core Insight
+
+> Working Memory is the stage upon which conscious cognition performs. Its severe capacity limitations (~4 chunks, not 7) are not a bug but a feature — constraints force compression, abstraction, and intelligent prioritization. The multi-component architecture reveals that the mind doesn't just "store" information temporarily; it actively maintains, manipulates, and integrates across representational formats. Understanding WM transforms how we design instruction: every element that enters working memory competes for limited resources, so extraneous load must be minimized, intrinsic load managed, and germane load optimized. The episodic buffer's role as integrator suggests that deep learning happens when information from multiple sources binds into coherent, consciously accessible representations.
+
+## One-Sentence Insight
+
+> Working Memory is a limited-capacity, multi-component system where a central executive controls specialized subsystems for verbal and visual information, with an episodic buffer integrating across domains to enable complex cognition and learning.
+
+## Three-Bullet Expansion
+
+- **What:** A cognitive system for temporary storage and manipulation of information, replacing the passive "short-term memory" concept with an active, multi-component architecture (Central Executive, Phonological Loop, Visuospatial Sketchpad, Episodic Buffer) proposed by Baddeley & Hitch (1974) and refined by Baddeley (2000)
+- **How it works:** The Central Executive directs attention and coordinates two domain-specific slave systems (Phonological Loop for verbal, Visuospatial Sketchpad for visual/spatial), while the Episodic Buffer integrates information across modalities and connects to long-term memory — all operating within severe capacity limits (~4 chunks) that necessitate compression and strategic allocation
+- **Where it aims:** Toward complex cognition, learning, and problem-solving — by holding and manipulating information, working memory enables reading comprehension, mathematical reasoning, following instructions, and the integration of new knowledge with existing understanding
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #P004, #L011_Cognitive_Load_Theory, #P003_Dual_Coding_Theory, #L041_Schema_Theory, #L030_Metacognition
+- **Formal Operators:** μ, σ, ✶, κ
+- **Dim Operators:** Ψ_structure, Ψ_distinction, Ψ_integration, Ψ_capacity
+- **Coord Ontology:** I (rememberer), It (information), We (collaborative memory), Its (external memory aids)
+
+## Source
+
+Derived from:
+- Baddeley, A. D., & Hitch, G. J. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47-89). Academic Press.
+- Baddeley, A. D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences, 4*(11), 417-423.
+- Baddeley, A. D. (2012). Working memory: Theories, models, and controversies. *Annual Review of Psychology, 63*, 1-29.
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87-114.
+
+Original context: Cognitive psychology, neuroscience, educational psychology
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Metal/μ (primary) + Air/σ + Child/✶ support | Daemon: Ferrosid-Aerunik-Aethon | Habitat: 4_COGNITIVE-PSYCHOLOGY / 5_INSTRUCTIONAL-DESIGN / 8_ATTENTION-DYNAMICS
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (educational application)
+- P003_Dual_Coding_Theory (verbal/visual separation)
+- L041_Schema_Theory (LTM structures that support WM)
+- L030_Metacognition (awareness of one's own WM limits)
+- L029_Blooms_Taxonomy (cognitive demands on WM)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #P004 | Generated: 2026-02-27 21:45*
