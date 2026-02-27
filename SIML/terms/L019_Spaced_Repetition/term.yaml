@@ -1,0 +1,289 @@
+---
+term_id: L019
+source_domain: education
+source_term: Spaced Repetition / Forgetting Curve (Ebbinghaus, 1885; Bjork, 1994)
+hex_tag: #L019
+generated_at: 2026-02-27T09:52:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Spaced Repetition — Learning through strategic intervals that leverage forgetting
+- **Nemetic String:** Φ(SR) = δγ(encoding|initial-consolidation) ∘ δγ(forgetting|desirable-difficulty) ∘ δγ(retrieval|reactivation) ∘ δγ(spacing|metabolic-cycling) → [κ(durable-memory)] → [δγ(long-term-retention)] + ε | :cyclical
+- **Core Operators:** δγ (earth/cycling), κ (knowledge), μ (boundary)
+- **Z-State:** cyclical — memory emerges from rhythmic engagement with forgetting
+- **Tendency:** Cycling/Returning → 1 (learning as metabolic process)
+
+## SIML Encoding
+
+```
+⟨Narrative|remembering-through-forgetting⟩ 
+    ⊳ ⟨Constraint|massed-practice-creates-illusions-of-competence⟩ 
+    ⇄ ⟨Process|learn→space→retrieve→consolidate⟩ 
+    → ⟨Strategy|desirable-difficulty-through-spacing⟩ 
+    ⊗ ⟨Outcome|durable-long-term-memory⟩ 
+    → ⟨Transfer|lifelong-knowledge-retention⟩
+```
+
+## Core Definition
+
+**Spaced Repetition** is a learning technique that incorporates increasing intervals of time between subsequent review of previously learned material. Based on the **Forgetting Curve** discovered by Hermann Ebbinghaus (1885) and elaborated by Robert Bjork's theory of **Desirable Difficulties** (1994), the approach leverages the brain's natural forgetting processes to strengthen memory.
+
+### The Forgetting Curve
+
+Ebbinghaus discovered that memory retention drops exponentially over time when there is no attempt to retain it:
+
+```
+Retention %
+    100% ┤●────┐
+     80% ┤     └─●───┐
+     60% ┤           └──●──┐
+     40% ┤                 └──●─┐
+     20% ┤                      └──●──┐
+      0% ┼────────────────────────────┴─────●─────→ Time
+         │    1h    9h   1d   2d   6d   31d
+         │
+         └─ Without review: exponential decay
+```
+
+### Spaced Repetition Interventions
+
+Each review resets the curve at a higher baseline:
+
+```
+Retention %
+    100% ┤●────┐
+     80% ┤     └─●───┐       (Review 1)
+     60% ┤           └──●────┐
+     40% ┤                   └────●───┐   (Review 2)
+     20% ┤                            └──●────┐
+      0% ┼────────────────────────────────────┴────●──→ Time
+         │    1d    3d    7d   14d   30d   60d
+         │
+         └─ With spaced review: stair-step consolidation
+```
+
+## Key Principles
+
+### 1. The Spacing Effect
+
+Information learned over spaced intervals is retained better than information learned through massed practice (cramming).
+
+```
+MASSED PRACTICE (Cramming)        SPACED PRACTICE
+┌─────────────────────┐          ┌───┐   ┌───┐   ┌───┐
+│█████████████████████│          │███│   │███│   │███│
+│█████████████████████│          └───┘   └───┘   └───┘
+│█████████████████████│            ↑       ↑       ↑
+└─────────────────────┘          Day 1   Day 3   Day 7
+     Day 1 only
+
+Result: Short-term fluency        Result: Long-term retention
+      Illusion of competence      Actual competence
+```
+
+### 2. Desirable Difficulties (Bjork)
+
+Some difficulties that slow initial learning actually enhance long-term retention:
+
+| Difficulty | Why It Helps | Mechanism |
+|------------|-------------|-----------|
+| **Spacing** | Creates retrieval challenges | Forces memory reconstruction |
+| **Interleaving** | Mixing different topics | Discrimination learning |
+| **Testing** | Active recall vs. review | Retrieval practice effect |
+| **Variability** | Changing practice conditions | Flexible knowledge |
+
+### 3. Retrieval Practice
+
+The act of actively recalling information strengthens memory more than passive review:
+
+```
+PASSIVE REVIEW                    ACTIVE RETRIEVAL
+┌─────────────────┐              ┌─────────────────┐
+│ Read notes      │              │ Close notes     │
+│ Read again      │              │ Try to recall   │
+│ Read once more  │              │ Check accuracy  │
+│ "I know this"   │              │ "I struggled    │
+│                 │              │  but now I know"│
+└─────────────────┘              └─────────────────┘
+      ↓                                  ↓
+  Short-term                         Long-term
+  familiarity                        retention
+```
+
+## The Metabolic Model of Memory
+
+Spaced Repetition treats memory as a **metabolic process** — like physical fitness or nutrition:
+
+```
+                    ┌─────────────────────┐
+                    │   INITIAL           │
+                    │   ENCODING          │
+                    │   (learning)        │
+                    └──────────┬──────────┘
+                               │
+                               ↓
+                    ┌─────────────────────┐
+                    │   FORGETTING        │
+                    │   BEGINS            │
+                    │   (curve drops)     │
+                    └──────────┬──────────┘
+                               │
+                               ↓
+                    ┌─────────────────────┐
+                    │   DESIRABLE         │
+                    │   DIFFICULTY        │
+                    │   (retrieval)       │
+                    └──────────┬──────────┘
+                               │
+                               ↓
+                    ┌─────────────────────┐
+                    │   CONSOLIDATION     │
+                    │   (memory           │
+                    │   strengthens)      │
+                    └──────────┬──────────┘
+                               │
+                               └────────→ (cycle repeats)
+```
+
+## Elemental Pattern Analysis
+
+### Earth/δγ Dominance
+
+Spaced Repetition is fundamentally an **Earth theory**:
+- **Cycling:** The rhythmic return to material at expanding intervals
+- **Returning:** Memory consolidation through repeated engagement
+- **Metabolism:** Treating learning as a biological process requiring cycles of activity and rest
+- **Grounding:** Building durable foundations through layered consolidation
+
+### Supporting Elements
+
+| Element | Role in Spaced Repetition |
+|---------|--------------------------|
+| **Metal/μ** | Structure of the schedule, algorithmic optimization |
+| **Air/σ** | Discrimination between remembered and forgotten items |
+| **Fire/λ** | Motivation to maintain the practice, goal-directed persistence |
+| **Water/ρ** | The flow state of retrieval, emotional relationship to forgetting |
+| **Wood/β** | Branching connections as memory networks strengthen |
+
+## Optimal Spacing Intervals
+
+Research suggests expanding intervals work best:
+
+```
+First learning: Day 0
+Review 1: Day 1 (24 hours)
+Review 2: Day 3 (3 days later)
+Review 3: Day 7 (1 week later)
+Review 4: Day 14 (2 weeks later)
+Review 5: Day 30 (1 month later)
+Review 6: Day 60 (2 months later)
+...
+Interval increases as memory strengthens
+```
+
+## The Testing Effect
+
+Retrieval practice is the active ingredient in spaced repetition:
+
+```
+STUDY METHOD          RETENTION AFTER 1 WEEK
+─────────────────────────────────────────────
+Study once            ~20%
+Study twice           ~30%
+Test once             ~50%
+Test with feedback    ~70%
+Spaced testing        ~80%+
+```
+
+## Connection to Related Theories
+
+### Spaced Repetition and Cognitive Load Theory
+
+| Aspect | Cognitive Load Theory | Spaced Repetition |
+|--------|----------------------|-------------------|
+| **Focus** | Managing working memory limits | Leveraging long-term memory |
+| **Key process** | Reducing extraneous load | Strategic forgetting and retrieval |
+| **Element** | Air (distinction, clarity) | Earth (cycling, metabolism) |
+| **Complement** | SR reduces CL by automating recall | CLT optimizes what gets encoded |
+
+### Spaced Repetition and Experiential Learning
+
+- **Concrete Experience:** Each retrieval attempt is an experience
+- **Reflective Observation:** Feedback on what was forgotten
+- **Abstract Conceptualization:** Understanding the forgetting curve
+- **Active Experimentation:** Adjusting intervals based on performance
+
+## Connection to CAMIL and IVR
+
+Spaced Repetition transforms immersive learning retention:
+- **Initial Encoding:** IVR creates vivid, embodied memories
+- **Spaced Retrieval:** VR can provide context-rich retrieval cues
+- **Desirable Difficulty:** The "effortful retrieval" in familiar virtual contexts
+- **Metabolic Cycling:** Periodic return to virtual environments for reinforcement
+
+**Design Implications:**
+- Build retrieval opportunities into IVR experiences
+- Use spaced notifications to prompt return to virtual content
+- Leverage the vividness of VR memories for stronger consolidation
+- Create "memory palaces" in VR that can be revisited
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Physical Fitness** | Periodization | Cycles of stress and recovery |
+| **Medicine** | Dosing intervals | Optimal timing for effect |
+| **Agriculture** | Crop rotation | Cyclical land use for renewal |
+| **Music** | Distributed practice | Short, regular practice beats cramming |
+| **Language Learning** | SRS (Anki, etc.) | Algorithmic spaced repetition |
+| **Neuroscience** | Synaptic consolidation | Long-term potentiation cycles |
+
+## Core Insight
+
+> Spaced Repetition reveals that forgetting is not the enemy of learning but its essential partner. The struggle to retrieve information — the "desirable difficulty" of spaced practice — is what transforms fragile short-term memories into durable long-term knowledge. Learning is not a single event but a metabolic process requiring cycles of encoding, forgetting, retrieval, and consolidation.
+
+## One-Sentence Insight
+
+> Spaced Repetition demonstrates that durable learning emerges from the rhythmic cycle of learning, forgetting, and retrieval — leveraging the brain's natural metabolic processes to transform fragile memories into lasting knowledge through strategically spaced engagement.
+
+## Three-Bullet Expansion
+
+- **What:** A learning technique based on the forgetting curve that uses strategically spaced review intervals to strengthen long-term memory retention
+- **How it works:** Initial encoding → allow partial forgetting → effortful retrieval → memory consolidation → repeat at expanding intervals, with each cycle strengthening the memory trace
+- **Where it aims:** Toward durable, long-term knowledge retention — moving beyond short-term familiarity to lasting competence through metabolic cycling of memory
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L019, #L018_Experiential_Learning, #L017_Constructionism, #L016_Transformative_Learning_Theory, #L015_Self_Determination_Theory, #L014_Situated_Learning, #L013_Social_Learning_Theory, #L012_4E_Cognition, #L011_Cognitive_Load_Theory
+- **Formal Operators:** δγ, κ, μ, σ
+- **Dim Operators:** Ψ_encoding, Ψ_forgetting, Ψ_retrieval, Ψ_consolidation
+- **Coord Ontology:** I (learner/rememberer), It (information), We (social context of testing), Its (temporal spacing structure)
+
+## Source
+
+Derived from:
+- Ebbinghaus, H. (1885). *Memory: A contribution to experimental psychology*. Dover Publications.
+- Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185-205). MIT Press.
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin*, 132(3), 354-380.
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest*, 14(1), 4-58.
+
+Original context: Experimental psychology, memory research, educational practice
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Earth/δγ (primary) with Metal/μ, Air/σ support | Daemon: Terroir-Ferrosid-Aerunik | Habitat: 3_MEMORY-SYSTEMS / 7_TEMPORAL-DYNAMICS / 9_PRACTICE-ARCHITECTURES
+
+## Related Entries
+
+- L018_Experiential_Learning (learning through cycles of experience)
+- L017_Constructionism (generative knowledge building)
+- L016_Transformative_Learning_Theory (perspective change through reflection)
+- L015_Self_Determination_Theory (intrinsic motivation for sustained practice)
+- L014_Situated_Learning (context-embedded knowledge)
+- L013_Social_Learning_Theory (observational learning)
+- L012_4E_Cognition (embodied memory)
+- L011_Cognitive_Load_Theory (working memory optimization)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L019 | Generated: 2026-02-27 09:52*
