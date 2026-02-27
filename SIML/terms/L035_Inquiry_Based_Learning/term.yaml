@@ -1,0 +1,281 @@
+---
+term_id: L035
+source_domain: education
+source_term: Inquiry-Based Learning (IBL)
+hex_tag: #L035
+generated_at: 2026-02-27T17:15:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Inquiry-Based Learning — Learning through student-driven questioning and investigation
+- **Nemetic String:** Φ(Inquiry) = β(question-generation|curiosity-branching) ∘ σ(hypothesis-formation|distinction-making) ∘ ρ(collaborative-investigation|relational-flow) ∘ δγ(evidence-gathering|iterative-cycling) → [λ(knowledge-construction|purposeful-direction)] → [β(deeper-understanding)] + ε | :generative
+- **Core Operators:** β (branching/generation), σ (distinction/structure), ρ (flow/connection), δγ (cycling/iteration), λ (direction/purpose)
+- **Z-State:** generative — understanding emerges from sustained questioning and investigation
+- **Tendency:** Questioning/Discovery → 1 (learning as inquiry process)
+
+## SIML Encoding
+
+```
+⟨Narrative|authentic-questions-drive-learning⟩ 
+    ⊳ ⟨Constraint|traditional-answers-first-limits-curiosity⟩ 
+    ⇄ ⟨Process|question→investigate→discover→reflect⟩ 
+    → ⟨Strategy|student-driven-inquiry-with-scaffolding⟩ 
+    ⊗ ⟨Outcome|deep-conceptual-understanding⟩ 
+    → ⟨Transfer|lifelong-inquiry-skills⟩
+```
+
+## Core Definition
+
+**Inquiry-Based Learning (IBL)** is a pedagogical approach that centers learning around student-driven questions, investigations, and discoveries rather than teacher-delivered content. Rooted in the philosophical tradition of inquiry (Socrates, Dewey, Bruner) and formalized in science education through the 5E Instructional Model (Bybee, 1997), IBL positions learners as active investigators who construct understanding through authentic questioning and evidence-based reasoning.
+
+### The Inquiry Cycle
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
+│   │  ENGAGE     │───►│  EXPLORE    │───►│  EXPLAIN    │ │
+│   │(curiosity,  │    │(investigate,│    │(concept      │ │
+│   │ question)   │    │ gather data)│    │ development)│ │
+│   └─────────────┘    └─────────────┘    └──────┬──────┘ │
+│        ▲                                         │       │
+│        │                                         ▼       │
+│   ┌────┴────┐                              ┌──────────┐ │
+│   │ EVALUATE│◄─────────────────────────────│ ELABORATE│ │
+│   │(assess, │                              │(apply,    │ │
+│   │ reflect)│                              │ extend)   │ │
+│   └─────────┘                              └──────────┘ │
+│                                                         │
+│              The 5E Instructional Model                 │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Types of Inquiry (Inquiry Continuum)
+
+| Level | Teacher Role | Student Role | Description |
+|-------|--------------|--------------|-------------|
+| **Confirmation** | Provides question, procedure, solution | Follows directions, verifies known result | Structured — entry point |
+| **Structured** | Provides question, procedure | Generates solution from evidence | Guided — developing skills |
+| **Guided** | Provides question only | Designs procedure, generates solution | Open — building independence |
+| **Open** | Provides context only | Generates question, procedure, solution | Authentic — full inquiry |
+
+## Key Principles
+
+1. **Questions Drive Learning:** Authentic, meaningful questions originate from student curiosity
+2. **Evidence-Based Reasoning:** Claims require support from investigation and data
+3. **Student Agency:** Learners make meaningful decisions about their learning path
+4. **Collaborative Investigation:** Knowledge construction is social and dialogic
+5. **Reflection Integrates Learning:** Metacognitive awareness transforms experience into understanding
+6. **Scaffolding Enables Growth:** Support structures adapt to learner readiness
+
+## Elemental Pattern Analysis
+
+### Wood/β + Air/σ Coalition (Primary)
+
+Inquiry-Based Learning is fundamentally a **Wood-Air** theory:
+
+**Wood/β (Branching/Generation):**
+- **Question generation:** Curiosity branches into multiple inquiry paths
+- **Hypothesis formation:** Possibilities proliferate from initial wonder
+- **Investigation design:** Learners generate approaches to answering questions
+- **Knowledge construction:** Understanding grows organically from inquiry
+
+**Air/σ (Distinction/Structure):**
+- **Evidence evaluation:** Distinguishing strong from weak support
+- **Hypothesis testing:** Clear criteria for confirming or revising ideas
+- **Conceptual clarity:** Distinctions emerge through investigation
+- **Logical reasoning:** Structure imposed on inquiry process
+
+### Supporting Elements
+
+| Element | Role in Inquiry-Based Learning |
+|---------|-------------------------------|
+| **Water/ρ** | Collaborative flow — dialogue, discussion, shared investigation |
+| **Earth/δγ** | Iterative cycling — the spiral of question-investigate-reflect |
+| **Fire/λ** | Purposeful direction — sustained motivation through authentic questions |
+| **Metal/μ** | Scaffolding structure — the framework that enables inquiry |
+
+## The Inquiry Mindset
+
+```
+TRADITIONAL MINDSET              INQUIRY MINDSET
+─────────────────────────────────────────────────────────────
+"The teacher has answers"    →   "Questions lead to discovery"
+"Learning is receiving"      →   "Learning is investigating"
+"Mistakes are failures"      →   "Mistakes are data"
+"Knowledge is fixed"         →   "Knowledge is constructed"
+"Coverage matters most"      →   "Understanding matters most"
+"Silence means compliance"   →   "Silence means thinking"
+```
+
+## The Teacher's Transformed Role
+
+```
+Traditional Role:              Inquiry Role:
+┌─────────────────┐           ┌─────────────────┐
+│   SAGE ON       │           │   GUIDE ON      │
+│   THE STAGE     │    →      │   THE SIDE      │
+│                 │           │                 │
+│ • Delivers      │           │ • Scaffolds     │
+│   content       │           │   curiosity     │
+│ • Controls      │           │ • Facilitates   │
+│   pacing        │           │   exploration   │
+│ • Evaluates     │           │ • Questions     │
+│   correctness   │           │   questions     │
+│ • Provides      │           │ • Supports      │
+│   answers       │           │   meaning-making│
+└─────────────────┘           └─────────────────┘
+```
+
+## Connection to Related Theories
+
+### Inquiry and Discovery Learning (L034)
+
+| Aspect | Discovery Learning | Inquiry-Based Learning |
+|--------|-------------------|----------------------|
+| **Originator** | Bruner (1961) | Dewey, Socrates, modern science educators |
+| **Focus** | Individual hypothesis testing | Collaborative investigation |
+| **Structure** | More open-ended | Scaffolded progression (5E) |
+| **Element** | Wood (β) | Wood-Air (β-σ) |
+| **Complement** | IBL adds structure to discovery | DL adds openness to inquiry |
+
+**Integration:** IBL provides the pedagogical scaffolding that makes discovery learning systematic and replicable across contexts.
+
+### Inquiry and Problem-Based Learning (L026)
+
+| Aspect | Problem-Based Learning | Inquiry-Based Learning |
+|--------|----------------------|----------------------|
+| **Starting point** | Authentic, complex problem | Student-generated question |
+| **Context** | Often real-world scenarios | Can be abstract or concrete |
+| **Collaboration** | Essential — team-based | Common but variable |
+| **Element** | Water-Wood (ρ-β) | Wood-Air (β-σ) |
+| **Complement** | PBL anchors inquiry in authenticity | IBL emphasizes question-generation |
+
+### Inquiry and Constructionism (L017)
+
+**Synergy:** Inquiry provides the questioning framework; constructionism provides the making dimension:
+- **Inquiry asks:** "What do we want to know?"
+- **Constructionism asks:** "What can we build to find out?"
+- **Together:** Learning through making things that answer questions
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Science** | Scientific method | Hypothesis-test-revise cycles |
+| **Journalism** | Investigative reporting | Following questions where they lead |
+| **Philosophy** | Socratic method | Questioning as path to truth |
+| **Design** | Design thinking | Empathy-define-ideate-prototype-test |
+| **Therapy** | Open inquiry | Client-led exploration |
+| **Research** | Action research | Practitioner investigation of practice |
+
+## Inquiry in Different Disciplines
+
+### Science
+- Questions emerge from phenomena observation
+- Hypothesis testing through controlled experiments
+- Evidence-based argumentation
+
+### Mathematics
+- Questions arise from pattern exploration
+- Conjecture formation and proof
+- Mathematical modeling of real situations
+
+### Humanities
+- Questions emerge from text/artifact analysis
+- Evidence from primary sources
+- Interpretive argumentation
+
+### Arts
+- Questions about creative possibilities
+- Exploration through making
+- Reflective practice and iteration
+
+## Designing for Inquiry
+
+### The Environment
+```
+INQUIRY-CONDUCIVE ENVIRONMENT
+├── Accessible materials for investigation
+├── Display of student questions (question walls)
+├── Documentation of learning process
+├── Spaces for collaboration and dialogue
+├── Access to information resources
+└── Time for sustained investigation
+```
+
+### The Scaffolding
+
+| Phase | Scaffolding Strategy | Gradual Release |
+|-------|---------------------|-----------------|
+| **Engage** | Teacher models questioning | Students generate questions |
+| **Explore** | Structured protocols | Open investigation design |
+| **Explain** | Guided concept development | Student-led meaning-making |
+| **Elaborate** | Teacher suggests applications | Student-initiated extensions |
+| **Evaluate** | Teacher provides criteria | Student self-assessment |
+
+## Assessment in Inquiry
+
+**Formative (Process-Focused):**
+- Question quality and development
+- Investigation design
+- Evidence gathering
+- Collaborative participation
+- Reflection depth
+
+**Summative (Product-Focused):**
+- Quality of explanations
+- Evidence-based arguments
+- Transfer to new contexts
+- Metacognitive awareness
+
+## Core Insight
+
+> Inquiry-Based Learning reveals that **the question is more important than the answer**. When learners drive their own investigation through authentic curiosity, they develop not just content knowledge but **inquiry capacity** — the ability to formulate meaningful questions, design investigations, evaluate evidence, and construct understanding. This capacity transfers across domains and persists throughout life, transforming students from passive recipients into active knowledge constructors.
+
+## One-Sentence Insight
+
+> Inquiry-Based Learning demonstrates that when authentic questions drive investigation, learners develop both deep conceptual understanding and transferable inquiry capacity — transforming education from answer-delivery into curiosity-fueled discovery.
+
+## Three-Bullet Expansion
+
+- **What:** A pedagogical approach that centers learning around student-driven questions and investigations, progressing through structured stages (Engage-Explore-Explain-Elaborate-Evaluate) with decreasing scaffolding as learners develop inquiry skills
+- **How it works:** Authentic question → collaborative investigation → evidence gathering → explanation construction → application and reflection, with teachers shifting from "sage on the stage" to "guide on the side"
+- **Where it aims:** Toward deep conceptual understanding and lifelong inquiry capacity — learners who can generate meaningful questions, design investigations, evaluate evidence, and construct their own understanding across any domain
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L035, #L034_Discovery_Learning, #L017_Constructionism, #L026_Problem_Based_Learning, #L028_Cognitive_Apprenticeship, #L011_Cognitive_Load_Theory, #L013_Social_Learning_Theory
+- **Formal Operators:** β, σ, ρ, δγ, λ
+- **Dim Operators:** Ψ_inquiry, Ψ_questioning, Ψ_investigation, Ψ_evidence
+- **Coord Ontology:** I (inquirer), It (phenomenon/question), We (community of investigators), Its (knowledge constructed)
+
+## Source
+
+Derived from:
+- Dewey, J. (1910). *How we think*. D.C. Heath.
+- Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21-32.
+- Bybee, R. W. (1997). Achieving scientific literacy: From purposes to practices. Heinemann.
+- National Research Council. (2000). *Inquiry and the national science education standards*. National Academy Press.
+- Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. *Review of Educational Research*, 82(3), 300-329.
+- Pedaste, M., et al. (2015). Phases of inquiry-based learning: Definitions and the inquiry cycle. *Educational Research Review*, 14, 47-61.
+
+Original context: Science education, progressive education, constructivist pedagogy
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Wood-Air/β-σ (primary) with Water/ρ, Earth/δγ, Fire/λ support | Daemon: Biota-Aerunik-Aquanik-Terroir-Ignisid | Habitat: 3_INQUIRY / 4_SENSE-MAKING / 5_CONSTRUCTION
+
+## Related Entries
+
+- L034_Discovery_Learning (Bruner's individual hypothesis testing)
+- L017_Constructionism (learning through making)
+- L026_Problem_Based_Learning (authentic problem-driven learning)
+- L028_Cognitive_Apprenticeship (scaffolded authentic inquiry)
+- L011_Cognitive_Load_Theory (scaffolding to manage cognitive demands)
+- L013_Social_Learning_Theory (collaborative investigation)
+- L022_Sociocultural_Theory (social context of inquiry)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L035 | Generated: 2026-02-27 17:15*
