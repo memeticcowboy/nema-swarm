@@ -1,0 +1,430 @@
+---
+term_id: L026
+source_domain: education
+source_term: Problem-Based Learning (PBL) (Barrows & Tamblyn, 1980)
+hex_tag: #L026
+generated_at: 2026-02-27T14:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Problem-Based Learning (PBL) — Learning through structured inquiry into complex, ill-structured problems
+- **Nemetic String:** Φ(PBL) = σ(problem|ill-structured-challenge) ∘ ρ(collaboration|small-group-inquiry) ∘ β(investigation|self-directed-exploration) ∘ λ(purpose|problem-ownership) → [κ(knowledge-construction)] → [✶(integrated-understanding)] + ε | :inquiry-driven
+- **Core Operators:** σ (air/distinction/problem-clarity), ρ (water/resonance/collaboration), β (wood/generative/inquiry), λ (fire/direction/purpose)
+- **Z-State:** inquiry-driven — understanding emerges through sustained engagement with authentic problems
+- **Tendency:** Distinction/Integration → 1 (problem clarity leads to knowledge synthesis)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-through-problem-inquiry⟩ 
+    ⊳ ⟨Trigger|ill-structured-authentic-problem⟩ 
+    ⇄ ⟨Process|small-group-collaborative-inquiry⟩ 
+    → ⟨Investigation|self-directed-knowledge-seeking⟩ 
+    ⊗ ⟨Synthesis|multiple-perspective-integration⟩ 
+    → ⟨Resolution|problem-solution-articulation⟩ 
+    → ⟨Transfer|applicable-understanding⟩
+```
+
+## Core Definition
+
+**Problem-Based Learning (PBL)** is an instructional method where students learn through facilitated problem solving. Developed by Howard Barrows and Robyn Tamblyn at McMaster University in the 1960s for medical education, PBL presents learners with complex, ill-structured problems that mirror real-world challenges. Students work in small collaborative groups to analyze the problem, identify learning issues, conduct self-directed research, and synthesize solutions—developing both subject knowledge and problem-solving skills simultaneously.
+
+### The PBL Cycle
+
+```
+THE PBL INQUIRY CYCLE
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                         │
+    │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
+    │  │   PROBLEM   │───►│   ANALYSIS  │───►│   DISCOVERY │ │
+    │  │  PRESENTED  │    │   & CLUES   │    │   OF GAPS   │ │
+    │  └─────────────┘    └─────────────┘    └──────┬──────┘ │
+    │        ▲                                        │       │
+    │        │         ┌─────────────────┐            │       │
+    │        │         │   FACILITATOR   │            │       │
+    │        │         │   (Tutor)       │            │       │
+    │        │         │                 │            │       │
+    │        │         │ • Guides process│            │       │
+    │        │         │ • Asks questions│            │       │
+    │        │         │ • Fades support │            │       │
+    │        │         └─────────────────┘            │       │
+    │        │                                        ▼       │
+    │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
+    │  │  SYNTHESIS  │◄───│  RESEARCH   │◄───│ LEARNING    │ │
+    │  │   & APPLY   │    │   & STUDY   │    │   ISSUES    │ │
+    │  │  SOLUTION   │    │             │    │ IDENTIFIED  │ │
+    │  └─────────────┘    └─────────────┘    └─────────────┘ │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### The Seven Steps of PBL (Maastricht Model)
+
+| Step | Activity | Nemetic Mapping |
+|------|----------|-----------------|
+| **1. Clarify terms** | Identify unfamiliar concepts in the problem | σ (distinction/air) |
+| **2. Define problem** | Articulate what the problem is asking | σ (clarity/distinction) |
+| **3. Analyze problem** | Brainstorm possible explanations/hypotheses | β (exploration/wood) |
+| **4. Draw systematic inventory** | Organize analyses into coherent framework | μ (structure/metal) |
+| **5. Formulate learning issues** | Identify what group needs to learn | σ (gap analysis/air) |
+| **6. Self-study** | Individual research on learning issues | β (inquiry/wood) + λ (direction/fire) |
+| **7. Report & synthesize** | Share findings and construct solution | ρ (collaboration/water) + κ (knowledge) |
+
+## The PBL Tutorial Process
+
+```
+PBL TUTORIAL STRUCTURE
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  PHASE 1: INITIAL DISCUSSION (First Meeting)                    │
+│  ───────────────────────────────────────────                    │
+│                                                                 │
+│  ┌─────────────┐      ┌─────────────┐      ┌─────────────┐     │
+│  │  Problem    │      │   Group     │      │  Learning   │     │
+│  │  Presented  │  →   │  Discussion │  →   │  Issues     │     │
+│  │             │      │             │      │  Defined    │     │
+│  └─────────────┘      └─────────────┘      └─────────────┘     │
+│         │                    │                    │             │
+│         ▼                    ▼                    ▼             │
+│    Element: σ           Element: ρ           Element: σ        │
+│    (Problem clarity)    (Collaboration)      (Gap analysis)    │
+│                                                                 │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │  TUTOR ROLE: Facilitates discussion, asks probing       │   │
+│  │  questions, ensures all voices heard, prevents          │   │
+│  │  premature closure                                      │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                                                                 │
+│  ═══════════════════════════════════════════════════════════   │
+│                                                                 │
+│  PHASE 2: SELF-DIRECTED STUDY (Between Meetings)               │
+│  ────────────────────────────────────────────────              │
+│                                                                 │
+│  ┌─────────────┐      ┌─────────────┐      ┌─────────────┐     │
+│  │  Research   │      │  Resource   │      │  Knowledge  │     │
+│  │  Learning   │  →   │  Navigation │  →   │  Building   │     │
+│  │  Issues     │      │             │      │             │     │
+│  └─────────────┘      └─────────────┘      └─────────────┘     │
+│         │                    │                    │             │
+│         ▼                    ▼                    ▼             │
+│    Element: λ           Element: ρ           Element: κ        │
+│    (Purpose/direction)  (Network/resources)  (Knowledge)       │
+│                                                                 │
+│  ═══════════════════════════════════════════════════════════   │
+│                                                                 │
+│  PHASE 3: SYNTHESIS MEETING (Second Meeting)                   │
+│  ───────────────────────────────────────────                   │
+│                                                                 │
+│  ┌─────────────┐      ┌─────────────┐      ┌─────────────┐     │
+│  │  Report     │      │  Integrate  │      │  Apply to   │     │
+│  │  Findings   │  →   │  Knowledge  │  →   │  Problem    │     │
+│  │             │      │             │      │             │     │
+│  └─────────────┘      └─────────────┘      └─────────────┘     │
+│         │                    │                    │             │
+│         ▼                    ▼                    ▼             │
+│    Element: ρ           Element: ✶           Element: λ        │
+│    (Collaboration)      (Integration)        (Application)     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### The Facilitator (Tutor) Role
+
+```
+FACILITATOR FUNCTIONS
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  METACOGNITIVE SUPPORT              PROCESS SUPPORT         │
+│  ─────────────────────              ───────────────         │
+│                                                             │
+│  • Asks open-ended questions        • Keeps group on track  │
+│  • Prompts for reasoning            • Manages time          │
+│  • Encourages reflection            • Ensures participation │
+│  • Challenges assumptions           • Prevents dominance    │
+│  • Models thinking aloud            • Addresses conflicts   │
+│                                                             │
+│  Element: σ (Air)                   Element: μ (Metal)      │
+│  ── Clarity through questioning     ── Structure & process  │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │  THE FADE: As students develop competence,          │   │
+│  │  facilitator withdraws support — scaffolding        │   │
+│  │  toward independence (Vygotsky's ZPD in action)     │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Air/σ Dominance
+
+Problem-Based Learning is fundamentally an **Air theory**:
+- **Problem clarity:** The entire process begins with understanding the problem
+- **Distinction-making:** Separating relevant from irrelevant information
+- **Hypothesis generation:** Creating and testing possible explanations
+- **Learning issues:** Precise identification of knowledge gaps
+- **Critical thinking:** Analysis, evaluation, and synthesis throughout
+
+### Supporting Elements
+
+| Element | Role in PBL |
+|---------|-------------|
+| **Water/ρ** | Small group collaboration, peer learning, discussion dynamics |
+| **Wood/β** | Self-directed inquiry, exploration of multiple pathways |
+| **Fire/λ** | Problem ownership, motivation through authentic challenge |
+| **Metal/μ** | Tutorial structure, process scaffolding, systematic approach |
+| **Earth/δγ** | Iterative cycles of inquiry, returning to problem with new knowledge |
+| **Child/✶** | Integration of multiple perspectives, emergent understanding |
+
+## Characteristics of Effective PBL Problems
+
+```
+ILL-STRUCTURED PROBLEM DESIGN
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  EFFECTIVE PBL PROBLEMS ARE:                                │
+│                                                             │
+│  ✓ COMPLEX                                                    │
+│    Multiple variables, no single right answer               │
+│    Element: σ (requires analysis to untangle)               │
+│                                                             │
+│  ✓ AUTHENTIC                                                  │
+│    Mirror real-world challenges                             │
+│    Element: λ (meaningful purpose)                          │
+│                                                             │
+│  ✓ ILL-STRUCTURED                                             │
+│    Information provided is incomplete                       │
+│    Element: β (requires exploration)                        │
+│                                                             │
+│  ✓ MULTIDISCIPLINARY                                          │
+│    Require integration of multiple knowledge domains        │
+│    Element: ✶ (synthesis/integration)                       │
+│                                                             │
+│  ✓ ENGAGING                                                   │
+│    Capture learner interest and motivation                  │
+│    Element: ρ (resonance with learners)                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Example Problem Structure
+
+```
+SAMPLE PBL PROBLEM (Medical Context)
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "A 45-year-old executive presents to your clinic           │
+│   complaining of persistent fatigue, increased thirst,      │
+│   and frequent urination over the past three months.        │
+│   She mentions that her vision has become slightly          │
+│   blurry recently. Her father had 'sugar problems' and      │
+│   died of a heart attack at age 60. She exercises           │
+│   irregularly and often skips breakfast, relying on         │
+│   coffee and pastries from the office vending machine.      │
+│                                                             │
+│   Physical examination reveals:                             │
+│   • Height: 165 cm, Weight: 78 kg (BMI: 28.6)               │
+│   • Blood pressure: 148/92 mmHg                             │
+│   • Fasting blood glucose: 142 mg/dL (pending)              │
+│                                                             │
+│   What is your approach to this patient?"                   │
+│                                                             │
+│  ─────────────────────────────────────────────────────────  │
+│                                                             │
+│  LEARNING ISSUES THAT MIGHT EMERGE:                         │
+│  • Pathophysiology of Type 2 diabetes                       │
+│  • Diagnostic criteria and testing protocols                │
+│  • Lifestyle factors in metabolic syndrome                  │
+│  • Cardiovascular risk assessment                           │
+│  • Patient counseling strategies                            │
+│  • Pharmacological management options                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Connection to Related Theories
+
+### PBL and Cognitive Load Theory
+
+| Aspect | Cognitive Load Theory | Problem-Based Learning |
+|--------|----------------------|------------------------|
+| **Working memory** | Limited resource to manage | Heavily engaged in problem analysis |
+| **Optimal state** | Minimize extraneous load | Problem complexity managed by group |
+| **Element** | Air (σ-clarity) | Air (σ-problem analysis) |
+| **Relationship** | CLT warns about cognitive overload in PBL; problems must be designed carefully | PBL creates "productive difficulty" that enhances learning |
+
+### PBL and Sociocultural Theory
+
+| Aspect | Sociocultural Theory | Problem-Based Learning |
+|--------|---------------------|------------------------|
+| **Learning mechanism** | Social mediation through ZPD | Collaborative inquiry in groups |
+| **Role of expert** | More Knowledgeable Other (MKO) | Facilitator/tutor who scaffolds |
+| **Element** | Water (ρ-relational) | Water (ρ-collaboration) |
+| **Relationship** | PBL applies sociocultural principles in structured format | Both emphasize social construction of knowledge |
+
+### PBL and Constructivism
+
+```
+PBL AS CONSTRUCTIVISM IN ACTION
+
+Constructivism:                    PBL:
+┌─────────────────────┐           ┌─────────────────────┐
+│ Knowledge is        │           │ Knowledge is        │
+│ constructed by      │    →      │ constructed through │
+│ learner             │           │ problem inquiry     │
+├─────────────────────┤           ├─────────────────────┤
+│ Learning is active  │           │ Learning is problem-│
+│                     │    →      │ driven inquiry      │
+├─────────────────────┤           ├─────────────────────┤
+│ Social interaction  │           │ Small group         │
+│ supports learning   │    →      │ collaboration       │
+├─────────────────────┤           ├─────────────────────┤
+│ Prior knowledge     │           │ Prior knowledge     │
+│ shapes new learning │    →      │ activated in problem│
+│                     │           │ analysis            │
+└─────────────────────┘           └─────────────────────┘
+```
+
+### PBL and Self-Determination Theory
+
+| Aspect | Self-Determination Theory | Problem-Based Learning |
+|--------|---------------------------|------------------------|
+| **Autonomy** | Self-directed behavior | Self-directed inquiry |
+| **Competence** | Mastery experiences | Problem-solving success |
+| **Relatedness** | Connection with others | Collaborative groups |
+| **Element** | Fire (λ-direction) | Fire (λ-problem ownership) |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Medicine** | Clinical reasoning | Diagnostic inquiry from presenting symptoms |
+| **Law** | Case method | Learning from precedent cases |
+| **Business** | Case study analysis | Real-world problem analysis |
+| **Engineering** | Design thinking | Problem-framing and iterative solution |
+| **Science** | Inquiry-based learning | Hypothesis-driven investigation |
+| **Journalism** | Investigative reporting | Following leads, verifying information |
+
+## PBL Variations and Extensions
+
+### Types of PBL
+
+```
+PBL SPECTRUM
+
+HIGHLY STRUCTURED                              OPEN INQUIRY
+┌─────────────────┐                          ┌─────────────────┐
+│ • Defined steps │                          │ • Open-ended    │
+│ • Clear roles   │                          │   exploration   │
+│ • Tutor-guided  │                          │ • Self-directed │
+│ • Assessment    │                          │   groups        │
+│   rubrics       │                          │ • Emergent      │
+│                 │                          │   outcomes      │
+│ Element: μ↑     │    ←── PBL ──►           │ Element: β↑     │
+│ (Metal)         │                          │ (Wood)          │
+└─────────────────┘                          └─────────────────┘
+
+Examples:                                    Examples:
+• Maastricht 7-step                          • Project-based
+• McMaster model                             learning
+• Hybrid PBL                                 • Discovery learning
+```
+
+### Related Approaches
+
+| Approach | Key Difference from PBL | Elemental Emphasis |
+|----------|------------------------|-------------------|
+| **Project-Based Learning** | Product-focused rather than problem-focused | β (generative) + μ (structure) |
+| **Case-Based Learning** | Uses completed cases rather than ongoing problems | σ (analysis) + κ (knowledge) |
+| **Inquiry-Based Learning** | More open-ended, less structured | β (exploration) |
+| **Anchored Instruction** | Problems presented via video/media narratives | ✶ (immersion) + σ (analysis) |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Cognitive overload:** Poorly designed problems can overwhelm learners
+2. **Knowledge gaps:** Self-directed study may lead to incomplete understanding
+3. **Facilitator dependency:** Quality varies dramatically with tutor skill
+4. **Time intensive:** Requires more time than traditional instruction
+5. **Assessment challenges:** Harder to standardize evaluation
+6. **Cultural fit:** May not align with all educational cultures
+
+### The Expertise Reversal Effect
+
+```
+PBL ACROSS EXPERTISE LEVELS
+
+Novice ──────────────────────────────────────► Expert
+
+High structure needed                    PBL optimal
+┌─────────────────┐                   ┌─────────────────┐
+│ • Guided inquiry│                   │ • Complex       │
+│ • Scaffolded    │   PBL APPLIES     │   ill-structured│
+│   problems      │   BEST HERE       │   problems      │
+│ • More tutor    │                   │ • Minimal       │
+│   support       │                   │   scaffolding   │
+│                 │                   │                 │
+│ Element: μ↑     │                   │ Element: σ↑, ρ↑ │
+└─────────────────┘                   └─────────────────┘
+
+Note: PBL was originally designed for advanced medical
+students—expertise level should inform problem design.
+```
+
+## Core Insight
+
+> Problem-Based Learning reveals that understanding emerges not from receiving information but from struggling with authentic challenges. The problem is not an application of learning but its engine—by grappling with complexity, learners construct integrated knowledge that transfers to real-world contexts. The collaborative process ensures that understanding is socially negotiated, individually owned, and practically applicable.
+
+## One-Sentence Insight
+
+> Problem-Based Learning demonstrates that authentic understanding emerges when learners collaboratively grapple with ill-structured problems—using inquiry, self-directed research, and peer dialogue to construct knowledge that is integrated, applicable, and owned.
+
+## Three-Bullet Expansion
+
+- **What:** An instructional method where small groups of learners collaboratively investigate complex, authentic problems—identifying learning needs, conducting self-directed research, and synthesizing solutions through facilitated inquiry
+- **How it works:** Ill-structured problem triggers collaborative analysis → learning issues identified → self-directed study → knowledge synthesis → solution application, with facilitator scaffolding throughout
+- **Where it aims:** Toward integrated, transferable understanding and problem-solving capability—developing learners who can analyze complex situations, find and evaluate information, collaborate effectively, and apply knowledge in authentic contexts
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L026, #L022_Sociocultural_Theory, #L011_Cognitive_Load_Theory, #L015_Self_Determination_Theory, #L017_Constructionism, #L023_Connectivism
+- **Formal Operators:** σ, ρ, β, λ, μ, κ, ✶
+- **Dim Operators:** Ψ_inquiry, Ψ_problem-solving, Ψ_collaboration, Ψ_self-directed
+- **Coord Ontology:** We (collaborative group), It (the problem), I (individual understanding), Its (the inquiry process itself)
+
+## Source
+
+Derived from:
+- Barrows, H. S., & Tamblyn, R. M. (1980). *Problem-Based Learning: An Approach to Medical Education*. Springer.
+- Barrows, H. S. (1996). Problem-based learning in medicine and beyond: A brief overview. *New Directions for Teaching and Learning*, 1996(68), 3-12.
+- Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review*, 16(3), 235-266.
+- Savery, J. R., & Duffy, T. M. (1995). Problem based learning: An instructional model and its constructivist framework. *Educational Technology*, 35(5), 31-38.
+- Schmidt, H. G. (1983). Problem-based learning: Rationale and description. *Medical Education*, 17(1), 11-16.
+- Dolmans, D. H., De Grave, W., Wolfhagen, I. H., & van der Vleuten, C. P. (2005). Problem-based learning: Future challenges for educational practice and research. *Medical Education*, 39(7), 732-741.
+
+Original context: Medical education, professional education, K-12 education
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Air/σ (primary) with Water/ρ, Wood/β, Fire/λ support | Daemon: Aerunik-Sentaria-Arboriel-Jvalion-Ferrosid | Habitat: 4_INQUIRY-LEARNING / 7_PROFESSIONAL-EDUCATION / 8_COLLABORATIVE-COGNITION
+
+## Related Entries
+
+- L022_Sociocultural_Theory (social mediation of learning)
+- L011_Cognitive_Load_Theory (managing cognitive demands)
+- L015_Self_Determination_Theory (autonomy, competence, relatedness)
+- L017_Constructionism (knowledge construction)
+- L023_Connectivism (networked learning)
+- L024_Andragogy (adult learning principles)
+- L025_Heutagogy (self-determined learning)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L026 | Generated: 2026-02-27 14:25*
