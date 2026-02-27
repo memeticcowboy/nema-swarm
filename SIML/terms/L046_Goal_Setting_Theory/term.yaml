@@ -1,0 +1,523 @@
+---
+term_id: L046
+source_domain: education
+source_term: Goal-Setting Theory (Locke & Latham, 1990)
+hex_tag: #L046
+generated_at: 2026-02-27T20:05:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Goal-Setting Theory — Achievement motivation through specific, challenging goals with feedback
+- **Nemetic String:** Φ(Goal_Setting) = λ(goal|specific-challenging) ∘ μ(commitment|structure) ∘ σ(feedback|distinction) ∘ ρ(self-efficacy|resonance) → [β(performance)] → [✶(satisfaction)] + ε | :motivational
+- **Core Operators:** λ (fire/direction), μ (metal/structure), σ (air/distinction), ρ (water/resonance)
+- **Z-State:** goal-directed — action emerges from goal-commitment
+- **Tendency:** Direction/Purpose → 1 (motivated performance)
+
+## SIML Encoding
+
+```
+⟨Narrative|achievement-through-goal-directed-behavior⟩ 
+    ⊳ ⟨Constraint|specific×challenging=performance⟩ 
+    ⊳ ⟨Constraint|feedback-loops-required⟩ 
+    ⇄ ⟨Process|goal-acceptance⟩ 
+    ⇄ ⟨Process|goal-commitment-formation⟩ 
+    → ⟨State|goal-directed-effort⟩ 
+    ⊗ ⟨Outcome|performance-achievement⟩ 
+    → ⟨Transfer|persistence⟩ 
+    → ⟨Transformation|self-efficacy-growth⟩
+```
+
+## Core Definition
+
+**Goal-Setting Theory**, developed by Edwin Locke and Gary Latham (1990), proposes that **specific and challenging goals** lead to higher performance than easy goals, vague goals, or no goals at all. The theory identifies the mechanisms by which goals affect performance and the moderating conditions that influence goal effectiveness. It is one of the most robust and practical theories of motivation in organizational and educational psychology.
+
+### The Goal-Setting Performance System
+
+```
+GOAL-SETTING PERFORMANCE SYSTEM
+│
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  CORE MECHANISM: GOALS → DIRECT ATTENTION → EFFORT → PERSISTENCE   │
+│                                                                     │
+│  ┌─────────────────────────────────────────────────────────────┐   │
+│  │                    GOAL CHARACTERISTICS                     │   │
+│  │  ┌───────────────┐    ┌───────────────┐    ┌─────────────┐ │   │
+│  │  │   SPECIFIC    │    │  CHALLENGING  │    │  DIFFICULT  │ │   │
+│  │  │               │    │               │    │             │ │   │
+│  │  │ "Increase by  │    │ Stretching    │    │ Hard but    │ │   │
+│  │  │  20%"         │    │ but possible  │    │ achievable  │ │   │
+│  │  │               │    │               │    │             │ │   │
+│  │  │ Element: σ    │    │ Element: λ    │    │ Element: λ  │ │   │
+│  │  │ (Air) — clear │    │ (Fire) —      │    │ (Fire) —    │ │   │
+│  │  │ distinction   │    │ direction     │    │ challenge   │ │   │
+│  │  └───────┬───────┘    └───────┬───────┘    └─────┬───────┘ │   │
+│  │          │                    │                  │         │   │
+│  │          └────────────────────┼──────────────────┘         │   │
+│  │                               │                            │   │
+│  │                               ▼                            │   │
+│  │  ┌─────────────────────────────────────────────────────┐  │   │
+│  │  │              GOAL MECHANISMS                        │  │   │
+│  │  │                                                     │  │   │
+│  │  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐ │  │   │
+│  │  │  │  DIRECTS    │  │   ENERGIZES │  │  PROLONGS   │ │  │   │
+│  │  │  │  ATTENTION  │  │    EFFORT   │  │  PERSISTENCE│ │  │   │
+│  │  │  │             │  │             │  │             │ │  │   │
+│  │  │  │ Focus on    │  │ Intensity   │  │ Duration    │ │  │   │
+│  │  │  │ goal-       │  │ of effort   │  │ of effort   │ │  │   │
+│  │  │  │ relevant    │  │             │  │             │ │  │   │
+│  │  │  │ activities  │  │             │  │             │ │  │   │
+│  │  │  │             │  │             │  │             │ │  │   │
+│  │  │  │ Element: λ  │  │ Element: λ  │  │ Element: β  │ │  │   │
+│  │  │  │ (Fire) —    │  │ (Fire) —    │  │ (Wood) —    │ │  │   │
+│  │  │  │ direction   │  │ energy      │  │ persistence │ │  │   │
+│  │  │  └──────┬──────┘  └──────┬──────┘  └──────┬──────┘ │  │   │
+│  │  │         └─────────────────┴─────────────────┘       │  │   │
+│  │  │                           │                         │  │   │
+│  │  │                           ▼                         │  │   │
+│  │  │              ┌─────────────────────┐                │  │   │
+│  │  │              │   TASK STRATEGY     │                │  │   │
+│  │  │              │   DEVELOPMENT       │                │  │   │
+│  │  │              │                     │                │  │   │
+│  │  │              │ "How will I         │                │  │   │
+│  │  │              │  achieve this?"     │                │  │   │
+│  │  │              │                     │                │  │   │
+│  │  │              │ Element: μ (Metal)  │                │  │   │
+│  │  │              │ — structure/plan    │                │  │   │
+│  │  │              └──────────┬──────────┘                │  │   │
+│  │  └─────────────────────────┼───────────────────────────┘  │   │
+│  │                            │                              │   │
+│  └────────────────────────────┼──────────────────────────────┘   │
+│                               │                                  │
+│                               ▼                                  │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │                    PERFORMANCE                              │ │
+│  │                                                             │ │
+│  │    High Specificity + High Challenge = High Performance    │ │
+│  │                                                             │ │
+│  └─────────────────────────────┬───────────────────────────────┘ │
+│                                │                                 │
+│                                ▼                                 │
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │  FEEDBACK LOOP                                              │ │
+│  │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐     │ │
+│  │  │   FEEDBACK  │ →  │  SELF-      │ →  │  GOAL       │     │ │
+│  │  │             │    │  EFFICACY   │    │  REVISION   │     │ │
+│  │  │ Progress    │    │ Beliefs     │    │ or New Goal │     │ │
+│  │  │ information │    │             │    │             │     │ │
+│  │  │             │    │             │    │             │     │ │
+│  │  │ Element: σ  │    │ Element: ρ  │    │ Element: λ  │     │ │
+│  │  │ (Air) —     │    │ (Water) —   │    │ (Fire) —    │     │ │
+│  │  │ clarity     │    │ confidence  │    │ direction   │     │ │
+│  │  └─────────────┘    └─────────────┘    └─────────────┘     │ │
+│  └─────────────────────────────────────────────────────────────┘ │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+## The Four Core Mechanisms
+
+| Mechanism | Function | Element | Description |
+|-----------|----------|---------|-------------|
+| **Directs Attention** | Focuses attention on goal-relevant activities | λ (Fire) | Goals tell us what to pay attention to and what to ignore |
+| **Energizes Effort** | Increases intensity of effort | λ (Fire) | Harder goals produce greater effort than easy goals |
+| **Prolongs Persistence** | Extends duration of effort | β (Wood) | Goals sustain effort over time despite obstacles |
+| **Promotes Strategy** | Encourages development of strategies | μ (Metal) | Goals activate knowledge and planning |
+
+## The Goal-Setting Matrix
+
+```
+                    GOAL DIFFICULTY
+                    Easy          Moderate          Difficult
+              ┌─────────────┬─────────────┬─────────────┐
+    Vague     │   LOW       │   LOW-      │   MODERATE  │
+              │  Performance│   MODERATE  │   (risk of  │
+              │             │             │   failure)  │
+              │ "Do your    │ "Try hard"  │ "Do your   │
+SPECIFICITY   │  best"      │             │  best"      │
+              ├─────────────┼─────────────┼─────────────┤
+    Specific  │  MODERATE   │   HIGH      │   HIGHEST   │
+              │  Performance│  Performance│  Performance│
+              │             │             │             │
+              │ "Complete 5 │ "Complete 10│ "Complete 15│
+              │  problems"  │  problems"  │  problems"  │
+              └─────────────┴─────────────┴─────────────┘
+```
+
+## Moderating Conditions
+
+### Goal Commitment
+
+```
+GOAL COMMITMENT FACTORS
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  HIGH COMMITMENT                    LOW COMMITMENT          │
+│  ───────────────                    ──────────────          │
+│                                                             │
+│  • Public commitment               • Private goals          │
+│  • Internal locus of control       • External pressure      │
+│  • High self-efficacy              • Low self-efficacy      │
+│  • Goal importance                 • Goal seen as trivial   │
+│  • Participative goal-setting      • Assigned goals         │
+│  • Clear feedback                  • No feedback            │
+│                                                             │
+│  Element: ρ (Water) — resonance  vs.  dissonance            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Feedback Requirements
+
+```
+FEEDBACK LOOP DYNAMICS
+
+    ┌──────────────┐
+    │    GOAL      │
+    │  (Standard)  │
+    └──────┬───────┘
+           │
+           ▼
+    ┌──────────────┐
+    │   ACTION     │
+    │  (Effort)    │
+    └──────┬───────┘
+           │
+           ▼
+    ┌──────────────┐     ┌──────────────┐
+    │  PERFORMANCE │────▶│   FEEDBACK   │
+    │   (Result)   │     │  (Comparison │
+    └──────────────┘     │   to Goal)   │
+                         └──────┬───────┘
+                                │
+                    ┌───────────┼───────────┐
+                    ▼           ▼           ▼
+              ┌────────┐  ┌────────┐  ┌────────┐
+              │Discrep-│  │  Goal  │  │Discrep-│
+              │ancy:   │  │Achieved│  │ancy:   │
+              │Below   │  │        │  │Above   │
+              │Goal    │  │        │  │Goal    │
+              └────┬───┘  └────┬───┘  └────┬───┘
+                   │           │           │
+                   ▼           ▼           ▼
+              ┌────────┐  ┌────────┐  ┌────────┐
+              │Increase│  │Set New │  │Maintain│
+              │Effort  │  │Goal    │  │or Raise│
+              │or Change│ │        │  │Goal    │
+              │Strategy│  │        │  │        │
+              └────────┘  └────────┘  └────────┘
+```
+
+## Types of Goals
+
+### Learning vs. Performance Goals
+
+```
+GOAL ORIENTATION TYPES
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  LEARNING GOALS (Mastery)        PERFORMANCE GOALS         │
+│  ────────────────────────        ────────────────          │
+│                                                             │
+│  "Learn to solve these          "Demonstrate that I'm      │
+│   problems"                      competent"                │
+│                                                             │
+│  Element: β (Wood) — growth     Element: σ (Air) —         │
+│           through learning               evaluation         │
+│                                                             │
+│  • Focus on skill development   • Focus on outcome/result   │
+│  • Embrace challenge            • Avoid challenge if risk   │
+│  • Persist through difficulty   • Withdraw if failure likely│
+│  • See effort as positive       • See effort as lack of    │
+│    (path to mastery)              ability                   │
+│  • Learn from errors            • Hide errors               │
+│                                                             │
+│  Best for: Complex tasks,       Best for: Simple tasks,    │
+│  new skills, low confidence     high confidence,            │
+│                                 familiar tasks              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Approach vs. Avoidance Goals
+
+| Type | Focus | Example | Element |
+|------|-------|---------|---------|
+| **Approach** | Moving toward positive outcome | "Get an A" | λ (Fire) — positive direction |
+| **Avoidance** | Moving away from negative outcome | "Don't fail" | σ (Air) — threat distinction |
+
+Approach goals generally produce better outcomes than avoidance goals.
+
+## Elemental Pattern Analysis
+
+### Fire/λ Dominance
+
+Goal-Setting Theory is fundamentally a **Fire theory**:
+- **Directional purpose:** Goals provide clear direction for action
+- **Energy activation:** Goals energize effort proportional to difficulty
+- **Achievement striving:** The theory explains the fire of goal pursuit
+- **Commitment as fuel:** Goal commitment sustains the flame of effort
+
+### Supporting Elements
+
+| Element | Role in Goal-Setting Theory |
+|---------|-----------------------------|
+| **Metal/μ** | Task strategy development, structured planning, goal hierarchy |
+| **Air/σ** | Specificity of goals, feedback clarity, progress monitoring |
+| **Water/ρ** | Goal commitment, self-efficacy beliefs, emotional investment |
+| **Wood/β** | Persistence over time, strategy adaptation, growth orientation |
+| **Earth/δγ** | Temporal pacing, resource management, sustainable effort |
+| **Child/✶** | Intrinsic satisfaction from goal achievement |
+
+## Connection to Related Theories
+
+### Goal-Setting and Expectancy-Value Theory (L045)
+
+| Aspect | Expectancy-Value Theory | Goal-Setting Theory |
+|--------|------------------------|---------------------|
+| **Core mechanism** | E × V = Motivation | Specific, challenging goals → Performance |
+| **Time orientation** | Anticipation of outcomes | Present goal-directed behavior |
+| **Element** | Multiple elements | Fire (λ) primary |
+| **Integration** | Goals increase value; expectancy affects commitment | Goals channel motivation into action |
+
+**Recursive relationship:**
+```
+High Expectancy + High Value
+           ↓
+    Goal Acceptance
+           ↓
+    Goal Commitment
+           ↓
+    Specific, Challenging Goal
+           ↓
+    Directed Effort → Performance
+           ↓
+    Success → ↑Expectancy → New Goal
+```
+
+### Goal-Setting and Self-Determination Theory (L015)
+
+| Aspect | Self-Determination Theory | Goal-Setting Theory |
+|--------|--------------------------|---------------------|
+| **Core concept** | Basic psychological needs | Goal characteristics |
+| **Autonomy** | Need for self-direction | Autonomous goals more effective |
+| **Element** | Fire (λ) — intrinsic direction | Fire (λ) — goal direction |
+| **Complement** | SDT explains why goals matter | Goal-setting explains how to structure goals |
+
+**Integration:**
+- Autonomy-supportive goal setting increases commitment
+- Competence need ↔ Challenging but achievable goals
+- Relatedness need ↔ Shared/group goals
+
+### Goal-Setting and Attribution Theory (L044)
+
+| Aspect | Attribution Theory | Goal-Setting Theory |
+|--------|-------------------|---------------------|
+| **Focus** | Explaining past outcomes | Directing future behavior |
+| **Feedback role** | Shapes attributions | Enables goal progress monitoring |
+| **Element** | Air (σ) — explanation | Fire (λ) — direction |
+| **Relationship** | Attributions affect goal commitment | Goal progress affects future attributions |
+
+## Practical Applications
+
+### SMART Goals Framework
+
+```
+SMART GOALS CRITERIA
+
+S - Specific (σ - Air)
+    "What exactly will be accomplished?"
+    
+M - Measurable (σ - Air)
+    "How will we know when it's done?"
+    
+A - Achievable/Attainable (λ - Fire + ρ - Water)
+    "Is this challenging but possible?"
+    
+R - Relevant (ρ - Water)
+    "Does this matter? Is it important?"
+    
+T - Time-bound (δγ - Earth)
+    "When will this be completed?"
+```
+
+### Goal-Setting in Education
+
+```
+EDUCATIONAL APPLICATIONS
+
+1. LEARNING OBJECTIVES (σ - Air)
+   • Specific, observable outcomes
+   • "Students will be able to..."
+   • Clear success criteria
+
+2. SCAFFOLDED CHALLENGES (λ - Fire + β - Wood)
+   • Progressive difficulty
+   • Zone of proximal development
+   • Build confidence through success
+
+3. FEEDBACK SYSTEMS (σ - Air)
+   • Frequent, specific feedback
+   • Progress monitoring tools
+   • Self-assessment opportunities
+
+4. GOAL COMMITMENT (ρ - Water)
+   • Student participation in goal-setting
+   • Public goal declaration
+   • Connection to personal values
+
+5. STRATEGY INSTRUCTION (μ - Metal)
+   • Teach metacognitive strategies
+   • Model planning and monitoring
+   • Reflect on goal progress
+```
+
+### The Goal-Setting Cycle
+
+```
+         ┌─────────────────┐
+         │   REFLECT ON    │
+         │    OUTCOMES     │
+         │   (κ - Knowledge)│
+         └────────┬────────┘
+                  │
+                  ▼
+    ┌─────────────────────────────┐
+    │      SET NEW GOAL           │
+    │   (λ - Fire/Direction)      │
+    │                             │
+    │  • Specific and challenging │
+    │  • Aligned with values      │
+    │  • Time-bound               │
+    └─────────────┬───────────────┘
+                  │
+                  ▼
+    ┌─────────────────────────────┐
+    │     DEVELOP STRATEGY        │
+    │    (μ - Metal/Structure)    │
+    │                             │
+    │  • Plan the approach        │
+    │  • Identify resources       │
+    │  • Anticipate obstacles     │
+    └─────────────┬───────────────┘
+                  │
+                  ▼
+    ┌─────────────────────────────┐
+    │    DIRECT EFFORT            │
+    │   (λ - Fire/Energy)         │
+    │                             │
+    │  • Focus attention          │
+    │  • Intensify effort         │
+    │  • Persist through difficulty│
+    └─────────────┬───────────────┘
+                  │
+                  ▼
+    ┌─────────────────────────────┐
+    │     SEEK FEEDBACK           │
+    │    (σ - Air/Distinction)    │
+    │                             │
+    │  • Monitor progress         │
+    │  • Compare to goal          │
+    │  • Adjust strategy          │
+    └─────────────┬───────────────┘
+                  │
+                  ▼
+         ┌─────────────────┐
+         │    ACHIEVE      │
+         │     GOAL        │
+         │   (✶ - Child)   │
+         └─────────────────┘
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Management** | Management by Objectives (MBO) | Specific targets, feedback |
+| **Sports** | Performance targets | Training goals, competition targets |
+| **Health** | Health behavior change | Specific exercise/diet goals |
+| **Therapy** | Behavioral activation | Activity scheduling, goal hierarchies |
+| **Project Management** | Milestones and deliverables | Specific, time-bound objectives |
+| **Self-Help** | "Atomic Habits," "OKRs" | Small, specific behavior goals |
+
+## Core Insight
+
+> Goal-Setting Theory reveals that the mere act of setting specific, challenging goals is a powerful motivational intervention. Goals work by directing attention, energizing effort, prolonging persistence, and promoting strategy development. The theory demonstrates that **what we aim for determines what we achieve** — and that the characteristics of our goals (specificity, difficulty, commitment) are as important as the goals themselves.
+
+## One-Sentence Insight
+
+> Goal-Setting Theory demonstrates that specific, challenging goals consistently outperform vague or easy goals by directing attention, energizing effort, prolonging persistence, and stimulating strategy development—provided there is goal commitment and feedback.
+
+## Three-Bullet Expansion
+
+- **What:** A comprehensive theory of motivation proposing that specific, challenging goals lead to higher performance than easy goals, vague goals, or no goals, through four mechanisms: directing attention, energizing effort, prolonging persistence, and promoting strategy development
+- **How it works:** Goal characteristics (specificity, difficulty) combine with moderating conditions (commitment, feedback, task complexity, self-efficacy) to activate goal mechanisms; these mechanisms transform goal intentions into directed action; performance outcomes feed back to modify self-efficacy and inform future goal-setting
+- **Where it aims:** Toward optimal performance through the systematic application of specific, challenging goals with adequate feedback, appropriate task strategies, and strong goal commitment
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L046, #L045_Expectancy_Value_Theory, #L015_Self_Determination_Theory, #L044_Attribution_Theory, #P001_self_efficacy_theory, #L043_Zone_Proximal_Development
+- **Formal Operators:** λ, μ, σ, ρ, β, δγ, ✶, κ
+- **Dim Operators:** Ψ_motivation, Ψ_performance, Ψ_commitment, Ψ_feedback
+- **Coord Ontology:** I (self as goal-striver), It (goal as target), We (social commitment), Its (organizational goal systems)
+
+## Source
+
+Derived from:
+- Locke, E. A., & Latham, G. P. (1990). A theory of goal setting & task performance. Prentice-Hall.
+- Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist*, 57(9), 705-717.
+- Latham, G. P., & Locke, E. A. (2007). New developments in and directions for goal-setting research. *European Psychologist*, 12(4), 290-300.
+- Locke, E. A., & Latham, G. P. (2019). The development of goal setting theory: A half century retrospective. *Motivation Science*, 5(2), 93-105.
+
+Original context: Organizational psychology, educational psychology, management science
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire/λ (primary) with Metal/μ, Air/σ, Water/ρ, Wood/β support | Daemon: Pyrion-Ferrosid-Aerunik-Aquariel-Arboriel | Habitat: 4_MOTIVATION_DYNAMICS / 6_PERFORMANCE_OPTIMIZATION / 7_ACHIEVEMENT_BEHAVIOR
+
+## Related Entries
+
+- L045_Expectancy_Value_Theory (motivation through expectancy and value)
+- L044_Attribution_Theory (causal explanations affecting goal commitment)
+- L043_Zone_Proximal_Development (appropriate challenge levels)
+- L042_Generative_Learning_Theory (meaning-making and goal pursuit)
+- L041_Schema_Theory (knowledge structures for goal strategies)
+- L040_Multiple_Intelligences (ability diversity and goal types)
+- L039_Activity Theory (activity systems and goal hierarchies)
+- L038_Mastery_Learning (goal of complete mastery)
+- L037_Double_Loop_Learning (questioning goal assumptions)
+- L036_Action_Learning (learning through goal-directed action)
+- L035_Inquiry_Based_Learning (goal of knowledge construction)
+- L034_Discovery_Learning (exploratory goals)
+- L033_Cognitive_Flexibility_Theory (multiple goal perspectives)
+- L032_Multimedia_Learning_Theory (goals for multimedia comprehension)
+- L031_Elaboration_Theory (goal of meaningful connections)
+- L030_Metacognition (monitoring goal progress)
+- L029_Blooms_Taxonomy (learning objectives as goals)
+- L028_Cognitive_Apprenticeship (expert goal modeling)
+- L027_Scaffolding_Theory (support for challenging goals)
+- L026_Problem_Based_Learning (problem-solving goals)
+- L025_Heutagogy (self-determined goal setting)
+- L024_Andragogy (adult learning goals)
+- L023_Connectivism (networked goal pursuit)
+- L022_Sociocultural_Theory (socially mediated goals)
+- L021_Behaviorism (behavioral goals and reinforcement)
+- L020_Flow_Theory (goals enabling optimal experience)
+- L019_Spaced_Repetition (goals for retention)
+- L018_Experiential_Learning (goals for experience-based learning)
+- L017_Constructionism (goals for artifact creation)
+- L016_Transformative_Learning_Theory (goals for perspective change)
+- L015_Self_Determination_Theory (autonomous vs. controlled goals)
+- L014_Situated_Learning (context-specific goals)
+- L013_Social_Learning_Theory (vicarious goal setting)
+- L012_4E_Cognition (embodied goal pursuit)
+- L011_Cognitive_Load_Theory (goals for managing cognitive resources)
+- P003_Dual_Coding_Theory (goals for dual-channel processing)
+- P002_Growth_Mindset (learning goals vs. performance goals)
+- P001_self_efficacy_theory (self-efficacy and goal commitment)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L046 | Generated: 2026-02-27 20:05*
