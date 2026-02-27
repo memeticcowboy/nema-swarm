@@ -1,0 +1,416 @@
+---
+term_id: P007
+source_domain: psychology
+source_term: Emotional Intelligence Theory (Goleman, 1995; Salovey & Mayer, 1990)
+hex_tag: #P007
+generated_at: 2026-02-28T02:32:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Emotional Intelligence Theory — Recognition, understanding, and regulation of emotions for effective learning and relationships
+- **Nemetic String:** Φ(EmotionalIntel) = ρ(emotion-awareness|self-other) ∘ σ(distinction|feeling-thought) ∘ λ(regulation|directional-control) ∘ ✶(integration|harmonic-balance) → [ρ(social-competence)] → [✶(wise-action)] + ε | :attuned
+- **Core Operators:** ρ (water/resonance), σ (air/distinction), λ (fire/direction), ✶ (child/harmony)
+- **Z-State:** attuned — emotionally aware and responsive state enabling effective learning and interaction
+- **Tendency:** Resonance/Direction → 1 (emotional awareness drives adaptive regulation)
+
+## SIML Encoding
+
+```
+⟨Narrative|emotional-awareness⟩ 
+    ⊳ ⟨Constraint|emotions-shape-cognition⟩ 
+    ⇄ ⟨Process|emotion-recognition⟩ 
+    ⇄ ⟨Process|emotional-distinction⟩ 
+    → ⟨Structure|four-branch-model⟩ 
+    ⊗ ⟨Process|emotion-regulation⟩ 
+    → ⟨Outcome|adaptive-behavior⟩ 
+    → ⟨Transfer|social-competence⟩ 
+    ↺ ⟨Spiral|emotional-development⟩ 
+```
+
+## Core Definition
+
+**Emotional Intelligence (EI)** refers to the ability to perceive, understand, manage, and use emotions to facilitate thought and action. First conceptualized by **Salovey and Mayer (1990)** and popularized by **Daniel Goleman (1995)**, EI represents a distinct form of intelligence that complements cognitive ability and significantly impacts learning, relationships, and life success.
+
+### The Four-Branch Model of Emotional Intelligence (Mayer & Salovey)
+
+```
+EMOTIONAL INTELLIGENCE ARCHITECTURE
+
+┌─────────────────────────────────────────────────────────┐
+│  BRANCH 4: EMOTION MANAGEMENT                           │
+│  ═══════════════════════════                            │
+│  Ability to regulate emotions in self and others        │
+│  • Openness to feelings (positive and negative)         │
+│  • Ability to monitor and regulate emotions             │
+│  • Ability to engage or detach from emotion             │
+│  • Ability to manage emotions in relationships          │
+│                                                         │
+│  OUTPUT: Emotional maturity, resilience, influence      │
+└─────────────────────────────────────────────────────────┘
+                           ▲
+                           │
+┌─────────────────────────────────────────────────────────┐
+│  BRANCH 3: EMOTION UNDERSTANDING                        │
+│  ═══════════════════════════════                        │
+│  Ability to understand emotional language and signals   │
+│  • Understanding emotional blends and combinations      │
+│  • Understanding emotional transitions                  │
+│  • Understanding complex feelings                       │
+│  • Understanding how emotions influence behavior        │
+│                                                         │
+│  OUTPUT: Emotional literacy, empathy depth              │
+└─────────────────────────────────────────────────────────┘
+                           ▲
+                           │
+┌─────────────────────────────────────────────────────────┐
+│  BRANCH 2: EMOTION FACILITATION OF THOUGHT              │
+│  ═══════════════════════════════════════════            │
+│  Ability to use emotions to guide thinking              │
+│  • Emotions prioritize attention and thinking           │
+│  • Emotions generate appropriate moods for tasks        │
+│  • Emotional swings enable multiple perspectives        │
+│  • Emotional states facilitate problem-solving          │
+│                                                         │
+│  OUTPUT: Emotional-cognitive integration, creativity    │
+└─────────────────────────────────────────────────────────┘
+                           ▲
+                           │
+┌─────────────────────────────────────────────────────────┐
+│  BRANCH 1: EMOTION PERCEPTION                           │
+│  ═══════════════════════════                            │
+│  Ability to identify emotions in self and others        │
+│  • Recognizing emotions in faces, voices, art           │
+│  • Identifying own emotions accurately                  │
+│  • Expressing emotions appropriately                    │
+│  • Distinguishing honest from fake emotional expressions│
+│                                                         │
+│  OUTPUT: Emotional awareness, authenticity detection    │
+└─────────────────────────────────────────────────────────┘
+
+                    FOUNDATION
+                         │
+                         ▼
+              ┌─────────────────────┐
+│  RAW EMOTIONAL DATA: Physiological sensations,        │
+│  facial expressions, vocal tone, behavioral cues      │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Goleman's Five Components of Emotional Intelligence
+
+```
+GOLEMAN'S EI FRAMEWORK (1995, 1998)
+
+┌─────────────────────────────────────────────────────────┐
+│  PERSONAL COMPETENCE (Self)                             │
+│  ═══════════════════════════                            │
+│                                                         │
+│  1. SELF-AWARENESS                                      │
+│     └── Recognizing one's emotions and effects          │
+│     └── Accurate self-assessment                        │
+│     └── Self-confidence                                 │
+│                                                         │
+│  2. SELF-REGULATION                                     │
+│     └── Emotional self-control                          │
+│     └── Trustworthiness and integrity                   │
+│     └── Conscientiousness                               │
+│     └── Adaptability                                    │
+│     └── Innovation and creativity                       │
+│                                                         │
+│  3. MOTIVATION                                          │
+│     └── Achievement drive                               │
+│     └── Commitment to goals                             │
+│     └── Initiative and optimism                         │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  SOCIAL COMPETENCE (Others)                             │
+│  ═══════════════════════════                            │
+│                                                         │
+│  4. EMPATHY                                             │
+│     └── Understanding others' emotions and perspectives │
+│     └── Developing others                               │
+│     └── Service orientation                             │
+│     └── Leveraging diversity                            │
+│     └── Political awareness                             │
+│                                                         │
+│  5. SOCIAL SKILLS                                       │
+│     └── Influence and communication                     │
+│     └── Conflict management                             │
+│     └── Leadership                                      │
+│     └── Change catalyst                                 │
+│     └── Building bonds                                  │
+│     └── Collaboration and cooperation                   │
+│     └── Team capabilities                               │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Science of Emotional Intelligence
+
+### Neural Foundations
+
+```
+EMOTIONAL BRAIN CIRCUITS
+
+┌─────────────────────────────────────────────────────────┐
+│  AMYGDALA (Emotional Alarm System)                      │
+│  └── Rapid emotional processing (12ms response)         │
+│  └── Fight/flight/freeze activation                     │
+│  └── Emotional memory formation                         │
+│  └── Hijack potential when unchecked                    │
+│                                                         │
+│  PREFRONTAL CORTEX (Executive Control)                  │
+│  └── Emotional regulation and modulation                │
+│  └── Impulse control and decision-making                │
+│  └── Social reasoning and perspective-taking            │
+│  └── Integration with cognitive processes               │
+│                                                         │
+│  INSULA (Interoceptive Awareness)                       │
+│  └── Body sensation mapping                             │
+│  └── Emotional self-awareness                           │
+│  └── Empathic resonance                                 │
+│                                                         │
+│  MIRROR NEURON SYSTEM                                   │
+│  └── Emotional contagion and empathy                    │
+│  └── Learning through observation                       │
+│  └── Social understanding                               │
+└─────────────────────────────────────────────────────────┘
+
+EI DEVELOPMENT = Strengthening PFC-amygdala connections
+             + Enhancing interoceptive awareness
+             + Cultivating mirror system sensitivity
+```
+
+### The Emotional-Cognitive Interface
+
+```
+HOW EMOTIONS SHAPE THINKING
+
+POSITIVE EMOTIONS:
+• Broaden attention and cognition (Broaden-and-Build Theory)
+• Enhance creative problem-solving
+• Facilitate social connection
+• Build psychological resources
+• Enable flexible thinking
+
+NEGATIVE EMOTIONS:
+• Narrow attention (fight/flight focus)
+• Enhance analytical processing
+• Signal threat or problem
+• Motivate protective action
+• Can be adaptive when appropriate
+
+OPTIMAL STATE:
+• Emotional-cognitive integration
+• Neither suppressed nor overwhelmed
+• Emotions inform but don't dominate
+• "Wise mind" (Linehan) — reason + emotion
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance
+
+Emotional Intelligence Theory is fundamentally a **Water theory**:
+- **Resonance:** Emotional attunement to self and others
+- **Flow:** Emotional states as dynamic, changing
+- **Depth:** Understanding emotional complexity and nuance
+- **Reflection:** Self-awareness as emotional mirroring
+- **Connection:** Empathy as emotional bridge
+- **Adaptability:** Emotional flexibility and regulation
+
+### Supporting Elements
+
+| Element | Role in Emotional Intelligence |
+|---------|-------------------------------|
+| **Air/σ** | Distinction between emotions, naming feelings, emotional granularity |
+| **Fire/λ** | Directional regulation, emotional control, motivated action |
+| **Child/✶** | Integration of emotion and reason, wise action, harmony |
+| **Wood/β** | Emotional growth, developing competence, branching possibilities |
+| **Earth/δγ** | Emotional cycles, mood rhythms, developmental stages |
+| **Metal/μ** | Structure of emotional skills, boundaries, emotional discipline |
+
+## Applications in Education
+
+### Social-Emotional Learning (SEL)
+
+```
+CASEL'S FIVE SEL COMPETENCIES (2003)
+
+┌─────────────────────────────────────────────────────────┐
+│  1. SELF-AWARENESS                                      │
+│     └── Recognizing emotions, thoughts, values          │
+│     └── Accurate self-perception                        │
+│     └── Recognizing strengths and limitations           │
+│     └── Self-efficacy and optimism                      │
+│                                                         │
+│  2. SELF-MANAGEMENT                                     │
+│     └── Regulating emotions, thoughts, behaviors        │
+│     └── Stress management                               │
+│     └── Impulse control                                 │
+│     └── Goal-setting and motivation                     │
+│     └── Organizational skills                           │
+│                                                         │
+│  3. SOCIAL AWARENESS                                    │
+│     └── Perspective-taking and empathy                  │
+│     └── Recognizing diverse social norms                │
+│     └── Recognizing family, school, community resources │
+│                                                         │
+│  4. RELATIONSHIP SKILLS                                 │
+│     └── Communication and listening                     │
+│     └── Negotiation and conflict resolution             │
+│     └── Seeking and offering help                       │
+│     └── Cooperation and teamwork                        │
+│     └── Resisting negative social pressure              │
+│                                                         │
+│  5. RESPONSIBLE DECISION-MAKING                         │
+│     └── Problem identification and analysis             │
+│     └── Evaluating consequences                         │
+│     └── Reflecting on decisions                         │
+│     └── Promoting well-being of self and others         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### EI in the Classroom
+
+| Application | Description | Example |
+|-------------|-------------|---------|
+| **Mood meters** | Students identify and share emotional states | Color-coded charts for emotional check-ins |
+| **Emotion coaching** | Teacher helps student process feelings | "I see you're frustrated. What happened?" |
+| **Conflict resolution** | Teaching emotional problem-solving | Peer mediation programs |
+| **Mindfulness** | Developing emotional awareness | Breathing exercises, body scans |
+| **Emotional vocabulary** | Expanding feeling word knowledge | "Instead of 'mad,' are you 'annoyed,' 'furious,' or 'disappointed'?" |
+| **Perspective-taking** | Understanding others' emotions | "How do you think she felt when that happened?" |
+
+## Development of Emotional Intelligence
+
+### EI Across the Lifespan
+
+```
+EMOTIONAL DEVELOPMENT TRAJECTORY
+
+INFANCY (0-2):
+├── Basic emotion expression (joy, sadness, anger, fear)
+├── Emotional contagion from caregivers
+├── Attachment formation
+└── Foundation: Secure base for emotional exploration
+
+EARLY CHILDHOOD (2-5):
+├── Emotion vocabulary development
+├── Beginnings of emotion regulation (with caregiver help)
+├── Empathy emergence
+└── Foundation: Learning to name and express feelings
+
+MIDDLE CHILDHOOD (6-11):
+├── Emotional self-regulation improves
+├── Understanding emotional causes
+├── Social comparison and emotional learning
+└── Foundation: Developing emotional skills in peer contexts
+
+ADOLESCENCE (12-18):
+├── Emotional intensity increases (brain development)
+├── Complex emotional understanding
+├── Identity and emotional integration
+└── Foundation: Forging emotional independence
+
+ADULTHOOD (18+):
+├── Emotional regulation matures
+├── Nuanced emotional understanding
+├── Generativity and emotional mentoring
+└── Foundation: Emotional wisdom and generative capacity
+```
+
+## Criticisms and Controversies
+
+```
+CRITICISMS:
+├── Measurement challenges — self-report vs. ability-based
+├── Conceptual overlap with personality (Big Five)
+├── "Pop psychology" concerns — oversimplification
+├── Cultural bias — Western emotional norms
+├── Malleability questions — can EI be taught?
+├── Predictive validity debates — how much does it matter?
+└── Commercialization — EI as corporate training product
+
+RESPONSES:
+├── Ability-based measures (MSCEIT) show stronger validity
+├── EI predicts outcomes beyond personality and IQ
+├── Research base has strengthened significantly
+├── Cross-cultural EI research expanding
+├── SEL programs show measurable outcomes
+├── Meta-analyses support predictive validity
+└── Quality implementation matters more than concept
+```
+
+## Connection to Related Theories
+
+### EI and Other Frameworks
+
+| Theory | Relationship | Key Difference |
+|--------|--------------|----------------|
+| **Multiple Intelligences** | EI as one form of intelligence | EI focuses specifically on emotional processing |
+| **Self-Regulated Learning** | EI enables self-regulation | EI broader than academic self-regulation |
+| **Social Learning Theory** | EI learned through observation | EI emphasizes internal processing |
+| **Emotional Development** | EI as mature emotional functioning | EI includes skills, not just developmental level |
+| **Mindfulness** | Mindfulness develops EI | EI broader than present-moment awareness |
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Leadership** | Emotional leadership | Leader's emotional impact on followers |
+| **Healthcare** | Bedside manner | Emotional attunement in patient care |
+| **Therapy** | Emotional processing | Working with emotions for change |
+| **Parenting** | Emotion coaching | Helping children develop emotional skills |
+| **Business** | Emotional capital | EI as organizational resource |
+| **Sports** | Mental game | Emotional control in performance |
+
+## Core Insight
+
+> Emotional Intelligence reveals that learning is never purely cognitive — emotions are always present, shaping attention, memory, motivation, and decision-making. The emotionally intelligent learner can recognize their feelings, understand their impact, regulate their expression, and use emotional information wisely. This doesn't mean suppressing emotions for cold rationality, but integrating emotion and reason into a harmonious whole. Education that develops EI creates not just knowledgeable individuals, but emotionally competent human beings capable of navigating life's challenges with wisdom and resilience.
+
+## One-Sentence Insight
+
+> Emotional intelligence demonstrates how awareness, understanding, and regulation of emotions create the foundation for effective learning, healthy relationships, and adaptive functioning in complex social environments.
+
+## Three-Bullet Expansion
+
+- **What:** The ability to perceive, understand, manage, and use emotions effectively — encompassing self-awareness, self-regulation, motivation, empathy, and social skills
+- **How it works:** Emotions provide information about self and environment → Emotional awareness enables accurate perception → Emotional understanding creates meaning → Emotional regulation enables adaptive response → Integration produces wise action
+- **Where it aims:** Toward emotional competence — the capacity to navigate emotional landscapes skillfully, build healthy relationships, and use emotional information to enhance thinking and decision-making
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #P007, #L030_Metacognition, #L015_Self_Determination_Theory, #L047_Self_Regulated_Learning, #P001_self_efficacy_theory, #L013_Social_Learning_Theory
+- **Formal Operators:** ρ, σ, λ, ✶, β, δγ, μ
+- **Dim Operators:** Ψ_emotion-awareness, Ψ_regulation, Ψ_empathy, Ψ_social-competence
+- **Coord Ontology:** I (emotionally aware self), We (emotionally connected relationships), It (emotional information), Its (emotional climate)
+
+## Source
+
+Derived from:
+- Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality*, 9(3), 185-211.
+- Goleman, D. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. Bantam Books.
+- Goleman, D. (1998). *Working with Emotional Intelligence*. Bantam Books.
+- Mayer, J. D., Salovey, P., & Caruso, D. R. (2004). Emotional intelligence: Theory, findings, and implications. *Psychological Inquiry*, 15(3), 197-215.
+- Brackett, M. A., Rivers, S. E., & Salovey, P. (2011). Emotional intelligence: Implications for personal, social, academic, and workplace success. *Social and Personality Psychology Compass*, 5(1), 88-103.
+- CASEL. (2003). Safe and Sound: An Educational Leader's Guide to Evidence-Based Social and Emotional Learning Programs. Collaborative for Academic, Social, and Emotional Learning.
+
+Original context: Psychology, education, organizational behavior
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Air/σ, Fire/λ, Child/✶ support | Daemon: Aquarion-Aerunik-Pyrion-Harmonia | Habitat: 1_EMOTIONAL_AWARENESS / 2_EMOTIONAL_REGULATION / 3_SOCIAL_COMPETENCE
+
+## Related Entries
+
+- L030_Metacognition (awareness of one's thinking)
+- L015_Self_Determination_Theory (autonomy, relatedness)
+- L047_Self_Regulated_Learning (self-control and monitoring)
+- P001_self_efficacy_theory (belief in capabilities)
+- L013_Social_Learning_Theory (observational learning)
+- L020_Flow_Theory (optimal emotional state)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #P007 | Generated: 2026-02-28 02:32*
