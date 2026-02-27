@@ -182,3 +182,81 @@ elemental_emphasis:
   ⛨: "What structures enable truth-seeking versus tribal identity? What boundaries prevent gamification from becoming manipulation?"
 context_note: "Gamified democracy applies game mechanics (points, badges, leaderboards) to democratic participation. Risk: Systems may prioritize engagement metrics over deliberative quality, reward emotional appeals over analytical depth, and create extrinsic motivation dependencies that crowd out intrinsic civic duty. True democratic gamification requires truth-seeking incentives, anti-groupthink mechanisms, and meaningful consequences tied to real-world impact rather than superficial rewards."
 ---
+term: "AI Cognitive Offloading"
+hex_tag: "#A038"
+nemetic: "Φ(AICogOffload) = σ(memory|external) ∘ ρ(thinking|delegated) ∘ λ(dependency|increasing) ∘ β(atrophy|skill-loss) ∘ δγ(effort|minimized) ∘ μ(boundary|porous) + ε | :structuring"
+siml_encoding: "⟨Cognition|human⟩ ⊳ ⟨Function|outsourced⟩ → ⟨Memory|externalized⟩ ⊗ ⟨Skill|atrophy⟩ ⇄ ⟨Dependency|increased⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between internal and external memory)", "∂Φ/∂ρ (relational shift from self-thinking to AI-delegated cognition)", "∂Φ/∂λ (direction toward increasing dependency on AI systems)", "∂Φ/∂β (feedback loop of cognitive skill atrophy)", "∂Φ/∂δγ (minimized metabolic effort through outsourcing)", "∂Φ/∂μ (porous boundary between human and AI cognition)"]
+  Z_state: "sealing (dependency becomes invisible, assumed as natural)"
+  tendency: "External/Internal → 0.85 (strong weight toward externalized cognition)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is internal cognition distinguished from AI-assisted thinking? What marks genuinely original thought?"
+  ≈: "What flows between human memory and externalized storage? What is lost in the transfer?"
+  ▲: "Where does cognitive offloading want to go? What direction does dependency take us?"
+  𐂷: "What forms of cognition resist outsourcing? What possibilities emerge when we reclaim mental effort?"
+  ☷: "What's the metabolic cost of cognitive atrophy? What sustains the illusion of competence?"
+  ⛨: "What structures would protect cognitive autonomy? What boundaries prevent total dependency?"
+context_note: "AI cognitive offloading refers to the delegation of memory, analysis, and decision-making to AI systems. Risk: Gradual atrophy of critical thinking skills, reduced ability to retain information, and erosion of cognitive autonomy. The ease of outsourcing creates invisible dependencies—users believe they are augmenting cognition when they may be replacing it. In educational contexts: students using AI for writing and analysis may lose the capacity for independent reasoning."
+---
+term: "Attention Fragmentation"
+hex_tag: "#A039"
+nemetic: "Φ(AttnFragment) = σ(focus|disrupted) ∘ ρ(notification|interrupt) ∘ λ(scattered|multi) ∘ β(shallow|depth-loss) ∘ δγ(dopamine|micro-reward) ∘ μ(boundary|breached) + ε | :structuring"
+siml_encoding: "⟨Attention|deep⟩ ⊳ ⟨Interrupt|constant⟩ → ⟨Focus|fragmented⟩ ⊗ ⟨Depth|lost⟩ ⇄ ⟨Cognition|shallow⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between deep and fragmented attention)", "∂Φ/∂ρ (relational interruption pattern from AI notifications)", "∂Φ/∂λ (direction toward scattered, multi-tasking cognition)", "∂Φ/∂β (feedback loop of shallow processing replacing deep thought)", "∂Φ/∂δγ (dopamine micro-rewards from notifications)", "∂Φ/∂μ (breached boundaries of attentional protection)"]
+  Z_state: "structuring (fragmentation becomes normalized, deep focus feels unnatural)"
+  tendency: "Shallow/Deep → 0.9 (strong weight toward shallow processing)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is deep attention distinguished from fragmented scanning? What marks genuine focus?"
+  ≈: "What flows between the urge to check and the capacity to stay? What emotional resonance drives interruption?"
+  ▲: "Where does scattered attention want to go? What direction does the pull of notifications take us?"
+  𐂷: "What if deep focus is a skill that can be regained? What possibilities emerge in sustained attention?"
+  ☷: "What's the metabolic cost of constant context-switching? What depletes with each interruption?"
+  ⛨: "What structures would protect attentional boundaries? What forms enable deep work?"
+context_note: "Attention fragmentation results from AI-driven notifications, infinite scroll, and constant connectivity. Risk: Loss of capacity for sustained concentration, shallow processing of complex information, and chronic cognitive fatigue. The dopamine-driven design of AI interfaces creates addiction-like patterns that erode the neurological basis for deep focus. Users may lose the ability to engage with long-form content or complex reasoning tasks."
+---
+term: "AI Echo Chamber"
+hex_tag: "#A03A"
+nemetic: "Φ(AIEchoChamber) = σ(diversity|filtered) ∘ ρ(confirmation|reinforced) ∘ λ(polarization|increasing) ∘ β(belief|hardened) ∘ δγ(comfort|familiarity) ∘ μ(boundary|enforced) + ε | :structuring"
+siml_encoding: "⟨Information|diverse⟩ ⊳ ⟨Filter|algorithmic⟩ → ⟨Exposure|narrowed⟩ ⊗ ⟨Belief|reinforced⟩ ⇄ ⟨Polarization|amplified⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between diverse and filtered information)", "∂Φ/∂ρ (relational confirmation bias reinforced by algorithmic curation)", "∂Φ/∂λ (direction toward increasing polarization)", "∂Φ/∂β (feedback loop of belief hardening)", "∂Φ/∂δγ (cognitive comfort from familiarity)", "∂Φ/∂μ (enforced boundary around acceptable views)"]
+  Z_state: "sealing (filter bubble becomes invisible, assumed as 'what is')"
+  tendency: "Confirm/Challenge → 0.9 (strong weight toward confirmation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine diversity distinguished from algorithmic variety? What cuts separate real exposure from filtered selection?"
+  ≈: "What flows between like-minded voices? What resonance amplifies within the chamber?"
+  ▲: "Where does the echo chamber want to go? What direction does polarization take us?"
+  𐂷: "What perspectives exist outside the chamber? What possibilities emerge when filters are removed?"
+  ☷: "What's the metabolic cost of maintaining echo chamber membership? What sustains the comfort of familiarity?"
+  ⛨: "What structures would enable genuine exposure? What boundaries prevent algorithmic enclosure?"
+context_note: "AI echo chambers emerge from recommendation algorithms that prioritize engagement over diversity, creating filter bubbles where users are exposed primarily to confirming viewpoints. Risk: Epistemic closure, polarization, loss of shared reality, and the inability to comprehend opposing perspectives. AI systems optimize for time-on-platform, which often correlates with emotional activation—outrage and confirmation feel similar to algorithms. Users may believe they are informed while inhabiting increasingly narrow information environments."
+---
