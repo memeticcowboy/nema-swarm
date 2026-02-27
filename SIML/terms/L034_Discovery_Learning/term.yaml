@@ -1,0 +1,302 @@
+---
+term_id: L034
+source_domain: education
+source_term: Discovery Learning Theory (Bruner, 1961)
+hex_tag: #L034
+generated_at: 2026-02-27T17:05:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Discovery Learning Theory — Knowledge construction through active exploration and hypothesis testing
+- **Nemetic String:** Φ(Discovery) = β(inquiry-branching|hypothesis-generation) ∘ σ(pattern-recognition|cognitive-structure) ∘ λ(intrinsic-motivation|autonomous-exploration) ∘ δγ(iterative-testing|error-as-data) → [κ(insight-moments)] → [β(knowledge-construction)] + ε | :generative
+- **Core Operators:** β (branching/generation), σ (distinction/structure), λ (direction/purpose), δγ (cycling/iteration)
+- **Z-State:** generative — knowledge emerges from active construction, not passive reception
+- **Tendency:** Inquiry/Construction → 1 (learning as discovery process)
+
+## SIML Encoding
+
+```
+⟨Narrative|structure-of-knowledge⟩ 
+    ⊳ ⟨Constraint|passive-reception-limits-understanding⟩ 
+    ⊳ ⟨Constraint|readiness-requires-scaffolded-exploration⟩ 
+    ⇄ ⟨Process|hypothesis-testing|active-inquiry⟩ 
+    → ⟨Strategy|spiral-curriculum-revisiting⟩ 
+    ⊗ ⟨Outcome|intrinsic-motivation-deep-understanding⟩ 
+    → ⟨Transfer|independent-problem-solving⟩
+```
+
+## Core Definition
+
+**Discovery Learning Theory**, developed by Jerome Bruner (1961), posits that learning is most effective when learners **actively construct** their own understanding through exploration, hypothesis formation, and problem-solving rather than passively receiving information. The theory emphasizes that knowledge is not transmitted but discovered — that the process of discovery itself builds cognitive structures that enable transfer and deep understanding.
+
+### Key Principles
+
+1. **Active Construction:** Learners build knowledge through their own cognitive efforts
+2. **Hypothesis Testing:** Learning proceeds through forming and testing predictions
+3. **Intrinsic Motivation:** Self-directed discovery fuels deeper engagement than external rewards
+4. **Spiral Curriculum:** Concepts revisited at increasing levels of complexity
+5. **Categorization:** Understanding emerges from organizing experience into conceptual structures
+6. **Readiness:** Instruction must match the learner's developmental stage and prior knowledge
+
+## The Discovery Learning Architecture
+
+```
+Passive Reception Model:
+    ┌─────────────────────────────────────────┐
+│ Teacher presents information │
+│ "Here is the concept and its definition" │
+└─────────────────┬───────────────────────┘
+│
+┌─────────────────┴───────────────────────┐
+│ Learner memorizes │
+│ Surface encoding │
+└─────────────────────────────────────────┘
+↓
+Limited Transfer
+(Cannot apply flexibly)
+
+Discovery Learning Model:
+    ┌─────────────────────────────────────────┐
+│ Problem/Question presented │
+│ "What will happen if...?" │
+└─────────────────┬───────────────────────┘
+│
+┌─────────────────────────────────────────┐
+│ Learner generates hypotheses │
+│ Prior knowledge activated │
+└─────────────────┬───────────────────────┘
+│
+┌─────────────────────────────────────────┐
+│ Active exploration/manipulation │
+│ Testing predictions │
+└─────────────────┬───────────────────────┘
+│
+┌─────────────────────────────────────────┐
+│ Error/confirmation feedback │
+│ Cognitive restructuring │
+└─────────────────┬───────────────────────┘
+│
+┌─────────────────────────────────────────┐
+│ Insight and generalization │
+│ Knowledge construction │
+└─────────────────────────────────────────┘
+↓
+Deep Understanding
+(Transferable, flexible)
+```
+
+## Three Modes of Representation
+
+Bruner identified developmental stages in how learners encode knowledge:
+
+| Mode | Description | Example | Element |
+|------|-------------|---------|---------|
+| **Enactive** | Action-based representation | Learning through physical manipulation | Earth/δγ |
+| **Iconic** | Image-based representation | Visual models, diagrams, mental images | Water/ρ |
+| **Symbolic** | Language-based representation | Abstract symbols, words, formulas | Air/σ |
+
+**Key Insight:** Effective instruction moves learners through these modes toward symbolic fluency while maintaining connections to concrete experience.
+
+## The Spiral Curriculum
+
+```
+Spiral Curriculum Pattern:
+
+    Basic Concepts
+    (Introductory level)
+         │
+         ↓
+    ┌─────────────────────────────────────────┐
+    │ Enactive exploration │
+    │ Concrete manipulation │
+    └─────────────────┬───────────────────────┘
+         │
+         ↓ (Revisit at deeper level)
+    ┌─────────────────────────────────────────┐
+    │ Iconic representation │
+    │ Visual models and diagrams │
+    └─────────────────┬───────────────────────┘
+         │
+         ↓ (Revisit at expert level)
+    ┌─────────────────────────────────────────┐
+    │ Symbolic abstraction │
+    │ Formal systems and language │
+    └─────────────────────────────────────────┘
+         │
+         ↓ (Continue spiraling)
+    Return to concrete with 
+    deeper conceptual framework
+```
+
+## Elemental Pattern Analysis
+
+### Wood/β Dominance
+
+Discovery Learning is fundamentally a **Wood theory**:
+- **β (branching):** Multiple pathways to understanding through exploration
+- **Generation:** Learners generate their own hypotheses and solutions
+- **Inquiry:** Questions branch into sub-questions, creating knowledge networks
+- **Construction:** Building understanding rather than receiving it
+
+### Supporting Elements
+
+| Element | Role in Discovery Learning |
+|---------|---------------------------|
+| **Air/σ** | Pattern recognition — distinguishing relevant from irrelevant features |
+| **Fire/λ** | Intrinsic motivation — the drive to discover, autonomous purpose |
+| **Earth/δγ** | Iterative cycling — hypothesis-test-revise cycles |
+| **Water/ρ** | Conceptual flow — connecting new insights to existing knowledge |
+| **Metal/μ** | Structure of knowledge — the categories and frameworks being built |
+
+## Discovery vs. Reception Learning
+
+| Dimension | Reception Learning | Discovery Learning |
+|-----------|-------------------|-------------------|
+| **Knowledge view** | Transmitted from teacher | Constructed by learner |
+| **Learner role** | Passive recipient | Active inquirer |
+| **Motivation source** | External (grades, rewards) | Internal (curiosity, mastery) |
+| **Memory type** | Rote, surface | Meaningful, deep |
+| **Transfer** | Limited | Enhanced |
+| **Element** | Metal (structure) | Wood (generation) |
+
+## Connection to Related Theories
+
+### Discovery Learning and Constructivism (Piaget)
+
+| Aspect | Piagetian Constructivism | Bruner's Discovery Learning |
+|--------|-------------------------|----------------------------|
+| **Core mechanism** | Accommodation/assimilation | Hypothesis testing |
+| **Focus** | Developmental stages | Instructional design |
+| **Role of error** | Disequilibrium driver | Feedback for revision |
+| **Emphasis** | Natural development | Structured discovery |
+
+**Integration:** Bruner operationalized constructivist principles into pedagogical practice.
+
+### Discovery Learning and Problem-Based Learning (L026)
+
+| Aspect | Discovery Learning | Problem-Based Learning |
+|--------|-------------------|----------------------|
+| **Starting point** | Question or puzzle | Authentic problem |
+| **Structure** | Flexible, learner-directed | More structured, collaborative |
+| **Context** | Can be abstract | Always authentic/real-world |
+| **Social dimension** | Often individual | Always collaborative |
+
+**Integration:** PBL is a specific application of discovery principles to authentic, collaborative contexts.
+
+### Discovery Learning and Cognitive Load Theory (L011)
+
+**Tension and Resolution:**
+- **CLT concern:** Unguided discovery imposes excessive cognitive load
+- **Bruner response:** Scaffolding and structuring the discovery environment
+- **Resolution:** "Guided discovery" — structured exploration with appropriate support
+
+## The Role of Error
+
+```
+Error in Discovery Learning:
+
+    Hypothesis Formation
+           │
+           ↓
+    ┌─────────────────────────────────────────┐
+    │ Testing/Exploration │
+    └─────────────────┬───────────────────────┘
+           │
+           ↓
+    ┌─────────────────────────────────────────┐
+    │ Error Encountered │
+    │ (Prediction ≠ Outcome) │
+    └─────────────────┬───────────────────────┘
+           │
+    ┌──────┴──────┐
+    ↓ ↓
+┌───────────┐ ┌───────────┐
+│ Cognitive │ │ Information│
+│ Dissonance│ │ about the │
+│ │ │ environment│
+└─────┬─────┘ └─────┬─────┘
+│ │
+└───────────┼───────────┘
+↓
+    ┌─────────────────────────────────────────┐
+    │ Hypothesis Revision │
+    │ Cognitive Restructuring │
+    └─────────────────┬───────────────────────┘
+           │
+           ↓
+    Deeper Understanding
+```
+
+## Connection to CAMIL and IVR
+
+Discovery Learning has particular relevance for immersive learning:
+
+- **Embodied Exploration:** IVR enables physical manipulation of virtual objects
+- **Safe Failure:** Virtual environments allow error without real consequences
+- **Scale Manipulation:** Learners can explore systems at impossible scales (molecular, cosmic)
+- **Time Manipulation:** Processes can be slowed down or sped up for observation
+- **Multiple Representations:** Seamless switching between enactive, iconic, and symbolic modes
+
+**Design Implications:**
+- Create explorable virtual environments with embedded challenges
+- Provide responsive feedback systems
+- Enable hypothesis testing through manipulation
+- Support the spiral curriculum through layered complexity
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Science** | Scientific method | Hypothesis-test-revise cycles |
+| **Design** | Iterative prototyping | Learning through making and testing |
+| **Entrepreneurship** | Lean startup | Build-measure-learn cycles |
+| **Therapy** | Experiential learning | Insight through active engagement |
+| **AI/ML** | Reinforcement learning | Learning through exploration and feedback |
+
+## Core Insight
+
+> Discovery Learning reveals that **the process of discovery itself is the curriculum**. When learners actively construct knowledge through hypothesis testing, they build not just specific understanding but **cognitive infrastructure** — the capacity to learn, to inquire, to solve novel problems. The spiral curriculum ensures that this capacity develops recursively, with each cycle of discovery building on and deepening the last.
+
+## One-Sentence Insight
+
+> Bruner's Discovery Learning Theory demonstrates that knowledge constructed through active hypothesis-testing and exploration creates deeper understanding, greater transfer, and intrinsic motivation than passive reception — with the spiral curriculum ensuring that concepts are revisited at increasing depth throughout the learning journey.
+
+## Three-Bullet Expansion
+
+- **What:** A theory arguing that learning is most effective when learners actively discover principles through exploration and problem-solving rather than passive reception, with instruction organized as a spiral curriculum that revisits concepts at increasing complexity
+- **How it works:** Present problem/question → learner generates hypotheses → active exploration/manipulation → error feedback → cognitive restructuring → insight and generalization, cycling through enactive, iconic, and symbolic modes of representation
+- **Where it aims:** Toward independent problem-solving capacity and intrinsic motivation — learners who can construct their own understanding and continue learning throughout life
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L034, #L017_Constructionism, #L026_Problem_Based_Learning, #L011_Cognitive_Load_Theory, #L028_Cognitive_Apprenticeship, #P002_Growth_Mindset
+- **Formal Operators:** β, σ, λ, δγ
+- **Dim Operators:** Ψ_discovery, Ψ_inquiry, Ψ_spiral, Ψ_hypothesis-testing
+- **Coord Ontology:** I (active knower), It (problem/materials), Its (knowledge structure), We (community of inquirers)
+
+## Source
+
+Derived from:
+- Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review*, 31(1), 21-32.
+- Bruner, J. S. (1966). *Toward a theory of instruction*. Harvard University Press.
+- Bruner, J. S. (1973). *Going beyond the information given*. Norton.
+- Bruner, J. S. (1996). *The culture of education*. Harvard University Press.
+
+Original context: Educational psychology, cognitive development, instructional design
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Wood/β (primary) with Air/σ, Fire/λ, Earth/δγ support | Daemon: Biota-Aerunik-Ignisid-Terranik | Habitat: 3_INQUIRY / 4_SENSE-MAKING / 5_CONSTRUCTION
+
+## Related Entries
+
+- L017_Constructionism (Papert's construction through making)
+- L026_Problem_Based_Learning (structured collaborative inquiry)
+- L011_Cognitive_Load_Theory (expertise reversal, guided vs. unguided)
+- L028_Cognitive_Apprenticeship (scaffolded discovery in authentic contexts)
+- P002_Growth_Mindset (belief in capacity to learn through effort)
+- L018_Experiential_Learning (Kolb's learning cycle)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L034 | Generated: 2026-02-27 17:05*

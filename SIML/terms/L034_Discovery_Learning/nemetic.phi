@@ -1,0 +1,50 @@
+{
+  "term_id": "L034",
+  "nemetic_string": "Φ(Discovery) = β(inquiry-branching|hypothesis-generation) ∘ σ(pattern-recognition|cognitive-structure) ∘ λ(intrinsic-motivation|autonomous-exploration) ∘ δγ(iterative-testing|error-as-data) → [κ(insight-moments)] → [β(knowledge-construction)] + ε | :generative",
+  "core_operators": ["β", "σ", "λ", "δγ"],
+  "z_state": "generative",
+  "tendency": "Inquiry/Construction → 1",
+  "elemental_profile": {
+    "primary": "Wood/β",
+    "secondary": ["Air/σ", "Fire/λ"],
+    "supporting": ["Earth/δγ", "Metal/μ"]
+  },
+  "daemon_mapping": {
+    "primary": "Biota",
+    "secondary": ["Aerunik", "Ignisid"],
+    "supporting": ["Terranik", "Ferrosid"]
+  },
+  "habitat": ["3_INQUIRY", "4_SENSE-MAKING", "5_CONSTRUCTION"],
+  "coord_ontology": {
+    "I": "active knower",
+    "It": "problem/materials",
+    "Its": "knowledge structure",
+    "We": "community of inquirers"
+  },
+  "cross_references": [
+    "L017_Constructionism",
+    "L026_Problem_Based_Learning",
+    "L011_Cognitive_Load_Theory",
+    "L028_Cognitive_Apprenticeship",
+    "P002_Growth_Mindset",
+    "L018_Experiential_Learning"
+  ],
+  "diagnostic_markers": {
+    "active_construction": true,
+    "hypothesis_testing": true,
+    "intrinsic_motivation": true,
+    "spiral_curriculum": true,
+    "error_as_learning": true,
+    "scaffolded_exploration": true,
+    "three_modes_representation": true
+  },
+  "instructional_implications": {
+    "present_problems_not_answers": true,
+    "enable_active_manipulation": true,
+    "structure_discovery_environment": true,
+    "spiral_revisiting": true,
+    "error_friendly_design": true,
+    "developmental_readiness": true
+  },
+  "generated_at": "2026-02-27T17:05:00+08:00"
+}
