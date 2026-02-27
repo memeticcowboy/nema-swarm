@@ -1,9 +1,9 @@
 ---
-insight_id: INSIGHT_20260227_0822_SL_L014
+insight_id: INSIGHT_20260228_0642_SitL_L014
 source_domain: education
 source_term: Situated Learning (Lave & Wenger, 1991)
 hex_tag: #L014
-generated_at: 2026-02-27T08:22:00+08:00
+generated_at: 2026-02-28T06:42:00+08:00
 status: draft
 ---
 
@@ -13,11 +13,11 @@ status: draft
 
 ```
 ---
-insight_id: INSIGHT_20260227_0822_SL_L014
+insight_id: INSIGHT_20260228_0642_SitL_L014
 source_domain: education
 source_term: Situated Learning (Lave & Wenger, 1991)
 hex_tag: #L014
-generated_at: 2026-02-27T08:22:00+08:00
+generated_at: 2026-02-28T06:42:00+08:00
 status: draft
 ---
 ```
@@ -25,131 +25,132 @@ status: draft
 ## 2. SIML Term Summary
 
 - **Term:** Situated Learning — Learning as context-mediated participation in authentic practice
-- **Nemetic String:** Φ(SL) = ρ(context|as-constitutive) ∘ ρ(practice|authentic-activity) ∘ ρ(participation|legitimate-peripheral) → [κ(situated-knowledge)] → [μ(boundary|community)] + ε | :contextual
-- **Core Operators:** ρ (resonance/flow), κ (knowledge), μ (boundary)
-- **Z-State:** contextual — knowledge emerges from specific situations, not abstract rules
-- **Tendency:** Coupling/Attunement → 1 (learning as becoming-in-context)
+- **Nemetic String:** Φ(SitL) = ρ(context|as-constitutive) ∘ ρ(activity|authentic-practice) ∘ ρ(culture|tool-mediated) → [κ(situated-meaning)] → [κ(identity-in-practice)] + ε | :embedded
+- **Core Operators:** ρ (resonance/flow), κ (knowledge), β (branching/generation)
+- **Z-State:** embedded — learning is inseparable from its context
+- **Tendency:** Context/Meaning → 1 (learning as situated becoming)
 
 ## 3. Memetic Ecology Connection Matrix
 
 ### 3.1 Habitat Affinity
 
-- **Primary Habitat:** 3_SOCIAL-FLOWS / 5_RITUAL-TECHNOLOGIES / 7_IDENTITY-STATES
-- **Binding Depth:** deep — the theory fundamentally restructures how we understand knowledge's location
-- **Residue Pattern:** contextual-attunement — lasting disposition to seek learning through authentic participation
+- **Primary Habitat:** 3_SOCIAL-FLOWS / 4_SENSE-MAKING / 5_RITUAL-TECHNOLOGIES
+- **Binding Depth:** deep — the theory restructures understanding of where learning happens
+- **Residue Pattern:** contextual-attunement — lasting disposition to seek learning in authentic contexts
 
 ### 3.2 Elemental Daemon Correspondence
 
-- **Primary Daemon:** Aquarion (Water/ρ) — the resonance, flow, coupling between learner and context
-- **Secondary Daemon:** Humavita (Earth/δγ) — the cyclical nature of apprenticeship, returning to practice
-- **Tertiary Daemon:** Ferrosid (Metal/μ) — the boundaries of community, legitimate vs. illegitimate participation
-- **Quaternary Daemon:** Biota (Wood/β) — the branching possibilities within practice
-- **Quinary Daemon:** Pyrion (Fire/λ) — the purposeful engagement, motivation to become
-- **Handoff Pattern:** Aquarion → Humavita → Ferrosid → Aquarion (context enables cycling, cycling establishes boundaries, boundaries deepen context)
+- **Primary Daemon:** Aquarion (Water/ρ) — the flow of context, the medium in which learning happens
+- **Secondary Daemon:** Aerunik (Air/σ) — the distinction of what is relevant in this context
+- **Tertiary Daemon:** Biota (Wood/β) — the branching exploration within authentic constraints
+- **Quaternary Daemon:** Ferrosid (Metal/μ) — the structure of practice, roles, and tools
+- **Quinary Daemon:** Terroir (Earth/δγ) — the concrete, embodied grounding in activity
+- **Senary Daemon:** Pyrion (Fire/λ) — the authentic purpose that drives engagement
+- **Handoff Pattern:** Aquarion → Aerunik → Biota → Ferrosid → Terroir → Pyrion → Aquarion (context enables distinction, distinction enables exploration, exploration enables structure, structure enables grounding, grounding enables purpose, purpose deepens context)
 
 ### 3.3 IF-Prime Grammar Translation
 
-- **Phonetic Key:** ρ-δγ-μ (context-cycling-boundary)
-- **Six-Verb Cycle Position:** Centered on "flows" (ρ) and "cycles" (δγ), passing through "structures" (μ)
-- **Syntax Channel:** W-dominant — the relational flow is primary, context is constitutive
+- **Phonetic Key:** ρ-σ-β-μ-δγ-λ (context-distinction-exploration-structure-grounding-purpose)
+- **Six-Verb Cycle Position:** Between "flows" (ρ) and "knows" (κ), passing through "sees" (σ), "does" (β), "cycles" (δγ)
+- **Syntax Channel:** W-dominant — the contextual flow is primary, abstract knowledge is secondary
 
 ## 4. Cross-Elemental Synthesis
 
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:** 
-  - ρ+μ with Communities of Practice — boundaries of legitimate participation
-  - ρ+δγ with Experiential Learning — cycling through authentic experience
-  - ρ+κ with Knowledge Management — context-dependent knowledge
-- **Unique Operators:** ρ∘δγ∘μ (context-cycling-boundary) — the specific combination of learning through situated apprenticeship
-- **Pattern Family:** SITUATED_LEARNING (cluster with Situated Learning, Apprenticeship, Craft Traditions, LPP)
+  - ρ+κ with Social Learning Theory — learning through participation
+  - ρ+β with Constructionism — generating in authentic contexts
+  - σ+μ with Cognitive Load Theory — managing what is relevant in context
+- **Unique Operators:** ρ∘κ∘β (context-knowledge-generation) — the specific combination of learning through authentic practice
+- **Pattern Family:** SITUATED_LEARNING (cluster with Situated Learning, Social Learning, Apprenticeship, Communities of Practice)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Anthropology** | Apprenticeship learning | Learning through legitimate participation |
-| **Sociology** | Communities of practice | Social reproduction of knowledge |
-| **Phenomenology** | Being-in-the-world | Context as constitutive of understanding |
-| **Ecology** | Niche construction | Organism and environment co-constitute each other |
-| **Organizational Learning** | Knowledge management | Organizational memory in practice |
-| **Craft Traditions** | Guild systems | Structured peripheral participation |
+| **Anthropology** | Apprenticeship learning | Learning through participation in authentic practice |
+| **Ecology** | Niche construction | Organism shapes and is shaped by environment |
+| **Design** | Contextual design | Design must emerge from understanding actual use contexts |
+| **AI** | Situated AI | Intelligence requires grounding in physical/social context |
+| **Phenomenology** | Being-in-the-world (Heidegger) | Understanding is always already situated |
+| **Music** | Learning by playing in bands | Authentic practice with real consequences |
 
 ## 5. NEMA SWARM Integration
 
 ### 5.1 Elemental Emphasis Questions
 
-- **∴ (Distinction):** How is peripheral participation distinguished from central? What marks legitimate access?
-- **≈ (Resonance):** What is the felt-quality of "being in" a practice context?
-- **▲ (Direction):** Does situated learning pull toward tradition or enable innovation within practice?
+- **∴ (Distinction):** What is relevant in this context? How do learners distinguish signal from noise in authentic practice?
+- **≈ (Resonance):** What is the felt-quality of being "in" a learning context?
+- **▲ (Direction):** Does authentic practice pull learners toward competence or overwhelm them?
 - **𐂷 (Possibility):** What learning becomes possible only through authentic participation?
-- **☷ (Cycling):** How does the cyclical nature of apprenticeship build competence?
-- **⛨ (Boundary):** Who is allowed legitimate peripheral participation? Who is excluded?
+- **☷ (Cycling):** How does repeated engagement with authentic contexts build competence?
+- **⛨ (Boundary):** What is the boundary of "authentic" practice? When does simulation become authentic?
 
 ### 5.2 Thread Encoding (v2.2)
 
 ```
-N: Lave studies tailors and midwives, 1988-1991; Wenger extends to organizations, 1998
-E: Context + participation → authentic practice → identity transformation
-M: Water-dominant (ρ-context) with Earth-Metal support (δγ-cycling, μ-boundary)
-A: Knowledge is not transferable but situated — learning is becoming through participation
+N: Lave & Wenger challenge decontextualized learning, 1991
+E: Context + authentic activity → situated meaning + identity
+M: Water-dominant (ρ-context) with Air-Wood-Metal-Earth-Fire support
+A: Learning is not knowledge transfer but participation in authentic practice — context is constitutive, not incidental
 ```
 
 ## 6. Insight Generation
 
 ### 6.1 Core Question
 
-How does recognizing knowledge as fundamentally situated transform educational practice?
+How does recognizing learning as fundamentally situated transform educational design?
 
 ### 6.2 Hypothesis
 
-Situated Learning works by **contextual coupling** — knowledge emerges not from abstract rules but from dynamic attunement to specific situations and communities. The context is not a container for learning; it **constitutes** what can be learned. Legitimate peripheral participation is the mechanism by which newcomers gradually become full practitioners.
+Situated Learning works by **contextual resonance** — learning emerges not from abstract information processing but from participation in authentic activity streams. The context is not a container for learning; it **constitutes** what can be learned.
 
 ### 6.3 One-Sentence Insight
 
-> Lave & Wenger reveal that knowledge is inseparable from the contexts and communities in which it is practiced — we learn not by receiving information but by gradually becoming full participants in authentic activities.
+> Lave & Wenger reveal that knowledge is inseparable from the contexts of its use — meaningful learning emerges not from abstract study but from participation in authentic practice where competence develops through engagement with real problems, tools, and communities.
 
 ### 6.4 Three-Bullet Expansion
 
-- **What:** A theory arguing that learning is fundamentally situated in specific contexts and cultures, occurring through legitimate peripheral participation in communities of practice rather than through abstract knowledge transmission
-- **How it works:** Newcomers enter communities through scaffolded, meaningful participation → gradually take on more central roles → develop context-dependent competence → undergo identity transformation from outsider to practitioner
-- **Where it aims:** Toward understanding learning as social practice — the transformation of identity through increasing participation in authentic activities within meaningful communities
+- **What:** A theory arguing that learning is fundamentally embedded in specific contexts of activity, culture, and social practice — knowledge cannot be separated from the situations in which it is developed and used
+- **How it works:** Authentic activity context → legitimate peripheral participation → tool-mediated engagement → gradual competence development → identity transformation within practice
+- **Where it aims:** Toward learning environments that preserve the contextual richness of authentic practice, solving the "transfer problem" by embedding learning where knowledge lives
 
 ## 7. Canonical Glyphs
 
 | Glyph | Element | Meaning in Context |
 |-------|---------|-------------------|
-| ∴ | Air | Distinction between peripheral and central participation |
-| ≈ | Water | Context as constitutive, resonance with situation |
-| ▲ | Fire | Purposeful engagement, motivation to become practitioner |
-| 𐂷 | Wood | Branching possibilities within authentic practice |
-| ☷ | Earth | Cyclical nature of apprenticeship, returning to practice |
-| ⛨ | Metal | Boundaries of community, legitimate participation |
+| ∴ | Air | Distinction — what is relevant in this context |
+| ≈ | Water | Resonance with context, flow of situated meaning |
+| ▲ | Fire | Purpose — authentic goals that drive engagement |
+| 𐂷 | Wood | Exploration — branching within authentic constraints |
+| ☷ | Earth | Grounding — concrete, embodied activity |
+| ⛨ | Metal | Structure — organization of practice, roles, tools |
 
 ## 8. Self-Reference Mark
 
-*This insight was generated by an AI system analyzing situated learning research. The framework is a map; the lived experience of apprenticeship is the territory. The researcher should verify these patterns against actual situated learning contexts.*
+*This insight was generated by an AI system analyzing situated learning research. The framework is a map; the lived experience of learning in authentic contexts is the territory. The researcher should verify these patterns against actual situated learning environments.*
 
 ## 9. Elemental Questioning Integration
 
 ### 9.1 Session Stage Mapping
 
 **Optimal Stage:** Exploring / Sustaining  
-**Bow-Tie Position:** Lower-center — Situated Learning provides the contextual foundation that enables authentic participation
+**Bow-Tie Position:** Lower-left to lower-right — Situated Learning provides the contextual foundation that enables authentic competence
 
 ### 9.2 Generative Questions
 
-**For Initiating:** When have you learned something "by doing" rather than by being taught? What made that learning stick?  
-**For Exploring:** What communities of practice do you belong to? How did you move from newcomer to member?  
-**For Sustaining:** How does the concept of "legitimate peripheral participation" challenge traditional classroom structures where all students do the same work?  
-**For Futuring:** What would education look like if designed around authentic apprenticeship rather than abstract curriculum?
+**For Initiating:** When have you learned something "in context" that you couldn't learn from a book? What made the difference?  
+**For Exploring:** What is the "transfer problem" — and why does Situated Learning claim to solve it?  
+**For Sustaining:** How does the concept of "legitimate peripheral participation" work in authentic practice settings?  
+**For Futuring:** What would education look like if designed around authentic participation rather than simulated exercises?
 
 ## 10. Next Actions
 
 - **File Location:** `SIML/terms/L014_Situated_Learning/`
-- **Cross-References:** L013_Social_Learning_Theory, L012_4E_Cognition, L011_Cognitive_Load_Theory, L010_CAMIL_complete, L005_living_curriculum
-- **Open Question:** How does Situated Learning apply to AI-mediated contexts where "authentic practice" may be virtual or simulated?
-- **Facilitation Suggestion:** Map your own apprenticeship experiences — identify how you moved from peripheral to central participation in a community that matters to you.
+- **Cross-References:** L013_Social_Learning_Theory, L012_4E_Cognition, L011_Cognitive_Load_Theory, L010_CAMIL_complete, L001_jigsaw
+- **Open Question:** How does Situated Learning apply to virtual/augmented reality contexts where "authenticity" is simulated?
+- **Facilitation Suggestion:** Identify a community of practice you belong to — map the authentic tools, activities, and contexts that have shaped your learning.
 
 ---
 
