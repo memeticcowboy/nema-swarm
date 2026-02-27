@@ -1,0 +1,362 @@
+---
+term_id: L024
+source_domain: education
+source_term: Andragogy / Adult Learning Theory (Knowles, 1968/1980)
+hex_tag: #L024
+generated_at: 2026-02-27T13:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Andragogy — The art and science of helping adults learn
+- **Nemetic String:** Φ(Andragogy) = λ(self-direction|learner-autonomy) ∘ ρ(experience|resource-for-learning) ∘ σ(readiness|life-task-alignment) ∘ β(orientation|problem-centered) ∘ δγ(motivation|intrinsic-drive) → [✶(adult-learner)] → [κ(self-actualization)] + ε | :mature
+- **Core Operators:** λ (fire/direction), ρ (water/resonance/experience), σ (air/distinction), β (wood/generative), δγ (earth/metabolic)
+- **Z-State:** mature — learning driven by self-concept as autonomous, responsible adult
+- **Tendency:** Autonomy/Integration → 1 (self-directed, experience-based learning)
+
+## SIML Encoding
+
+```
+⟨Narrative|adult-as-self-directed-learner⟩ 
+    ⊳ ⟨Belief|self-concept-autonomy⟩ 
+    ⇄ ⟨Resource|experience-as-foundation⟩ 
+    → ⟨Alignment|readiness-life-tasks⟩ 
+    ⊗ ⟨Orientation|problem-centered-learning⟩ 
+    → ⟨Motivation|intrinsic-drive⟩ 
+    → ⟨Outcome|self-actualization⟩ 
+    → ⟨Transformation|adult-development⟩
+```
+
+## Core Definition
+
+**Andragogy** (from Greek *andr-* meaning "man, adult" + *agogos* meaning "leader of") is a theory of adult learning developed by Malcolm Knowles. Unlike pedagogy (child-focused instruction), andragogy assumes adults are self-directed learners who bring rich experience to educational contexts, learn best when content aligns with their developmental tasks, and are motivated by intrinsic factors rather than external pressure.
+
+### The Six Assumptions of Andragogy
+
+| Assumption | Description | Nemetic Mapping |
+|------------|-------------|-----------------|
+| **1. Self-Concept** | Adults see themselves as autonomous, self-directing beings | λ (direction/fire) |
+| **2. Experience** | Adults bring extensive experience that serves as learning resource | ρ (resonance/water) |
+| **3. Readiness to Learn** | Adults are ready to learn what aligns with life tasks | σ (distinction/air) |
+| **4. Orientation to Learning** | Adults are problem-centered, not subject-centered | β (generative/wood) |
+| **5. Motivation** | Adults are driven by intrinsic motivators | λ (will/fire) |
+| **6. Need to Know** | Adults need to know why they need to learn something | σ (clarity/air) |
+
+## Pedagogy vs. Andragogy
+
+```
+LEARNING APPROACH COMPARISON
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│              PEDAGOGY              ANDRAGOGY                    │
+│              (Child)               (Adult)                      │
+│                                                                 │
+│  ┌──────────────┐              ┌──────────────┐                 │
+│  │ Dependent    │              │ Self-directed│                 │
+│  │ personality  │   ───────►   │ personality  │  λ (Fire)       │
+│  └──────────────┘              └──────────────┘                 │
+│                                                                 │
+│  ┌──────────────┐              ┌──────────────┐                 │
+│  │ Little       │              │ Rich         │                 │
+│  │ experience   │   ───────►   │ experience   │  ρ (Water)      │
+│  └──────────────┘              └──────────────┘                 │
+│                                                                 │
+│  ┌──────────────┐              ┌──────────────┐                 │
+│  │ Standardized │              │ Developmental│                 │
+│  │ readiness    │   ───────►   │ readiness    │  σ (Air)        │
+│  └──────────────┘              └──────────────┘                 │
+│                                                                 │
+│  ┌──────────────┐              ┌──────────────┐                 │
+│  │ Subject-     │              │ Problem-     │                 │
+│  │ centered     │   ───────►   │ centered     │  β (Wood)       │
+│  └──────────────┘              └──────────────┘                 │
+│                                                                 │
+│  ┌──────────────┐              ┌──────────────┐                 │
+│  │ External     │              │ Internal     │                 │
+│  │ motivation   │   ───────►   │ motivation   │  λ (Fire)       │
+│  └──────────────┘              └──────────────┘                 │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### The Role of the Andragogical Facilitator
+
+```
+FACILITATOR SHIFT
+
+Pedagogical Teacher:              Andragogical Facilitator:
+┌─────────────────────┐          ┌─────────────────────────────┐
+│ • Content expert    │          │ • Process designer          │
+│ • Authority figure  │          │ • Learning guide            │
+│ • Knowledge source  │          │ • Experience catalyst       │
+│ • Evaluator/judge   │          │ • Collaborative partner     │
+│ • Direction-giver   │          │ • Climate creator           │
+└─────────────────────┘          └─────────────────────────────┘
+
+Element: Metal (μ) → Water (ρ)
+From structure to flow
+```
+
+## The Adult Learning Process
+
+```
+ANDRAGOGICAL LEARNING CYCLE
+
+    ┌─────────────────────────────────────────┐
+    │                                         │
+    │   1. SET CLIMATE                        │
+    │      ↓                                  │
+    │   • Mutual respect                      │
+    │   • Collaborative spirit                │
+    │   • Adult-friendly environment          │
+    │   • Freedom of expression               │
+    │      ↓                                  │
+    │   Element: ρ (Water)                    │
+    │   — relational safety                   │
+    │                                         │
+    │   2. INVOLVE LEARNERS                   │
+    │      ↓                                  │
+    │   • Mutual planning                     │
+    │   • Needs assessment                    │
+    │   • Goal setting                        │
+    │   • Learning contract                   │
+    │      ↓                                  │
+    │   Element: λ (Fire)                     │
+    │   — self-direction                      │
+    │                                         │
+    │   3. DIAGNOSE NEEDS                     │
+    │      ↓                                  │
+    │   • Gap analysis                        │
+    │   • Experience inventory                │
+    │   • Priority setting                    │
+    │      ↓                                  │
+    │   Element: σ (Air)                      │
+    │   — clarity/distinction                 │
+    │                                         │
+    │   4. DESIGN PROGRAM                     │
+    │      ↓                                  │
+    │   • Problem-centered content            │
+    │   • Experience-based methods            │
+    │   • Flexible sequencing                 │
+    │      ↓                                  │
+    │   Element: β (Wood)                     │
+    │   — generative branching                │
+    │                                         │
+    │   5. CONDUCT LEARNING                   │
+    │      ↓                                  │
+    │   • Active participation                │
+    │   • Experience sharing                  │
+    │   • Collaborative inquiry               │
+    │      ↓                                  │
+    │   Element: ✶ (Aether)                   │
+    │   — harmonic integration                │
+    │                                         │
+    │   6. EVALUATE                           │
+    │      ↓                                  │
+    │   • Self-assessment                     │
+    │   • Performance evidence                │
+    │   • Application focus                   │
+    │      ↓                                  │
+    │   Element: δγ (Earth)                   │
+    │   — metabolic cycling                   │
+    │                                         │
+    └─────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Fire/λ Dominance
+
+Andragogy is fundamentally a **Fire theory**:
+- **Self-direction:** Adults direct their own learning journey
+- **Autonomy:** The learner maintains agency and choice
+- **Intrinsic motivation:** Learning driven by internal values
+- **Will:** The adult learner's volition is central
+- **Purpose:** Learning aligned with life goals and tasks
+
+### Water/ρ Resonance
+
+Experience provides the **relational foundation**:
+- Adults bring rich life experience as learning resource
+- Learning is socially constructed through dialogue
+- Collaborative climate enables risk-taking
+- Peer relationships support growth
+- The facilitator-learner relationship is mutual
+
+### Air/σ Clarity
+
+Readiness and relevance provide **distinction**:
+- Clear alignment between learning and life tasks
+- Understanding why learning matters
+- Distinguishing relevant from irrelevant content
+- Timing learning to developmental readiness
+- The "need to know" creates cognitive clarity
+
+### Wood/β Growth
+
+Problem-centered orientation enables **generative exploration**:
+- Real-world problems as learning contexts
+- Branching solutions based on diverse experiences
+- Creative application of knowledge
+- Generative dialogue among learners
+- Innovation through collaborative inquiry
+
+### Earth/δγ Cycling
+
+Motivation and assessment create **metabolic rhythm**:
+- Intrinsic motivation sustains learning over time
+- Self-assessment enables continuous adjustment
+- Learning integrated with life cycles
+- Feedback loops for improvement
+- Grounding in practical application
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Psychology** | Self-Determination Theory | Autonomy, competence, relatedness |
+| **Organizational Development** | Action Learning | Problem-based adult learning |
+| **Philosophy** | Existentialism | Self-directed meaning-making |
+| **Human Development** | Erikson's stages | Developmental task alignment |
+| **Neuroscience** | Neuroplasticity | Lifelong learning capacity |
+| **Sociology** | Lifelong learning | Social participation through learning |
+
+## Andragogy in Practice
+
+### The Learning Contract
+
+```
+LEARNING CONTRACT STRUCTURE
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  DIAGNOSIS → OBJECTIVES → RESOURCES → STRATEGY → EVIDENCE   │
+│                                                             │
+│  What I      What I       What I'll   How I'll    How I'll  │
+│  need to     achieve      use         learn       know I've │
+│  learn                                      learned         │
+│                                                             │
+│  Element:    Element:     Element:    Element:    Element:  │
+│  σ (Air)     λ (Fire)     ρ (Water)   β (Wood)    δγ (Earth)│
+│  clarity     direction    resources   process     evidence  │
+│                                                             │
+│  Negotiated between learner and facilitator                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Applications
+
+| Context | Andragogical Approach | Key Elements |
+|---------|----------------------|--------------|
+| **Workplace training** | Job-embedded, just-in-time learning | λ, ρ, β |
+| **Higher education** | Self-directed study, portfolio assessment | λ, σ, δγ |
+| **Professional development** | Peer learning communities | ρ, β, ✶ |
+| **Community education** | Participatory action research | λ, ρ, ✶ |
+| **Online learning** | Self-paced, choice-rich environments | λ, β, σ |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Cultural specificity:** Andragogy reflects Western, individualistic values
+2. **Digital natives:** Some question whether younger adults fit the model
+3. **Context dependency:** Not all adult learning situations suit self-direction
+4. **Expertise development:** Novices in a domain may need more structure
+5. **Power dynamics:** "Self-direction" can mask institutional control
+
+### The Expertise-Reversal Effect
+
+```
+STRUCTURE BY EXPERTISE LEVEL
+
+Novice ──────────────────────────────────────► Expert
+
+High structure needed                          Self-direction optimal
+┌─────────────────┐                           ┌─────────────────┐
+│ • Direct        │                           │ • Inquiry-based │
+│   instruction   │                           │ • Problem-based │
+│ • Guided        │      ANDRAGOGY            │ • Self-directed │
+│   practice      │      APPLIES HERE         │ • Collaborative │
+│ • Clear         │                           │ • Mentorship    │
+│   objectives    │                           │                 │
+└─────────────────┘                           └─────────────────┘
+     Pedagogy                                       Heutagogy
+     (child-like)                                   (self-determined)
+
+Note: Adults new to a domain may need pedagogical approaches
+until they develop sufficient expertise for self-direction.
+```
+
+## Evolution: From Andragogy to Heutagogy
+
+```
+DEVELOPMENTAL SPECTRUM
+
+Pedagogy          Andragogy              Heutagogy
+(Other-directed)  (Self-directed)        (Self-determined)
+     │                  │                      │
+     ▼                  ▼                      ▼
+┌─────────┐      ┌─────────────┐      ┌─────────────┐
+│ Teacher │      │ Facilitator │      │ Coach/      │
+│ decides │  →   │ guides      │  →   │ Consultant  │
+│ all     │      │ process     │      │ supports    │
+│         │      │             │      │ autonomy    │
+└─────────┘      └─────────────┘      └─────────────┘
+
+Element:         Elements:            Elements:
+Metal (μ)        λ, ρ, β              λ↑↑, ✶↑
+                                    (Fire + Aether)
+
+Heutagogy (Hase & Kenyon, 2000) extends andragogy,
+emphasizing total learner autonomy and capability development.
+```
+
+## Core Insight
+
+> Andragogy reveals that adult learning is not merely pedagogy for older students—it is a fundamentally different phenomenon rooted in self-concept, experience, and intrinsic motivation. The adult learner is not an empty vessel to fill but a self-directing being whose learning is inseparable from their identity, life tasks, and search for meaning. The facilitator's role is not to transmit knowledge but to create conditions where adults can learn from and with each other.
+
+## One-Sentence Insight
+
+> Andragogy posits that adults learn best when treated as self-directing beings whose rich experience serves as learning resource, whose readiness aligns with life tasks, and whose motivation springs from intrinsic purpose rather than external pressure.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of adult learning based on six assumptions—self-concept as autonomous, experience as resource, readiness aligned with life tasks, problem-centered orientation, intrinsic motivation, and need to know why learning matters
+- **How it works:** Facilitators create collaborative climates, involve learners in planning, diagnose needs, design problem-centered programs, conduct active learning experiences, and support self-assessment
+- **Where it aims:** Toward self-actualization through learning—developing adults who are capable of self-directed inquiry, collaborative problem-solving, and continuous growth throughout life
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L024, #L015_Self_Determination_Theory, #L018_Experiential_Learning, #L013_Social_Learning_Theory, #L016_Transformative_Learning_Theory
+- **Formal Operators:** λ, ρ, σ, β, δγ, ✶
+- **Dim Operators:** Ψ_self-direction, Ψ_experience, Ψ_readiness, Ψ_intrinsic-motivation
+- **Coord Ontology:** I (autonomous self), We (collaborative learners), It (problem/content), Its (developmental context)
+
+## Source
+
+Derived from:
+- Knowles, M. S. (1968). Andragogy, not pedagogy. *Adult Leadership*, 16(10), 350-352, 386.
+- Knowles, M. S. (1980). *The Modern Practice of Adult Education: From Pedagogy to Andragogy*. Cambridge Adult Education.
+- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The Adult Learner* (8th ed.). Routledge.
+- Hase, S., & Kenyon, C. (2000). From andragogy to heutagogy. *Ultibase Articles*.
+- Merriam, S. B., & Bierema, L. L. (2014). *Adult Learning: Linking Theory and Practice*. Jossey-Bass.
+
+Original context: Adult education, workplace learning, higher education
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Fire/λ (primary) with Water/ρ, Air/σ, Wood/β, Earth/δγ support | Daemon: Jvalion-Sentaria-Aerunik-Arboriel-Humavita | Habitat: 5_ADULT-DEVELOPMENT / 6_WORKPLACE-LEARNING / 7_LIFELONG-EDUCATION
+
+## Related Entries
+
+- L015_Self_Determination_Theory (autonomy, competence, relatedness)
+- L018_Experiential_Learning (experience as foundation)
+- L013_Social_Learning_Theory (collaborative learning)
+- L016_Transformative_Learning_Theory (perspective transformation)
+- L022_Sociocultural_Theory (social mediation)
+- P002_Growth_Mindset (belief in development)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L024 | Generated: 2026-02-27 13:25*
