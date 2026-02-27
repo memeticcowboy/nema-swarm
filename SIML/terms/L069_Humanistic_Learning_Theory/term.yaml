@@ -1,0 +1,381 @@
+---
+term_id: L069
+source_domain: education
+source_term: Humanistic Learning Theory (Rogers, 1969; Maslow, 1943/1954)
+hex_tag: #L069
+generated_at: 2026-02-28T02:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Humanistic Learning Theory — Self-actualization through learner-centered, whole-person development
+- **Nemetic String:** Φ(Humanistic) = ✶(self-actualization|growth-tendency) ∘ λ(autonomy|directional-purpose) ∘ ρ(empathy|therapeutic-relationship) ∘ β(whole-person|integrated-development) → [✶(becoming)] → [✶(authentic-self)] + ε | :becoming
+- **Core Operators:** ✶ (child/harmony), λ (fire/direction), ρ (water/resonance), β (wood/growth)
+- **Z-State:** becoming — learning as a journey toward authentic selfhood and self-actualization
+- **Tendency:** Growth/Harmony → 1 (intrinsic motivation toward full human potential)
+
+## SIML Encoding
+
+```
+⟨Narrative|person-centered-education⟩ 
+    ⊳ ⟨Actor|learner-as-whole-person⟩ 
+    ⊳ ⟨Environment|facilitative-climate|safe-supportive-space⟩ 
+    ⇄ ⟨Process|self-directed-inquiry⟩ 
+    ⇄ ⟨Process|experiential-learning⟩ 
+    ⇄ ⟨Cycle|meaning-making⟩ 
+    → ⟨State|congruence⟩ 
+    → ⟨Outcome|self-actualization⟩ 
+    ⊗ ⟨Transfer|authentic-becoming⟩ 
+    → ⟨Integration|whole-person-development⟩ 
+```
+
+## Core Definition
+
+**Humanistic Learning Theory**, developed by **Carl Rogers** (1969) and grounded in **Abraham Maslow's** (1943, 1954) hierarchy of needs, positions learning as a fundamentally **personal, self-directed journey toward self-actualization**. Unlike behaviorist or cognitivist frameworks that focus on external conditioning or information processing, humanistic theory centers the **whole person** — their feelings, experiences, autonomy, and intrinsic growth tendency.
+
+### The Humanistic Learning Architecture
+
+```
+HIERARCHY OF NEEDS (Maslow):
+┌─────────────────────────────────────────────────────────┐
+│  7. SELF-ACTUALIZATION                                   │
+│     └── Realizing full potential, creativity, growth    │
+│                                                        │
+│  6. ESTEEM NEEDS                                       │
+│     └── Self-respect, confidence, achievement           │
+│                                                        │
+│  5. BELONGINGNESS & LOVE                               │
+│     └── Relationships, community, connection            │
+│                                                        │
+│  4. SAFETY NEEDS                                       │
+│     └── Security, stability, protection                 │
+│                                                        │
+│  3. PHYSIOLOGICAL NEEDS                                │
+│     └── Food, water, shelter, rest                      │
+│                                                        │
+│  [DEFICIENCY NEEDS — must be met before growth]        │
+│  [BEING NEEDS — drive self-actualization]              │
+└─────────────────────────────────────────────────────────┘
+
+LEARNER-CENTERED CONDITIONS (Rogers):
+┌─────────────────────────────────────────────────────────┐
+│  FACILITATIVE CLIMATE FOR LEARNING:                    │
+│                                                        │
+│  1. REALNESS (Congruence)                              │
+│     └── Facilitator is authentic, genuine, transparent │
+│                                                        │
+│  2. PRIZING (Unconditional Positive Regard)            │
+│     └── Accepting learner as worthy person             │
+│                                                        │
+│  3. EMPATHIC UNDERSTANDING                             │
+│     └── Deep listening, understanding learner's frame  │
+│                                                        │
+│  RESULT: Psychological safety for risk-taking          │
+│          Self-directed inquiry becomes possible        │
+│          Intrinsic motivation emerges                  │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Key Principles
+
+| Principle | Definition | Educational Application |
+|-----------|------------|------------------------|
+| **Self-Actualization** | Intrinsic drive to realize full potential | Curriculum supports individual growth paths |
+| **Learner-Centered** | Student, not content, is the focus | Student chooses learning direction |
+| **Whole Person** | Cognition + emotion + experience | Holistic assessment, not just cognitive |
+| **Facilitation** | Teacher as guide, not transmitter | Creating conditions for learning |
+| **Experiential Learning** | Learning through lived experience | Hands-on, relevant, meaningful activities |
+| **Intrinsic Motivation** | Learning for its own sake | Avoid external rewards/punishments |
+| **Self-Direction** | Learner controls the process | Autonomy in goals, methods, evaluation |
+
+## The Rogers Revolution (1960s-1980s)
+
+### From Teacher-Centered to Learner-Centered
+
+```
+TRADITIONAL MODEL:
+    Teacher (Expert) ──KNOWLEDGE──► Student (Empty Vessel)
+         │                              │
+         └── Controls: Content, Pace, Assessment
+         └── Authority: External, hierarchical
+
+HUMANISTIC MODEL:
+    Facilitator ──CLIMATE──► Learner (Self-Actualizing)
+         │                          │
+         └── Provides: Safety, Empathy, Authenticity
+         └── Authority: Internal, emergent
+         
+    Learning emerges from learner's own meaning-making
+    Facilitator "walks alongside" not "stands before"
+```
+
+### The Necessary and Sufficient Conditions
+
+Rogers identified six conditions for therapeutic change that apply equally to learning:
+
+```
+1. RELATIONSHIP: Two persons in psychological contact
+                 ↓
+2. VULNERABILITY: Client (learner) is incongruent, vulnerable to anxiety
+                 ↓
+3. CONGRUENCE: Therapist (facilitator) is genuine, integrated, real
+                 ↓
+4. UNCONDITIONAL POSITIVE REGARD: Facilitator accepts learner fully
+                 ↓
+5. EMPATHIC UNDERSTANDING: Facilitator senses learner's private world
+                 ↓
+6. COMMUNICATION: Learner perceives conditions 4 & 5
+                 ↓
+RESULT: CONSTRUCTIVE PERSONALITY CHANGE / MEANINGFUL LEARNING
+```
+
+## Self-Actualization: The Peak Experience
+
+### Characteristics of Self-Actualizing People
+
+Maslow studied exceptional individuals (Einstein, Eleanor Roosevelt, Lincoln) to identify traits:
+
+```
+SELF-ACTUALIZATION TRAITS:
+├── Perception of reality (efficient, accurate)
+├── Acceptance (self, others, nature)
+├── Spontaneity (simple, natural, authentic)
+├── Problem-centering (focus on external mission)
+├── Detachment (need for privacy, solitude)
+├── Autonomy (independent of culture/environment)
+├── Continued freshness of appreciation
+├── Peak experiences (mystical, transcendent)
+├── Gemeinschaftsgefühl (human kinship)
+├── Profound interpersonal relations
+├── Democratic character structure
+├── Discrimination: means vs. ends
+├── Philosophical sense of humor
+├── Creativity (fresh, naive, direct)
+└── Resistance to enculturation
+```
+
+### Peak Experiences in Learning
+
+```
+ORDINARY LEARNING          PEAK LEARNING EXPERIENCE
+─────────────────          ───────────────────────
+Effortful                  Effortless
+Distracted                 Fully absorbed
+Self-conscious             Self-transcending
+Time drags                 Time disappears
+Anxiety about performance  Joy in discovery
+External motivation        Intrinsic fulfillment
+Fragmented attention       Complete concentration
+─────────────────          ───────────────────────
+     ↓                              ↓
+Surface learning              Transformative learning
+                              (similar to Flow)
+```
+
+## The Facilitative Climate
+
+### Three Core Conditions
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  CONGRUENCE (Realness)                                  │
+│  ═══════════════════════                                │
+│  The facilitator is authentically present               │
+│  No facade, no professional mask                        │
+│  Shares feelings appropriately                          │
+│  "I don't know" is acceptable                           │
+│                                                         │
+│  → Creates trust through vulnerability                  │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  UNCONDITIONAL POSITIVE REGARD (Prizing)                │
+│  ═══════════════════════════════════════                │
+│  Accepting the learner as a person of worth             │
+│  Separating person from behavior                        │
+│  No conditional worth ("if you do X, you're good")      │
+│  Caring without possessiveness                          │
+│                                                         │
+│  → Creates safety for risk-taking                       │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  EMPATHIC UNDERSTANDING                                 │
+│  ═══════════════════════                                │
+│  Sensing the learner's private world                    │
+│  Understanding without judgment                         │
+│  Communicating this understanding                       │
+│  "Walking in their shoes"                               │
+│                                                         │
+│  → Creates felt understanding, reduces isolation        │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Child/✶ Dominance
+
+Humanistic Learning Theory is fundamentally a **Child theory**:
+- **Harmony/Integration:** Whole person — cognition, emotion, spirit
+- **Becoming:** Process-oriented, not product-oriented
+- **Authenticity:** True self emerging, not conditioned self
+- **Play/Creativity:** Intrinsic joy in learning
+- **Growth:** Natural unfolding of potential
+- **Self-Actualization:** The peak of human development
+
+### Supporting Elements
+
+| Element | Role in Humanistic Learning |
+|---------|----------------------------|
+| **Fire/λ** | Directional purpose, self-direction, autonomy |
+| **Water/ρ** | Empathic relationships, emotional safety, resonance |
+| **Wood/β** | Growth tendency, branching potential, becoming |
+| **Air/σ** | Distinction of self, authentic identity |
+| **Earth/δγ** | Cyclical nature of growth, developmental stages |
+| **Metal/μ** | Structure of facilitative conditions, boundaries |
+
+## Applications in Education
+
+### Learner-Centered Teaching Practices
+
+| Practice | Description | Example |
+|----------|-------------|---------|
+| **Contract grading** | Student sets own standards | "What grade do you want? Here's what it requires" |
+| **Self-directed projects** | Student chooses topic/method | Independent study with facilitator guidance |
+| **Experiential learning** | Learning through doing | Service learning, internships, fieldwork |
+| **Reflective journals** | Processing experience | Personal meaning-making through writing |
+| **Peer facilitation** | Students support each other | Collaborative learning circles |
+| **Open classrooms** | Flexible structure | Freedom to pursue interests |
+
+### The Freedom to Learn (Rogers, 1969)
+
+```
+PRINCIPLES FOR FACILITATING LEARNING:
+
+1. Set the climate: Establish a facilitative atmosphere
+2. Clarify purposes: Help learners identify their goals
+3. Organize resources: Make learning materials accessible
+4. Balance intellectual/emotional components: Whole person
+5. Share feelings/thoughts: Facilitator as person
+6. Be a flexible resource: Adapt to learner needs
+7. Be a participant learner: Learn alongside students
+8. Accept silence: Allow time for processing
+9. Recognize learning is threatening: Support risk-taking
+10. Recognize individual differences: Each path is unique
+```
+
+## Criticisms and Limitations
+
+```
+CRITICISMS:
+├── Too idealistic — not all learners are self-motivated
+├── Cultural bias — individualism may not translate across cultures
+├── Lack of structure — some learners need more guidance
+├── Difficult to assess — how measure self-actualization?
+├── Time-intensive — facilitation requires significant presence
+├── Not scalable — hard to implement in large classes
+└── Vague outcomes — what exactly is learned?
+
+RESPONSES:
+├── Can be combined with other approaches (eclectic)
+├── Conditions can be created in any cultural context
+├── Structure can emerge from learner needs
+├── Qualitative assessment captures growth
+├── Technology can extend facilitator presence
+├── Small group applications remain powerful
+└── Process goals complement content goals
+```
+
+## Connection to Related Theories
+
+### Humanistic and Other Frameworks
+
+| Theory | Relationship | Key Difference |
+|--------|--------------|----------------|
+| **Constructivism** | Both emphasize active learner | Humanistic adds emotional dimension |
+| **Experiential Learning (Kolb)** | Both value experience | Humanistic adds therapeutic conditions |
+| **Self-Determination Theory** | Both emphasize autonomy | Humanistic adds self-actualization as peak |
+| **Transformative Learning** | Both can be life-changing | Humanistic focuses on becoming, not just perspective change |
+| **Flow Theory** | Peak experiences similar | Humanistic broader than optimal challenge |
+
+### Maslow's Later Work: Transpersonal Psychology
+
+```
+BEYOND SELF-ACTUALIZATION (Maslow, 1960s-1970s):
+
+Self-Actualization
+        ↓
+Transcendence Needs
+        ↓
+├── Peak experiences as transformative
+├── Cosmic consciousness
+├── Transpersonal identification
+├── Values beyond self
+└── Mystical/unitive experiences
+
+EDUCATIONAL IMPLICATION:
+Learning can be not just useful but sacred
+Education as spiritual development
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Psychotherapy** | Client-centered therapy | Same conditions, different context |
+| **Organizational** | Self-managing teams | Autonomy, trust, intrinsic motivation |
+| **Parenting** | Authoritative parenting | Warmth + autonomy support |
+| **Coaching** | Life coaching | Facilitation of client goals |
+| **Spirituality** | Contemplative practice | Inner growth, presence, meaning |
+| **Medicine** | Patient-centered care | Whole person, not just disease |
+
+## Core Insight
+
+> Humanistic Learning Theory reveals that education is not merely the transmission of knowledge but the **cultivation of persons**. When learners are treated as self-actualizing beings with intrinsic worth, when they experience genuine empathy and unconditional acceptance, when they are free to direct their own learning — then education becomes a transformative journey toward authentic becoming. The facilitator's task is not to shape the learner but to create the conditions in which the learner's natural growth tendency can unfold.
+
+## One-Sentence Insight
+
+> Humanistic learning demonstrates how self-actualization emerges through learner-centered education — when facilitators provide empathy, authenticity, and unconditional positive regard, learners naturally grow toward their full potential.
+
+## Three-Bullet Expansion
+
+- **What:** A learner-centered approach emphasizing the whole person's growth toward self-actualization through intrinsic motivation, experiential learning, and facilitative relationships
+- **How it works:** Facilitator creates psychological safety (congruence + unconditional positive regard + empathy) → Learner engages in self-directed inquiry → Meaningful learning emerges → Progress toward self-actualization
+- **Where it aims:** Toward authentic becoming — education as a journey of human flourishing where learners realize their unique potential and develop their full humanity
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L069, #L015_Self_Determination_Theory, #L018_Experiential_Learning, #L004_transformative_learning, #L020_Flow_Theory, #L024_Andragogy
+- **Formal Operators:** ✶, λ, ρ, β, σ, δγ, μ
+- **Dim Operators:** Ψ_self-actualization, Ψ_facilitation, Ψ_congruence, Ψ_becoming
+- **Coord Ontology:** I (self-actualizing individual), We (facilitative relationship), It (learning climate), Its (growth tendency)
+
+## Source
+
+Derived from:
+- Maslow, A. H. (1943). A theory of human motivation. *Psychological Review*, 50(4), 370-396.
+- Maslow, A. H. (1954). *Motivation and Personality*. Harper & Row.
+- Maslow, A. H. (1962). *Toward a Psychology of Being*. Van Nostrand.
+- Rogers, C. R. (1951). *Client-Centered Therapy: Its Current Practice, Implications and Theory*. Houghton Mifflin.
+- Rogers, C. R. (1961). *On Becoming a Person: A Therapist's View of Psychotherapy*. Houghton Mifflin.
+- Rogers, C. R. (1969). *Freedom to Learn: A View of What Education Might Become*. Charles E. Merrill.
+- Rogers, C. R. (1980). *A Way of Being*. Houghton Mifflin.
+- Rogers, C. R., & Freiberg, H. J. (1994). *Freedom to Learn* (3rd ed.). Merrill.
+
+Original context: Humanistic psychology, psychotherapy, education reform
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Child/✶ (primary) with Fire/λ, Water/ρ, Wood/β support | Daemon: Harmonia-Pyrion-Aquarion-Biota | Habitat: 1_SELF-ACTUALIZATION / 2_FACILITATIVE-CLIMATE / 3_WHOLE-PERSON-DEVELOPMENT
+
+## Related Entries
+
+- L015_Self_Determination_Theory (autonomy, competence, relatedness)
+- L018_Experiential_Learning (learning through experience)
+- L004_transformative_learning (perspective transformation)
+- L020_Flow_Theory (optimal experience, peak states)
+- L024_Andragogy (adult learning principles)
+- L047_Self_Regulated_Learning (self-directed learning strategies)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L069 | Generated: 2026-02-28 02:22*
