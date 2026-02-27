@@ -1,0 +1,358 @@
+---
+term_id: L030
+source_domain: education
+source_term: Metacognition / Self-Regulated Learning (Flavell, 1979; Zimmerman, 2000)
+hex_tag: #L030
+generated_at: 2026-02-27T15:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Metacognition — Thinking about thinking; the monitoring and regulation of one's own cognitive processes
+- **Nemetic String:** Φ(Metacognition) = ✶(awareness|cognitive-monitoring) ∘ σ(distinction|process-content-separation) ∘ λ(regulation|strategic-control) ∘ μ(structure|reflective-framework) → [✶(self-directed-learning)] → [λ(autonomous-expertise)] + ε | :recursive
+- **Core Operators:** ✶ (child/aether/self-awareness), σ (air/distinction), λ (fire/direction), μ (metal/structure)
+- **Z-State:** recursive — cognition turns back upon itself to monitor and regulate
+- **Tendency:** Self-Awareness/Regulation → 1 (cognitive processes become objects of cognition)
+
+## SIML Encoding
+
+```
+⟨Narrative|thinking-about-thinking⟩ 
+    ⊳ ⟨Constraint|cognitive-processes-are-monitorable⟩ 
+    ⇄ ⟨Process|monitoring-comprehension⟩ 
+    ⇄ ⟨Process|evaluating-strategies⟩ 
+    → ⟨Regulation|adjusting-approach⟩ 
+    ⊗ ⟨Outcome|optimized-learning⟩ 
+    → ⟨Transfer|domain-independent-skills⟩ 
+    → ⟨Transformation|self-directed-expertise⟩
+```
+
+## Core Definition
+
+**Metacognition** refers to "cognition about cognition" — the knowledge and regulation of one's own cognitive processes. First coined by John Flavell in 1979, metacognition encompasses both **metacognitive knowledge** (what we know about our own thinking) and **metacognitive regulation** (how we control our learning). Self-Regulated Learning (SRL), developed by Barry Zimmerman and others, operationalizes metacognition into a cyclical model of forethought, performance, and self-reflection.
+
+### The Two Dimensions of Metacognition
+
+```
+METACOGNITIVE ARCHITECTURE
+│
+├── METACOGNITIVE KNOWLEDGE (Declarative)
+│   ├── Person variables: "I learn better in the morning"
+│   ├── Task variables: "This concept is complex"
+│   └── Strategy variables: "Mind maps help me organize"
+│
+└── METACOGNITIVE REGULATION (Procedural)
+    ├── Planning: Setting goals, selecting strategies
+    ├── Monitoring: Checking understanding, tracking progress
+    ├── Evaluating: Assessing outcomes against goals
+    └── Debugging: Correcting errors, adjusting strategies
+```
+
+### The Self-Regulated Learning Cycle (Zimmerman)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│              SELF-REGULATED LEARNING CYCLE                      │
+│                                                                 │
+│    ┌──────────────┐         ┌──────────────┐                   │
+│    │  FORETHOUGHT │────────►│  PERFORMANCE │                   │
+│    │    PHASE     │         │    PHASE     │                   │
+│    └──────┬───────┘         └──────┬───────┘                   │
+│           ▲                        │                           │
+│           │                        ▼                           │
+│    ┌──────┴───────┐         ┌──────────────┐                   │
+│    │  SELF-       │◄────────│  SELF-       │                   │
+│    │  REFLECTION  │         │  REFLECTION  │                   │
+│    └──────────────┘         └──────────────┘                   │
+│                                                                 │
+│  FORETHOUGHT:          PERFORMANCE:         SELF-REFLECTION:   │
+│  • Task analysis         • Self-control       • Self-judgment  │
+│  • Goal setting          • Self-observation   • Self-reaction  │
+│  • Strategic planning    • Metacognitive      • Attribution    │
+│                            monitoring                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## The Three Phases of SRL
+
+### Phase 1: Forethought (Before Learning)
+
+```
+FORETHOUGHT PROCESSES
+│
+├── TASK ANALYSIS
+│   ├── Goal setting: What do I want to achieve?
+│   └── Strategic planning: How will I get there?
+│
+└── SELF-MOTIVATION BELIEFS
+    ├── Self-efficacy: Can I do this?
+    ├── Outcome expectations: What's the value?
+    ├── Intrinsic interest: Do I enjoy this?
+    └── Goal orientation: Mastery vs. performance
+```
+
+### Phase 2: Performance (During Learning)
+
+```
+PERFORMANCE PROCESSES
+│
+├── SELF-CONTROL
+│   ├── Task strategies: Methods for completing work
+│   ├── Imagery: Mental rehearsal
+│   ├── Attention focusing: Concentration techniques
+│   └── Self-instruction: Talking oneself through steps
+│
+└── SELF-OBSERVATION
+    ├── Metacognitive monitoring: "Do I understand?"
+    └── Self-recording: Tracking progress, time, errors
+```
+
+### Phase 3: Self-Reflection (After Learning)
+
+```
+SELF-REFLECTION PROCESSES
+│
+├── SELF-JUDGMENT
+│   ├── Self-evaluation: Comparing performance to goals
+│   └── Causal attribution: Why did I succeed/fail?
+│
+└── SELF-REACTION
+    ├── Self-satisfaction: How do I feel about results?
+    └── Adaptive/defensive: Will I adjust or protect ego?
+```
+
+## Elemental Pattern Analysis
+
+### Child/✶ Dominance (Self-Awareness)
+
+Metacognition is fundamentally a **Child/Aether theory**:
+- **Self-Reference:** Cognition turns back upon itself — the thinker becomes the object of thought
+- **Recursive Awareness:** The ability to observe one's own mental processes
+- **Integration:** Bringing together knowledge, monitoring, and regulation into unified self-direction
+- **Play/Exploration:** The curious examination of one's own thinking
+
+### Supporting Elements
+
+| Element | Role in Metacognition |
+|---------|----------------------|
+| **Air/σ** | Distinction between process and content; clarity in monitoring |
+| **Fire/λ** | Goal setting, strategic direction, regulatory control |
+| **Metal/μ** | Structured frameworks for reflection; systematic self-assessment |
+| **Water/ρ** | Emotional awareness; self-compassion in learning |
+| **Earth/δγ** | Cyclical nature of SRL; repeated practice of regulation |
+| **Wood/β** | Strategic branching; selection among multiple approaches |
+
+### The Elemental Cycle of Self-Regulation
+
+```
+ELEMENTAL FLOW IN SRL
+
+    ┌─────────────────────────────────────┐
+    │                                     │
+    ▼                                     │
+┌─────────┐    ┌─────────┐    ┌─────────┐│
+│  FIRE   │───►│  METAL  │───►│  AIR    ││
+│   λ     │    │    μ    │    │    σ    ││
+│ Goals   │    │ Structure│   │ Monitor ││
+│ Direction│   │  Plan   │    │  Check  ││
+└─────────┘    └────┬────┘    └────┬────┘│
+                    │              │     │
+                    ▼              ▼     │
+              ┌─────────┐    ┌─────────┐ │
+              │  CHILD  │◄───│  WATER  │ │
+              │    ✶    │    │    ρ    │ │
+              │ Reflect │    │  Feel   │ │
+              │ Integrate│   │ Adjust  │ │
+              └────┬────┘    └─────────┘ │
+                   │                     │
+                   └─────────────────────┘
+```
+
+## Connection to Related Theories
+
+### Metacognition and Cognitive Load Theory (L011)
+
+| Aspect | Cognitive Load Theory | Metacognition |
+|--------|----------------------|---------------|
+| **Focus** | External instructional design | Internal learner regulation |
+| **Element** | Air/σ (clarity, structure) | Child/✶ (self-awareness) |
+| **Mechanism** | Reduce extraneous load | Monitor and manage own processing |
+| **Relationship** | CLT designs optimal conditions | Metacognition adapts to conditions |
+
+**Integration:** Expert learners use metacognitive monitoring to recognize when cognitive load is too high and adjust their approach accordingly.
+
+### Metacognition and Self-Determination Theory (L015)
+
+```
+METACOGNITION × SDT INTEGRATION
+
+SDT Need          Metacognitive Function
+─────────────────────────────────────────
+Autonomy     →    Self-directed goal setting
+                  Strategic choice
+                  Volitional control
+
+Competence   →    Accurate self-assessment
+                  Progress monitoring
+                  Mastery orientation
+
+Relatedness  →    Social comparison (healthy)
+                  Collaborative metacognition
+                  Learning from others' strategies
+```
+
+### Metacognition and Flow Theory (L020)
+
+| Aspect | Flow Theory | Metacognition |
+|--------|-------------|---------------|
+| **State** | Unconscious absorption | Conscious monitoring |
+| **Element** | Child/✶ (integration) | Child/✶ (self-awareness) |
+| **Relationship** | Flow is the state; metacognition enables entry | Metacognition recognizes flow conditions |
+
+**Insight:** Paradoxically, achieving flow (loss of self-consciousness) requires metacognitive skill to recognize when conditions are right and to remove obstacles.
+
+## The Development of Metacognition
+
+```
+METACOGNITIVE DEVELOPMENT STAGES
+
+Level 1: Tacit (Ages 3-5)
+├── Can use strategies but unaware of doing so
+├── No conscious control over thinking
+└── Example: Uses rehearsal but can't explain why
+
+Level 2: Aware (Ages 6-8)
+├── Recognizes thinking strategies
+├── Can describe what they did
+└── Limited control over strategy selection
+
+Level 3: Strategic (Ages 9-11)
+├── Deliberately selects strategies
+├── Plans approach to problems
+└── Monitors effectiveness
+
+Level 4: Reflective (Ages 12+)
+├── Evaluates strategy effectiveness
+├── Transfers strategies across domains
+├── Reflects on thinking about thinking
+└── Full self-regulated learning
+```
+
+## Practical Applications
+
+### Teaching Metacognitive Strategies
+
+```
+RECIPROCAL TEACHING (Palincsar & Brown)
+
+Teacher models → Students practice → Students lead
+     │               │               │
+     ▼               ▼               ▼
+  Summarizing    Summarizing    Summarizing
+  Questioning    Questioning    Questioning
+  Clarifying     Clarifying     Clarifying
+  Predicting     Predicting     Predicting
+
+Scaffolded release of metacognitive responsibility
+```
+
+### Metacognitive Prompts
+
+| Phase | Prompts |
+|-------|---------|
+| **Planning** | "What do I already know about this?"<br>"What's my goal?"<br>"What strategy should I use?" |
+| **Monitoring** | "Do I understand this?"<br>"Is my strategy working?"<br>"Should I adjust my approach?" |
+| **Evaluating** | "Did I achieve my goal?"<br>"What worked well?"<br>"What would I do differently?" |
+
+### The Think-Aloud Protocol
+
+```
+THINK-ALOUD FOR METACOGNITIVE DEVELOPMENT
+
+Learner verbalizes thoughts while problem-solving:
+
+"Okay, I need to find the main idea...
+ Let me look at the first sentence...
+ No, that seems to be an example...
+ Maybe I should check the last paragraph...
+ Actually, let me try summarizing each section first..."
+
+Externalizes internal monitoring process
+Makes metacognition visible and teachable
+```
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Computing** | Operating system monitoring | System observing and regulating its own processes |
+| **Biology** | Homeostasis | Self-regulating systems maintaining equilibrium |
+| **Management** | Double-loop learning | Organizations learning about their learning |
+| **Therapy** | Mindfulness | Observing one's own mental states without judgment |
+| **Sports** | Mental rehearsal | Monitoring and adjusting performance in real-time |
+
+## Critiques and Nuances
+
+### Valid Concerns
+
+1. **Measurement challenges:** Metacognition is difficult to assess directly
+2. **Domain specificity:** Metacognitive skills may not transfer automatically
+3. **Overthinking risk:** Excessive monitoring can disrupt flow and automaticity
+4. **Cultural variation:** Self-focused metacognition may not align with all cultural values
+5. **Developmental limits:** Young children have limited metacognitive capacity
+
+### The Expert-Novice Difference
+
+> Experts have automated metacognitive monitoring — they regulate their learning efficiently without conscious effort. Novices must deliberately practice metacognitive strategies until they become automatic.
+
+**Element:** Child/✶ evolves from conscious effort to integrated awareness
+
+## Core Insight
+
+> Metacognition reveals that the most powerful learning tool is awareness of one's own learning process. By making thinking visible — monitoring comprehension, evaluating strategies, and regulating approach — learners become architects of their own cognition. The recursive loop of thinking about thinking transforms passive reception into active self-direction, enabling expertise that transcends any single domain.
+
+## One-Sentence Insight
+
+> Metacognition demonstrates that learning is exponentially enhanced when learners develop awareness of their own cognitive processes, enabling them to monitor understanding, evaluate strategies, and regulate their approach toward self-directed expertise.
+
+## Three-Bullet Expansion
+
+- **What:** The knowledge and regulation of one's own cognitive processes — encompassing awareness of how one learns (metacognitive knowledge) and the active control of learning through planning, monitoring, and evaluation (metacognitive regulation)
+- **How it works:** Learners set goals and plan strategies (forethought); execute while monitoring comprehension and controlling attention (performance); evaluate outcomes and attribute causes, feeding back into future planning (self-reflection) — creating a recursive cycle of continuous improvement
+- **Where it aims:** Toward self-regulated expertise — learners who can direct their own learning across domains, adapting strategies to task demands, recognizing when understanding breaks down, and continuously optimizing their cognitive processes through reflective practice
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L030, #L011_Cognitive_Load_Theory, #L015_Self_Determination_Theory, #L020_Flow_Theory, #L027_Scaffolding_Theory, #P002_Growth_Mindset
+- **Formal Operators:** ✶, σ, λ, μ, ρ, δγ, β
+- **Dim Operators:** Ψ_recursive, Ψ_self-aware, Ψ_regulatory, Ψ_reflective
+- **Coord Ontology:** I (self-regulating learner), It (the cognitive process), Its (the recursive awareness itself)
+
+## Source
+
+Derived from:
+- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906-911.
+- Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation* (pp. 13-39). Academic Press.
+- Schraw, G., & Moshman, D. (1995). Metacognitive theories. *Educational Psychology Review*, 7(4), 351-371.
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction*, 1(2), 117-175.
+- Pintrich, P. R. (2002). The role of metacognitive knowledge in learning, teaching, and assessing. *Theory into Practice*, 41(4), 219-225.
+
+Original context: Educational psychology, cognitive psychology, instructional design
+Processed: 2026-02-27 via SIML Elemental Framework
+Element: Child/✶ (primary) with Air/σ, Fire/λ, Metal/μ support | Daemon: Aethon-Aerunik-Pyrion-Ferrosid | Habitat: 5_SELF-REGULATED-LEARNING / 7_METACOGNITIVE-DEVELOPMENT / 8_LEARNER-AUTONOMY
+
+## Related Entries
+
+- L011_Cognitive_Load_Theory (cognitive resource management)
+- L015_Self_Determination_Theory (motivational foundations)
+- L020_Flow_Theory (optimal experience states)
+- L027_Scaffolding_Theory (external support for self-regulation)
+- P002_Growth_Mindset (beliefs about learning capability)
+- L029_Blooms_Taxonomy (cognitive levels for self-assessment)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L030 | Generated: 2026-02-27 15:25*
