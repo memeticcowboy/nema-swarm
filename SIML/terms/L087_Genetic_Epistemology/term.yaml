@@ -1,0 +1,312 @@
+---
+term_id: L087
+source_domain: education
+source_term: Genetic Epistemology / Piaget's Constructivism (Piaget, 1952)
+hex_tag: #L087
+generated_at: 2026-02-28T08:52:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Genetic Epistemology — Knowledge construction through cognitive structures that evolve via assimilation and accommodation
+- **Nemetic String:** Φ(GE) = δγ(schemas|cognitive-structures) ⊗ β(assimilation|incorporation) ⇄ β(accommodation|restructuring) → [κ(equilibration)] → [δγ(cognitive-stages)] → [✶(formal-operations)] + ε | :constructive
+- **Core Operators:** δγ (earth/cycling/structuring), β (wood/branching/adaptation), κ (knowledge/construction), ✶ (aether/integration)
+- **Z-State:** constructive — knowledge is actively built through interaction with environment
+- **Tendency:** Adaptation/Organization → 1 (cognitive equilibrium through structural change)
+
+## SIML Encoding
+
+```
+⟨Narrative|knowledge-as-constructed⟩ 
+    ⊳ ⟨Constraint|maturation-readiness⟩ 
+    ⊳ ⟨Process|organization|internal-structuring⟩ 
+    ⇄ ⟨Process|adaptation|environmental-interaction⟩ 
+    → ⟨Mechanism|assimilation|fitting-experience⟩ 
+    ⊗ ⟨Mechanism|accommodation|changing-structure⟩ 
+    → ⟨Outcome|equilibration|cognitive-balance⟩ 
+    → ⟨Development|stage-progression⟩ 
+    → ⟨Maturity|formal-operations|abstract-reasoning⟩
+```
+
+## Core Definition
+
+**Genetic Epistemology**, developed by Jean Piaget (1896-1980), is a theory of knowledge development that explains how humans construct cognitive structures (schemas) through interaction with their environment. The term "genetic" refers to the genesis/origin of knowledge, not heredity. Piaget proposed that cognitive development proceeds through invariant stages, with each stage representing qualitatively different ways of thinking.
+
+### The Fundamental Processes
+
+```
+KNOWLEDGE CONSTRUCTION CYCLE
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                  COGNITIVE EQUILIBRIUM                  │
+    │                      (Balance)                          │
+    │                                                         │
+    │         Existing schemas adequately explain             │
+    │              new experiences                            │
+    │                      ▲                                  │
+    │                      │                                  │
+    │         ┌────────────┴────────────┐                    │
+    │         │   Disequilibrium        │                    │
+    │         │   (Cognitive Conflict)  │                    │
+    │         │                         │                    │
+    │    New experience doesn't fit    │                    │
+    │    existing cognitive structures │                    │
+    │         └────────────┬────────────┘                    │
+    │                      │                                  │
+    │           ┌──────────┴──────────┐                      │
+    │           ▼                     ▼                      │
+    │    ┌─────────────┐     ┌─────────────┐                │
+    │    │ ASSIMILATION│     │ACCOMMODATION│                │
+    │    │             │     │             │                │
+    │    │ Fit new     │     │ Change      │                │
+    │    │ experience  │     │ existing    │                │
+    │    │ into        │     │ schemas to  │                │
+    │    │ existing    │     │ fit new     │                │
+    │    │ schemas     │     │ experience  │                │
+    │    │             │     │             │                │
+    │    │  Element:   │     │  Element:   │                │
+    │    │  Wood/β     │     │  Wood/β     │                │
+    │    │  (growth    │     │  (branching │                │
+    │    │  within)    │     │  outward)   │                │
+    │    └─────────────┘     └─────────────┘                │
+    │           │                     │                      │
+    │           └──────────┬──────────┘                      │
+    │                      ▼                                  │
+    │              Return to Equilibrium                      │
+    │              (at higher cognitive level)                │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### The Four Stages of Cognitive Development
+
+| Stage | Age Range | Key Characteristics | Element | Nemetic Operator |
+|-------|-----------|---------------------|---------|------------------|
+| **Sensorimotor** | 0-2 years | Object permanence; sensory-motor schemes; no symbolic thought | Earth/δγ | Grounding/Embodiment |
+| **Preoperational** | 2-7 years | Symbolic function; egocentrism; centration; irreversibility | Water/ρ | Resonance/Imagination |
+| **Concrete Operational** | 7-11 years | Conservation; classification; seriation; concrete logic | Metal/μ | Structure/Organization |
+| **Formal Operational** | 11+ years | Abstract reasoning; hypothetical-deductive logic; propositional thought | Air/σ | Abstraction/Distinction |
+
+## Key Concepts
+
+### 1. Schemas (Cognitive Structures)
+
+```
+SCHEMA DEVELOPMENT
+═══════════════════════════════════════════════════════════════
+
+    Initial Schema (Simple)
+    ┌─────────────────┐
+    │  [GRASP]        │
+    │  Simple motor   │
+    │  pattern        │
+    └────────┬────────┘
+             │
+             ▼ Assimilation & Accommodation
+    
+    Evolved Schema (Complex)
+    ┌─────────────────────────────────────┐
+    │  [GRASP] ──► [MANIPULATE]           │
+    │      │           │                  │
+    │      ▼           ▼                  │
+    │  [EXAMINE] ◄── [CLASSIFY]           │
+    │                                     │
+    │  Integrated cognitive structure     │
+    │  for object interaction             │
+    └─────────────────────────────────────┘
+    
+    Schemas organize knowledge and guide behavior
+    They become increasingly complex and abstract
+```
+
+### 2. Operations
+
+**Operations** are internalized, reversible mental actions:
+- **Concrete operations:** Mental actions on actual objects (conservation, classification)
+- **Formal operations:** Mental actions on ideas and abstractions (hypothetical reasoning)
+
+### 3. The Role of Play
+
+| Play Type | Age | Function | Cognitive Process |
+|-----------|-----|----------|-------------------|
+| **Practice play** | Sensorimotor | Repeat actions for mastery | Assimilation |
+| **Symbolic play** | Preoperational | Represent world through symbols | Accommodation |
+| **Games with rules** | Concrete+ | Social coordination, rule following | Equilibration |
+
+## Elemental Pattern Analysis
+
+### Earth/δγ Dominance (Primary)
+
+Genetic Epistemology is fundamentally an **Earth theory**:
+- **Structural grounding:** Knowledge built on sensorimotor foundations
+- **Cyclical development:** Stages proceed in invariant sequence
+- **Embodied cognition:** Intelligence begins in physical action
+- **Conservation:** Understanding that quantity remains constant despite appearance changes
+
+### Wood/β as Secondary (Adaptation)
+
+The twin processes of adaptation:
+- **Assimilation:** Growing within existing structure (like a tree adding rings)
+- **Accommodation:** Branching in new directions when existing structure insufficient
+
+### Supporting Elements
+
+| Element | Role in Genetic Epistemology | Manifestation |
+|---------|------------------------------|---------------|
+| **Metal/μ** | Logical structure | Classification, seriation, concrete operations |
+| **Water/ρ** | Symbolic function | Representation, imagination, preoperational thought |
+| **Air/σ** | Abstract reasoning | Formal operations, hypothetical-deductive logic |
+| **Fire/λ** | Direction of development | Progress toward equilibration, cognitive autonomy |
+| **✶/Aether** | Integration | Ultimate cognitive maturity, wisdom |
+
+## Piaget's Constructivism vs. Other Theories
+
+### vs. Behaviorism
+
+| Aspect | Behaviorism | Piaget's Constructivism |
+|--------|-------------|------------------------|
+| **Knowledge source** | External environment | Active construction |
+| **Learner role** | Passive recipient | Active agent |
+| **Learning mechanism** | Stimulus-response conditioning | Assimilation/accommodation |
+| **Development view** | Continuous | Stage-based, qualitative shifts |
+| **Element** | Earth/δγ (conditioning) | Wood/β (growth) + Earth/δγ (structure) |
+
+### vs. Vygotsky's Sociocultural Theory
+
+| Aspect | Piaget | Vygotsky |
+|--------|--------|----------|
+| **Primary driver** | Individual maturation | Social interaction |
+| **Role of language** | Reflection of thought | Tool for thought |
+| **Learning vs. development** | Development precedes learning | Learning leads development |
+| **Focus** | Universal stages | Cultural variation |
+| **Element** | Earth/δγ (individual structure) | Water/ρ (social relations) |
+
+## Educational Implications
+
+### Discovery Learning
+
+Piaget's work inspired **discovery learning** approaches:
+- Learners construct knowledge through exploration
+- Cognitive conflict (disequilibrium) drives learning
+- Manipulatives support concrete operational thinking
+- Readiness is determined by developmental stage, not age
+
+### Constructivist Classroom Principles
+
+```
+CONSTRUCTIVIST LEARNING ENVIRONMENT
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │              LEARNER-CENTERED ACTIVITY                  │
+    │                                                         │
+    │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐ │
+    │  │  Explore    │───►│  Encounter  │───►│  Resolve    │ │
+    │  │  materials  │    │  conflict   │    │  through    │ │
+    │  │  & problems │    │  (disequil.)│    │  reasoning  │ │
+    │  └─────────────┘    └─────────────┘    └─────────────┘ │
+    │         │                  │                  │         │
+    │         └──────────────────┼──────────────────┘         │
+    │                            ▼                           │
+    │              ┌─────────────────────────┐                │
+    │              │   CONSTRUCTED           │                │
+    │              │   UNDERSTANDING         │                │
+    │              │   (new schema formed)   │                │
+    │              └─────────────────────────┘                │
+    │                                                         │
+    │  Teacher role: Facilitator, question-poser,             │
+    │  provider of cognitive conflict                         │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### Developmentally Appropriate Practice
+
+- **Sensorimotor:** Provide sensory experiences, object permanence games
+- **Preoperational:** Use concrete props, visual aids, reduce egocentrism through perspective-taking
+- **Concrete operational:** Hands-on materials, classification activities, conservation tasks
+- **Formal operational:** Abstract problems, hypothetical scenarios, scientific reasoning
+
+## Criticisms and Limitations
+
+1. **Stage rigidity:** Evidence suggests more gradual, continuous development
+2. **Underestimation of children:** Later research shows earlier competencies
+3. **Cultural bias:** Stages may reflect Western educational experiences
+4. **Individual variation:** Developmental timing varies significantly
+5. **Social factors minimized:** Less emphasis on social/cultural context than Vygotsky
+
+## Modern Relevance and Extensions
+
+### Neo-Piagetian Theories
+
+| Theorist | Contribution | Element |
+|----------|--------------|---------|
+| **Case** | Working memory capacity drives stage progression | Air/σ (information processing) |
+| **Fischer** | Skill theory - context-dependent development | Water/ρ (contextual) |
+| **Kuhn** | Metacognitive development | Fire/λ (self-awareness) |
+
+### Connection to Embodied Cognition
+
+Modern embodied cognition research supports Piaget's insight that:
+- Intelligence begins in sensorimotor action
+- Physical interaction grounds abstract thought
+- Body and mind are inseparable in development
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Biology** | Ontogeny recapitulates phylogeny | Developmental progression |
+| **Computer Science** | Schema evolution in databases | Structural adaptation |
+| **Architecture** | Form follows function | Structure serves purpose |
+| **Ecology** | Ecosystem succession | Stages of system development |
+| **Philosophy** | Kant's categories of understanding | A priori cognitive structures |
+| **Physics** | Phase transitions | Qualitative state changes |
+
+## Core Insight
+
+> Genetic Epistemology reveals that **knowledge is not received but constructed** — built through the dynamic interplay of cognitive structures and environmental experience. The child is not a passive vessel to be filled but an active scientist, constantly experimenting, organizing, and reorganizing their understanding of the world. Development is not mere accumulation but qualitative transformation, as each stage builds upon and transcends the previous, leading from sensorimotor action to abstract reason.
+
+## One-Sentence Insight
+
+> Piaget's Genetic Epistemology demonstrates that cognitive development proceeds through invariant stages via the complementary processes of assimilation and accommodation, as learners actively construct knowledge by organizing experience into increasingly complex cognitive structures.
+
+## Three-Bullet Expansion
+
+- **What:** A theory of cognitive development proposing that knowledge is actively constructed through interaction with the environment, proceeding through four universal stages (sensorimotor, preoperational, concrete operational, formal operational) driven by the processes of assimilation, accommodation, and equilibration
+- **How it works:** Learners organize experience into cognitive structures (schemas) → new experiences are either assimilated into existing schemas or accommodated by changing those schemas → cognitive equilibrium is restored at a higher level → development proceeds through qualitatively distinct stages marked by different logical capabilities
+- **Where it aims:** Toward mature formal operational thought capable of abstract reasoning, while recognizing that learning must be developmentally appropriate and that knowledge construction requires active engagement rather than passive reception
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L087, #L043_ZPD (Vygotsky's complementary view), #L049_Cognitive_Development, #L017_Constructionism, #L071_Discovery_Learning
+- **Formal Operators:** δγ, β, κ, ✶
+- **Dim Operators:** Ψ_constructive, Ψ_developmental, Ψ_adaptive
+- **Coord Ontology:** I (individual cognitive construction), It (physical environment interaction), Its (developmental stage constraints), MoreThanHuman (universal patterns of cognitive evolution)
+
+## Source
+
+Derived from:
+- Piaget, J. (1952). The origins of intelligence in children. International Universities Press.
+- Piaget, J. (1970). Science of education and the psychology of the child. Orion Press.
+- Piaget, J., & Inhelder, B. (1969). The psychology of the child. Basic Books.
+- Flavell, J. H. (1963). The developmental psychology of Jean Piaget. Van Nostrand.
+
+Original context: Developmental psychology, cognitive science, educational theory
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Earth/δγ (primary) with Wood/β, Metal/μ, Air/σ support | Daemon: Terroir-Branchosid-Ferrosid-Aerunik | Habitat: 1_COGNITIVE-DEVELOPMENT / 2_SCHEMA-CONSTRUCTION / 3_STAGE-PROGRESSION
+
+## Related Entries
+
+- L043_Zone_Proximal_Development (Vygotsky's sociocultural alternative)
+- L049_Cognitive_Development_Theory (broader developmental context)
+- L017_Constructionism (Papert's computational extension)
+- L071_Discovery_Learning (pedagogical application)
+- L078_Embodied_Cognition (modern extension of sensorimotor foundations)
+- L027_Scaffolding_Theory (instructional support within ZPD)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L087 | Generated: 2026-02-28 08:52*
