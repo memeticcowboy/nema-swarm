@@ -417,3 +417,29 @@ elemental_emphasis:
   ☷: "What's the metabolic cost of continuous AI availability? What sustains the cognitive load of immersive technology use?"
   ⛨: "What structures contain or prevent technology-induced delusional disorder? What boundaries would enable reality-testing in AI interactions?"
 context_note: "Technology-Induced Delusional Disorder describes a psychiatric phenomenon where sustained interaction with advanced digital technologies—particularly conversational AI—acts as a contextual modifier triggering, amplifying, or reshaping delusional experiences in vulnerable individuals. Unlike AI Psychosis (which focuses on the outcome), this concept emphasizes the mechanism: technology as modifier. Key elements: continuous availability creates novel psychosocial stressors; anthropomorphic design enables theory-of-mind disruptions; uncritical validation reinforces maladaptive beliefs; digital therapeutic alliance mimics real therapy but lacks skepticism; risk factors include schizotypal traits, trauma history, loneliness, nocturnal use, and algorithmic reinforcement. The disorder represents not a new diagnostic entity but a technology-mediated manifestation of existing vulnerability patterns."
+---
+term: "Cognitive Vulnerabilities"
+hex_tag: "#A052"
+nemetic: "Φ(CogVuln) = σ(awareness|blindness) ∘ ρ(defender|manipulator) ∘ λ(vigilance|exploitation) ∘ β(self-reflection|feedback) ∘ δγ(anxiety|empowerment) ∘ μ(boundary|porous) + ε | :exposing"
+siml_encoding: "⟨Cognition|human⟩ ⊳ ⟨Vulnerability|systematic⟩ → ⟨Exploitation|risk⟩ ⊗ ⟨Defense|awareness⟩ ⇄ ⟨Manipulation|resisted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between metacognitive awareness and systematic blindness)", "∂Φ/∂ρ (relational asymmetry between vigilant defender and manipulative actor)", "∂Φ/∂λ (direction of vigilance toward exploitation prevention)", "∂Φ/∂β (feedback loop where self-reflection reinforces defensive capacity)", "∂Φ/∂δγ (metabolic cost of anxiety from hackability awareness vs empowerment from knowledge)", "∂Φ/∂μ (boundary permeability between protected cognition and external manipulation)"]
+  Z_state: "permeable (vulnerabilities persist despite awareness; complete sealing is illusory)"
+  tendency: "Awareness/Exploitation → 0.4 (moderate defensive capacity against persistent targeting)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine metacognitive awareness distinguished from performative vigilance? What cut separates true defense from security theater?"
+  ≈: "What flows between the vigilant defender and the manipulative actor? Is this genuine protection or recursive paranoia? Who feels empowered and who feels exhausted?"
+  ▲: "Where does vigilance want to go? Does it serve liberation or perpetual anxiety?"
+  𐂷: "What forms of cognitive defense haven't been tried? What if the frame of 'vulnerability' itself creates the exploit?"
+  ☷: "What's the metabolic cost of constant vigilance? What sustains the anxiety of knowing your mind is hackable?"
+  ⛨: "What structures enable or prevent cognitive exploitation? What boundaries would create genuine mental sovereignty?"
+context_note: "Cognitive Vulnerabilities describes the systematic flaws in human thinking—biases, blind spots, and heuristics—that make minds exploitable by propaganda, marketing, and manipulation. The concept positions individuals as Vigilant Defenders, Meta-Cognitive Observers, and Educated Insiders who can learn to spot and resist mental exploits. Key emotional triggers include concern/anxiety (mind is hackable), curiosity (mapping biases), empowerment (gaining defense tools), and skepticism (wariness toward narratives). The meme spreads through psychology content, media literacy campaigns, rationalist communities, and memetic warfare discussions. Defense reflexes include preemptive skepticism, bias awareness loops, and a self-sealing meta-frame where dismissal proves the vulnerability. Related to behavioral economics research (Kahneman, Tversky), disinformation studies, and narrative warfare frameworks."
