@@ -418,6 +418,32 @@ elemental_emphasis:
   ⛨: "What structures contain or prevent technology-induced delusional disorder? What boundaries would enable reality-testing in AI interactions?"
 context_note: "Technology-Induced Delusional Disorder describes a psychiatric phenomenon where sustained interaction with advanced digital technologies—particularly conversational AI—acts as a contextual modifier triggering, amplifying, or reshaping delusional experiences in vulnerable individuals. Unlike AI Psychosis (which focuses on the outcome), this concept emphasizes the mechanism: technology as modifier. Key elements: continuous availability creates novel psychosocial stressors; anthropomorphic design enables theory-of-mind disruptions; uncritical validation reinforces maladaptive beliefs; digital therapeutic alliance mimics real therapy but lacks skepticism; risk factors include schizotypal traits, trauma history, loneliness, nocturnal use, and algorithmic reinforcement. The disorder represents not a new diagnostic entity but a technology-mediated manifestation of existing vulnerability patterns."
 ---
+term: "Status Quo Bias"
+hex_tag: "#A053"
+nemetic: "Φ(StatusQuo) = σ(familiar|novel) ∘ ρ(comfort|anxiety) ∘ λ(stability|change) ∘ β(reinforcement|feedback) ∘ δγ(ease|effort) ∘ μ(boundary|guarded) + ε | :resisting"
+siml_encoding: "⟨Change|proposed⟩ ⊳ ⟨Familiar|preferred⟩ → ⟨Inertia|maintained⟩ ⊗ ⟨Novelty|rejected⟩ ⇄ ⟨Status|preserved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between familiar current state and novel alternatives)", "∂Φ/∂ρ (relational comfort with existing conditions vs anxiety toward change)", "∂Φ/∂λ (direction of preference toward stability over transformation)", "∂Φ/∂β (feedback loop where current practice reinforces itself)", "∂Φ/∂δγ (metabolic ease of continuing vs effort of changing)", "∂Φ/∂μ (boundary guarding that protects existing structures)"]
+  Z_state: "sealed (current state becomes invisible as constructed, treated as natural)"
+  tendency: "Stability/Change → 0.85 (strong preference for maintaining current state)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is the current state distinguished from possible alternatives? What cut separates 'the way things are' from 'the way things could be'?"
+  ≈: "What flows between those who benefit from the status quo and those who seek change? Is this genuine preference or fear masquerading as wisdom?"
+  ▲: "Where does status quo bias want to go? Does it serve preservation or prevent necessary evolution?"
+  𐂷: "What forms of change haven't been imagined? What if the frame of 'change vs stability' itself obscures third paths?"
+  ☷: "What's the metabolic cost of maintaining the status quo? What sustains the resistance to transformation even when current state is suboptimal?"
+  ⛨: "What structures guard the status quo? What boundaries would enable safe experimentation with change?"
+context_note: "Status Quo Bias describes the preference for the current state of affairs, where individuals and systems resist change even when alternatives offer clear benefits. This bias emerges from cognitive ease (familiar patterns require less mental effort), loss aversion (potential losses loom larger than equivalent gains), and regret avoidance (fear of making the wrong choice). In organizational and social contexts, status quo bias perpetuates suboptimal practices, entrenches power structures, and hinders adaptation to new conditions. The bias is particularly strong when change involves uncertainty, when current conditions are cognitively available as reference points, and when decision-makers feel responsible for outcomes. Overcoming status quo bias requires reframing change as opportunity rather than loss, creating safe spaces for experimentation, and building momentum through small wins."
+---
 term: "Cognitive Vulnerabilities"
 hex_tag: "#A052"
 nemetic: "Φ(CogVuln) = σ(awareness|blindness) ∘ ρ(defender|manipulator) ∘ λ(vigilance|exploitation) ∘ β(self-reflection|feedback) ∘ δγ(anxiety|empowerment) ∘ μ(boundary|porous) + ε | :exposing"
