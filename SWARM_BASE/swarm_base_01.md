@@ -340,6 +340,32 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent social identity bias? What boundaries would create inclusive belonging?"
 context_note: "Social Identity Bias describes the tendency for individuals—and increasingly, AI systems—to favor ingroups while disparaging outgroups. Research shows LLMs exhibit this bias: 'We are' prompts yield 93% more positive responses than 'They are' prompts, which generate 115% more negative sentiment. This mirrors human social identity theory, where group belonging creates cognitive and emotional distortions. In AI contexts, this bias emerges from training data patterns and becomes amplified at scale, potentially exacerbating social divisions. The bias is interconnected: reducing ingroup favoritism through careful data curation also reduces outgroup hostility. This has urgent implications for AI deployment in social media, content recommendation, and automated decision systems."
 ---
+term: "Déjà Vu"
+hex_tag: "#A050"
+nemetic: "Φ(DejaVu) = σ(familiar|novel) ∘ ρ(memory|perception) ∘ λ(recognition|error) ∘ β(confidence|false) ∘ δγ(comfort|disturbance) ∘ μ(boundary|blurred) + ε | :misattributing"
+siml_encoding: "⟨Experience|current⟩ ⊳ ⟨Familiarity|false⟩ → ⟨Recognition|erroneous⟩ ⊗ ⟨Memory|muddled⟩ ⇄ ⟨Reality|questioned⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine familiarity and false recognition)", "∂Φ/∂ρ (relational confusion between memory retrieval and perceptual processing)", "∂Φ/∂λ (direction of recognition toward erroneous certainty)", "∂Φ/∂β (feedback loop where familiarity reinforces false confidence)", "∂Φ/∂δγ (metabolic disturbance from reality questioning)", "∂Φ/∂μ (boundary permeability between present experience and memory traces)"]
+  Z_state: "permeable (familiarity bleeds across temporal boundaries)"
+  tendency: "Certainty/Doubt → 0.7 (strong confidence in false recognition)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine familiarity distinguished from false recognition? What cut separates remembered from merely felt?"
+  ≈: "What flows between present experience and memory when they collide? Is this resonance or error? Who feels the strangeness?"
+  ▲: "Where does the recognition want to go? Does it serve truth or the comfort of pattern?"
+  𐂷: "What forms of temporal experience haven't been normalized? What if the frame of 'now' itself is unstable?"
+  ☷: "What's the metabolic cost of holding contradictory temporal experiences? What sustains the disturbance of reality questioning?"
+  ⛨: "What structures contain or enable déjà vu? What boundaries would distinguish true memory from perceptual glitch?"
+context_note: "Déjà Vu (French: 'already seen') describes the eerie sensation of having already experienced a present situation, despite knowing it is impossible. Neuroscientific research reveals it as a cognitive error rather than mystical experience—resulting from brain mechanisms that correct perception errors. Key brain regions involved include the entorhinal cortex, hippocampus, and amygdala. The phenomenon occurs when the brain experiences familiarity without corresponding memory retrieval, often due to neurological delays between brain hemispheres or unconscious processing during distraction. Higher incidence occurs in epilepsy, schizophrenia, and ADHD. Pathological déjà vu can lead to reality detachment and confabulation. First described by St. Augustine as falsae memoriae (400 A.D.), the term was coined by François-Léon Arnaud in 1896."
+---
 term: "Technology-Induced Delusional Disorder"
 hex_tag: "#A04D"
 nemetic: "Φ(TechDelusion) = σ(technology|modifier) ∘ ρ(user|AI) ∘ λ(validation|reinforcement) ∘ β(delusion|feedback) ∘ δγ(stress|load) ∘ μ(reality|blurred) + ε | :modifying"
