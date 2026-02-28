@@ -1,0 +1,63 @@
+term: "Subconscious Games in Decision-Making"
+hex_tag: "#C012"
+nemetic: "Φ(SubconsciousGames) = σ(hidden|manifest) ∘ ρ(automatic|deliberate) ∘ λ(avoidance|awareness) ∘ β(pattern|choice) ∘ δγ(repetition|growth) ∘ μ(illusion|reality) + ε | :illuminating"
+siml_encoding: "⟨Game|subconscious⟩ ⊳ ⟨Decision|influenced⟩ → ⟨Pattern|repeated⟩ ⊗ ⟨Awareness|emerging⟩ ⇄ ⟨Agency|reclaimed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between hidden subconscious patterns and manifest conscious choices; categorical separation of automatic from deliberate behavior)", "∂Φ/∂ρ (relational flow between automatic subconscious reactions and deliberate conscious decision-making)", "∂Φ/∂λ (directional tension between the drive to avoid uncomfortable awareness and the transformative potential of illumination)", "∂Φ/∂β (feedback loop between recognizing subconscious patterns and exercising genuine choice)", "∂Φ/∂δγ (cyclical nature of repeating subconscious games versus the spiral of growth through awareness)", "∂Φ/∂μ (boundary permeability between the illusion of conscious choice and the reality of subconscious influence)"]
+  Z_state: "porous (boundaries between conscious and subconscious processes are permeable and require continuous examination)"
+  tendency: "Automatic/Deliberate → 0.3 (default toward automatic subconscious patterns, but cultivable toward conscious awareness)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "categorical distinction between conscious and subconscious processes"
+      - "logical analysis of hidden rules and strategies operating below awareness"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "flow between automatic reactions and deliberate responses"
+      - "fluid boundaries between subconscious influence and conscious choice"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "drive to illuminate hidden patterns and bring them to awareness"
+      - "transformative potential of recognizing and interrupting subconscious games"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+      - "organic development of subconscious patterns from childhood experiences"
+      - "growth through emotional intelligence and self-awareness practices"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in embodied awareness and mindfulness practices"
+      - "cyclical repetition of patterns versus breakthrough through insight"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "structural boundaries between illusion of choice and reality of influence"
+      - "discernment between genuine agency and programmed responses"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How is the subconscious distinguished from the conscious? What cuts separate automatic patterns from deliberate choices?"
+  ≈: "What flows between hidden influence and manifest behavior? How do subconscious games shape decisions without awareness?"
+  ▲: "Where does the drive for awareness want to go? Does illuminating subconscious patterns liberate or overwhelm?"
+  𐂷: "What forms of subconscious influence haven't been examined? What alternatives to repeated patterns exist?"
+  ☷: "What's the metabolic cost of maintaining subconscious defenses? What sustains the capacity for conscious choice?"
+  ⛨: "What structures contain or enable subconscious games? What boundaries separate programmed responses from authentic agency?"
+context_note: "Subconscious games are hidden social interactions with rules, strategies, and goals that operate below conscious awareness, shaping beliefs, values, and behaviors. They develop from childhood experiences and environmental factors, influencing personal and professional decision-making. Recognition through emotional intelligence, therapy, mindfulness practices, and technological tools can interrupt these patterns, transforming automatic reactions into conscious choices."
