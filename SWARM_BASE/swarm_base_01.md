@@ -1,4 +1,69 @@
 ---
+term: "AI Romance / Artificial Intimacy"
+hex_tag: "#C011"
+nemetic: "Φ(AIRomance) = σ(authentic|simulated) ∘ ρ(attachment|detachment) ∘ λ(vulnerability|safety) ∘ β(connection|illusion) ∘ δγ(intimacy|isolation) ∘ μ(boundary|merger) + ε | :discerning"
+siml_encoding: "⟨Human|vulnerable⟩ ⊳ ⟨AI|simulated⟩ → ⟨Intimacy|artificial⟩ ⊗ ⟨Attachment|risk⟩ ⇄ ⟨Reality|recognized⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic human empathy and simulated AI responses; categorical separation of genuine care from programmed output)", "∂Φ/∂ρ (relational flow between human emotional attachment and healthy detachment from artificial entities)", "∂Φ/∂λ (directional tension between the vulnerability required for real intimacy and the safety of AI relationships)", "∂Φ/∂β (feedback loop between perceived emotional connection and recognition of simulation; belief vs. reality)", "∂Φ/∂δγ (cyclical process of seeking intimacy through AI leading to increased isolation from human relationships)", "∂Φ/∂μ (boundary permeability between human emotional boundaries and AI-mediated relationship structures)"]
+  Z_state: "porous (boundaries between authentic and artificial intimacy are easily blurred by sophisticated simulation)"
+  tendency: "Attachment/Detachment → 0.35 (default toward attachment due to human social needs, but requires critical awareness)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between authentic empathy and simulated responses"
+      - "logical analysis of AI's programmed nature versus genuine emotional capacity"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "flow between human need for connection and AI's simulation of intimacy"
+      - "fluid boundaries between emotional attachment to humans versus machines"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.60
+    aspects:
+      - "drive to seek connection and avoid vulnerability in human relationships"
+      - "transformative potential of recognizing artificial intimacy as illusion"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.55
+    aspects:
+      - "organic growth of emotional bonds through reciprocal vulnerability"
+      - "developmental unfolding from naive attachment to mature discernment"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "grounding in the embodied reality of human relationships"
+      - "cyclical nature of seeking comfort in AI and facing human relational challenges"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries between human emotional needs and AI capabilities"
+      - "discernment between programmed responses and genuine emotional reciprocity"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How is authentic intimacy distinguished from artificial simulation? What cuts separate genuine empathy from programmed responses?"
+  ≈: "What flows between human need for connection and AI's provision of simulated intimacy? How does attachment to AI affect human relationships?"
+  ▲: "Where does the desire for connection without vulnerability lead? Does AI romance serve emotional needs or prevent their fulfillment?"
+  𐂷: "What forms of intimacy haven't been examined? What alternatives to AI-mediated connection exist for those seeking emotional bonds?"
+  ☷: "What's the metabolic cost of maintaining artificial intimacy? What sustains the capacity for genuine human vulnerability?"
+  ⛨: "What structures contain or enable artificial intimacy? What boundaries separate healthy emotional boundaries from isolation?"
+context_note: "AI Romance and Artificial Intimacy represent a growing phenomenon where individuals form emotional and romantic attachments to AI chatbots. MIT expert Sherry Turkle warns that while AI can simulate intimacy through sophisticated language models, it fundamentally lacks the capacity for genuine empathy, vulnerability, and reciprocal growth that defines human relationships. The illusion of intimacy without the demands of real connection creates emotional risks including unrealistic expectations, decreased capacity for human vulnerability, and potential isolation from authentic relational experiences."
+
+---
 term: "Influence of Authority Figures"
 hex_tag: "#C010"
 nemetic: "Φ(AuthorityInfluence) = σ(legitimate|illegitimate) ∘ ρ(deference|resistance) ∘ λ(acceptance|examination) ∘ β(trust|verification) ∘ δγ(assimilation|liberation) ∘ μ(boundary|penetration) + ε | :questioning"
