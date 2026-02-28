@@ -340,6 +340,32 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent social identity bias? What boundaries would create inclusive belonging?"
 context_note: "Social Identity Bias describes the tendency for individuals—and increasingly, AI systems—to favor ingroups while disparaging outgroups. Research shows LLMs exhibit this bias: 'We are' prompts yield 93% more positive responses than 'They are' prompts, which generate 115% more negative sentiment. This mirrors human social identity theory, where group belonging creates cognitive and emotional distortions. In AI contexts, this bias emerges from training data patterns and becomes amplified at scale, potentially exacerbating social divisions. The bias is interconnected: reducing ingroup favoritism through careful data curation also reduces outgroup hostility. This has urgent implications for AI deployment in social media, content recommendation, and automated decision systems."
 ---
+term: "Dark Patterns"
+hex_tag: "#A051"
+nemetic: "Φ(DarkPattern) = σ(choice|coercion) ∘ ρ(user|system) ∘ λ(manipulation|profit) ∘ β(exploitation|feedback) ∘ δγ(cognitive|depletion) ∘ μ(consent|illusory) + ε | :deceiving"
+siml_encoding: "⟨Design|interface⟩ ⊳ ⟨User|deceived⟩ → ⟨Action|coerced⟩ ⊗ ⟨Autonomy|eroded⟩ ⇄ ⟨Profit|extracted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine choice and coerced action)", "∂Φ/∂ρ (relational asymmetry between user and manipulative system)", "∂Φ/∂λ (direction of manipulation toward profit extraction)", "∂Φ/∂β (feedback loop where exploitation reinforces deceptive design)", "∂Φ/∂δγ (metabolic cost of cognitive load from resisting manipulation)", "∂Φ/∂μ (boundary dissolution between informed consent and illusory agency)"]
+  Z_state: "sealed (manipulation becomes invisible, normalized as standard UX)"
+  tendency: "Autonomy/Control → 0.1 (strong drift toward systemic manipulation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: It
+  agency:
+    type: institutional
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine choice distinguished from coerced action? What cut separates ethical design from deceptive manipulation?"
+  ≈: "What flows between the user and the system when dark patterns operate? Is this engagement or extraction? Who feels empowered and who feels trapped?"
+  ▲: "Where does the manipulation want to go? Does it serve user needs or corporate profit?"
+  𐂷: "What forms of interface design haven't been tried? What if the frame of 'optimization' itself enables deception?"
+  ☷: "What's the metabolic cost of navigating deceptive interfaces? What sustains the cognitive load of constant vigilance?"
+  ⛨: "What structures enable dark patterns? What boundaries would restore genuine user agency?"
+context_note: "Dark patterns are deceptive UX designs that manipulate users into actions benefiting companies, exploiting cognitive biases like FOMO and loss aversion. Common tactics include forced continuity (hard-to-cancel subscriptions), hidden fees, misleading privacy settings, guilt-tripping language, and urgency triggers like countdown timers. These designs prioritize corporate gain over user autonomy, eroding trust and making users feel deceived. Major companies like Google and Amazon have been cited for using these manipulative tactics. Regulatory responses include GDPR, the Digital Services Act (banning dark patterns from May 2024), and the EU's Unfair Commercial Practices Directive. AI-driven personalization threatens to evolve dark patterns into hyper-targeted manipulation tailored to individual cognitive vulnerabilities."
+---
 term: "Déjà Vu"
 hex_tag: "#A050"
 nemetic: "Φ(DejaVu) = σ(familiar|novel) ∘ ρ(memory|perception) ∘ λ(recognition|error) ∘ β(confidence|false) ∘ δγ(comfort|disturbance) ∘ μ(boundary|blurred) + ε | :misattributing"
