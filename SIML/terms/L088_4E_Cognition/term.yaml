@@ -1,0 +1,427 @@
+---
+term_id: L088
+source_domain: cognitive_science
+source_term: 4E Cognition (Embodied, Extended, Embedded, Enactive)
+hex_tag: #L088
+generated_at: 2026-02-28T09:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** 4E Cognition — Embodied, Extended, Embedded, Enactive approaches to mind and learning
+- **Nemetic String:** Φ(4E) = σ(body|as-cognitive-resource) ⊗ ρ(environment|coupling) ∘ β(action|world-bringing) ∘ μ(tools|boundary-extension) → [✶(cognitive-integration)] → [κ(situated-knowledge)] + ε | :embodied
+- **Core Operators:** σ (distinction/body), ρ (flow/coupling), β (branching/action), μ (structure/tools), ✶ (integration)
+- **Z-State:** embodied — cognition emerges from brain-body-environment coupling
+- **Tendency:** Extension/Integration → 1 (mind spills beyond the skull)
+
+## SIML Encoding
+
+```
+⟨Narrative|mind-is-not-brain-alone⟩ 
+    ⊳ ⟨Constraint|computational-representational-view-fails⟩ 
+    ⊳ ⟨Process|embodiment|body-shapes-thought⟩ 
+    ⇄ ⟨Process|extension|tools-as-cognitive⟩ 
+    ⇄ ⟨Process|embeddedness|context-dependence⟩ 
+    ⇄ ⟨Process|enaction|action-constitutes-cognition⟩ 
+    → ⟨Outcome|distributed-cognitive-systems⟩ 
+    ⊗ ⟨State|cognitive-coupling⟩ 
+    → ⟨Knowledge|situated-understanding⟩
+```
+
+## Core Definition
+
+**4E Cognition** represents a paradigm shift in cognitive science, challenging the traditional view that cognition is purely internal, computational, and representational. Instead, cognitive processes are understood as **distributed across brain, body, and environment**, emerging from dynamic coupling between these elements. The four E's — Embodied, Extended, Embedded, and Enactive — offer complementary perspectives on how cognition transcends the boundaries of the skull.
+
+### The Four E's Framework
+
+```
+4E COGNITION ARCHITECTURE
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │              TRADITIONAL VIEW (Disembodied)              │
+    │                                                          │
+    │   ┌─────────┐      Input      Output      ┌─────────┐   │
+    │   │  World  │────────►│ Brain │────────►│  World  │   │
+    │   └─────────┘         └───────┘         └─────────┘   │
+    │                      (Computer-like                    │
+    │                       information                     │
+    │                       processing)                     │
+    │                                                          │
+    │   Element: Air/σ (abstract computation)                │
+    └─────────────────────────────────────────────────────────┘
+    
+    ┌─────────────────────────────────────────────────────────┐
+    │              4E VIEW (Embodied/Distributed)              │
+    │                                                          │
+    │        ┌───────────────────────────────────┐            │
+    │        │         ENVIRONMENT               │            │
+    │        │  ┌─────┐  Tools  ┌─────┐         │            │
+    │        │  │Tech │◄──────►│ Soc │         │            │
+    │        │  └─────┘         │ Ctx │         │            │
+    │        └──────┬─────────────┬─────────────┘            │
+    │               │             │                          │
+    │               ▼             ▼                          │
+    │        ┌───────────────────────────┐                   │
+    │        │         BODY              │                   │
+    │        │  ┌─────┐  ┌─────┐  ┌────┐ │                   │
+    │        │  │Sens │  │Motor│  │Aff │ │                   │
+    │        │  │ory  │  │     │  │ect │ │                   │
+    │        │  └─────┘  └─────┘  └────┘ │                   │
+    │        └───────────┬───────────────┘                   │
+    │                    │                                   │
+    │                    ▼                                   │
+    │        ┌───────────────────────────┐                   │
+    │        │         BRAIN             │                   │
+    │        │   (Not computational      │                   │
+    │        │    but dynamical system)  │                   │
+    │        └───────────────────────────┘                   │
+    │                                                          │
+    │   Elements: σ (body) + ρ (environment) + β (action)    │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## The Four Dimensions
+
+### 1. Embodied Cognition
+
+**Core claim:** Cognitive processes are deeply shaped by bodily structures, capacities, and experiences. The body is not merely a vessel for the brain but an active participant in cognition.
+
+```
+EMBODIMENT PRINCIPLES
+═══════════════════════════════════════════════════════════════
+
+    Body as Constraint:
+    ┌─────────────────────────────────────┐
+    │  • Sensory apparatus limits/        │
+    │    enables what can be perceived    │
+    │  • Motor capabilities shape         │
+    │    possible actions                 │
+    │  • Affective states influence       │
+    │    reasoning and decision-making    │
+    └─────────────────────────────────────┘
+    
+    Body as Resource:
+    ┌─────────────────────────────────────┐
+    │  • Gesture supports thinking and    │
+    │    communication                    │
+    │  • Spatial reasoning uses body-     │
+    │    based metaphors                  │
+    │  • Proprioception grounds abstract  │
+    │    concepts                         │
+    └─────────────────────────────────────┘
+
+    Examples:
+    • Abstract concepts understood through bodily metaphors
+      ("grasping" an idea, "heavy" matters, "warm" personalities)
+    • Mathematical reasoning uses spatial and motor schemas
+    • Emotions are bodily states that inform cognition
+```
+
+**Key theorists:** Varela, Thompson, Rosch (The Embodied Mind, 1991); Lakoff & Johnson (Metaphors We Live By); Barsalou (grounded cognition)
+
+### 2. Extended Cognition
+
+**Core claim:** Cognitive systems extend beyond the biological boundary of the organism to include external tools, technologies, and resources that function as genuine cognitive components.
+
+```
+EXTENSION PRINCIPLES
+═══════════════════════════════════════════════════════════════
+
+    The Otto-Inga Thought Experiment:
+    ┌─────────────────────────────────────┐
+    │                                     │
+    │  Inga: Biological memory            │
+    │  ─────────────────────────          │
+    │  Wants to go to museum              │
+    │  ↓                                  │
+    │  Recalls address from memory        │
+    │  ↓                                  │
+    │  Goes to 53rd Street                │
+    │                                     │
+    │  Otto: Extended memory              │
+    │  ─────────────────────────          │
+    │  Wants to go to museum              │
+    │  ↓                                  │
+    │  Consults notebook (always          │
+    │  carries, regularly updates,        │
+    │  automatically trusts)              │
+    │  ↓                                  │
+    │  Goes to 53rd Street                │
+    │                                     │
+    │  Question: Is Otto's notebook       │
+    │  part of his memory system?         │
+    │                                     │
+    └─────────────────────────────────────┘
+    
+    Criteria for Cognitive Extension (Clark & Chalmers):
+    ┌─────────────────────────────────────┐
+    │  1. Constant accessibility          │
+    │  2. Automatic endorsement           │
+    │  3. Past endorsement preserved      │
+    │  4. Reliability comparable to        │
+    │     internal processes              │
+    └─────────────────────────────────────┘
+```
+
+**Key theorists:** Clark & Chalmers ("The Extended Mind", 1998); Andy Clark (Supersizing the Mind, Natural-Born Cyborgs)
+
+### 3. Embedded Cognition
+
+**Core claim:** Cognition is context-dependent, situated in specific environmental and social contexts that shape and constrain cognitive processes.
+
+```
+EMBEDDEDNESS PRINCIPLES
+═══════════════════════════════════════════════════════════════
+
+    Context Shapes Cognition:
+    ┌─────────────────────────────────────┐
+    │                                     │
+    │  Same person, different contexts:   │
+    │                                     │
+    │  ┌─────────────┐  ┌─────────────┐   │
+    │  │  At Work    │  │  At Home    │   │
+    │  │             │  │             │   │
+    │  │ • Professional│ • Relaxed     │   │
+    │  │ • Task-focused│ • Social      │   │
+    │  │ • Hierarchical│ • Intimate    │   │
+    │  │   reasoning │   reasoning   │   │
+    │  │             │  │             │   │
+    │  │ Different   │  │ Different   │   │
+    │  │ cognitive   │  │ cognitive   │   │
+    │  │ patterns    │  │ patterns    │   │
+    │  └─────────────┘  └─────────────┘   │
+    │                                     │
+    │  The environment is not just        │
+    │  background but active shaper       │
+    │  of cognitive processes             │
+    │                                     │
+    └─────────────────────────────────────┘
+    
+    Scaffolding:
+    ┌─────────────────────────────────────┐
+    │  Environmental structures that      │
+    │  support and shape cognition:       │
+    │                                     │
+    │  • Physical layout of spaces        │
+    │  • Social norms and practices       │
+    │  • Cultural tools and symbols       │
+    │  • Institutional structures         │
+    └─────────────────────────────────────┘
+```
+
+**Key connections:** Situated Learning (Lave & Wenger); Distributed Cognition (Hutchins)
+
+### 4. Enactive Cognition
+
+**Core claim:** Cognition is not representation of a pre-given world but active bringing-forth of meaning through sensorimotor coupling. Perception is action-oriented.
+
+```
+ENACTION PRINCIPLES
+═══════════════════════════════════════════════════════════════
+
+    From Representation to Enaction:
+    ┌─────────────────────────────────────┐
+    │                                     │
+    │  Traditional view:                  │
+    │  World ──► Sense data ──►           │
+    │  Internal representation ──►        │
+    │  Cognitive processing ──► Action    │
+    │                                     │
+    │  (Input-Process-Output)             │
+    │                                     │
+    │  Enactive view:                     │
+    │       ┌─────────────────┐           │
+    │       ▼                 │           │
+    │  ┌─────────┐    ┌───────┴───┐       │
+    │  │ Action  │◄──►│ Perception│       │
+    │  │ (motor) │    │ (sensory) │       │
+    │  └────┬────┘    └─────┬─────┘       │
+    │       └─────────────────┘           │
+    │                                     │
+    │  (Sensorimotor coupling brings      │
+    │   forth meaning)                    │
+    │                                     │
+    └─────────────────────────────────────┘
+    
+    Sensorimotor Contingencies (O'Regan & Noë):
+    ┌─────────────────────────────────────┐
+    │  • Seeing involves mastery of       │
+    │    sensorimotor dependencies        │
+    │  • Visual experience is skill of    │
+    │    exploring the environment        │
+    │  • Consciousness is not in the      │
+    │    brain but in the interaction     │
+    └─────────────────────────────────────┘
+```
+
+**Key theorists:** Varela, Thompson, Rosch (The Embodied Mind); Alva Noë (Action in Perception); Kevin O'Regan
+
+## Elemental Pattern Analysis
+
+### Air/σ Embodied (Primary)
+
+4E Cognition fundamentally challenges the **boundary** between mind and world:
+- **Distinction-making:** What counts as "cognitive" vs. "non-cognitive"
+- **Boundary extension:** Cognitive systems extend beyond skin and skull
+- **Clarity through interaction:** Understanding emerges from action
+
+### Water/ρ as Secondary (Coupling)
+
+The dynamic coupling between agent and environment:
+- **Resonance:** Brain-body-environment attunement
+- **Flow:** Continuous interaction, not discrete steps
+- **Relationship:** Cognition as relational achievement
+
+### Wood/β as Tertiary (Action/Enaction)
+
+Cognition as bringing forth worlds:
+- **Branching:** Multiple possible actions/perceptions
+- **Growth:** Skills develop through practice
+- **Generativity:** World-creation through engagement
+
+### Metal/μ as Supporting (Structure/Tools)
+
+Extended cognition's tool use:
+- **Organization:** Tools structure cognitive processes
+- **Boundaries:** Where does cognition end?
+- **Integration:** Tools become transparent extensions
+
+### ✶/Aether as Integrative
+
+The unity of 4E perspectives:
+- **Integration:** All four E's work together
+- **Harmony:** Brain-body-environment as unified system
+- **Child-like immediacy:** Direct engagement without representation
+
+## 4E Cognition and Learning
+
+### Implications for Education
+
+```
+4E-INFORMED PEDAGOGY
+═══════════════════════════════════════════════════════════════
+
+    Embodied Learning:
+    ┌─────────────────────────────────────┐
+    │  • Gesture-enhanced instruction     │
+    │  • Movement-integrated concepts     │
+    │  • Manipulatives and body-based     │
+    │    metaphors                        │
+    │  • Affective design of learning     │
+    │    environments                     │
+    └─────────────────────────────────────┘
+    
+    Extended Learning:
+    ┌─────────────────────────────────────┐
+    │  • Technology as cognitive          │
+    │    augmentation (not replacement)   │
+    │  • Note-taking as extended memory   │
+    │  • Collaborative tools that         │
+    │    extend thinking                  │
+    │  • Transparent tool use             │
+    └─────────────────────────────────────┘
+    
+    Embedded Learning:
+    ┌─────────────────────────────────────┐
+    │  • Situated, authentic contexts     │
+    │  • Learning embedded in practice    │
+    │  • Environment as scaffold          │
+    │  • Cultural tools and practices     │
+    └─────────────────────────────────────┘
+    
+    Enactive Learning:
+    ┌─────────────────────────────────────┐
+    │  • Learning by doing                │
+    │  • Sensorimotor exploration         │
+    │  • Skill development through        │
+    │    practice                         │
+    │  • Perception-action loops          │
+    └─────────────────────────────────────┘
+```
+
+### Connection to CAMIL
+
+4E Cognition is foundational to **Context-Aware Multimodal Immersive Learning (CAMIL)**:
+- **Embodied:** XR uses body tracking and spatial interaction
+- **Extended:** Virtual tools become cognitive extensions
+- **Embedded:** Learning happens in meaningful virtual contexts
+- **Enactive:** Users learn through action in virtual environments
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Phenomenology** | Merleau-Ponty's body schema | Pre-reflective bodily engagement |
+| **Ecology** | Niche construction | Organisms shape and are shaped by environment |
+| **Systems theory** | Autopoiesis | Self-producing systems in coupling |
+| **Robotics** | Morphological computation | Body offloads computational work |
+| **Anthropology** | Material culture | Tools as cognitive extensions |
+| **Dance/Movement** | Somatic practices | Knowledge in the body |
+
+## Criticisms and Debates
+
+### The "Mark of the Cognitive" Problem
+- What counts as a cognitive process?
+- How to distinguish cognitive from non-cognitive coupling?
+
+### The Causal-Constitutive Distinction
+- Do tools merely cause cognitive effects (causal)?
+- Or are they constitutive parts of cognitive systems?
+
+### Individual Differences
+- Not all tool use is extended cognition
+- Requires specific functional integration
+
+### Measurement Challenges
+- How to study distributed cognitive systems?
+- Traditional lab methods may miss embodied aspects
+
+## Core Insight
+
+> 4E Cognition reveals that **the mind is not a computer in a meat vehicle** but a dynamic process emerging from the continuous coupling of brain, body, and environment. Cognition is not representation but relation — not a picture of the world but an ongoing dance with it. We think not just with our brains but with our hands, our tools, our spaces, and our actions. To understand learning, we must look beyond the skull to the whole situated, embodied, extended, enactive agent.
+
+## One-Sentence Insight
+
+> 4E Cognition demonstrates that cognitive processes are distributed across brain, body, and environment, emerging from dynamic coupling rather than internal computation, with embodiment, extension, embeddedness, and enaction offering complementary perspectives on how mind transcends the boundaries of the skull.
+
+## Three-Bullet Expansion
+
+- **What:** A family of approaches in cognitive science (Embodied, Extended, Embedded, Enactive) that challenge the computational-representational view of mind, arguing that cognition emerges from dynamic coupling between brain, body, and environment rather than being confined to internal neural processes
+- **How it works:** Embodiment (body shapes thought) + Extension (tools become cognitive) + Embeddedness (context dependence) + Enaction (action constitutes cognition) → distributed cognitive systems that span organism-environment boundaries → learning as skilled engagement rather than information acquisition
+- **Where it aims:** Toward a unified understanding of cognition as relational achievement, with implications for designing learning environments that leverage embodiment, appropriate technology integration, authentic contexts, and active engagement
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L088, #L012_4E_Cognition (original), #L078_Embodied_Cognition, #L014_Situated_Learning, #L086_Cognitive_Load_Theory, #L087_Genetic_Epistemology
+- **Formal Operators:** σ, ρ, β, μ, ✶
+- **Dim Operators:** Ψ_embodied, Ψ_distributed, Ψ_enactive
+- **Coord Ontology:** I (embodied individual), We (collective tool use), It (tools as cognitive), Its (environmental coupling), MoreThanHuman (animal cognition, AI), Virtual (XR as extended reality)
+
+## Source
+
+Derived from:
+- Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT Press.
+- Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7-19.
+- Clark, A. (2008). Supersizing the mind: Embodiment, action, and cognitive extension. Oxford University Press.
+- Noë, A. (2004). Action in perception. MIT Press.
+- Rowlands, M. (2010). The new science of the mind: From extended mind to embodied phenomenology. MIT Press.
+
+Original context: Cognitive science, philosophy of mind, phenomenology
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Air/σ (embodied) with Water/ρ, Wood/β, Metal/μ, ✶ support | Daemon: Aerunik-Hydrosid-Branchosid-Ferrosid-Aetherion | Habitat: 1_COGNITIVE-SCIENCE / 2_EMBODIED-MIND / 3_DISTRIBUTED-COGNITION
+
+## Related Entries
+
+- L012_4E_Cognition (original entry)
+- L078_Embodied_Cognition (focused embodiment)
+- L014_Situated_Learning (context-embedded learning)
+- L086_Cognitive_Load_Theory (cognitive architecture constraints)
+- L087_Genetic_Epistemology (Piaget's sensorimotor foundations)
+- L089_Social_Learning_Theory (observational learning)
+- L090_Self_Determination_Theory (motivational aspects)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L088 | Generated: 2026-02-28 09:22*
