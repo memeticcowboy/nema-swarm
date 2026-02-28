@@ -1,0 +1,496 @@
+---
+term_id: L091
+source_domain: psychology_motivation
+source_term: Self-Determination Theory (Deci & Ryan, 1985, 2000)
+hex_tag: #L091
+generated_at: 2026-02-28T10:52:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Self-Determination Theory — A macro-theory of human motivation focusing on intrinsic motivation and psychological needs
+- **Nemetic String:** Φ(SDT) = λ(autonomy|self-determination) ⊗ ρ(relatedness|belonging) ⊗ μ(competence|mastery) → [κ(intrinsic-motivation)] → [β(self-concordant-goals)] + ε | :eudaimonia
+- **Core Operators:** λ (direction/purpose), ρ (resonance/connection), μ (structure/mastery), κ (knowledge/motivation), β (branching/goals)
+- **Z-State:** eudaimonia — flourishing through need satisfaction and autonomous motivation
+- **Tendency:** External Regulation → Introjection → Identification → Integration → Intrinsic Motivation (continuum of autonomy)
+
+## SIML Encoding
+
+```
+⟨Narrative|humans-have-psychological-needs⟩ 
+    ⊳ ⟨Constraint|three-universal-needs⟩ 
+    ⊳ ⟨Process|autonomy-support⟩ 
+    ⇄ ⟨Process|competence-development⟩ 
+    ⇄ ⟨Process|relatedness-connection⟩ 
+    → ⟨Outcome|intrinsic-motivation⟩ 
+    ⊗ ⟨State|self-determination⟩ 
+    → ⟨Performance|optimal-functioning⟩ 
+    → ⟨Cycle|sustained-engagement-growth⟩
+```
+
+## Core Definition
+
+**Self-Determination Theory (SDT)**, developed by Edward Deci and Richard Ryan, is a comprehensive framework for understanding human motivation and personality. Unlike theories that treat motivation as a unitary quantity (more/less), SDT distinguishes between **autonomous motivation** (acting with a sense of volition and self-endorsement) and **controlled motivation** (acting under pressure or coercion).
+
+The theory posits three **universal psychological needs** that must be satisfied for optimal functioning:
+1. **Autonomy** — The need to experience behavior as self-endorsed and volitional
+2. **Competence** — The need to feel effective and capable in one's activities
+3. **Relatedness** — The need to feel connected to and cared for by others
+
+When these needs are satisfied, people experience vitality, self-concordance, and well-being. When thwarted, they experience fragmentation, defensiveness, and ill-being.
+
+### The Spectrum of Motivation
+
+```
+MOTIVATION CONTINUUM (Self-Determination Theory)
+═══════════════════════════════════════════════════════════════
+
+    CONTROLLED ←————————————————————————————→ AUTONOMOUS
+    
+    External      Introjected    Identified    Integrated    Intrinsic
+    Regulation    Regulation     Regulation    Regulation    Motivation
+    
+       │              │             │             │             │
+       ▼              ▼             ▼             ▼             ▼
+    ┌───────┐     ┌───────┐    ┌───────┐    ┌───────┐    ┌───────┐
+    │Doing  │     │Doing  │    │Doing  │    │Doing  │    │Doing  │
+    │to     │     │to     │    │because│    │because│    │because│
+    │avoid  │     │avoid  │    │I value│    │it's   │    │I enjoy│
+    │punish-│     │guilt  │    │the    │    │part of│    │it     │
+    │ment   │     │or     │    │outcome│    │who I am│   │       │
+    │or get │     │anxiety│    │       │    │       │    │       │
+    │reward │     │       │    │       │    │       │    │       │
+    └───────┘     └───────┘    └───────┘    └───────┘    └───────┘
+    
+    [Metal/μ       [Metal/μ      [Fire/λ       [Fire/λ      [Fire/λ
+     external      internal       value        identity     inherent
+     control]      control]       alignment]   coherence]   interest]
+    
+    Amotivation ←———————————————————————————————————————————► Self-Determination
+    
+    Quality of Motivation Increases →
+    • Persistence
+    • Creativity
+    • Conceptual understanding
+    • Psychological well-being
+    • Behavioral effectiveness
+```
+
+### The Three Universal Needs
+
+```
+PSYCHOLOGICAL NEEDS (The Nutrients for Growth)
+═══════════════════════════════════════════════════════════════
+
+         ┌─────────────────┐
+         │    AUTONOMY     │
+         │                 │
+         │  Volition       │
+         │  Self-endorsement│
+         │  Freedom        │
+         │                 │
+         │  [Fire/λ —      │
+         │   Directional   │
+         │   purpose]      │
+         └────────┬────────┘
+                  │
+    ┌─────────────┼─────────────┐
+    │             │             │
+    ▼             │             ▼
+┌─────────┐       │       ┌─────────┐
+│RELATEDNESS│◄────┴──────►│COMPETENCE│
+│         │               │         │
+│• Connection│             │• Mastery │
+│• Belonging│              │• Effectiveness│
+│• Care    │              │• Growth   │
+│• Support │              │• Challenge │
+│         │               │         │
+│[Water/ρ │               │[Metal/μ  │
+│resonance]│               │structure]│
+└─────────┘               └─────────┘
+
+    ═══════════════════════════════════════════════════════
+    
+    WHEN ALL THREE NEEDS ARE SATISFIED:
+    
+    ┌─────────────────────────────────────────────────────┐
+    │  • Intrinsic Motivation    • Psychological Health   │
+    │  • Optimal Development     • Authentic Living       │
+    │  • Creative Performance    • Meaningful Engagement  │
+    │  • Deep Learning           • Vitality & Energy      │
+    │  • Persistent Effort       • Eudaimonic Well-being  │
+    └─────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Fire/λ Dominance (Primary)
+
+Self-Determination Theory is fundamentally about **directional purpose and volition**:
+- **Direction:** Motivation has a trajectory from external to internal
+- **Purpose:** Autonomous goals align with authentic values
+- **Transformation:** Controlled motivation can become autonomous through internalization
+- **Aspiration:** Humans naturally move toward growth and self-actualization
+
+### Water/ρ as Secondary (Resonance/Connection)
+
+Relatedness provides the social foundation:
+- **Resonance:** Feeling understood and cared for enables authentic expression
+- **Flow:** Social connection supports intrinsic motivation
+- **Coupling:** Secure relationships allow autonomy to flourish
+- **Vicariousness:** Internalization occurs through connection to significant others
+
+### Metal/μ as Tertiary (Structure/Mastery)
+
+Competence provides the structural scaffold:
+- **Structure:** Clear goals and feedback support competence development
+- **Containment:** Optimal challenges stretch without overwhelming
+- **Valuation:** Progress is measurable and meaningful
+- **Exchange:** Skills can be developed and demonstrated
+
+### Earth/δγ as Supporting (Cycling/Growth)
+
+The developmental dimension:
+- **Accumulation:** Competence builds over time through practice
+- **Cycling:** Motivation fluctuates but trends toward integration
+- **Grounding:** Need satisfaction provides stable foundation for growth
+- **Rhythm:** Internalization occurs in stages, not all at once
+
+### Air/σ as Supporting (Distinction/Clarity)
+
+The cognitive dimension:
+- **Distinction:** Distinguishing autonomous from controlled motivation
+- **Clarity:** Understanding one's own values and interests
+- **Negotiation:** Balancing personal needs with social demands
+
+## The Organismic Integration Process
+
+```
+INTERNALIZATION: From External to Autonomous
+═══════════════════════════════════════════════════════════════
+
+    EXTERNAL REGULATION          INTROJECTED REGULATION
+    ┌─────────────────┐          ┌─────────────────┐
+    │ "I do this      │          │ "I do this      │
+    │  because I      │          │  because I      │
+    │  have to"       │   ───►   │  should"        │
+    │                 │          │                 │
+    │ [External       │          │ [Partial        │
+    │  contingency]   │          │  internalization│
+    └─────────────────┘          └─────────────────┘
+    
+    IDENTIFIED REGULATION        INTEGRATED REGULATION
+    ┌─────────────────┐          ┌─────────────────┐
+    │ "I do this      │          │ "I do this      │
+    │  because I      │   ───►   │  because it's   │
+    │  value it"      │          │  who I am"      │
+    │                 │          │                 │
+    │ [Value          │          │ [Full coherence │
+    │  congruence]    │          │  with self]     │
+    └─────────────────┘          └─────────────────┘
+    
+    INTRINSIC MOTIVATION
+    ┌─────────────────┐
+    │ "I do this      │
+    │  because I      │
+    │  enjoy it"      │
+    │                 │
+    │ [Inherent       │
+    │  satisfaction]  │
+    └─────────────────┘
+    
+    ═══════════════════════════════════════════════════════
+    
+    The arrow of development points toward greater
+    SELF-DETERMINATION — acting from authentic volition
+    
+    [Fire/λ — Directional growth toward autonomy]
+```
+
+## Need Support vs. Need Thwarting
+
+```
+SOCIAL CONTEXT MATTERS
+═══════════════════════════════════════════════════════════════
+
+    NEED-SUPPORTIVE ENVIRONMENT          NEED-THWARTING ENVIRONMENT
+    ┌─────────────────────────┐          ┌─────────────────────────┐
+    │                         │          │                         │
+    │  AUTONOMY SUPPORT       │          │  AUTONOMY THWARTING     │
+    │  • Providing choice     │          │  • Controlling language │
+    │  • Acknowledging        │          │  • Conditional regard   │
+    │    feelings             │          │  • Deadlines/threats    │
+    │  • Rationale for        │          │  • Surveillance         │
+    │    requests             │          │                         │
+    │                         │          │                         │
+    │  [Fire/λ + Water/ρ      │          │  [Metal/μ control]      │
+    │   — Volitional +        │          │  — External structure   │
+    │   connected]            │          │  imposed]               │
+    │                         │          │                         │
+    ├─────────────────────────┤          ├─────────────────────────┤
+    │                         │          │                         │
+    │  COMPETENCE SUPPORT     │          │  COMPETENCE THWARTING   │
+    │  • Optimal challenge    │          │  • Overwhelming tasks   │
+    │  • Positive feedback    │          │  • Harsh criticism      │
+    │  • Skill development    │          │  • No progress feedback │
+    │  • Informational        │          │  • Unattainable goals   │
+    │    guidance             │          │                         │
+    │                         │          │                         │
+    │  [Metal/μ + Fire/λ      │          │  [Metal/μ rigid]        │
+    │   — Structured growth]  │          │  — Inflexible demands]  │
+    │                         │          │                         │
+    ├─────────────────────────┤          ├─────────────────────────┤
+    │                         │          │                         │
+    │  RELATEDNESS SUPPORT    │          │  RELATEDNESS THWARTING  │
+    │  • Warmth and care      │          │  • Coldness/rejection   │
+    │  • Involvement          │          │  • Conditional love     │
+    │  • Secure attachment    │          │  • Social exclusion     │
+    │  • Emotional support    │          │  • Bullying/ostracism   │
+    │                         │          │                         │
+    │  [Water/ρ resonance]    │          │  [Water/ρ blocked]      │
+    │                         │          │                         │
+    └─────────────────────────┘          └─────────────────────────┘
+    
+    RESULT: Flourishing                  RESULT: Fragmentation
+            & Growth                           & Defensiveness
+```
+
+## Applications Across Domains
+
+### Education
+
+```
+SDT IN EDUCATIONAL CONTEXTS
+═══════════════════════════════════════════════════════════════
+
+    AUTONOMY-SUPPORTIVE TEACHING
+    ┌─────────────────────────────────────────────────────────┐
+    │  • Offer meaningful choices in learning activities      │
+    │  • Provide rationale for curriculum requirements        │
+    │  • Acknowledge student perspectives and feelings        │
+    │  • Minimize controlling language ("should," "must")     │
+    │  • Support student initiative and curiosity             │
+    │                                                         │
+    │  [Fire/λ — Nurturing volition and self-direction]       │
+    └─────────────────────────────────────────────────────────┘
+    
+    COMPETENCE-SUPPORTIVE FEEDBACK
+    ┌─────────────────────────────────────────────────────────┐
+    │  • Focus on informational aspects (what worked, why)    │
+    │  • Avoid ego-involving evaluation (grades as judgment)  │
+    │  • Provide optimal challenge (zone of proximal dev)     │
+    │  • Emphasize progress and improvement                   │
+    │  • Offer specific, constructive guidance                │
+    │                                                         │
+    │  [Metal/μ — Supporting mastery and growth]              │
+    └─────────────────────────────────────────────────────────┘
+    
+    RELATEDNESS IN THE CLASSROOM
+    ┌─────────────────────────────────────────────────────────┐
+    │  • Show genuine care for students as individuals        │
+    │  • Create collaborative learning communities            │
+    │  • Respond to emotional needs                           │
+    │  • Foster peer connections and belonging                │
+    │  • Be present and engaged                               │
+    │                                                         │
+    │  [Water/ρ — Building connection and security]           │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### Parenting
+
+| Style | Autonomy | Competence | Relatedness | Outcome |
+|-------|----------|------------|-------------|---------|
+| **Authoritative** | High support | High support | High support | Optimal development |
+| **Authoritarian** | Low support | High demand | Variable | Compliance, resentment |
+| **Permissive** | High support | Low structure | High support | Lack of self-regulation |
+| **Neglectful** | Low support | Low support | Low support | Poor outcomes |
+
+### Work Organizations
+
+```
+SDT IN WORKPLACE DESIGN
+═══════════════════════════════════════════════════════════════
+
+    JOB CRAFTING (Autonomy)
+    ┌─────────────────────────────────────────────────────────┐
+    │  Employees redesign their work to align with            │
+    │  interests and strengths → greater engagement           │
+    │                                                         │
+    │  [Fire/λ — Self-direction in role definition]           │
+    └─────────────────────────────────────────────────────────┘
+    
+    SKILL DEVELOPMENT (Competence)
+    ┌─────────────────────────────────────────────────────────┐
+    │  Training, mentorship, and growth opportunities         │
+    │  satisfy competence needs → mastery orientation         │
+    │                                                         │
+    │  [Metal/μ — Structured pathways to expertise]           │
+    └─────────────────────────────────────────────────────────┘
+    
+    TEAM CONNECTION (Relatedness)
+    ┌─────────────────────────────────────────────────────────┐
+    │  Collaborative culture, social support, and             │
+    │  belonging → organizational commitment                  │
+    │                                                         │
+    │  [Water/ρ — Relational bonds at work]                   │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### Healthcare
+
+- **Autonomy:** Supporting patient choice in treatment decisions
+- **Competence:** Building self-efficacy for health behaviors
+- **Relatedness:** Therapeutic alliance and social support
+
+### Sports & Exercise
+
+- **Autonomy:** Choice in activities and training approaches
+- **Competence:** Skill development and performance feedback
+- **Relatedness:** Team bonds and coach-athlete relationship
+
+## Connection to Other Theories
+
+### SDT vs. Behaviorism
+
+| Aspect | Behaviorism | Self-Determination Theory |
+|--------|-------------|---------------------------|
+| **View of motivation** | Unitary (more/less) | Multidimensional (type matters) |
+| **Role of rewards** | Increase motivation | Can undermine intrinsic motivation |
+| **Human nature** | Blank slate | Growth-oriented, needs-based |
+| **Focus** | External control | Internal volition |
+| **Element** | Metal/μ (external structure) | Fire/λ (autonomous direction) |
+
+### SDT vs. Humanistic Psychology
+
+| Aspect | Humanistic (Maslow, Rogers) | Self-Determination Theory |
+|--------|------------------------------|---------------------------|
+| **Needs** | Hierarchy (deficiency → growth) | Three basic needs (always active) |
+| **Empirical basis** | Philosophical/clinical | Extensive research program |
+| **Measurement** | Qualitative | Quantitative scales and experiments |
+| **Focus** | Self-actualization | Need satisfaction and motivation |
+| **Element** | Fire/λ (growth) | Fire/λ + Water/ρ + Metal/μ |
+
+### SDT and Flow Theory
+
+Both theories address optimal experience:
+- **SDT:** Need satisfaction → intrinsic motivation → well-being
+- **Flow:** Challenge-skill balance → absorption → optimal performance
+- **Connection:** Autonomy and competence support flow; flow experiences satisfy needs
+
+## Research Findings
+
+### Key Empirical Results
+
+1. **Intrinsic motivation undermining:** Expected tangible rewards decrease intrinsic interest
+2. **Autonomy support predicts:** Better learning, persistence, creativity, well-being
+3. **Cross-cultural validity:** Basic needs appear universal (though expression varies)
+4. **Goal contents:** Intrinsic goals (growth, connection) > extrinsic goals (wealth, image)
+5. **Mindfulness:** Present-moment awareness supports autonomy and need satisfaction
+
+### The "Hidden Cost of Reward"
+
+```
+REWARD EFFECTS ON INTRINSIC MOTIVATION
+═══════════════════════════════════════════════════════════════
+
+    TANGIBLE REWARDS (Expected, Contingent)
+    ┌─────────────────────────────────────────────────────────┐
+    │  • Significant UNDERMINING of intrinsic motivation      │
+    │  • Shifts locus of causality from internal to external  │
+    │  • "I do this for the reward" not "I do this for me"    │
+    │                                                         │
+    │  [Metal/μ external control overrides Fire/λ volition]   │
+    └─────────────────────────────────────────────────────────┘
+    
+    VERBAL REWARDS (Positive Feedback)
+    ┌─────────────────────────────────────────────────────────┐
+    │  • Can ENHANCE intrinsic motivation when:               │
+    │    - Informational (not controlling)                    │
+    │    - Acknowledges competence (not just performance)     │
+    │    - Provides autonomy support                          │
+    │                                                         │
+    │  [Fire/λ + Metal/μ — Supporting mastery and volition]   │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Criticisms and Limitations
+
+1. **Western bias concerns:** Some argue autonomy is culturally specific
+   - *Response:* SDT distinguishes autonomy (volition) from independence (not needing others)
+   
+2. **Need for more needs?** Some propose additional needs (e.g., meaning, security)
+   - *Response:* Three needs are necessary but not sufficient for all outcomes
+   
+3. **Measurement challenges:** Self-report of motivation types can be difficult
+   
+4. **Intervention complexity:** Supporting all three needs simultaneously is demanding
+
+## Connection to CAMIL and IVR
+
+Self-Determination Theory has strong implications for immersive learning:
+- **Autonomy in IVR:** Choice of paths, exploration freedom, agency in virtual worlds
+- **Competence in IVR:** Progressive challenge, skill feedback, mastery experiences
+- **Relatedness in IVR:** Social presence, collaborative VR, AI companions
+- **Intrinsic motivation:** IVR's novelty and immersion can spark inherent interest
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Philosophy** | Existentialism | Authentic self-determination |
+| **Biology** | Organismic theory | Innate growth tendencies |
+| **Economics** | Intrinsic vs. extrinsic incentives | Quality of motivation matters |
+| **Neuroscience** | Dopamine and reward | Neural basis of intrinsic reward |
+| **Education** | Student-centered learning | Autonomy-supportive pedagogy |
+| **Organizational behavior** | Job satisfaction | Need satisfaction at work |
+
+## Core Insight
+
+> Self-Determination Theory reveals that **motivation is not a quantity but a quality**. The same behavior can be driven by external pressure or internal volition, with profoundly different consequences for persistence, creativity, and well-being. Humans are not passive recipients of external forces but active organisms oriented toward growth, requiring three psychological nutrients—autonomy, competence, and relatedness—to flourish.
+
+## One-Sentence Insight
+
+> Deci and Ryan's Self-Determination Theory demonstrates that human flourishing depends on satisfying three universal psychological needs—autonomy (volition), competence (mastery), and relatedness (connection)—and that the quality of motivation (autonomous vs. controlled) matters more than its quantity for optimal learning, performance, and well-being.
+
+## Three-Bullet Expansion
+
+- **What:** A comprehensive theory of human motivation distinguishing autonomous (self-endorsed) from controlled (pressured) motivation, positing three universal psychological needs (autonomy, competence, relatedness) that must be satisfied for optimal functioning
+- **How it works:** Social contexts can support or thwart basic needs → need satisfaction promotes intrinsic motivation and integration → autonomous motivation leads to persistence, creativity, deep learning, and well-being → controlled motivation leads to compliance, defensiveness, and fragmentation
+- **Where it aims:** Toward understanding how to design environments (educational, organizational, familial, clinical) that nurture human potential by supporting basic psychological needs, enabling people to act from authentic volition rather than external or internal pressure
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L091, #L069_Humanistic_Learning_Theory, #L040_Multiple_Intelligences, #L092_Flow_Theory, #L093_Transformative_Learning, #L094_Constructionism
+- **Formal Operators:** λ, ρ, μ, δγ, κ, β
+- **Dim Operators:** Ψ_eudaimonia, Ψ_autonomy, Ψ_internalization
+- **Coord Ontology:** I (authentic self), We (supportive relationships), It (competence domains), Its (need-supportive structures), MoreThanHuman (growth tendencies), Virtual (digital autonomy)
+
+## Source
+
+Derived from:
+- Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. Plenum.
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227-268.
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.
+- Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic psychological needs in motivation, development, and wellness. Guilford Press.
+
+Original context: Psychology, motivation, education, organizational behavior, healthcare
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Fire/λ (primary) with Water/ρ, Metal/μ, Earth/δγ, Air/σ support | Daemon: Ignisid-Hydrosid-Structurid-Geosid-Aerunik | Habitat: 1_AUTONOMY-VOLITION / 3_COMPETENCE-MASTERY / 5_RELATEDNESS-CONNECTION
+
+## Related Entries
+
+- L069_Humanistic_Learning_Theory (growth orientation)
+- L040_Multiple_Intelligences (individual differences in competence)
+- L092_Flow_Theory (optimal experience and need satisfaction)
+- L093_Transformative_Learning_Theory (perspective transformation)
+- L094_Constructionism (active learning and agency)
+- L095_Experiential_Learning_Cycle (active experimentation)
+- L096_Spaced_Repetition (competence development through cycling)
+- L043_Zone_Proximal_Development (optimal challenge)
+- L086_Cognitive_Load_Theory (cognitive resources and autonomy)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L091 | Generated: 2026-02-28 10:52*
