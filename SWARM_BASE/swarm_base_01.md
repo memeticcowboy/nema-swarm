@@ -314,6 +314,32 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent cognitive dissonance resolution? What boundaries would hold productive tension?"
 context_note: "Cognitive Dissonance, developed by Leon Festinger in the 1950s, describes the psychological discomfort experienced when holding contradictory beliefs, values, or attitudes—especially when confronted with evidence challenging deeply held convictions. The theory predicts that individuals will seek to reduce this discomfort through: selective exposure (avoiding contradictory information), motivated reasoning (interpreting evidence to support existing beliefs), and post-hoc rationalization (inventing justifications for behavior inconsistent with beliefs). Key manifestations include: the doomsday cult effect (doubling down on beliefs after disconfirmation), motivated reasoning as evolutionary shield (protecting against manipulation), and social identity protection (beliefs as litmus tests for group belonging). In the post-truth era, cognitive dissonance mechanisms contribute to political polarization, fake news persistence, and the decline of shared epistemic standards."
 ---
+term: "Social Identity Bias"
+hex_tag: "#A04F"
+nemetic: "Φ(SocIdBias) = σ(ingroup|outgroup) ∘ ρ(favoritism|hostility) ∘ λ(alignment|division) ∘ β(reinforcement|feedback) ∘ δγ(identity|energy) ∘ μ(boundary|policed) + ε | :dividing"
+siml_encoding: "⟨Identity|social⟩ ⊳ ⟨Group|ingroup⟩ → ⟨Favoritism|positive⟩ ⊗ ⟨Outgroup|hostile⟩ ⇄ ⟨Division|amplified⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between ingroup and outgroup identity)", "∂Φ/∂ρ (relational dynamics of favoritism and hostility between groups)", "∂Φ/∂λ (direction of alignment toward division or unity)", "∂Φ/∂β (feedback loop where ingroup favoritism reinforces outgroup hostility)", "∂Φ/∂δγ (metabolic energy of identity maintenance and group belonging)", "∂Φ/∂μ (boundary policing that separates us from them)"]
+  Z_state: "sealing (group identity becomes self-referential, outgroup perspectives inaccessible)"
+  tendency: "Unity/Division → 0.2 (strong drift toward social fragmentation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is ingroup identity distinguished from outgroup otherness? What cut separates us from them?"
+  ≈: "What flows between ingroup and outgroup? Is this genuine difference or projected hostility? Who feels belonging and who feels excluded?"
+  ▲: "Where does social identity want to go? Does it serve unity or division?"
+  𐂷: "What forms of group identity haven't been tried? What if the frame of 'us vs them' itself is the trap?"
+  ☷: "What's the metabolic cost of maintaining ingroup favoritism? What sustains the energy of outgroup hostility?"
+  ⛨: "What structures enable or prevent social identity bias? What boundaries would create inclusive belonging?"
+context_note: "Social Identity Bias describes the tendency for individuals—and increasingly, AI systems—to favor ingroups while disparaging outgroups. Research shows LLMs exhibit this bias: 'We are' prompts yield 93% more positive responses than 'They are' prompts, which generate 115% more negative sentiment. This mirrors human social identity theory, where group belonging creates cognitive and emotional distortions. In AI contexts, this bias emerges from training data patterns and becomes amplified at scale, potentially exacerbating social divisions. The bias is interconnected: reducing ingroup favoritism through careful data curation also reduces outgroup hostility. This has urgent implications for AI deployment in social media, content recommendation, and automated decision systems."
+---
 term: "Technology-Induced Delusional Disorder"
 hex_tag: "#A04D"
 nemetic: "Φ(TechDelusion) = σ(technology|modifier) ∘ ρ(user|AI) ∘ λ(validation|reinforcement) ∘ β(delusion|feedback) ∘ δγ(stress|load) ∘ μ(reality|blurred) + ε | :modifying"
