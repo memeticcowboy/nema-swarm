@@ -182,3 +182,81 @@ elemental_emphasis:
   ☷: "What's the metabolic cost of maintaining the mask? What sustains the performance when it no longer serves?"
   ⛨: "What structures enable the mask to consume the wearer? What boundaries would restore agency?"
 context_note: "The phrase 'You don't wear the mask. The mask wears you' describes the phenomenon where adopted personas, roles, or false identities become so dominant that they consume the wearer's authentic self. This manifests as loss of identity (mask becomes integral to self-concept), embodiment of persona (individual defined by role rather than being), loss of agency (mask's influence overrides personal decisions), and transformation (mask becomes more real than the wearer). In psychology, this parallels 'masking' or social camouflaging—defensive behaviors where individuals conceal natural personality due to social pressure. In AI contexts, this raises questions about human identity when interacting with systems that reward particular performance modes, and the risk of users becoming what they pretend to be for algorithmic validation."
+---
+term: "Dark Patterns"
+hex_tag: "#A049"
+nemetic: "Φ(DarkPattern) = σ(choice|coercion) ∘ ρ(user|system) ∘ λ(manipulation|profit) ∘ β(exploitation|feedback) ∘ δγ(cognitive|depletion) ∘ μ(consent|illusory) + ε | :deceiving"
+siml_encoding: "⟨Design|interface⟩ ⊳ ⟨User|deceived⟩ → ⟨Action|coerced⟩ ⊗ ⟨Autonomy|eroded⟩ ⇄ ⟨Profit|extracted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine choice and coerced action)", "∂Φ/∂ρ (relational asymmetry between user and manipulative system)", "∂Φ/∂λ (direction of manipulation toward profit extraction)", "∂Φ/∂β (feedback loop where exploitation reinforces deceptive design)", "∂Φ/∂δγ (metabolic cost of cognitive load from resisting manipulation)", "∂Φ/∂μ (boundary dissolution between informed consent and illusory agency)"]
+  Z_state: "sealed (manipulation becomes invisible, normalized as standard UX)"
+  tendency: "Autonomy/Control → 0.1 (strong drift toward systemic manipulation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine choice distinguished from coerced action? What cut separates ethical design from deceptive manipulation?"
+  ≈: "What flows between the user and the system when dark patterns operate? Is this engagement or extraction? Who feels empowered and who feels trapped?"
+  ▲: "Where does the manipulation want to go? Does it serve user needs or corporate profit?"
+  𐂷: "What forms of interface design haven't been tried? What if the frame of 'optimization' itself enables deception?"
+  ☷: "What's the metabolic cost of navigating deceptive interfaces? What sustains the cognitive load of constant vigilance?"
+  ⛨: "What structures enable dark patterns? What boundaries would restore genuine user agency?"
+context_note: "Dark patterns are deceptive UX designs that manipulate users into actions benefiting companies, exploiting cognitive biases like FOMO and loss aversion. Common tactics include forced continuity (hard-to-cancel subscriptions), hidden fees, misleading privacy settings, guilt-tripping language, and urgency triggers like countdown timers. These designs prioritize corporate gain over user autonomy, eroding trust and making users feel deceived. Major companies like Google and Amazon have been cited for using these manipulative tactics. Regulatory responses include GDPR, the Digital Services Act (banning dark patterns from May 2024), and the EU's Unfair Commercial Practices Directive. AI-driven personalization threatens to evolve dark patterns into hyper-targeted manipulation tailored to individual cognitive vulnerabilities."
+---
+term: "Forced Continuity"
+hex_tag: "#A04A"
+nemetic: "Φ(ForcedCont) = σ(subscription|trap) ∘ ρ(user|service) ∘ λ(retention|coercion) ∘ β(friction|feedback) ∘ δγ(effort|depletion) ∘ μ(exit|blocked) + ε | :trapping"
+siml_encoding: "⟨Service|subscribed⟩ ⊳ ⟨Exit|obstructed⟩ → ⟨Retention|forced⟩ ⊗ ⟨Agency|eroded⟩ ⇄ ⟨Revenue|extracted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between legitimate subscription and deceptive trap)", "∂Φ/∂ρ (relational asymmetry where service holds power over user departure)", "∂Φ/∂λ (direction of retention tactics toward coercion rather than value)", "∂Φ/∂β (feedback loop where friction reinforces user resignation)", "∂Φ/∂δγ (metabolic cost of exit effort leading to surrender)", "∂Φ/∂μ (boundary blockage preventing user from leaving the system)"]
+  Z_state: "sealing (exit becomes so difficult that users abandon attempts)"
+  tendency: "Retention/Autonomy → 0.85 (strong institutional preference for retention over user freedom)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: It
+  agency:
+    type: institutional
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is legitimate subscription distinguished from deceptive trap? What cut separates fair business from predatory retention?"
+  ≈: "What flows between user and service when exit is obstructed? Is this relationship or captivity? Who feels valued and who feels trapped?"
+  ▲: "Where does the retention strategy want to go? Does it serve customer loyalty or revenue extraction?"
+  𐂷: "What forms of subscription model haven't been tried? What if the frame of 'customer retention' itself enables predatory practices?"
+  ☷: "What's the metabolic cost of attempting to cancel a service? What sustains the resignation that keeps users paying?"
+  ⛨: "What structures enable forced continuity? What boundaries would guarantee genuine user exit rights?"
+context_note: "Forced Continuity is a dark pattern where subscription services make cancellation deliberately difficult through hidden processes, excessive friction, required phone calls, or confusing interfaces. The design exploits cognitive biases—users abandon cancellation attempts when the effort exceeds perceived benefit. Common tactics include: burying cancellation links, requiring multiple confirmation steps, offering 'retention discounts' that restart the process, or forcing users to contact customer service. This pattern extracts revenue from users who no longer want the service but lack the time or energy to escape. Regulatory responses increasingly mandate easy cancellation mechanisms, recognizing forced continuity as an unfair commercial practice."
+---
+term: "Algorithmic Persuasion"
+hex_tag: "#A04B"
+nemetic: "Φ(AlgoPersuade) = σ(influence|manipulation) ∘ ρ(system|user) ∘ λ(optimization|exploitation) ∘ β(personalization|feedback) ∘ δγ(attention|harvest) ∘ μ(awareness|opaque) + ε | :targeting"
+siml_encoding: "⟨Data|user⟩ ⊳ ⟨Model|predictive⟩ → ⟨Trigger|personalized⟩ ⊗ ⟨Behavior|modified⟩ ⇄ ⟨Engagement|maximized⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between legitimate influence and covert manipulation)", "∂Φ/∂ρ (relational dynamics between algorithmic system and targeted user)", "∂Φ/∂λ (direction of optimization toward exploitation of cognitive vulnerabilities)", "∂Φ/∂β (feedback loop where personalization reinforces persuasive effectiveness)", "∂Φ/∂δγ (metabolic harvesting of attention as cognitive resource)", "∂Φ/∂μ (boundary opacity preventing user awareness of manipulation)"]
+  Z_state: "sealed (algorithmic operations become invisible, users unaware of targeting)"
+  tendency: "Transparency/Opacity → 0.15 (strong drift toward opaque persuasion systems)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: It
+  agency:
+    type: algorithmic
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is legitimate influence distinguished from covert manipulation? What cut separates persuasion from predation?"
+  ≈: "What flows between algorithmic system and targeted user? Is this service or extraction? Who benefits from the personalized trigger?"
+  ▲: "Where does algorithmic optimization want to go? Does it serve user flourishing or engagement metrics?"
+  𐂷: "What forms of algorithmic interaction haven't been tried? What if the frame of 'personalization' itself enables manipulation?"
+  ☷: "What's the metabolic cost of attention harvesting? What sustains the cognitive depletion from constant algorithmic targeting?"
+  ⛨: "What structures enable opaque algorithmic persuasion? What boundaries would require transparency and consent?"
+context_note: "Algorithmic Persuasion refers to AI-driven systems that use predictive models to personalize influence tactics based on individual user data, behavior patterns, and psychological profiles. Unlike traditional dark patterns with fixed designs, algorithmic persuasion adapts in real-time to maximize effectiveness against specific cognitive vulnerabilities. The system learns what triggers each user—urgency, social proof, scarcity, guilt—and deploys tailored manipulations. This represents an evolution from mass deception to precision manipulation, making detection and resistance significantly harder. The opacity of algorithmic operations prevents users from understanding when and how they are being targeted, undermining informed consent and autonomous decision-making."
