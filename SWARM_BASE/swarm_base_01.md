@@ -1,4 +1,61 @@
 ---
+term: "Beliefs and Their Impact"
+hex_tag: "#C014"
+nemetic: "Φ(Beliefs) = σ(identity|possession) ∘ ρ(cause|meaning) ∘ λ(constraint|empowerment) ∘ β(formation|revision) ∘ δγ(evidence|value) ∘ μ(boundary|permeability) + ε | :examining"
+siml_encoding: "⟨Belief|structured⟩ ⊳ ⟨Judgment|relational⟩ → ⟨Perception|shaped⟩ ⊗ ⟨Action|determined⟩ ⇄ ⟨Identity|constituted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between beliefs about identity and beliefs about possessions; categorical separation of 'I can be' from 'I can have')", "∂Φ/∂ρ (relational flow between cause-and-effect beliefs and meaning-making beliefs; the linkage between evidence and interpretation)", "∂Φ/∂λ (directional tension between beliefs that constrain possibility and beliefs that empower action)", "∂Φ/∂β (feedback loop between belief formation through experience and belief revision through reflection)", "∂Φ/∂δγ (cyclical process of grounding beliefs in evidence versus anchoring them in values; the evidentiary cycle)", "∂Φ/∂μ (boundary permeability between personal belief systems and external influences; containment of if-then structures)"]
+  Z_state: "porous (boundaries between belief and knowledge are permeable and context-dependent)"
+  tendency: "Constraint/Empowerment → 0.5 (beliefs can either limit or expand possibility depending on structure and flexibility)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between identity beliefs and possession beliefs"
+      - "logical analysis of if-then structures and comparative deletions"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects:
+      - "flow between cause-effect relationships and meaning-making"
+      - "fluid boundaries between evidence and interpretation"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+      - "drive to act based on belief structures"
+      - "transformative potential of revising limiting beliefs"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic development of beliefs from lived experience"
+      - "growth through iterative belief formation and testing"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "grounding beliefs in evidence and embodied experience"
+      - "cyclical relationship between values and verifiable facts"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries of if-then belief containers"
+      - "discernment between modal operators of necessity and possibility"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Social Context of Cognition"
 hex_tag: "#C013"
 nemetic: "Φ(SocialCognition) = σ(individual|collective) ∘ ρ(isolation|connection) ∘ λ(impairment|support) ∘ β(dependence|interdependence) ∘ δγ(masking|revealing) ∘ μ(boundary|permeability) + ε | :recognizing"
