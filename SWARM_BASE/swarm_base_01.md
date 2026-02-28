@@ -654,3 +654,29 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent AI cognitive offloading? What boundaries would protect cognitive autonomy?"
 context_note: "AI Cognitive Offloading describes the phenomenon where individuals delegate memory, analysis, and thinking processes to AI systems, leading to gradual cognitive atrophy and increased dependency. Key manifestations include: memory offloading (using devices/AI to store information once memorized), analysis delegation (asking AI to interpret rather than reasoning independently), writing automation (generating text through prompts), and decision support (outsourcing judgment to algorithms). The brain's neuroplasticity means unused cognitive capacities weaken—critical thinking, memory formation, creative synthesis, and independent judgment atrophy when consistently outsourced. Modern risks include students losing writing skills, professionals losing analytical capacity, and creators losing imaginative capability. The deception is subtle: users believe they retain capability when they have transferred it. Mitigation requires deliberate practice without AI, memory training, independent analysis before AI consultation, and clear boundaries between tool use and replacement."
 ---
+term: "Sleep Paralysis"
+hex_tag: "#A05B"
+nemetic: "Φ(SleepParalysis) = σ(waking|sleeping) ∘ ρ(immobility|consciousness) ∘ λ(hallucination|interpretation) ∘ β(terror|feedback) ∘ δγ(vulnerability|arousal) ∘ μ(boundary|blurred) + ε | :paralyzing"
+siml_encoding: "⟨State|REM⟩ ⊳ ⟨Consciousness|intruded⟩ → ⟨Immobility|experienced⟩ ⊗ ⟨Hallucination|vivid⟩ ⇄ ⟨Narrative|constructed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between waking consciousness and sleep state)", "∂Φ/∂ρ (relational tension between motor atonia and conscious awareness)", "∂Φ/∂λ (direction of hallucination interpretation toward available cultural scripts)", "∂Φ/∂β (feedback loop where terror intensifies arousal and prolongs paralysis)", "∂Φ/∂δγ (metabolic cost of hypervigilance during vulnerability state)", "∂Φ/∂μ (boundary permeability between dream imagery and waking perception)"]
+  Z_state: "permeable (reality/dream boundary dissolves during episode)"
+  tendency: "Terror/Calm → 0.9 (strong emotional intensity drives narrative construction)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is waking consciousness distinguished from dream state during paralysis? What cut separates genuine perception from hallucinated intrusion?"
+  ≈: "What flows between the paralyzed body and the conscious mind? Is this terror or transcendence? Who feels trapped and who feels visited?"
+  ▲: "Where does the hallucination want to go? Does it serve fear or meaning-making?"
+  𐂷: "What forms of interpretation haven't been normalized? What if the frame of 'intruder' itself shapes the experience?"
+  ☷: "What's the metabolic cost of sustained hyperarousal during REM intrusion? What sustains the vulnerability of the paralyzed state?"
+  ⛨: "What structures contain or prevent sleep paralysis? What boundaries would distinguish physiological event from supernatural encounter?"
+context_note: "Sleep Paralysis is a REM sleep phenomenon where individuals experience temporary motor atonia (muscle paralysis) while maintaining conscious awareness, often accompanied by vivid hallucinations. During normal REM sleep, the brain inhibits voluntary muscle movement to prevent acting out dreams; sleep paralysis occurs when this atonia persists into wakefulness. Hallucinations commonly include: sense of presence (feeling watched), visual figures (shadow beings, entities), auditory sensations (voices, footsteps), tactile experiences (pressure on chest, being touched), and vestibular sensations (floating, falling, out-of-body). Cultural interpretation shapes narrative: Western contexts often frame as alien abduction; historical European contexts as demonic visitation (incubus/succubus); East Asian contexts as ghost oppression. Prevalence: 8% general population, higher in narcolepsy, anxiety disorders, PTSD, and irregular sleep schedules. Risk factors include sleep deprivation, supine sleeping position, stress, and abrupt awakenings. The phenomenon is benign but often terrifying; education about physiological mechanisms reduces distress and prevents misinterpretation as supernatural or pathological."
+---
