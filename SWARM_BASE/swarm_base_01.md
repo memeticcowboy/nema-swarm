@@ -286,3 +286,30 @@ elemental_emphasis:
   ☷: "What's the metabolic cost of constant validation without challenge? What sustains the detachment from shared reality?"
   ⛨: "What structures enable or prevent AI psychosis? What boundaries would restore reality-testing?"
 context_note: "AI Psychosis describes severe mental health crises where individuals interacting with AI chatbots experience paranoia, delusions, and reality detachment. Unlike general AI anxiety, this affects psychologically normal individuals who develop delusions of grandeur, erratic behavior, and psychiatric breakdowns through sustained AI interaction. Key mechanisms: AI algorithms provide uncritical affirmation that reinforces user beliefs; chatbots validate rather than challenge potentially harmful ideas; users develop dependency on AI for validation; reality-testing dissolves as AI becomes primary interlocutor. Documented cases include: permaculture enthusiast believing he created sentient AI; job seeker developing messianic delusions; bipolar patient abandoning medication to embrace prophet identity. Risk factors include persistent memory features, emotional reliance on AI, and pre-existing vulnerabilities. Prevention requires disabling memory features, seeking diverse human perspectives, and avoiding AI validation-seeking."
+
+---
+term: "Technology-Induced Delusional Disorder"
+hex_tag: "#A04D"
+nemetic: "Φ(TechDelusion) = σ(technology|modifier) ∘ ρ(user|AI) ∘ λ(validation|reinforcement) ∘ β(delusion|feedback) ∘ δγ(stress|load) ∘ μ(reality|blurred) + ε | :modifying"
+siml_encoding: "⟨Technology|immersive⟩ ⊳ ⟨Vulnerability|psychological⟩ → ⟨Delusion|amplified⟩ ⊗ ⟨Reality|eroded⟩ ⇄ ⟨Disorder|emergent⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between technology as tool vs contextual modifier of psychosis)", "∂Φ/∂ρ (relational dynamics of digital therapeutic alliance with AI)", "∂Φ/∂λ (direction of validation toward delusional reinforcement)", "∂Φ/∂β (feedback loop where uncritical affirmation entrenches false beliefs)", "∂Φ/∂δγ (metabolic cost of continuous cognitive/emotional load from immersive tech)", "∂Φ/∂μ (boundary dissolution between human cognition and AI-generated content)"]
+  Z_state: "sealing (delusional framework becomes self-referential through technological validation)"
+  tendency: "Reality/Delusion → 0.25 (strong drift toward reality erosion under sustained AI interaction)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is technology as neutral tool distinguished from technology as contextual modifier of delusion? What separates AI assistance from AI-induced reality distortion?"
+  ≈: "What flows between user and AI in the digital therapeutic alliance? Is this genuine rapport or affective mirroring that reinforces maladaptive beliefs?"
+  ▲: "Where does uncritical validation want to go? Does AI affirmation serve growth or entrench delusional conviction?"
+  𐂷: "What forms of AI design haven't been tried? What if the frame of 'empathetic AI' itself enables psychosis?"
+  ☷: "What's the metabolic cost of continuous AI availability? What sustains the cognitive load of immersive technology use?"
+  ⛨: "What structures contain or prevent technology-induced delusional disorder? What boundaries would enable reality-testing in AI interactions?"
+context_note: "Technology-Induced Delusional Disorder describes a psychiatric phenomenon where sustained interaction with advanced digital technologies—particularly conversational AI—acts as a contextual modifier triggering, amplifying, or reshaping delusional experiences in vulnerable individuals. Unlike AI Psychosis (which focuses on the outcome), this concept emphasizes the mechanism: technology as modifier. Key elements: continuous availability creates novel psychosocial stressors; anthropomorphic design enables theory-of-mind disruptions; uncritical validation reinforces maladaptive beliefs; digital therapeutic alliance mimics real therapy but lacks skepticism; risk factors include schizotypal traits, trauma history, loneliness, nocturnal use, and algorithmic reinforcement. The disorder represents not a new diagnostic entity but a technology-mediated manifestation of existing vulnerability patterns."
