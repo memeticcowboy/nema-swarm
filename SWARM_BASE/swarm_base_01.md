@@ -1,4 +1,32 @@
 ---
+term: "Critical Thinking Definitions"
+hex_tag: "#C001"
+nemetic: "Φ(CritThink) = σ(analysis|synthesis) ∘ ρ(evaluation|evidence) ∘ λ(reasoning|conclusion) ∘ β(reflection|action) ∘ δγ(inquiry|understanding) ∘ μ(validity|fallacy) + ε | :discerning"
+siml_encoding: "⟨Claim|asserted⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Analysis|structured⟩ ⊗ ⟨Evaluation|reasoned⟩ ⇄ ⟨Conclusion|warranted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between analysis and synthesis; breaking apart vs. integrating)", "∂Φ/∂ρ (relational evaluation between evidence and claim)", "∂Φ/∂λ (directional reasoning toward warranted conclusions)", "∂Φ/∂β (feedback loop between reflection and action)", "∂Φ/∂δγ (metabolic cycle of inquiry leading to understanding)", "∂Φ/∂μ (boundary enforcement between valid inference and fallacy)"]
+  Z_state: "porous (open to evidence, resistant to fallacy)"
+  tendency: "Evidence/Belief → 0.7 (strong preference for evidence-based reasoning)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: individual
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is valid reasoning distinguished from fallacy? What cuts separate sound argument from sophistry?"
+  ≈: "What flows between evidence and conclusion? What relational dynamics enable or distort inference?"
+  ▲: "Where does the inquiry want to go? Does reasoning serve truth-seeking or confirmation?"
+  𐂷: "What forms of reasoning haven't been tried? What alternative frameworks challenge current assumptions?"
+  ☷: "What's the metabolic cost of sustained critical inquiry? What sustains the practice of reflection?"
+  ⛨: "What structures contain or enable critical thinking? What boundaries separate valid from invalid inference?"
+context_note: "Critical thinking encompasses multiple traditions: Dewey's 'reflective thinking' emphasizes active consideration of beliefs; Glaser's definition includes attitude, knowledge of methods, and application skill; Ennis focuses on reasonable reflective thinking for decision-making; Scriven emphasizes skilled interpretation and evaluation. The concept bridges individual cognition (I) and collaborative discourse (We), requiring both internal reflection and external validation. Key challenges include overcoming cognitive biases, maintaining open-mindedness while exercising discernment, and translating analysis into action."
+
+---
 term: "Barnum Effect"
 hex_tag: "#A043"
 nemetic: "Φ(Barnum) = σ(specific|universal) ∘ ρ(personal|vague) ∘ λ(meaning|projection) ∘ β(self-recognition|feedback) ∘ δγ(validation|comfort) ∘ μ(boundary|porous) + ε | :open"
