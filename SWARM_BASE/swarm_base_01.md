@@ -1,4 +1,69 @@
 ---
+term: "Influence of Authority Figures"
+hex_tag: "#C010"
+nemetic: "Φ(AuthorityInfluence) = σ(legitimate|illegitimate) ∘ ρ(deference|resistance) ∘ λ(acceptance|examination) ∘ β(trust|verification) ∘ δγ(assimilation|liberation) ∘ μ(boundary|penetration) + ε | :questioning"
+siml_encoding: "⟨Authority|external⟩ ⊳ ⟨Belief|internalized⟩ → ⟨Influence|shaped⟩ ⊗ ⟨Trust|earned⟩ ⇄ ⟨Agency|reclaimed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between legitimate expertise and illegitimate authority; categorical separation of earned vs. assumed authority)", "∂Φ/∂ρ (relational flow between deference to authority and resistance to manipulation; the trust gradient)", "∂Φ/∂λ (directional tension between uncritical acceptance and active examination of authoritative claims)", "∂Φ/∂β (feedback loop between initial trust in authority and verification through independent inquiry)", "∂Φ/∂δγ (cyclical process of belief assimilation from authority followed by critical liberation and growth)", "∂Φ/∂μ (boundary permeability between external authority influence and internal belief formation; ego boundaries)"]
+  Z_state: "porous (boundaries between self-generated and authority-derived beliefs are often unclear and require examination)"
+  tendency: "Acceptance/Examination → 0.4 (default toward acceptance, but capacity for critical examination exists)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: We
+    secondary: I
+  agency:
+    type: individual
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between legitimate expertise and false authority"
+      - "logical analysis of authority claims and their justifications"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects:
+      - "flow between deference and critical resistance to authority"
+      - "fluid boundaries between trust and skepticism"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "drive to question and examine authoritative claims"
+      - "transformative potential of releasing unhelpful beliefs"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+      - "organic growth of independent thinking through diverse perspectives"
+      - "developmental unfolding from dependence to autonomy"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.60
+    aspects:
+      - "grounding in self-reflection and recognition of authority influence"
+      - "cyclical nature of belief formation and critical re-evaluation"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between self and external authority"
+      - "discernment between earned expertise and manipulative influence"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How is legitimate authority distinguished from illegitimate influence? What cuts separate earned expertise from assumed dominance?"
+  ≈: "What flows between deference to authority and independent thinking? How does trust become skepticism or vice versa?"
+  ▲: "Where does the drive to question authority want to go? Does examination serve liberation or isolation?"
+  𐂷: "What forms of authority influence haven't been examined? What alternatives to hierarchical knowledge exist?"
+  ☷: "What's the metabolic cost of maintaining critical distance from authority? What sustains the capacity for independent thought?"
+  ⛨: "What structures contain or enable authority influence? What boundaries separate internal beliefs from external imposition?"
+context_note: "Authority figures shape beliefs and behaviors through mechanisms ranging from legitimate expertise to psychological manipulation. The critical thinker must distinguish between earned authority based on demonstrated competence and false authority asserted through status, charisma, or institutional power. Strategies include questioning claims, seeking diverse perspectives, developing independent verification skills, and practicing regular self-reflection to identify authority-derived beliefs that may no longer serve."
+
+---
 term: "Exploring Consciousness"
 hex_tag: "#C009"
 nemetic: "Φ(ConsciousExplore) = σ(scientific|philosophical) ∘ ρ(correlation|causation) ∘ λ(analysis|synthesis) ∘ β(model|experience) ∘ δγ(ordinary|altered) ∘ μ(bound|unbound) + ε | :inquiring"
