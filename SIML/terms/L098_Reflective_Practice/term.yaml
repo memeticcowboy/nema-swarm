@@ -1,0 +1,476 @@
+---
+term_id: L098
+source_domain: education
+source_term: Reflective Practice (Schön, 1983) - Professional Learning Through Reflection
+hex_tag: #L098
+generated_at: 2026-02-28T12:25:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Reflective Practice — Professional learning through reflection-in-action and reflection-on-action, transforming experience into knowledge
+- **Nemetic String:** Φ(ReflectivePractice) = δγ(experience|cyclical-return) ⇄ ρ(felt-sense|tacit-knowing) → [σ(surprise|disturbance)] → [λ(inquiry|problem-framing)] → [β(reframing|generative-insight)] → [κ(integration|new-understanding)] + ε | :transformative
+- **Core Operators:** δγ (earth/cycling), ρ (water/resonance), σ (air/distinction), λ (fire/direction), β (wood/generation), κ (integration)
+- **Z-State:** reflective-integration — the continuous dialogue between experience and understanding that transforms professional knowing
+- **Tendency:** Experience → Surprise/Disturbance → Reflection → Reframing → New Understanding → Enhanced Practice
+
+## SIML Encoding
+
+```
+⟨Narrative|professional-knowledge-emerges-from-reflection-on-experience⟩ 
+    ⊳ ⟨Constraint|technical-rationality-fails-in-uncertain-practice-situations⟩ 
+    ⇄ ⟨Process|knowing-in-action→surprise→reflection-in-action→on-the-spot-experiment⟩ 
+    → ⟨Process|reflection-on-action→systematic-inquiry→reframing⟩ 
+    ⊗ ⟨Outcome|professional-knowledge-creation⟩ 
+    → ⟨Transfer|enhanced-practice-capacity⟩ 
+    → ⟨Transformation|practitioner-becomes-researcher-in-practice⟩
+```
+
+## Core Definition
+
+**Reflective Practice** is a theory of professional learning developed by Donald Schön (1983) that emphasizes the role of reflection in developing professional knowledge and competence. Schön challenged the dominant "technical rationality" model—which assumes professionals apply scientific knowledge to instrumental problems—and proposed instead that professional knowing emerges through reflection on the "messy," indeterminate situations of practice.
+
+Schön distinguished between two modes of reflection:
+
+1. **Reflection-in-Action:** Thinking about what we're doing while we're doing it, responding to surprise and adjusting our approach in the moment
+
+2. **Reflection-on-Action:** Retrospective examination of practice, analyzing what happened after the fact to develop new understandings
+
+### The Epistemology of Practice
+
+```
+┌─────────────────────────────────────────────────────────┐
+│           TECHNICAL RATIONALITY MODEL                   │
+│              (The Old Paradigm)                         │
+│                                                         │
+│   ┌──────────┐      ┌──────────┐      ┌──────────┐     │
+│   │Scientific│─────►│  Applied │─────►│Practice  │     │
+│   │Knowledge │      │ Science  │      │Problems  │     │
+│   └──────────┘      └──────────┘      └──────────┘     │
+│        │                                     ▲         │
+│        │                                     │         │
+│        └─────────────────────────────────────┘         │
+│                   (One-way application)                 │
+│                                                         │
+│   Problems are: Well-formed, stable, solvable by tech   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│           REFLECTION-IN-ACTION MODEL                    │
+│            (Schön's New Paradigm)                       │
+│                                                         │
+│   ┌──────────┐      ┌──────────┐      ┌──────────┐     │
+│   │Knowing-in│◄────►│Reflection│◄────►│Surprise/ │     │
+│   │  Action  │      │in Action │      │Disturbance     │
+│   └────┬─────┘      └──────────┘      └──────────┘     │
+│        │                                                │
+│        │      ┌──────────┐                             │
+│        └─────►│  New     │                             │
+│               │Understanding                            │
+│               └──────────┘                             │
+│                                                         │
+│   Problems are: Messy, uncertain, unique, value-laden   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### The Reflective Conversation with the Situation
+
+```
+THE REFLECTIVE CONVERSATION
+═══════════════════════════════════════════════════════════
+
+    PRACTITIONER                          SITUATION
+         │                                    │
+         │  1. Frames the situation           │
+         │ ─────────────────────────────────► │
+         │                                    │
+         │  2. Experiment with action         │
+         │ ─────────────────────────────────► │
+         │                                    │
+         │  3. "Listens" to back-talk         │
+         │ ◄───────────────────────────────── │
+         │     (Surprise! Unexpected result)  │
+         │                                    │
+         │  4. Reflects on the surprise       │
+         │ ─────────────────────────────────► │
+         │                                    │
+         │  5. Reframes the situation         │
+         │ ─────────────────────────────────► │
+         │                                    │
+         │  6. New experiment                 │
+         │ ─────────────────────────────────► │
+         │                                    │
+         ▼                                    ▼
+
+    This is a SPIRAL of knowing, not a linear process
+    Each cycle transforms both practitioner and situation
+```
+
+## The Two Types of Reflection
+
+### Reflection-in-Action
+
+```
+┌─────────────────────────────────────────────────────────┐
+│         REFLECTION-IN-ACTION                            │
+│      (Thinking while doing)                             │
+│                                                         │
+│   ┌─────────────┐                                       │
+│   │ Routine     │                                       │
+│   │ Performance │                                       │
+│   └──────┬──────┘                                       │
+│          │                                              │
+│          ▼                                              │
+│   ┌─────────────┐    ┌─────────────┐                   │
+│   │ Surprise!   │───►│ Reflection  │                   │
+│   │ (Something  │    │ in Action   │                   │
+│   │ unexpected) │    │             │                   │
+│   └─────────────┘    └──────┬──────┘                   │
+│                             │                           │
+│                             ▼                           │
+│                      ┌─────────────┐                   │
+│                      │ On-the-spot │                   │
+│                      │ Experiment  │                   │
+│                      └──────┬──────┘                   │
+│                             │                           │
+│                             ▼                           │
+│                      ┌─────────────┐                   │
+│                      │ New         │                   │
+│                      │ Understanding                   │
+│                      │ (Tacit)     │                   │
+│                      └─────────────┘                   │
+│                                                         │
+│   Examples: Jazz improvisation, clinical diagnosis,     │
+│   architectural design, teaching in the moment          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Reflection-on-Action
+
+```
+┌─────────────────────────────────────────────────────────┐
+│         REFLECTION-ON-ACTION                            │
+│      (Thinking after doing)                             │
+│                                                         │
+│   ┌─────────────┐                                       │
+│   │ Experience  │                                       │
+│   │ (Past event)│                                       │
+│   └──────┬──────┘                                       │
+│          │                                              │
+│          ▼                                              │
+│   ┌─────────────┐    ┌─────────────┐                   │
+│   │ Description │───►│ Analysis    │                   │
+│   │ (What       │    │ (Why did it │                   │
+│   │ happened)   │    │ happen?)    │                   │
+│   └─────────────┘    └──────┬──────┘                   │
+│                             │                           │
+│                             ▼                           │
+│                      ┌─────────────┐                   │
+│                      │ Evaluation  │                   │
+│                      │ (What worked│                   │
+│                      │ /didn't?)   │                   │
+│                      └──────┬──────┘                   │
+│                             │                           │
+│                             ▼                           │
+│                      ┌─────────────┐                   │
+│                      │ Planning    │                   │
+│                      │ (How to     │                   │
+│                      │ improve?)   │                   │
+│                      └──────┬──────┘                   │
+│                             │                           │
+│                             ▼                           │
+│                      ┌─────────────┐                   │
+│                      │ New Theory  │                   │
+│                      │ (Explicit   │                   │
+│                      │ knowledge)  │                   │
+│                      └─────────────┘                   │
+│                                                         │
+│   Examples: Case studies, supervision, journaling,      │
+│   professional portfolios, action research              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Tacit Knowledge and Professional Artistry
+
+```
+┌─────────────────────────────────────────────────────────┐
+│           TACIT KNOWING (Polanyi → Schön)               │
+│                                                         │
+│   "We know more than we can tell"                       │
+│                                                         │
+│   ┌─────────────────────────────────────────────────┐   │
+│   │                                                 │   │
+│   │   SUBSIDIARY AWARENESS       FOCAL AWARENESS    │   │
+│   │                                                 │   │
+│   │   (Background knowing)      (What we attend to) │   │
+│   │                                                 │   │
+│   │   • Feel of the tool          • The task        │   │
+│   │   • Sense of the situation    • The goal        │   │
+│   │   • Embodied patterns         • The problem     │   │
+│   │                                                 │   │
+│   │        ─────── INTEGRATION ───────►             │   │
+│   │                                                 │   │
+│   │   Example: When riding a bicycle, we attend     │   │
+│   │   to the road (focal) while feeling balance     │   │
+│   │   subsidiarily. We can't easily describe how    │   │
+│   │   we balance, but we do it skillfully.          │   │
+│   │                                                 │   │
+│   └─────────────────────────────────────────────────┘   │
+│                                                         │
+│   PROFESSIONAL ARTISTRY = Integration of tacit knowing  │
+│   with explicit reflection to create new understanding  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## The Spiral of Professional Learning
+
+```
+PROFESSIONAL LEARNING AS REFLECTIVE SPIRAL
+═══════════════════════════════════════════════════════════
+
+         ┌─────────────────────────────────────┐
+         │                                     │
+         │    DEEPER PROFESSIONAL              │
+         │    KNOWLEDGE & WISDOM               │
+         │         ▲                           │
+         │         │                           │
+    ┌────┴─────────┴────┐                      │
+    │  REFLECTION-ON-   │                      │
+    │     ACTION        │                      │
+    │  (Systematic      │                      │
+    │   inquiry)        │                      │
+    └─────────┬─────────┘                      │
+              │                                │
+              ▼                                │
+    ┌─────────────────┐                        │
+    │  NEW THEORY/    │                        │
+    │  UNDERSTANDING  │                        │
+    │  (Explicit)     │                        │
+    └─────────┬─────────┘                      │
+              │                                │
+              ▼                                │
+    ┌─────────────────┐                        │
+    │  KNOWING-IN-    │                        │
+    │     ACTION      │                        │
+    │  (Tacit skill)  │                        │
+    └─────────┬─────────┘                      │
+              │                                │
+              ▼                                │
+    ┌─────────────────┐                        │
+    │  REFLECTION-IN- │                        │
+    │     ACTION      │                        │
+    │  (In the moment)│                        │
+    └─────────┬─────────┘                      │
+              │                                │
+              └────────────────────────────────┘
+                    (Cycle repeats)
+
+    Each cycle transforms both the practitioner
+    and the practice itself
+```
+
+## Elemental Analysis
+
+### Earth (δγ): Cyclical Return and Metabolic Processing
+
+- **Cycling:** Reflection is inherently cyclical—experience → reflection → new understanding → new experience
+- **Metabolic:** The "digestion" of experience into knowledge, transforming raw events into nourishment for growth
+- **Grounding:** Reflection keeps practice grounded in actual experience rather than abstract theory
+- **Patience:** The slow, iterative nature of deep professional learning
+
+### Water (ρ): Resonance and Tacit Flow
+
+- **Resonance:** The felt-sense of "rightness" or "wrongness" in practice
+- **Flow:** Tacit knowing flows beneath explicit awareness, guiding skilled action
+- **Adaptation:** Water-like responsiveness to the unique contours of each situation
+- **Depth:** The depths of professional knowing that lie beneath the surface of articulation
+
+### Air (σ): Distinction and Clarity
+
+- **Distinction:** Separating what worked from what didn't; distinguishing espoused theory from theory-in-use
+- **Clarity:** The "aha" moment when reframing brings new understanding
+- **Surprise:** The disturbance that breaks routine and triggers reflection
+- **Articulation:** Making the tacit explicit through description and analysis
+
+### Fire (λ): Direction and Transformation
+
+- **Direction:** The inquiry that moves toward deeper understanding
+- **Transformation:** The heat of reflection that transforms experience into knowledge
+- **Purpose:** The commitment to professional growth and improved practice
+- **Courage:** The willingness to confront uncomfortable truths about one's practice
+
+### Wood (β): Generation and Growth
+
+- **Generation:** New understanding branching from reflection on experience
+- **Growth:** Professional development as organic, not mechanical
+- **Reframing:** The creative leap to new ways of seeing situations
+- **Experiment:** Trying new approaches based on reflective insight
+
+## Educational Applications
+
+### For Teacher Development
+
+```
+┌─────────────────────────────────────────────────────────┐
+│         REFLECTIVE TEACHING CYCLE                       │
+│                                                         │
+│   1. PLAN          ←────────────────────────┐          │
+│      (Anticipate student responses)         │          │
+│                                             │          │
+│   2. ACT         ┌─────────────────────┐    │          │
+│      (Teach the  │  REFLECTION POINTS  │    │          │
+│       lesson)    │                     │    │          │
+│                  │ • Student questions │    │          │
+│   3. OBSERVE     │ • Unexpected        │    │          │
+│      (What       │   responses         │    │          │
+│       happened?) │ • My own feelings   │    │          │
+│                  │ • Moments of flow   │    │          │
+│   4. REFLECT     │   or confusion      │    │          │
+│      (Why?       │                     │    │          │
+│       What if?)  └─────────────────────┘    │          │
+│                              │              │          │
+│   5. LEARN ──────────────────┘              │          │
+│      (New understanding                     │          │
+│       about teaching)                       │          │
+│                                             │          │
+│   6. APPLY ─────────────────────────────────┘          │
+│      (Try new approach                                 │
+│       in next lesson)                                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### For Professional Supervision
+
+| Element | Supervision Focus | Questions |
+|---------|------------------|-----------|
+| **Earth** | Grounding in experience | "What actually happened?" "What did you notice?" |
+| **Water** | Emotional resonance | "What were you feeling?" "What surprised you?" |
+| **Air** | Distinction-making | "What patterns do you see?" "What theories explain this?" |
+| **Fire** | Direction and purpose | "What do you want to learn?" "How will you experiment?" |
+| **Wood** | Growth and generation | "What will you try differently?" "How has your understanding changed?" |
+
+## NEMAtic Diagnostics
+
+### Z-State Assessment
+
+```
+REFLECTIVE PRACTICE Z-STATE: reflective-integration
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   LOW        ←───────────────────────────►         HIGH │
+│                                                         │
+│   Routine    │  Technical │  Reflection │  Professional │
+│   Action     │  Rationality  in Action │  Artistry     │
+│   (Unconscious)│ (Conscious)│ (Conscious)│ (Transcendent)│
+│              │            │            │               │
+│   Habit      │  Problem-  │  Surprise- │  Knowing-     │
+│   (δγ)       │  solving   │  driven    │  in-action    │
+│              │  (σ+λ)     │  (σ+λ+ρ)   │  (✶)          │
+│                                                         │
+│   Most practitioners   │    Reflective practitioners    │
+│   operate here         │    develop toward here         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Elemental Balance
+
+- **Earth (δγ):** HIGH — Cyclical nature of reflection, patience, grounding in experience
+- **Water (ρ):** HIGH — Tacit knowing, felt-sense, emotional resonance with practice
+- **Air (σ):** MODERATE — Distinction-making, articulation, surprise recognition
+- **Fire (λ):** MODERATE — Direction of inquiry, transformation of understanding
+- **Wood (β):** MODERATE — Generation of new understanding, growth
+- **Metal (μ):** LOW — Structure is minimal; reflection resists rigid frameworks
+- **Aether (✶):** PRESENT — Integration of all elements in professional artistry
+
+## Connections to Other Theories
+
+### Direct Lineages
+
+- **Dewey's Experimentalism:** "Learning by doing" and the role of reflection in inquiry
+- **Polanyi's Tacit Knowing:** "We know more than we can tell"
+- **Argyris's Double-Loop Learning:** Questioning governing variables (L037)
+- **Kolb's Experiential Learning:** Concrete experience → Reflective observation (L018/L094)
+
+### Contemporary Extensions
+
+- **Communities of Practice:** Reflection as social process (L083/L013)
+- **Narrative Inquiry:** Story as mode of reflection
+- **Action Research:** Systematic reflection-on-action in professional contexts
+- **Mindfulness in Education:** Present-moment awareness as foundation for reflection
+
+## Critiques and Limitations
+
+```
+┌─────────────────────────────────────────────────────────┐
+│              CRITIQUES OF REFLECTIVE PRACTICE           │
+│                                                         │
+│   1. INDIVIDUALISM                                      │
+│      • Too focused on individual practitioner           │
+│      • Neglects structural and systemic factors         │
+│      • Solution: Connect to Communities of Practice     │
+│                                                         │
+│   2. TIME CONSTRAINTS                                   │
+│      • "When do I have time to reflect?"                │
+│      • Institutional pressure for productivity          │
+│      • Solution: Embed reflection in practice routines  │
+│                                                         │
+│   3. QUALITY VARIATION                                  │
+│      • Not all reflection leads to learning             │
+│      • "Navel-gazing" vs. transformative reflection     │
+│      • Solution: Structured frameworks, supervision     │
+│                                                         │
+│   4. POWER DYNAMICS                                     │
+│      • Who controls the reflection agenda?              │
+│      • Can be used for surveillance                     │
+│      • Solution: Practitioner-owned reflection          │
+│                                                         │
+│   5. CULTURAL SPECIFICITY                               │
+│      • Western individualistic assumptions              │
+│      • May not translate across cultures                │
+│      • Solution: Culturally responsive adaptation       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Implementation Strategies
+
+### Individual Practices
+
+1. **Reflective Journaling:** Regular written reflection on practice experiences
+2. **Critical Incident Analysis:** Deep exploration of significant practice events
+3. **Portfolio Development:** Curated collection of practice with reflective commentary
+4. **Mindfulness Practice:** Cultivating present-moment awareness for reflection-in-action
+
+### Collaborative Practices
+
+1. **Peer Supervision:** Structured reflection with colleagues
+2. **Action Learning Sets:** Small groups meeting regularly to reflect on practice challenges
+3. **Lesson Study:** Collaborative reflection on teaching (Japanese model)
+4. **Professional Learning Communities:** Ongoing collective inquiry
+
+## Conclusion
+
+Reflective Practice represents a fundamental shift in how we understand professional learning—from the application of scientific knowledge to the generation of knowledge through reflection on experience. It honors the complexity and uncertainty of professional situations while providing a disciplined approach to learning from them.
+
+The elemental signature (δγ-ρ-σ-λ-β) reveals reflection as a process that:
+- **Cycles** through experience (Earth)
+- **Resonates** with tacit knowing (Water)
+- **Distinguishes** and clarifies (Air)
+- **Transforms** understanding (Fire)
+- **Generates** new practice wisdom (Wood)
+
+In the NEMA swarm, Reflective Practice serves as a bridge between experience and knowledge, between action and understanding, between the tacit and the explicit—a crucial process for any learning system that seeks to grow from its own practice.
+
+---
+
+*"In the varied topography of professional practice, there is a high, hard ground where practitioners can make effective use of research-based theory and technique, and there is a swampy lowland where situations are confusing 'messes' incapable of technical solution. The difficulty is that the problems of the high ground, however great their technical interest, are often relatively unimportant to clients or to the society at large, while in the swamp are the problems of greatest human concern."*
+— Donald Schön, *The Reflective Practitioner* (1983)
