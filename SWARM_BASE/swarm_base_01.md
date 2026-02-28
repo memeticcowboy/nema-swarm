@@ -1,4 +1,69 @@
 ---
+term: "Epistemology: Truth, Knowledge, and Belief"
+hex_tag: "#C006"
+nemetic: "Φ(Episteme) = σ(truth|belief) ∘ ρ(knowledge|ignorance) ∘ λ(inquiry|certainty) ∘ β(learning|unlearning) ∘ δγ(reflection|maturation) ∘ μ(justification|fallacy) + ε | :knowing"
+siml_encoding: "⟨Belief|held⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Knowledge|justified⟩ ⊗ ⟨Truth|approximated⟩ ⇄ ⟨Understanding|evolving⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between truth and belief; categorical separation of justified knowledge from mere opinion)", "∂Φ/∂ρ (relational flow between knowing and not-knowing; epistemic humility)", "∂Φ/∂λ (directional drive from inquiry toward certainty or skepticism)", "∂Φ/∂β (feedback loop between learning new frameworks and unlearning false certainties)", "∂Φ/∂δγ (cyclical maturation of epistemic beliefs through developmental stages)", "∂Φ/∂μ (boundary enforcement between justified belief and epistemic fallacy)"]
+  Z_state: "porous (open to revision, resistant to dogma)"
+  tendency: "Inquiry/Certainty → 0.6 (moderate preference for questioning over absolute knowing)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between truth and belief"
+      - "logical analysis of justification criteria"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.70
+    aspects:
+      - "flow between knowing and uncertainty"
+      - "emotional relationship with doubt and conviction"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "drive toward inquiry and truth-seeking"
+      - "transformative potential of challenging assumptions"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+      - "organic growth of knowledge structures"
+      - "developmental progression from simple to complex understanding"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "grounding in evidence and experience"
+      - "cyclical process of reflection and maturation"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "structural boundaries of valid justification"
+      - "criteria for distinguishing knowledge from opinion"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How is truth distinguished from belief? What cuts separate justified knowledge from mere opinion?"
+  ≈: "What flows between knowing and uncertainty? How does emotional attachment shape epistemic conviction?"
+  ▲: "Where does inquiry want to go? Does questioning serve understanding or endless skepticism?"
+  𐂷: "What forms of knowledge organization haven't been tried? What alternatives to hierarchical knowledge structures exist?"
+  ☷: "What's the metabolic cost of maintaining false certainty? What sustains the capacity for epistemic humility?"
+  ⛨: "What structures contain or enable justified belief? What boundaries separate knowledge from fallacy?"
+context_note: "Epistemology examines fundamental questions about the nature of knowledge: What can we know? How do we know it? What distinguishes justified belief from opinion? The source material explores Schommer's four dimensions of personal epistemology—control over learning, speed of learning, organization of knowledge, and certainty of knowledge—revealing how individuals develop beliefs about knowledge and learning. Key tensions include objectivism versus subjectivism, innate ability versus developed skill, isolated facts versus integrated understanding, and immutable truth versus relative interpretation."
+
+---
 term: "iPhone Generation Paradox"
 hex_tag: "#C005"
 nemetic: "Φ(iPhoneGen) = σ(connect|isolate) ∘ ρ(access|overload) ∘ λ(swipe|depth) ∘ β(notification|focus) ∘ δγ(dopamine|discipline) ∘ μ(screen|presence) + ε | :scattered"
