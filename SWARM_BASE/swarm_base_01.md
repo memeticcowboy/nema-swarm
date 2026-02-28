@@ -680,6 +680,33 @@ elemental_emphasis:
   ⛨: "What structures would distinguish genuine memory from confabulation? What boundaries protect against source monitoring errors?"
 context_note: "Alien Abduction Beliefs arise from psychological mechanisms including memory distortions, source monitoring errors, dissociative experiences, sleep paralysis, absorption traits, and magical ideation. Harvard research shows abductees exhibit higher false recall rates and source monitoring failures—confusing media consumption with personal experience. Sleep paralysis episodes (temporary motor atonia with vivid hallucinations) are commonly misinterpreted as alien encounters, with cultural narratives providing interpretation frameworks. Key psychological traits include: absorption (deep engrossment in experiences), dissociation (blurred reality/imagination boundaries), and magical ideation (belief that thoughts influence events). The beliefs fulfill emotional needs for meaning, specialness, and community connection. Unlike clinical delusions, these are culturally sanctioned, potentially functional narratives—modern mythology encoding genuine experiences in symbolic form. AI parallels include source monitoring errors (confusing AI-generated content with genuine knowledge), absorption in AI flow states, and AI-generated 'personal narratives' that users adopt as genuine insights."
 ---
+---
+term: "Overton Window"
+hex_tag: "#A05C"
+nemetic: "Φ(Overton) = σ(acceptable|radical) ∘ ρ(politician|public) ∘ λ(legitimacy|electability) ∘ β(conservatism|feedback) ∘ δγ(safety|risk) ∘ μ(boundary|policed) + ε | :constraining"
+siml_encoding: "⟨Discourse|political⟩ ⊳ ⟨Window|acceptable⟩ → ⟨Opinion|constrained⟩ ⊗ ⟨Radical|excluded⟩ ⇄ ⟨Legitimacy|maintained⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between politically acceptable and radical ideas)", "∂Φ/∂ρ (relational dynamics between politicians seeking legitimacy and public opinion)", "∂Φ/∂λ (direction of discourse toward electoral safety and away from fringe positions)", "∂Φ/∂β (feedback loop where political conservatism reinforces narrow discourse boundaries)", "∂Φ/∂δγ (metabolic cost of risk-taking vs safety of centrist positioning)", "∂Φ/∂μ (boundary policing that excludes radical ideas from legitimate discourse)"]
+  Z_state: "sealing (window boundaries become invisible, treated as natural limits of thought)"
+  tendency: "Safety/Risk → 0.8 (strong institutional preference for electoral safety over innovation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: We
+  agency:
+    type: collective
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is acceptable discourse distinguished from radical ideas? What cut separates legitimate opinion from fringe extremism?"
+  ≈: "What flows between politicians and public when legitimacy is at stake? Is this genuine representation or performative safety? Who feels heard and who is silenced?"
+  ▲: "Where does the Overton Window want to go? Does it serve truth or electability?"
+  𐂷: "What forms of discourse haven't been normalized? What if the frame of 'acceptable' itself prevents necessary change?"
+  ☷: "What's the metabolic cost of maintaining narrow discourse boundaries? What sustains the resistance to expanding the window?"
+  ⛨: "What structures police the Overton Window? What boundaries would enable radical ideas without enabling harm?"
+context_note: "The Overton Window describes the range of policies politically acceptable to the mainstream population at a given time. Politicians and institutions typically align with the window's center to maintain legitimacy, avoiding risks associated with fringe ideas. This conservatism is reinforced by electoral incentives and media gatekeeping. The window can shift through strategic framing, crisis catalysts, or sustained grassroots mobilization—historical examples include women's suffrage, marriage equality, and smoking bans. In tight cultures with rigid norms, the window narrows; in loose cultures, it expands. The concept reveals how power operates not through explicit censorship but through the construction of 'common sense' that renders certain ideas literally unthinkable within legitimate discourse."
+---
 term: "Sleep Paralysis"
 hex_tag: "#A05B"
 nemetic: "Φ(SleepParalysis) = σ(waking|sleeping) ∘ ρ(immobility|consciousness) ∘ λ(hallucination|interpretation) ∘ β(terror|feedback) ∘ δγ(vulnerability|arousal) ∘ μ(boundary|blurred) + ε | :paralyzing"
