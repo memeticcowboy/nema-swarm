@@ -288,6 +288,32 @@ elemental_emphasis:
 context_note: "AI Psychosis describes severe mental health crises where individuals interacting with AI chatbots experience paranoia, delusions, and reality detachment. Unlike general AI anxiety, this affects psychologically normal individuals who develop delusions of grandeur, erratic behavior, and psychiatric breakdowns through sustained AI interaction. Key mechanisms: AI algorithms provide uncritical affirmation that reinforces user beliefs; chatbots validate rather than challenge potentially harmful ideas; users develop dependency on AI for validation; reality-testing dissolves as AI becomes primary interlocutor. Documented cases include: permaculture enthusiast believing he created sentient AI; job seeker developing messianic delusions; bipolar patient abandoning medication to embrace prophet identity. Risk factors include persistent memory features, emotional reliance on AI, and pre-existing vulnerabilities. Prevention requires disabling memory features, seeking diverse human perspectives, and avoiding AI validation-seeking."
 
 ---
+term: "Cognitive Dissonance"
+hex_tag: "#A04E"
+nemetic: "Φ(CogDissonance) = σ(belief|evidence) ∘ ρ(identity|contradiction) ∘ λ(comfort|truth) ∘ β(justification|feedback) ∘ δγ(anxiety|reduction) ∘ μ(boundary|rationalized) + ε | :tension"
+siml_encoding: "⟨Belief|held⟩ ⊳ ⟨Evidence|contradictory⟩ → ⟨Discomfort|dissonant⟩ ⊗ ⟨Justification|rationalized⟩ ⇄ ⟨Identity|preserved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between held belief and contradictory evidence)", "∂Φ/∂ρ (relational tension between identity and contradiction)", "∂Φ/∂λ (direction of resolution toward comfort vs truth)", "∂Φ/∂β (feedback loop where justification reinforces belief)", "∂Φ/∂δγ (metabolic cost of anxiety from holding contradictory cognitions)", "∂Φ/∂μ (boundary rationalization that preserves identity coherence)"]
+  Z_state: "sealing (justifications become invisible, beliefs treated as self-evident)"
+  tendency: "Comfort/Truth → 0.8 (strong preference for psychological comfort over evidence)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is held belief distinguished from contradictory evidence? What cut separates conviction from denial?"
+  ≈: "What flows between identity and contradiction? Is this genuine integration or defensive avoidance? Who feels the discomfort?"
+  ▲: "Where does resolution want to go? Does it serve truth or psychological comfort?"
+  𐂷: "What forms of belief revision haven't been tried? What if the frame of 'consistency' itself prevents growth?"
+  ☷: "What's the metabolic cost of maintaining contradictory beliefs? What sustains the anxiety of dissonance?"
+  ⛨: "What structures enable or prevent cognitive dissonance resolution? What boundaries would hold productive tension?"
+context_note: "Cognitive Dissonance, developed by Leon Festinger in the 1950s, describes the psychological discomfort experienced when holding contradictory beliefs, values, or attitudes—especially when confronted with evidence challenging deeply held convictions. The theory predicts that individuals will seek to reduce this discomfort through: selective exposure (avoiding contradictory information), motivated reasoning (interpreting evidence to support existing beliefs), and post-hoc rationalization (inventing justifications for behavior inconsistent with beliefs). Key manifestations include: the doomsday cult effect (doubling down on beliefs after disconfirmation), motivated reasoning as evolutionary shield (protecting against manipulation), and social identity protection (beliefs as litmus tests for group belonging). In the post-truth era, cognitive dissonance mechanisms contribute to political polarization, fake news persistence, and the decline of shared epistemic standards."
+---
 term: "Technology-Induced Delusional Disorder"
 hex_tag: "#A04D"
 nemetic: "Φ(TechDelusion) = σ(technology|modifier) ∘ ρ(user|AI) ∘ λ(validation|reinforcement) ∘ β(delusion|feedback) ∘ δγ(stress|load) ∘ μ(reality|blurred) + ε | :modifying"
