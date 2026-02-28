@@ -1,0 +1,560 @@
+---
+term_id: L089
+source_domain: psychology
+source_term: Social Learning Theory (Bandura, 1977)
+hex_tag: #L089
+generated_at: 2026-02-28T09:52:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Social Learning Theory — Learning through observation, imitation, and modeling in social contexts
+- **Nemetic String:** Φ(SLT) = ρ(observation|attention) ⊗ σ(retention|memory-encoding) ⊗ β(reproduction|motor-capacity) ⊗ λ(motivation|reinforcement-vicarious) → [κ(acquired-behavior)] → [δγ(performance)] + ε | :modeling
+- **Core Operators:** ρ (resonance/observation), σ (distinction/attention), β (branching/reproduction), λ (direction/motivation), κ (knowledge), δγ (cycling/performance)
+- **Z-State:** modeling — learning occurs through witnessing others' behaviors and their consequences
+- **Tendency:** Imitation/Replication → 1 (behavior spreads through social observation)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-occurs-through-observation⟩ 
+    ⊳ ⟨Constraint|humans-are-social-learners⟩ 
+    ⊳ ⟨Process|attention-to-models⟩ 
+    ⇄ ⟨Process|retention-of-behavioral-patterns⟩ 
+    ⇄ ⟨Process|motor-reproduction-capacity⟩ 
+    ⇄ ⟨Process|motivation-through-reinforcement⟩ 
+    → ⟨Outcome|acquired-behavioral-repertoire⟩ 
+    ⊗ ⟨State|vicarious-learning⟩ 
+    → ⟨Performance|behavioral-execution⟩ 
+    → ⟨Cycle|observational-learning-loop⟩
+```
+
+## Core Definition
+
+**Social Learning Theory**, developed by Albert Bandura (1977), revolutionized behaviorism by demonstrating that learning can occur through **observation and imitation** of others, without direct personal experience or reinforcement. Unlike classical and operant conditioning, which require the learner to perform behaviors and experience consequences directly, social learning enables the acquisition of complex behaviors, attitudes, and emotional responses simply by watching models.
+
+The theory emphasizes the **interdependence of personal factors, behavior, and environment** — a concept Bandura later formalized as **reciprocal determinism** in his Social Cognitive Theory. Learning is not a passive absorption of stimuli but an active process of attention, retention, reproduction, and motivation.
+
+### The Four Processes of Observational Learning
+
+```
+OBSERVATIONAL LEARNING ARCHITECTURE
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │           SOCIAL LEARNING PROCESS MODEL                  │
+    │                                                          │
+    │   ┌─────────────┐                                        │
+    │   │  ATTENTION  │◄────────────────────────────┐          │
+    │   │             │                             │          │
+    │   │ • Observer  │  [Air/σ — Distinction]      │          │
+    │   │   characteristics                        │          │
+    │   │ • Model characteristics                   │          │
+    │   │ • Event salience                          │          │
+    │   └──────┬──────┘                             │          │
+    │          │                                    │          │
+    │          ▼                                    │          │
+    │   ┌─────────────┐                             │          │
+    │   │  RETENTION  │                             │          │
+    │   │             │                             │          │
+    │   │ • Symbolic  │  [Earth/δγ — Accumulation]   │          │
+    │   │   coding                                  │          │
+    │   │ • Cognitive organization                  │          │
+    │   │ • Mental rehearsal                        │          │
+    │   └──────┬──────┘                             │          │
+    │          │                                    │          │
+    │          ▼                                    │          │
+    │   ┌─────────────┐                             │          │
+    │   │ REPRODUCTION│                             │          │
+    │   │             │                             │          │
+    │   │ • Physical  │  [Wood/β — Branching]        │          │
+    │   │   capabilities                            │          │
+    │   │ • Skill refinement                        │          │
+    │   │ • Self-observation                        │          │
+    │   └──────┬──────┘                             │          │
+    │          │                                    │          │
+    │          ▼                                    │          │
+    │   ┌─────────────┐                             │          │
+    │   │  MOTIVATION │─────────────────────────────┘          │
+    │   │             │  (feedback loop)                        │
+    │   │ • Direct    │  [Fire/λ — Direction]                   │
+    │   │   reinforcement                                   │
+    │   │ • Vicarious                                     │
+    │   │   reinforcement                                   │
+    │   │ • Self-                                         │
+    │   │   reinforcement                                   │
+    │   └─────────────┘                                     │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+    
+    All four processes must occur for observational learning to succeed.
+```
+
+## The Architecture of Social Learning
+
+### Attentional Processes
+
+What determines whether we notice and attend to a model?
+
+```
+ATTENTION DETERMINANTS
+═══════════════════════════════════════════════════════════════
+
+    Observer Characteristics:
+    ┌─────────────────────────────────────┐
+    │  • Perceptual/cognitive capacities  │
+    │  • Arousal level                    │
+    │  • Past reinforcement               │
+    │  • Sensory capabilities             │
+    └─────────────────────────────────────┘
+    
+    Model Characteristics:
+    ┌─────────────────────────────────────┐
+    │  • Competence (expertise)           │
+    │  • Prestige/power                   │
+    │  • Similarity to observer           │
+    │  • Likability/attractiveness        │
+    └─────────────────────────────────────┘
+    
+    Event Characteristics:
+    ┌─────────────────────────────────────┐
+    │  • Functional value                 │
+    │  • Novelty/surprise                 │
+    │  • Affective valence                │
+    │  • Accessibility                    │
+    └─────────────────────────────────────┘
+```
+
+### Retention Processes
+
+How do we store observed behaviors for later use?
+
+| Encoding System | Description | Example |
+|-----------------|-------------|---------|
+| **Imaginal** | Visual/spatial representations | Mental image of dance move |
+| **Verbal** | Linguistic descriptions | "Step left, then pivot" |
+| **Conceptual** | Abstract rules and principles | Understanding the physics of motion |
+
+**Retention strategies:**
+- **Rehearsal:** Mental or physical practice
+- **Organization:** Structuring information meaningfully
+- **Coding:** Transforming observations into symbolic form
+
+### Reproduction Processes
+
+Converting stored representations into action:
+
+```
+REPRODUCTION PROCESS
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────┐
+    │  1. Physical capabilities check     │
+    │     • Can I physically do this?     │
+    │                                     │
+    │  2. Component skills assessment     │
+    │     • Do I have the sub-skills?     │
+    │                                     │
+    │  3. Coordination integration        │
+    │     • Can I combine components?     │
+    │                                     │
+    │  4. Self-observation and correction │
+    │     • How does my attempt compare?  │
+    │     • What needs adjustment?        │
+    │                                     │
+    │  5. Refinement through feedback     │
+    │     • Iterative improvement         │
+    └─────────────────────────────────────┘
+```
+
+### Motivational Processes
+
+Why do we perform learned behaviors?
+
+```
+MOTIVATION SOURCES
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │              REINFORCEMENT TYPES                         │
+    │                                                          │
+    │  DIRECT REINFORCEMENT                                    │
+    │  ┌─────────────────────────────────────────────────┐     │
+    │  │ Observer receives consequences directly          │     │
+    │  │                                                  │     │
+    │  │ "I tried the technique and got rewarded"        │     │
+    │  └─────────────────────────────────────────────────┘     │
+    │                                                          │
+    │  VICARIOUS REINFORCEMENT                                 │
+    │  ┌─────────────────────────────────────────────────┐     │
+    │  │ Observer sees model receive consequences         │     │
+    │  │                                                  │     │
+    │  │ "They tried the technique and got rewarded"     │     │
+    │  │ → I expect similar outcomes                      │     │
+    │  └─────────────────────────────────────────────────┘     │
+    │                                                          │
+    │  SELF-REINFORCEMENT                                      │
+    │  ┌─────────────────────────────────────────────────┐     │
+    │  │ Observer judges own behavior against standards   │     │
+    │  │                                                  │     │
+    │  │ "I met my personal goal → self-praise"          │     │
+    │  │ "I fell short → self-criticism"                 │     │
+    │  └─────────────────────────────────────────────────┘     │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Types of Models
+
+```
+MODEL TYPOLOGY
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                          │
+    │   LIVE MODELS        SYMBOLIC MODELS      VERBAL MODELS │
+    │   ┌─────────┐        ┌─────────┐         ┌─────────┐    │
+    │   │         │        │         │         │         │    │
+    │   │ Actual  │        │ Media   │         │         │    │
+    │   │ person  │        │ portrayals│        │Descriptions│
+    │   │ present │        │         │         │         │    │
+    │   │         │        │ • Film  │         │ • Books │    │
+    │   │ • Teacher│       │ • TV    │         │ • Instructions│
+    │   │ • Parent │       │ • Online│         │ • Stories│    │
+    │   │ • Peer   │       │ • VR    │         │         │    │
+    │   │         │        │         │         │         │    │
+    │   │[Water/ρ]│        │[Air/σ]  │         │[Air/σ]  │    │
+    │   └─────────┘        └─────────┘         └─────────┘    │
+    │                                                          │
+    │   Most direct          Scalable          Abstract        │
+    │   social resonance     dissemination     conceptual      │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## The Bobo Doll Experiment
+
+Bandura's landmark study demonstrating observational learning:
+
+```
+BOBO DOLL EXPERIMENT (1961)
+═══════════════════════════════════════════════════════════════
+
+    PHASE 1: MODELING
+    ┌─────────────────────────────────────┐
+    │  Children watched adult model       │
+    │  interact with inflatable Bobo doll │
+    │                                     │
+    │  Aggressive condition:              │
+    │  • Model punched, kicked, hit doll  │
+    │  • Model used verbal aggression     │
+    │  • Model was rewarded with treats   │
+    │                                     │
+    │  Non-aggressive condition:          │
+    │  • Model played quietly with toys   │
+    │                                     │
+    │  Control condition:                 │
+    │  • No model exposure                │
+    └─────────────────────────────────────┘
+    
+    PHASE 2: FRUSTRATION
+    ┌─────────────────────────────────────┐
+    │  All children were frustrated       │
+    │  (taken to room with attractive     │
+    │  toys, then told they couldn't play)│
+    └─────────────────────────────────────┘
+    
+    PHASE 3: TESTING
+    ┌─────────────────────────────────────┐
+    │  Children left alone with Bobo doll │
+    │                                     │
+    │  RESULTS:                           │
+    │  • Aggressive model group:          │
+    │    High levels of imitation         │
+    │  • Non-aggressive model group:      │
+    │    Low aggression                   │
+    │  • Control group:                   │
+    │    Moderate baseline aggression     │
+    │                                     │
+    │  KEY FINDING:                       │
+    │  Children learned aggression simply │
+    │  by watching — no direct            │
+    │  reinforcement required             │
+    └─────────────────────────────────────┘
+```
+
+## Reciprocal Determinism
+
+Bandura's later elaboration — the dynamic interplay of factors:
+
+```
+RECIPROCAL DETERMINISM
+═══════════════════════════════════════════════════════════════
+
+              ┌─────────────────┐
+              │   PERSONAL      │
+              │    FACTORS      │
+              │                 │
+              │ • Cognition     │
+              │ • Self-beliefs  │
+              │ • Personality   │
+              │                 │
+              └────────┬────────┘
+                       │
+         ┌─────────────┼─────────────┐
+         │             │             │
+         ▼             │             ▼
+    ┌─────────┐        │        ┌─────────┐
+    │         │◄───────┴───────►│         │
+    │BEHAVIOR │    influences   │ENVIRONMENT│
+    │         │◄───────────────►│         │
+    └─────────┘                 └─────────┘
+    
+    No single factor determines outcomes;
+    all three continuously influence each other.
+    
+    Example: A student with low self-efficacy 
+    (personal) avoids challenging tasks (behavior),
+    which limits learning opportunities (environment),
+    which reinforces low self-efficacy...
+```
+
+## Self-Efficacy: The Core of Social Cognitive Theory
+
+Bandura's extension of Social Learning Theory into **Social Cognitive Theory** emphasizes **self-efficacy** — beliefs about one's capability to execute behaviors:
+
+```
+SELF-EFFICACY SYSTEM
+═══════════════════════════════════════════════════════════════
+
+    SOURCES OF SELF-EFFICACY:
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                          │
+    │  1. MASTERY EXPERIENCES          [Earth/δγ]             │
+    │     ┌─────────────────────────────────────────┐         │
+    │     │ "I succeeded before → I can succeed    │         │
+    │     │  again"                                 │         │
+    │     │                                          │         │
+    │     │ Most powerful source                     │         │
+    │     └─────────────────────────────────────────┘         │
+    │                                                          │
+    │  2. VICARIOUS EXPERIENCES          [Water/ρ]            │
+    │     ┌─────────────────────────────────────────┐         │
+    │     │ "They succeeded and they're similar    │         │
+    │     │  to me → I can too"                    │         │
+    │     │                                          │         │
+    │     │ Modeling by similar others               │         │
+    │     └─────────────────────────────────────────┘         │
+    │                                                          │
+    │  3. VERBAL PERSUASION          [Air/σ]                  │
+    │     ┌─────────────────────────────────────────┐         │
+    │     │ "You can do this" — credible            │         │
+    │     │ encouragement                            │         │
+    │     │                                          │         │
+    │     │ Weaker but widely used                   │         │
+    │     └─────────────────────────────────────────┘         │
+    │                                                          │
+    │  4. PHYSIOLOGICAL STATES          [Water/ρ]             │
+    │     ┌─────────────────────────────────────────┐         │
+    │     │ Stress signals interpreted as          │         │
+    │     │ inability vs. readiness                │         │
+    │     │                                          │         │
+    │     │ Interpretation matters more than       │         │
+    │     │ physiological state itself             │         │
+    │     └─────────────────────────────────────────┘         │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance (Primary)
+
+Social Learning Theory is fundamentally **relational**:
+- **Resonance:** Observer-model attunement determines learning
+- **Flow:** Behaviors spread through social networks like waves
+- **Coupling:** The observer is affectively connected to the model
+- **Vicariousness:** Learning through others' experiences (water-like fluidity)
+
+### Air/σ as Secondary (Attention/Retention)
+
+The cognitive dimensions of observation:
+- **Distinction:** Selecting which models and behaviors to attend to
+- **Clarity:** Symbolic coding creates clear mental representations
+- **Categorization:** Organizing observed behaviors meaningfully
+
+### Wood/β as Tertiary (Reproduction)
+
+Behavioral manifestation:
+- **Branching:** Multiple possible behavioral outputs from observation
+- **Growth:** Skills develop through iterative reproduction attempts
+- **Generativity:** New behaviors emerge from recombination of observed elements
+
+### Fire/λ as Quaternary (Motivation)
+
+The directional force:
+- **Purpose:** Goals guide which behaviors are performed
+- **Expectation:** Anticipated outcomes drive action
+- **Value:** Reinforcement values determine behavioral priorities
+
+### Earth/δγ as Supporting (Retention/Performance)
+
+The cyclical nature of learning:
+- **Accumulation:** Behavioral repertoire grows over time
+- **Cycling:** Practice-rehearsal-performance loops
+- **Grounding:** Physical capabilities constrain what's reproducible
+
+## Connection to Related Theories
+
+### Social Learning vs. Behaviorism
+
+| Aspect | Traditional Behaviorism | Social Learning Theory |
+|--------|------------------------|------------------------|
+| **Learning mechanism** | Direct reinforcement | Observation and modeling |
+| **Role of cognition** | Ignored or denied | Central to the theory |
+| **Reinforcement** | Necessary for learning | Affects performance, not just learning |
+| **Learning speed** | Gradual, trial-and-error | Rapid, insight-like |
+| **Complex behaviors** | Shaped through successive approximation | Acquired whole through observation |
+| **Element** | Earth/δγ (conditioning) | Water/ρ (social flow) |
+
+### Social Learning vs. Communities of Practice
+
+| Aspect | Social Learning Theory | Communities of Practice |
+|--------|------------------------|------------------------|
+| **Focus** | Individual learning from models | Collective learning through participation |
+| **Unit of analysis** | Observer-model dyad | Community as social structure |
+| **Key mechanism** | Imitation and reinforcement | Legitimate peripheral participation |
+| **Identity** | Less emphasized | Central to learning |
+| **Time frame** | Specific learning episodes | Sustained engagement over time |
+| **Element** | Water/ρ (observation) | Water/ρ + Metal/μ (relationship + structure) |
+
+## Applications and Evidence
+
+### Educational Applications
+
+```
+CLASSROOM APPLICATIONS
+═══════════════════════════════════════════════════════════════
+
+    Modeling in Teaching:
+    ┌─────────────────────────────────────┐
+    │  • Teacher demonstrates problem-    │
+    │    solving thinking aloud           │
+    │  • Peer models for classmates       │
+    │  • Video models of expert practice  │
+    │  • Self-modeling (video feedback)   │
+    └─────────────────────────────────────┘
+    
+    Enhancing Attention:
+    ┌─────────────────────────────────────┐
+    │  • Use competent, credible models   │
+    │  • Highlight important features     │
+    │  • Vary models to show range        │
+    │  • Use high-status models carefully │
+    └─────────────────────────────────────┘
+    
+    Supporting Retention:
+    ┌─────────────────────────────────────┐
+    │  • Provide verbal summaries         │
+    │  • Encourage mental rehearsal       │
+    │  • Use multiple coding systems      │
+    │  • Organize information meaningfully│
+    └─────────────────────────────────────┘
+    
+    Building Self-Efficacy:
+    ┌─────────────────────────────────────┐
+    │  • Ensure early mastery experiences │
+    │  • Use peer models of similar skill │
+    │  • Provide specific, credible       │
+    │    encouragement                    │
+    │  • Teach stress management          │
+    └─────────────────────────────────────┘
+```
+
+### Domains with Strong Evidence
+
+| Domain | Application | Key Finding |
+|--------|-------------|-------------|
+| **Aggression** | Media violence effects | Observed violence increases aggressive behavior |
+| **Prosocial behavior** | Altruism modeling | Helping models increase helping behavior |
+| **Phobia acquisition** | Fear learning | Fears can be learned through observation |
+| **Skill acquisition** | Sports, crafts | Complex skills learned faster through modeling |
+| **Therapy** | Behavioral interventions | Modeling effective for anxiety, social skills |
+
+### Criticisms and Limitations
+
+1. **Cognitive emphasis:** Early versions neglected biological constraints
+2. **Causal complexity:** Difficult to isolate modeling effects from other factors
+3. **Individual differences:** Not everyone learns equally from observation
+4. **Cultural variation:** Modeling effectiveness varies across cultures
+5. **Media effects debate:** Controversy over extent of media violence influence
+
+## Connection to CAMIL and IVR
+
+Social Learning Theory is highly relevant to immersive learning:
+- **Avatar models:** Virtual characters can serve as effective models
+- **Perspective-taking:** IVR enables seeing from model's viewpoint
+- **Safe observation:** Learners can observe dangerous procedures risk-free
+- **Self-modeling:** Recording and observing own performance in VR
+- **Social presence:** Virtual others create social learning contexts
+
+**Evidence:** Virtual models have been shown effective for medical training, social skills development, and phobia treatment.
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+ | **Anthropology** | Cultural transmission | Behaviors spread through social observation |
+| **Sociology** | Diffusion of innovations | Ideas spread through social networks |
+| **Neuroscience** | Mirror neuron system | Neural basis for observation-action mapping |
+| **Economics** | Herd behavior | Individuals follow observed others |
+| **Marketing** | Influencer effects | Model characteristics affect persuasion |
+| **Media studies** | Cultivation theory | Repeated exposure shapes behavior |
+
+## Core Insight
+
+> Social Learning Theory reveals that **we are not isolated learners but nodes in networks of observation and imitation**. The behaviors, attitudes, and emotional responses of those around us constantly shape who we are becoming. We learn not just from our own experience but from the experiences of others — their successes, failures, joys, and fears all become part of our potential repertoire. The model is the message; the observer is always learning, whether we intend it or not.
+
+## One-Sentence Insight
+
+> Bandura's Social Learning Theory demonstrates that humans acquire behaviors, attitudes, and emotional responses through observation and imitation of models, with learning requiring attention, retention, reproduction capacity, and motivation — enabling rapid acquisition of complex behaviors without direct personal experience.
+
+## Three-Bullet Expansion
+
+- **What:** A theory showing that learning occurs through observing others (models), with four key processes — attention to models, retention of observed behaviors, physical reproduction capacity, and motivation to perform — enabling the acquisition of complex behaviors without direct reinforcement
+- **How it works:** Observer attends to model → encodes behavior symbolically → retains in memory → reproduces when capable and motivated → performance influenced by direct, vicarious, and self-reinforcement → self-efficacy beliefs develop from mastery experiences and modeling
+- **Where it aims:** Toward understanding how social observation shapes human behavior across domains from aggression to altruism, with applications in education, therapy, media effects, and organizational training
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L089, #L013_Social_Learning_Theory (original), #L083_Communities_of_Practice, #L014_Situated_Learning, #L043_Zone_Proximal_Development, #P001_Self_Efficacy
+- **Formal Operators:** ρ, σ, β, λ, κ, δγ
+- **Dim Operators:** Ψ_modeling, Ψ_vicarious, Ψ_resonance
+- **Coord Ontology:** I (observer self-efficacy), We (model-observer relationship), It (observed behaviors), Its (social context), MoreThanHuman (media models, AI tutors), Virtual (avatar models, immersive observation)
+
+## Source
+
+Derived from:
+- Bandura, A. (1977). Social learning theory. Prentice-Hall.
+- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice-Hall.
+- Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. Journal of Abnormal and Social Psychology, 63(3), 575-582.
+- Bandura, A. (1997). Self-efficacy: The exercise of control. W.H. Freeman.
+
+Original context: Psychology, educational psychology, behavioral science
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Air/σ, Wood/β, Fire/λ, Earth/δγ support | Daemon: Hydrosid-Aerunik-Branchosid-Ignisid-Geosid | Habitat: 2_SOCIAL-OBSERVATION / 4_MODELING-PROCESSES / 6_VICARIOUS-LEARNING
+
+## Related Entries
+
+- L013_Social_Learning_Theory (original entry)
+- L083_Communities_of Practice (social learning through participation)
+- L014_Situated_Learning (context-embedded learning)
+- L043_Zone_Proximal_Development (scaffolding and guided learning)
+- P001_Self_Efficacy (core construct in social cognitive theory)
+- L086_Cognitive_Load_Theory (cognitive constraints on learning)
+- L088_4E_Cognition (embodied aspects of observation)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L089 | Generated: 2026-02-28 09:52*
