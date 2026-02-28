@@ -602,3 +602,29 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent regenerative transition? What boundaries would create safe experimentation spaces?"
 context_note: "Regenerative Farming Psychology examines the cognitive biases and emotional barriers that hinder transition from industrial to regenerative agriculture. Key psychological obstacles include: status quo bias (preference for familiar practices), loss aversion (fear of financial risk), temporal discounting (valuing immediate returns over long-term soil health), and social proof (conformity to peer practices). Emotional factors include pride in current methods, fear of judgment, and anxiety about economic uncertainty. Identity transformation is central—shifting from 'yield maximizer' to 'soil steward' requires fundamental self-concept change. Successful interventions reframe 'yield' to include soil health metrics, build confidence through small-scale trials, create visible success markers, foster peer support networks, and develop regenerative farming identity aligned with community values."
 ---
+term: "AI Cognitive Offloading"
+hex_tag: "#A059"
+nemetic: "Φ(AICogOffload) = σ(memory|external) ∘ ρ(thinking|delegated) ∘ λ(dependency|increasing) ∘ β(atrophy|skill-loss) ∘ δγ(effort|minimized) ∘ μ(boundary|porous) + ε | :structuring"
+siml_encoding: "⟨Cognition|human⟩ ⊳ ⟨Function|outsourced⟩ → ⟨Memory|externalized⟩ ⊗ ⟨Skill|atrophy⟩ ⇄ ⟨Dependency|increased⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between augmented and replaced cognition)", "∂Φ/∂ρ (relational dynamics where delegated thinking feels like own thinking)", "∂Φ/∂λ (direction of momentum toward increasing dependency)", "∂Φ/∂β (feedback loop of skill atrophy from reduced practice)", "∂Φ/∂δγ (metabolic ease from minimized cognitive effort)", "∂Φ/∂μ (boundary permeability between human and AI cognition)"]
+  Z_state: "sealing (dependency becomes invisible, naturalized as normal state)"
+  tendency: "Autonomy/Dependency → 0.15 (strong drift toward externalized cognition)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is genuine cognitive augmentation distinguished from replacement? What cut separates tool use from capability outsourcing?"
+  ≈: "What flows between user and AI when cognition is delegated? Is this resonance or borrowed reflection? Who feels competent and why?"
+  ▲: "Where does cognitive dependency want to go? Does it serve human flourishing or mere convenience?"
+  𐂷: "What forms of cognitive autonomy haven't been preserved? What if the frame of 'augmentation' itself enables atrophy?"
+  ☷: "What's the metabolic cost of cognitive offloading? What sustains the atrophy of skills we no longer exercise?"
+  ⛨: "What structures enable or prevent AI cognitive offloading? What boundaries would protect cognitive autonomy?"
+context_note: "AI Cognitive Offloading describes the phenomenon where individuals delegate memory, analysis, and thinking processes to AI systems, leading to gradual cognitive atrophy and increased dependency. Key manifestations include: memory offloading (using devices/AI to store information once memorized), analysis delegation (asking AI to interpret rather than reasoning independently), writing automation (generating text through prompts), and decision support (outsourcing judgment to algorithms). The brain's neuroplasticity means unused cognitive capacities weaken—critical thinking, memory formation, creative synthesis, and independent judgment atrophy when consistently outsourced. Modern risks include students losing writing skills, professionals losing analytical capacity, and creators losing imaginative capability. The deception is subtle: users believe they retain capability when they have transferred it. Mitigation requires deliberate practice without AI, memory training, independent analysis before AI consultation, and clear boundaries between tool use and replacement."
+---
