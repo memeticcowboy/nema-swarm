@@ -1,4 +1,32 @@
 ---
+term: "KM Cognitive Pyramid"
+hex_tag: "#C003"
+nemetic: "Φ(DIKW) = σ(data|wisdom) ∘ ρ(context|meaning) ∘ λ(ascend|transform) ∘ β(interpret|apply) ∘ δγ(cycle|refine) ∘ μ(boundary|hierarchical) + ε | :layered"
+siml_encoding: "⟨Data|raw⟩ ⊳ ⟨Context|added⟩ → ⟨Information|structured⟩ ⊗ ⟨Interpretation|applied⟩ → ⟨Knowledge|embodied⟩ ⇄ ⟨Wisdom|judged⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between raw data and synthesized wisdom; hierarchical classification)", "∂Φ/∂ρ (relational context that transforms data into meaningful information)", "∂Φ/∂λ (directional ascent through the pyramid toward wisdom)", "∂Φ/∂β (feedback loop between interpretation and practical application)", "∂Φ/∂δγ (cyclical refinement of understanding through practice)", "∂Φ/∂μ (boundary enforcement between hierarchical levels)"]
+  Z_state: "structured (clear stratification from raw input to wise output)"
+  tendency: "Context/Raw → 0.8 (strong transformation dependency on contextualization)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: I
+  agency:
+    type: individual
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is data distinguished from wisdom? What cuts separate raw facts from contextualized understanding?"
+  ≈: "What flows between the levels? How does context transform data into meaning?"
+  ▲: "Where does the transformation want to go? Does the hierarchy serve understanding or oversimplify it?"
+  𐂷: "What forms of knowledge organization haven't been tried? What if the pyramid metaphor itself constrains thinking?"
+  ☷: "What's the metabolic cost of climbing the pyramid? What sustains the capacity for wisdom?"
+  ⛨: "What structures contain the DIKW hierarchy? What boundaries would enable or limit transformation between levels?"
+context_note: "The DIKW pyramid represents a foundational model in knowledge management, tracing the progression from raw Data (unprocessed facts), to Information (data with context), to Knowledge (applied and interpreted information), to Wisdom (sound judgment based on knowledge). While widely adopted, the model faces criticism for oversimplifying the recursive and non-linear nature of knowledge creation. In practice, wisdom often feeds back to reshape how we collect data, and knowledge can emerge directly from experience without passing through formal information stages. The pyramid serves as a pedagogical tool but may obscure the messy, iterative reality of sensemaking."
+
+---
 term: "Fragmented Media Consumption"
 hex_tag: "#C002"
 nemetic: "Φ(FragMedia) = σ(deep|shallow) ∘ ρ(attention|distraction) ∘ λ(focus|drift) ∘ β(consumption|habit) ∘ δγ(overload|fatigue) ∘ μ(boundary|porous) + ε | :scattered"
