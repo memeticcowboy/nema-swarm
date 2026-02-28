@@ -1,0 +1,161 @@
+# L099 — Peer Instruction
+# Nemetic String and PHI Encoding
+# Generated: 2026-02-28T12:42:00+08:00
+
+## Nemetic String (Canonical)
+
+```
+Φ(PeerInstruction) = σ(question|concept-test) → [ρ(peer-discussion|knowledge-reconstruction)] → [β(explanation|generative-clarity)] ⇄ [μ(consensus|convergence)] → [λ(commitment|conceptual-change)] + ε | :interactive
+```
+
+## PHI Decomposition
+
+### Phase 1: Diagnosis (σ AIR)
+```
+σ(question|concept-test)
+├── target: conceptual-understanding
+├── diagnose: misconception-pattern
+├── distinguish: algorithmic-skill vs. true-comprehension
+└── output: response-distribution
+```
+
+### Phase 2: Social Reconstruction (ρ WATER)
+```
+ρ(peer-discussion|knowledge-reconstruction)
+├── input: individual-confusion
+├── process: dialogic-negotiation
+├── mechanism: explanation-effect
+├── flow: between-peers
+└── output: provisional-consensus
+```
+
+### Phase 3: Generative Clarity (β WOOD)
+```
+β(explanation|generative-clarity)
+├── trigger: need-to-convince-peer
+├── process: articulation-of-reasoning
+├── outcome: elaborated-understanding
+├── growth: knowledge-branching
+└── feedback: immediate-from-peer
+```
+
+### Phase 4: Convergence (μ METAL)
+```
+μ(consensus|convergence)
+├── structure: voting-mechanism
+├── discipline: commit-to-answer
+├── feedback: histogram-revelation
+├── boundary: right-vs-wrong
+└── outcome: clarity-about-understanding
+```
+
+### Phase 5: Transformation (λ FIRE)
+```
+λ(commitment|conceptual-change)
+├── direction: toward-correct-understanding
+├── energy: instructor-facilitation
+├── transformation: misconception→insight
+├── purpose: deep-learning
+└── outcome: consolidated-knowledge
+```
+
+## SIML Thread Encoding
+
+```
+N|☴|obj:ConcepTest,Peer,Concept|σ(question)⊳ρ(discussion)⊳β(explanation)|diagnose→negotiate→generate
+E|☵|rel:Peer-to-Peer,Student-to-Concept|ρ(resonance)∘β(growth)|social-knowledge-construction
+M|☶|mem:Misconception,Insight,Explanation|μ(structure)⊳λ(transformation)|convergence→conceptual-change
+A|☷|out:Understanding,Clarity,Consolidation|κ(integration)|interactive-learning-achieved
+```
+
+## Compression Levels
+
+### L0: Full Artifact
+- File: `term.yaml` (this document)
+- Contains: Complete definition, diagrams, analysis
+
+### L1: Nemetic String
+```
+Φ(PeerInstruction) = σ(question) → ρ(discussion) → β(explanation) ⇄ μ(consensus) → λ(change) + ε | :interactive
+```
+
+### L2: Thread Line
+```
+N|☴|ConcepTest,Peer|σ⊳ρ⊳β|diagnose E|☵|Peer-Concept|ρ∘β|construct M|☶|Misconception|μ⊳λ|transform A|☷|Understanding|κ|achieve
+```
+
+### L3: Hex Reference
+```
+#L099
+```
+
+### L4: Nemetic Hash
+```
+nemetic:pi9k2m7
+```
+
+## Elemental Signature
+
+```
+┌─────────────────────────────────────────┐
+│         ELEMENTAL BALANCE               │
+│                                         │
+│   Earth (δγ):  ████░░░░░░  MODERATE     │
+│   Water (ρ):   ████████░░  HIGH         │
+│   Air (σ):     ████████░░  HIGH         │
+│   Fire (λ):    █████░░░░░  MODERATE     │
+│   Wood (β):    ████████░░  HIGH         │
+│   Metal (μ):   █████░░░░░  MODERATE     │
+│   Aether (✶):  ███░░░░░░░  PRESENT      │
+│                                         │
+│   Dominant: ρ + σ + β                   │
+│   Pattern: Social-Diagnostic-Generative │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+## Pathology Vectors
+
+### Potential Pathologies
+
+1. **Dominant Peer Syndrome**
+   - Pattern: One student dominates discussion
+   - Vector: ρ(imbalance) → β(blocked)
+   - Counter: μ(structure) + σ(rotation)
+
+2. **Misconception Spread**
+   - Pattern: Wrong answer propagates
+   - Vector: ρ(resonance) ⊗ σ(inverted)
+   - Counter: λ(clarification) + μ(constraint)
+
+3. **Surface Discussion**
+   - Pattern: Students agree without reasoning
+   - Vector: ρ(shallow) ∘ β(unengaged)
+   - Counter: σ(probing) + λ(challenge)
+
+4. **Instructor Interference**
+   - Pattern: Teacher steps in too early
+   - Vector: λ(overactive) ⊳ ρ(blocked)
+   - Counter: δγ(patience) + μ(protocol)
+
+## Cross-References
+
+### Related Terms
+- L001: Jigsaw — Peer teaching method
+- L013/L089: Social Learning Theory — Theoretical foundation
+- L017/L093: Constructionism — Knowledge construction
+- L043: Zone of Proximal Development — Peer learning mechanism
+- P005: Cognitive Dissonance — Productive discomfort
+
+### Domain Tags
+- `#education`
+- `#pedagogy`
+- `#social-learning`
+- `#active-learning`
+- `#STEM-education`
+
+## Version History
+
+- v1.0 (2026-02-28): Initial encoding
+- Status: Draft
+- Review: Pending
