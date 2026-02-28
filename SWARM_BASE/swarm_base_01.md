@@ -521,3 +521,29 @@ elemental_emphasis:
   ☷: "What's the metabolic cost of self-censorship? What sustains the anxiety of holding unspoken thoughts?"
   ⛨: "What structures enable the spiral of silence? What boundaries would protect minority voices without enabling harm?"
 context_note: "The Spiral of Silence theory, developed by Elisabeth Noelle-Neumann in 1974, describes how individuals' fear of social isolation leads them to self-censor minority opinions, creating feedback loops that amplify dominant narratives. Key mechanisms: individuals constantly assess the climate of opinion; when perceiving their views as minority, they retreat into silence; this silence reinforces the illusion of consensus; the perceived majority grows more vocal while dissent disappears from public discourse. The phenomenon operates through quasi-statistical sense—people's intuitive estimates of opinion distribution, often distorted by media amplification and vocal minorities. In digital contexts, algorithmic curation and visibility metrics intensify spirals by making certain viewpoints hyper-visible while marginalizing others. Historical examples include Nazi Germany's suppression of dissent and contemporary cancel culture dynamics. Breaking the spiral requires anonymous expression channels, deliberate exposure to diverse viewpoints, and institutional protection for minority voices."
+---
+term: "Neurological Authoritarianism"
+hex_tag: "#A056"
+nemetic: "Φ(NeuroAuth) = σ(centrist|authoritarian) ∘ ρ(control|empathy) ∘ λ(punitive|overthrow) ∘ β(impulsivity|feedback) ∘ δγ(anxiety|regulation) ∘ μ(boundary|structural) + ε | :polarizing"
+siml_encoding: "⟨Brain|structure⟩ ⊳ ⟨Ideology|authoritarian⟩ → ⟨Cognition|constrained⟩ ⊗ ⟨Empathy|reduced⟩ ⇄ ⟨Extremism|emergent⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between centrist and authoritarian brain structure patterns)", "∂Φ/∂ρ (relational asymmetry between social reasoning capacity and authoritarian control preference)", "∂Φ/∂λ (direction toward punitive social control or revolutionary overthrow)", "∂Φ/∂β (feedback loop where reduced empathy reinforces authoritarian group dynamics)", "∂Φ/∂δγ (metabolic cost of anxiety and impulsivity in emotionally charged situations)", "∂Φ/∂μ (boundary structural differences in prefrontal cortex and anterior insula)"]
+  Z_state: "sealing (authoritarian cognition becomes self-referential, alternative perspectives neurologically inaccessible)"
+  tendency: "Empathy/Control → 0.15 (strong drift toward control over empathic understanding)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is centrist neural processing distinguished from authoritarian brain patterns? What cut separates flexible thinking from rigid cognitive control?"
+  ≈: "What flows between those with reduced empathy and those they seek to control? Is this protection or projection? Who feels threatened and who feels justified?"
+  ▲: "Where does authoritarian cognition want to go? Does it serve security or dominance?"
+  𐂷: "What forms of political cognition haven't been mapped? What if the frame of 'left vs right' itself obscures neurological diversity?"
+  ☷: "What's the metabolic cost of sustained authoritarian cognition? What sustains the anxiety that drives impulsive control?"
+  ⛨: "What brain structures enable or constrain authoritarian tendencies? What neural boundaries would foster empathy over control?"
+context_note: "Neurological Authoritarianism refers to measurable brain structure differences correlated with authoritarian political beliefs, as revealed by MRI studies. Key findings from University of Zaragoza research: right-wing authoritarians show reduced grey matter volume in dorsomedial prefrontal cortex (crucial for understanding others' thoughts); left-wing authoritarians display thinner cortical layers in right anterior insula (associated with emotional empathy and behavioral inhibition). Both types exhibit impulsivity in emotionally charged situations, with left-wing authoritarians showing higher anxiety. The research suggests political extremism has biological correlates—authoritarianism represents interplay of neurology and psychology. Distinctions between right-wing (punitive social control preference) and left-wing (overthrow existing power structures) authoritarians challenge monolithic treatment of political extremism. Implications include potential for targeted interventions, interdisciplinary neuroscience-political science collaboration, and complex questions about biological determinism vs environmental influence on political beliefs."
