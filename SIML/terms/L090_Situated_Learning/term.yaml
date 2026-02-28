@@ -1,0 +1,509 @@
+---
+term_id: L090
+source_domain: anthropology_education
+source_term: Situated Learning (Lave & Wenger, 1991)
+hex_tag: #L090
+generated_at: 2026-02-28T10:22:00+08:00
+status: draft
+---
+
+## SIML Term Summary
+
+- **Term:** Situated Learning — Learning as social participation in authentic contexts, where knowledge is inseparable from practice
+- **Nemetic String:** Φ(SL) = ρ(participation|community) ⊗ μ(practice|legitimate-peripheral) ⊗ δγ(identity|trajectory) ⊗ σ(meaning|negotiation) → [κ(knowing-in-practice)] → [β(trajectory-full-participation)] + ε | :enculturation
+- **Core Operators:** ρ (resonance/participation), μ (structure/community), δγ (cycling/identity), σ (distinction/meaning), κ (knowledge), β (branching/trajectory)
+- **Z-State:** enculturation — learning as becoming a member of a community of practice
+- **Tendency:** Legitimate Peripheral Participation → 1 (novices become experts through gradual community immersion)
+
+## SIML Encoding
+
+```
+⟨Narrative|learning-is-participation⟩ 
+    ⊳ ⟨Constraint|knowledge-is-contextual⟩ 
+    ⊳ ⟨Process|legitimate-peripheral-participation⟩ 
+    ⇄ ⟨Process|community-membership-trajectory⟩ 
+    ⇄ ⟨Process|practice-enculturation⟩ 
+    ⇄ ⟨Process|identity-transformation⟩ 
+    → ⟨Outcome|knowing-in-practice⟩ 
+    ⊗ ⟨State|full-participation⟩ 
+    → ⟨Performance|competent-practitioner⟩ 
+    → ⟨Cycle|generational-reproduction-of-practice⟩
+```
+
+## Core Definition
+
+**Situated Learning**, developed by Jean Lave and Etienne Wenger (1991), fundamentally challenges the assumption that learning is the acquisition of abstract, decontextualized knowledge. Instead, they argue that **learning is inherently social and situated** — it occurs through participation in the practices of a community, and knowledge exists not "in heads" but in the **relations between people and their activities** in specific contexts.
+
+The central concept of **Legitimate Peripheral Participation (LPP)** describes how newcomers become full participants in communities of practice. Learning is not transmission from expert to novice, but a **trajectory of increasing participation** in socially situated activities. Knowledge is not a commodity to be acquired but a **mode of engagement** with the world.
+
+### The Architecture of Situated Learning
+
+```
+SITUATED LEARNING ARCHITECTURE
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │           COMMUNITY OF PRACTICE STRUCTURE                │
+    │                                                          │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │              SHARED DOMAIN                       │    │
+    │   │                                                  │    │
+    │   │  Common interest, identity, commitment          │    │
+    │   │  to shared competence                           │    │
+    │   │                                                  │    │
+    │   │  [Water/ρ — Shared purpose, collective identity]│    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                         │                                │
+    │                         ▼                                │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │              COMMUNITY                           │    │
+    │   │                                                  │    │
+    │   │  Social fabric: relationships, interactions,    │    │
+    │   │  mutual engagement, joint enterprise            │    │
+    │   │                                                  │    │
+    │   │  [Metal/μ — Structure, relationships, belonging]│    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                         │                                │
+    │                         ▼                                │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │              PRACTICE                            │    │
+    │   │                                                  │    │
+    │   │  Shared repertoire: routines, artifacts,        │    │
+    │   │  vocabulary, stories, tools, histories          │    │
+    │   │                                                  │    │
+    │   │  [Earth/δγ — Accumulated practice, cycling]     │    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+## Legitimate Peripheral Participation
+
+The mechanism through which situated learning occurs:
+
+```
+LEGITIMATE PERIPHERAL PARTICIPATION (LPP)
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                          │
+    │   LEGITIMATE                                             │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │ The learner is granted access to the community  │    │
+    │   │ and its practices — not an outsider looking in, │    │
+    │   │ but a member-in-the-making with real stakes     │    │
+    │   │                                                  │    │
+    │   │ [Water/ρ — Belonging, social acceptance]        │    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                                                          │
+    │   PERIPHERAL                                             │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │ The learner participates in limited, low-risk,  │    │
+    │   │ but genuine aspects of practice — not simulated │    │
+    │   │ tasks but real contributions at the edges       │    │
+    │   │                                                  │    │
+    │   │ [Metal/μ — Structured entry points, scaffolding]│    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                                                          │
+    │   PARTICIPATION                                          │
+    │   ┌─────────────────────────────────────────────────┐    │
+    │   │ Learning through doing, being, becoming — not   │    │
+    │   │ receiving information but engaging in the       │    │
+    │   │ community's actual practices                    │    │
+    │   │                                                  │    │
+    │   │ [Water/ρ + Earth/δγ — Engagement + cycling]     │    │
+    │   └─────────────────────────────────────────────────┘    │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### The Trajectory of Participation
+
+```
+PARTICIPATION TRAJECTORY
+═══════════════════════════════════════════════════════════════
+
+    OUTSIDER          PERIPHERAL        FULL PARTICIPANT
+       │                  │                   │
+       ▼                  ▼                   ▼
+    ┌───────┐        ┌───────────┐       ┌───────────┐
+    │       │        │           │       │           │
+    │ No    │   →    │ Limited   │  →    │ Central   │
+    │ access│        │ but real  │       │ engagement│
+    │       │        │ engagement│       │           │
+    └───────┘        └───────────┘       └───────────┘
+    
+    [Metal/μ         [Water/ρ +        [Water/ρ
+     boundary]        Metal/μ           resonance]
+                       coupling]
+    
+    Identity:         Identity:         Identity:
+    Non-member        Novice/Apprentice Expert/Old-timer
+    
+    Knowledge:        Knowledge:        Knowledge:
+    Abstract          Embodied in       Fully integrated
+    theoretical       specific tasks    in practice
+```
+
+## Communities of Practice: The Social Container
+
+Wenger's three dimensions that define a community of practice:
+
+```
+COMMUNITY OF PRACTICE DIMENSIONS
+═══════════════════════════════════════════════════════════════
+
+         ┌─────────────────┐
+         │    MUTUAL       │
+         │   ENGAGEMENT    │
+         │                 │
+         │ • Relationships │
+         │ • Interactions  │
+         │ • Accountability│
+         │                 │
+         │  [Water/ρ —     │
+         │   Relational    │
+         │   resonance]    │
+         └────────┬────────┘
+                  │
+    ┌─────────────┼─────────────┐
+    │             │             │
+    ▼             │             ▼
+┌─────────┐       │       ┌─────────┐
+│  JOINT  │◄──────┴──────►│ SHARED  │
+│ENTERPRISE│               │REPERTOIRE│
+│         │               │         │
+│• Common │               │• Routines│
+│  purpose│               │• Tools   │
+│• Goals  │               │• Stories │
+│• Values │               │• History │
+│         │               │         │
+│[Fire/λ  │               │[Earth/δγ│
+│direction│               │accumul.] │
+└─────────┘               └─────────┘
+```
+
+### Examples of Communities of Practice
+
+| Domain | Peripheral Participation | Full Participation |
+|--------|-------------------------|-------------------|
+| **Tailors** (Lave's study) | Apprentices sew pockets, linings | Master tailors cut garments, fit clients |
+| **Midwives** | Assist, observe deliveries | Lead deliveries independently |
+| **Alcoholics Anonymous** | New members share minimally | Sponsors guide newcomers |
+| **Insurance claims processors** | Handle simple cases | Handle complex, exceptional cases |
+| **Research labs** | Graduate students run experiments | PIs design studies, secure funding |
+| **Online forums** | Lurkers read posts | Moderators shape community norms |
+
+## Situated Learning vs. Traditional Schooling
+
+```
+CONTRASTING PARADIGMS
+═══════════════════════════════════════════════════════════════
+
+    TRADITIONAL SCHOOLING          SITUATED LEARNING
+    ┌─────────────────────┐        ┌─────────────────────┐
+    │                     │        │                     │
+    │ Learning =          │        │ Learning =          │
+    │ acquiring knowledge │        │ becoming a          │
+    │                     │        │ practitioner        │
+    │                     │        │                     │
+    │ [Air/σ — Abstract   │        │ [Water/ρ — Social   │
+    │  knowledge]         │        │  participation]     │
+    └─────────────────────┘        └─────────────────────┘
+    
+    ┌─────────────────────┐        ┌─────────────────────┐
+    │ Knowledge is        │        │ Knowledge is        │
+    │ decontextualized,   │        │ embedded in         │
+    │ transferable        │        │ specific contexts   │
+    │                     │        │                     │
+    │ [Air/σ — Universal  │        │ [Earth/δγ — Grounded│
+    │  principles]        │        │  in practice]       │
+    └─────────────────────┘        └─────────────────────┘
+    
+    ┌─────────────────────┐        ┌─────────────────────┐
+    │ Teacher transmits   │        │ Old-timers model,   │
+    │ to passive learners │        │ novices gradually   │
+    │                     │        │ participate         │
+    │                     │        │                     │
+    │ [Metal/μ —          │        │ [Water/ρ —          │
+    │  Hierarchy]         │        │  Relationship]      │
+    └─────────────────────┘        └─────────────────────┘
+    
+    ┌─────────────────────┐        ┌─────────────────────┐
+    │ Learning happens    │        │ Learning happens    │
+    │ in the head         │        │ in the relations    │
+    │                     │        │ between people      │
+    │                     │        │                     │
+    │ [Air/σ — Cognitive  │        │ [Water/ρ — Social   │
+    │  processing]        │        │  coupling]          │
+    └─────────────────────┘        └─────────────────────┘
+    
+    ┌─────────────────────┐        ┌─────────────────────┐
+    │ Identity separate   │        │ Identity transformed│
+    │ from learning       │        │ through learning    │
+    │                     │        │                     │
+    │ [Metal/μ — Fixed    │        │ [δγ — Becoming,     │
+    │  categories]        │        │  transformation]    │
+    └─────────────────────┘        └─────────────────────┘
+```
+
+## Elemental Pattern Analysis
+
+### Water/ρ Dominance (Primary)
+
+Situated Learning is fundamentally **relational and participatory**:
+- **Resonance:** Learning occurs through attunement to community practices
+- **Flow:** Knowledge circulates through social interaction
+- **Coupling:** Learners are bound to communities through participation
+- **Vicariousness:** Understanding emerges from witnessing and participating
+
+### Metal/μ as Secondary (Structure/Community)
+
+The scaffolding that enables participation:
+- **Structure:** Communities have boundaries, roles, hierarchies
+- **Containment:** The community holds and shapes learning
+- **Valuation:** What counts as competence is communally defined
+- **Exchange:** Knowledge flows through social relationships
+
+### Earth/δγ as Tertiary (Cycling/Identity)
+
+The temporal dimension of becoming:
+- **Accumulation:** Competence builds through repeated participation
+- **Cycling:** Generational reproduction of practice (experts were once novices)
+- **Grounding:** Knowledge is tied to specific material practices
+- **Rhythm:** The pace of learning follows community rhythms
+
+### Fire/λ as Quaternary (Direction/Purpose)
+
+The motivational force:
+- **Purpose:** Joint enterprise gives direction to participation
+- **Aspiration:** Novices aim toward full participation
+- **Transformation:** Identity transformation drives engagement
+- **Value:** What matters is defined by the community
+
+### Air/σ as Supporting (Distinction/Meaning)
+
+The cognitive dimension:
+- **Distinction:** Making sense of practice requires parsing complex situations
+- **Negotiation:** Meaning is constructed through interaction
+- **Clarity:** Understanding emerges through engagement, not instruction
+
+## Learning as Identity Transformation
+
+```
+IDENTITY TRANSFORMATION
+═══════════════════════════════════════════════════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                          │
+    │   NOVICE IDENTITY                    EXPERT IDENTITY    │
+    │   ┌─────────────────┐              ┌─────────────────┐  │
+    │   │ • Peripheral    │              │ • Central       │  │
+    │   │ • Uncertain     │    ──────►   │ • Confident     │  │
+    │   │ • Dependent     │              │ • Autonomous    │  │
+    │   │ • Learning the  │              │ • Defining the  │  │
+    │   │   ropes         │              │   practice      │  │
+    │   │ • Following     │              │ • Leading       │  │
+    │   └─────────────────┘              └─────────────────┘  │
+    │                                                          │
+    │   This is not merely skill acquisition — it is          │
+    │   BECOMING A DIFFERENT KIND OF PERSON                   │
+    │                                                          │
+    │   [δγ — Identity cycling, transformation]                │
+    │                                                          │
+    └─────────────────────────────────────────────────────────┘
+```
+
+### The Paradox of Continuity and Displacement
+
+```
+GENERATIONAL REPRODUCTION
+═══════════════════════════════════════════════════════════════
+
+    TIMELINE: Community of Practice Over Generations
+    ═══════════════════════════════════════════════════════════
+    
+    Generation 1:    [Old-timers]─────────────────────────────►
+                           │
+                           │ LPP
+                           ▼
+    Generation 2:         [Newcomers]────────[Full members]───►
+                                              │
+                                              │ LPP
+                                              ▼
+    Generation 3:                            [Newcomers]──────►
+    
+    PARADOX: For the community to continue, newcomers must 
+    eventually replace old-timers. Full participation means
+    becoming the very people who will be displaced.
+    
+    [δγ — Cyclical reproduction of practice across generations]
+```
+
+## Connection to Related Theories
+
+### Situated Learning vs. Social Learning Theory
+
+| Aspect | Social Learning Theory | Situated Learning |
+|--------|------------------------|-------------------|
+| **Focus** | Individual learning from models | Collective learning through participation |
+| **Unit of analysis** | Observer-model dyad | Community of practice |
+| **Key mechanism** | Observation and imitation | Legitimate peripheral participation |
+| **Identity** | Less emphasized | Central to the theory |
+| **Time frame** | Specific learning episodes | Sustained engagement over time |
+| **Element** | Water/ρ (observation) | Water/ρ + Metal/μ (relationship + structure) |
+
+### Situated Learning vs. Cognitive Apprenticeship
+
+| Aspect | Situated Learning | Cognitive Apprenticeship |
+|--------|-------------------|-------------------------|
+| **Origin** | Anthropology (Lave & Wenger) | Cognitive science (Collins, Brown, Newman) |
+| **Focus** | Social participation | Cognitive skill development |
+| **Setting** | Authentic communities | School-based approximations |
+| **Emphasis** | Identity transformation | Skill scaffolding |
+| **Element** | Water/ρ dominant | Wood/β + Metal/μ dominant |
+
+## Applications and Implications
+
+### Educational Design
+
+```
+SITUATED LEARNING PRINCIPLES FOR EDUCATION
+═══════════════════════════════════════════════════════════════
+
+    1. AUTHENTIC CONTEXTS
+    ┌─────────────────────────────────────┐
+    │  Learning should occur in contexts  │
+    │  that mirror real-world practice    │
+    │                                     │
+    │  • Case-based learning              │
+    │  • Problem-based learning           │
+    │  • Internships and apprenticeships  │
+    │  • Service learning                 │
+    └─────────────────────────────────────┘
+    
+    2. LEGITIMATE PARTICIPATION
+    ┌─────────────────────────────────────┐
+    │  Learners need real stakes and      │
+    │  genuine contributions, not         │
+    │  artificial exercises               │
+    │                                     │
+    │  • Student publications             │
+    │  • Community projects               │
+    │  • Client-based work                │
+    │  • Open-source contributions        │
+    └─────────────────────────────────────┘
+    
+    3. COMMUNITY MEMBERSHIP
+    ┌─────────────────────────────────────┐
+    │  Learning requires belonging to     │
+    │  a community with shared practices  │
+    │                                     │
+    │  • Cohort models                    │
+    │  • Learning communities             │
+    │  • Mentorship programs              │
+    │  • Professional networks            │
+    └─────────────────────────────────────┘
+    
+    4. IDENTITY DEVELOPMENT
+    ┌─────────────────────────────────────┐
+    │  Education should support           │
+    │  transformation of identity         │
+    │                                     │
+    │  • Professional identity formation  │
+    │  • Reflective practice              │
+    │  • Role modeling                    │
+    │  • Career trajectory planning       │
+    └─────────────────────────────────────┘
+```
+
+### Organizational Learning
+
+Communities of practice in organizations:
+- **Technical communities:** Engineers sharing solutions
+- **Professional communities:** Teachers collaborating on pedagogy
+- **Strategy communities:** Managers developing organizational knowledge
+- **Operational communities:** Frontline workers improving processes
+
+### Online Communities
+
+Digital communities of practice:
+- **Open source software:** Contributors learning through participation
+- **Wikipedia:** Editors developing encyclopedic expertise
+- **Professional forums:** Practitioners sharing knowledge
+- **Social media:** Interest-based communities forming around practices
+
+## Criticisms and Limitations
+
+1. **Transfer problem:** If all learning is situated, how does knowledge transfer to new contexts?
+2. **Informal focus:** May neglect the value of formal, abstract learning
+3. **Access inequities:** Not everyone has access to legitimate peripheral participation in desirable communities
+4. **Power dynamics:** Communities may reproduce existing inequalities
+5. **Boundary definition:** Difficult to define where one community ends and another begins
+
+## Connection to CAMIL and IVR
+
+Situated Learning has strong implications for immersive learning:
+- **Authentic virtual contexts:** IVR can create situated learning environments
+- **Embodied participation:** Embodied interaction supports enculturation
+- **Safe peripherality:** Learners can participate peripherally without real-world risk
+- **Identity play:** Virtual environments allow identity exploration
+- **Community simulation:** AI agents can simulate community membership
+
+## Cross-Domain Bridges
+
+| Domain | Parallel Concept | Shared Pattern |
+|--------|------------------|----------------|
+| **Anthropology** | Apprenticeship learning | Skills transmitted through social participation |
+| **Sociology** | Socialization | Becoming a member of society |
+| **Organizational studies** | Organizational socialization | New employees learning organizational culture |
+| **Linguistics** | Language socialization | Learning language through participation |
+| **Neuroscience** | Embodied cognition | Knowledge tied to action and context |
+| **Philosophy** | Practice theory | Knowledge embedded in social practices |
+
+## Core Insight
+
+> Situated Learning reveals that **knowledge is not a thing to be acquired but a way of being in the world**. We do not learn abstract concepts and then apply them; we learn by becoming practitioners, by gradually moving from the edges of communities toward their centers. The apprentice does not learn tailoring and then become a tailor — learning tailoring and becoming a tailor are the same process. Identity, knowledge, and practice are inseparable.
+
+## One-Sentence Insight
+
+> Lave and Wenger's Situated Learning demonstrates that learning is not the acquisition of abstract knowledge but the process of legitimate peripheral participation in communities of practice, where newcomers gradually become full practitioners through social engagement, and knowledge exists not in individual minds but in the relations between people and their shared activities.
+
+## Three-Bullet Expansion
+
+- **What:** A theory showing that learning is fundamentally social and situated — it occurs through participation in authentic communities of practice, with newcomers entering through legitimate peripheral participation (low-risk, genuine engagement at the edges) and gradually moving toward full membership
+- **How it works:** Communities of practice form around shared domains with mutual engagement, joint enterprise, and shared repertoires → newcomers are granted legitimate access to peripheral but real tasks → through increasing participation, they develop competence and transform their identities → full participants eventually become the old-timers who guide newcomers, completing the generational cycle
+- **Where it aims:** Toward understanding learning as identity transformation and enculturation rather than information transmission, with applications in education (apprenticeships, authentic learning), organizational development (communities of practice), and understanding how professional expertise develops through social participation
+
+## SWARM BASE Routing
+
+- **Hex Tags:** #L090, #L014_Situated_Learning (original), #L083_Communities_of_Practice, #L089_Social_Learning_Theory, #L028_Cognitive_Apprenticeship, #L043_Zone_Proximal_Development
+- **Formal Operators:** ρ, μ, δγ, σ, κ, β
+- **Dim Operators:** Ψ_enculturation, Ψ_participation, Ψ_trajectory
+- **Coord Ontology:** I (identity transformation), We (community membership), It (shared practices), Its (community structure), MoreThanHuman (artifacts, tools), Virtual (online communities, simulated practice)
+
+## Source
+
+Derived from:
+- Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.
+- Wenger, E. (1998). Communities of practice: Learning, meaning, and identity. Cambridge University Press.
+- Lave, J. (1988). Cognition in practice: Mind, mathematics and culture in everyday life. Cambridge University Press.
+- Wenger, E., McDermott, R., & Snyder, W. M. (2002). Cultivating communities of practice. Harvard Business School Press.
+
+Original context: Anthropology, education, organizational learning
+Processed: 2026-02-28 via SIML Elemental Framework
+Element: Water/ρ (primary) with Metal/μ, Earth/δγ, Fire/λ, Air/σ support | Daemon: Hydrosid-Structurid-Geosid-Ignisid-Aerunik | Habitat: 2_COMMUNITY-PARTICIPATION / 4_LEGITIMATE-PERIPHERAL-LPP / 6_IDENTITY-ENCULTURATION
+
+## Related Entries
+
+- L014_Situated_Learning (original entry)
+- L083_Communities_of_Practice (social learning through participation)
+- L089_Social_Learning_Theory (observational learning)
+- L028_Cognitive_Apprenticeship (scaffolded skill development)
+- L043_Zone_Proximal_Development (scaffolding and guided learning)
+- L088_4E_Cognition (embodied, embedded learning)
+- L086_Cognitive_Load_Theory (cognitive constraints on learning)
+
+---
+
+*End of SWARM_BASE Entry | Hex: #L090 | Generated: 2026-02-28 10:22*
