@@ -1,4 +1,32 @@
 ---
+term: "Fragmented Media Consumption"
+hex_tag: "#C002"
+nemetic: "Φ(FragMedia) = σ(deep|shallow) ∘ ρ(attention|distraction) ∘ λ(focus|drift) ∘ β(consumption|habit) ∘ δγ(overload|fatigue) ∘ μ(boundary|porous) + ε | :scattered"
+siml_encoding: "⟨Attention|focused⟩ ⊳ ⟨Media|fragmented⟩ → ⟨Cognition|shallow⟩ ⊗ ⟨Knowledge|broad⟩ ⇄ ⟨Understanding|thin⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between deep and shallow cognitive processing)", "∂Φ/∂ρ (relational dynamics between attention capacity and environmental distraction)", "∂Φ/∂λ (directional drift from sustained focus toward fragmented attention)", "∂Φ/∂β (feedback loop where media consumption reinforces attention habits)", "∂Φ/∂δγ (metabolic cost of information overload leading to cognitive fatigue)", "∂Φ/∂μ (boundary permeability between focused attention and environmental intrusion)"]
+  Z_state: "porous (attention boundaries dissolve under digital stimulus saturation)"
+  tendency: "Depth/Breadth → 0.2 (strong preference for broad shallow over narrow deep)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Under
+elemental_emphasis:
+  ∴: "How is deep processing distinguished from shallow consumption? What cuts separate focused attention from fragmented distraction?"
+  ≈: "What flows between attention and the media environment? What relational dynamics enable or disable sustained focus?"
+  ▲: "Where does attention want to go under fragmentation pressure? Does it serve understanding or mere consumption?"
+  𐂷: "What forms of attention haven't been tried? What alternative frameworks challenge the assumption that multitasking is inevitable?"
+  ☷: "What's the metabolic cost of sustained fragmentation? What sustains the capacity for deep thinking?"
+  ⛨: "What structures contain or enable fragmented media consumption? What boundaries would protect cognitive depth?"
+context_note: "Fragmented media consumption describes the cognitive consequences of heavy multitasking across digital platforms, where users develop broad but shallow knowledge structures. Studies indicate heavy multitaskers struggle to filter distractions and focus on demanding cognitive tasks. Digital natives exhibit fragmented thinking and reading patterns contrasting with literate scholarly traditions. The phenomenon represents a systemic tension between the attention economy's design (maximizing engagement through fragmentation) and critical thinking's requirements (sustained focus for deep analysis). Key challenges include rebuilding attention capacity, creating protected spaces for deep reading, and recognizing when breadth trades off against depth."
+
+---
 term: "Critical Thinking Definitions"
 hex_tag: "#C001"
 nemetic: "Φ(CritThink) = σ(analysis|synthesis) ∘ ρ(evaluation|evidence) ∘ λ(reasoning|conclusion) ∘ β(reflection|action) ∘ δγ(inquiry|understanding) ∘ μ(validity|fallacy) + ε | :discerning"
