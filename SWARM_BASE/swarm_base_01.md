@@ -602,6 +602,32 @@ elemental_emphasis:
   ⛨: "What structures enable or prevent regenerative transition? What boundaries would create safe experimentation spaces?"
 context_note: "Regenerative Farming Psychology examines the cognitive biases and emotional barriers that hinder transition from industrial to regenerative agriculture. Key psychological obstacles include: status quo bias (preference for familiar practices), loss aversion (fear of financial risk), temporal discounting (valuing immediate returns over long-term soil health), and social proof (conformity to peer practices). Emotional factors include pride in current methods, fear of judgment, and anxiety about economic uncertainty. Identity transformation is central—shifting from 'yield maximizer' to 'soil steward' requires fundamental self-concept change. Successful interventions reframe 'yield' to include soil health metrics, build confidence through small-scale trials, create visible success markers, foster peer support networks, and develop regenerative farming identity aligned with community values."
 ---
+term: "False Memory Formation"
+hex_tag: "#A05A"
+nemetic: "Φ(FalseMem) = σ(real|imagined) ∘ ρ(experience|narrative) ∘ λ(belief|validation) ∘ β(confabulation|feedback) ∘ δγ(absorption|dissociation) ∘ μ(boundary|permeable) + ε | :confabulating"
+siml_encoding: "⟨Memory|encoded⟩ ⊳ ⟨Source|misattributed⟩ → ⟨Belief|entrenched⟩ ⊗ ⟨Reality|distorted⟩ ⇄ ⟨Narrative|reinforced⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between genuine experience and imagined event)", "∂Φ/∂ρ (relational confusion between internal fantasy and external reality)", "∂Φ/∂λ (direction of belief formation toward validation-seeking)", "∂Φ/∂β (feedback loop where narrative reinforcement strengthens false memory)", "∂Φ/∂δγ (metabolic cost of absorption and dissociation in memory construction)", "∂Φ/∂μ (boundary permeability between memory and imagination)"]
+  Z_state: "sealed (false memory becomes indistinguishable from genuine experience)"
+  tendency: "Reality/Fantasy → 0.3 (strong drift toward narrative coherence over accuracy)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Against
+elemental_emphasis:
+  ∴: "How is genuine memory distinguished from confabulated experience? What cut separates remembered from imagined?"
+  ≈: "What flows between experience and the narrative constructed around it? Is this resonance or source monitoring error? Who feels the memory as real?"
+  ▲: "Where does the false memory want to go? Does it serve truth or emotional need?"
+  𐂷: "What forms of memory haven't been normalized? What if the frame of 'recovered memory' itself enables fabrication?"
+  ☷: "What's the metabolic cost of maintaining false beliefs? What sustains the absorption that fuels confabulation?"
+  ⛨: "What structures enable or prevent false memory formation? What boundaries would restore source monitoring?"
+context_note: "False Memory Formation describes how vivid but inaccurate memories emerge through psychological mechanisms including source monitoring errors, dissociation, absorption, and cultural narrative influence. Key factors: memory distortion through misattribution (confusing media/internal imagery with experience), dissociative experiences blurring reality/imagination boundaries, absorption traits enabling deep engagement with fantasy, sleep paralysis hallucinations interpreted through available cultural scripts, and magical ideation supporting extraordinary explanations. Documented in alien abduction beliefs, recovered memory therapy, and eyewitness testimony errors. The brain constructs coherent narratives from fragmented inputs—when emotional needs align with cultural availability, false memories can become subjectively indistinguishable from genuine experience."
+---
 term: "AI Cognitive Offloading"
 hex_tag: "#A059"
 nemetic: "Φ(AICogOffload) = σ(memory|external) ∘ ρ(thinking|delegated) ∘ λ(dependency|increasing) ∘ β(atrophy|skill-loss) ∘ δγ(effort|minimized) ∘ μ(boundary|porous) + ε | :structuring"
