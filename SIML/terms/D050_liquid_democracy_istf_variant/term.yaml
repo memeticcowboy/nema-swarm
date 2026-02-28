@@ -1,0 +1,217 @@
+---
+meta:
+  schema_version: "1.0"
+  term_id: "D050"
+  term_name: "liquid_democracy_istf_variant"
+  domain: "political_theory"
+  subdomain: "governance"
+  created_date: "2026-02-28"
+  source_document: "2a._liquid_democracy.pdf"
+  variant_sources:
+    - "D002_liquid_democracy"
+    - "D015_liquid_democracy_expanded"
+    - "D025_liquid_democracy_ist_recursive"
+    - "D041_liquid_democracy_base"
+  elemental_focus: "σ-Air (distinction), ρ-Water (resonance), λ-Fire (direction), β-Wood (branching), δγ-Earth (cycling), μ-Metal (structure)"
+  status: "draft"
+
+siml:
+  symbol:
+    glyph: "🌊"
+    unicode_representation: "U+1F30A"
+    visual_description: "A spiraling vortex of liquid light—concentric rings of trust flowing outward like ripples on water; each ripple carries small flame-signals that pulse with delegated intention; the water is translucent, revealing layered depths beneath; at the center, a still point where all currents converge and diverge; the flow is neither chaotic nor rigid but dynamically coherent—living water that remembers every path it has taken"
+    etymology: "Liquid from Latin liquidus 'fluid, flowing'; democracy from Greek dēmokratia 'people power'; ISTF from Integrated Systemic Transformation Framework; together naming a governance form that flows like water through trust networks, continuously reshaped by the recursive reflection of those who swim within it—power as current rather than possession"
+  
+  phoneme:
+    pronunciation: "LIH-kwid dih-MOK-ruh-see ISTF"
+    phonetic_ipa: "/ˈlɪkwɪd dɪˈmɒkrəsi ˈaɪstf/"
+    tonal_quality: "fluid and resonant—like water moving through varying depths; the 'liq' flows smoothly, the 'dem' grounds with democratic weight, the 'crat' carries authority, the 'ISTF' snaps into systemic precision; the voice moves from flowing contemplation to structured analysis and back"
+    sonic_resonance: "The sound of water in motion—sometimes gentle trickle, sometimes rushing current; the echo of voices in a canyon, carrying and returning; the rhythmic pulse of waves against shore; the crystalline ring of ice forming and melting; the deep resonance of submarine currents"
+  
+  semantics:
+    core_meaning: "Liquid Democracy reimagined through the Integrated Systemic Transformation Framework (ISTF)—transforming governance from event-based sovereignty to ongoing symbolic synchrony, where citizens become curators of trust rather than choosers of power, and democracy pulses with attention, trust, revocation, and realignment"
+    operational_definition: "A governance system enabling: (1) per-issue modular delegation reducing cognitive overload, (2) dynamic trust flows with continuous revocability, (3) citizens as signal nodes exercising agency through alignment, curation, and attention flow, (4) delegation as symbolic trust encoding with affective, epistemic, and ethical weight; operating through recursive feedback loops across Cynefin domains from Clear to Chaotic"
+    contextual_domains:
+      - "liquid_democracy"
+      - "istf_analysis"
+      - "civic_autopoiesis"
+      - "trust_ecology"
+      - "symbolic_synchrony"
+      - "delegation_dynamics"
+      - "cognitive_ergonomics"
+      - "design_justice"
+      - "attention_governance"
+      - "recursive_reflection"
+      - "double_loop_learning"
+      - "cynefin_governance"
+      - "mo4matrix_civic"
+      - "memetic_ux"
+      - "civic_ritual"
+      - "liminal_tech"
+      - "relational_sovereignty"
+      - "trust_routers"
+      - "civic_ceremony"
+      - "dynamic_agency"
+    
+  elemental_mapping:
+    sigma_air:
+      aspect: "distinction"
+      mapping: "The discernment between adaptive fluidity and celebrity oligarchy; the ontological clarity that distinguishes signal from noise in delegation networks; the meta-cognitive awareness that tracks one's own position in trust flows—are you channeling the current or becoming trapped in someone else's dashboard?"
+      daemon_correspondence: "Pneuma—spirit of breath and discernment, governing the symbolic filters that distinguish healthy trust flows from manipulative accumulation; the wind that separates authentic delegation from influencer capture"
+      manifestations:
+        - "Signal-to-noise discernment in delegation chains"
+        - "Meta-cognitive tracking of one's civic position"
+        - "Distinction between fluidity and drift"
+        - "Recognition of superdelegate gravity wells"
+    
+    rho_water:
+      aspect: "resonance"
+      mapping: "The trust ecology itself—liquid flows of influence moving through social networks like water through watersheds; affective resonance determining delegation paths; the felt sense of alignment that guides trust placement; emotional investment as the medium of political relationship"
+      daemon_correspondence: "Sentaria—spirit of relational waters, governing trust flows and affective currents; the tide that carries influence to those who resonate with collective need; the spring that sources legitimate authority"
+      manifestations:
+        - "Dynamic trust flows between citizens"
+        - "Affective resonance in delegation decisions"
+        - "Trust decay and revocation currents"
+        - "Social trust dynamics as ecosystem"
+    
+    lambda_fire:
+      aspect: "direction"
+      mapping: "The transformational vector from event-based sovereignty to ongoing symbolic synchrony; the sacred fire of civic presence; the direction toward relational sovereignty at scale; the shift from 'casting a vote' to 'channeling a trust field'"
+      daemon_correspondence: "Ignis—spirit of sacred flame and transformation, governing the shift from punctual voting to continuous civic presence; the fire that transmutes representation into resonance"
+      manifestations:
+        - "Transformation to ongoing symbolic synchrony"
+        - "Citizens as trust curators rather than power choosers"
+        - "Democracy as rhythmic pulsing system"
+        - "Direction toward dynamic relational sovereignty"
+    
+    beta_wood:
+      aspect: "branching"
+      mapping: "The chain-delegation topology—trust branching through networks like mycelium or river deltas; the multiple pathways of influence; the tree of delegation with its roots in individual agency and branches in collective decision; ontological attractors coalescing shared realities"
+      daemon_correspondence: "Yggdrasil—spirit of the world-tree and branching paths, governing the delegation network architecture; the roots and branches that connect all citizens in living trust topology"
+      manifestations:
+        - "Chain-delegation network topology"
+        - "Multiple pathways for trust flow"
+        - "Branching civic relationships"
+        - "Mycelial spread of influence"
+    
+    delta_gamma_earth:
+      aspect: "cycling"
+      mapping: "The recursive civic metabolism—delegation, revocation, realignment, renewal; the cycling of trust through the polity; the steady rhythm of civic presence; feedback loops across Cynefin domains (Clear→Complicated→Complex→Chaotic→Clear)"
+      daemon_correspondence: "Gaia—spirit of earth and cycles, governing the metabolic loop of civic trust; the ground that receives all delegation and from which all legitimacy grows; the composting of old alignments into new soil"
+      manifestations:
+        - "Delegation-revocation-realignment cycles"
+        - "Recursive feedback across Cynefin domains"
+        - "Civic metabolism of trust"
+        - "Rhythmic pulsing of democratic presence"
+    
+    mu_metal:
+      aspect: "structure"
+      mapping: "The platform protocols and interface scaffolding—transparent logs, delegate maps, revocability nudges, algorithmic fairness; the vessel that contains flow without determining destination; code-ethic entwined guardrails; civic-grade design"
+      daemon_correspondence: "Ferrosid—spirit of structure and containment, governing the platform protocols and interface design; the forge that shapes civic infrastructure with ethical defaults and cognitive ergonomics"
+      manifestations:
+        - "Transparent delegation logging"
+        - "Revocability nudge architecture"
+        - "Trust visualization interfaces"
+        - "Ethical defaults in civic UX"
+
+  nemetic_string: |
+    Φ(LiquidDemocracyISTF) = σ(distinction|fluidity-vs-oligarchy-discernment) ∘ ρ(resonance|trust-ecology-affective-flow) ∘ λ(direction|event-to-synchrony-transformation) ∘ β(branching|chain-delegation-mycelial-topology) ∘ δγ(cycling|delegation-revocation-metabolism) ∘ μ(structure|platform-protocols-ethical-scaffolding) + ε | :dynamic_relational_sovereignty
+
+  z_state: "dynamic_relational_sovereignty — governance as living trust ecology where authority emerges from ongoing resonance rather than periodic election; citizens as trust routers in a field of continuous civic presence"
+  
+  tendency: "Fluidity/Structure tension — the pull toward platform overcontrol (μ↑) versus memetic centralization (ρ↓); the system oscillates between adaptive fluidity and superdelegate gravity, seeking dynamic equilibrium through transparent revocation and trust decay mechanisms"
+
+  siml_encoding: |
+    ⟨Narrative|from-casting-votes-to-channeling-trust-fields⟩ 
+        ⊳ ⟨Observer|citizen-as-trust-curator-signal-node⟩ 
+        ⇄ ⟨Environment|trust-ecology-delegation-network⟩ 
+        → ⟨Value|relational-sovereignty-through-resonance⟩ 
+        ⊗ ⟨Resource|attention-alignment-cognitive-ergonomics⟩ 
+        → ⟨Outcome|ongoing-symbolic-synchrony-civic-autopoiesis⟩]
+
+  memetic_ecology:
+    parent_concepts:
+      - "D002_liquid_democracy"
+      - "D015_liquid_democracy_expanded"
+      - "D025_liquid_democracy_ist_recursive"
+      - "D041_liquid_democracy_base"
+    sibling_concepts:
+      - "D001_democracy_networked_age"
+      - "D003_memetic_governance"
+      - "D004_deliberation_attention_economy"
+      - "D050_liquid_democracy_istf_variant"
+    child_concepts:
+      - "trust_ecology"
+      - "delegation_dynamics"
+      - "civic_autopoiesis"
+      - "symbolic_synchrony"
+      - "cognitive_ergonomics"
+      - "design_justice"
+      - "civic_ritual"
+    competing_memes:
+      - "representative_democracy"
+      - "direct_democracy"
+      - "technocratic_governance"
+      - "celebrity_oligarchy"
+    symbiotic_memes:
+      - "DAO_architecture"
+      - "civic_technology"
+      - "participatory_design"
+      - "attention_economics"
+      - "trust_networks"
+      - "recursive_governance"
+
+  emphasis_questions:
+    - "How do we prevent Liquid Democracy from drifting into 'celebrity oligarchy' while maintaining adaptive fluidity?"
+    - "What is the threshold of attention below which participation erodes into symbolic placeholder?"
+    - "Can citizens delegate attention as well as votes—and what are the ethical implications?"
+    - "How do we design civic interfaces that feel alive—responding, nudging, reflecting integrity in flow?"
+    - "What safeguards ensure trust decay and transparent revocation function as civic immune systems?"
+    - "How do we optimize for micro-engagement with macro-impact without trivializing democratic participation?"
+    - "Can governance be 'addictive for the right reasons' without becoming manipulative?"
+    - "How do we integrate civic ceremonies and ritual layers into digital delegation platforms?"
+    - "What prevents the 'sovereignty of the interface' from becoming a new form of platform authoritarianism?"
+    - "Is coherence more important than maximal input in a liquid democratic system?"
+
+  daemonic_resonance:
+    primary: "Sentaria—the Water daemon governs the trust ecology itself, the flowing currents of delegation and affective resonance that make Liquid Democracy liquid"
+    secondary: "Ferrosid—the Metal daemon ensures the platform protocols and ethical scaffolding contain the flow without determining destination, code-ethic entwined"
+    tertiary: "Pneuma—the Air daemon maintains discernment between healthy fluidity and dangerous drift, tracking signal against noise in delegation networks"
+
+  related_terms:
+    - id: "D002"
+      name: "liquid_democracy"
+      relationship: "foundation_concept"
+    - id: "D015"
+      name: "liquid_democracy_expanded"
+      relationship: "earlier_variant"
+    - id: "D025"
+      name: "liquid_democracy_ist_recursive"
+      relationship: "recursive_variant"
+    - id: "D041"
+      name: "liquid_democracy_base"
+      relationship: "base_encoding"
+    - id: "D049"
+      name: "integrated_civic_symbolic_stack"
+      relationship: "systemic_context"
+
+  tags:
+    - "liquid_democracy"
+    - "istf"
+    - "trust_ecology"
+    - "civic_autopoiesis"
+    - "symbolic_synchrony"
+    - "delegation_dynamics"
+    - "double_loop_learning"
+    - "cynefin_framework"
+    - "mo4matrix"
+    - "design_justice"
+    - "cognitive_ergonomics"
+    - "civic_ritual"
+    - "liminal_tech"
+    - "relational_sovereignty"
+    - "trust_routers"
+    - "dynamic_agency"
+
+  hex_tag: "#D050"
+---
