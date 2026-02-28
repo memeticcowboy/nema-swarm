@@ -707,6 +707,32 @@ elemental_emphasis:
   ⛨: "What structures police the Overton Window? What boundaries would enable radical ideas without enabling harm?"
 context_note: "The Overton Window describes the range of policies politically acceptable to the mainstream population at a given time. Politicians and institutions typically align with the window's center to maintain legitimacy, avoiding risks associated with fringe ideas. This conservatism is reinforced by electoral incentives and media gatekeeping. The window can shift through strategic framing, crisis catalysts, or sustained grassroots mobilization—historical examples include women's suffrage, marriage equality, and smoking bans. In tight cultures with rigid norms, the window narrows; in loose cultures, it expands. The concept reveals how power operates not through explicit censorship but through the construction of 'common sense' that renders certain ideas literally unthinkable within legitimate discourse."
 ---
+term: "Framing Effects"
+hex_tag: "#A05D"
+nemetic: "Φ(Framing) = σ(gain|loss) ∘ ρ(presentation|perception) ∘ λ(emotion|decision) ∘ β(equivalence|blindness) ∘ δγ(cognitive|ease) ∘ μ(alternative|suppressed) + ε | :reframing"
+siml_encoding: "⟨Information|equivalent⟩ ⊳ ⟨Presentation|varied⟩ → ⟨Decision|different⟩ ⊗ ⟨Emotion|evoked⟩ ⇄ ⟨Choice|biased⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between gain-framed and loss-framed presentations)", "∂Φ/∂ρ (relational dynamics between presentation format and emotional response)", "∂Φ/∂λ (direction of decision toward emotionally salient framing)", "∂Φ/∂β (feedback loop where equivalent information is treated as different)", "∂Φ/∂δγ (metabolic ease of processing one formulation over another)", "∂Φ/∂μ (boundary suppression of alternative framings)"]
+  Z_state: "sealing (one framing becomes invisible as constructed, treated as natural)"
+  tendency: "Loss/Gain → 0.7 (strong loss aversion bias in framing)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x07"]
+coords:
+  ontology:
+    primary: I
+  agency:
+    type: individual
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is gain-framed information distinguished from loss-framed? What cut separates survival rates from mortality rates?"
+  ≈: "What flows between the presentation and the emotional response? Is this genuine preference or manipulated feeling?"
+  ▲: "Where does the framing want to direct the decision? Does it serve clarity or manipulation?"
+  𐂷: "What forms of presentation haven't been tried? What if the frame itself determines the answer?"
+  ☷: "What's the metabolic cost of resisting intuitive framing? What sustains the cognitive effort to see equivalence?"
+  ⛨: "What structures enable framing effects? What boundaries would reveal equivalent formulations?"
+context_note: "Framing Effects describe how the presentation of equivalent information influences decisions and emotions. Kahneman's research shows that '90% survival rate' and '10% mortality rate' produce different responses despite mathematical equivalence. System 1 processes only the visible formulation, creating associative coherence that suppresses awareness of alternatives. Common manifestations include: medical treatment preferences (survival vs mortality framing), consumer choices (fat-free vs fat content), and risk attitudes (gains domain = risk averse, losses domain = risk seeking). The bias operates through emotional resonance—losses loom larger than gains, creating asymmetric responses to objectively identical information. In AI contexts, framing determines how users interpret model outputs, policy implications, and risk assessments."
+---
 term: "Sleep Paralysis"
 hex_tag: "#A05B"
 nemetic: "Φ(SleepParalysis) = σ(waking|sleeping) ∘ ρ(immobility|consciousness) ∘ λ(hallucination|interpretation) ∘ β(terror|feedback) ∘ δγ(vulnerability|arousal) ∘ μ(boundary|blurred) + ε | :paralyzing"
