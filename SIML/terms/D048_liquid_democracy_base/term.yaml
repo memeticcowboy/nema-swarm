@@ -1,0 +1,190 @@
+---
+meta:
+  schema_version: "1.0"
+  term_id: "D048"
+  term_name: "liquid_democracy_base"
+  domain: "political_theory"
+  subdomain: "governance"
+  created_date: "2026-02-28"
+  source_document: "2._liquid_democracy.pdf"
+  variant_sources:
+    - "2a._liquid_democracy.pdf"
+  elemental_focus: "σ-Air (distinction), ρ-Water (resonance), λ-Fire (direction), β-Wood (branching), δγ-Earth (cycling), μ-Metal (structure)"
+  status: "draft"
+
+siml:
+  symbol:
+    glyph: "💧"
+    unicode_representation: "U+1F4A7"
+    visual_description: "A droplet caught mid-fall—surface tension holding form yet endlessly reshaping; within it, light refracts into infinite spectra; the droplet contains both the ocean it came from and the river it will become; it is neither solid nor gas but the liminal threshold between commitment and flow"
+    etymology: "Liquid from Latin liquidus 'fluid, flowing, clear'—matter that yields to pressure yet maintains cohesion; democracy from Greek dēmokratia 'people power'; combined they name a governance form where power flows like water, finding its level through trust networks rather than fixed channels"
+  
+  phoneme:
+    pronunciation: "LI-kwid dih-MOK-ruh-see"
+    phonetic_ipa: "/ˈlɪkwɪd dɪˈmɒkrəsi/"
+    tonal_quality: "flowing, adaptive, melodic—like water over stones; the soft 'liq' suggesting liquidity and lightness; the crisp 'dem' grounding in democratic tradition; the voice carries both movement and depth"
+    sonic_resonance: "The sound of streams converging; the gentle splash of droplets meeting surface; the murmur of underground aquifers; the rhythm of tides—constant yet ever-changing"
+  
+  semantics:
+    core_meaning: "A governance architecture where voting power flows fluidly between direct participation and delegated representation—votes as liquid assets that citizens can deploy, withdraw, or cascade through trust networks on a per-issue basis"
+    operational_definition: "A hybrid democratic system enabling: (1) direct voting on any issue, (2) granular delegation of voting power to trusted others, (3) transitive delegation chains (A→B→C), (4) instant revocation and reallocation of delegated power, (5) issue-specific rather than general representation"
+    contextual_domains:
+      - "participatory_democracy"
+      - "delegative_democracy"
+      - "trust_networks"
+      - "digital_governance"
+      - "voting_systems"
+      - "civic_engagement"
+      - "political_representation"
+      - "social_choice_theory"
+      - "platform_governance"
+      - "algorithmic_policy"
+      - "reputation_systems"
+      - "collective_intelligence"
+      - "civic_tech"
+      - "democratic_innovation"
+      - "power_distribution"
+      - "accountability_mechanisms"
+    
+  elemental_mapping:
+    sigma_air:
+      aspect: "distinction"
+      mapping: "The per-issue granularity of delegation—distinguishing climate expertise from healthcare wisdom, recognizing that trust is contextual not absolute; the clarity of 'who speaks for me on what' replacing the blur of general representation"
+      daemon_correspondence: "Zepar—spirit of division and distinction, separating domains of competence; the analytical blade that carves political space into specific territories of trust"
+      manifestations:
+        - "Issue-specific delegate selection"
+        - "Contextual trust boundaries"
+        - "Competence recognition"
+        - "Differentiated representation"
+    
+    rho_water:
+      aspect: "resonance"
+      mapping: "The affective flow of trust through networks—delegation as emotional investment, the viral spread of confidence in superdelegates, the ripple effects of reputation; democracy as feeling-state not just procedure"
+      daemon_correspondence: "Vepar—spirit of waters and emotional tides, governing the ebb and flow of collective sentiment; the current that carries influence"
+      manifestations:
+        - "Trust cascades through networks"
+        - "Reputation-driven influence"
+        - "Viral delegate accumulation"
+        - "Emotional investment in representation"
+    
+    lambda_fire:
+      aspect: "direction"
+      mapping: "The trajectory from static to fluid representation—from 'who represents me' to 'who do I trust right now, on this'; the vector of reclaimable agency, the arrow of revocability pointing always back to the individual"
+      daemon_correspondence: "Bathin—spirit of transformation and passage, guiding the shift from fixed to flowing forms; the flame that melts rigid structures"
+      manifestations:
+        - "Revocable delegation"
+        - "Dynamic representation shifts"
+        - "Agency reclamation"
+        - "Transformation of democratic form"
+    
+    beta_wood:
+      aspect: "branching"
+      mapping: "The dendritic structure of delegation chains—A branches to B branches to C; the organic growth of trust networks; the superdelegate as trunk with many tributaries; the forest of competing influence trees"
+      daemon_correspondence: "Bune—spirit of vegetation and branching paths, governing the organic spread of influence through rhizomatic networks; the mycelial wisdom of distributed trust"
+      manifestations:
+        - "Transitive delegation chains"
+        - "Network topology of trust"
+        - "Superdelegate emergence"
+        - "Organic influence growth"
+    
+    delta_gamma_earth:
+      aspect: "cycling"
+      mapping: "The continuous loop of delegation and revocation—power cycling through the system like water through watershed; the daily renewal of trust; the sedimentation and erosion of influence; democracy as circulatory system"
+      daemon_correspondence: "Belial—spirit of earth and cycles, governing the turnover of power and the ground that receives all delegation; the soil from which representation grows and to which it returns"
+      manifestations:
+        - "Continuous trust renewal"
+        - "Power circulation"
+        - "Influence decay and accumulation"
+        - "Cyclical accountability"
+    
+    mu_metal:
+      aspect: "structure"
+      mapping: "The platform infrastructure that channels liquid democracy—code as law, interface as governance, algorithmic architecture shaping flow; the container that holds the fluid without determining its shape; the pipes, not the water"
+      daemon_correspondence: "Bael—spirit of structure and containment, governing the platforms and protocols that enable flow; the vessel that shapes without forcing"
+      manifestations:
+        - "Voting platforms"
+        - "Delegation infrastructure"
+        - "Algorithmic governance"
+        - "Code as institutional form"
+
+  nemetic_string: |
+    Φ(LiquidDemocracy) = σ(distinction|per-issue-granularity) ∘ ρ(resonance|trust-flow-networks) ∘ λ(direction|from-fixed-to-fluid) ∘ β(branching|delegation-chains-superdelegates) ∘ δγ(cycling|revocation-renewal-circulation) ∘ μ(structure|platform-code-infrastructure) + ε | :flow
+
+  z_state: "flow — the system exists in continuous motion, never crystallizing into fixed hierarchies yet maintaining coherent structure through dynamic equilibrium; power is always moving, trust always being negotiated"
+  
+  tendency: "Resonance/Structure tension — the gravitational pull toward superdelegate concentration (ρ↑μ↓) versus the dispersive force of revocability and granularity (σ↑λ↑); the system oscillates between river and reservoir"
+
+  siml_encoding: |
+    ⟨Narrative|from-representation-to-trust-flow⟩ 
+        ⊳ ⟨Observer|liquid-citizen-node⟩ 
+        ⇄ ⟨Environment|delegation-platform-trust-network⟩ 
+        → ⟨Value|contextual-competence-over-general-mandate⟩ 
+        ⊗ ⟨Resource|voting-power-attention-trust-credit⟩ 
+        → ⟨Outcome|fluid-polity-networked-agency-reversible-power⟩
+
+  memetic_ecology:
+    parent_concepts:
+      - "D002_liquid_democracy"
+      - "D015_liquid_democracy_expanded"
+      - "D025_liquid_democracy_ist_recursive"
+      - "D033_liquid_democracy_expanded_v2"
+      - "D041_liquid_democracy_base"
+    sibling_concepts:
+      - "D001_democracy_networked_age"
+      - "D003_memetic_governance"
+      - "D004_deliberation_attention_economy"
+    child_concepts:
+      - "granular_delegation"
+      - "superdelegate_dynamics"
+      - "trust_cascades"
+      - "revocable_power"
+    competing_memes:
+      - "representative_democracy"
+      - "direct_democracy"
+      - "technocratic_governance"
+    symbiotic_memes:
+      - "digital_platforms"
+      - "reputation_systems"
+      - "blockchain_governance"
+      - "civic_technology"
+
+  emphasis_questions:
+    - "What safeguards prevent superdelegate oligarchy when influence concentrates?"
+    - "How does per-issue granularity avoid cognitive overload while enabling meaningful participation?"
+    - "What platform architectures best support intuitive trust flows without manipulation?"
+    - "How do transitive delegation chains maintain accountability across multiple hops?"
+    - "What rhythms of revocation and renewal prevent power sedimentation?"
+
+  daemonic_resonance:
+    primary: "Vepar—the water daemon governs the emotional flow of trust, the viral spread of confidence, the tides of influence that rise and fall through networks"
+    secondary: "Bael—the structure daemon ensures the platforms that contain this flow, the code that channels without controlling, the vessels that hold liquid power"
+    tertiary: "Bune—the branching daemon shapes the organic growth of delegation trees, the mycelial spread of trust through rhizomatic networks"
+
+  related_terms:
+    - id: "D002"
+      name: "liquid_democracy"
+      relationship: "earlier_variant"
+    - id: "D015"
+      name: "liquid_democracy_expanded"
+      relationship: "expanded_variant"
+    - id: "D041"
+      name: "liquid_democracy_base"
+      relationship: "parallel_base"
+    - id: "D033"
+      name: "liquid_democracy_expanded_v2"
+      relationship: "later_variant"
+
+  tags:
+    - "democracy"
+    - "liquid"
+    - "delegation"
+    - "trust_networks"
+    - "participation"
+    - "voting"
+    - "representation"
+    - "platform_governance"
+    - "superdelegates"
+    - "revocability"
+
+  hex_tag: "#D048"
+---
