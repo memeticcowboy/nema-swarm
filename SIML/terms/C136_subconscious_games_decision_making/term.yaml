@@ -1,0 +1,56 @@
+---
+term: "Subconscious Games in Decision-Making"
+hex_tag: "#C136"
+nemetic: "Φ(SubconsciousGames) = σ(hidden|explicit) ∘ ρ(unawareness|awareness) ∘ λ(influence|autonomy) ∘ β(pattern|breakthrough) ∘ δγ(routine|reflection) ∘ μ(automatic|conscious) + ε | :revealing"
+siml_encoding: "⟨Game|subconscious⟩ ⊳ ⟨Decision|influenced⟩ → ⟨Awareness|emergent⟩ ⊗ ⟨Agency|reclaimed⟩ ⇄ ⟨Behavior|transformed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between hidden social interactions and explicit communication; categorical separation of subconscious patterns from conscious deliberation)", "∂Φ/∂ρ (relational flow between unconscious influence and conscious awareness; the bridge between automatic reactions and mindful responses)", "∂Φ/∂λ (directional tension between subconscious influence on decisions and the preservation of autonomous choice)", "∂Φ/∂β (feedback loop between recurring behavioral patterns and breakthrough moments of insight; the cycle of repetition and revelation)", "∂Φ/∂δγ (cyclical process of habitual routine versus conscious reflection; the oscillation between autopilot and mindful presence)", "∂Φ/∂μ (boundary permeability between automatic processing and conscious intervention; the threshold of self-awareness and agency)"]
+  Z_state: "semi-permeable (boundaries between subconscious influence and conscious awareness can be made permeable through deliberate practice and mindfulness)"
+  tendency: "Influence/Autonomy → 0.40 (default toward subconscious influence; achieving autonomy requires sustained metacognitive effort and emotional intelligence)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between conscious and subconscious decision-making"
+      - "logical analysis of hidden rules and strategies in social interactions"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "flow between unconscious influence and conscious awareness"
+      - "fluid emotional currents that shape beliefs and values beneath awareness"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+      - "drive to reclaim autonomy from subconscious influences"
+      - "energetic push toward self-awareness and behavioral transformation"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic development of self-awareness through childhood and experience"
+      - "growth of emotional intelligence and pattern recognition over time"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in cultural and societal patterns that form subconscious games"
+      - "cyclical reinforcement of behavioral routines and environmental influences"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between helpful intuition and harmful manipulation"
+      - "discernment between authentic emotional responses and game-driven behaviors"
+    daemon_correspondence: "Ferrosid"

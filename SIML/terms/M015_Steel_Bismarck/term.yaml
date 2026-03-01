@@ -1,0 +1,33 @@
+term_id: M015
+name: Steel_Bismarck
+element: Metal
+phonetic_key: 🜛/μ
+description: Steel as national will—blood and iron, industrial might, unified nation
+nemetic_string: Φ(Steel_Bismarck) = λ(national-direction|unification-will) ∘ μ(industrial-structure|production-capacity)
+  ∘ σ(distinction|nation-vs-other) ∘ ρ(cultural-resonance|identity-forging) + ε |
+  :pure
+operators:
+  primary: λ
+  secondary:
+  - μ
+  - σ
+  - ρ
+  absent:
+  - β
+  - γ
+  - δ
+z_state: :pure
+tendency: Direction/Structure → 1
+habitat_affinity: 7_CULTURAL / 2_SOCIAL
+daemon_correspondence: λ (direction) primary, R (relational) secondary
+historical_moment: Bismarck 1862—'blood and iron' speech
+symbolic_meaning: Steel production = military potential = national strength
+key_insight: Steel became synonymous with national will—material as political metaphor
+_source_meta:
+  version: SIML v1.2.1
+  encoding_date: '2026-02-25T04:00:00+08:00'
+  encoder: Kimi Claw
+  source_material: 'Metals in Warfare: Bronze Age to 21st century defense industry,
+    symbolic frameworks (Mars/Iron Cross vs alchemy/swords-to-plowshares), strategic
+    commodities'
+  total_terms: 7
