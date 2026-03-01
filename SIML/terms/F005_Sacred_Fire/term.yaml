@@ -1,0 +1,86 @@
+hex_tag: '#F005'
+term: Sacred Fire (Indigenous Portal)
+nemetic: Φ(Sacred-Fire) = μ(portal-structure|spirit-doorway) ∘ ρ(ancestral-resonance|connection-to-spirits)
+  ∘ δγ(communal-cycling|gathering-sharing) ∘ λ(illumination-direction|knowledge-transmission)
+  + ε | :pure
+siml_encoding: ⟨Structure|sacred-fire⟩ ⊳ ⟨Actor|community⟩ ⇄ ⟨Environment|spirit-world⟩
+  → ⟨Value|connection⟩ ⊗ ⟨Protocol|ceremonial⟩ → ⟨Outcome|collective-wisdom⟩
+formalism:
+  math_operators:
+  - μ
+  - ρ
+  - δγ
+  - λ
+  dim_operators:
+  - Ψ_structural
+  - Q_inward
+  - Ψ_regenerative
+  - Q_forward
+  partials:
+  - ∂Φ/∂μ (portal structure)
+  - ∂Φ/∂ρ (ancestral resonance)
+  - ∂Φ/∂δγ (communal cycling)
+  - ∂Φ/∂λ (illumination direction)
+  Z_state: permeable
+  tendency: Structure/Resonance → 1
+  hex:
+  - '0x06'
+  - '0x02'
+  - '0x05'
+  - '0x03'
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary:
+    - We
+    - I
+  epistemics:
+    dsrp:
+      D: Sacred fire vs ordinary fire
+      S: Ceremonial fire system
+      R: Fire as doorway to ancestors/spirits
+      P: Elder, knowledge-keeper, community member
+    learning: L3
+  time:
+    mode: layered
+    phase: ceremonial-moment
+  qualia:
+    affect:
+    - reverence
+    - connection
+    - warmth
+    aesthetic:
+    - sacred
+    - gathering
+    - illuminating
+    symbolic:
+    - eternal-flame
+    - circle
+    - elders
+    - stories
+    energetic:
+    - connecting
+    - teaching
+  agency:
+    type: collective
+    voice:
+    - Spirit Doorway
+    - Elders' Light
+    power_mode: With
+elemental_emphasis:
+  ∴: How is sacred fire distinguished from cooking/heating fire?
+  ≈: What resonance flows between fire and ancestral spirits?
+  ▲: What direction does knowledge transmission aim?
+  𐂷: What possibilities open at the spirit doorway?
+  ☷: How does sacred fire cycle through community gatherings?
+  ⛨: What boundaries separate sacred space from ordinary space?
+context_note: 'Sacred Fire represents Fire as spiritual technology—portal between
+  worlds, not just heat source. Key insight: fire is doorway to spirit world and ancestors
+  (North American, Mesoamerican, African traditions). The communal aspect (δγ) is
+  essential—elders share knowledge around fire, making it μ (structure) for cultural
+  transmission. The eternal flame (Vesta/Hestia) shows this cross-culturally: some
+  fires must never go out. Fire as gathering point, teacher, witness.'
+source: Fire's Symbolic Meaning in Ancient Philosophical and Indigenous Traditions
+  — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

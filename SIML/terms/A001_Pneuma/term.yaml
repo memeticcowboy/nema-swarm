@@ -1,0 +1,83 @@
+hex_tag: '#A001'
+term: Pneuma (Greek Breath/Soul)
+nemetic: Φ(Pneuma) = ρ(breath|life-force) ∘ σ(distinction|soul-vs-body) ∘ λ(intellect|directed-thought)
+  ∘ β(spiritual-movement|unbounded-flow) + ε | :open
+siml_encoding: ⟨Resource|breath⟩ ⊳ ⟨Actor|ensouled-being⟩ ⇄ ⟨Value|life⟩ ⊗ ⟨Frame|Greek-cosmology⟩
+  → ⟨Outcome|intellect-and-spirit⟩
+formalism:
+  math_operators:
+  - ρ
+  - σ
+  - λ
+  - β
+  dim_operators:
+  - Q_inward
+  - χ
+  - Q_forward
+  - Ψ_exploratory
+  partials:
+  - ∂Φ/∂ρ (breath resonance)
+  - ∂Φ/∂σ (soul distinction)
+  - ∂Φ/∂λ (intellectual direction)
+  - ∂Φ/∂β (spiritual exploration)
+  Z_state: permeable
+  tendency: Resonance/Distinction → 1
+  hex:
+  - '0x02'
+  - '0x01'
+  - '0x03'
+  - '0x04'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - It
+    - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: Pneuma vs Aer vs Aether
+      S: Greek tripartite air system
+      R: Breath → soul → intellect
+      P: Philosopher, physician
+    learning: L2
+  time:
+    mode: linear
+    phase: breath-moment
+  qualia:
+    affect:
+    - vitality
+    - clarity
+    - elevation
+    aesthetic:
+    - light
+    - mobile
+    - intelligent
+    symbolic:
+    - breath
+    - soul
+    - octahedron
+    energetic:
+    - animating
+    - uplifting
+  agency:
+    type: ego
+    voice:
+    - Ensouled Intellect
+    - Vital Spirit
+    power_mode: Within
+elemental_emphasis:
+  ∴: How is Pneuma distinguished from mere Aer (air)?
+  ≈: What resonance does breath-as-life carry?
+  ▲: What direction does pneumatic intellect aim?
+  𐂷: What spiritual possibilities open through breath?
+  ☷: How does breathing cycle sustain life moment-to-moment?
+  ⛨: What boundaries contain the soul against dispersal?
+context_note: 'Pneuma represents Air as vital principle—not just gas but animating
+  force. Key distinction: Greek tripartite air (Aer: lower air, Pneuma: breath/soul,
+  Aether: upper divine air). Pneuma is middle term—connecting body and spirit. The
+  octahedron (Platonic solid) symbolizes this mediation. Later Stoic philosophy extends
+  Pneuma to cosmic scale—the universe breathes.'
+source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic
+  Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

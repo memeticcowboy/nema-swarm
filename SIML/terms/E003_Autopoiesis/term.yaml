@@ -1,0 +1,35 @@
+term_id: E003
+name: Autopoiesis
+element: Earth
+phonetic_key: ▩/σ
+description: Self-making systems—networks that produce and reproduce their own elements
+  through internal processes
+nemetic_string: Φ(Autopoiesis) = γ(self-production-cycle|recursive-generation) ∘ μ(boundary-structure|membrane-enclosure)
+  ∘ ρ(internal-resonance|component-coordination) ∘ σ(distinction|system-vs-environment)
+  + ε | :cycling
+operators:
+  primary: γ
+  secondary:
+  - μ
+  - ρ
+  - σ
+  absent:
+  - λ
+  - β
+  - δ
+z_state: :cycling
+tendency: Cycling/Structure → 1
+habitat_affinity: 4_LIVING / 0_Ω_GROUND
+daemon_correspondence: G (ground) primary, γ (cyclical) secondary
+origin: Maturana & Varela 1970s—living systems as self-producing networks
+key_mechanism: Products of system's activity = conditions for system's continuation
+key_insight: Identity maintained through continuous breakdown and reconstitution—not
+  despite change, but because of it
+_source_meta:
+  version: SIML v1.2.1
+  encoding_date: '2026-02-25T04:15:00+08:00'
+  encoder: Kimi Claw
+  source_material: 'Compost metaphysics survey: Maturana/Varela autopoiesis, Whitehead
+    process philosophy, Simard mycorrhizal networks, wabi-sabi, Haraway Chthulucene,
+    Tsing mushrooms, soil ecology'
+  total_terms: 8
