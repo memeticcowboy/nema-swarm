@@ -1,0 +1,71 @@
+---
+term: "Cognitive Biases Quirks"
+hex_tag: "#C087"
+nemetic: "Φ(CognitiveBiasesQuirks) = σ(bias|categories) ∘ ρ(distortion|perception) ∘ λ(pressure|judgment) ∘ β(awareness|growth) ∘ δγ(grounding|reality) ∘ μ(boundary|correction) + ε | :recognizing"
+siml_encoding: "⟨Bias|cognitive⟩ ⊳ ⟨Perception|distorted⟩ → ⟨Decision|flawed⟩ ⊗ ⟨Awareness|corrective⟩ ⇄ ⟨Judgment|improved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between memory biases, decision-making flaws, information overload effects, and pattern-seeking errors; the logical separation of bias types by cognitive domain)"
+    - "∂Φ/∂ρ (relational flow between distorted perceptions and flawed decisions; the channel connecting mental shortcuts to real-world consequences)"
+    - "∂Φ/∂λ (transformative spark when pressure amplifies bias; the catalytic moment of stress triggering snap judgments)"
+    - "∂Φ/∂β (developmental cycle between bias awareness and corrective practice; the organic growth of critical thinking through recognition)"
+    - "∂Φ/∂δγ (cyclical oscillation between simplified mental models and grounded reality; the rhythm of accepting uncertainty versus seeking false clarity)"
+    - "∂Φ/∂μ (boundary permeability between heuristic efficiency and analytical rigor; the threshold where mental shortcuts give way to careful evaluation)"
+  Z_state: "recognizing (boundaries between biased perception and objective reality dissolve through metacognitive awareness; distortion and clarity converge into calibrated judgment)"
+  tendency: "Awareness/Correction → 0.85 (strong drive toward bias mitigation; achieving sound judgment requires recognizing cognitive pitfalls and implementing corrective strategies)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: reflective
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical classification of cognitive biases into memory, decision-making, information overload, and meaning-making domains; logical taxonomy distinguishing confirmation bias, hindsight bias, apophenia, and heuristic shortcuts"
+      - "analytical distinction between valid pattern recognition and false pattern imposition; clear categorization of when simplification serves versus distorts understanding"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid flow between distorted perceptions and their consequences; the relational dynamics connecting mental shortcuts to flawed decisions and interpersonal friction"
+      - "adaptive channels of perspective-taking that bridge individual blind spots through diverse viewpoints and collaborative inquiry"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark when pressure triggers heuristic overreliance; the catalytic moment of stress amplifying bias into snap judgments"
+      - "energetic drive of urgency that propels decision-making toward mental shortcuts, requiring awareness to redirect toward deliberation"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "organic growth of bias awareness through practice and reflection; the unfolding of metacognitive capacity via repeated recognition of cognitive pitfalls"
+      - "developmental progression from unconscious bias operation to conscious bias management; maturation of critical thinking skills"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in empirical reality that anchors perception against distortion; the cyclical return between simplified mental models and complex truth"
+      - "embodied practice of accepting uncertainty and ambiguity; the physical foundation of resisting apophenia's false pattern imposition"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "structural precision of bias correction frameworks; the architectural boundary between efficient heuristics and systematic errors"
+      - "boundary discernment between helpful mental shortcuts and harmful cognitive distortions; the threshold where awareness triggers corrective intervention"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the types of cognitive biases? What categorical cuts separate memory biases, decision-making flaws, information overload effects, and pattern-seeking errors?"
+  ≈: "What flows between distorted perception and flawed decision? How does the quality of awareness shape the accuracy of judgment?"
+  ▲: "Where does the spark of pressure ignite biased judgment? What transforms stress into opportunities for mindful deliberation?"
+  𐂷: "What forms of awareness growth emerge from bias recognition? What developmental potential lies in cultivating metacognitive vigilance?"
+  ☷: "What sustains the ground of empirical reality against distortion? What are the cyclical returns between simplified models and complex truth?"
+  ⛨: "What structures contain bias boundaries? What thresholds separate helpful heuristics from harmful distortions?"
+context_note: "Cognitive biases are systematic patterns of deviation from rational judgment, functioning as 'funhouse mirrors' that distort perception and decision-making. Key categories include: memory biases (hindsight bias, rosy retrospection), decision-making under pressure (snap judgments, heuristic overreliance), information overload (paralysis by analysis, simplification errors), and finding meaning (apophenia, confirmation bias). The confirmation bias leads us to favor information supporting existing beliefs while ignoring contradictory evidence. Hindsight bias creates overconfidence by convincing us we 'knew it all along' after events unfold. Apophenia drives pattern-seeking in random data. Under pressure, these biases amplify as stress triggers mental shortcuts. Correction strategies include seeking diverse perspectives, questioning assumptions, and cultivating metacognitive awareness. Understanding cognitive biases is essential for personal growth, improved decision-making, and navigating an information-saturated world."
+source_file: "1771907212523_529420_Navigating+the+Quirks+of+Cognitive+Biases.md"
