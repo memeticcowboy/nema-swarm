@@ -1,0 +1,71 @@
+---
+term: "Irrational Behavior and Cognitive Biases"
+hex_tag: "#C123"
+nemetic: "Φ(IrrationalBehavior) = σ(rational|irrational) ∘ ρ(loss|gain) ∘ λ(commitment|abandonment) ∘ β(diagnosis|revision) ∘ δγ(fairness|selfinterest) ∘ μ(intrinsic|extrinsic) + ε | :cognitive_sway"
+siml_encoding: "⟨Decision|biased⟩ ⊳ ⟨Behavior|irrational⟩ → ⟨Judgment|distorted⟩ ⊗ ⟨Awareness|lacking⟩ ⇄ ⟨Mindfulness|emerging⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between rational and irrational decision-making; the logical separation of objective analysis from biased judgment)"
+    - "∂Φ/∂ρ (relational flow between loss aversion and gain seeking; the channel connecting fear of loss to distorted valuation)"
+    - "∂Φ/∂λ (transformative spark when commitment confronts abandonment; the catalytic moment of sunk cost recognition)"
+    - "∂Φ/∂β (developmental cycle between initial diagnosis and subsequent revision; the organic tension between first impressions and updated understanding)"
+    - "∂Φ/∂δγ (cyclical oscillation between fairness demands and self-interest; the rhythm of justice-seeking and rational optimization)"
+    - "∂Φ/∂μ (boundary permeability between intrinsic motivation and extrinsic incentives; the threshold where rewards undermine purpose)"
+  Z_state: "cognitive_sway (boundaries between rational and irrational dissolve through awareness; loss aversion and commitment bias converge into mindful decision-making)"
+  tendency: "Awareness/Objectivity → 0.81 (strong drive toward rational decision-making balanced by recognition of persistent biases; achieving clarity requires both mindfulness and structured evaluation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between rational and irrational decision-making"
+      - "logical taxonomy separating objective analysis from biased judgment"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid dynamics between loss aversion and gain seeking"
+      - "relational flow connecting fear of loss to distorted valuation"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative spark when commitment confronts abandonment"
+      - "energetic drive breaking through sunk cost fallacies"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+      - "organic growth cycle between initial diagnosis and revision"
+      - "developmental tension between first impressions and updated understanding"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "grounding in the oscillation between fairness and self-interest"
+      - "cyclical rhythm of justice-seeking versus rational optimization"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between intrinsic motivation and extrinsic incentives"
+      - "discernment between authentic purpose and reward-driven behavior"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between rational and irrational decision-making? What categorical cuts separate objective analysis from biased judgment?"
+  ≈: "What flows between loss aversion and gain seeking? How does the relational dynamic connect fear of loss to distorted valuation?"
+  ▲: "Where does the spark of transformation occur when commitment confronts abandonment? What catalyzes the breakthrough from sunk cost fallacies?"
+  𐂷: "What forms of growth emerge from the tension between initial diagnosis and revision? What developmental potential exists between first impressions and updated understanding?"
+  ☷: "What sustains the ground between fairness demands and self-interest? What are the cyclical returns between justice-seeking and rational optimization?"
+  ⛨: "What structures contain the boundary between intrinsic motivation and extrinsic incentives? What thresholds separate authentic purpose from reward-driven behavior?"
+context_note: "Irrational Behavior and Cognitive Biases examines the psychological forces that lead to distorted decision-making, as explored in Ori Brafman's 'Sway'. Key biases include loss aversion (overreacting to potential losses), commitment bias (continuing failing investments), value attribution (judging based on initial impressions), and diagnosis bias (persistent labeling). The Tenerife disaster exemplifies how loss aversion can override safety. The Joshua Bell experiment shows how context overshadows talent. Overcoming these biases requires mindfulness, structured evaluation, seeking diverse perspectives, and focusing on intrinsic motivators rather than financial incentives. Continuous self-awareness and education are essential for improving decision-making outcomes."
+source_file: "1771907212633_801055_Understanding+Irrational+Behavior.md"
