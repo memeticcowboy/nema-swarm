@@ -1,0 +1,56 @@
+---
+term: "Brain's Learning for UX"
+hex_tag: "#C029"
+nemetic: "Φ(BrainLearningUX) = σ(cognition|interface) ∘ ρ(feedback|loop) ∘ λ(iteration|stagnation) ∘ β(memory|attention) ∘ δγ(hardwired|learned) ∘ μ(usability|intuition) + ε | :cognizing"
+siml_encoding: "⟨Brain|learning⟩ ⊳ ⟨UX|designed⟩ → ⟨Interface|intuitive⟩ ⊗ ⟨Feedback|natural⟩ ⇄ ⟨Product|enhanced⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between cognitive interface design and arbitrary visual layout; categorical separation of brain-aligned versus conventional design patterns)", "∂Φ/∂ρ (relational flow between user feedback and iterative improvement; the bridge between usability testing insights and product development cycles)", "∂Φ/∂λ (directional tension between iterative refinement and design stagnation; the drive toward optimal user experience through continuous cognitive alignment)", "∂Φ/∂β (feedback loop between memory retention mechanisms and attention span optimization; the developmental cycle of neural pathway reinforcement through interface interaction)", "∂Φ/∂δγ (cyclical oscillation between hardwired cognitive behaviors and learned user patterns; the rhythm of innate brain function and adaptive interface usage)", "∂Φ/∂μ (boundary permeability between usability metrics and intuitive user judgment; the threshold where quantitative testing meets qualitative user experience)"]
+  Z_state: "adaptive (user interfaces evolve through feedback loops that mirror neural plasticity; cognitive alignment creates systems that grow more intuitive through use)"
+  tendency: "Alignment/Friction → 0.76 (default toward brain-compatible design; achieving optimal UX requires understanding hardwired cognitive processes and their interaction with learned behaviors)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: We
+  agency:
+    type: collective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between cognitive-aligned and arbitrary interface design"
+      - "logical analysis of memory retention patterns and attention mechanisms"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid flow between user feedback and iterative design improvements"
+      - "interpersonal synchronization of usability testing with product development"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "transformative spark of iterative refinement driving product evolution"
+      - "energetic drive toward optimal user experience through continuous improvement"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects:
+      - "organic growth of neural pathways through repeated interface interactions"
+      - "development of memory structures and attention frameworks in user cognition"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in hardwired cognitive processes and genetic behavioral patterns"
+      - "cyclical nature of learning hardwired behaviors versus culturally learned patterns"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural precision of usability testing metrics and quantitative analysis"
+      - "discernment between intuitive design choices and evidence-based UX decisions"
+    daemon_correspondence: "Ferrosid"
