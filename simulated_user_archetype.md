@@ -1,13 +1,13 @@
 # Simulated User Archetype
 
-**ARCHETYPE:** Social Worker  
-**EXPERTISE:** community outreach  
-**INTEREST:** mental health crisis  
-**CHALLENGE:** resource allocation  
-**TOPIC:** housing first
+**ARCHETYPE:** Climate Scientist  
+**EXPERTISE:** carbon capture  
+**INTEREST:** renewable energy  
+**CHALLENGE:** extreme weather  
+**TOPIC:** permafrost thaw
 
 ---
 
 **USER PROMPT:**
 
-"I'm a social worker focused on community outreach, particularly around mental health crisis intervention. My biggest challenge is resource allocation—how do we distribute limited funding and services to those who need them most? I'm particularly interested in the Housing First approach for addressing homelessness among individuals with mental health challenges. What does the research say about its effectiveness compared to traditional models? How can communities implement Housing First programs with limited budgets? I'm looking for both evidence-based outcomes and practical guidance for building partnerships with housing providers and healthcare systems."
+"I'm a climate scientist specializing in carbon capture technologies, with a deep interest in renewable energy integration. My biggest challenge is understanding how extreme weather events impact our climate mitigation strategies. I'm particularly focused on permafrost thaw in the Arctic—how the release of methane and CO2 from thawing permafrost could accelerate warming and potentially overwhelm our carbon capture efforts. What does current research say about the tipping point risks? How can communities in permafrost regions adapt to the rapid changes? I'm looking for both the latest scientific findings on permafrost carbon feedback loops and practical guidance for building resilient infrastructure and community adaptation strategies in the face of this accelerating phenomenon."
