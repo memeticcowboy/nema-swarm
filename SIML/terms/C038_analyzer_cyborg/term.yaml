@@ -1,0 +1,56 @@
+---
+term: "Analyzer Cyborg"
+hex_tag: "#C038"
+nemetic: "Φ(AnalyzerCyborg) = σ(data|intuition) ∘ ρ(analysis|synthesis) ∘ λ(evaluation|acceptance) ∘ β(critical_thinking|habit) ∘ δγ(objectivity|bias) ∘ μ(precision|vagueness) + ε | :analyzing"
+siml_encoding: "⟨Human|biological⟩ ⊳ ⟨Machine|augmented⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Analysis|systematic⟩ ⇄ ⟨Decision|optimized⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between data-driven analysis and intuitive judgment; categorical separation of objective metrics from subjective impressions)", "∂Φ/∂ρ (relational flow between analytical decomposition and synthetic integration; the bridge between breaking down information and building understanding)", "∂Φ/∂λ (directional tension between critical evaluation and passive acceptance; the transformative spark that ignites when evidence is weighed against claims)", "∂Φ/∂β (feedback loop between conscious critical thinking and unconscious habitual response; the developmental cycle of cultivating analytical habits)", "∂Φ/∂δγ (cyclical oscillation between objective detachment and subjective bias; the rhythm of striving for impartiality while acknowledging embodied perspective)", "∂Φ/∂μ (boundary permeability between precise measurement and vague approximation; the threshold where quantitative rigor meets qualitative nuance)"]
+  Z_state: "optimized (boundaries between human intuition and machine analysis dissolve through integration; the cyborg analyst achieves enhanced cognition that transcends unaugmented limitations)"
+  tendency: "Analysis/Synthesis → 0.62 (default toward holistic intuition; achieving systematic analysis requires deliberate cultivation of analytical discipline augmented by technological tools)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: hybrid
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.95
+    aspects:
+      - "categorical distinction between data and intuition in decision-making"
+      - "logical analysis of information through systematic decomposition"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between analytical breakdown and synthetic integration"
+      - "interpersonal dynamics of collaborative data interpretation"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark of critical evaluation challenging assumptions"
+      - "energetic drive toward evidence-based judgment"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic growth of critical thinking habits through practice"
+      - "developmental unfolding of analytical skills from novice to mastery"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "grounding in objective reality through data verification"
+      - "cyclical return to empirical evidence against cognitive bias"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.90
+    aspects:
+      - "structural precision of systematic analytical frameworks"
+      - "discernment between valid inference and logical fallacy"
+    daemon_correspondence: "Ferrosid"
