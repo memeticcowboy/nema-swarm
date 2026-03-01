@@ -1,4 +1,69 @@
 ---
+term: "Nature of Consciousness"
+hex_tag: "#C045"
+nemetic: "Φ(NatureOfConsciousness) = σ(subjective|objective) ∘ ρ(neural|experiential) ∘ λ(integration|awareness) ∘ β(complexity|consciousness) ∘ δγ(individual|universal) ∘ μ(self|world) + ε | :integrating"
+siml_encoding: "⟨Neural|complex⟩ ⊳ ⟨Integration|information⟩ → ⟨Consciousness|emergent⟩ ⊗ ⟨Self|world⟩ ⇄ ⟨Awareness|unified⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between subjective experience and objective neural processes; categorical separation of qualia from electrochemical activity dissolves through IIT)", "∂Φ/∂ρ (relational flow between neural complexity and conscious experience; the bridge between 86 billion neurons and unified awareness)", "∂Φ/∂λ (directional transformation from information integration toward conscious awareness; the spark when sufficient complexity yields subjective experience)", "∂Φ/∂β (feedback loop between increasing neural complexity and emergent consciousness; the developmental cycle of evolving awareness across species)", "∂Φ/∂δγ (cyclical oscillation between individual self-awareness and universal consciousness; the rhythm of 'Then I am myself the world')", "∂Φ/∂μ (boundary permeability between self and world; the threshold where individual consciousness recognizes itself in the broader universe)"]
+  Z_state: "integrated (boundaries between self and world dissolve; individual consciousness emerges as particular expression of universal awareness through neural integration)"
+  tendency: "Integration/Separation → 0.72 (strong drive toward unified awareness; achieving conscious experience requires sufficient information integration across neural networks)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: emergent
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between conscious and non-conscious systems; logical analysis of IIT's phi metric"
+      - "conceptual clarity in distinguishing subjective experience from information processing"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between neural activation patterns and conscious states"
+      - "relational dynamics connecting individual awareness to universal consciousness"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark when neural complexity crosses threshold into consciousness"
+      - "energetic drive of awareness seeking to understand itself"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic growth of consciousness through evolutionary development of neural complexity"
+      - "developmental unfolding from simple awareness to self-reflective consciousness"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects:
+      - "grounding in the 86 billion neurons and their electrochemical activity"
+      - "cyclical relationship between brain states and conscious experiences"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural precision of integrated information theory's mathematical framework"
+      - "boundary discernment between levels of consciousness across species"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How is conscious experience distinguished from unconscious processing? What cuts separate subjective awareness from neural activity?"
+  ≈: "What flows between neural complexity and conscious experience? How does information integration bridge matter and mind?"
+  ▲: "Where does consciousness want to go? Does awareness serve survival, understanding, or self-transcendence?"
+  𐂷: "What forms of consciousness haven't been recognized? What if machines, ecosystems, or the universe itself possess awareness?"
+  ☷: "What sustains the ground of conscious experience? What are the metabolic costs of maintaining integrated awareness?"
+  ⛨: "What structures contain or enable consciousness? What boundaries separate self from world, human from non-human awareness?"
+context_note: "The Nature of Consciousness explores how subjective experience emerges from objective neural processes, drawing on Christof Koch's work and Integrated Information Theory (IIT). The article 'Then I Am Myself the World' challenges the software-hardware metaphor of consciousness, proposing instead that consciousness arises from the brain's capacity to integrate information. With 86 billion neurons forming complex networks, the brain generates causal power that manifests as conscious experience. The concept bridges individual self-awareness (I) with the objective study of neural mechanisms (It), suggesting consciousness exists on a spectrum across species and potentially in non-biological systems."
+
+---
 term: "Human Behavior Influences AI Training"
 hex_tag: "#C044"
 nemetic: "Φ(HumanBehaviorAITraining) = σ(perceived_audience|authentic_behavior) ∘ ρ(fairness_performance|genuine_ethics) ∘ λ(behavioral_adjustment|persistent_change) ∘ β(experimental_context|real_world) ∘ δγ(human_bias|ai_system) ∘ μ(ethical_intention|actual_outcome) + ε | :reflecting"
