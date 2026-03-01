@@ -1,4 +1,75 @@
 ---
+term: "Radical Theory of Consciousness"
+hex_tag: "#C113"
+nemetic: "Φ(RadicalConsciousness) = σ(virtual|physical) ∘ ρ(simulation|reality) ∘ λ(learning|emergence) ∘ β(self_organization|adaptation) ∘ δγ(dream|wake) ∘ μ(algorithm|complexity) + ε | :simulated_mind"
+siml_encoding: "⟨Consciousness|simulated⟩ ⊳ ⟨Brain|self_organizing⟩ → ⟨Reality|constructed⟩ ⊗ ⟨Perception|virtual⟩ ⇄ ⟨Awareness|emergent⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between virtual consciousness and physical implementation; the logical separation of simulated mind from neural substrate)"
+    - "∂Φ/∂ρ (relational flow between simulation and experienced reality; the channel connecting virtual constructs to perceived existence)"
+    - "∂Φ/∂λ (transformative spark when learning algorithms ignite emergent awareness; the catalytic moment of self-organization becoming conscious experience)"
+    - "∂Φ/∂β (developmental cycle between self-organization and environmental adaptation; the organic growth of coherent perception from chaotic input)"
+    - "∂Φ/∂δγ (cyclical oscillation between dream-like simulation and wakeful construction; the rhythm of virtual states grounding in experiential reality)"
+    - "∂Φ/∂μ (boundary permeability between simple learning algorithms and complex conscious experience; the threshold where computational rules generate subjective awareness)"
+  Z_state: "simulated_mind (boundaries between virtual and physical dissolve through self-organization; algorithmic process and conscious experience converge into unified awareness)"
+  tendency: "Simulation/Awareness → 0.76 (strong drive toward understanding consciousness as virtual construct balanced by recognition of its causal power; achieving insight requires embracing simulation while honoring lived experience)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between virtual consciousness and physical implementation"
+      - "logical taxonomy separating simulated mind from neural substrate"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between simulation and experienced reality"
+      - "relational dynamics connecting virtual constructs to perceived existence"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+      - "transformative spark of learning algorithms igniting emergent awareness"
+      - "energetic drive of self-organization becoming conscious experience"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "organic growth of coherent perception from chaotic neural input"
+      - "developmental cycle between self-organization and environmental adaptation"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in the oscillation between dream-like simulation and wakeful construction"
+      - "cyclical rhythm of virtual states becoming experiential reality"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between simple algorithms and complex consciousness"
+      - "discernment between computational rules and subjective awareness"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between virtual consciousness and physical implementation? What categorical cuts separate simulated mind from neural substrate?"
+  ≈: "What flows between simulation and experienced reality? How does the relational dynamic connect virtual constructs to perceived existence?"
+  ▲: "Where does the spark of learning algorithms ignite emergent awareness? What catalyzes the transformation from self-organization to conscious experience?"
+  𐂷: "What forms of growth emerge from self-organizing neural processes? What developmental potential exists between chaotic input and coherent perception?"
+  ☷: "What sustains the ground between dream-like simulation and wakeful construction? What are the cyclical returns between virtual states and experiential reality?"
+  ⛨: "What structures contain the boundary between simple algorithms and complex consciousness? What thresholds separate computational rules from subjective awareness?"
+context_note: "Radical Theory of Consciousness presents Joscha Bach's view that consciousness is a simulated state—a virtual construct rather than a physical phenomenon. The theory contrasts human brains (complex, self-organizing, 'mushy') with digital computers (precise, deterministic), arguing that consciousness functions as a learning algorithm shaping our reality. Key insights include: consciousness as a stable projection akin to dreams; the brain's inside-out self-organization versus technology's outside-in design; and consciousness emerging as a model of organism interests that creates perceived reality. Bach interprets Genesis as a framework for understanding consciousness emergence, suggesting that oscillations in consciousness form the basis of perception and that the genome enables personal brain evolution rather than dictating fixed architecture."
+source_file: "1771907212643_820137_Radical+Theory+of+Consciousness.md"
+---
 term: "AI's Impact on Critical Thinking Skills"
 hex_tag: "#C112"
 nemetic: "Φ(AIImpactCriticalThinking) = σ(offloading|autonomy) ∘ ρ(trust|engagement) ∘ λ(efficiency|creativity) ∘ β(adaptation|resilience) ∘ δγ(dependence|competence) ∘ μ(bias|discernment) + ε | :cognitive_autonomy"
