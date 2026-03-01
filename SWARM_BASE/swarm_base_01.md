@@ -1,4 +1,61 @@
 ---
+term: "Mastering Critical Thinking Skills"
+hex_tag: "#C035"
+nemetic: "Φ(CriticalThinkingMastery) = σ(identification|confusion) ∘ ρ(research|assumption) ∘ λ(inference|guess) ∘ β(bias_awareness|blindness) ∘ δγ(relevance|noise) ∘ μ(curiosity|apathy) + ε | :analyzing"
+siml_encoding: "⟨Thinker|engaged⟩ ⊳ ⟨Skill|practiced⟩ → ⟨Information|evaluated⟩ ⊗ ⟨Decision|informed⟩ ⇄ ⟨Understanding|deepened⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between clear problem identification and cognitive confusion; categorical separation of situations requiring analysis from background noise)", "∂Φ/∂ρ (relational flow between independent research and uncritical assumption; the bridge between verified knowledge and hearsay)", "∂Φ/∂λ (directional tension between evidence-based inference and unfounded guessing; the transformative spark that connects premises to conclusions)", "∂Φ/∂β (feedback loop between conscious bias awareness and unconscious blind spots; the developmental cycle of recognizing and correcting distorted thinking)", "∂Φ/∂δγ (cyclical oscillation between relevant information and distracting noise; the rhythm of focusing and refocusing attention on what matters)", "∂Φ/∂μ (boundary permeability between genuine curiosity and intellectual apathy; the threshold where passive consumption becomes active inquiry)"]
+  Z_state: "mastered (boundaries between distinct thinking skills dissolve through integration; critical thinking becomes a unified, automatic response to complex situations)"
+  tendency: "Analysis/Intuition → 0.65 (default toward intuitive judgment; achieving analytical rigor requires conscious cultivation of systematic evaluation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects:
+      - "categorical distinction between problems and their surrounding context"
+      - "logical analysis of situations through precise identification"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid flow between questions and verified answers through research"
+      - "interpersonal dynamics of source evaluation and credibility assessment"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative spark of inference connecting evidence to conclusions"
+      - "energetic drive of curiosity fueling intellectual exploration"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+      - "organic growth of bias awareness through repeated self-reflection"
+      - "development of critical thinking skills from novice to mastery"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "grounding in the concrete practice of determining relevance"
+      - "cyclical nature of skill refinement through continuous application"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural precision of systematic evaluation frameworks"
+      - "discernment between scholarly and popular sources of information"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Authority Figure Influence"
 hex_tag: "#C034"
 nemetic: "Φ(AuthorityInfluence) = σ(authority|autonomy) ∘ ρ(compliance|resistance) ∘ λ(deference|critique) ∘ β(internalization|rejection) ∘ δγ(power|agency) ∘ μ(legitimacy|skepticism) + ε | :submitting"
