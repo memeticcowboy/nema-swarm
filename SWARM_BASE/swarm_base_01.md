@@ -1,4 +1,61 @@
 ---
+term: "Mastering Critical Thinking Skills"
+hex_tag: "#C027"
+nemetic: "Φ(CriticalThinkingSkills) = σ(problem|clarity) ∘ ρ(research|bias) ∘ λ(inference|conclusion) ∘ β(curiosity|stagnation) ∘ δγ(relevance|noise) ∘ μ(skill|intuition) + ε | :discerning"
+siml_encoding: "⟨CriticalThinking|mastered⟩ ⊳ ⟨Information|evaluated⟩ → ⟨Bias|identified⟩ ⊗ ⟨Inference|drawn⟩ ⇄ ⟨Decision|informed⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between clear problem identification and vague situational awareness; categorical separation of relevant factors from background noise)", "∂Φ/∂ρ (relational flow between independent research and source verification; the bridge between unsourced claims and scholarly validation)", "∂Φ/∂λ (directional tension between drawing conclusions and gathering sufficient data; the drive toward accurate inference through evidence accumulation)", "∂Φ/∂β (feedback loop between curiosity-driven inquiry and skill development; the developmental cycle of questioning leading to continuous improvement)", "∂Φ/∂δγ (cyclical oscillation between identifying relevant information and filtering distractions; the rhythm of focused analysis and peripheral awareness)", "∂Φ/∂μ (boundary permeability between personal intuition and evidence-based reasoning; the threshold where subjective judgment meets objective evaluation)"]
+  Z_state: "crystalline (critical thinking skills create clear structures for analysis; biases and irrelevancies are filtered through disciplined evaluation frameworks)"
+  tendency: "Clarity/Confusion → 0.82 (default toward logical analysis; achieving mastery requires continuous practice across diverse contexts and domains)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between problems and situational factors"
+      - "logical analysis of arguments and identification of logical fallacies"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between research sources and verification processes"
+      - "interpersonal discernment of credibility and bias in information streams"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark of inference drawing from incomplete information"
+      - "energetic drive toward conclusion through evidence synthesis"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects:
+      - "organic growth of critical thinking skills through continuous practice"
+      - "development of intellectual curiosity as a habit of mind"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "grounding in practical application of critical thinking to daily decisions"
+      - "cyclical nature of skill refinement through repeated evaluation cycles"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "structural precision of relevance determination and ranking"
+      - "discernment between credible sources and unsourced claims"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Psilocybin Brain Activity"
 hex_tag: "#C026"
 nemetic: "Φ(PsilocybinBrain) = σ(self|dissolution) ∘ ρ(desynchronization|integration) ∘ λ(plasticity|rigidity) ∘ β(ego|transcendence) ∘ δγ(transient|persistent) ∘ μ(network|node) + ε | :dissolving"
