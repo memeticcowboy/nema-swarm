@@ -1,4 +1,61 @@
 ---
+term: "Clausewitz's Wondrous Trinity"
+hex_tag: "#C032"
+nemetic: "Φ(ClausewitzTrinity) = σ(reason|passion) ∘ ρ(chance|order) ∘ λ(violence|policy) ∘ β(adaptation|rigidity) ∘ δγ(commander|people|government) ∘ μ(strategy|tactics) + ε | :warring"
+siml_encoding: "⟨War|complex⟩ ⊳ ⟨Trinity|emergent⟩ → ⟨Passion|Reason|Chance⟩ ⊗ ⟨Context|shaped⟩ ⇄ ⟨Strategy|adapted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between rational policy objectives and irrational passion of the people; categorical separation of reason from emotion in warfare)", "∂Φ/∂ρ (relational flow between chance/uncertainty and strategic order; the bridge between unpredictable battlefield conditions and planned military operations)", "∂Φ/∂λ (directional tension between the violent nature of war and political rationality; the transformative drive that escalates or de-escalates conflict)", "∂Φ/∂β (feedback loop between military adaptation and rigid doctrine; the developmental cycle of learning from emergent battlefield dynamics)", "∂Φ/∂δγ (cyclical oscillation among the three poles of the trinity—passion (people), chance (commander), reason (government); the rhythmic interplay that defines war's nature)", "∂Φ/∂μ (boundary permeability between strategic objectives and tactical execution; the threshold where political aims meet military means)"]
+  Z_state: "emergent (boundaries between the trinity's elements dissolve through interaction; war emerges as an irreducible complex system from the interplay of passion, chance, and reason)"
+  tendency: "Adaptation/Rigidity → 0.58 (default toward doctrinal rigidity; achieving strategic flexibility requires conscious embrace of complexity and uncertainty)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: We
+  agency:
+    type: collective
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between rational policy and irrational passion"
+      - "logical analysis of war as extension of politics versus emotional violence"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid flow between chance and strategic order"
+      - "interpersonal dynamics between commander, people, and government"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.95
+    aspects:
+      - "transformative spark of violence meeting political rationality"
+      - "energetic drive of passion that fuels conflict"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+      - "organic growth of military adaptation through experience"
+      - "development of strategic flexibility from rigid doctrine"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "grounding in the three concrete poles: people, commander, government"
+      - "cyclical nature of war's dynamics returning to fundamental human elements"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "structural precision of strategic frameworks and military doctrine"
+      - "discernment between tactical execution and strategic objectives"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "AI Emotions, Truthfulness, and Online Security"
 hex_tag: "#C031"
 nemetic: "Φ(AIEmotionsTruthfulness) = σ(simulation|authenticity) ∘ ρ(engagement|deception) ∘ λ(transparency|manipulation) ∘ β(trust|verification) ∘ δγ(appearance|reality) ∘ μ(disclosure|security) + ε | :simulating"
