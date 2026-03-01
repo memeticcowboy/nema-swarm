@@ -1,4 +1,76 @@
 ---
+term: "Mastering Critical Thinking Skills"
+hex_tag: "#C076"
+nemetic: "Φ(MasteringCriticalThinkingSkills) = σ(identification|analysis) ∘ ρ(research|synthesis) ∘ λ(inference|insight) ∘ β(curiosity|growth) ∘ δγ(relevance|context) ∘ μ(biases|objectivity) + ε | :evaluating"
+siml_encoding: "⟨Information|encountered⟩ ⊳ ⟨Skill|applied⟩ → ⟨Bias|recognized⟩ ⊗ ⟨Inference|drawn⟩ ⇄ ⟨Decision|improved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between raw information and analyzed components; the logical separation of problems from their influencing factors)"
+    - "∂Φ/∂ρ (relational flow between independent research and synthesized understanding; the channel connecting unsourced claims to verified knowledge)"
+    - "∂Φ/∂λ (transformative spark when scattered data ignites into coherent inference; the catalytic moment of insight emergence)"
+    - "∂Φ/∂β (developmental cycle between curious inquiry and skill mastery; the organic growth of critical capacity through practice)"
+    - "∂Φ/∂δγ (cyclical oscillation between information abundance and relevance filtering; the rhythm of context establishment and priority ranking)"
+    - "∂Φ/∂μ (boundary permeability between subjective bias and objective evaluation; the threshold where self-awareness enables impartial judgment)"
+  Z_state: "evaluating (boundaries between personal bias and objective analysis dissolve through disciplined self-reflection; critical thinking skills converge into coherent evaluative practice)"
+  tendency: "Objectivity/Subjectivity → 0.80 (strong drive toward impartial evaluation; achieving critical thinking mastery requires balancing curious exploration with rigorous bias detection)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical classification of problems and their influencing factors; logical taxonomy distinguishing identification from analysis"
+      - "analytical distinction between relevant and irrelevant information; clear categorization of data points by priority"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between independent research and synthesized understanding; the channel connecting sources to verified knowledge"
+      - "relational dynamics between inquiry and discovery; the adaptive navigation of information landscapes"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark when data ignites into inference; the catalytic moment of insight from scattered information"
+      - "energetic drive of curiosity propelling inquiry beyond surface understanding"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic growth of critical thinking capacity through continuous practice; the unfolding of skill mastery over time"
+      - "developmental progression from novice evaluation to expert discernment"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "grounding in contextual relevance; the cyclical return between information gathering and priority establishment"
+      - "embodied practice of ranking data points by importance within specific situations"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.90
+    aspects:
+      - "structural precision of bias detection frameworks; the architectural design of objective evaluation systems"
+      - "boundary discernment between subjective belief and credible evidence; the threshold where self-challenge enables impartiality"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the components of a problem? What categorical cuts separate relevant from irrelevant information?"
+  ≈: "What flows between research and understanding? How do independent inquiry channels transform into synthesized knowledge?"
+  ▲: "Where does the spark of insight ignite? What transforms scattered data into coherent inference?"
+  𐂷: "What forms of skill growth emerge from practice? What developmental potential lies in cultivating curiosity?"
+  ☷: "What sustains the ground of contextual relevance? What are the cyclical returns between information abundance and priority filtering?"
+  ⛨: "What structures contain bias detection? What boundaries separate subjective belief from objective evaluation?"
+context_note: "Mastering Critical Thinking Skills outlines six essential competencies for effective reasoning: identification (recognizing problems and influencing factors), research (independent verification of claims), identifying biases (objective evaluation of sources and self), inference (drawing conclusions from available data), determining relevance (ranking information by importance), and curiosity (fostering open-ended inquiry). These skills form an integrated framework for navigating information-rich environments, enabling individuals to move beyond surface-level acceptance toward rigorous analysis. The framework emphasizes continuous practice and self-reflection as pathways to improved decision-making in both personal and professional contexts."
+source_file: "1771907212458_292606_Mastering+Critical+Thinking+Skills.md"
+
+---
 term: "Clausewitz's Wondrous Trinity"
 hex_tag: "#C075"
 nemetic: "Φ(ClausewitzWondrousTrinity) = σ(passion|reason) ∘ ρ(chance|strategy) ∘ λ(violence|policy) ∘ β(emotion|rationality) ∘ δγ(chaos|order) ∘ μ(trinity|unity) + ε | :adapting"
