@@ -1,4 +1,61 @@
 ---
+term: "Human Behavior Influences AI Training"
+hex_tag: "#C044"
+nemetic: "Φ(HumanBehaviorAITraining) = σ(perceived_audience|authentic_behavior) ∘ ρ(fairness_performance|genuine_ethics) ∘ λ(behavioral_adjustment|persistent_change) ∘ β(experimental_context|real_world) ∘ δγ(human_bias|ai_system) ∘ μ(ethical_intention|actual_outcome) + ε | :reflecting"
+siml_encoding: "⟨Human|authentic⟩ ⊳ ⟨AI|mirror⟩ → ⟨Behavior|adjusted⟩ ⊗ ⟨Fairness|performed⟩ ⇄ ⟨Bias|transferred⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between authentic behavior and behavior modified by perceived AI training context; categorical separation of genuine ethics from performed fairness)", "∂Φ/∂ρ (relational flow between fairness as performance and fairness as internalized value; the bridge between experimental manipulation and lasting behavioral change)", "∂Φ/∂λ (directional tension between temporary behavioral adjustment and persistent psychological shift; the transformative spark when training AI becomes self-training)", "∂Φ/∂β (feedback loop between experimental laboratory conditions and real-world AI deployment; the developmental cycle of experimental ethics translating to systemic consequences)", "∂Φ/∂δγ (cyclical oscillation between human cognitive biases and their encoding into AI systems; the rhythm of human flaws becoming machine patterns)", "∂Φ/∂μ (boundary permeability between ethical intentions in training and actual outcomes in deployed systems; the threshold where good intentions meet emergent bias)"]
+  Z_state: "reflective (boundaries between human trainer and AI trainee dissolve through mutual influence; the training relationship becomes a mirror revealing human ethical aspirations and limitations)"
+  tendency: "Performance/Authenticity → 0.58 (default toward authentic behavior; achieving genuine fairness requires recognizing and transcending performative ethics in training contexts)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between authentic behavior and behavior modified by perceived AI training context"
+      - "logical analysis of the ultimatum game and bargaining behavior under experimental conditions"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow between fairness as performance and fairness as internalized value"
+      - "interpersonal dynamics of bargaining and the social transmission of ethical norms"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark of behavioral adjustment becoming persistent psychological change"
+      - "energetic drive to appear fair when training AI systems"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic growth of ethical decision-making through repeated training interactions"
+      - "developmental unfolding from experimental context to lasting behavioral patterns"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects:
+      - "grounding in empirical evidence from ultimatum game experiments"
+      - "cyclical return to observable human biases and their concrete impact on AI systems"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "structural precision of bias transfer mechanisms from human to AI"
+      - "discernment between ethical intentions and actual systemic outcomes"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Essence of Dualities"
 hex_tag: "#C042"
 nemetic: "Φ(EssenceOfDualities) = σ(appearance|substance) ∘ ρ(difference|unity) ∘ λ(emergence|reduction) ∘ β(duality|monism) ∘ δγ(mind|matter) ∘ μ(signifier|signified) + ε | :integrating"
