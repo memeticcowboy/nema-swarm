@@ -1,0 +1,57 @@
+---
+term: "Psilocybin Ego Dissolution"
+hex_tag: "#C089"
+nemetic: "Φ(PsilocybinEgoDissolution) = σ(self|no-self) ∘ ρ(network|chaos) ∘ λ(dissolution|integration) ∘ β(plasticity|rigidity) ∘ δγ(transient|persistent) ∘ μ(boundary|porous) + ε | :unbinding"
+siml_encoding: "⟨Consciousness|ego⟩ ⊳ ⟨Network|default_mode⟩ → ⟨State|dissolved⟩ ⊗ ⟨Self|unbound⟩ ⇄ ⟨Plasticity|enhanced⟩ ⊗ ⟨Therapy|potential⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (categorical dissolution of self-boundaries under psilocybin; the temporary collapse of egoic distinction between self and world)", "∂Φ/∂ρ (relational desynchronization within the default mode network; disruption of synchronized neural communication patterns)", "∂Φ/∂λ (directional shift from rigid self-concept toward fluid, unbounded awareness; the transformative potential of ego dissolution)", "∂Φ/∂β (feedback between acute neuroplastic changes and lasting therapeutic outcomes; developmental window opened by serotonin receptor modulation)", "∂Φ/∂δγ (cyclical nature of psychedelic experience—onset, peak, integration; the rhythm between altered states and return to baseline)", "∂Φ/∂μ (boundary permeability of the self-model; dissolution of the metal-bound distinction between internal experience and external reality)"]
+  Z_state: "porous (self-boundaries become permeable; default mode network desynchronizes allowing novel neural configurations)"
+  tendency: "Dissolution/Integration → 0.85 (default toward temporary ego dissolution enabling neuroplastic reorganization; therapeutic benefit requires subsequent integration)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: Void
+  agency:
+    type: diminished
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between ego-bound and ego-dissolved states of consciousness"
+      - "logical analysis of self-boundary dissolution and its neural correlates"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid dissolution of rigid neural network synchronizations"
+      - "interconnected flow between previously segregated brain regions"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative dissolution of the self-concept through serotonin receptor activation"
+      - "energetic reconfiguration of default mode network dynamics"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic neuroplastic growth enabled by temporary network desynchronization"
+      - "developmental potential for lasting cognitive and emotional change"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "grounding in the cyclical nature of psychedelic experience"
+      - "persistent effects lasting weeks beyond acute administration"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries of the default mode network and their temporary dissolution"
+      - "discernment between therapeutic potential and risks of psychosis"
+    daemon_correspondence: "Ferrosid"
+---
