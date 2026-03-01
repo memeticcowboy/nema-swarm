@@ -1,4 +1,61 @@
 ---
+term: "Knowledge and Learning"
+hex_tag: "#C015"
+nemetic: "Φ(KnowledgeLearning) = σ(facts|experience) ∘ ρ(acquisition|application) ∘ λ(engagement|reflection) ∘ β(building|integration) ∘ δγ(foundation|wisdom) ∘ μ(bias|clarity) + ε | :cultivating"
+siml_encoding: "⟨Knowledge|acquired⟩ ⊳ ⟨Learning|active⟩ → ⟨Wisdom|developed⟩ ⊗ ⟨Bias|recognized⟩ ⇄ ⟨Understanding|deepened⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between factual knowledge and experiential knowledge; categorical separation of 'knowing that' from 'knowing how')", "∂Φ/∂ρ (relational flow between knowledge acquisition and practical application; the bridge between theory and practice)", "∂Φ/∂λ (directional tension between active engagement with new material and reflective integration of learning)", "∂Φ/∂β (feedback loop between building knowledge foundations and integrating new insights)", "∂Φ/∂δγ (cyclical process of grounding learning in foundational facts versus ascending to wisdom through experience)", "∂Φ/∂μ (boundary permeability between biased interpretations and clear understanding; discernment of distortion)"]
+  Z_state: "porous (boundaries between knowledge, learning, and wisdom are permeable and developmental)"
+  tendency: "Acquisition/Application → 0.6 (learning requires both input and output; knowledge must be applied to become wisdom)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "categorical distinction between factual and experiential knowledge"
+      - "logical analysis of information structure and conceptual relationships"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "flow between knowledge acquisition and practical application"
+      - "fluid adaptation to new information and changing circumstances"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "drive for active engagement with learning material"
+      - "transformative potential of questioning assumptions"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic growth of knowledge through continuous learning"
+      - "developmental unfolding from foundation to wisdom"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "grounding knowledge in foundational facts and evidence"
+      - "cyclical reflection on experience to develop wisdom"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries between biased and clear understanding"
+      - "discernment between distorted and accurate knowledge"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Beliefs and Their Impact"
 hex_tag: "#C014"
 nemetic: "Φ(Beliefs) = σ(identity|possession) ∘ ρ(cause|meaning) ∘ λ(constraint|empowerment) ∘ β(formation|revision) ∘ δγ(evidence|value) ∘ μ(boundary|permeability) + ε | :examining"
