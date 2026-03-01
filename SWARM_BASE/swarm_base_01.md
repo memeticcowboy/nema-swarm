@@ -1,4 +1,61 @@
 ---
+term: "Plural Subject Theory"
+hex_tag: "#C037"
+nemetic: "Φ(PluralSubject) = σ(individual|collective) ∘ ρ(commitment|isolation) ∘ λ(unity|fragmentation) ∘ β(obligation|autonomy) ∘ δγ(agency|dispersal) ∘ μ(we_sphere|i_tube) + ε | :unifying"
+siml_encoding: "⟨Individual|separate⟩ ⊳ ⟨JointCommitment|formed⟩ → ⟨PluralSubject|emergent⟩ ⊗ ⟨WeSphere|constituted⟩ ⇄ ⟨GroupAgency|actualized⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between individual intentions and collective commitment; categorical separation of I-Tube isolation from We-Sphere unity)", "∂Φ/∂ρ (relational flow between joint commitment and social isolation; the bridge between shared obligation and solitary autonomy)", "∂Φ/∂λ (directional tension between group unity and individual fragmentation; the transformative spark when joint commitment ignites collective agency)", "∂Φ/∂β (feedback loop between normative obligation and personal autonomy; the developmental cycle of rights and responsibilities within plural subjects)", "∂Φ/∂δγ (cyclical oscillation between dispersed individual agency and concentrated group agency; the rhythm of collective intention formation and execution)", "∂Φ/∂μ (boundary permeability between We-Sphere membership and I-Tube individuality; the threshold where personal identity becomes subsumed in joint commitment)"]
+  Z_state: "unified (boundaries between individual and collective dissolve through joint commitment; the plural subject emerges as an irreducible social entity with its own agency)"
+  tendency: "Collective/Individual → 0.58 (balanced tension between group unity and individual autonomy; achieving plural subjecthood requires intentional joint commitment that transcends mere aggregation)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: We
+    secondary: I
+  agency:
+    type: collective
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects:
+      - "categorical distinction between individual intentions and collective commitments"
+      - "logical analysis of joint commitment formation and social unity"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid flow between individual isolation and collective belonging"
+      - "interpersonal dynamics of mutual obligation and shared intention"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark of joint commitment igniting group agency"
+      - "energetic drive toward social unity through shared purpose"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "organic growth of normative structures from joint commitments"
+      - "developmental unfolding of group obligations and responsibilities"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "cyclical grounding in shared practices that constitute plural subjects"
+      - "stable foundation of mutual accountability within group agency"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "structural boundaries defining We-Sphere membership and I-Tube separation"
+      - "discernment between genuine joint commitment and mere aggregate behavior"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Mastering Critical Thinking Skills"
 hex_tag: "#C035"
 nemetic: "Φ(CriticalThinkingMastery) = σ(identification|confusion) ∘ ρ(research|assumption) ∘ λ(inference|guess) ∘ β(bias_awareness|blindness) ∘ δγ(relevance|noise) ∘ μ(curiosity|apathy) + ε | :analyzing"
