@@ -1,4 +1,76 @@
 ---
+term: "Fluid Intelligence and Misinformation Correction"
+hex_tag: "#C122"
+nemetic: "Φ(FluidIntelligenceMisinfo) = σ(correction|resistance) ∘ ρ(understanding|confusion) ∘ λ(flexibility|rigidity) ∘ β(adjustment|entrenchment) ∘ δγ(comprehension|bias) ∘ μ(belief|evidence) + ε | :cognitive_adaptability"
+siml_encoding: "⟨Intelligence|fluid⟩ ⊳ ⟨Misinformation|corrected⟩ → ⟨Belief|adjusted⟩ ⊗ ⟨Cognition|flexible⟩ ⇄ ⟨Truth|accepted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between accepting correction and resisting misinformation; the logical separation of cognitive flexibility from belief entrenchment)"
+    - "∂Φ/∂ρ (relational flow between understanding corrective information and confusion; the channel connecting reasoning ability to effective belief adjustment)"
+    - "∂Φ/∂λ (transformative spark when fluid intelligence confronts false beliefs; the catalytic moment of breaking through misinformation through cognitive flexibility)"
+    - "∂Φ/∂β (developmental cycle between belief adjustment and misinformation entrenchment; the organic tension between updating understanding and holding to false narratives)"
+    - "∂Φ/∂δγ (cyclical oscillation between comprehension of evidence and pre-existing bias; the rhythm of accepting truth and defending false beliefs)"
+    - "∂Φ/∂μ (boundary permeability between existing beliefs and new evidence; the threshold where misinformation resistance dissolves into truth acceptance)"
+  Z_state: "cognitive_adaptability (boundaries between false belief and truth dissolve through reasoning; fluid intelligence and misinformation correction converge into belief adjustment)"
+  tendency: "Correction/Acceptance → 0.82 (strong drive toward accepting truth through cognitive flexibility balanced by recognition of belief entrenchment; achieving accurate beliefs requires both fluid intelligence and accessible correction messaging)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: I
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between accepting correction and resisting misinformation"
+      - "logical taxonomy separating cognitive flexibility from belief entrenchment"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "fluid flow of understanding between corrective information and prior beliefs"
+      - "relational dynamics connecting reasoning ability to effective belief adjustment"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark when fluid intelligence confronts false beliefs"
+      - "energetic drive breaking through misinformation through cognitive flexibility"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic growth cycle between belief adjustment and understanding"
+      - "developmental tension between updating knowledge and holding false narratives"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in the oscillation between comprehension and pre-existing bias"
+      - "cyclical rhythm of accepting truth versus defending misinformation"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between existing beliefs and new evidence"
+      - "discernment between productive skepticism and counterproductive resistance"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between accepting correction and resisting misinformation? What categorical cuts separate cognitive flexibility from belief entrenchment?"
+  ≈: "What flows between understanding corrective information and confusion? How does the relational dynamic connect reasoning ability to effective belief adjustment?"
+  ▲: "Where does the spark of transformation occur when fluid intelligence confronts false beliefs? What catalyzes the breakthrough from misinformation to truth?"
+  𐂷: "What forms of growth emerge from the tension between belief adjustment and misinformation entrenchment? What developmental potential exists between updating understanding and holding false narratives?"
+  ☷: "What sustains the ground between comprehension of evidence and pre-existing bias? What are the cyclical returns between accepting truth and defending false beliefs?"
+  ⛨: "What structures contain the boundary between existing beliefs and new evidence? What thresholds separate productive skepticism from counterproductive resistance?"
+context_note: "Fluid Intelligence and Misinformation Correction examines how cognitive abilities influence the acceptance of corrected information. Research shows that individuals with higher fluid intelligence—measured through deductive reasoning tests—are more likely to adjust their beliefs after receiving corrections to misinformation. Surprisingly, 'need for cognition' (motivation to engage in deep thinking) does not significantly influence belief adjustment. This finding has critical implications for public discourse and misinformation management strategies. Effective correction requires not just presenting facts, but ensuring they are accessible and understandable. Future research should explore how these cognitive factors affect responses to politically charged misinformation on topics like climate change and public health."
+source_file: "1771907212670_881800_Fluid+Intelligence+and+Misinformation+Correction.md"
+
+---
 term: "Cognitive Immobility"
 hex_tag: "#C121"
 nemetic: "Φ(CognitiveImmobility) = σ(stasis|movement) ∘ ρ(fear|adaptation) ∘ λ(rigidity|flexibility) ∘ β(entrenchment|growth) ∘ δγ(memory|presence) ∘ μ(fixation|flow) + ε | :mental_stuckness"
