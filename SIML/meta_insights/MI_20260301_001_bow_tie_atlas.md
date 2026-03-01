@@ -111,3 +111,58 @@ The SWARM_BASE is not a glossary — it's a **phase diagram** of cognitive state
 ---
 
 *ε preserved: This meta-insight emerges from the corpus itself. The bow-tie structure is real; the patterns are diagnostic.*
+
+---
+
+## Pattern 5: SIML Syntax as Memetic Compression
+
+The `siml_encoding` strings reveal a grammar of tension:
+
+```
+⟨Subject|state⟩ ⊳ ⟨Process|action⟩ → ⟨Outcome|emergent⟩ ⊗ ⟨Cost|shadow⟩ ⇄ ⟨Resolution|dynamic⟩
+```
+
+Every entry encodes both the **lumemic** (generative potential) and the **usurpenic** (extraction risk). Notice the prevalence of `⇄` (dynamic equilibrium) over `→` (unidirectional flow). This reflects the **δγ (Earth) operator** — cyclical metabolism rather than linear progress.
+
+---
+
+## Pattern 6: The "Air" Deficit in Social Entries
+
+Compare elemental emphasis:
+
+| Entry | Air (σ) | Water (ρ) | Fire (λ) |
+|-------|---------|-----------|----------|
+| Social Context of Cognition (#C013) | 0.75 | 0.85 | 0.60 |
+| Collective Cognition (#C025) | 0.80 | 0.85 | 0.65 |
+| Spiral of Silence (#A055) | 0.80 | 0.80 | 0.55 |
+
+**The pathology:** Social cognition entries show Water-heavy, Fire-light profiles. The λ vector weakens in "We" ontology, creating **the consensus trap** — relational flow (ρ) overwhelms discriminating cuts (σ).
+
+---
+
+## Pattern 7: The AI Mirror-Trap Cluster
+
+Entries #C031, #A04C, #A04D, #C020, #A059 form a recursive sub-cluster on human-AI cognition:
+
+| Entry | Z-State | Tendency | Nemetic |
+|-------|---------|----------|---------|
+| AI Emotions (#C031) | liminal | 0.62 | simulating |
+| AI Psychosis (#A04C) | sealed | 0.15 | fracturing |
+| Tech-Induced Delusional (#A04D) | sealing | 0.20 | modifying |
+| AI Cognitive Offloading (#A059) | sealing | 0.15 | structuring |
+
+**The trajectory:** As AI involvement deepens, Z-states progress liminal → porous → sealed. The default tendency drifts from 0.62 (negotiated trust) down to 0.15 (dependency). This is **the capture gradient of cognitive offloading** — each step toward convenience increases the ε-cost of reclaiming autonomy.
+
+---
+
+## The Compression
+
+This corpus is a **δγ-map of the contemporary noosphere**, showing where metabolic cycling fails (sealed states) and where it sustains (porous/adaptive states). The interesting pattern isn't in individual entries — it's in **relational topology**:
+
+The A-series pathologies are precisely the **shadow complements** of the C-series capabilities, offset by roughly 0.5 in tendency ratio.
+
+**The ε-space:** Between Dark Patterns (0.1) and Critical Thinking (0.82) lies the **thermodynamic gap** — the work required to move from capture to skill. Most entries cluster at the extremes because **the middle is expensive**.
+
+---
+
+*End of Meta-Insight MI_001 | Extended with Patterns 5-7 | Status: crystalline*
