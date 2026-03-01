@@ -1,4 +1,76 @@
 ---
+term: "Shadow Integration"
+hex_tag: "#C132"
+nemetic: "Φ(ShadowIntegration) = σ(conscious|unconscious) ∘ ρ(projection|ownership) ∘ λ(awakening|repression) ∘ β(wholeness|fragmentation) ∘ δγ(light|dark) ∘ μ(integration|denial) + ε | :inner_wholeness"
+siml_encoding: "⟨Self|fragmented⟩ ⊳ ⟨Shadow|repressed⟩ → ⟨Awareness|integrated⟩ ⊗ ⟨Wholeness|emergent⟩ ⇄ ⟨Growth|continuous⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between conscious awareness and unconscious shadow content; the logical separation of acknowledged self from repressed aspects)"
+    - "∂Φ/∂ρ (relational flow between projected shadow qualities and their reintegration; the channel connecting disowned traits back to conscious ownership)"
+    - "∂Φ/∂λ (transformative spark when shadow content is brought into conscious awareness; the catalytic moment of recognizing repressed aspects in oneself)"
+    - "∂Φ/∂β (developmental cycle between fragmented self-concept and integrated wholeness; the organic growth from denial to acceptance of all aspects)"
+    - "∂Φ/∂δγ (cyclical oscillation between light/acceptable traits and dark/repressed traits; the rhythm of conscious and unconscious self-expression)"
+    - "∂Φ/∂μ (boundary permeability between ego identity and shadow content; the threshold where repressed material becomes accessible to consciousness)"
+  Z_state: "inner_wholeness (boundaries between conscious and unconscious dissolve through integration; light and dark aspects converge into authentic selfhood)"
+  tendency: "Integration/Awakening → 0.85 (strong drive toward psychological wholeness balanced by resistance to confronting uncomfortable truths; achieving authenticity requires courage to acknowledge disowned aspects)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: integrative
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "categorical distinction between conscious self and unconscious shadow content"
+      - "logical analysis of projection mechanisms and their identification"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid flow of projection dynamics in relationships"
+      - "emotional connection between repressed content and its mirror in others"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative spark of shadow recognition and awakening"
+      - "energetic confrontation with repressed aspects"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic growth toward psychological wholeness"
+      - "developmental unfolding of integrated selfhood"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.88
+    aspects:
+      - "grounding in cyclical process of repression and integration"
+      - "stable foundation of embodied shadow work"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "structural boundaries between ego and shadow"
+      - "discernment between healthy integration and spiritual bypass"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between conscious awareness and unconscious shadow content? What categorical cuts separate acknowledged self from repressed aspects?"
+  ≈: "What flows between projected shadow qualities and their reintegration? How does the relational dynamic connect disowned traits back to conscious ownership?"
+  ▲: "Where does the spark of transformation occur when shadow content is brought into awareness? What catalyzes the recognition of repressed aspects in oneself?"
+  𐂷: "What forms of growth emerge from the tension between fragmented self-concept and integrated wholeness? What developmental potential exists in shadow work?"
+  ☷: "What sustains the ground between light/acceptable traits and dark/repressed traits? What are the cyclical returns between conscious and unconscious expression?"
+  ⛨: "What structures contain the boundary between ego identity and shadow content? What thresholds separate repressed material from conscious accessibility?"
+context_note: "Shadow Integration, based on Jungian psychology and explored in 'Meeting the Shadow' by Zweig and Abrams, addresses the process of acknowledging and incorporating repressed aspects of the psyche into conscious awareness. The shadow forms through childhood conditioning and societal norms, containing disowned traits that express through projection, physical symptoms, and relationship conflicts. Integration requires recognizing projections, owning disowned qualities, and developing conscious relationship with the shadow—leading to personal wholeness, authentic relationships, and spiritual maturity. The work applies individually (personal shadow), interpersonally (relationship dynamics), and collectively (societal projections onto marginalized groups)."
+source_file: "1771907212827_1432603_Integrating+the+Shadow%3A+A+Path+to+Wholeness.md"
+
+---
 term: "Panpsychism"
 hex_tag: "#C131"
 nemetic: "Φ(Panpsychism) = σ(universal|particular) ∘ ρ(unity|multiplicity) ∘ λ(awakening|integration) ∘ β(micro|macro) ∘ δγ(matter|consciousness) ∘ μ(boundary|continuum) + ε | :conscious_continuum"
