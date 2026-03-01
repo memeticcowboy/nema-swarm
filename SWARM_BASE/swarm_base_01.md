@@ -1,4 +1,61 @@
 ---
+term: "Meditation Enhances BCI Control"
+hex_tag: "#C022"
+nemetic: "Φ(MeditationBCI) = σ(attention|distraction) ∘ ρ(awareness|automation) ∘ λ(control|chaos) ∘ β(neuroplasticity|fixity) ∘ δγ(practice|performance) ∘ μ(mind|machine) + ε | :harmonizing"
+siml_encoding: "⟨Meditation|mindful⟩ ⊳ ⟨BCI|controlled⟩ → ⟨Alpha|modulated⟩ ⊗ ⟨Interface|seamless⟩ ⇄ ⟨Cognition|enhanced⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between focused attention and mental distraction; categorical separation of mindful awareness from scattered cognition)", "∂Φ/∂ρ (relational flow between internal meditative states and external BCI control; the bridge between subjective experience and objective neural signals)", "∂Φ/∂λ (directional tension between achieving BCI control and neural chaos; the drive toward ordered brain states for interface mastery)", "∂Φ/∂β (feedback loop between meditation practice and neuroplastic changes; the developmental cycle of training and brain adaptation)", "∂Φ/∂δγ (cyclical process of repeated practice leading to performance improvement; the rhythm of training and skill consolidation)", "∂Φ/∂μ (boundary permeability between mental intention and machine response; the threshold where thought becomes action through technology)"]
+  Z_state: "permeable (boundaries between mental states and machine control become increasingly permeable through meditative training)"
+  tendency: "Control/Chaos → 0.70 (default toward enhanced control through meditation; achieving BCI mastery requires sustained mindfulness practice)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "categorical distinction between focused attention and distraction"
+      - "logical analysis of alpha rhythm patterns for BCI control"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "flow between meditative awareness and neural signal modulation"
+      - "fluid transition from untrained to trained brain states"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "drive to achieve mastery over brain-computer interfaces"
+      - "energetic transformation of mental intention into digital action"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic neuroplastic development through eight-week MBAT training"
+      - "growth of alpha rhythm control through sustained practice"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "grounding in embodied mindfulness practices"
+      - "cyclical reinforcement of daily meditation and skill consolidation"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural precision of EEG signal boundaries"
+      - "discernment between effective and ineffective neural modulation strategies"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Subconscious Games in Decision-Making"
 hex_tag: "#C021"
 nemetic: "Φ(SubconsciousGames) = σ(hidden|explicit) ∘ ρ(unawareness|awareness) ∘ λ(influence|autonomy) ∘ β(pattern|breakthrough) ∘ δγ(routine|reflection) ∘ μ(automatic|conscious) + ε | :revealing"
