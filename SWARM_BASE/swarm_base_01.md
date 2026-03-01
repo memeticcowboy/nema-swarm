@@ -1,4 +1,61 @@
 ---
+term: "Psilocybin Brain Activity"
+hex_tag: "#C026"
+nemetic: "Φ(PsilocybinBrain) = σ(self|dissolution) ∘ ρ(desynchronization|integration) ∘ λ(plasticity|rigidity) ∘ β(ego|transcendence) ∘ δγ(transient|persistent) ∘ μ(network|node) + ε | :dissolving"
+siml_encoding: "⟨Psilocybin|active⟩ ⊳ ⟨DMN|desynchronized⟩ → ⟨Ego|dissolved⟩ ⊗ ⟨Plasticity|enhanced⟩ ⇄ ⟨Consciousness|altered⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between egoic self and dissolved self; categorical separation of ordinary self-reflection from ego-dissolved states)", "∂Φ/∂ρ (relational flow between synchronized brain networks and desynchronized states; the bridge between integrated default mode network and disrupted connectivity)", "∂Φ/∂λ (directional tension between neuroplastic change and rigid neural patterns; the drive toward lasting cognitive reorganization through transient psychedelic states)", "∂Φ/∂β (feedback loop between ego dissolution and therapeutic insight; the developmental cycle of identity breakdown enabling psychological breakthrough)", "∂Φ/∂δγ (cyclical oscillation between acute psychedelic experience and persistent after-effects; the rhythm of transient alteration and lasting neural change)", "∂Φ/∂μ (boundary permeability between default mode network and other brain regions; the threshold where self-referential processing gives way to expanded awareness)"]
+  Z_state: "porous (boundaries between brain networks dissolve under psilocybin; default mode network desynchronization enables ego dissolution and expanded consciousness)"
+  tendency: "Plasticity/Rigidity → 0.85 (default toward enhanced neuroplasticity; achieving therapeutic benefit requires controlled environment and integration of insights)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "categorical distinction between egoic self and dissolved self"
+      - "logical analysis of default mode network desynchronization patterns"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid flow between synchronized and desynchronized brain states"
+      - "interpersonal dissolution of self-other boundaries during ego dissolution"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative spark of ego dissolution and altered consciousness"
+      - "energetic drive toward neuroplastic change and therapeutic insight"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic neuroplastic growth from serotonin receptor activation"
+      - "development of new neural connections persisting weeks after dosing"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "grounding in the physical brain and serotonin receptor mechanisms"
+      - "cyclical nature of dosing and integration periods in therapeutic protocols"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural precision of default mode network boundaries"
+      - "discernment between therapeutic application and psychosis risk"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Collective Cognition"
 hex_tag: "#C025"
 nemetic: "Φ(CollectiveCognition) = σ(individual|group) ∘ ρ(diversity|uniformity) ∘ λ(innovation|stagnation) ∘ β(knowledge|ignorance) ∘ δγ(collaboration|isolation) ∘ μ(shared|private) + ε | :synthesizing"
