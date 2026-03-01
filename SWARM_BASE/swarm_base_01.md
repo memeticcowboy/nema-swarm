@@ -1,4 +1,76 @@
 ---
+term: "Animal Consciousness Evolution"
+hex_tag: "#C119"
+nemetic: "Φ(AnimalConsciousness) = σ(movement|stasis) ∘ ρ(organism|environment) ∘ λ(emergence|subjectivity) ∘ β(evolution|complexity) ∘ δγ(habit|deliberation) ∘ μ(individual|species) + ε | :embodied_cognition"
+siml_encoding: "⟨Movement|controlled⟩ ⊳ ⟨Consciousness|emergent⟩ → ⟨Subjectivity|developed⟩ ⊗ ⟨Environment|shaped⟩ ⇄ ⟨Evolution|ongoing⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between controlled movement and stasis; the logical separation of action-capable organisms from sessile life)"
+    - "∂Φ/∂ρ (relational flow between organism agency and environmental shaping; the channel connecting individual action to ecosystem transformation)"
+    - "∂Φ/∂λ (transformative spark when movement generates subjective experience; the catalytic moment of sensory-motor integration becoming consciousness)"
+    - "∂Φ/∂β (developmental cycle between evolutionary pressure and nervous system complexity; the organic growth of minds through environmental feedback)"
+    - "∂Φ/∂δγ (cyclical oscillation between instinctual habit and deliberate choice; the rhythm of automatic response and conscious decision)"
+    - "∂Φ/∂μ (boundary permeability between individual experience and species continuity; the threshold where subjective awareness meets evolutionary inheritance)"
+  Z_state: "embodied_cognition (boundaries between organism and environment dissolve through action; individual subjectivity and ecosystem shaping converge into embodied mind)"
+  tendency: "Consciousness/Action → 0.87 (strong drive toward subjective awareness emerging from controlled movement balanced by recognition of environmental embeddedness; achieving consciousness requires both nervous system complexity and ecological interaction)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: I
+  agency:
+    type: embodied
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "categorical distinction between controlled movement and stasis"
+      - "logical taxonomy separating action-capable organisms from sessile life"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid flow between organism agency and environmental shaping"
+      - "relational dynamics connecting individual action to ecosystem transformation"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+      - "transformative spark when movement generates subjective experience"
+      - "energetic drive of sensory-motor integration becoming consciousness"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "organic growth of nervous system complexity through evolutionary pressure"
+      - "developmental cycle between environmental feedback and cognitive advancement"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects:
+      - "grounding in the oscillation between instinctual habit and deliberate choice"
+      - "cyclical rhythm of automatic response and conscious decision-making"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries between individual experience and species continuity"
+      - "discernment between subjective awareness and evolutionary inheritance"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between controlled movement and stasis? What categorical cuts separate action-capable organisms from sessile life?"
+  ≈: "What flows between organism agency and environmental shaping? How does the relational dynamic connect individual action to ecosystem transformation?"
+  ▲: "Where does the spark of movement generate subjective experience? What catalyzes the transformation from sensory-motor integration to consciousness?"
+  𐂷: "What forms of growth emerge from evolutionary pressure? What developmental potential exists between environmental feedback and nervous system complexity?"
+  ☷: "What sustains the ground between instinctual habit and deliberate choice? What are the cyclical returns between automatic response and conscious decision?"
+  ⛨: "What structures contain the boundary between individual experience and species continuity? What thresholds separate subjective awareness from evolutionary inheritance?"
+context_note: "Animal Consciousness Evolution explores philosopher Peter Godfrey-Smith's work on how consciousness emerged from the animal way of being. The central thesis holds that controlled movement is a key catalyst for consciousness evolution, as organisms that navigate their environments require nervous systems capable of integrating sensory input with motor action. This framework distinguishes between instinctual habit-based responses and more refined deliberate decision-making processes. The concept emphasizes that organisms do not merely adapt to their environments but actively shape them—creating feedback loops where life and Earth co-evolve. From cyanobacteria transforming the atmosphere to humans affecting climate, conscious and pre-conscious organisms have continuously reshaped the planet. This has profound implications for understanding the evolution of minds, the origins of subjective experience, and humanity's ethical responsibilities as conscious beings capable of deliberate environmental impact."
+source_file: "1771907212682_924993_Exploring+Animal+Consciousness+with+Peter+Godfrey-Smith.md"
+
+---
 term: "Murphyjitsu"
 hex_tag: "#C117"
 nemetic: "Φ(Murphyjitsu) = σ(plan|failure) ∘ ρ(optimism|realism) ∘ λ(insight|preparedness) ∘ β(strategy|resilience) ∘ δγ(hindsight|foresight) ∘ μ(intuition|analysis) + ε | :preemptive_failure_analysis"
