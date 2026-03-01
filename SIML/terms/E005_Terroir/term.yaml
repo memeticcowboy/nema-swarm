@@ -1,0 +1,83 @@
+hex_tag: '#E005'
+term: Terroir (Soil as Cultural Memory)
+nemetic: Φ(Terroir) = μ(stratified-layers|geological-time) ∘ ρ(cultural-resonance|regional-identity)
+  ∘ δγ(agricultural-cycling|vintage-variation) ∘ σ(distinct-character|non-reproducible)
+  + ε | :pure
+siml_encoding: ⟨Artifact|wine⟩ ⊳ ⟨Environment|terroir⟩ ⇄ ⟨Narrative|regional-history⟩
+  → ⟨Value|authenticity⟩ ⊗ ⟨Resource|soil-memory⟩ → ⟨Outcome|cultural-continuity⟩
+formalism:
+  math_operators:
+  - μ
+  - ρ
+  - δγ
+  - σ
+  dim_operators:
+  - Ψ_structural
+  - Q_inward
+  - Ψ_regenerative
+  - χ
+  partials:
+  - ∂Φ/∂μ (geological structure)
+  - ∂Φ/∂ρ (cultural resonance)
+  - ∂Φ/∂δγ (agricultural cycling)
+  - ∂Φ/∂σ (distinct character)
+  Z_state: permeable
+  tendency: Structure/Resonance → 1
+  hex:
+  - '0x06'
+  - '0x02'
+  - '0x05'
+  - '0x01'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - We
+    - I
+  epistemics:
+    dsrp:
+      D: This terroir vs that terroir
+      S: Regional ecosystem + human culture
+      R: Soil composition → wine character
+      P: Winemaker / terroir enthusiast
+    learning: L2
+  time:
+    mode: layered
+    phase: vintage-accumulation
+  qualia:
+    affect:
+    - authenticity
+    - belonging
+    - continuity
+    aesthetic:
+    - unique
+    - unreproducible
+    - place-bound
+    symbolic:
+    - strata
+    - roots
+    - vintage
+    energetic:
+    - accumulated
+    - expressed
+  agency:
+    type: collective
+    voice:
+    - Place Memory
+    - Soil Archive
+    power_mode: With
+elemental_emphasis:
+  ∴: How is this terroir distinguished from all others?
+  ≈: What resonance does 'taste of place' carry?
+  ▲: What direction does terroir expression aim?
+  𐂷: What possibilities emerge from unique soil composition?
+  ☷: How does agricultural cycling express in vintage variation?
+  ⛨: What boundaries define the appellation?
+context_note: 'Terroir is the bridge between material and symbolic Earth. The soil
+  literally holds history (stratified layers), which becomes cultural memory through
+  taste. Key insight: terroir is non-reproducible—you cannot transplant it. This makes
+  it μ (boundary) as authenticity, not just property. The etymological link ''human/humus''
+  surfaces here: we are of the soil, and the soil remembers us.'
+source: The Elemental and the Ethereal — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

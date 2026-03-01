@@ -1,0 +1,87 @@
+hex_tag: '#F001'
+term: Prometheus' Fire (Civilization/Knowledge)
+nemetic: Φ(Prometheus-Fire) = λ(civilization-gift|upward-direction) ∘ β(knowledge-possibility|arts-science)
+  ∘ σ(distinction|mortal-vs-divine) ∘ ρ(ambivalent-resonance|suffering-and-glory)
+  + ε | :open
+siml_encoding: ⟨Resource|fire⟩ ⊳ ⟨Actor|Prometheus⟩ ⇄ ⟨Value|civilization⟩ ⊗ ⟨Narrative|theft-from-gods⟩
+  → ⟨Outcome|human-consciousness⟩
+formalism:
+  math_operators:
+  - λ
+  - β
+  - σ
+  - ρ
+  dim_operators:
+  - Q_forward
+  - Ψ_exploratory
+  - χ
+  - Q_inward
+  partials:
+  - ∂Φ/∂λ (civilization direction)
+  - ∂Φ/∂β (knowledge exploration)
+  - ∂Φ/∂σ (mortal/divine distinction)
+  - ∂Φ/∂ρ (ambivalent resonance)
+  Z_state: permeable
+  tendency: Direction/Exploration → 1
+  hex:
+  - '0x03'
+  - '0x04'
+  - '0x01'
+  - '0x02'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - I
+    - We
+  epistemics:
+    dsrp:
+      D: Divine fire vs mortal fire
+      S: Promethean theft narrative
+      R: Fire enables civilization
+      P: Human, trickster, culture-bringer
+    learning: L2
+  time:
+    mode: linear
+    phase: civilizational-origin
+  qualia:
+    affect:
+    - aspiration
+    - defiance
+    - suffering
+    - glory
+    aesthetic:
+    - illuminating
+    - dangerous
+    - transformative
+    symbolic:
+    - torch
+    - liver
+    - chains
+    - civilization
+    energetic:
+    - elevating
+    - enabling
+  agency:
+    type: archetypal
+    voice:
+    - Culture Bringer
+    - Eternal Sufferer
+    power_mode: Over
+elemental_emphasis:
+  ∴: How is stolen divine fire distinguished from natural fire?
+  ≈: What resonance does eternal suffering for human benefit carry?
+  ▲: What direction does civilization-building aim?
+  𐂷: What possibilities open with fire-enabled knowledge?
+  ☷: How does fire's gift cycle through human history?
+  ⛨: What boundaries does divine fire transgress?
+context_note: 'Prometheus'' Fire represents Fire as stolen gift—enabling civilization
+  but at terrible cost. Key insight: fire is not just heat/light but consciousness,
+  arts, science. The ambivalence (ρ) is crucial: fire brings both progress and suffering
+  (Prometheus'' eternal liver-eating). This is λ (direction) as civilizational vector—fire
+  points upward, toward the divine, even as it remains earthly. The theft structure
+  (σ) marks human specialness: we have what gods didn''t give freely.'
+source: Fire's Symbolic Meaning in Ancient Philosophical and Indigenous Traditions
+  — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

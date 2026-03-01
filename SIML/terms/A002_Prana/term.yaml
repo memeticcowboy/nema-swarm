@@ -1,0 +1,82 @@
+hex_tag: '#A002'
+term: Prana (Ayurvedic Life Force)
+nemetic: Φ(Prana) = ρ(vital-resonance|breath-energy) ∘ δγ(circulation|Vayu-movement)
+  ∘ σ(distinction|five-Vayus) ∘ λ(direction|upward-flow) + ε | :open
+siml_encoding: ⟨Resource|prana⟩ ⊳ ⟨Actor|yogi⟩ ⇄ ⟨Value|vitality⟩ ⊗ ⟨Protocol|Pranayama⟩
+  → ⟨Outcome|spiritual-wellbeing⟩
+formalism:
+  math_operators:
+  - ρ
+  - δγ
+  - σ
+  - λ
+  dim_operators:
+  - Q_inward
+  - Ψ_regenerative
+  - χ
+  - Q_forward
+  partials:
+  - ∂Φ/∂ρ (vital resonance)
+  - ∂Φ/∂δγ (circulatory cycling)
+  - ∂Φ/∂σ (Vayu distinction)
+  - ∂Φ/∂λ (upward direction)
+  Z_state: permeable
+  tendency: Resonance/Cycling → 1
+  hex:
+  - '0x02'
+  - '0x05'
+  - '0x01'
+  - '0x03'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - It
+  epistemics:
+    dsrp:
+      D: Prana vs Apana vs Udana vs Samana vs Vyana
+      S: Five Vayus system
+      R: Breath control → energy regulation
+      P: Yogi, Ayurvedic practitioner
+    learning: L3
+  time:
+    mode: cyclical
+    phase: breath-cycle
+  qualia:
+    affect:
+    - vitality
+    - balance
+    - clarity
+    aesthetic:
+    - flowing
+    - vital
+    - subtle
+    symbolic:
+    - breath
+    - wind
+    - subtle-body
+    energetic:
+    - circulating
+    - regulating
+  agency:
+    type: part
+    voice:
+    - Vital Energy
+    - Subtle Body
+    power_mode: Within
+elemental_emphasis:
+  ∴: How is Prana distinguished from other Vayus?
+  ≈: What resonance flows through the subtle body?
+  ▲: What direction does Prana Vayu move?
+  𐂷: What possibilities emerge from Pranayama practice?
+  ☷: How do the five Vayus cycle through the body?
+  ⛨: What boundaries contain prana in the subtle channels?
+context_note: 'Prana represents Air as regulable life force—distinct from Greek Pneuma
+  in being divisible (five Vayus) and controllable (Pranayama). Key insight: Prana
+  is not just breath but the energy breath carries. The five Vayus (Prana, Apana,
+  Samana, Udana, Vyana) show Air''s directional multiplicity—up, down, center, throat,
+  diffusion. This is ρ (resonance) with anatomical specificity.'
+source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic
+  Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

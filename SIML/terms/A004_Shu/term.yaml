@@ -1,0 +1,82 @@
+hex_tag: '#A004'
+term: Shu (Egyptian Air God)
+nemetic: Φ(Shu) = μ(separation|heaven-earth-division) ∘ λ(creation-lightness|upward-lift)
+  ∘ ρ(divine-breath|life-gift) ∘ β(spatial-possibility|created-space) + ε | :pure
+siml_encoding: ⟨Actor|Shu⟩ ⊳ ⟨Environment|cosmos⟩ ⇄ ⟨Value|order⟩ ⊗ ⟨Narrative|creation-myth⟩
+  → ⟨Outcome|habitable-world⟩
+formalism:
+  math_operators:
+  - μ
+  - λ
+  - ρ
+  - β
+  dim_operators:
+  - Ψ_structural
+  - Q_forward
+  - Q_inward
+  - Ψ_exploratory
+  partials:
+  - ∂Φ/∂μ (separating structure)
+  - ∂Φ/∂λ (creative direction)
+  - ∂Φ/∂ρ (divine resonance)
+  - ∂Φ/∂β (spatial exploration)
+  Z_state: permeable
+  tendency: Structure/Direction → 1
+  hex:
+  - '0x06'
+  - '0x03'
+  - '0x02'
+  - '0x04'
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary:
+    - Its
+  epistemics:
+    dsrp:
+      D: Shu vs Geb vs Nut
+      S: Heliopolitan creation myth
+      R: Air separates Earth and Sky
+      P: Egyptian priest, cosmographer
+    learning: L2
+  time:
+    mode: linear
+    phase: creation-moment
+  qualia:
+    affect:
+    - awe
+    - elevation
+    - gratitude
+    aesthetic:
+    - light
+    - dry
+    - elevated
+    symbolic:
+    - ostrich-feather
+    - breath
+    - space
+    energetic:
+    - lifting
+    - separating
+  agency:
+    type: archetypal
+    voice:
+    - Separator
+    - Lifter of Heaven
+    power_mode: Over
+elemental_emphasis:
+  ∴: How is Shu's separation distinguished from other creator acts?
+  ≈: What resonance does the space between heaven and earth carry?
+  ▲: What direction does Shu's lifting aim?
+  𐂷: What possibilities open in the space Shu creates?
+  ☷: How does Shu's breath cycle through creation?
+  ⛨: What boundaries does Shu maintain between cosmic realms?
+context_note: 'Shu represents Air as cosmogonic separator—not breath within body but
+  breath that creates world. Key act: lifting Nut (Sky) from Geb (Earth), creating
+  habitable space. The ostrich feather symbolizes lightness/emptiness. Unlike Greek
+  Pneuma (internal) or Chinese Qi (omnipresent), Shu is agent—personified deity with
+  will. Air as creation''s first act, not medium of life.'
+source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic
+  Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

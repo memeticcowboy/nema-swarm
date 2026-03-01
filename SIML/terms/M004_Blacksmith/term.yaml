@@ -1,0 +1,85 @@
+hex_tag: '#M004'
+term: Blacksmith (Metal Transformer)
+nemetic: Φ(Blacksmith) = β(transformation|raw-to-refined) ∘ μ(ritual-structure|power-objects)
+  ∘ ρ(ancestral-resonance|lineage-wisdom) ∘ λ(directed-skill|creative-destruction)
+  + ε | :open
+siml_encoding: ⟨Actor|blacksmith⟩ ⊳ ⟨Resource|raw-metal⟩ ⇄ ⟨Value|transformation⟩
+  ⊗ ⟨Protocol|ritual-craft⟩ → ⟨Outcome|power-object⟩
+formalism:
+  math_operators:
+  - β
+  - μ
+  - ρ
+  - λ
+  dim_operators:
+  - Ψ_exploratory
+  - Ψ_structural
+  - Q_inward
+  - Q_forward
+  partials:
+  - ∂Φ/∂β (transformative exploration)
+  - ∂Φ/∂μ (ritual structure)
+  - ∂Φ/∂ρ (ancestral resonance)
+  - ∂Φ/∂λ (directed skill)
+  Z_state: permeable
+  tendency: Exploration/Structure → 1
+  hex:
+  - '0x04'
+  - '0x06'
+  - '0x02'
+  - '0x03'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - We
+    - Its
+  epistemics:
+    dsrp:
+      D: Smith vs other artisans
+      S: Ritual transformation process
+      R: Raw earth → sacred object
+      P: Initiated craftsman, ritual leader
+    learning: L3
+  time:
+    mode: layered
+    phase: generational-transmission
+  qualia:
+    affect:
+    - reverence
+    - power
+    - creativity
+    aesthetic:
+    - transformative
+    - dangerous
+    - sacred
+    symbolic:
+    - forge
+    - hammer
+    - anvil
+    - flame
+    energetic:
+    - channeling
+    - shaping
+  agency:
+    type: collective
+    voice:
+    - Transformer
+    - Ritual Leader
+    power_mode: With
+elemental_emphasis:
+  ∴: How is the smith distinguished from other makers?
+  ≈: What resonance flows between smith, metal, and ancestor?
+  ▲: What direction does the transformative craft aim?
+  𐂷: What possibilities emerge from fire meeting ore?
+  ☷: How does smithing wisdom cycle through generations?
+  ⛨: What boundaries protect the sacred craft?
+context_note: 'The blacksmith is not merely a technician but a ritual transformer—exploration
+  (β) of metal''s possibilities, structure (μ) of power-objects (Fon asen, Kongo bocio),
+  resonance (ρ) with ancestral lineage, direction (λ) of creative-destructive skill.
+  Cross-cultural: African Ògún, Kongo royal smiths, Pre-Columbian sacred artisans.
+  The smith bridges raw earth and spiritual world.'
+source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions
+  — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

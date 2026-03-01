@@ -1,0 +1,85 @@
+hex_tag: '#WO005'
+term: Bodhi Tree (Buddhist Enlightenment)
+nemetic: Φ(Bodhi-Tree) = μ(sacred-site|enlightenment-structure) ∘ ρ(spiritual-resonance|Buddha's-awakening)
+  ∘ β(inner-possibility|liberation-path) ∘ δγ(cyclical-continuity|sacred-groves) +
+  ε | :pure
+siml_encoding: ⟨Site|Bodhi-tree⟩ ⊳ ⟨Actor|seeker⟩ ⇄ ⟨Value|enlightenment⟩ ⊗ ⟨Narrative|Buddha's-awakening⟩
+  → ⟨Outcome|liberation⟩
+formalism:
+  math_operators:
+  - μ
+  - ρ
+  - β
+  - δγ
+  dim_operators:
+  - Ψ_structural
+  - Q_inward
+  - Ψ_exploratory
+  - Ψ_regenerative
+  partials:
+  - ∂Φ/∂μ (sacred site structure)
+  - ∂Φ/∂ρ (enlightenment resonance)
+  - ∂Φ/∂β (liberation exploration)
+  - ∂Φ/∂δγ (continuity cycling)
+  Z_state: permeable
+  tendency: Structure/Resonance → 1
+  hex:
+  - '0x06'
+  - '0x02'
+  - '0x04'
+  - '0x05'
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary:
+    - I
+    - We
+  epistemics:
+    dsrp:
+      D: Bodhi tree vs other Ficus religiosa
+      S: Buddhist enlightenment cosmology
+      R: Specific site of Buddha's awakening
+      P: Buddhist monk, pilgrim, meditator
+    learning: L3
+  time:
+    mode: layered
+    phase: enlightenment-moment
+  qualia:
+    affect:
+    - peace
+    - determination
+    - awakening
+    aesthetic:
+    - sacred
+    - specific
+    - transformative
+    symbolic:
+    - Bodhi
+    - awakening
+    - peepul
+    - sacred-fig
+    energetic:
+    - grounding
+    - illuminating
+  agency:
+    type: archetypal
+    voice:
+    - Site of Awakening
+    - Enlightenment Witness
+    power_mode: With
+elemental_emphasis:
+  ∴: How is the Bodhi tree distinguished from ordinary peepul trees?
+  ≈: What resonance does Buddha's awakening carry?
+  ▲: What direction does the path to liberation aim?
+  𐂷: What possibilities open under the Bodhi tree?
+  ☷: How does the Bodhi site's sacredness cycle through pilgrimage?
+  ⛨: What boundaries separate the sacred site from ordinary space?
+context_note: 'The Bodhi Tree represents Wood as enlightenment site—not just any tree
+  but THE tree where Siddhartha became Buddha. Key insight: Ficus religiosa is common,
+  but THIS tree is sacred through event (Buddha''s awakening), not essence. This is
+  μ (structure) as historical specificity—place matters. The resonance (ρ) draws seekers
+  across centuries. Other sacred Indian trees (Banyan, Panchavati) show Wood as distributed
+  sacred network, not single site.'
+source: Wood in Ancient Philosophical and Indigenous Worldviews — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

@@ -1,0 +1,81 @@
+hex_tag: '#E002'
+term: Prithvi (Ayurvedic Earth)
+nemetic: Φ(Prithvi) = μ(solidity|bones-teeth-muscles) ∘ δγ(structure|Kapha-dosha)
+  ∘ ρ(sense-of-smell|grounding) ∘ χ(distinction|from-other-elements) + ε | :open
+siml_encoding: ⟨Resource|prithvi⟩ ⊳ ⟨Actor|body⟩ ⇄ ⟨Value|stability⟩ ⊗ ⟨Protocol|Ayurvedic-balance⟩
+  → ⟨Outcome|health-coherence⟩
+formalism:
+  math_operators:
+  - μ
+  - δγ
+  - ρ
+  - σ
+  dim_operators:
+  - Ψ_structural
+  - Ψ_regenerative
+  - Q_inward
+  - χ
+  partials:
+  - ∂Φ/∂μ (physical structure)
+  - ∂Φ/∂δγ (metabolic cycling)
+  - ∂Φ/∂ρ (sensory grounding)
+  - ∂Φ/∂σ (elemental distinction)
+  Z_state: permeable
+  tendency: Structure/Resonance → 1
+  hex:
+  - '0x06'
+  - '0x05'
+  - '0x02'
+  - '0x01'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - I
+  epistemics:
+    dsrp:
+      D: Prithvi vs other mahabhutas
+      S: Human body as elemental composition
+      R: Kapha dosha as Earth-Water combination
+      P: Ayurvedic practitioner
+    learning: L2
+  time:
+    mode: cyclical
+    phase: daily-rhythm
+  qualia:
+    affect:
+    - groundedness
+    - heaviness
+    - patience
+    aesthetic:
+    - solid
+    - nourishing
+    - stable
+    symbolic:
+    - bones
+    - muscles
+    - grains
+    energetic:
+    - contained
+    - sustained
+  agency:
+    type: part
+    voice:
+    - Bodily Structure
+    - Elemental Balance
+    power_mode: Within
+elemental_emphasis:
+  ∴: How is Prithvi distinguished from Vayu (Air) or Agni (Fire)?
+  ≈: What is the felt sense of 'grounding' in the body?
+  ▲: What direction does Kapha energy move when balanced?
+  𐂷: What dietary possibilities emerge from Earth-element foods?
+  ☷: How does the Earth element cycle through consumption and elimination?
+  ⛨: What boundaries does physical structure provide against imbalance?
+context_note: 'Prithvi represents Earth as embodied structure—literally the bones
+  and muscles that hold us. Unlike Gaia''s cosmic creativity, Prithvi is intimate
+  and physiological. The key insight: Earth element is regulated through food and
+  defecation, making it metabolically controllable. Imbalance (excess/deficiency)
+  manifests physically and emotionally.'
+source: The Elemental and the Ethereal — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML

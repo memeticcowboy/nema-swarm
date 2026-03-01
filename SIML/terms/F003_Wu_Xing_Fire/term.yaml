@@ -1,0 +1,86 @@
+hex_tag: '#F003'
+term: Wu Xing Fire (Chinese Five Elements)
+nemetic: Φ(Wu-Xing-Fire) = λ(upward-rising|prosperity-phase) ∘ ρ(passion-resonance|dynamism)
+  ∘ δγ(cyclical-transformation|burning-creating) ∘ σ(distinction|great-yang) + ε |
+  :open
+siml_encoding: ⟨Element|Fire⟩ ⊳ ⟨System|Five-Elements⟩ ⇄ ⟨Value|transformation⟩ ⊗
+  ⟨Protocol|great-yang⟩ → ⟨Outcome|passionate-expression⟩
+formalism:
+  math_operators:
+  - λ
+  - ρ
+  - δγ
+  - σ
+  dim_operators:
+  - Q_forward
+  - Q_inward
+  - Ψ_regenerative
+  - χ
+  partials:
+  - ∂Φ/∂λ (upward rising)
+  - ∂Φ/∂ρ (passion resonance)
+  - ∂Φ/∂δγ (cyclical transformation)
+  - ∂Φ/∂σ (Yang distinction)
+  Z_state: permeable
+  tendency: Direction/Resonance → 1
+  hex:
+  - '0x03'
+  - '0x02'
+  - '0x05'
+  - '0x01'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - We
+    - I
+  epistemics:
+    dsrp:
+      D: Fire vs Water vs other elements
+      S: Five-element dynamic system
+      R: Wood fuels Fire; Fire creates Earth; Water quenches Fire
+      P: TCM practitioner, Feng Shui master
+    learning: L2
+  time:
+    mode: cyclical
+    phase: summer-prosperity
+  qualia:
+    affect:
+    - passion
+    - dynamism
+    - spontaneity
+    aesthetic:
+    - red
+    - rising
+    - bright
+    symbolic:
+    - summer
+    - south
+    - heart
+    - Emperor
+    energetic:
+    - ascending
+    - expressing
+  agency:
+    type: collective
+    voice:
+    - Great Yang
+    - Prosperous Expression
+    power_mode: With
+elemental_emphasis:
+  ∴: How is Fire distinguished from Water's descent?
+  ≈: What resonance does passion-at-peak carry?
+  ▲: What direction does Fire's upward rising aim?
+  𐂷: What possibilities emerge from prosperous transformation?
+  ☷: How does Fire cycle into Earth (ash)?
+  ⛨: What boundaries contain Fire when balanced vs. burning out of control?
+context_note: 'Chinese Fire represents the prosperity phase—not substance but energetic
+  peak. Key insight: Fire is ''prosper of the matter'' (the flourishing stage), not
+  just combustion. As Great Yang (σ), Fire opposes Water''s Great Yin. The imbalance
+  pattern is crucial: Fire out of control = restlessness, hatred, impulsivity. This
+  is λ (direction) as upward expression, not just heat. The heart association shows
+  Fire as emotional, not just physical.'
+source: Fire's Symbolic Meaning in Ancient Philosophical and Indigenous Traditions
+  — Memetic Cowboy
+date_processed: '2026-02-24'
+processed_by: Claude/SIML
