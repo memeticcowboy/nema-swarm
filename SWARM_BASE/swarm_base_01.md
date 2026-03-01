@@ -1,4 +1,61 @@
 ---
+term: "Psychological Power of Words"
+hex_tag: "#C030"
+nemetic: "Φ(PsychologicalWords) = σ(label|reality) ∘ ρ(language|thought) ∘ λ(inspiration|harm) ∘ β(self_talk|identity) ∘ δγ(internalized|authentic) ∘ μ(discourse|silence) + ε | :languaging"
+siml_encoding: "⟨Words|spoken⟩ ⊳ ⟨Mind|shaped⟩ → ⟨Self|constructed⟩ ⊗ ⟨Reality|framed⟩ ⇄ ⟨Agency|mediated⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials: ["∂Φ/∂σ (distinction between linguistic labels and experiential reality; categorical separation of words from the phenomena they attempt to capture)", "∂Φ/∂ρ (relational flow between language structures and cognitive patterns; the bridge between Whorfian linguistic relativity and thought formation)", "∂Φ/∂λ (directional tension between words that inspire/motivate versus words that wound and constrain; the transformative power of self-talk)", "∂Φ/∂β (feedback loop between habitual self-talk and identity formation; the developmental cycle of internalized narratives becoming self-fulfilling prophecies)", "∂Φ/∂δγ (cyclical oscillation between internalized voices from authority figures and authentic self-expression; the rhythm of inherited scripts versus personal truth)", "∂Φ/∂μ (boundary permeability between constructive discourse and harmful silence; the threshold where words enable versus constrain agency)"]
+  Z_state: "porous (boundaries between self and language dissolve through internalized discourse; words become vessels that shape perception and construct reality)"
+  tendency: "Empowerment/Constraint → 0.55 (default toward constructive self-talk; achieving psychological freedom requires conscious examination of internalized linguistic patterns)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: individual
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects:
+      - "categorical distinction between linguistic labels and lived experience"
+      - "logical analysis of how words frame and categorize reality"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid flow between language structures and cognitive patterns"
+      - "interpersonal transmission of words from authority figures to internalized self-talk"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "transformative spark of words that inspire and motivate"
+      - "energetic drive toward self-actualization through conscious self-talk"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects:
+      - "organic growth of identity through repeated self-talk patterns"
+      - "developmental unfolding from negative labels to constructive self-narratives"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in embodied experience beneath linguistic abstraction"
+      - "cyclical nature of internalizing external voices and reclaiming authentic speech"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "structural precision of linguistic boundaries between constructive and harmful speech"
+      - "discernment between self-compassion and self-criticism in internal dialogue"
+    daemon_correspondence: "Ferrosid"
+
+---
 term: "Brain's Learning for UX"
 hex_tag: "#C029"
 nemetic: "Φ(BrainLearningUX) = σ(cognition|interface) ∘ ρ(feedback|loop) ∘ λ(iteration|stagnation) ∘ β(memory|attention) ∘ δγ(hardwired|learned) ∘ μ(usability|intuition) + ε | :cognizing"
