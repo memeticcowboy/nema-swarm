@@ -1,4 +1,76 @@
 ---
+term: "Social Capital Types"
+hex_tag: "#C135"
+nemetic: "Φ(SocialCapitalTypes) = σ(bonding|bridging) ∘ ρ(horizontal|vertical) ∘ λ(connection|isolation) ∘ β(inclusion|exclusion) ∘ δγ(community|fragmentation) ∘ μ(boundary|porosity) + ε | :relational_wealth"
+siml_encoding: "⟨Network|dense⟩ ⊳ ⟨Ties|multiplex⟩ → ⟨Capital|circulating⟩ ⊗ ⟨Community|resilient⟩ ⇄ ⟨Development|sustainable⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between bonding ties among similar people and bridging ties across diverse groups; the logical separation of inward-looking from outward-looking social connections)"
+    - "∂Φ/∂ρ (relational flow between horizontal peer relationships and vertical power-spanning connections; the channel linking community members to institutional resources)"
+    - "∂Φ/∂λ (transformative spark when weak ties convert to strong ties or when isolated groups connect; the catalytic moment of social network expansion)"
+    - "∂Φ/∂β (developmental cycle between social inclusion and exclusion dynamics; the organic tension between group cohesion and openness to outsiders)"
+    - "∂Φ/∂δγ (cyclical oscillation between community integration and fragmentation; the rhythm of collective solidarity and individual mobility)"
+    - "∂Φ/∂μ (boundary permeability between in-group and out-group; the threshold where social capital shifts from resource to liability)"
+  Z_state: "relational_wealth (boundaries between bonding, bridging, and linking dissolve through balanced integration; trust and reciprocity converge into sustainable community resilience)"
+  tendency: "Balance/Integration → 0.84 (strong drive toward optimal mix of social capital types balanced by the comfort of homophily; achieving relational wealth requires both in-group solidarity and out-group bridging)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: We
+    secondary: It
+  agency:
+    type: relational
+    power_mode: Between
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.82
+    aspects:
+      - "categorical distinction between bonding, bridging, and linking social capital"
+      - "logical taxonomy of network configurations and trust types"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "fluid dynamics of resource flow through social networks"
+      - "relational channels connecting individuals across power hierarchies"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative spark when weak ties enable new opportunities"
+      - "energetic drive to bridge across social divides"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "organic growth of social networks through trust and reciprocity"
+      - "developmental unfolding from isolation to connectedness"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.88
+    aspects:
+      - "grounding in cyclical community integration and renewal"
+      - "stable foundation of thick trust and mutual obligation"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries between in-groups and out-groups"
+      - "discernment between beneficial bridging and harmful exclusion"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify the difference between bonding ties among similar people and bridging ties across diverse groups? What categorical cuts separate inward-looking from outward-looking social connections?"
+  ≈: "What flows between horizontal peer relationships and vertical power-spanning connections? How does the relational dynamic link community members to institutional resources?"
+  ▲: "Where does the spark of transformation occur when weak ties convert to strong ties? What catalyzes the expansion of social networks across boundaries?"
+  𐂷: "What forms of growth emerge from the tension between social inclusion and exclusion? What developmental potential exists in cultivating diverse network ties?"
+  ☷: "What sustains the ground between community integration and fragmentation? What are the cyclical returns between collective solidarity and individual mobility?"
+  ⛨: "What structures contain the boundary between in-group and out-group? What thresholds separate social capital as resource from social capital as liability?"
+context_note: "Social Capital Types—bonding, bridging, and linking—represent distinct forms of social connectivity with different functions and consequences. Bonding social capital consists of strong, inward-looking ties among similar people that provide emotional support and identity but risk insularity. Bridging social capital comprises weak, outward-looking ties across diverse groups that enable information flow, innovation, and opportunity. Linking social capital involves vertical ties spanning power hierarchies that provide access to resources and institutional influence. These forms are interdependent rather than mutually exclusive; optimal community development requires balancing all three. Excessive bonding without bridging creates exclusion and groupthink; overemphasis on bridging without bonding erodes local cohesion. The concept originates in network theory and sociology (Granovetter, Burt, Putnam) and applies to community development, organizational management, public health, and economic development policy."
+source_file: "1771907213325_2288492_Understanding+Bonding%2C+Bridging%2C+and+Linking+Social+Capital.md"
+
+---
 term: "Cognitive Sovereignty"
 hex_tag: "#C133"
 nemetic: "Φ(CognitiveSovereignty) = σ(autonomous|manipulated) ∘ ρ(self|external) ∘ λ(awakening|compliance) ∘ β(agency|passivity) ∘ δγ(awareness|distraction) ∘ μ(boundary|permeability) + ε | :mental_autonomy"
