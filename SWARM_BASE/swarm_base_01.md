@@ -1,4 +1,75 @@
 ---
+term: "Navigating Decision Traps"
+hex_tag: "#C106"
+nemetic: "Φ(DecisionTraps) = σ(rational|biased) ∘ ρ(awareness|fallacy) ∘ λ(recognition|transformation) ∘ β(strategy|practice) ∘ δγ(grounding|delusion) ∘ μ(structure|flexibility) + ε | :vigilance"
+siml_encoding: "⟨Decision|rational⟩ ⊳ ⟨Bias|embedded⟩ → ⟨Trap|recognized⟩ ⊗ ⟨Strategy|applied⟩ ⇄ ⟨Outcome|improved⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between rational decision-making and cognitive bias; the logical separation of objective analysis from subjective distortion)"
+    - "∂Φ/∂ρ (relational flow between awareness of biases and their persistent influence; the channel connecting recognition to mitigation)"
+    - "∂Φ/∂λ (transformative spark when decision traps are recognized and interrupted; the catalytic moment of bias awareness becoming corrective action)"
+    - "∂Φ/∂β (developmental cycle between strategic frameworks and practical application; the organic growth of decision-making skill through repeated practice)"
+    - "∂Φ/∂δγ (cyclical oscillation between grounded reality and delusional confidence; the rhythm of overconfidence and humility in judgment)"
+    - "∂Φ/∂μ (boundary permeability between rigid decision structures and adaptive flexibility; the threshold where systematic process meets contextual nuance)"
+  Z_state: "vigilance (boundaries between rational and biased thinking dissolve through sustained awareness; structured process and adaptive flexibility converge into wise decision-making)"
+  tendency: "Awareness/Action → 0.82 (strong drive toward recognizing cognitive biases balanced by implementation of corrective strategies; achieving effective decisions requires both knowing the traps and actively avoiding them)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  agency:
+    type: reflective
+    power_mode: Within
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical distinction between rational analysis and cognitive bias"
+      - "logical taxonomy of six decision traps and their underlying fallacies"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects:
+      - "fluid flow between awareness of biases and their mitigation through practice"
+      - "relational dynamics connecting individual recognition to organizational culture"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+      - "transformative spark of interrupting confirmation bias and sunk cost fallacy"
+      - "energetic drive to challenge overconfidence through devil's advocacy"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic growth of decision-making skill through repeated practice and feedback"
+      - "developmental cycle between learning strategies and applying them in context"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "grounding in reality-based assessment versus delusional confidence"
+      - "cyclical oscillation between overconfidence and calibrated self-awareness"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "structural boundaries of decision frameworks and pre-mortem analysis"
+      - "discernment between rigid procedure and necessary flexibility"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we classify rational decision-making versus cognitive bias? What categorical cuts separate objective analysis from the distortions of confirmation bias, sunk cost fallacy, and overconfidence?"
+  ≈: "What flows between awareness of decision traps and their actual mitigation? How does individual recognition translate into organizational culture and systematic improvement?"
+  ▲: "Where does the spark of transformation ignite when biases are recognized? What interrupts the automatic patterns of confirmation bias and status quo thinking?"
+  𐂷: "What forms of growth emerge from practicing structured decision-making? What developmental potential exists between learning strategies and mastering their application?"
+  ☷: "What sustains the ground of reality-based assessment against overconfidence? What are the cyclical returns between inflated self-assessment and calibrated humility?"
+  ⛨: "What structures contain the boundary between systematic decision processes and necessary flexibility? What thresholds separate rigid adherence from adaptive wisdom?"
+context_note: "Navigating Decision Traps examines six prevalent cognitive biases that systematically distort decision-making: confirmation bias, sunk cost fallacy, overconfidence, status quo bias, anchoring bias, and analysis paralysis. These traps operate at both individual and organizational levels, particularly affecting leaders in high-stakes environments. Effective mitigation requires structured frameworks including pre-mortem analysis, devil's advocacy, diverse perspective-seeking, time-boxing, and zero-based thinking. The key insight is that awareness alone is insufficient—organizations must build cultures of psychological safety that encourage questioning assumptions, reward constructive dissent, and implement regular decision review processes. Strategic decisions, due to their long-term implications, are especially vulnerable to these traps, necessitating deliberate cultivation of vigilance and adaptive decision-making capabilities."
+source_file: "1771907212600_660446_Navigating+Decision+Traps.md"
+---
 term: "Cabrera's Critical Thinking Critique"
 hex_tag: "#C105"
 nemetic: "Φ(CabreraCritique) = σ(binary|multivalent) ∘ ρ(logic|reality) ∘ λ(constraint|liberation) ∘ β(framework|flexibility) ∘ δγ(bias|awareness) ∘ μ(rigidity|nuance) + ε | :transcendence"
