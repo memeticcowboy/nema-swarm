@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T07:13:00+08:00"
+last_updated: "2026-03-04T07:23:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 171
-  remaining_count: 215
+  encoded_count: 172
+  remaining_count: 214
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -450,6 +450,11 @@ C_series:
       term_tag: "C179"
       term_name: "Evolutionary_Mind"
       encoded_at: "2026-03-04T07:13:00+08:00"
+
+    - source_file: "1771907212930_1798385_Alan+Watts+on+Reality%3A+Interdependence+vs.+Separation.md"
+      term_tag: "C17A"
+      term_name: "Alan_Watts_Interdependence"
+      encoded_at: "2026-03-04T07:23:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
