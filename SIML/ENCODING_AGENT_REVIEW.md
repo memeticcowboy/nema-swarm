@@ -7,11 +7,18 @@
 
 ## Executive Summary
 
-The encoding agent has produced **450 term folders** in `SIML/terms/`, of which **136 are C-series** (Critical Thinking domain). However, the agent exhibits three systemic problems:
+The encoding agent had produced **450 term folders** in `SIML/terms/`, of which **136 were C-series** (Critical Thinking domain). Audit uncovered three systemic problems:
 
-1. **Massive duplication** — the same source concept has been encoded multiple times under different hex tags, with different (inconsistent) nemetic strings each time
+1. **Massive duplication** — the same source concept was encoded multiple times under different hex tags, with different (inconsistent) nemetic strings each time
 2. **Hex tag collisions** — different concepts share the same hex tag number
-3. **Low coverage** — only **99 of 386** source files (25.6%) in `Critical Thinking/` have been encoded; **289 files remain unprocessed**
+3. **Low coverage** — only **99 of 386** source files (25.6%) in `Critical Thinking/` had been encoded
+
+### Cleanup Performed (2026-03-03)
+
+- **Removed 104 duplicate term directories** (34 C-series, 52 D-series, 15 L-series, 4 cross-series)
+- **Removed 98 encoded source files** from `Critical Thinking/` (already encoded into SIML terms)
+- **After cleanup:** 346 term folders remain in `SIML/terms/`; 288 source files remain in `Critical Thinking/` awaiting encoding
+- **Remaining issues:** 16 hex tag collisions still need manual resolution; `swarm_base_01.md` inconsistencies remain
 
 ---
 
