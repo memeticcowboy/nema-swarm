@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C151"
+  next_available: "C152"
   assigned:
+    C151: "Huxley_Ends_and_Means"
     C150: "Individuality_Huxley_Dystopia"
     C14F: "Character_Adaptation_Systems_Theory"
     C14D: "AGI_Consciousness_Requirements"

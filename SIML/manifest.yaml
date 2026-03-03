@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T00:03:00+08:00"
+last_updated: "2026-03-04T00:13:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 130
-  remaining_count: 256
+  encoded_count: 131
+  remaining_count: 255
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -245,6 +245,11 @@ C_series:
       term_tag: "C150"
       term_name: "Individuality_Huxley_Dystopia"
       encoded_at: "2026-03-04T00:03:00+08:00"
+
+    - source_file: "1771907212726_1049148_.md"
+      term_tag: "C151"
+      term_name: "Huxley_Ends_and_Means"
+      encoded_at: "2026-03-04T00:13:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
