@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-03T21:53:00+08:00"
+last_updated: "2026-03-03T22:03:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 117
-  remaining_count: 269
+  encoded_count: 118
+  remaining_count: 268
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -180,6 +180,11 @@ C_series:
       term_tag: "C143"
       term_name: "CTMU_Langan"
       encoded_at: "2026-03-03T21:53:00+08:00"
+
+    - source_file: "1771907212679_913204_Rethinking+Success%3A+Insights+from+Adam+Grant.md"
+      term_tag: "C144"
+      term_name: "Rethinking_Success"
+      encoded_at: "2026-03-03T22:03:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)

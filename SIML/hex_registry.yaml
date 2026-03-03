@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C144"
+  next_available: "C145"
   assigned:
+    C144: "Rethinking_Success"
     C143: "CTMU_Langan"
     C141: "Consciousness_in_AI"
     C13E: "AI_Personality_Assessment"
