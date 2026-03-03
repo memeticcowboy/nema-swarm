@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T00:33:00+08:00"
+last_updated: "2026-03-04T00:43:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 133
-  remaining_count: 253
+  encoded_count: 134
+  remaining_count: 252
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -260,6 +260,11 @@ C_series:
       term_tag: "C153"
       term_name: "Kuhn_Consciousness_Taxonomy"
       encoded_at: "2026-03-04T00:33:00+08:00"
+
+    - source_file: "1771907212730_1055304_Annaka+Harris+on+the+Nature+of+Consciousness.md"
+      term_tag: "C154"
+      term_name: "Annaka_Harris_Consciousness"
+      encoded_at: "2026-03-04T00:43:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
