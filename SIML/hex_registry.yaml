@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C153"
+  next_available: "C154"
   assigned:
+    C153: "Kuhn_Consciousness_Taxonomy"
     C152: "Huxley_Education_Ethics_Transformation"
     C151: "Huxley_Ends_and_Means"
     C150: "Individuality_Huxley_Dystopia"
