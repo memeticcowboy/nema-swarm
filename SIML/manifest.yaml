@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T03:03:00+08:00"
+last_updated: "2026-03-04T03:13:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 147
-  remaining_count: 239
+  encoded_count: 148
+  remaining_count: 238
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -330,6 +330,11 @@ C_series:
       term_tag: "C161"
       term_name: "Global_Fertility_Collapse"
       encoded_at: "2026-03-04T03:03:00+08:00"
+
+    - source_file: "1771907212811_1339499_.md"
+      term_tag: "C162"
+      term_name: "Demon_Haunted_World"
+      encoded_at: "2026-03-04T03:13:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
