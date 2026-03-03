@@ -1,0 +1,85 @@
+---
+term: "Latent Inference Budget Model"
+hex_tag: "#C17C"
+nemetic: "Φ(BehaviorPred) = σ(optimal|suboptimal) ∘ ρ(inference|constraint) ∘ λ(prediction|action) ∘ β(error|correction) ∘ δγ(planning|execution) ∘ μ(budget|excess) + ε | :adaptive"
+siml_encoding: "⟨Behavior|observed⟩ ⊳ ⟨Constraint|inferred⟩ → ⟨Prediction|refined⟩ ⊗ ⟨Decision|modeled⟩ ⇄ ⟨Action|anticipated⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between optimal and sub-optimal decision-making; the boundary separating rational choice from computational compromise)"
+    - "∂Φ/∂ρ (relational flow between inference processes and computational constraints; the channel connecting cognitive capacity to decision quality)"
+    - "∂Φ/∂λ (transformative spark when predictive models ignite into actionable foresight; the ignition of anticipatory intelligence)"
+    - "∂Φ/∂β (feedback cycle between predicted errors and corrective interventions; the self-correcting loop of behavioral anticipation)"
+    - "∂Φ/∂δγ (cyclical oscillation between planning horizons and execution realities; the rhythm of intention meeting constraint)"
+    - "∂Φ/∂μ (boundary permeability between inference budget and cognitive excess; the threshold where computational limits shape decision patterns)"
+  Z_state: "adaptive (the latent inference budget model operates as a predictive calibration mechanism—by inferring the computational constraints that lead to sub-optimal decisions, the model achieves superior prediction of human behavior; this adaptive stance enables AI systems to anticipate human errors, adapt to individual decision-making styles, and intervene proactively, creating a collaborative framework where machine intelligence complements human cognitive limitations)"
+  tendency: "Constraint/Accuracy → 0.75 (strong drive toward accurate prediction within bounded rationality; the model actively infers computational limitations to improve behavioral forecasting)"
+  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+coords:
+  ontology:
+    primary: It
+    secondary: I
+  agency:
+    type: predictive
+    power_mode: With
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "categorical analysis of optimal versus sub-optimal decision pathways; logical distinction between rational and bounded rationality"
+      - "intellectual clarity in identifying computational constraints that shape human choices"
+      - "categorical precision in modeling the inference budget that governs decision quality"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects:
+      - "fluid movement between inference processes and their computational constraints; relational dynamics connecting cognitive load to decision outcomes"
+      - "flow states that enable prediction of sub-optimal choices under time pressure"
+      - "relational channels linking past behavior patterns to future action predictions"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "transformative energy that converts behavioral observation into predictive insight"
+      - "the spark of foresight when computational constraints are inferred from action patterns"
+      - "directional drive toward anticipatory intervention and error prevention"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "organic growth of predictive accuracy through cycles of error and correction"
+      - "feedback loops between anticipated mistakes and preventive adaptations"
+      - "branching exploration of decision trees followed by pruning of unlikely paths"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "grounding in the cyclical relationship between planning and execution"
+      - "embodied patterns of sub-optimal decision-making accumulated through behavioral observation"
+      - "cyclical returns to constraint recognition as a foundation for prediction"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "structural boundaries that contain the inference budget mechanism"
+      - "discernment between computationally tractable and intractable decisions"
+      - "containment that channels predictive power into ethical intervention frameworks"
+    daemon_correspondence: "Ferrosid"
+elemental_emphasis:
+  ∴: "How do we distinguish between decisions made under constraint versus those made with full computational resources? What categorical cuts separate bounded from unbounded rationality?"
+  ≈: "What flows between observed behavior and inferred computational constraints? How does the model learn to predict sub-optimal choices from patterns of past actions?"
+  ▲: "Where does the spark of prediction ignite when observing human decision patterns? What transforms behavioral data into anticipatory intelligence?"
+  𐂷: "What forms of insight remain dormant within error patterns? What valid predictive signals lie hidden behind apparent irrationality?"
+  ☷: "What sustains the cyclical refinement of predictive models through repeated behavioral observation? What returns mark the development of anticipatory accuracy?"
+  ⛨: "What structures contain and guide the inference budget framework? What boundaries separate ethical prediction from manipulative foresight?"
+context_note: "MIT's latent inference budget model represents a breakthrough in predicting human behavior by explicitly modeling the computational constraints that lead to sub-optimal decision-making. Unlike traditional models that assume rationality, this approach infers the 'inference budget'—the cognitive resources available for decision-making—to predict when and how humans will make mistakes. The model outperforms older approaches in predicting both human and machine behavior, with applications ranging from AI assistants that prevent errors before they occur to robotic helpers that adapt to individual decision-making styles. This research raises profound ethical questions about the balance between helpful prediction and potential manipulation, as the ability to anticipate human behavior could be used to enhance autonomy or undermine it."
+source_file: "1771907212940_1819508_MIT%27s+Model+Predicts+Human+Behavior+Using+AI.md"
+related_terms:
+  - C078_human_behavior_ai_training
+  - C052_heuristics_and_biases
+  - C149_Metacognition_AI
+  - C16F_Digital_Cognitive_Offloading
+  - A057_Confirmation_Bias
+  - C002_fragmented_media_consumption
+---
