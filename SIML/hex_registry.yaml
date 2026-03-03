@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C17B"
+  next_available: "C17C"
   assigned:
+    C17B: "Glycocalyx_Brain_Aging"
     C17A: "Alan_Watts_Interdependence"
     C179: "Evolutionary_Mind"
     C177: "Fourth_Political_Theory"
