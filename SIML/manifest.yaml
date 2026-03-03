@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T05:23:00+08:00"
+last_updated: "2026-03-04T05:33:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 161
-  remaining_count: 225
+  encoded_count: 162
+  remaining_count: 224
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -400,6 +400,11 @@ C_series:
       term_tag: "C16F"
       term_name: "Digital_Cognitive_Offloading"
       encoded_at: "2026-03-04T05:23:00+08:00"
+
+    - source_file: "1771907212898_1713654_Rethinking+Consciousness%3A+Insights+from+Infant+Studies.md"
+      term_tag: "C170"
+      term_name: "Infant_Consciousness_Studies"
+      encoded_at: "2026-03-04T05:33:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
