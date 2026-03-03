@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C175"
+  next_available: "C176"
   assigned:
+    C175: "Science_Faith_Ethical_Growth"
     C174: "Early_Mormonism_Folk_Magic"
     C173: "Metacognitive_AI_Architectures"
     C172: "Ten_Percent_Principle"
