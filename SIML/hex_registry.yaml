@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C166"
+  next_available: "C167"
   assigned:
+    C166: "Cognitive_Work_Analysis"
     C165: "Magna_Carta_Rebellion"
     C164: "Gateway_Process_Reincarnation"
     C163: "Manifesto_Power"

@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T03:43:00+08:00"
+last_updated: "2026-03-04T03:53:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 151
-  remaining_count: 235
+  encoded_count: 152
+  remaining_count: 234
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -350,6 +350,11 @@ C_series:
       term_tag: "C165"
       term_name: "Magna_Carta_Rebellion"
       encoded_at: "2026-03-04T03:43:00+08:00"
+
+    - source_file: "1771907212832_1458329_Understanding+Cognitive+Work+Analysis%3A+Framework+for+Enhancing+Human+Factors+in+Complex+Systems.md"
+      term_tag: "C166"
+      term_name: "Cognitive_Work_Analysis"
+      encoded_at: "2026-03-04T03:53:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
