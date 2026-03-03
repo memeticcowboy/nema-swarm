@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T05:53:00+08:00"
+last_updated: "2026-03-04T06:03:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 164
-  remaining_count: 222
+  encoded_count: 165
+  remaining_count: 221
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -415,6 +415,11 @@ C_series:
       term_tag: "C172"
       term_name: "Ten_Percent_Principle"
       encoded_at: "2026-03-04T05:53:00+08:00"
+
+    - source_file: "1771907212914_1769058_Exploring+Metacognitive+AI%3A+Innovations%2C+Applications%2C+and+Future+Directions.md"
+      term_tag: "C173"
+      term_name: "Metacognitive_AI_Architectures"
+      encoded_at: "2026-03-04T06:03:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
