@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-03T22:13:00+08:00"
+last_updated: "2026-03-03T22:23:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 119
-  remaining_count: 267
+  encoded_count: 120
+  remaining_count: 266
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -190,6 +190,11 @@ C_series:
       term_tag: "C145"
       term_name: "Critical_Theory_Memetic_Team"
       encoded_at: "2026-03-03T22:13:00+08:00"
+
+    - source_file: "1771907212687_950501_Anthropic's+Ethical+Shift+in+AI+Welfare.md"
+      term_tag: "C146"
+      term_name: "AI_Welfare_Ethics"
+      encoded_at: "2026-03-03T22:23:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
