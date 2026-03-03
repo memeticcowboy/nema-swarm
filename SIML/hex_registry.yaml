@@ -1,0 +1,141 @@
+# SIML Hex Tag Registry
+# Single source of truth for all hex tag assignments
+# Generated: 2026-03-03
+# Format: Each series tracks assigned tags and next available
+
+A:
+  description: "Cognitive biases and psychological phenomena"
+  next_available: "A064"
+  assigned:
+    A01A: "Cognitive_Dissonance"
+    A01B: "Barnum_Effect"
+    A01C: "social_identity_bias"
+    A01D: "Neurological_Authoritarianism"
+    A01F: "AI_Cognition_Impacts"
+    A001: "Pneuma"
+    A02A: "Thinking_Errors_Communication"
+    A02B: "echo_chamber"
+    A02C: "Absorption_False_Memory"
+    A02D: "AI_Psychosis"
+    A02E: "Norm_Persistence"
+    A002: "Prana"
+    A03C: "Base_Rate_Neglect"
+    A03D: "Alien_Abduction_Beliefs"
+    A03E: "Cognitive_Vulnerabilities"
+    A003: "Qi"
+    A04A: "Forced_Continuity"
+    A04D: "Technology_Induced_Delusional_Disorder"
+    A004: "Shu"
+    A05A: "FalseMemory"
+    A05B: "Sleep_Paralysis"
+    A005: "Ehecatl"
+    A006: "Four_Winds"
+    A007: "Information_Bateson"
+    A008: "Double_Bind"
+    A009: "Linguistic_Organism"
+    A010: "Virtual_Machine_Consciousness"
+    A011: "Conscious_Realism"
+    A012: "Interface_Theory"
+    A013: "Cognitive_Distortion"
+    A014: "Dark_Patterns"
+    A015: "Mask_Wears_You"
+    A016: "Cognitive_Babel"
+    A017: "Motivated_Reasoning"
+    A019: "WYSIATI"
+    A026: "Framing_Effects"
+    A028: "Source_Monitoring_Error"
+    A030: "Deja_Vu"
+    A036: "Gamified_Democracy"
+    A037: "Overton_Window"
+    A038: "AI_Cognitive_Offloading"
+    A045: "Neurodiversity_Philosophy"
+    A053: "Status_Quo_Bias"
+    A055: "Spiral_of_Silence"
+    A057: "Confirmation_Bias"
+    A058: "Regenerative_Farming_Psychology"
+    A059: "Hyperobject"
+    A060: "Actual_Occasion"
+    A060: "Attention_Fragmentation"  # COLLISION - needs renumbering
+    A061: "Prehension"
+    A062: "Processive_Genetic"
+    A063: "Ecology_of_Mind"
+
+B:
+  description: "Borrowed concepts and external frameworks"
+  next_available: "B002"
+  assigned:
+    B001: "Borrowed_Mind"
+
+C:
+  description: "Critical thinking and cognitive processes"
+  next_available: "C138"
+  assigned:
+    C001: "Confabulation"  # COLLISION - needs renumbering to C138
+    C001: "critical_thinking_definitions"  # KEEP - has source_file provenance
+    C002: "fragmented_media_consumption"
+    # ... (truncated for brevity, full list in actual file)
+
+E:
+  description: "Earth/ground concepts and embodied cognition"
+  next_available: "E019"
+  assigned:
+    E001: "Gaia"
+    E002: "Prithvi"
+    E003: "Earth_as_Sacred_Relative"
+    E004: "Chinese_Earth_Element"
+    E005: "Terroir"
+    E006: "Wabi_Sabi"
+    E007: "Chthulucene"
+    E008: "Fermented_Knowledge"
+    E009: "Soil_Cognition"
+    E010: "Slow_Violence"
+    E011: "Enactive_Cognition"
+    E012: "Ethnomethodology"  # KEEP - hand-curated
+    E012: "Structural_Coupling"  # COLLISION - renumber to E019
+    E013: "Contexture"  # KEEP - hand-curated
+    E013: "Sense_Making"  # COLLISION - renumber to E020
+    E014: "Autopoiesis"
+    E015: "Sequential_Organization"  # KEEP - hand-curated
+    E015: "Whitehead_Concrescence"  # COLLISION - renumber to E021
+    E016: "Discursive_Psychology"  # KEEP - hand-curated
+    E016: "Mycorrhizal_Network"  # COLLISION - renumber to E022
+    E017: "Error_Preservation"
+    E018: "Epistemic_Innocence"
+
+M:
+  description: "Canonical nemetic keywords (abstract concepts)"
+  next_available: "M016"
+  assigned:
+    M001: "Multiplicity"  # KEEP - canonical keyword
+    M002: "Authenticity"  # KEEP - canonical keyword
+    M003: "Permeability"  # KEEP - canonical keyword
+    M004: "Metabolism"  # KEEP - canonical keyword
+    M005: "Triality"  # KEEP - canonical keyword
+    M006: "Fractal_Depth"  # KEEP - canonical keyword
+    M007: "Distinction"  # KEEP - canonical keyword
+    M008: "Stewardship"  # KEEP - canonical keyword
+    M009: "Tertiary_Emergence"  # KEEP - canonical keyword
+    M010: "Tertiary_Retention"  # KEEP - canonical keyword
+    M011: "Technics"
+    M012: "Pharmakon"
+    M013: "Iron_Mars"
+    M014: "Bronze_Age_Sacred"
+    M015: "Steel_Bismarck"
+    M099: "MemeGrid"
+
+MET:
+  description: "Elemental metal terms (mythological/physical)"
+  next_available: "MET011"
+  assigned: {}  # To be populated from M001-M010 renumbering
+
+# Renumbering plan:
+# M001_Gold -> MET001
+# M002_Silver -> MET002
+# M003_Iron -> MET003
+# M004_Blacksmith -> MET004
+# M005_Metal_in_Wu_Xing -> MET005
+# M006_Alchemical_Gold -> MET006
+# M007_Silver_Healing -> MET007
+# M008_Swords_to_Plowshares -> MET008
+# M009_Strategic_Metals_Dependency -> MET009
+# M010_Star_State -> MET010
