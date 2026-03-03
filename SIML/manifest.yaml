@@ -1,0 +1,152 @@
+# SIML Encoding Manifest
+# Tracks which source files have been processed into SIML terms
+# Format: List of entries with source_file, term_tag, term_name, encoded_at
+# Generated: 2026-03-03
+
+manifest_version: "1.0"
+last_updated: "2026-03-03T11:30:00+08:00"
+
+# C-Series: Critical Thinking
+C_series:
+  source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
+  total_source_files: 386
+  encoded_count: 105
+  remaining_count: 281
+  
+  encoded:
+    - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
+      term_tag: "C001"
+      term_name: "critical_thinking_definitions"
+      encoded_at: "2026-02-28T03:00:00Z"
+      
+    - source_file: "1771907212348_230827_Impact+of+Fragmented+Media+Consumption+on+Critical+Thinking.md"
+      term_tag: "C002"
+      term_name: "fragmented_media_consumption"
+      encoded_at: "2026-02-28T03:10:00Z"
+      
+    - source_file: "1771907212354_235569_Understanding+the+KM+Cognitive+Pyramid.md"
+      term_tag: "C003"
+      term_name: "km_cognitive_pyramid"
+      encoded_at: "2026-02-28T03:20:00Z"
+      
+    - source_file: "1771907212411_264711_The+iPhone+Generation+Paradox.md"
+      term_tag: "C005"
+      term_name: "iphone_generation_paradox"
+      encoded_at: "2026-02-28T03:30:00Z"
+      
+    - source_file: "1771907212374_245556_Exploring+Epistemology%3A+Truth%2C+Knowledge%2C+and+Belief.md"
+      term_tag: "C006"
+      term_name: "epistemology_truth_knowledge_belief"
+      encoded_at: "2026-02-28T03:40:00Z"
+      
+    - source_file: "1771907212390_254339_Consciousness+Beyond+Materialism.md"
+      term_tag: "C007"
+      term_name: "consciousness_beyond_materialism"
+      encoded_at: "2026-02-28T03:50:00Z"
+      
+    - source_file: "1771907212391_255425_Consciousness+and+Reductionism+Debate.md"
+      term_tag: "C008"
+      term_name: "consciousness_reductionism_debate"
+      encoded_at: "2026-02-28T04:00:00Z"
+      
+    - source_file: "1771907212404_262647_Exploring+Consciousness.md"
+      term_tag: "C009"
+      term_name: "exploring_consciousness"
+      encoded_at: "2026-02-28T04:10:00Z"
+      
+    - source_file: "1771907212429_272180_Influence+of+Authority+Figures.md"
+      term_tag: "C010"
+      term_name: "authority_influence"
+      encoded_at: "2026-02-28T04:20:00Z"
+      
+    - source_file: "1771907212431_272929_MIT+Expert+Warns+Against+AI+Romance.md"
+      term_tag: "C011"
+      term_name: "ai_romance_artificial_intimacy"
+      encoded_at: "2026-02-28T04:30:00Z"
+      
+    - source_file: "1771907212531_539189_Embracing+a+Scientist+Mindset.md"
+      term_tag: "C021"
+      term_name: "scientist_mindset"
+      encoded_at: "2026-02-28T04:40:00Z"
+      
+    - source_file: "1771907212470_347427_The+Psychological+Power+of+Words.md"
+      term_tag: "C030"
+      term_name: "psychological_power_of_words"
+      encoded_at: "2026-02-28T04:50:00Z"
+      
+    - source_file: "1771907213722_2618702_Understanding+Margaret+Gilbert%27s+Plural+Subject+Theory.md"
+      term_tag: "C037"
+      term_name: "plural_subject_theory"
+      encoded_at: "2026-02-28T05:00:00Z"
+      
+    - source_file: "1771907212462_305071_Human+Augmentation+Insights.md"
+      term_tag: "C041"
+      term_name: "human_augmentation"
+      encoded_at: "2026-02-28T05:10:00Z"
+      
+    - source_file: "1771907212463_308120_The+Essence+of+Dualities.md"
+      term_tag: "C042"
+      term_name: "essence_of_dualities"
+      encoded_at: "2026-02-28T05:20:00Z"
+      
+    - source_file: "1771907212472_364025_Carl+Jung%27s+1957+Psychological+Insights.md"
+      term_tag: "C043"
+      term_name: "carl_jung_psychological_insights"
+      encoded_at: "2026-02-28T05:30:00Z"
+      
+    - source_file: "1771907212479_418676_Exploring+the+Nature+of+Consciousness.md"
+      term_tag: "C045"
+      term_name: "nature_of_consciousness"
+      encoded_at: "2026-02-28T05:40:00Z"
+      
+    - source_file: "1771907212380_251789_.md"
+      term_tag: "C051"
+      term_name: "robust_thought_mental_processing"
+      encoded_at: "2026-02-28T05:50:00Z"
+      
+    - source_file: "1771907212521_527564_Understanding+Heuristics+and+Biases.md"
+      term_tag: "C052"
+      term_name: "heuristics_and_biases"
+      encoded_at: "2026-02-28T06:00:00Z"
+      
+    - source_file: "1771907212522_529149_Exploring+Brain-Computer+Interfaces.md"
+      term_tag: "C053"
+      term_name: "brain_computer_interfaces"
+      encoded_at: "2026-02-28T06:10:00Z"
+
+# Deduplication Index
+# Concepts that exist across multiple series (for cross-series dedup)
+cross_series_index:
+  confirmation_bias:
+    - series: "A"
+      tag: "A057"
+      name: "Confirmation_Bias"
+      
+  cognitive_dissonance:
+    - series: "A"
+      tag: "A01A"
+      name: "Cognitive_Dissonance"
+    - series: "P"
+      tag: "P005"
+      name: "Cognitive_Dissonance"
+      
+  status_quo_bias:
+    - series: "A"
+      tag: "A053"
+      name: "Status_Quo_Bias"
+    - series: "C"
+      tag: "C018"
+      name: "status_quo_bias"
+    - series: "C"
+      tag: "C065"
+      name: "status_quo_bias"
+
+# Encoding Rules
+rules:
+  - "ALWAYS check manifest before encoding"
+  - "NEVER encode a source_file already in manifest"
+  - "ALWAYS check cross_series_index for concept duplicates"
+  - "Use hex_registry.yaml for tag assignment"
+  - "Update BOTH manifest and registry after encoding"
+  - "Nemetic string format: Φ(Term) = σ(x|y) ∘ ρ(x|y) ∘ λ(x|y) ∘ β(x|y) ∘ δγ(x|y) ∘ μ(x|y) + ε | :state"
+  - "NEVER hallucinate related_terms - only reference existing entries"
