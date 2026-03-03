@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C171"
+  next_available: "C172"
   assigned:
+    C171: "Critical_Thinking_Creative_Problem_Solving"
     C170: "Infant_Consciousness_Studies"
     C16F: "Digital_Cognitive_Offloading"
     C16E: "Intention_Economy"
