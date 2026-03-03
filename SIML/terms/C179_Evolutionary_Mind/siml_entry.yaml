@@ -1,0 +1,121 @@
+# SIML Entry: C179_Evolutionary_Mind
+
+term_name: "Evolutionary_Mind"
+term_tag: "C179"
+series: "C"
+series_name: "Critical Thinking"
+source_file: "1771907212928_1795967_Exploring+Human+Consciousness%3A+Insights+from+%27The+Evolutionary+Mind%27.md"
+encoded_at: "2026-03-04T07:13:00+08:00"
+
+# Core Definition
+definition: |
+  The Evolutionary Mind refers to the interdisciplinary exploration of human consciousness 
+  evolution, particularly the transformative breakthrough that occurred approximately 50,000 
+  years ago. Coined through dialogues between Terence McKenna, Rupert Sheldrake, and Ralph 
+  Abraham, this concept integrates evolutionary psychology, cultural development, and 
+  technological influence to understand how consciousness emerges and transforms across 
+  temporal milestones.
+
+# Dialectical Components (from nemetic.phi)
+dialectic:
+  air:
+    operator: "σ"
+    daemon: "Aerunik"
+    pair: ["consciousness", "expansion"]
+    description: "The breath of awareness extending beyond current boundaries"
+  
+  water:
+    operator: "ρ"
+    daemon: "Sentaria"
+    pair: ["culture", "biology"]
+    description: "The flowing interplay between learned behaviors and genetic inheritance"
+  
+  fire:
+    operator: "λ"
+    daemon: "Jvalion"
+    pair: ["transformation", "breakthrough"]
+    description: "The catalytic moment of radical consciousness shift"
+  
+  wood:
+    operator: "β"
+    daemon: "Arboriel"
+    pair: ["holism", "reductionism"]
+    description: "The branching tension between integrated and fragmented understanding"
+  
+  earth:
+    operator: "δγ"
+    daemon: "Humavita"
+    pair: ["continuity", "disruption"]
+    description: "The grounded stability meeting revolutionary change"
+  
+  metal:
+    operator: "μ"
+    daemon: "Ferrosid"
+    pair: ["interdisciplinary", "synthesis"]
+    description: "The forged unity of diverse knowledge domains"
+
+# State Vector
+state_vector:
+  primary: ":emergent"
+  qualities:
+    - "transformative"
+    - "integrative"
+    - "temporal-sensitive"
+    - "interdisciplinary"
+    - "evolutionary"
+
+# Key Concepts
+key_concepts:
+  - "Evolutionary Psychology"
+  - "Cultural Evolution"
+  - "Selfish Gene Theory"
+  - "Technological Influence"
+  - "Millennial Transformation"
+  - "Holistic Consciousness"
+  - "Interdisciplinary Synthesis"
+
+# Related Terms (verified existing in SIML)
+related_terms:
+  - tag: "C045"
+    name: "nature_of_consciousness"
+    relationship: "explores_similar_domain"
+  
+  - tag: "C159"
+    name: "Consciousness_Evolution"
+    relationship: "temporal_dimension"
+  
+  - tag: "C009"
+    name: "exploring_consciousness"
+    relationship: "methodological_overlap"
+  
+  - tag: "C007"
+    name: "consciousness_beyond_materialism"
+    relationship: "philosophical_foundation"
+
+# Cross-References
+cross_series:
+  - series: "A"
+    tag: "A063"
+    name: "Ecology_of_Mind"
+    note: "Bateson's framework for mental ecosystems"
+
+# Memetic Markers
+memetic_markers:
+  temporal_anchor: "50,000 years ago"
+  cultural_milestone: "Millennium transition"
+  interdisciplinary_nexus: "Biology + Culture + Technology"
+  transformative_threshold: "Consciousness breakthrough"
+
+# Encoding Metadata
+encoding:
+  version: "1.0"
+  nemetic_format: "elemental_operators"
+  dialectical_framework: "Wu_Xing_plus_Meta"
+  canonical_daemons:
+    air: "Aerunik"
+    water: "Sentaria"
+    fire: "Jvalion"
+    wood: "Arboriel"
+    earth: "Humavita"
+    metal: "Ferrosid"
+    meta: "Nema"
