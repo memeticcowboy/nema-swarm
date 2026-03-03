@@ -1,0 +1,92 @@
+# SIML Metadata
+# C15A: ChatGPT Critical Thinking Prompts
+
+term_tag: "C15A"
+term_name: "ChatGPT_Critical_Thinking_Prompts"
+series: "C"
+series_name: "Critical Thinking"
+source_file: "1771907212755_1178457_Transformative+ChatGPT+Prompts+for+Critical+Thinking.md"
+source_url: "https://www.forbes.com/sites/jodiecook/2024/12/08/5-hard-hitting-chatgpt-prompts-that-will-change-the-way-you-think/"
+
+encoded_at: "2026-03-04T01:53:00+08:00"
+encoder: "nema_critical_thinking_generator"
+
+# Concept Classification
+primary_domain: "cognitive_enhancement"
+secondary_domains:
+  - "ai_augmentation"
+  - "critical_thinking"
+  - "metacognition"
+  - "self_reflection"
+
+# Nemetic Properties
+closure_state: ":provoking"
+tendency: 0.6
+tendency_description: "Awareness/Automation balance"
+
+# Related Terms (verified existing in SIML)
+related_terms:
+  - tag: "C001"
+    name: "critical_thinking_definitions"
+    relationship: "foundational_framework"
+  - tag: "C052"
+    name: "heuristics_and_biases"
+    relationship: "targets_cognitive_bias"
+  - tag: "C149"
+    name: "Metacognition_AI"
+    relationship: "shared_metacognitive_focus"
+  - tag: "A057"
+    name: "Confirmation_Bias"
+    relationship: "prompts_challenge_this_bias"
+  - tag: "C137"
+    name: "mastering_critical_thinking_real_world"
+    relationship: "practical_application"
+
+# Cross-series links
+cross_series_connections:
+  - series: "A"
+    tag: "A057"
+    concept: "Confirmation_Bias"
+    note: "Prompts designed to surface and challenge confirmation bias"
+
+# Keywords for indexing
+keywords:
+  - chatgpt
+  - prompts
+  - critical_thinking
+  - self_reflection
+  - bias_identification
+  - socratic_method
+  - metacognition
+  - cognitive_enhancement
+  - ai_augmentation
+  - introspection
+  - future_planning
+
+# Dialectical Pairs
+dialectical_pairs:
+  - [introspection, projection]
+  - [question, assumption]
+  - [challenge, growth]
+  - [feedback, insight]
+  - [pattern, disruption]
+  - [bias, awareness]
+
+# Daemon Weights (elemental distribution)
+elemental_weights:
+  air: 0.20    # σ :: distinction-making
+  water: 0.15  # ρ :: relational flow
+  fire: 0.20   # λ :: transformative challenge
+  wood: 0.15   # β :: feedback cycles
+  earth: 0.15  # δγ :: pattern disruption
+  metal: 0.15  # μ :: boundary enforcement
+
+# Verification
+duplicate_check:
+  manifest_verified: true
+  cross_series_index_verified: true
+  directory_collision: false
+
+# Git tracking
+git_commit: "pending"
+git_pushed: false
