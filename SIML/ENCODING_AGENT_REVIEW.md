@@ -218,9 +218,62 @@ The encoding agent likely suffers from:
 
 ## Recommendations
 
-1. **Deduplicate existing terms** — For each duplicate group, select the canonical version (prefer the one with `source_file` provenance) and remove or archive the others
-2. **Implement a processed-files manifest** — Before encoding, check a manifest of already-processed source files to avoid re-encoding
-3. **Implement hex tag registry** — Maintain a `hex_registry.yaml` that tracks all assigned hex tags to prevent collisions
-4. **Backfill `source_file` for older terms** — The C012-C050 range needs source provenance added
-5. **Process remaining 289 files** — Nearly 75% of Critical Thinking source material remains unencoded
-6. **Reconcile D-series** — The Democracy domain needs significant cleanup; 56 of 69 entries are variants of 7 core concepts
+> **Core problem:** Each cron run has no awareness of what was already encoded. The agent needs three things before it encodes anything: a processed-files manifest, a hex tag registry, and a dedup check.
+
+### 1. Processed-Files Manifest
+
+Before encoding a source file, the agent must check a manifest (e.g., `SIML/manifest.yaml`) that records every source file that has already been encoded and what term it produced. The cron job should:
+
+1. Load the manifest at startup
+2. Scan `SWARM_BASE/Critical Thinking/` for source files
+3. Skip any file already in the manifest
+4. After successfully encoding a new file, append it to the manifest before moving on
+
+```yaml
+# SIML/manifest.yaml — example
+entries:
+  - source_file: "1771907212348_230827_Impact+of+Fragmented+Media+Consumption.md"
+    term_dir: "C002_fragmented_media_consumption"
+    hex_tag: "C002"
+    encoded_at: "2026-01-15T03:00:00Z"
+```
+
+### 2. Hex Tag Registry
+
+Maintain a `SIML/hex_registry.yaml` that is the single source of truth for all assigned hex tags. Before assigning a new tag, the agent must:
+
+1. Load the registry
+2. Find the next available tag in the appropriate series (C for Critical Thinking, D for Democracy, etc.)
+3. Reserve the tag by writing it to the registry **before** writing the term files
+4. Never reuse or reassign an existing tag
+
+```yaml
+# SIML/hex_registry.yaml — example
+C:
+  next_available: "C137"
+  assigned:
+    C001: "critical_thinking_definitions"
+    C002: "fragmented_media_consumption"
+    # ...
+D:
+  next_available: "D070"
+  assigned:
+    D001: "democracy_networked_age"
+    # ...
+```
+
+### 3. Dedup Check Before Encoding
+
+Before creating a new term, the agent must search existing terms for:
+
+- **Exact name match** — same slug already exists in `SIML/terms/`
+- **Source file match** — same `source_file` already referenced by another term
+- **Semantic similarity** — title/concept closely matches an existing term (fuzzy match on the slug, e.g., `memory_storage_mechanism` vs `brain_memory_storage_mechanism`)
+
+If any match is found, the agent should skip encoding and log the collision rather than creating a duplicate.
+
+### 4. Remaining Work
+
+- **288 source files** in `Critical Thinking/` still await encoding
+- **16 hex tag collisions** need manual resolution (see Problem 2 above) — different concepts sharing a tag number need one of them renumbered
+- **`swarm_base_01.md`** needs reconciliation with `SIML/terms/` (see Problem 4 above)
