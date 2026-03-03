@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C16B"
+  next_available: "C16C"
   assigned:
+    C16B: "Cognitive_Laziness_LLM_Education"
     C16A: "Robert_Monroe_Afterlife_Bands"
     C169: "Bergson_Duration_Consciousness"
     C168: "Cognitive_Entrapment"

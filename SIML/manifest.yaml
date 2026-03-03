@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T04:33:00+08:00"
+last_updated: "2026-03-04T04:43:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 156
-  remaining_count: 230
+  encoded_count: 157
+  remaining_count: 229
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -375,6 +375,11 @@ C_series:
       term_tag: "C16A"
       term_name: "Robert_Monroe_Afterlife_Bands"
       encoded_at: "2026-03-04T04:33:00+08:00"
+
+    - source_file: "1771907212862_1615265_Navigating+Cognitive+Laziness+with+LLMs+in+Education.md"
+      term_tag: "C16B"
+      term_name: "Cognitive_Laziness_LLM_Education"
+      encoded_at: "2026-03-04T04:43:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
