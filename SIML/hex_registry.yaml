@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C149"
+  next_available: "C14A"
   assigned:
+    C149: "Metacognition_AI"
     C148: "Free_Will_Determinism"
     C147: "Technology_Environmental_Adaptation"
     C146: "AI_Welfare_Ethics"
