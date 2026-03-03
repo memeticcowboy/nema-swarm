@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T02:13:00+08:00"
+last_updated: "2026-03-04T02:23:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 142
-  remaining_count: 244
+  encoded_count: 143
+  remaining_count: 243
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -305,6 +305,11 @@ C_series:
       term_tag: "C15C"
       term_name: "Cognitive_AI"
       encoded_at: "2026-03-04T02:13:00+08:00"
+
+    - source_file: "1771907212787_1247986_Exploring+Power+and+Ecology+in+Dune.md"
+      term_tag: "C15D"
+      term_name: "Power_Ecology_Dune"
+      encoded_at: "2026-03-04T02:23:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
