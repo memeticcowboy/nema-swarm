@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C140"
+  next_available: "C141"
   assigned:
+    C140: "Wisdom_as_Filtering"
     C13F: "Intellectual_Lineage"
     C001: "critical_thinking_definitions"
     C002: "fragmented_media_consumption"
