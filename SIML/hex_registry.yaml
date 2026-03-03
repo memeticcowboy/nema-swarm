@@ -57,8 +57,8 @@ A:
     A061: "Prehension"
     A062: "Processive_Genetic"
     A063: "Ecology_of_Mind"
-  collisions:
-    A060: ["Actual_Occasion", "Attention_Fragmentation"]
+    A064: "Attention_Fragmentation"
+  collisions: {}
 
 B:
   description: "Borrowed concepts and external frameworks"
@@ -207,11 +207,39 @@ C:
     C135: "social_capital_types"
     C136: "subconscious_games_decision_making"
     C137: "mastering_critical_thinking_real_world"
-  collisions:
-    C001: ["critical_thinking_definitions", "Confabulation"]
+    C138: "Confabulation"
+  collisions: {}
+
+E:
+  description: "Earth/ground phenomena and enactive cognition"
+  next_available: "E019"
+  assigned:
+    E001: "Gaia"
+    E002: "Prithvi"
+    E003: "Earth_as_Sacred_Relative"
+    E004: "Chinese_Earth_Element"
+    E005: "Terroir"
+    E006: "Wabi_Sabi"
+    E007: "Chthulucene"
+    E008: "Fermented_Knowledge"
+    E009: "Soil_Cognition"
+    E010: "Slow_Violence"
+    E011: "Enactive_Cognition"
+    E012: "Ethnomethodology"
+    E013: "Contexture"
+    E014: "Autopoiesis"
+    E015: "Sequential_Organization"
+    E016: "Discursive_Psychology"
+    E017: "Error_Preservation"
+    E018: "Epistemic_Innocence"
+    E019: "Structural_Coupling"
+    E020: "Sense_Making"
+    E021: "Whitehead_Concrescence"
+    E022: "Mycorrhizal_Network"
+  collisions: {}
 
 M:
-  description: "Canonical nemetic keywords and elemental metal concepts"
+  description: "Meta-level and Metal-element concepts"
   next_available: "M016"
   assigned:
     M001: "Multiplicity"
@@ -243,34 +271,66 @@ M:
     M010: ["Tertiary_Retention", "Star_State"]
 
 MET:
-  description: "Elemental metal terms (renumbered from M-series collisions)"
+  description: "Elemental Metal terms (mythological/alchemical)"
   next_available: "MET011"
   assigned: {}
 
-E:
-  description: "Earth-related and enactivism concepts"
-  next_available: "E019"
+N:
+  description: "Narrative and construction processes"
+  next_available: "N002"
   assigned:
-    E001: "Gaia"
-    E002: "Prithvi"
-    E003: "Earth_as_Sacred_Relative"
-    E004: "Chinese_Earth_Element"
-    E005: "Terroir"
-    E006: "Wabi_Sabi"
-    E007: "Chthulucene"
-    E008: "Fermented_Knowledge"
-    E009: "Soil_Cognition"
-    E010: "Slow_Violence"
-    E011: "Enactive_Cognition"
-    E012: "Ethnomethodology"
-    E013: "Contexture"
-    E014: "Autopoiesis"
-    E015: "Sequential_Organization"
-    E016: "Discursive_Psychology"
-    E017: "Error_Preservation"
-    E018: "Epistemic_Innocence"
-  collisions:
-    E012: ["Ethnomethodology", "Structural_Coupling"]
-    E013: ["Contexture", "Sense_Making"]
-    E015: ["Sequential_Organization", "Whitehead_Concrescence"]
-    E016: ["Discursive_Psychology", "Mycorrhizal_Network"]
+    N001: "Narrative_Construction"
+
+O:
+  description: "Openness and permeability concepts"
+  next_available: "O002"
+  assigned:
+    O001: "Omega_Permeability"
+
+U:
+  description: "Underdetermination and epistemic conditions"
+  next_available: "U002"
+  assigned:
+    U001: "Underdetermination"
+
+# Renumbering Plan
+renumbering:
+  # M-series: Elemental metals to MET prefix
+  - old: M001_Gold
+    new: MET001_Gold
+  - old: M002_Silver
+    new: MET002_Silver
+  - old: M003_Iron
+    new: MET003_Iron
+  - old: M004_Blacksmith
+    new: MET004_Blacksmith
+  - old: M005_Metal_in_Wu_Xing
+    new: MET005_Metal_in_Wu_Xing
+  - old: M006_Alchemical_Gold
+    new: MET006_Alchemical_Gold
+  - old: M007_Silver_Healing
+    new: MET007_Silver_Healing
+  - old: M008_Swords_to_Plowshares
+    new: MET008_Swords_to_Plowshares
+  - old: M009_Strategic_Metals_Dependency
+    new: MET009_Strategic_Metals_Dependency
+  - old: M010_Star_State
+    new: MET010_Star_State
+  
+  # C001: Confabulation to C138
+  - old: C001_Confabulation
+    new: C138_Confabulation
+  
+  # A060: Attention_Fragmentation to A064
+  - old: A060_Attention_Fragmentation
+    new: A064_Attention_Fragmentation
+  
+  # E-series: Auto-generated to E019-E022
+  - old: E012_Structural_Coupling
+    new: E019_Structural_Coupling
+  - old: E013_Sense_Making
+    new: E020_Sense_Making
+  - old: E015_Whitehead_Concrescence
+    new: E021_Whitehead_Concrescence
+  - old: E016_Mycorrhizal_Network
+    new: E022_Mycorrhizal_Network
