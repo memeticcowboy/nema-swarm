@@ -238,6 +238,21 @@ E:
     E022: "Mycorrhizal_Network"
   collisions: {}
 
+MET:
+  description: "Elemental Metal terms (mythological/alchemical)"
+  next_available: "MET011"
+  assigned:
+    MET001: "Gold"
+    MET002: "Silver"
+    MET003: "Iron"
+    MET004: "Blacksmith"
+    MET005: "Metal_in_Wu_Xing"
+    MET006: "Alchemical_Gold"
+    MET007: "Silver_Healing"
+    MET008: "Swords_to_Plowshares"
+    MET009: "Strategic_Metals_Dependency"
+    MET010: "Star_State"
+
 M:
   description: "Meta-level and Metal-element concepts"
   next_available: "M016"
@@ -258,22 +273,7 @@ M:
     M014: "Bronze_Age_Sacred"
     M015: "Steel_Bismarck"
     M099: "MemeGrid"
-  collisions:
-    M001: ["Multiplicity", "Gold"]
-    M002: ["Authenticity", "Silver"]
-    M003: ["Permeability", "Iron"]
-    M004: ["Metabolism", "Blacksmith"]
-    M005: ["Triality", "Metal_in_Wu_Xing"]
-    M006: ["Fractal_Depth", "Alchemical_Gold"]
-    M007: ["Distinction", "Silver_Healing"]
-    M008: ["Stewardship", "Swords_to_Plowshares"]
-    M009: ["Tertiary_Emergence", "Strategic_Metals_Dependency"]
-    M010: ["Tertiary_Retention", "Star_State"]
-
-MET:
-  description: "Elemental Metal terms (mythological/alchemical)"
-  next_available: "MET011"
-  assigned: {}
+  collisions: {}
 
 N:
   description: "Narrative and construction processes"
