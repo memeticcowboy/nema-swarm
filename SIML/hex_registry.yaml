@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C16F"
+  next_available: "C170"
   assigned:
+    C16F: "Digital_Cognitive_Offloading"
     C16E: "Intention_Economy"
     C16D: "Genius_Madness_Connection"
     C16C: "Illusion_of_Self"
