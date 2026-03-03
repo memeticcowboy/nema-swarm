@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T03:53:00+08:00"
+last_updated: "2026-03-04T04:13:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 152
-  remaining_count: 234
+  encoded_count: 154
+  remaining_count: 232
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -355,6 +355,16 @@ C_series:
       term_tag: "C166"
       term_name: "Cognitive_Work_Analysis"
       encoded_at: "2026-03-04T03:53:00+08:00"
+
+    - source_file: "1771907212834_1466107_Finding+Balance%3A+Viktor+Frankl%27s+Insights+on+Mental+Health+and+Meaning.md"
+      term_tag: "C167"
+      term_name: "Frankl_Logotherapy_Meaning"
+      encoded_at: "2026-03-04T04:00:00+08:00"
+
+    - source_file: "1771907212845_1514680_Cognitive+Entrapment%3A+AI%27s+Intellectual+Trap.md"
+      term_tag: "C168"
+      term_name: "Cognitive_Entrapment"
+      encoded_at: "2026-03-04T04:13:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)

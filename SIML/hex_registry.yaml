@@ -68,8 +68,10 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C167"
+  next_available: "C169"
   assigned:
+    C168: "Cognitive_Entrapment"
+    C167: "Frankl_Logotherapy_Meaning"
     C166: "Cognitive_Work_Analysis"
     C165: "Magna_Carta_Rebellion"
     C164: "Gateway_Process_Reincarnation"
