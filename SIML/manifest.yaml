@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T01:33:00+08:00"
+last_updated: "2026-03-04T01:43:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 138
-  remaining_count: 248
+  encoded_count: 139
+  remaining_count: 247
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -285,6 +285,11 @@ C_series:
       term_tag: "C158"
       term_name: "Gateway_Program"
       encoded_at: "2026-03-04T01:33:00+08:00"
+
+    - source_file: "1771907212749_1148551_Mapping+Humanity%27s+Consciousness+Evolution%3A+From+Myths+to+Meta-Consciousness.md"
+      term_tag: "C159"
+      term_name: "Consciousness_Evolution"
+      encoded_at: "2026-03-04T01:43:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
