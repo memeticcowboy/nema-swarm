@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C147"
+  next_available: "C148"
   assigned:
+    C147: "Technology_Environmental_Adaptation"
     C146: "AI_Welfare_Ethics"
     C145: "Critical_Theory_Memetic_Team"
     C144: "Rethinking_Success"
