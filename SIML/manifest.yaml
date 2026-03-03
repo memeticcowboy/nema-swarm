@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T05:03:00+08:00"
+last_updated: "2026-03-04T05:13:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 159
-  remaining_count: 227
+  encoded_count: 160
+  remaining_count: 226
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -390,6 +390,11 @@ C_series:
       term_tag: "C16D"
       term_name: "Genius_Madness_Connection"
       encoded_at: "2026-03-04T05:03:00+08:00"
+
+    - source_file: "1771907212893_1698322_AI%27s+Influence+on+Human+Decision-Making+and+Ethics.md"
+      term_tag: "C16E"
+      term_name: "Intention_Economy"
+      encoded_at: "2026-03-04T05:13:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
