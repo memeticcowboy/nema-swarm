@@ -10,8 +10,8 @@ last_updated: "2026-03-03T21:23:00+08:00"
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 112
-  remaining_count: 274
+  encoded_count: 115
+  remaining_count: 271
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -155,6 +155,21 @@ C_series:
       term_tag: "C140"
       term_name: "Wisdom_as_Filtering"
       encoded_at: "2026-03-03T21:23:00+08:00"
+
+    - source_file: "1771907212619_740249_Boosting+Neurogenesis+in+Aging+Brains.md"
+      term_tag: "C139"
+      term_name: "Neurogenesis_Aging_Brains"
+      encoded_at: "2026-03-03T21:30:00+08:00"
+
+    - source_file: "1771907212654_850934_Exploring+Personality+Traits%3A+A+Deep+Dive+into+Character+Assessment+via+ChatGPT.md"
+      term_tag: "C13E"
+      term_name: "AI_Personality_Assessment"
+      encoded_at: "2026-03-03T21:08:00+08:00"
+
+    - source_file: "1771907212656_851974_Exploring+Consciousness+in+AI.md"
+      term_tag: "C141"
+      term_name: "Consciousness_in_AI"
+      encoded_at: "2026-03-03T21:35:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)

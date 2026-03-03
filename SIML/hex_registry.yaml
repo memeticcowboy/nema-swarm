@@ -68,8 +68,11 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C141"
+  next_available: "C142"
   assigned:
+    C141: "Consciousness_in_AI"
+    C13E: "AI_Personality_Assessment"
+    C139: "Neurogenesis_Aging_Brains"
     C140: "Wisdom_as_Filtering"
     C13F: "Intellectual_Lineage"
     C001: "critical_thinking_definitions"
