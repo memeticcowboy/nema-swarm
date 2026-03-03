@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-03T23:13:00+08:00"
+last_updated: "2026-03-03T23:23:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 125
-  remaining_count: 261
+  encoded_count: 126
+  remaining_count: 260
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -220,6 +220,11 @@ C_series:
       term_tag: "C14B"
       term_name: "Sudden_Savant_Syndrome"
       encoded_at: "2026-03-03T23:13:00+08:00"
+
+    - source_file: "1771907212706_1007515_Exploring+Consciousness+and+Reality.md"
+      term_tag: "C14C"
+      term_name: "Consciousness_as_Reality_Window"
+      encoded_at: "2026-03-03T23:23:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
