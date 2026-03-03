@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-03T20:53:00+08:00"
+last_updated: "2026-03-03T21:13:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 110
-  remaining_count: 276
+  encoded_count: 111
+  remaining_count: 275
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -145,6 +145,11 @@ C_series:
       term_tag: "C13D"
       term_name: "MEbot_Consciousness_Perspectives"
       encoded_at: "2026-03-03T20:53:00+08:00"
+      
+    - source_file: "1771907212622_750775_Untitled.md"
+      term_tag: "C13F"
+      term_name: "Intellectual_Lineage"
+      encoded_at: "2026-03-03T21:13:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
