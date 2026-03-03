@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C14B"
+  next_available: "C14C"
   assigned:
+    C14B: "Sudden_Savant_Syndrome"
     C14A: "Taste_Trap"
     C148: "Free_Will_Determinism"
     C147: "Technology_Environmental_Adaptation"
