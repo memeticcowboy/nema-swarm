@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C184"
+  next_available: "C185"
   assigned:
+    C184: "Cognitive_Decline_Technology_Education"
     C183: "AI_Critical_Thinking_High_Stakes"
     C182: "AI_Bias_Fairness"
     C181: "Unseen_Health_Threats"
