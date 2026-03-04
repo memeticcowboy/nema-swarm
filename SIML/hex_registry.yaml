@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C187"
+  next_available: "C188"
   assigned:
+    C187: "AI_Chatbot_Therapy"
     C186: "Faceted_Knowledge_Classification"
     C185: "NOVA1_Language_Gene"
     C184: "Cognitive_Decline_Technology_Education"
