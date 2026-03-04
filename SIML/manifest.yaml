@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T07:53:00+08:00"
+last_updated: "2026-03-04T08:15:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 175
-  remaining_count: 211
+  encoded_count: 177
+  remaining_count: 209
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -470,6 +470,16 @@ C_series:
       term_tag: "C17D"
       term_name: "AI_Conformity_Creativity"
       encoded_at: "2026-03-04T07:53:00+08:00"
+
+    - source_file: "1771907212950_1828094_Hegel%27s+Path+to+Happiness+Through+Community.md"
+      term_tag: "C17E"
+      term_name: "Hegel_Community_Happiness"
+      encoded_at: "2026-03-04T08:03:00+08:00"
+
+    - source_file: "1771907212952_1830252_Exploring+Freedom+and+Power+in+%27Freedom%E2%84%A2%27+by+Daniel+Suarez.md"
+      term_tag: "C17F"
+      term_name: "Freedom_Suarez_Daemon"
+      encoded_at: "2026-03-04T08:15:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
