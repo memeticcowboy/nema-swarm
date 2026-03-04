@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T09:13:00+08:00"
+last_updated: "2026-03-04T09:23:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 182
-  remaining_count: 204
+  encoded_count: 183
+  remaining_count: 203
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -505,6 +505,11 @@ C_series:
       term_tag: "C184"
       term_name: "Cognitive_Decline_Technology_Education"
       encoded_at: "2026-03-04T09:13:00+08:00"
+
+    - source_file: "1771907212977_1863825_Human+Language+Gene+NOVA1+Alters+Mouse+Vocalizations.md"
+      term_tag: "C185"
+      term_name: "NOVA1_Language_Gene"
+      encoded_at: "2026-03-04T09:23:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)
