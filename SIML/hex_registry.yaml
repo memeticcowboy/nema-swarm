@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C188"
+  next_available: "C189"
   assigned:
+    C188: "Moral_Frameworks_Emotional_Boundaries"
     C187: "AI_Chatbot_Therapy"
     C186: "Faceted_Knowledge_Classification"
     C185: "NOVA1_Language_Gene"
