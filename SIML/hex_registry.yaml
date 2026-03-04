@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C182"
+  next_available: "C183"
   assigned:
+    C182: "AI_Bias_Fairness"
     C181: "Unseen_Health_Threats"
     C180: "Autistic_Savant_Telepathy"
     C17F: "Freedom_Suarez_Daemon"
