@@ -4,14 +4,14 @@
 # Generated: 2026-03-03
 
 manifest_version: "1.0"
-last_updated: "2026-03-04T08:23:00+08:00"
+last_updated: "2026-03-04T08:33:00+08:00"
 
 # C-Series: Critical Thinking
 C_series:
   source_directory: "/tmp/nema-swarm/SWARM_BASE/Critical Thinking/"
   total_source_files: 386
-  encoded_count: 178
-  remaining_count: 208
+  encoded_count: 179
+  remaining_count: 207
   
   encoded:
     - source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
@@ -485,6 +485,11 @@ C_series:
       term_tag: "C180"
       term_name: "Autistic_Savant_Telepathy"
       encoded_at: "2026-03-04T08:23:00+08:00"
+
+    - source_file: "1771907212956_1833006_Unseen+Threats+to+Health%3A+Insights+from+Reddit.md"
+      term_tag: "C181"
+      term_name: "Unseen_Health_Threats"
+      encoded_at: "2026-03-04T08:33:00+08:00"
 
 # Deduplication Index
 # Concepts that exist across multiple series (for cross-series dedup)

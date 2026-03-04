@@ -68,8 +68,9 @@ B:
 
 C:
   description: "Critical thinking and cognitive processes"
-  next_available: "C181"
+  next_available: "C182"
   assigned:
+    C181: "Unseen_Health_Threats"
     C180: "Autistic_Savant_Telepathy"
     C17F: "Freedom_Suarez_Daemon"
     C17E: "Hegel_Community_Happiness"
