@@ -316,6 +316,18 @@ E:
     E022: "Mycorrhizal_Network"
   collisions: {}
 
+F:
+  description: "Fire-element phenomena and ignition processes"
+  next_available: "F008"
+  assigned:
+    F001: "Prometheus__Fire"
+    F002: "Agni"
+    F003: "Wu_Xing_Fire"
+    F004: "Cool_Burning"
+    F005: "Sacred_Fire"
+    F006: "Global_Workspace_Theory"
+    F007: "Frisson"
+
 MET:
   description: "Elemental Metal terms (mythological/alchemical)"
   next_available: "MET011"
