@@ -283,12 +283,72 @@ entries:
     action: "skipped"
     reason: "Near-duplicate of S01F_Belief_Systems_Metamodel"
 
+  - seq: 51
+    source_file: "1771907212437_275435_Understanding+and+Unpacking+Beliefs.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01F_Belief_Systems_Metamodel"
+
+  - seq: 52
+    source_file: "1771907212438_276333_How+the+Brain+Fills+in+the+Blanks.md"
+    action: "encoded"
+    tag: "S020"
+    term_name: "Brain_Constructive_Perception"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 53
+    source_file: "1771907212439_276571_Embracing+the+Living+World%3A+Insights+from+Iain+McGilchrist.md"
+    action: "skipped"
+    reason: "Too thin — single quote commentary, insufficient substance"
+
+  - seq: 54
+    source_file: "1771907212440_276749_The+Art+of+Not+Trying.md"
+    action: "encoded"
+    tag: "S021"
+    term_name: "Wu_Wei_Effortless_Action"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 55
+    source_file: "1771907212440_276755_.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021 (brief Tao Te Ching summary)"
+
+  - seq: 56
+    source_file: "1771907212440_276758_Effortless+Action%3A+Wu-Wei+of+Confucius.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021 (same Wu-Wei concept, Confucian angle)"
+
+  - seq: 57
+    source_file: "1771907212444_278864_Integrating+Neuro-Linguistic+Programming+%28NLP%29+Insights+with+NEME+Process.md"
+    action: "encoded"
+    tag: "S022"
+    term_name: "NLP_NEME_Integration"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 58
+    source_file: "1771907212445_279744_Enhancing+Integrative+Thinking+with+NEME+Loop.md"
+    action: "skipped"
+    reason: "Thin NEME Loop outline, overlaps S01D/S01E and S022"
+
+  - seq: 59
+    source_file: "1771907212446_279796_The+Never-Ending+Cycle+of+Student+Learning.md"
+    action: "encoded"
+    tag: "S023"
+    term_name: "Student_Learning_Cycle_NEME"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 60
+    source_file: "1771907212447_280344_.md"
+    action: "encoded"
+    tag: "S024"
+    term_name: "Fractal_Geometry_Hidden_Dimension"
+    encoded_at: "2026-03-05T18:55:00Z"
+
 summary:
-  total_processed: 50
-  encoded: 30
-  skipped_duplicate: 14
-  skipped_empty: 6
+  total_processed: 60
+  encoded: 35
+  skipped_duplicate: 17
+  skipped_empty: 8
   skipped_error: 0
-  last_tag_assigned: "S01F"
-  next_available: "S020"
-  remaining_files: 578
+  last_tag_assigned: "S024"
+  next_available: "S025"
+  remaining_files: 568

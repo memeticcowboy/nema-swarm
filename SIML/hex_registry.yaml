@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S020"
+  next_available: "S025"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -380,6 +380,11 @@ S:
     S01D: "NEME_Notice_Stage"
     S01E: "Nemes_Units_of_Learning"
     S01F: "Belief_Systems_Metamodel"
+    S020: "Brain_Constructive_Perception"
+    S021: "Wu_Wei_Effortless_Action"
+    S022: "NLP_NEME_Integration"
+    S023: "Student_Learning_Cycle_NEME"
+    S024: "Fractal_Geometry_Hidden_Dimension"
   collisions: {}
 
 U:

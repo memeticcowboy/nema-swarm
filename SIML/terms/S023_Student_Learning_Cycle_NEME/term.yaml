@@ -1,0 +1,66 @@
+---
+term: "Student Learning Cycle NEME"
+hex_tag: "S023"
+series: "S"
+source_file: "1771907212446_279796_The+Never-Ending+Cycle+of+Student+Learning%3A+A+Rollercoaster+of+Curiosity+and+Innovation.md"
+encoded_at: "2026-03-05T18:55:00Z"
+description: "A NEME-based model of student learning as a never-ending five-phase cycle — Notice, Exploration, Invention, Application, Challenge — where each challenge generates new problems, ensuring learning is perpetually evolving and adaptive."
+nemetic: "Φ(LearnCycle) = σ(problem|concept) ∘ ρ(curiosity|question) ∘ λ(finding|solution) ∘ β(theory|practice) ∘ δγ(challenge|notice) ∘ μ(cycle|scaffold) + ε | :perpetual_learning"
+siml_encoding: "⟨problem, concept⟩ ⊳ ⟨curiosity, question⟩ → ⟨finding, solution⟩ ⊗ ⟨theory, practice⟩ ⇄ ⟨challenge, notice⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (identifying and distinguishing new problems or concepts)"
+    - "∂Φ/∂ρ (relating curiosity-driven questions to information gathering)"
+    - "∂Φ/∂λ (transforming findings into invented solutions through brainstorming)"
+    - "∂Φ/∂β (growing from theory into practice through real-world application)"
+    - "∂Φ/∂δγ (cycling from new challenges back to fresh noticing)"
+    - "∂Φ/∂μ (structuring the five-phase cycle as a repeatable scaffold)"
+  Z_state: "perpetual_learning (learning never terminates; each application generates new challenges)"
+  tendency: "δγ/β → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "Notice phase: identifying a new problem or concept as distinct"
+      - "Distinguishing what is known from what needs to be explored"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.70
+    aspects:
+      - "Exploration phase: curiosity-driven gathering of information and questions"
+      - "Relational connections between new information and existing knowledge"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "Invention phase: brainstorming and creating solutions from gathered findings"
+      - "Transformative leap from information to novel solution"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "Application phase: theory meets practice in real-world scenarios"
+      - "Growth from abstract understanding to concrete capability"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects:
+      - "Challenge phase feeding back to Notice: the never-ending cycle"
+      - "Each solution generates new problems, ensuring perpetual iteration"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.55
+    aspects:
+      - "Five-phase structure as a repeatable pedagogical scaffold"
+      - "Formal cycle architecture enabling systematic learning progression"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S01D_NEME_Notice_Stage"
+  - "S01E_Nemes_Units_of_Learning"
+  - "S01C_Blooms_Taxonomy_Thinking_Integration"
+  - "S008_Metacognitive_Strategies"
+  - "S001_SCAMPER"
+  - "S005_DSRP_Theory_of_Thinking"
+status: canonical
+---
