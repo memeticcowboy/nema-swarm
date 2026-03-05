@@ -146,12 +146,67 @@ entries:
     term_name: "Crow_Intelligence_Alien_Minds"
     encoded_at: "2026-03-05T18:20:00Z"
 
+  - seq: 21
+    source_file: "1771907212400_259972_Animal+Learning+and+Memetics.md"
+    action: "encoded"
+    tag: "S013"
+    term_name: "Animal_Learning_Memetics"
+
+  - seq: 22
+    source_file: "1771907212401_260518_Exploring+the+Interplay+of+Morality%2C+Religion%2C+and+Society+in+Ancient+Times.md"
+    action: "skipped"
+    reason: "Near-duplicate of file 23 (same topic, less detailed)"
+
+  - seq: 23
+    source_file: "1771907212402_260555_Morality%2C+Religion%2C+and+Society+in+Ancient+Times.md"
+    action: "encoded"
+    tag: "S014"
+    term_name: "Morality_Religion_Ancient_Society"
+
+  - seq: 24
+    source_file: "1771907212403_261630_Enhancing+Digital+Marketing+Funnel+with+Metacognitive+Strategies.md"
+    action: "skipped"
+    reason: "Near-duplicate of S009_Metacognitive_Marketing_Funnel"
+
+  - seq: 25
+    source_file: "1771907212404_262767_Dr.+Cabrera%27s+Neurodiversity+Insights.md"
+    action: "encoded"
+    tag: "S015"
+    term_name: "Cabrera_Neurodiversity_DSRP"
+
+  - seq: 26
+    source_file: "1771907212405_262775_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on elaboration learning tactic"
+
+  - seq: 27
+    source_file: "1771907212406_262778_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on concrete examples tactic"
+
+  - seq: 28
+    source_file: "1771907212406_262779_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on dual coding tactic"
+
+  - seq: 29
+    source_file: "1771907212412_264797_Lacan%27s+Theory+of+Psychic+Experience%3A+Imaginary%2C+Symbolic%2C+Real.md"
+    action: "encoded"
+    tag: "S016"
+    term_name: "Lacan_Imaginary_Symbolic_Real"
+
+  - seq: 30
+    source_file: "1771907212412_264798_Lacan%27s+Mirror+Stage+and+Desire+Theory.md"
+    action: "encoded"
+    tag: "S017"
+    term_name: "Lacan_Mirror_Stage_Desire"
+
 summary:
-  total_processed: 20
-  encoded: 17
-  skipped_duplicate: 2
-  skipped_empty: 1
+  total_processed: 30
+  encoded: 22
+  skipped_duplicate: 4
+  skipped_empty: 4
   skipped_error: 0
-  last_tag_assigned: "S012"
-  next_available: "S013"
-  remaining_files: 608
+  last_tag_assigned: "S017"
+  next_available: "S018"
+  remaining_files: 598
