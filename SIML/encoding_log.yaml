@@ -592,12 +592,79 @@ entries:
     term_name: "Subjective_Idealism_Memes_Reality"
     encoded_at: "2026-03-05T20:30:00Z"
 
+  # Batch 11 (files 101-110)
+  - seq: 101
+    source_file: "1771907212620_740565_Exploring+Socially-Minded+Intelligence.md"
+    action: "encoded"
+    tag: "S03F"
+    term_name: "Socially_Minded_Intelligence"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 102
+    source_file: "1771907212620_743661_Exploring+Identity+Through+the+Ship+of+Theseus+Thought+Experiment.md"
+    action: "encoded"
+    tag: "S040"
+    term_name: "Ship_of_Theseus_Identity"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 103
+    source_file: "1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md"
+    action: "encoded"
+    tag: "S041"
+    term_name: "Neural_Manifolds"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 104
+    source_file: "1771907212624_752574_Reframing+Freedom%3A+From+Want+to+Create.md"
+    action: "encoded"
+    tag: "S042"
+    term_name: "Reframing_Freedom_Creative_Agency"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 105
+    source_file: "1771907212624_755123_.md"
+    action: "skipped"
+    reason: "Too thin — Heraclitus river quote with brief Pi_AI commentary"
+
+  - seq: 106
+    source_file: "1771907212624_755682_Exploring+the+Tree+of+Thought%3A+A+Journey+Through+Oneness+and+Duality.md"
+    action: "encoded"
+    tag: "S043"
+    term_name: "Tree_of_Thought_Oneness_Duality"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 107
+    source_file: "1771907212627_771239_Exploring+the+Extended+Mind+and+Morphic+Resonance.md"
+    action: "encoded"
+    tag: "S044"
+    term_name: "Extended_Mind_Morphic_Resonance"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 108
+    source_file: "1771907212629_777101_Metaphysical+Foundations+of+Memetic+Resonance.md"
+    action: "encoded"
+    tag: "S045"
+    term_name: "Metaphysical_Memetic_Resonance"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 109
+    source_file: "1771907212630_784379_Enhancing+Education+with+Cognitive+Frameworks.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01C_Blooms_Taxonomy_Thinking_Integration"
+
+  - seq: 110
+    source_file: "1771907212630_784444_Cognitive+Models+in+Storytelling.md"
+    action: "encoded"
+    tag: "S046"
+    term_name: "Cognitive_Models_Storytelling"
+    encoded_at: "2026-03-05T21:00:00Z"
+
 summary:
-  total_processed: 100
-  encoded: 61
-  skipped_duplicate: 27
-  skipped_empty: 12
+  total_processed: 110
+  encoded: 69
+  skipped_duplicate: 28
+  skipped_empty: 13
   skipped_error: 0
-  last_tag_assigned: "S03E"
-  next_available: "S03F"
-  remaining_files: 528
+  last_tag_assigned: "S046"
+  next_available: "S047"
+  remaining_files: 518
