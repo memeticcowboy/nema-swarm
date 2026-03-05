@@ -407,12 +407,67 @@ entries:
     action: "skipped"
     reason: "Near-duplicate of S003_Subconscious_Intention_Embedding"
 
+  - seq: 71
+    source_file: "1771907212468_338736_Faces+Evolve+to+Match+Names.md"
+    action: "encoded"
+    tag: "S02C"
+    term_name: "Face_Name_Self_Fulfilling_Prophecy"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 72
+    source_file: "1771907212476_404712_.md"
+    action: "skipped"
+    reason: "Too thin — 2 paragraphs on intuition/collective unconscious"
+
+  - seq: 73
+    source_file: "1771907212479_409639_Embracing+Wu-Wei+for+Modern+Harmony.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021_Wu_Wei_Effortless_Action"
+
+  - seq: 74
+    source_file: "1771907212483_439314_.md"
+    action: "skipped"
+    reason: "Incoherent voice memo transcript"
+
+  - seq: 75
+    source_file: "1771907212484_450691_Brain+Networks+and+Creative+Thinking.md"
+    action: "encoded"
+    tag: "S02D"
+    term_name: "Brain_Networks_Creative_Thinking"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 76
+    source_file: "1771907212489_469466_Mastering+Sensemaking+for+Success.md"
+    action: "encoded"
+    tag: "S02E"
+    term_name: "Sensemaking_Mastery_Framework"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 77
+    source_file: "1771907212512_516470_Neural+Insights+into+Inferential+Reasoning.md"
+    action: "encoded"
+    tag: "S02F"
+    term_name: "Neural_Inferential_Reasoning"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 78-79
+    source_files: "Art of Effortless Action + Mastery in Motion"
+    action: "skipped"
+    reason: "Near-duplicates of S021_Wu_Wei_Effortless_Action"
+
+  - seq: 80
+    source_file: "1771907212526_532261_WEIRDO+Backronym.md"
+    action: "encoded"
+    tag: "S030"
+    term_name: "WEIRDO_Curiosity_Framework"
+    encoded_at: "2026-03-05T19:30:00Z"
+
 summary:
-  total_processed: 70
-  encoded: 42
-  skipped_duplicate: 20
-  skipped_empty: 8
+  total_processed: 80
+  encoded: 47
+  skipped_duplicate: 23
+  skipped_empty: 10
   skipped_error: 0
-  last_tag_assigned: "S02B"
-  next_available: "S02C"
-  remaining_files: 558
+  last_tag_assigned: "S030"
+  next_available: "S031"
+  remaining_files: 548

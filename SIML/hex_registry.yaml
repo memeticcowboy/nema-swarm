@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S02C"
+  next_available: "S031"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -392,6 +392,11 @@ S:
     S029: "Social_Evolution_Consciousness"
     S02A: "Minds_As_Relationships"
     S02B: "Learning_Hardwired_Brain"
+    S02C: "Face_Name_Self_Fulfilling_Prophecy"
+    S02D: "Brain_Networks_Creative_Thinking"
+    S02E: "Sensemaking_Mastery_Framework"
+    S02F: "Neural_Inferential_Reasoning"
+    S030: "WEIRDO_Curiosity_Framework"
   collisions: {}
 
 U:

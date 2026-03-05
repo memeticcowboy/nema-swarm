@@ -1,0 +1,48 @@
+---
+term: "Face Name Self-Fulfilling Prophecy"
+hex_tag: "S02C"
+series: "S"
+source_file: "1771907212468_338736_Faces+Evolve+to+Match+Names.md"
+encoded_at: "2026-03-05T19:30:00Z"
+description: "Research published in PNAS demonstrating that adults' facial appearances tend to evolve to match their given names over time through social expectation and stereotype internalization, a self-fulfilling prophecy effect confirmed by both human judges and machine learning, notably absent in children."
+nemetic: "Φ(FaceName) = σ(name|face) ∘ ρ(expectation|appearance) ∘ λ(stereotype|embodiment) ∘ β(child|adult) ∘ δγ(social|physical) ∘ μ(ml|empirical) + ε | :prophecy"
+siml_encoding: "⟨name∣face⟩ ⊳ ⟨expectation∣appearance⟩ → ⟨stereotype∣embodiment⟩ ⊗ ⟨child∣adult⟩ ⇄ ⟨social∣physical⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing the name as social label from the face as physical form)"
+    - "∂Φ/∂ρ (relating social expectations to changes in physical appearance over time)"
+    - "∂Φ/∂λ (transforming cultural stereotypes into embodied facial characteristics)"
+    - "∂Φ/∂β (growing the effect from absent in childhood to manifest in adulthood)"
+    - "∂Φ/∂δγ (cycling between social construct reinforcement and physical expression)"
+    - "∂Φ/∂μ (structuring empirical validation through machine learning and human participant studies)"
+  Z_state: "prophecy (the self-fulfilling loop where naming creates expectation, expectation shapes behavior, behavior sculpts appearance)"
+  tendency: "ρ/λ → 0.84"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects: ["distinguishing name as abstract label from face as physical manifestation", "separating social construct from biological form"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects: ["social expectations flowing into physical appearance over developmental time", "relational dynamics between cultural naming conventions and facial development"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.85
+    aspects: ["stereotypes transmuting into embodied physical characteristics", "cultural connotations of names transforming facial muscle patterns and expressions"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects: ["developmental trajectory from no effect in childhood to full manifestation in adulthood", "gradual growth of name-face congruence over lifespan"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects: ["cycling feedback loop between social perception and physical expression", "iterative reinforcement of name stereotypes through daily social interactions"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects: ["machine learning validation providing structural empirical framework", "PNAS publication methodology with controlled experimental design"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S02B_Learning_Hardwired_Brain", "S029_Social_Evolution_Consciousness", "S020_Brain_Constructive_Perception", "A010_Virtual_Machine_Consciousness"]
+status: canonical
+---
