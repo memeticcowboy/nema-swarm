@@ -1,0 +1,62 @@
+---
+term: "Lacan's Imaginary, Symbolic, and Real"
+hex_tag: "S016"
+series: "S"
+source_file: "1771907212412_264797_Lacan%27s+Theory+of+Psychic+Experience%3A+Imaginary%2C+Symbolic%2C+Real.md"
+encoded_at: "2026-03-05T18:30:00Z"
+description: "Lacan's three registers of psychic experience. The Imaginary: visual and mental images, ego formation through the mirror stage, false sense of completeness. The Symbolic: language, symbols, cultural rules, shared meaning systems. The Real: that which lies beyond language, traumatic encounters with raw unprocessed existence that resists symbolization."
+nemetic: "Φ(LacanISR) = σ(imaginary|real) ∘ ρ(image|symbol) ∘ λ(mirror|trauma) ∘ β(ego|language) ∘ δγ(coherent|raw) ∘ μ(symbolic|unsymbolizable) + ε | :registering"
+siml_encoding: "⟨Imaginary|distinguished⟩ ⊳ ⟨Image|related⟩ → ⟨Mirror|transformed⟩ ⊗ ⟨Ego|growing⟩ ⇄ ⟨Real|registering⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction across three registers: Imaginary, Symbolic, and Real)"
+    - "∂Φ/∂ρ (relational mediation between image and symbol as modes of psychic representation)"
+    - "∂Φ/∂λ (transformative encounters: mirror stage recognition and traumatic encounter with the Real)"
+    - "∂Φ/∂β (developmental growth from ego formation through language acquisition)"
+    - "∂Φ/∂δγ (grounding in coherent self-image cycling against raw unprocessed existence)"
+    - "∂Φ/∂μ (structural boundary between what can be symbolized and what resists symbolization)"
+  Z_state: "registering (psychic experience organized across three interdependent registers)"
+  tendency: "Structure/Ordering → 0.85"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects:
+      - "Three-register distinction as the foundational architecture of Lacanian psychic topology"
+      - "Analytical separation of Imaginary, Symbolic, and Real as irreducible domains of experience"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "Imaginary-Symbolic mediation as relational bridge between image and linguistic meaning"
+      - "Flow between visual identification and symbolic representation in psychic life"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "Trauma as the encounter with the Real — transformative disruption of symbolic coherence"
+      - "Mirror stage as transformative moment of (mis)recognition forming the ego"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "Developmental trajectory from ego formation in the Imaginary to language acquisition in the Symbolic"
+      - "Growth of the subject through progressive entry into symbolic order"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+      - "Coherent self-image cycling against raw unprocessed existence beyond language"
+      - "Grounding tension between the ego's imaginary coherence and the Real's formless substrate"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "The Symbolic order as the structural framework of language, law, and cultural rules"
+      - "Boundary between what can be symbolized and what remains unsymbolizable (the Real)"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "C043_carl_jung_psychological_insights"
+  - "C132_shadow_integration"
+status: canonical
+---

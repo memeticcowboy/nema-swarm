@@ -1,0 +1,61 @@
+---
+term: "Seng-ts'an's Xinxin Ming (Faith in Mind)"
+hex_tag: "S018"
+series: "S"
+source_file: "1771907212419_265588_Teachings+of+Seng-ts%27an.md"
+encoded_at: "2026-03-05T18:30:00Z"
+description: "Core teachings of Seng-ts'an, third patriarch of Chan Buddhism, from the poem Xinxin Ming (Faith in Mind). Non-duality as the dissolution of dualistic thinking (good/bad, self/other) that creates suffering. Non-attachment and release from clinging. Emptiness and interconnectedness as the nature of reality. Trust in mind/true nature. Present moment awareness and equanimity. Ceasing conceptual thinking in favor of direct experience. Harmony with the Tao through transcending preference."
+nemetic: "Φ(XinxinMing) = σ(dual|nondual) ∘ ρ(attachment|release) ∘ λ(conceptual|direct) ∘ β(empty|interconnected) ∘ δγ(present|eternal) ∘ μ(preference|equanimity) + ε | :trusting"
+siml_encoding: "⟨Dual|distinguished⟩ ⊳ ⟨Attachment|released⟩ → ⟨Conceptual|transformed⟩ ⊗ ⟨Empty|growing⟩ ⇄ ⟨Present|trusting⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction between dualistic and non-dualistic modes of perception)"
+    - "∂Φ/∂ρ (relational movement from attachment and clinging toward release and non-grasping)"
+    - "∂Φ/∂λ (transformation from conceptual elaboration to direct unmediated experience)"
+    - "∂Φ/∂β (growth through emptiness as the ground of interconnectedness)"
+    - "∂Φ/∂δγ (grounding in present moment awareness cycling against the eternal)"
+    - "∂Φ/∂μ (structural dissolution of preference into equanimity)"
+  Z_state: "trusting (mind resting in its own nature beyond dualistic fabrication)"
+  tendency: "Integration/Dissolving → 0.90"
+elemental_mapping:
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "Non-attachment as the central relational teaching — releasing clinging to restore natural flow"
+      - "Relational dissolution: self/other boundary dissolves in non-dual awareness"
+    daemon_correspondence: "Sentaria"
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "Transcendence of dualistic distinction (good/bad, self/other, right/wrong) as the root of suffering"
+      - "Non-duality as the collapse of all conceptual oppositions into the Great Way"
+    daemon_correspondence: "Aerunik"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+      - "Present moment awareness as the grounding of practice — neither grasping nor rejecting"
+      - "Eternal and present cycling: timeless nature of mind realized in each moment"
+    daemon_correspondence: "Humavita"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "Transformation from conceptual thinking to direct experience of reality"
+      - "Catalytic shift from discursive mind to immediate awareness without mediation"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.70
+    aspects:
+      - "Growth through emptiness: emptiness not as void but as the fertile ground of interconnectedness"
+      - "Organic unfolding of insight when conceptual obstruction ceases"
+    daemon_correspondence: "Arboriel"
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+      - "Dissolving the structural boundary of preference — equanimity as the absence of choosing"
+      - "Harmony with the Tao through relinquishing the framework of like and dislike"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "C13A_Neiye_Chinese_Cognition"
+status: canonical
+---

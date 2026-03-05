@@ -201,12 +201,51 @@ entries:
     tag: "S017"
     term_name: "Lacan_Mirror_Stage_Desire"
 
+  - seq: 31-34
+    source_files: "Lacan sub-pages (Imaginary+Symbolic, Communication, Social Norms, Social Cohesion)"
+    action: "skipped"
+    reason: "Sub-pages of Lacan series, covered by S016/S017"
+
+  - seq: 35
+    source_file: "1771907212419_265588_Teachings+of+Seng-ts%27an.md"
+    action: "encoded"
+    tag: "S018"
+    term_name: "Seng_Tsan_Xinxin_Ming"
+
+  - seq: 36
+    source_file: "1771907212419_265590_Zen+Master+Seng-ts%27an%27s+Wisdom.md"
+    action: "skipped"
+    reason: "Near-duplicate of S018"
+
+  - seq: 37
+    source_file: "1771907212419_265618_Lacanian+Theory+of+Subjectivity.md"
+    action: "skipped"
+    reason: "Index page linking Lacan sub-pages, covered by S016/S017"
+
+  - seq: 38
+    source_file: "1771907212420_266712_Anticipatory+Thinking+Involution.md"
+    action: "encoded"
+    tag: "S019"
+    term_name: "Anticipatory_Thinking_Involution"
+
+  - seq: 39
+    source_file: "1771907212424_268718_SWIFT+Memes.md"
+    action: "encoded"
+    tag: "S01A"
+    term_name: "SWIFT_Memes_Cognitive_Navigation"
+
+  - seq: 40
+    source_file: "1771907212426_271976_Integrating+Macrohistory+and+Futures+Studies.md"
+    action: "encoded"
+    tag: "S01B"
+    term_name: "Macrohistory_Futures_Studies"
+
 summary:
-  total_processed: 30
-  encoded: 22
-  skipped_duplicate: 4
+  total_processed: 40
+  encoded: 26
+  skipped_duplicate: 10
   skipped_empty: 4
   skipped_error: 0
-  last_tag_assigned: "S017"
-  next_available: "S018"
-  remaining_files: 598
+  last_tag_assigned: "S01B"
+  next_available: "S01C"
+  remaining_files: 588
