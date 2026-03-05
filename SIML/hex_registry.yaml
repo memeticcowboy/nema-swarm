@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S01C"
+  next_available: "S020"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -376,6 +376,10 @@ S:
     S019: "Anticipatory_Thinking_Involution"
     S01A: "SWIFT_Memes_Cognitive_Navigation"
     S01B: "Macrohistory_Futures_Studies"
+    S01C: "Blooms_Taxonomy_Thinking_Integration"
+    S01D: "NEME_Notice_Stage"
+    S01E: "Nemes_Units_of_Learning"
+    S01F: "Belief_Systems_Metamodel"
   collisions: {}
 
 U:

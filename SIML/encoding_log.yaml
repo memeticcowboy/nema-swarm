@@ -240,12 +240,55 @@ entries:
     tag: "S01B"
     term_name: "Macrohistory_Futures_Studies"
 
+  - seq: 41
+    source_file: "1771907212427_272057_Integrating+Bloom%27s+Taxonomy%2C+Thinking+Metaphors%2C+and+Kolb%27s+Learning+Styles.md"
+    action: "encoded"
+    tag: "S01C"
+    term_name: "Blooms_Taxonomy_Thinking_Integration"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 42
+    source_file: "1771907212427_272062_Evaluation+of+Mechanistic%2C+Living+Systems%2C+and+Journey+Thinking+in+Different+Contexts.md"
+    action: "skipped"
+    reason: "Sub-page of file 41 (Bloom's Evaluate level only)"
+
+  - seq: 43-46
+    source_files: "KM Cognitive Pyramid fragments (Data Mgmt, Info Mgmt, Knowledge Mgmt, Wisdom)"
+    action: "skipped"
+    reason: "Cross-series duplicate of C003_km_cognitive_pyramid"
+
+  - seq: 47
+    source_file: "1771907212432_273146_.md"
+    action: "encoded"
+    tag: "S01D"
+    term_name: "NEME_Notice_Stage"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 48
+    source_file: "1771907212432_273162_.md"
+    action: "encoded"
+    tag: "S01E"
+    term_name: "Nemes_Units_of_Learning"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 49
+    source_file: "1771907212437_275427_Understanding+Belief+Systems.md"
+    action: "encoded"
+    tag: "S01F"
+    term_name: "Belief_Systems_Metamodel"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 50
+    source_file: "1771907212437_275432_Understanding+and+Challenging+Belief+Systems.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01F_Belief_Systems_Metamodel"
+
 summary:
-  total_processed: 40
-  encoded: 26
-  skipped_duplicate: 10
-  skipped_empty: 4
+  total_processed: 50
+  encoded: 30
+  skipped_duplicate: 14
+  skipped_empty: 6
   skipped_error: 0
-  last_tag_assigned: "S01B"
-  next_available: "S01C"
-  remaining_files: 588
+  last_tag_assigned: "S01F"
+  next_available: "S020"
+  remaining_files: 578

@@ -1,0 +1,65 @@
+---
+term: "NEME Notice Stage"
+hex_tag: "S01D"
+series: "S"
+source_file: "1771907212432_273146_.md"
+encoded_at: "2026-03-05T18:35:00Z"
+description: "The Notice stage is the first phase of the NEME cycle (Notice, Engage, Mull, Exchange), analogous to breathing in — drawing in observations without judgment or labeling, sensing the unanalyzed total impression akin to Peirce's Firstness."
+nemetic: "Φ(Notice) = σ(signal|noise) ∘ ρ(observer|field) ∘ λ(raw_impression|labeled_category) ∘ β(seed_observation|pattern_awareness) ∘ δγ(intake|release) ∘ μ(openness|premature_closure) + ε | :receptivity"
+siml_encoding: "⟨raw_sensing⟩ ⊳ ⟨withholding_judgment⟩ → ⟨unanalyzed_impression⟩ ⊗ ⟨emergent_pattern⟩ ⇄ ⟨ground_for_engagement⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing signal from noise without premature categorization)"
+    - "∂Φ/∂ρ (relating the observer to the field of observation in open receptivity)"
+    - "∂Φ/∂λ (transforming raw impression by resisting the pull toward labeled categories)"
+    - "∂Φ/∂β (growing from seed observation toward emergent pattern awareness)"
+    - "∂Φ/∂δγ (cycling between intake of new stimuli and release of preconception)"
+    - "∂Φ/∂μ (structuring openness as a discipline against premature closure)"
+  Z_state: "receptivity (active openness to what presents itself without analytical overlay)"
+  tendency: "Water/Relation → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+      - "Sensing distinctions in the perceptual field before naming them"
+      - "Identifying what emerged and what movements are involved"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "Open relational stance between observer and observed"
+      - "Drawing in observations like breathing in — receptive and flowing"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.45
+    aspects:
+      - "Deliberately withholding transformation to preserve raw impression"
+      - "Resisting the urge to jump to conclusions or analyze prematurely"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.55
+    aspects:
+      - "Seed stage of the NEME growth cycle"
+      - "Laying groundwork for the Engage stage that follows"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "Breathing-in as the inhalation phase of the NEME cycle"
+      - "Cycling between openness and the natural pull toward closure"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.50
+    aspects:
+      - "Structured discipline of non-judgment as a practice"
+      - "Formal position as first stage in the NEME sequence"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S00D_Sense_Making_Complex_Environments"
+  - "S008_Metacognitive_Strategies"
+  - "S00A_Slow_Practices_Flow_State"
+  - "S019_Anticipatory_Thinking_Involution"
+  - "S01A_SWIFT_Memes_Cognitive_Navigation"
+status: canonical
+---
