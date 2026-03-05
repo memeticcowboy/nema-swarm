@@ -1,0 +1,63 @@
+---
+term: "System 1 and System 2 Thinking"
+hex_tag: "S002"
+series: "S"
+source_file: "1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md"
+encoded_at: "2026-03-05T18:10:00Z"
+description: "Kahneman's dual process theory distinguishing fast intuitive thinking (System 1) from slow deliberate analysis (System 2), with parallels to fast-twitch and slow-twitch muscle fiber types."
+nemetic: "Φ(DualProcess) = σ(intuitive|analytical) ∘ ρ(automatic|deliberate) ∘ λ(bias|correction) ∘ β(heuristic|reasoning) ∘ δγ(fast|slow) ∘ μ(efficiency|accuracy) + ε | :balancing"
+siml_encoding: "⟨Cognition|dual⟩ ⊳ ⟨System1|fast⟩ → ⟨System2|slow⟩ ⊗ ⟨Decision|balanced⟩ ⇄ ⟨Performance|integrated⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between intuitive and analytical processing; the fundamental cognitive divide)"
+    - "∂Φ/∂ρ (relational flow between automatic and deliberate mental operations; the channel connecting fast response to careful evaluation)"
+    - "∂Φ/∂λ (transformative moment when bias recognition triggers correction; the spark of metacognitive awareness)"
+    - "∂Φ/∂β (developmental feedback between heuristic shortcuts and full reasoning; the growth from reflex to reflection)"
+    - "∂Φ/∂δγ (cyclical oscillation between fast and slow processing; the metabolic rhythm of cognitive effort)"
+    - "∂Φ/∂μ (boundary between efficiency and accuracy; the structural threshold where speed trades with precision)"
+  Z_state: "balancing (integration of both processing modes for optimal cognitive performance)"
+  tendency: "Balance/Integration → 0.75"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects:
+      - "Fundamental distinction between System 1 and System 2 processing"
+      - "Classification of cognitive operations as automatic or controlled"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.65
+    aspects:
+      - "Flow between intuitive and analytical processing"
+      - "Relational dynamics of cognitive switching"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "Transformative moment of bias recognition"
+      - "Directed shift from automatic to deliberate thinking"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+      - "Growth of heuristic repertoire through experience"
+      - "Developmental feedback between intuition and analysis"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "Metabolic rhythm of fast and slow cognitive cycles"
+      - "Grounding in embodied analogy of muscle fiber types"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "Structural boundary between efficiency and accuracy"
+      - "Decision threshold for engaging System 2"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "C052_heuristics_and_biases"
+  - "A057_Confirmation_Bias"
+  - "L030_Metacognition"
+status: canonical
+---

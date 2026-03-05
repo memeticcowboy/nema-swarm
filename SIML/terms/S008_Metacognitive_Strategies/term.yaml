@@ -1,0 +1,63 @@
+---
+term: "Metacognitive Strategies"
+hex_tag: "S008"
+series: "S"
+source_file: "1771907212356_235901_Mastering+MetaCognitive+Strategies.md"
+encoded_at: "2026-03-05T18:15:00Z"
+description: "A comprehensive framework of ten metacognitive strategy domains—from complementary thinking and connected seeing to courageous action and continuous learning—designed to enhance thinking, collaboration, and meaning-making."
+nemetic: "Φ(MetaStrategies) = σ(thinking|awareness) ∘ ρ(collaboration|dialogue) ∘ λ(courage|commitment) ∘ β(learning|growth) ∘ δγ(explicit|tacit) ∘ μ(clarity|precision) + ε | :cultivating"
+siml_encoding: "⟨Thinking|meta⟩ ⊳ ⟨Strategy|structured⟩ → ⟨Practice|integrated⟩ ⊗ ⟨Growth|continuous⟩ ⇄ ⟨Mastery|cultivated⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (meta-awareness distinguishing thinking about thinking from thinking itself)"
+    - "∂Φ/∂ρ (relational flow through collaborative dialogue, teamwork, and empathic connection)"
+    - "∂Φ/∂λ (transformative courage to act on ambiguity and commit despite uncertainty)"
+    - "∂Φ/∂β (continuous learning through failure, success, and intentional growth)"
+    - "∂Φ/∂δγ (cyclical synthesis between explicit knowledge acquisition and tacit knowing)"
+    - "∂Φ/∂μ (structural precision of conceptual clarity and effective communication)"
+  Z_state: "cultivating (metacognitive capacity developed through structured practice)"
+  tendency: "Awareness/Growth → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "Meta-level awareness: thinking about thinking"
+      - "Complementary thinking through polar-opposite distinctions"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "Collaborative dialogue with trust and mutuality"
+      - "Empathic connection viewing self and others as complementary"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "Courageous action in the face of ambiguity"
+      - "Directed commitment and resilience through challenges"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "Continuous learning from failure, success, and intention"
+      - "Growth through connected seeing across disciplines"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "Synthesis of explicit and tacit knowledge"
+      - "Grounding in whole-knowledge construction"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "Conceptual clarity: precise expression of concepts and rationale"
+      - "Communication structure through language awareness"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "L030_Metacognition"
+  - "C149_Metacognition_AI"
+  - "S005_DSRP_Theory_of_Thinking"
+status: canonical
+---

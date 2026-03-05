@@ -347,9 +347,18 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S002"
+  next_available: "S00B"
   assigned:
     S001: "SCAMPER"
+    S002: "System_1_System_2_Thinking"
+    S003: "Subconscious_Intention_Embedding"
+    S004: "Mental_Models_Integrative_Thinking"
+    S005: "DSRP_Theory_of_Thinking"
+    S006: "Tree_of_Knowledge_System"
+    S007: "Understanding_Human_Mind"
+    S008: "Metacognitive_Strategies"
+    S009: "Metacognitive_Marketing_Funnel"
+    S00A: "Slow_Practices_Flow_State"
   collisions: {}
 
 U:

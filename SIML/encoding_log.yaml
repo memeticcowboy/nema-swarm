@@ -11,14 +11,92 @@ encoding_session:
   source_folder: "SWARM_BASE/Sensemaking & Epistemics/"
   total_in_queue: 628
 
-entries: []
+entries:
+  - seq: 1
+    source_file: "1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md"
+    action: "encoded"
+    tag: "S002"
+    term_name: "System_1_System_2_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+    notes: ""
+
+  - seq: 2
+    source_file: "1771907212335_227959_.md"
+    action: "skipped"
+    tag: null
+    term_name: null
+    reason: "Untitled file — basic AI prompting keyword list, not a sensemaking concept"
+
+  - seq: 3
+    source_file: "1771907212340_228337_Embedding+Intentions+into+the+Subconscious%3A+Brain+Networks+and+Manifestation.md"
+    action: "encoded"
+    tag: "S003"
+    term_name: "Subconscious_Intention_Embedding"
+    encoded_at: "2026-03-05T18:10:00Z"
+    notes: ""
+
+  - seq: 4
+    source_file: "1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md"
+    action: "encoded"
+    tag: "S004"
+    term_name: "Mental_Models_Integrative_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+    notes: "Distinct from L057_Mental_Models_Theory (Johnson-Laird formal theory); this is integrative thinking application"
+
+  - seq: 5
+    source_file: "1771907212350_232644_DSRP+Theory+of+Thinking.md"
+    action: "encoded"
+    tag: "S005"
+    term_name: "DSRP_Theory_of_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+    notes: ""
+
+  - seq: 6
+    source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
+    action: "encoded"
+    tag: "S006"
+    term_name: "Tree_of_Knowledge_System"
+    encoded_at: "2026-03-05T18:15:00Z"
+    notes: ""
+
+  - seq: 7
+    source_file: "1771907212355_235787_Understanding+the+Human+Mind.md"
+    action: "encoded"
+    tag: "S007"
+    term_name: "Understanding_Human_Mind"
+    encoded_at: "2026-03-05T18:15:00Z"
+    notes: ""
+
+  - seq: 8
+    source_file: "1771907212356_235901_Mastering+MetaCognitive+Strategies.md"
+    action: "encoded"
+    tag: "S008"
+    term_name: "Metacognitive_Strategies"
+    encoded_at: "2026-03-05T18:15:00Z"
+    notes: "Distinct from L030_Metacognition (Flavell theory); this is practical strategy framework"
+
+  - seq: 9
+    source_file: "1771907212356_235914_Enhancing+Audience+Engagement+with+Metacognitive+Strategies+in+Digital+Marketing+Funnel.md"
+    action: "encoded"
+    tag: "S009"
+    term_name: "Metacognitive_Marketing_Funnel"
+    encoded_at: "2026-03-05T18:15:00Z"
+    notes: ""
+
+  - seq: 10
+    source_file: "1771907212365_240072_Integrating+Slow+Practices+with+Flow+State.md"
+    action: "encoded"
+    tag: "S00A"
+    term_name: "Slow_Practices_Flow_State"
+    encoded_at: "2026-03-05T18:15:00Z"
+    notes: ""
 
 summary:
-  total_processed: 0
-  encoded: 0
+  total_processed: 10
+  encoded: 9
   skipped_duplicate: 0
-  skipped_empty: 0
+  skipped_empty: 1
   skipped_error: 0
-  last_tag_assigned: "S001"
-  next_available: "S002"
-  remaining_files: 628
+  last_tag_assigned: "S00A"
+  next_available: "S00B"
+  remaining_files: 618
