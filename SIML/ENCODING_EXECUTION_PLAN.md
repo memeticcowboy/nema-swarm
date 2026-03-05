@@ -1,9 +1,9 @@
 # SIML Encoding Execution Plan
-## Structured Processing of Remaining 208 Critical Thinking Source Files
+## Structured Processing of 628 Sensemaking & Epistemics Source Files
 
 **Date:** 2026-03-05
-**Scope:** Encode remaining 208 files from `SWARM_BASE/Critical Thinking/` into SIML C-series terms
-**Current state:** C189 is next available tag; 168 C-series directories exist
+**Scope:** Encode 628 files from `SWARM_BASE/Sensemaking & Epistemics/` into SIML S-series terms
+**Current state:** S002 is next available tag; 1 S-series directory exists (S001_SCAMPER)
 
 ---
 
@@ -29,7 +29,7 @@ Every term MUST produce exactly 3 files in `SIML/terms/{TAG}_{snake_case_name}/`
 ---
 term: "{Human_Readable_Name}"
 hex_tag: "{TAG}"
-series: "C"
+series: "S"
 source_file: "{original_filename.md}"
 encoded_at: "{ISO_TIMESTAMP}"
 description: "{1-2 sentence definition}"
@@ -136,7 +136,7 @@ After successfully writing the 3 files:
 1. **Update hex_registry.yaml** → increment `next_available`, add entry to `assigned`
 2. **Update manifest.yaml** → add entry with source_file, term_tag, term_name, encoded_at
 3. **Log success** → append to `SIML/encoding_log.yaml`
-4. **Delete source file** → remove from `SWARM_BASE/Critical Thinking/`
+4. **Delete source file** → remove from `SWARM_BASE/Sensemaking & Epistemics/`
 5. **Commit** → every 10 entries, git commit with batch summary
 
 ## 6. Running Log Format
@@ -208,7 +208,7 @@ This keeps commits manageable and provides natural checkpoints.
 - Never hallucinate related_terms — verify each tag exists before including
 
 ### Hex tag progression
-- C-series uses hex: C189, C18A, C18B, ..., C18F, C190, C191, ...
+- S-series uses hex: S002, S003, ..., S009, S00A, S00B, ..., S00F, S010, ...
 - Always read next_available from registry, never calculate independently
 
 ## 9. Execution Sequence
@@ -219,7 +219,7 @@ Phase 1: Setup
   → Create SIML/encoding_log.yaml (empty log)
   → Verify hex_registry.yaml is current (C189 next)
 
-Phase 2: Batch Processing (20 batches of ~10)
+Phase 2: Batch Processing (~63 batches of ~10)
   → For each batch:
     → Read 10 source files
     → Dedup check each

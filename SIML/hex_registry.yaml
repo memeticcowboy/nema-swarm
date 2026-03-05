@@ -345,6 +345,13 @@ O:
   assigned:
     O001: "Omega_Permeability"
 
+S:
+  description: "Sensemaking and epistemics"
+  next_available: "S002"
+  assigned:
+    S001: "SCAMPER"
+  collisions: {}
+
 U:
   description: "Underdetermination and epistemic conditions"
   next_available: "U002"
