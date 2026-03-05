@@ -1,0 +1,48 @@
+---
+term: "Learning Hardwired in Human Brain"
+hex_tag: "S02B"
+series: "S"
+source_file: "1771907212461_303123_Learning+Hardwired+in+Human+Brain.md"
+encoded_at: "2026-03-05T19:10:00Z"
+description: "The concept that learning is a hardwired function of the human brain, exploring the interplay between genetic and memetic evolution where memes act as brain 'viruses' spreading through neural networks, with implications for education, therapy, early childhood development, and lifelong learning culture."
+nemetic: "Φ(LearnHardwire) = σ(hardwired|learned) ∘ ρ(genetic|memetic) ∘ λ(instinct|culture) ∘ β(childhood|lifelong) ∘ δγ(meme|brain) ∘ μ(neural|highway) + ε | :ecosystem"
+siml_encoding: "⟨hardwired∣learned⟩ ⊳ ⟨genetic∣memetic⟩ → ⟨instinct∣culture⟩ ⊗ ⟨childhood∣lifelong⟩ ⇄ ⟨meme∣brain⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing hardwired innate behaviors from learned acquired behaviors)"
+    - "∂Φ/∂ρ (relating genetic evolution to memetic evolution as intertwined selection systems)"
+    - "∂Φ/∂λ (transforming instinctual responses through cultural meme acquisition)"
+    - "∂Φ/∂β (growing cognitive capacity from early childhood critical periods through lifelong learning)"
+    - "∂Φ/∂δγ (cycling memes through brains like introduced species in an ecosystem)"
+    - "∂Φ/∂μ (structuring neural connections as highway systems carrying memetic traffic)"
+  Z_state: "ecosystem (the brain as ecosystem where memes act like introduced species, neural connections as highway systems, memes as cultural currency)"
+  tendency: "β/δγ → 0.81"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects: ["distinguishing hardwired behaviors from learned behaviors", "Darwin's dog example illustrating innate vs acquired responses"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects: ["genetic-memetic evolution interplay as co-evolving systems", "memes spreading through brain like viruses through relational transmission"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects: ["educational revolution through customized learning approaches", "memetic engineering designing memes for public health transformation"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects: ["early childhood brain gardening during critical periods", "lifelong learning culture as continuous cognitive growth"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects: ["memes cycling through brain ecosystems like introduced species", "memes as cultural currency circulating through neural economies"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects: ["neural connections structured as highway systems", "cognitive-behavioral therapeutic frameworks updated through memetic understanding"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S025_Systemic_Divergence_Neural_Adaptation", "S028_Cognitive_Fractals", "S029_Social_Evolution_Consciousness", "S02A_Minds_As_Relationships", "C003_km_cognitive_pyramid"]
+status: canonical
+---

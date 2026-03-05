@@ -1,0 +1,48 @@
+---
+term: "Distributed Consciousness"
+hex_tag: "S027"
+series: "S"
+source_file: "1771907212454_286344_Distributed+Consciousness+Exploration.md"
+encoded_at: "2026-03-05T19:10:00Z"
+description: "The concept that consciousness is not confined to the brain but distributed throughout the body and potentially larger systems, drawing on Michael Levin's work on distributed cognition and debates with Bernardo Kastrup on the primacy and origins of consciousness."
+nemetic: "Φ(DistConsc) = σ(brain|body) ∘ ρ(individual|collective) ∘ λ(localized|distributed) ∘ β(embryonic|emergent) ∘ δγ(self|nonself) ∘ μ(neural|somatic) + ε | :fluidity"
+siml_encoding: "⟨brain∣body⟩ ⊳ ⟨individual∣collective⟩ → ⟨localized∣distributed⟩ ⊗ ⟨embryonic∣emergent⟩ ⇄ ⟨self∣nonself⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing brain-centric from body-distributed loci of consciousness)"
+    - "∂Φ/∂ρ (relating individual conscious experience to collective cognitive behaviors)"
+    - "∂Φ/∂λ (transforming understanding from localized neural models to distributed somatic cognition)"
+    - "∂Φ/∂β (growing awareness through embryogenesis and developmental demonstrations of distributed intelligence)"
+    - "∂Φ/∂δγ (cycling between self-boundaries and fluid nonself extensions of agency)"
+    - "∂Φ/∂μ (structuring the neural-somatic substrate that supports distributed processing)"
+  Z_state: "fluidity (self as fluid concept — consciousness flows across boundaries rather than residing in fixed locations)"
+  tendency: "λ/σ → 0.85"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.90
+    aspects: ["distinguishing brain-bound vs body-distributed consciousness", "Levin vs Kastrup disagreement on origins of consciousness"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects: ["relating individual organisms to larger systems of agency", "synchronicity as relational evidence of distributed cognition"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.85
+    aspects: ["transforming consciousness models from localized to distributed", "paradigm shift from brain-centric to whole-body cognition"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects: ["embryogenesis demonstrating distributed cognitive behaviors", "developmental growth as evidence of non-neural intelligence"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects: ["cycling between self and nonself boundaries", "fluid identity requiring continuous redefinition"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.60
+    aspects: ["neural substrate as one component of broader somatic architecture", "need for empirical research to formalize distributed consciousness"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S025_Systemic_Divergence_Neural_Adaptation", "S029_Social_Evolution_Consciousness", "S02A_Minds_As_Relationships", "A010_Virtual_Machine_Consciousness", "A011_Conscious_Realism"]
+status: canonical
+---

@@ -1,0 +1,48 @@
+---
+term: "Cognitive Fractals"
+hex_tag: "S028"
+series: "S"
+source_file: "1771907212455_286480_Exploring+Cognitive+Fractals%3A+Visualizing+Thought+Patterns+and+Mental+Processes.md"
+encoded_at: "2026-03-05T19:10:00Z"
+description: "Self-similar and recursive patterns in thought processes where simple cognitive elements combine to form complex mental models, visualizable through mind maps, flowcharts, and fractal software with applications in education, therapy, and personal development."
+nemetic: "Φ(CogFractal) = σ(simple|complex) ∘ ρ(pattern|pattern) ∘ λ(thought|model) ∘ β(recursion|emergence) ∘ δγ(feedback|iteration) ∘ μ(map|visualization) + ε | :self_similarity"
+siml_encoding: "⟨simple∣complex⟩ ⊳ ⟨pattern∣pattern⟩ → ⟨thought∣model⟩ ⊗ ⟨recursion∣emergence⟩ ⇄ ⟨feedback∣iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing simple thought elements from complex emergent mental models)"
+    - "∂Φ/∂ρ (relating repetitive thought patterns through analogous thinking across scales)"
+    - "∂Φ/∂λ (transforming individual thoughts into complex mental models through fractal combination)"
+    - "∂Φ/∂β (growing cognitive structures through recursion and nested thought elaboration)"
+    - "∂Φ/∂δγ (cycling through feedback loops that refine and iterate thought patterns)"
+    - "∂Φ/∂μ (structuring thought visualization through mind maps, flowcharts, and fractal representations)"
+  Z_state: "self_similarity (thought patterns repeat at every scale of cognition, from micro-perceptions to macro-worldviews)"
+  tendency: "β/ρ → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.75
+    aspects: ["distinguishing simple thought units from complex emergent structures", "recognizing self-similarity across cognitive scales"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects: ["repetitive thought patterns connecting through analogy", "relational bridges between cognitive scales via self-similarity"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects: ["transforming simple thoughts into complex mental models", "therapeutic disruption of negative recursive thought patterns"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects: ["recursive nesting of thoughts generating emergent properties", "organic growth of cognitive complexity from simple foundations"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects: ["feedback loops refining thought patterns through iteration", "cycling between simple perception and complex model-building"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects: ["mind maps and flowcharts as structural visualizations", "fractal software and digital art formalizing cognitive patterns"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S025_Systemic_Divergence_Neural_Adaptation", "S02B_Learning_Hardwired_Brain", "C003_km_cognitive_pyramid"]
+status: canonical
+---
