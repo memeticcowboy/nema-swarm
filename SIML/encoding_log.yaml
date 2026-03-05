@@ -462,12 +462,142 @@ entries:
     term_name: "WEIRDO_Curiosity_Framework"
     encoded_at: "2026-03-05T19:30:00Z"
 
+  # Batch 9 (files 81-90)
+  - seq: 81
+    source_file: "1771907212536_547598_Language+and+Reality+Interconnected.md"
+    action: "encoded"
+    tag: "S031"
+    term_name: "Language_Reality_Interconnected"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 82
+    source_file: "1771907212547_571021_Understanding+Trent%27s+Symptoms+in+Relation+to+Systemic+Structures.md"
+    action: "skipped"
+    reason: "Too niche — personal case study, not a generalizable sensemaking concept"
+
+  - seq: 83
+    source_file: "1771907212551_576145_Untitled.md"
+    action: "encoded"
+    tag: "S032"
+    term_name: "OODA_Sensemaking_IT_Governance"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 84
+    source_file: "1771907212553_576334_Untitled.md"
+    action: "skipped"
+    reason: "Too thin — brief fragment"
+
+  - seq: 85
+    source_file: "1771907212555_582503_The+Dance+of+Intuition+and+Rationality.md"
+    action: "skipped"
+    reason: "Near-duplicate of S002_System_1_System_2_Thinking (intuition vs rationality)"
+
+  - seq: 86
+    source_file: "1771907212556_582740_Enhancing+Cognitive+Flow+with+EMFs.md"
+    action: "encoded"
+    tag: "S033"
+    term_name: "EMF_Cognitive_Flow_Enhancement"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 87
+    source_file: "1771907212556_585607_.md"
+    action: "skipped"
+    reason: "Too thin — empty/minimal content"
+
+  - seq: 88
+    source_file: "1771907212568_616316_Cognitive+Insights+from+Elite+Athletes.md"
+    action: "encoded"
+    tag: "S034"
+    term_name: "Elite_Athlete_Cognitive_Patterns"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 89
+    source_file: "1771907212574_629137_Untitled.md"
+    action: "skipped"
+    reason: "Too thin — brief untitled fragment"
+
+  - seq: 90
+    source_file: "1771907212587_635323_AI%27s+Role+in+Empathy+and+Stewardship.md"
+    action: "encoded"
+    tag: "S035"
+    term_name: "AI_Empathy_Environmental_Stewardship"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  # Batch 10 (files 91-100)
+  - seq: 91
+    source_file: "1771907212594_653298_Science+Meets+Buddhism%3A+A+Compassionate+Inquiry.md"
+    action: "encoded"
+    tag: "S036"
+    term_name: "Science_Buddhism_Compassionate_Inquiry"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 92
+    source_file: "1771907212594_653309_Transhumanism+and+Buddhism%3A+A+Journey+Towards+Universal+Well-Being.md"
+    action: "encoded"
+    tag: "S037"
+    term_name: "Transhumanism_Buddhism_Convergence"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 93
+    source_file: "1771907212594_654010_Untitled.md"
+    action: "encoded"
+    tag: "S038"
+    term_name: "Primal_World_Beliefs"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 94
+    source_file: "1771907212595_655721_Brain+Efficiency+in+Cognitive+Tasks.md"
+    action: "encoded"
+    tag: "S039"
+    term_name: "Brain_Efficiency_Cognitive_Tasks"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 95
+    source_file: "1771907212596_655890_Role+of+DSRP+in+Defining+the+Problem.md"
+    action: "skipped"
+    reason: "Cross-series duplicate of S005_DSRP_Theory_of_Thinking / S015_Cabrera_Neurodiversity_DSRP"
+
+  - seq: 96
+    source_file: "1771907212607_693725_.md"
+    action: "encoded"
+    tag: "S03A"
+    term_name: "Map_Is_Not_Territory"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 97
+    source_file: "1771907212609_694114_Revolutionary+Insights+on+Superior+Colliculus.md"
+    action: "encoded"
+    tag: "S03B"
+    term_name: "Superior_Colliculus_Cognition"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 98
+    source_file: "1771907212613_712866_.md"
+    action: "encoded"
+    tag: "S03C"
+    term_name: "Ontology_AI_Knowledge_Graphs"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 99
+    source_file: "1771907212617_739188_Untitled.md"
+    action: "encoded"
+    tag: "S03D"
+    term_name: "Extended_Mind_Memes"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 100
+    source_file: "1771907212618_739415_Untitled.md"
+    action: "encoded"
+    tag: "S03E"
+    term_name: "Subjective_Idealism_Memes_Reality"
+    encoded_at: "2026-03-05T20:30:00Z"
+
 summary:
-  total_processed: 80
-  encoded: 47
-  skipped_duplicate: 23
-  skipped_empty: 10
+  total_processed: 100
+  encoded: 61
+  skipped_duplicate: 27
+  skipped_empty: 12
   skipped_error: 0
-  last_tag_assigned: "S030"
-  next_available: "S031"
-  remaining_files: 548
+  last_tag_assigned: "S03E"
+  next_available: "S03F"
+  remaining_files: 528

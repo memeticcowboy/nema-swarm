@@ -1,0 +1,30 @@
+---
+term: "Map Is Not Territory"
+hex_tag: "S03A"
+series: "S"
+source_file: "1771907212607_693725_.md"
+encoded_at: "2026-03-05T20:30:00Z"
+description: "Korzybski's principle that the map (belief, model, representation) is not the territory (objective reality), and that cognitive biases cause systematic misalignment between subjective perception and the world."
+nemetic: "Φ(MapTerritory) = σ(map|territory) ∘ ρ(belief|reality) ∘ λ(alignment|prediction) ∘ β(epistemic_refinement|model_updating) ∘ δγ(bias_cycling|correction) ∘ μ(representational_structure|logical_framework) + ε | :calibrating"
+siml_encoding: "⟨map∧territory⟩ ⊳ ⟨belief∧objective_reality⟩ → ⟨alignment_seeking⟩ ⊗ ⟨cognitive_bias_correction⟩ ⇄ ⟨effective_action⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction between map/representation and territory/reality)"
+    - "∂Φ/∂ρ (relationship between belief systems and objective states of affairs)"
+    - "∂Φ/∂λ (transformation of beliefs toward reality-alignment for better prediction)"
+    - "∂Φ/∂β (growth in epistemic accuracy through iterative model updating)"
+    - "∂Φ/∂δγ (cycling between bias-driven distortion and corrective calibration)"
+    - "∂Φ/∂μ (structural frameworks for representing and testing belief-reality correspondence)"
+  Z_state: "calibrating — continuous process of aligning internal models with external reality"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["map-territory distinction", "representation vs referent"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.72, aspects: ["belief-reality coupling", "subjective-objective interface"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.70, aspects: ["predictive alignment", "effective action through accuracy"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.65, aspects: ["epistemic growth", "model refinement over time"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.68, aspects: ["cognitive bias cycles", "distortion-correction oscillation"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["logical-representational structure", "epistemological frameworks"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S031_Language_Reality_Interconnected", "S005_DSRP_Theory_of_Thinking", "A011_Conscious_Realism"]
+status: canonical
+---
