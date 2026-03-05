@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S00B"
+  next_available: "S013"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -359,6 +359,14 @@ S:
     S008: "Metacognitive_Strategies"
     S009: "Metacognitive_Marketing_Funnel"
     S00A: "Slow_Practices_Flow_State"
+    S00B: "Metaphors_Consciousness_Behavior"
+    S00C: "Holism_Societal_Impact"
+    S00D: "Sense_Making_Complex_Environments"
+    S00E: "Sense_Making_Distorted_Information"
+    S00F: "Hard_Question_of_Memetics"
+    S010: "Memetic_Mediation_Online_Tribes"
+    S011: "Understanding_Reality_Through_Science"
+    S012: "Crow_Intelligence_Alien_Minds"
   collisions: {}
 
 U:

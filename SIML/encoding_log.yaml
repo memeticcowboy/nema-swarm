@@ -18,14 +18,11 @@ entries:
     tag: "S002"
     term_name: "System_1_System_2_Thinking"
     encoded_at: "2026-03-05T18:10:00Z"
-    notes: ""
 
   - seq: 2
     source_file: "1771907212335_227959_.md"
     action: "skipped"
-    tag: null
-    term_name: null
-    reason: "Untitled file — basic AI prompting keyword list, not a sensemaking concept"
+    reason: "Untitled — basic AI prompting keyword list, not a sensemaking concept"
 
   - seq: 3
     source_file: "1771907212340_228337_Embedding+Intentions+into+the+Subconscious%3A+Brain+Networks+and+Manifestation.md"
@@ -33,7 +30,6 @@ entries:
     tag: "S003"
     term_name: "Subconscious_Intention_Embedding"
     encoded_at: "2026-03-05T18:10:00Z"
-    notes: ""
 
   - seq: 4
     source_file: "1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md"
@@ -41,7 +37,6 @@ entries:
     tag: "S004"
     term_name: "Mental_Models_Integrative_Thinking"
     encoded_at: "2026-03-05T18:10:00Z"
-    notes: "Distinct from L057_Mental_Models_Theory (Johnson-Laird formal theory); this is integrative thinking application"
 
   - seq: 5
     source_file: "1771907212350_232644_DSRP+Theory+of+Thinking.md"
@@ -49,7 +44,6 @@ entries:
     tag: "S005"
     term_name: "DSRP_Theory_of_Thinking"
     encoded_at: "2026-03-05T18:10:00Z"
-    notes: ""
 
   - seq: 6
     source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
@@ -57,7 +51,6 @@ entries:
     tag: "S006"
     term_name: "Tree_of_Knowledge_System"
     encoded_at: "2026-03-05T18:15:00Z"
-    notes: ""
 
   - seq: 7
     source_file: "1771907212355_235787_Understanding+the+Human+Mind.md"
@@ -65,7 +58,6 @@ entries:
     tag: "S007"
     term_name: "Understanding_Human_Mind"
     encoded_at: "2026-03-05T18:15:00Z"
-    notes: ""
 
   - seq: 8
     source_file: "1771907212356_235901_Mastering+MetaCognitive+Strategies.md"
@@ -73,7 +65,6 @@ entries:
     tag: "S008"
     term_name: "Metacognitive_Strategies"
     encoded_at: "2026-03-05T18:15:00Z"
-    notes: "Distinct from L030_Metacognition (Flavell theory); this is practical strategy framework"
 
   - seq: 9
     source_file: "1771907212356_235914_Enhancing+Audience+Engagement+with+Metacognitive+Strategies+in+Digital+Marketing+Funnel.md"
@@ -81,7 +72,6 @@ entries:
     tag: "S009"
     term_name: "Metacognitive_Marketing_Funnel"
     encoded_at: "2026-03-05T18:15:00Z"
-    notes: ""
 
   - seq: 10
     source_file: "1771907212365_240072_Integrating+Slow+Practices+with+Flow+State.md"
@@ -89,14 +79,79 @@ entries:
     tag: "S00A"
     term_name: "Slow_Practices_Flow_State"
     encoded_at: "2026-03-05T18:15:00Z"
-    notes: ""
+
+  - seq: 11
+    source_file: "1771907212372_244285_The+Influence+of+Metaphors+on+Consciousness+and+Decision-Making.md"
+    action: "skipped"
+    reason: "Near-duplicate of file 12 (Metaphors+Consciousness+Behavior) which is more comprehensive"
+
+  - seq: 12
+    source_file: "1771907212373_244360_The+Influence+of+Metaphors+on+Consciousness+and+Behavior.md"
+    action: "encoded"
+    tag: "S00B"
+    term_name: "Metaphors_Consciousness_Behavior"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 13
+    source_file: "1771907212377_250734_Integrating+%27Better+Thinking%27+with+Metacognitive+Strategies.md"
+    action: "skipped"
+    reason: "Near-duplicate of S008_Metacognitive_Strategies (same 10 strategy categories)"
+
+  - seq: 14
+    source_file: "1771907212384_252353_Holism%27s+Societal+Impact.md"
+    action: "encoded"
+    tag: "S00C"
+    term_name: "Holism_Societal_Impact"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 15
+    source_file: "1771907212384_252357_Enhancing+Sense-Making+in+Complex+Information+Environments.md"
+    action: "encoded"
+    tag: "S00D"
+    term_name: "Sense_Making_Complex_Environments"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 16
+    source_file: "1771907212384_252371_Improving+Sense-Making+in+Distorted+Information+Ecology.md"
+    action: "encoded"
+    tag: "S00E"
+    term_name: "Sense_Making_Distorted_Information"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 17
+    source_file: "1771907212394_257622_The+Hard+Question+of+Memetics%3A+A+Critical+Analysis.md"
+    action: "encoded"
+    tag: "S00F"
+    term_name: "Hard_Question_of_Memetics"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 18
+    source_file: "1771907212395_257803_Memetic+Mediation+for+Online+Tribes.md"
+    action: "encoded"
+    tag: "S010"
+    term_name: "Memetic_Mediation_Online_Tribes"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 19
+    source_file: "1771907212395_257810_Understanding+Reality+Through+Science.md"
+    action: "encoded"
+    tag: "S011"
+    term_name: "Understanding_Reality_Through_Science"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 20
+    source_file: "1771907212398_259412_Insights+on+Crow+Intelligence+and+Alien+Minds.md"
+    action: "encoded"
+    tag: "S012"
+    term_name: "Crow_Intelligence_Alien_Minds"
+    encoded_at: "2026-03-05T18:20:00Z"
 
 summary:
-  total_processed: 10
-  encoded: 9
-  skipped_duplicate: 0
+  total_processed: 20
+  encoded: 17
+  skipped_duplicate: 2
   skipped_empty: 1
   skipped_error: 0
-  last_tag_assigned: "S00A"
-  next_available: "S00B"
-  remaining_files: 618
+  last_tag_assigned: "S012"
+  next_available: "S013"
+  remaining_files: 608
