@@ -659,12 +659,79 @@ entries:
     term_name: "Cognitive_Models_Storytelling"
     encoded_at: "2026-03-05T21:00:00Z"
 
+  # Batch 12 (files 111-120)
+  - seq: 111
+    source_file: "1771907212631_793858_Memes%2C+Motivation%2C+and+the+Dance+of+Autonomy.md"
+    action: "encoded"
+    tag: "S047"
+    term_name: "Memes_Motivation_Autonomy"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 112
+    source_file: "1771907212632_795099_Exploring+Inner+Cosmos+Through+Chakras.md"
+    action: "encoded"
+    tag: "S048"
+    term_name: "Inner_Cosmos_Chakras_Neuroscope"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 113
+    source_file: "1771907212632_797506_Exploring+the+Extended+Mind+Hypothesis.md"
+    action: "skipped"
+    reason: "Near-duplicate of S03D_Extended_Mind_Memes (same Extended Mind framework)"
+
+  - seq: 114
+    source_file: "1771907212634_802144_Integrating+Indian+Functionalism+and+Memetic+Philosophy.md"
+    action: "encoded"
+    tag: "S049"
+    term_name: "Indian_Functionalism_Memetic_Philosophy"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 115
+    source_file: "1771907212635_806242_Fungi%3A+Nature%27s+Decision-Makers.md"
+    action: "encoded"
+    tag: "S04A"
+    term_name: "Fungi_Decision_Making_Cognition"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 116
+    source_file: "1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md"
+    action: "encoded"
+    tag: "S04B"
+    term_name: "Fungi_Memetic_Consciousness"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 117
+    source_file: "1771907212639_815770_Building+Knowledge+Together%3A+The+Power+of+Collaboration+and+Scaffolding.md"
+    action: "encoded"
+    tag: "S04C"
+    term_name: "Collaborative_Knowledge_Scaffolding"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 118
+    source_file: "1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md"
+    action: "encoded"
+    tag: "S04D"
+    term_name: "Cognition_Without_Language"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 119
+    source_file: "1771907212641_816884_Neural+Connections+Between+Dogs+and+Humans.md"
+    action: "encoded"
+    tag: "S04E"
+    term_name: "Neural_Coupling_Dogs_Humans"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 120
+    source_file: "1771907212642_818848_.md"
+    action: "skipped"
+    reason: "Too thin — cognitive map theory metadata only, no insight section"
+
 summary:
-  total_processed: 110
-  encoded: 69
-  skipped_duplicate: 28
-  skipped_empty: 13
+  total_processed: 120
+  encoded: 77
+  skipped_duplicate: 29
+  skipped_empty: 14
   skipped_error: 0
-  last_tag_assigned: "S046"
-  next_available: "S047"
-  remaining_files: 518
+  last_tag_assigned: "S04E"
+  next_available: "S04F"
+  remaining_files: 508
