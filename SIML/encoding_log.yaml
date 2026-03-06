@@ -1119,12 +1119,43 @@ entries:
       - seq: 436
         reason: "Too thin — Reconciling Subjective/Objective Research (~196 words)"
 
+  # Batch 45-46 combined (files 441-460)
+  - seq: 441-460
+    action: "batch"
+    encoded_tags: "S140-S147"
+    encoded_names: "Response_Ability_Inherent_Shift, Reconstructing_Philosophy_Elemental, Threading_Ethical_World_Making, AI_Symbiosis_Meta_Being, Co_Thinking_Minds_as_Mesh, Samkhya_Spanda_Sensemaking, Mind_Multiverse_Parallel_Realities, Anchor_Myth_Epistemic_Stability"
+    skipped:
+      - seq: 441
+        reason: "Near-duplicate — Healing We-Spheres in Groups overlaps S13F (~142 words)"
+      - seq: 442
+        reason: "Too thin — Whitehead process God summary (~175 words)"
+      - seq: 443
+        reason: "Too thin — Filament of Thought memetic profile fragment (~238 words)"
+      - seq: 444
+        reason: "Too thin — Ancestral Threads memetic profile fragment (~230 words)"
+      - seq: 445
+        reason: "Too thin — Water Threads memetic profile fragment (~246 words)"
+      - seq: 446
+        reason: "Too thin — Triality fragment (~123 words)"
+      - seq: 449
+        reason: "Too thin — Knowing Being Ethical Becoming (~130 words)"
+      - seq: 454
+        reason: "Too thin — Tan-Mātra Sanskrit definition (~247 words)"
+      - seq: 455
+        reason: "Too thin — Prāṇic Uptake spiritual practice (~339 words)"
+      - seq: 456
+        reason: "Too thin — untitled fragment (~164 words)"
+      - seq: 459
+        reason: "Too thin — तनु-संरक्षण Sanskrit definition (~218 words)"
+      - seq: 460
+        reason: "Too thin — Manas Prasadanam Sanskrit definition (~270 words)"
+
 summary:
-  total_processed: 440
-  encoded: 318
-  skipped_duplicate: 50
-  skipped_empty: 72
+  total_processed: 460
+  encoded: 326
+  skipped_duplicate: 51
+  skipped_empty: 83
   skipped_error: 0
-  last_tag_assigned: "S13F"
-  next_available: "S140"
-  remaining_files: 188
+  last_tag_assigned: "S147"
+  next_available: "S148"
+  remaining_files: 168
