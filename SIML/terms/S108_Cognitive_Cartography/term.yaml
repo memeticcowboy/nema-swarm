@@ -1,0 +1,30 @@
+---
+term: "Cognitive Cartography"
+hex_tag: "S108"
+series: "S"
+source_file: "1771907213270_2251440_Cognitive+Cartography%3A+Mapping+Knowledge+Gaps.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Cognitive cartography as method for visually mapping and exploring unknown knowledge gaps using cognitive maps. Emphasizes graphical representations to understand concept relationships and identify areas of ignorance. Connects to Rumsfeld's known/unknown framework. Maps as tools for collaborative learning, memory retention, and interdisciplinary connection. Ignorance mapping as driver of curiosity and targeted inquiry."
+nemetic: "Φ(Cognitive Cartography) = σ(known_knowledge|unknown_knowledge) ∘ ρ(individual_maps|shared_understanding) ∘ λ(certainty_mapping|ignorance_mapping) ∘ β(isolated_concepts|interdisciplinary_connection) ∘ δγ(visual_representation|textual_description) ∘ μ(fixed_knowledge_territory|exploratory_cartographic_process) + ε | :mapping_the_unknown"
+siml_encoding: "⟨known_unknown_distinction, knowledge_scope⟩ ⊳ ⟨individual_shared_relational_web, understanding_resonance⟩ → ⟨certainty_ignorance_transformation, inquiry_catalysis⟩ ⊗ ⟨isolated_interdisciplinary_growth, connection_expansion⟩ ⇄ ⟨visual_textual_cycling, representation_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing known knowledge from unknown knowledge — the foundational discernment between what is mapped and what remains unmapped, connecting to Rumsfeld's framework of known knowns, known unknowns, and unknown unknowns)"
+    - "∂Φ/∂ρ (relating individual maps to shared understanding — the relational recognition that cognitive maps become more powerful when shared, compared, and collaboratively refined, enabling collective intelligence about knowledge gaps)"
+    - "∂Φ/∂λ (transforming certainty mapping into ignorance mapping — the catalytic shift from mapping what we know with confidence to deliberately mapping what we do not know, using gaps and blank spaces as drivers of curiosity and targeted inquiry)"
+    - "∂Φ/∂β (growth from isolated concepts to interdisciplinary connection — expanding from mapping concepts within single domains to tracing connections across disciplines, revealing unexpected bridges and shared structures in knowledge landscapes)"
+    - "∂Φ/∂δγ (cycling between visual representation and textual description — the oscillation between graphical, spatial, diagrammatic ways of representing knowledge and linear, verbal, propositional ways, with cognitive maps mediating between both modes)"
+    - "∂Φ/∂μ (structural correspondence between fixed knowledge territory and exploratory cartographic process — mapping the tension between knowledge conceived as settled territory to be catalogued and knowledge conceived as an ongoing exploration where the act of mapping itself reveals new terrain)"
+  Z_state: "mapping_the_unknown — cognitive cartography as the practice of making visible what is not yet known; maps of knowledge gaps drive curiosity more effectively than maps of knowledge possession; the Rumsfeld matrix (known knowns, known unknowns, unknown unknowns) provides the epistemic scaffold; collaborative mapping transforms individual ignorance into shared inquiry; visual representation makes spatial and relational what propositional knowledge renders linear; the map is never the territory, but mapping the territory of ignorance transforms the mapper"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["known_unknown_discernment", "epistemic_boundary_distinction"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["individual_shared_map_relating", "collaborative_understanding_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["certainty_to_ignorance_catalysis", "inquiry_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["isolated_to_interdisciplinary_growth", "connection_bridge_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.70, aspects: ["visual_textual_oscillation", "representation_grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.85, aspects: ["cartographic_process_architecture", "knowledge_gap_structural_mapping"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

@@ -958,12 +958,27 @@ entries:
       - seq: 326
         reason: "Too thin — parody liturgy (~245 words, off-topic)"
 
+  # Batch 34 (files 331-340)
+  - seq: 331-340
+    action: "batch"
+    encoded_tags: "S103-S108"
+    encoded_names: "Rewilding_Tech_Ethics_SANITY, Storm_Selves, Self_Illusion_Blackmore, Interconnectedness_Self_Field, Six_Functional_Freedoms, Cognitive_Cartography"
+    skipped:
+      - seq: 331
+        reason: "Too thin — untitled repost fragment (~26 words)"
+      - seq: 332
+        reason: "Near-duplicate — Perception in Creativity overlaps S0CA"
+      - seq: 337
+        reason: "Too thin — Levin SO WHAT Framework (~223 words, SWOT-style)"
+      - seq: 338
+        reason: "Too thin — untitled selfplex definition (~69 words)"
+
 summary:
-  total_processed: 330
-  encoded: 257
-  skipped_duplicate: 41
-  skipped_empty: 32
+  total_processed: 340
+  encoded: 263
+  skipped_duplicate: 42
+  skipped_empty: 35
   skipped_error: 0
-  last_tag_assigned: "S102"
-  next_available: "S103"
-  remaining_files: 298
+  last_tag_assigned: "S108"
+  next_available: "S109"
+  remaining_files: 288
