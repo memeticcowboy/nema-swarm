@@ -888,12 +888,21 @@ entries:
       - seq: 241
         reason: "Too thin — generic Gen X creative career overview, no source"
 
+  # Batch 26 (files 251-260)
+  - seq: 251-260
+    action: "batch"
+    encoded_tags: "S0BA-S0C2"
+    encoded_names: "Triadic_Recursion_Model, Tan_Ching_Unattached_Thoughts, Alan_Watts_Inner_Conflicts, Dogs_Speech_Recognition, Thalamus_Consciousness_Gatekeeper, DSRP_Therapy, Spectral_Lattice_of_Knowing, Hauntological_Reflective_Cycle, WEIRDO_STREAM_Framework"
+    skipped:
+      - seq: 254
+        reason: "Too thin — brief hexagonal note-taking study tips"
+
 summary:
-  total_processed: 250
-  encoded: 184
+  total_processed: 260
+  encoded: 193
   skipped_duplicate: 38
-  skipped_empty: 28
+  skipped_empty: 29
   skipped_error: 0
-  last_tag_assigned: "S0B9"
-  next_available: "S0BA"
-  remaining_files: 378
+  last_tag_assigned: "S0C2"
+  next_available: "S0C3"
+  remaining_files: 368
