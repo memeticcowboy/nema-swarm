@@ -938,12 +938,23 @@ entries:
       - seq: 306
         reason: "Too thin — philosophical musing on language limits (~250 words)"
 
+  # Batch 32 (files 311-320)
+  - seq: 311-320
+    action: "batch"
+    encoded_tags: "S0F2-S0F9"
+    encoded_names: "IF_Prime_SixHats_Cyborgs_Module, Symbolic_Metaphysics_Education, E_Prime_to_IF_Prime_Evolution, Language_Embodied_Co_Regulation, Rights_All_Conscious_Beings, AI_Meta_Linguistic_Environments, It_Fends_Dynamic_Protection, Participatory_Sense_Making"
+    skipped:
+      - seq: 311
+        reason: "Near-duplicate — Prefigurative community building overlaps S0F1"
+      - seq: 314
+        reason: "Near-duplicate — Symbolic Metaphysics Education in AI overlaps S0F3"
+
 summary:
-  total_processed: 310
-  encoded: 240
-  skipped_duplicate: 39
+  total_processed: 320
+  encoded: 248
+  skipped_duplicate: 41
   skipped_empty: 31
   skipped_error: 0
-  last_tag_assigned: "S0F1"
-  next_available: "S0F2"
-  remaining_files: 318
+  last_tag_assigned: "S0F9"
+  next_available: "S0FA"
+  remaining_files: 308

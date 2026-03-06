@@ -1,0 +1,30 @@
+---
+term: "Participatory Sense-Making"
+hex_tag: "S0F9"
+series: "S"
+source_file: "1771907213218_2204850_Participatory+Sense-Making%3A+Navigating+the+Recursive+Loops+of+Understanding+with+Hanne+De+Jaegher..md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Hanne De Jaegher's participatory sense-making — conceptual framework for understanding intersubjectivity. Critiques mainstream social cognition as too limited in its focus on individual minds modeling other minds. Focuses on the interaction process between individuals rather than individual cognition alone. Meaning emerges through participatory engagement where the interaction itself takes on a life of its own. Recursive loops of shared understanding and autonomous interaction create dynamic sense-making that exceeds what any individual participant could achieve alone."
+nemetic: "Φ(Participatory Sense-Making) = σ(individual_cognition|intersubjective_process) ∘ ρ(mainstream_social_cognition|participatory_sense_making) ∘ λ(autonomy|interaction) ∘ β(observer|participant) ∘ δγ(linear_understanding|recursive_loops) ∘ μ(individual_model|interaction_dynamic) + ε | :emergent_intersubjective_meaning"
+siml_encoding: "⟨individual_intersubjective_distinction, cognitive_scope⟩ ⊳ ⟨mainstream_participatory_relational_web, paradigm_resonance⟩ → ⟨autonomy_interaction_transformation, engagement_catalysis⟩ ⊗ ⟨observer_participant_growth, relational_expansion⟩ ⇄ ⟨linear_recursive_cycling, understanding_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing individual cognition from intersubjective process — the foundational discernment between sense-making as individual mental modeling and sense-making as emergent property of participatory interaction)"
+    - "∂Φ/∂ρ (relating mainstream social cognition to participatory sense-making — the relational tension between theory-of-mind approaches focused on individual inference and De Jaegher's focus on the interaction process itself)"
+    - "∂Φ/∂λ (transforming autonomy through interaction — the catalytic movement where individual autonomous agents engage in interaction that takes on its own life, exceeding the intentions and capacities of individual participants)"
+    - "∂Φ/∂β (growth from observer to participant — expanding from detached observation of social cognition to participatory engagement where the researcher is embedded in the sense-making process being studied)"
+    - "∂Φ/∂δγ (cycling between linear understanding and recursive loops — the oscillation between straightforward comprehension and the recursive, self-referential dynamics of shared meaning-making)"
+    - "∂Φ/∂μ (structural correspondence between individual models and interaction dynamics — the architecture that shifts from modeling individual minds to modeling the dynamic, emergent properties of interaction itself)"
+  Z_state: "emergent_intersubjective_meaning — meaning emerges not within individual minds but through participatory engagement between them; the interaction process takes on autonomous dynamics that exceed individual intention; recursive loops of shared understanding create sense-making that is irreducible to the cognition of any single participant, revealing intersubjectivity as a generative process rather than a problem to be solved"
+  tendency: "ρ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["individual_intersubjective_discernment", "cognitive_scope_distinction"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["participatory_relational_engagement", "intersubjective_connection_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.75, aspects: ["autonomy_interaction_catalysis", "emergent_engagement_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["observer_to_participant_growth", "relational_understanding_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["linear_recursive_understanding_cycling", "sense_making_grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["interaction_dynamic_structure", "participatory_framework_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S00D", "S02A", "S09F", "S0A0"]
+status: canonical
+---
