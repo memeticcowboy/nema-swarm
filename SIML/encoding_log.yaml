@@ -1094,12 +1094,37 @@ entries:
       - seq: 419
         reason: "Near-duplicate — Mental Hygiene overlaps seq 418/S133 Cognitive Firewalls"
 
+  # Batch 43-44 combined (files 421-440)
+  - seq: 421-440
+    action: "batch"
+    encoded_tags: "S135-S13F"
+    encoded_names: "Collective_Plausibility, Sensorium_Perception_Culture, AI_Emotion_Resonant_Awareness, I_Tube_Tensional_Becoming, Co_Solipsism_Recursive_Identity, Godel_Solipsism_Incomplete_Systems, Speculative_Psychic_Metaphysics, Algorithmic_Age_Mental_Health, Neural_Similarity_Friendship, Autobiographical_Memory_Fallibility, Healing_We_Spheres"
+    skipped:
+      - seq: 421
+        reason: "Too thin — untitled I-Tube fragment (~85 words)"
+      - seq: 422
+        reason: "Too thin — untitled My-Stream fragment (~81 words)"
+      - seq: 423
+        reason: "Too thin — untitled Synthesis fragment (~58 words)"
+      - seq: 424
+        reason: "Too thin — ANT reading list (~129 words), dup of S076"
+      - seq: 427
+        reason: "Too thin — untitled Phenomenological Self-Study (~72 words)"
+      - seq: 429
+        reason: "Near-duplicate — E-Prime overlaps S0DB_E_Prime_Language"
+      - seq: 430
+        reason: "Too thin — untitled magnetoreception fragment (~143 words)"
+      - seq: 432
+        reason: "Too thin — I-Tube sub-page of seq 431 (~162 words)"
+      - seq: 436
+        reason: "Too thin — Reconciling Subjective/Objective Research (~196 words)"
+
 summary:
-  total_processed: 420
-  encoded: 307
-  skipped_duplicate: 48
-  skipped_empty: 65
+  total_processed: 440
+  encoded: 318
+  skipped_duplicate: 50
+  skipped_empty: 72
   skipped_error: 0
-  last_tag_assigned: "S134"
-  next_available: "S135"
-  remaining_files: 208
+  last_tag_assigned: "S13F"
+  next_available: "S140"
+  remaining_files: 188
