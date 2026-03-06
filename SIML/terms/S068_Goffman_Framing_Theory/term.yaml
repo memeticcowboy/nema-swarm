@@ -1,0 +1,30 @@
+---
+term: "Goffman Framing Theory"
+hex_tag: "S068"
+series: "S"
+source_file: "1771907212714_1025800_Understanding+Goffman%27s+Framing+Theory+in+Communication.md"
+encoded_at: "2026-03-05T23:00:00Z"
+description: "Erving Goffman's Framing Theory describing cognitive structures ('frames') that interpret and organize experience. Primary frameworks divide into natural (event-driven, physical causation) and social (socially constructed, intentional action). Applications span media, marketing, and interpersonal communication. Frames influence behavior and shape societal norms."
+nemetic: "Φ(Goffman Framing Theory) = σ(natural_frame|social_frame) ∘ ρ(individual_interpretation|collective_norm) ∘ λ(raw_experience|framed_meaning) ∘ β(naive_perception|frame_awareness) ∘ δγ(framing|reframing_cycling) ∘ μ(media_structure|institutional_frame) + ε | :interpretive_organization"
+siml_encoding: "⟨frame_type_distinction, natural_social_mapping⟩ ⊳ ⟨individual_collective_interpretation, norm_formation⟩ → ⟨experience_to_meaning_transformation, frame_application⟩ ⊗ ⟨frame_awareness_development, critical_perception_growth⟩ ⇄ ⟨framing_reframing_cycling, interpretive_iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing natural frameworks from social frameworks)"
+    - "∂Φ/∂ρ (relating individual interpretation to collective normative framing)"
+    - "∂Φ/∂λ (transforming raw experience into framed meaning)"
+    - "∂Φ/∂β (growth from naive perception to critical frame awareness)"
+    - "∂Φ/∂δγ (cycling through framing and reframing operations)"
+    - "∂Φ/∂μ (media structures and institutional framing architectures)"
+  Z_state: "interpretive_organization — cognitive frames organize raw experience into meaningful patterns, with natural and social frameworks providing the primary interpretive structures through which individuals and societies construct shared reality"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["natural_social_frame_distinction", "frame_identification_clarity"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["individual_collective_interpretive_dynamics", "social_norm_formation_through_framing"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["raw_experience_to_meaning_transformation", "frame_application_as_catalyst"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["frame_awareness_development", "critical_perception_maturation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["framing_reframing_cycling", "interpretive_revision_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.85, aspects: ["media_framing_architecture", "institutional_frame_structure"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S03A", "S053", "S056", "S063"]
+status: canonical
+---

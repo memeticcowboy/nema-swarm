@@ -1,0 +1,30 @@
+---
+term: "Social Evolution Singularity"
+hex_tag: "S064"
+series: "S"
+source_file: "1771907212707_1009831_.md"
+encoded_at: "2026-03-05T23:00:00Z"
+description: "Three phases of social evolution — Adaptive (past), Structural (present), Cognitive (future) — punctuated by two singularities: the Neolithic transition and the ongoing Global transition. Structural phase produces individual competition leading to inequality and societal competition leading to uniformity. Cognitive phase transcends current social institutions. Dobrolyubov's framework."
+nemetic: "Φ(Social Evolution Singularity) = σ(adaptive|structural|cognitive) ∘ ρ(competition|cooperation_dynamics) ∘ λ(institutional_form|transcendent_cognition) ∘ β(neolithic_transition|global_transition) ∘ δγ(phase_transition|evolutionary_cycling) ∘ μ(social_institution|civilizational_structure) + ε | :cognitive_transcendence"
+siml_encoding: "⟨phase_distinction, evolutionary_signal⟩ ⊳ ⟨competition_cooperation_tension, social_dynamics⟩ → ⟨institutional_transcendence, cognitive_emergence⟩ ⊗ ⟨singularity_passage, civilizational_maturation⟩ ⇄ ⟨phase_transition_cycling, evolutionary_iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing adaptive, structural, and cognitive evolutionary phases)"
+    - "∂Φ/∂ρ (relating competition and cooperation dynamics across social scales)"
+    - "∂Φ/∂λ (transforming institutional social forms into transcendent cognitive organization)"
+    - "∂Φ/∂β (growth through singularity transitions from Neolithic to Global)"
+    - "∂Φ/∂δγ (cycling through evolutionary phase transitions)"
+    - "∂Φ/∂μ (social institutional and civilizational structural frameworks)"
+  Z_state: "cognitive_transcendence — social evolution passes through singularity transitions where current institutional forms are transcended by emergent cognitive-phase organization that operates beyond the logic of competition and structural uniformity"
+  tendency: "β → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["evolutionary_phase_distinction", "adaptive_structural_cognitive_recognition"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.75, aspects: ["competition_cooperation_relational_dynamics", "inequality_uniformity_tensions"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["institutional_transcendence", "cognitive_phase_emergence"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.90, aspects: ["singularity_passage_growth", "civilizational_evolutionary_maturation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["phase_transition_cycling", "evolutionary_epoch_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["social_institutional_architecture", "civilizational_structural_form"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S056", "S054", "S04D", "S053"]
+status: canonical
+---

@@ -771,12 +771,21 @@ entries:
     tag: "S05F"
     term_name: "Decision_Intelligence_Human_Capital"
 
+  # Batch 15 (files 141-150)
+  - seq: 141-150
+    action: "batch"
+    encoded_tags: "S060-S068"
+    encoded_names: "Heart_Castle_VR_Therapy, AI_Science_Art_Connections, Stoicism_Resurgence, Pygmalion_Effect_Memetics, Social_Evolution_Singularity, Birth_Control_Transhumanism, GPT4_Cross_Cultural_Personality, Language_Consciousness_Link, Goffman_Framing_Theory"
+    skipped:
+      - seq: 143
+        reason: "Too thin — Feyerabend quote only"
+
 summary:
-  total_processed: 140
-  encoded: 94
+  total_processed: 150
+  encoded: 103
   skipped_duplicate: 30
-  skipped_empty: 16
+  skipped_empty: 17
   skipped_error: 0
-  last_tag_assigned: "S05F"
-  next_available: "S060"
-  remaining_files: 488
+  last_tag_assigned: "S068"
+  next_available: "S069"
+  remaining_files: 478
