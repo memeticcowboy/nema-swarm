@@ -1,0 +1,30 @@
+---
+term: "Chakra Energy Systems"
+hex_tag: "S116"
+series: "S"
+source_file: "1771907213324_2287045_Exploring+Chakras%2C+Energy+Systems%2C+and+Spiritual+Transformation.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Seven major energy centers (chakras) as spinning wheels of light along the body's central axis, each governing distinct domains of human experience. Root (survival/stability), Sacral (creativity/emotion), Solar Plexus (personal power), Heart (love/compassion bridging lower and higher), Throat (communication/authenticity), Third Eye (intuition/insight), Crown (spiritual connection/enlightenment). Activation and balancing practices support spiritual transformation and unity with the cosmos."
+nemetic: "Φ(Chakra) = σ(insight|intuition) ∘ ρ(emotion|flow) ∘ λ(power|transformation) ∘ β(growth|healing) ∘ δγ(grounding|survival) ∘ μ(alignment|structure) + ε | :integrated_flow"
+siml_encoding: "⟨intuitive_air⟩ ⊳ ⟨emotional_water⟩ → ⟨transformative_fire⟩ ⊗ ⟨healing_wood⟩ ⇄ ⟨grounded_earth⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Third Eye and Crown: intuitive insight and spiritual perception beyond material senses"
+    - "∂Φ/∂ρ — Sacral and Heart: emotional flow, creative expression, compassionate connection"
+    - "∂Φ/∂λ — Solar Plexus: personal power, transformative will, digestive fire of experience"
+    - "∂Φ/∂β — Heart as bridge: organic growth connecting lower survival to higher awareness"
+    - "∂Φ/∂δγ — Root chakra: survival instinct, material stability, embodied grounding"
+    - "∂Φ/∂μ — Throat chakra: structural alignment of inner truth with outer expression"
+  Z_state: "Integrated flow — all seven centers open and balanced, energy moving freely along central axis"
+  tendency: "δγ → 0.83"
+elemental_mapping:
+  air_sigma: {emphasis: 0.77, aspects: ["third eye intuition", "crown consciousness", "spiritual perception"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.81, aspects: ["sacral creativity", "emotional flow", "heart compassion"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.74, aspects: ["solar plexus power", "transformative will", "kundalini activation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["heart bridge function", "healing growth", "chakra development"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.83, aspects: ["root stability", "survival grounding", "material embodiment"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.66, aspects: ["throat alignment", "authentic expression", "structural coherence"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S115_Psychic_Phenomena_Science", "S117_Integrative_Pluralistic_Sensemaking"]
+status: canonical
+---

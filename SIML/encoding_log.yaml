@@ -982,12 +982,25 @@ entries:
       - seq: 344
         reason: "Near-duplicate — Extended Mind overlaps S03D/S044"
 
+  # Batch 36 (files 351-360)
+  - seq: 351-360
+    action: "batch"
+    encoded_tags: "S112-S118"
+    encoded_names: "Epistemic_Games_Sensemaking, STREAMware_Ethical_Tech, CAIT2_Dissonance_Empathy, Psychic_Phenomena_Science, Chakra_Energy_Systems, Integrative_Pluralistic_Sensemaking, Playable_Epistemology"
+    skipped:
+      - seq: 352
+        reason: "Too thin — untitled self-dissolution musing (~245 words)"
+      - seq: 355
+        reason: "Too thin — untitled Shifter concept (~196 words)"
+      - seq: 359
+        reason: "Near-duplicate — Integrating Diverse Epistemologies overlaps seq 358/S117"
+
 summary:
-  total_processed: 350
-  encoded: 272
-  skipped_duplicate: 43
-  skipped_empty: 35
+  total_processed: 360
+  encoded: 279
+  skipped_duplicate: 44
+  skipped_empty: 37
   skipped_error: 0
-  last_tag_assigned: "S111"
-  next_available: "S112"
-  remaining_files: 278
+  last_tag_assigned: "S118"
+  next_available: "S119"
+  remaining_files: 268

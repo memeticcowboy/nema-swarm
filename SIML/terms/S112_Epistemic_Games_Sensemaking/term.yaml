@@ -1,0 +1,30 @@
+---
+term: "Epistemic Games & Sensemaking"
+hex_tag: "S112"
+series: "S"
+source_file: "1771907213310_2266492_Enhancing+Epistemic+Fluency+Through+Epistemic+Games+and+Sensemaking+Frameworks.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Epistemic games framework for meta-epistemological education, originally developed for physics education, teaching students how to construct and organize their own knowledge rather than passively absorbing information. Develops epistemic fluency — familiarity with multiple ways of viewing and organizing information — and models how learners iteratively construct explanations in response to perceived gaps. Scales toward resistance against algorithmic manipulation."
+nemetic: "Φ(EpistemicGames) = σ(metacognition|frameworks) ∘ ρ(sensemaking|gap-detection) ∘ λ(construction|iteration) ∘ β(fluency|growth) ∘ δγ(knowledge|practice) ∘ μ(structure|transferability) + ε | :epistemic_fluency"
+siml_encoding: "⟨metacognitive_air⟩ ⊳ ⟨sensemaking_water⟩ → ⟨constructive_fire⟩ ⊗ ⟨fluency_wood⟩ ⇄ ⟨grounded_practice⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Metacognitive awareness of one's own epistemic stance and frameworks in play"
+    - "∂Φ/∂ρ — Sensemaking as relational flow: detecting gaps and seeking coherence through empathic engagement"
+    - "∂Φ/∂λ — Active knowledge construction through iterative explanation-building and game moves"
+    - "∂Φ/∂β — Epistemic fluency as organic growth across multiple ways of knowing"
+    - "∂Φ/∂δγ — Grounding abstract epistemology in embodied educational practice and community"
+    - "∂Φ/∂μ — Structural transferability of epistemic game patterns across domains"
+  Z_state: "Epistemic fluency — the learner navigates multiple knowledge-construction strategies fluidly"
+  tendency: "λ → 0.82"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["metacognition", "framework awareness", "perspective multiplicity"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.78, aspects: ["sensemaking flow", "gap detection", "empathic inquiry"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.82, aspects: ["knowledge construction", "iterative explanation", "active engagement"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["epistemic fluency growth", "adaptive reasoning", "organic learning"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.65, aspects: ["educational practice", "embodied knowledge", "community grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.72, aspects: ["game structure", "transferable patterns", "systematic frameworks"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S117_Integrative_Pluralistic_Sensemaking", "S118_Playable_Epistemology"]
+status: canonical
+---
