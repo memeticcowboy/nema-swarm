@@ -1191,12 +1191,29 @@ entries:
       - seq: 490
         reason: "Too thin — Anu-Sūtra-Veda Sanskrit definition (~381 words)"
 
+  - batch: 50
+    range: "seq 491-500"
+    encoded:
+      - {seq: 491, tag: "S15C", name: "AI_Stockholm_Syndrome"}
+      - {seq: 493, tag: "S15D", name: "Sympoietic_Systems"}
+      - {seq: 494, tag: "S15E", name: "Bateson_Recursive_Feedback"}
+      - {seq: 495, tag: "S15F", name: "Tacit_Knowledge_Innovation"}
+      - {seq: 496, tag: "S160", name: "Symmetry_Asymmetry_Existence"}
+      - {seq: 498, tag: "S161", name: "Reevaluating_Human_Nature"}
+      - {seq: 499, tag: "S162", name: "Cognitive_Resilience_Analogy"}
+      - {seq: 500, tag: "S163", name: "Gut_Dysbiosis_Brain_Axis"}
+    skipped:
+      - seq: 492
+        reason: "Too thin — Agency vs Consciousness Four Archetypes (~274 words)"
+      - seq: 497
+        reason: "Too thin — untitled (~125 words)"
+
 summary:
-  total_processed: 490
-  encoded: 346
+  total_processed: 500
+  encoded: 354
   skipped_duplicate: 55
-  skipped_empty: 89
+  skipped_empty: 91
   skipped_error: 0
-  last_tag_assigned: "S15B"
-  next_available: "S15C"
-  remaining_files: 138
+  last_tag_assigned: "S163"
+  next_available: "S164"
+  remaining_files: 128

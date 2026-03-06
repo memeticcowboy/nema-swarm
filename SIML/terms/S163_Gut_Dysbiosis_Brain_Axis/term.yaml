@@ -1,0 +1,30 @@
+---
+term: "Gut Dysbiosis Brain Axis"
+hex_tag: "S163"
+series: "S"
+source_file: "1771907213597_2535537_Impact+of+Gut+Dysbiosis+on+the+Gut-Brain+Axis+and+Associated+Mental%2C+Gastrointestinal%2C+and+Systemic+Symptoms.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "The disruption of bidirectional gut-brain axis communication by gut dysbiosis (bacterial imbalance), producing cascading mental, gastrointestinal, and systemic symptoms through impaired neurotransmitter production, neuroinflammation, and compromised intestinal barrier integrity."
+nemetic: "Φ(GutDysbiosis) = σ(neurological_fog|cognitive_clarity) ∘ ρ(axis_disruption|bidirectional_harmony) ∘ λ(inflammatory_cascade|homeostatic_regulation) ∘ β(microbiome_imbalance|ecological_diversity) ∘ δγ(somatic_manifestation|systemic_health) ∘ μ(neurotransmitter_architecture|chemical_equilibrium) + ε | :dysbiotic_spiral"
+siml_encoding: "⟨disrupted_signaling⟩ ⊳ ⟨axis_breakdown⟩ → ⟨inflammatory_transformation⟩ ⊗ ⟨microbial_depletion⟩ ⇄ ⟨systemic_destabilization⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (neurological fog disrupts cognitive and perceptual clarity)"
+    - "∂Φ/∂ρ (axis disruption severs bidirectional gut-brain communication)"
+    - "∂Φ/∂λ (inflammatory cascade triggers neuroinflammation and immune activation)"
+    - "∂Φ/∂β (microbiome imbalance depletes beneficial bacterial diversity)"
+    - "∂Φ/∂δγ (somatic manifestation expresses dysbiosis through body-wide symptoms)"
+    - "∂Φ/∂μ (neurotransmitter architecture collapses as serotonin/dopamine/GABA production fails)"
+  Z_state: "dysbiotic spiral — self-reinforcing cycle where gut imbalance degrades brain function which further destabilizes gut ecology"
+  tendency: "δγ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.75, aspects: ["brain_fog", "cognitive_impairment"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["axis_disruption", "vagal_communication_breakdown"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["neuroinflammation", "immune_activation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["microbiome_depletion", "diversity_collapse"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.90, aspects: ["somatic_symptom_cascade", "leaky_gut"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["neurotransmitter_disruption", "serotonin_dopamine_GABA_deficit"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---
