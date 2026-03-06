@@ -1150,12 +1150,25 @@ entries:
       - seq: 460
         reason: "Too thin — Manas Prasadanam Sanskrit definition (~270 words)"
 
+  # Batch 47 (files 461-470)
+  - seq: 461-470
+    action: "batch"
+    encoded_tags: "S148-S14E"
+    encoded_names: "Illich_Convivial_Tools, Butler_Mourning_Political_Resistance, Turner_Communitas_Liminality, Constructive_Hallucination, Suleyman_AI_Not_Persons, Perception_Scaffold_Awareness, Contextual_Behavioral_Science"
+    skipped:
+      - seq: 461
+        reason: "Near-duplicate — IF-Prime Linguistic Shift overlaps S0F4/S0EB"
+      - seq: 462
+        reason: "Near-duplicate — IF-Prime Dissolving I Am overlaps S0F4/S0EB"
+      - seq: 466
+        reason: "Too thin — untitled depth/indexing meditation (~283 words)"
+
 summary:
-  total_processed: 460
-  encoded: 326
-  skipped_duplicate: 51
-  skipped_empty: 83
+  total_processed: 470
+  encoded: 333
+  skipped_duplicate: 53
+  skipped_empty: 84
   skipped_error: 0
-  last_tag_assigned: "S147"
-  next_available: "S148"
-  remaining_files: 168
+  last_tag_assigned: "S14E"
+  next_available: "S14F"
+  remaining_files: 158
