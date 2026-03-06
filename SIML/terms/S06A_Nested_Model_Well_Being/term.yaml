@@ -1,0 +1,30 @@
+---
+term: "Nested Model Well Being"
+hex_tag: "S06A"
+series: "S"
+source_file: "1771907212719_1036434_Understanding+the+Nested+Model+of+Well-Being.md"
+encoded_at: "2026-03-05T23:30:00Z"
+description: "Framework for human flourishing integrating subjective experiences, health and functioning, environmental context, and evaluative values. Emphasizes interconnectedness of well-being domains and their nested, mutually influencing relationships. Applications span research methodology and practical intervention design."
+nemetic: "Φ(Nested Model Well Being) = σ(subjective_experience|objective_condition) ∘ ρ(individual_flourishing|environmental_context) ∘ λ(fragmented_assessment|integrated_well_being) ∘ β(single_domain_focus|nested_comprehension) ∘ δγ(experience|evaluation_cycling) ∘ μ(assessment_framework|intervention_structure) + ε | :integrated_flourishing"
+siml_encoding: "⟨subjective_objective_distinction, experience_condition_mapping⟩ ⊳ ⟨individual_environmental_relation, contextual_flourishing⟩ → ⟨fragmented_to_integrated_transformation, holistic_assessment⟩ ⊗ ⟨single_to_nested_domain_growth, comprehension_deepening⟩ ⇄ ⟨experience_evaluation_cycling, reflexive_well_being_assessment⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing subjective experience from objective conditions of well-being)"
+    - "∂Φ/∂ρ (relating individual flourishing to environmental and social context)"
+    - "∂Φ/∂λ (transforming fragmented domain assessments into integrated well-being understanding)"
+    - "∂Φ/∂β (growth from single-domain focus to nested multi-domain comprehension)"
+    - "∂Φ/∂δγ (cycling between lived experience and evaluative judgment in well-being assessment)"
+    - "∂Φ/∂μ (assessment frameworks and intervention structures for well-being research and practice)"
+  Z_state: "integrated_flourishing — well-being is understood as a nested system where subjective experiences, health and functioning, environmental context, and evaluative values mutually influence one another, requiring integrated assessment and intervention rather than isolated domain treatment"
+  tendency: "ρ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["subjective_objective_well_being_distinction", "experience_vs_condition_clarity"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["individual_environmental_interconnection", "relational_flourishing_dynamics"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["fragmented_to_integrated_assessment_transformation", "holistic_well_being_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.85, aspects: ["single_to_nested_comprehension_growth", "domain_integration_maturation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["experience_evaluation_cycling", "reflexive_assessment_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["assessment_framework_structure", "intervention_design_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S06B", "S054", "S056", "S04C"]
+status: canonical
+---

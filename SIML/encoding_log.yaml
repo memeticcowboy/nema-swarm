@@ -780,12 +780,23 @@ entries:
       - seq: 143
         reason: "Too thin — Feyerabend quote only"
 
+  # Batch 16 (files 151-160)
+  - seq: 151-160
+    action: "batch"
+    encoded_tags: "S069-S070"
+    encoded_names: "Universal_Behaviorism, Nested_Model_Well_Being, CALM_MO_Mindfulness_Framework, Memetic_Justification_Systems_Theory, Zipfs_Law_Language, Symmathecists_Collaborative_Learning, Empath_Cyborg_Ethical_Stewardship, Montessori_Deep_Time"
+    skipped:
+      - seq: 152
+        reason: "Near-duplicate of S006_Tree_of_Knowledge_System"
+      - seq: 156
+        reason: "Too thin — Wilczek multiverse audio summary, no insight"
+
 summary:
-  total_processed: 150
-  encoded: 103
-  skipped_duplicate: 30
-  skipped_empty: 17
+  total_processed: 160
+  encoded: 111
+  skipped_duplicate: 31
+  skipped_empty: 18
   skipped_error: 0
-  last_tag_assigned: "S068"
-  next_available: "S069"
-  remaining_files: 478
+  last_tag_assigned: "S070"
+  next_available: "S071"
+  remaining_files: 468
