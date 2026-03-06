@@ -920,12 +920,21 @@ entries:
     encoded_names: "Goal_Progress_Cells, Fear_Learning_Through_Inference, Trungpa_Ego_Enlightenment, Whitehead_Process_Philosophy, Rhizomatic_Identity_Deleuze, E_Prime_Language, Co_Creation_Blooms_Taxonomy, Egregores_IFS_Neurophysiology, Morphic_Resonance, IFS_Egregores_Morphic_Resonance"
     skipped: []
 
+  # Batch 30 (files 291-300)
+  - seq: 291-300
+    action: "batch"
+    encoded_tags: "S0E0-S0E8"
+    encoded_names: "Trust_SPHERE_Dynamics, SANITY_Framework, Flow_State_Csikszentmihalyi, Beneficial_AGI_Singularity, Decentralized_Collective_Intelligence, Pendulation_Trauma_Healing, Ecopsychology, Interdisciplinary_Rituals, Fixed_Truths_Fluid_Understanding"
+    skipped:
+      - seq: 293
+        reason: "Near-duplicate — Brain cells intelligent behavior overlaps S0D6 Goal Progress Cells"
+
 summary:
-  total_processed: 290
-  encoded: 222
-  skipped_duplicate: 38
+  total_processed: 300
+  encoded: 231
+  skipped_duplicate: 39
   skipped_empty: 30
   skipped_error: 0
-  last_tag_assigned: "S0DF"
-  next_available: "S0E0"
-  remaining_files: 338
+  last_tag_assigned: "S0E8"
+  next_available: "S0E9"
+  remaining_files: 328
