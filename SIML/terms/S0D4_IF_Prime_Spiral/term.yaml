@@ -1,0 +1,30 @@
+---
+term: "IF-Prime Spiral"
+hex_tag: "S0D4"
+series: "S"
+source_file: "1771907213120_2098991_Exploring+the+IF-Prime+Spiral%3A+Integrating+Competence%2C+Care%2C+Community%2C+and+Connection.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "IF-Prime spiral mapping 4 verbs to 4H centers and C-word archetypes. It Finds → Competence (Head), It Feels → Care (Heart), It Forges → Community (Hands), It Fortifies → Connection (Health). Social spiral: Competence feels into Care → Care forges Community → Community fortifies Connection → Connection flows back to Competence."
+nemetic: "Φ(IF-Prime Spiral) = σ(finding|feeling) ∘ ρ(individual_competence|collective_community) ∘ λ(thinking|doing) ∘ β(grounding|growth) ∘ δγ(spiral_return_cycles|4H_seasonal_flow) ∘ μ(linear_progress|spiral_return) + ε | :integrated_4H_spiral"
+siml_encoding: "⟨finding_feeling_distinction, cognitive_emotional_awareness⟩ ⊳ ⟨competence_community_relational_mapping, care_web⟩ → ⟨thinking_to_doing_transformation, forging_catalysis⟩ ⊗ ⟨grounding_to_growth_maturation, connection_evolution⟩ ⇄ ⟨spiral_return_4H_cycling, competence_care_community_connection_flow⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing finding/cognitive pattern recognition from feeling/emotional resonance)"
+    - "∂Φ/∂ρ (relating individual competence to collective community through care and connection)"
+    - "∂Φ/∂λ (transforming thinking into doing through the forge of community action)"
+    - "∂Φ/∂β (growth from grounding in connection to expansion through renewed competence)"
+    - "∂Φ/∂δγ (cycling through the 4H spiral: Head→Heart→Hands→Health and return)"
+    - "∂Φ/∂μ (structural tension between linear progress models and spiral return as developmental form)"
+  Z_state: "integrated_4H_spiral — the four IF verbs (Finds, Feels, Forges, Fortifies) flow through the four H centers (Head, Heart, Hands, Health) in a social spiral where Competence feels into Care, Care forges Community, Community fortifies Connection, and Connection flows back to Competence"
+  tendency: "δγ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["finding_feeling_distinction", "cognitive_emotional_differentiation"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["competence_community_relational_mapping", "care_connection_web"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["thinking_to_doing_transformation", "forging_community_action"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["grounding_growth_maturation", "connection_renewal_development"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["spiral_return_4H_cycling", "competence_care_community_connection_flow"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["linear_vs_spiral_structure", "4H_architectural_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S005"]
+status: canonical
+---

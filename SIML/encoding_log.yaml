@@ -904,12 +904,21 @@ entries:
     encoded_names: "Reimagining_Social_Contracts, SHOCK_Framework, Holonic_Paradigm, Empathy_Four_Attributes_DSRP, Follow_Your_Bliss, Distributed_Cognition_Citadel_Model, FOOLPLAY_Learning, Perception_Role_Creativity, IEML_Collective_Intelligence, Psycho_Cybernetics"
     skipped: []
 
+  # Batch 28 (files 271-280)
+  - seq: 271-280
+    action: "batch"
+    encoded_tags: "S0CD-S0D5"
+    encoded_names: "Cognitive_Fragmentation_Systemic_Thinking, Transforming_Civic_Systems_EI, Redefining_Happiness, SUNFLOWER_Framework_Taoism, Six_Cyborgs_Tao, AI_Message_Humanity, Human_Consciousness_Prey_Origins, IF_Prime_Spiral, Egregores_Thoughtforms_Besant"
+    skipped:
+      - seq: 272
+        reason: "Too practical — health supplement info (Lion's Mane mushroom)"
+
 summary:
-  total_processed: 270
-  encoded: 203
+  total_processed: 280
+  encoded: 212
   skipped_duplicate: 38
-  skipped_empty: 29
+  skipped_empty: 30
   skipped_error: 0
-  last_tag_assigned: "S0CC"
-  next_available: "S0CD"
-  remaining_files: 358
+  last_tag_assigned: "S0D5"
+  next_available: "S0D6"
+  remaining_files: 348
