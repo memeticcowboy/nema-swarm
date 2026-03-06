@@ -813,12 +813,29 @@ entries:
       - seq: 178
         reason: "Near-duplicate of 177/S07A (identical Hermetic hearth content)"
 
+  # Batch 19 (files 181-190)
+  - seq: 181-190
+    action: "batch"
+    encoded_tags: "S081-S085"
+    encoded_names: "AI_Social_Behavioral_Realism, Brain_Tuning_Receiver_Navigation, Simulations_Consciousness_Impact, Imagination_Cosmic_Architect, Dynamic_Solitude_AI_Introspection"
+    skipped:
+      - seq: 182
+        reason: "Too practical — content creation marketing guide, not sensemaking"
+      - seq: 184
+        reason: "Too thin — brief voice memo on void/meaning"
+      - seq: 186
+        reason: "Too thin — Confucius quote with image commentary"
+      - seq: 187
+        reason: "Too thin — Grok chat on wu-wei, dup of S021"
+      - seq: 188
+        reason: "Near-duplicate of S021_Wu_Wei_Effortless_Action"
+
 summary:
-  total_processed: 180
-  encoded: 127
-  skipped_duplicate: 34
-  skipped_empty: 19
+  total_processed: 190
+  encoded: 132
+  skipped_duplicate: 36
+  skipped_empty: 22
   skipped_error: 0
-  last_tag_assigned: "S080"
-  next_available: "S081"
-  remaining_files: 448
+  last_tag_assigned: "S085"
+  next_available: "S086"
+  remaining_files: 438
