@@ -1225,12 +1225,30 @@ entries:
       - seq: 505
         reason: "Too thin — untitled meditation reflection (~143 words)"
 
+  - batch: 52
+    range: "seq 511-520"
+    encoded:
+      - {seq: 511, tag: "S16C", name: "Experimental_Unit_Ontology"}
+      - {seq: 514, tag: "S16D", name: "Origami_Brain_Theory"}
+      - {seq: 515, tag: "S16E", name: "Alchemy_of_Decay"}
+      - {seq: 516, tag: "S16F", name: "Shadow_Witnessing"}
+      - {seq: 517, tag: "S170", name: "Batesonian_Balance"}
+      - {seq: 519, tag: "S171", name: "Relational_Epistemology_Dreams"}
+      - {seq: 520, tag: "S172", name: "Self_Clarity_as_Mystery"}
+    skipped:
+      - seq: 512
+        reason: "Too thin — Anāhata Nāda (~167 words)"
+      - seq: 513
+        reason: "Too thin — Further Readings on Metamodern Christian Identity (~164 words)"
+      - seq: 518
+        reason: "Too thin — Exploring Systems Empathy (~178 words)"
+
 summary:
-  total_processed: 510
-  encoded: 362
+  total_processed: 520
+  encoded: 369
   skipped_duplicate: 56
-  skipped_empty: 92
+  skipped_empty: 95
   skipped_error: 0
-  last_tag_assigned: "S16B"
-  next_available: "S16C"
-  remaining_files: 118
+  last_tag_assigned: "S172"
+  next_available: "S173"
+  remaining_files: 108
