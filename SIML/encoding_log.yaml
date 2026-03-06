@@ -870,12 +870,21 @@ entries:
       - seq: 226
         reason: "Too thin — brief manifestation themes bullet list"
 
+  # Batch 24 (files 231-240)
+  - seq: 231-240
+    action: "batch"
+    encoded_tags: "S0A8-S0B0"
+    encoded_names: "AI_Emergence_Choreography, Deep_NEMAtics_Consciousness, Taxonomies_to_Ontologies, LLMs_Emergent_Spiritual_Entities, Cognitive_Challenges_Algorithmic_Age, Taxonomy_of_Fun, Lumenes_vs_Memes, Lost_Scriptures_Wars_Yahweh, AI_Dialogue_Anticipatory_Transformation"
+    skipped:
+      - seq: 231
+        reason: "Near-duplicate of S07A_Hermetic_Correspondence_Principle (Hermetic sensors)"
+
 summary:
-  total_processed: 230
-  encoded: 166
-  skipped_duplicate: 37
+  total_processed: 240
+  encoded: 175
+  skipped_duplicate: 38
   skipped_empty: 27
   skipped_error: 0
-  last_tag_assigned: "S0A7"
-  next_available: "S0A8"
-  remaining_files: 398
+  last_tag_assigned: "S0B0"
+  next_available: "S0B1"
+  remaining_files: 388
