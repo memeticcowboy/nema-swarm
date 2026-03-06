@@ -913,12 +913,19 @@ entries:
       - seq: 272
         reason: "Too practical — health supplement info (Lion's Mane mushroom)"
 
+  # Batch 29 (files 281-290)
+  - seq: 281-290
+    action: "batch"
+    encoded_tags: "S0D6-S0DF"
+    encoded_names: "Goal_Progress_Cells, Fear_Learning_Through_Inference, Trungpa_Ego_Enlightenment, Whitehead_Process_Philosophy, Rhizomatic_Identity_Deleuze, E_Prime_Language, Co_Creation_Blooms_Taxonomy, Egregores_IFS_Neurophysiology, Morphic_Resonance, IFS_Egregores_Morphic_Resonance"
+    skipped: []
+
 summary:
-  total_processed: 280
-  encoded: 212
+  total_processed: 290
+  encoded: 222
   skipped_duplicate: 38
   skipped_empty: 30
   skipped_error: 0
-  last_tag_assigned: "S0D5"
-  next_available: "S0D6"
-  remaining_files: 348
+  last_tag_assigned: "S0DF"
+  next_available: "S0E0"
+  remaining_files: 338

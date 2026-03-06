@@ -1,0 +1,30 @@
+---
+term: "Trungpa on Ego & Enlightenment"
+hex_tag: "S0D8"
+series: "S"
+source_file: "1771907213135_2121813_Ch%C3%B6gyam+Trungpa+on+Ego+and+Enlightenment.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Chögyam Trungpa's teaching that enlightenment means surrendering ego's territory, not destroying ego. Simplifying existence to basic state of body/mind/consciousness through meditation. 'Basic sanity' — innate openness obscured by ego-driven neuroses. Ego rides along rather than being slain. Compassion and awareness as fruits of practice."
+nemetic: "Φ(Trungpa on Ego & Enlightenment) = σ(ego_destruction|ego_surrender) ∘ ρ(neurosis|basic_sanity) ∘ λ(complexity|simplicity) ∘ β(attachment|openness) ∘ δγ(effort|effortlessness) ∘ μ(conceptual_elaboration|basic_body_mind) + ε | :surrendered_presence"
+siml_encoding: "⟨destruction_surrender_distinction, ego_epistemics⟩ ⊳ ⟨neurosis_sanity_relational_mapping, innate_openness_web⟩ → ⟨complexity_to_simplicity_transformation, meditative_catalysis⟩ ⊗ ⟨attachment_to_openness_maturation, compassion_growth⟩ ⇄ ⟨effort_effortlessness_cycling, practice_renewal⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing ego destruction from ego surrender as the path to enlightenment)"
+    - "∂Φ/∂ρ (relating ego-driven neurosis to innate basic sanity obscured beneath it)"
+    - "∂Φ/∂λ (transforming existential complexity into simplicity of body/mind/consciousness)"
+    - "∂Φ/∂β (growth from attachment and territorial ego to openness and compassion)"
+    - "∂Φ/∂δγ (cycling between effortful practice and effortless resting in basic nature)"
+    - "∂Φ/∂μ (structural contrast between conceptual elaboration and basic body/mind awareness)"
+  Z_state: "surrendered_presence — ego's territory is relinquished rather than ego itself being destroyed, revealing basic sanity as the innate ground of being; meditation simplifies existence to body, mind, and consciousness while ego rides along without dominion"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["ego_destruction_vs_surrender_distinction", "enlightenment_path_clarity"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["neurosis_sanity_relational_mapping", "innate_openness_web"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["complexity_to_simplicity_transformation", "meditative_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["attachment_to_openness_growth", "compassion_awareness_maturation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["effort_effortlessness_cycling", "practice_renewal_rhythms"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["conceptual_vs_basic_awareness_structure", "body_mind_consciousness_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S021", "S078"]
+status: canonical
+---
