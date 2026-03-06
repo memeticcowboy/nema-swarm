@@ -859,12 +859,23 @@ entries:
       - seq: 214
         reason: "Prompt template only — Johari+Bloom analysis prompt, no content"
 
+  # Batch 23 (files 221-230)
+  - seq: 221-230
+    action: "batch"
+    encoded_tags: "S0A0-S0A7"
+    encoded_names: "Sensemaking_Experts_Disciplines, IIT_Computational_Functionalism, Warm_Data_AI_Elderly_Care, AI_Bots_Autism_Support, Goal_Directed_Behavior_Holobionts, Human_Neuronal_Memory_Coding, AI_Manifestation_Transformation, NEMA_Framework_NVC"
+    skipped:
+      - seq: 222
+        reason: "Near-duplicate of S09D_Emotional_Bonds_AI"
+      - seq: 226
+        reason: "Too thin — brief manifestation themes bullet list"
+
 summary:
-  total_processed: 220
-  encoded: 158
-  skipped_duplicate: 36
-  skipped_empty: 26
+  total_processed: 230
+  encoded: 166
+  skipped_duplicate: 37
+  skipped_empty: 27
   skipped_error: 0
-  last_tag_assigned: "S09F"
-  next_available: "S0A0"
-  remaining_files: 408
+  last_tag_assigned: "S0A7"
+  next_available: "S0A8"
+  remaining_files: 398
