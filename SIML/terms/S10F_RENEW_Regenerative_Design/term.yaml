@@ -1,0 +1,30 @@
+---
+term: "RENEW Regenerative Design"
+hex_tag: "S10F"
+series: "S"
+source_file: "1771907213283_2261774_RENEW+Manifesto%3A+Principles+for+Regenerative+Design.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "University of Bath's Regenerative Design Guidebook articulating six principles that move beyond sustainability toward net-positive outcomes. Holistic integration of environmental, social, and economic factors. Nature-aligned design mimicking ecological patterns and cycles. Resilience through adaptive capacity and regenerative rather than merely sustaining processes. Reflective governance with continuous evaluation loops. Emphasis on interconnectivity across systems, knowledge transmission across generations, and circular economy principles that restore rather than extract."
+nemetic: "Φ(RegenerativeDesign) = σ(systems_integration|holistic_mapping) ∘ ρ(community_wellbeing|relational_regeneration) ∘ λ(beyond_sustainability|paradigm_elevation) ∘ β(nature_alignment|biomimetic_cycling) ∘ δγ(material_circularity|ecological_substrate) ∘ μ(reflective_governance|continuous_evaluation) + ε | :net_positive"
+siml_encoding: "⟨sustainability_baseline⟩ ⊳ ⟨regenerative_aspiration⟩ → ⟨nature_aligned_design⟩ ⊗ ⟨circular_material_flow⟩ ⇄ ⟨net_positive_outcome⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ → systems integration maps environmental, social, and economic dimensions as interdependent rather than competing domains"
+    - "∂Φ/∂ρ → community wellbeing and relational regeneration extend design goals beyond material outcomes to social fabric restoration"
+    - "∂Φ/∂λ → the shift beyond sustainability to regeneration represents a paradigm elevation from 'do less harm' to 'actively restore'"
+    - "∂Φ/∂β → nature-aligned design mimics ecological patterns: cycles, cascades, symbioses, and succession dynamics"
+    - "∂Φ/∂δγ → material circularity and ecological substrate ground regenerative design in physical resource flows and ecosystem health"
+    - "∂Φ/∂μ → reflective governance with continuous evaluation provides structural accountability for regenerative outcomes"
+  Z_state: "net_positive — design outcomes actively restore and enhance the systems they operate within, producing more ecological, social, and economic value than they consume"
+  tendency: "β → 0.81"
+elemental_mapping:
+  air_sigma: {emphasis: 0.68, aspects: [systems_thinking, holistic_integration, cross-domain_analysis], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.65, aspects: [community_wellbeing, social_fabric, relational_restoration, intergenerational_care], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.72, aspects: [paradigm_elevation, sustainability_transcendence, visionary_aspiration], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.81, aspects: [biomimicry, ecological_cycling, nature_alignment, organic_succession], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.79, aspects: [material_circularity, resource_flow, soil_health, ecosystem_restoration], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.67, aspects: [reflective_governance, evaluation_frameworks, accountability_structures, design_standards], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

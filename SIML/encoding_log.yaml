@@ -973,12 +973,21 @@ entries:
       - seq: 338
         reason: "Too thin — untitled selfplex definition (~69 words)"
 
+  # Batch 35 (files 341-350)
+  - seq: 341-350
+    action: "batch"
+    encoded_tags: "S109-S111"
+    encoded_names: "ChatGPT_Nonsense_Word_Processing, Cognitive_Entanglement_Human_AI, Human_AI_Metacognitive_Agency, French_Calendar_Reform_Clash, Lifespan_Evolutionary_Development, Resonant_Cognitive_Architecture, RENEW_Regenerative_Design, Collective_Projection_Illusion, Meta_Crisis"
+    skipped:
+      - seq: 344
+        reason: "Near-duplicate — Extended Mind overlaps S03D/S044"
+
 summary:
-  total_processed: 340
-  encoded: 263
-  skipped_duplicate: 42
+  total_processed: 350
+  encoded: 272
+  skipped_duplicate: 43
   skipped_empty: 35
   skipped_error: 0
-  last_tag_assigned: "S108"
-  next_available: "S109"
-  remaining_files: 288
+  last_tag_assigned: "S111"
+  next_available: "S112"
+  remaining_files: 278

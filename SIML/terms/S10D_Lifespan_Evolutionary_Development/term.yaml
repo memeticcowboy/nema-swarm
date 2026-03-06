@@ -1,0 +1,30 @@
+---
+term: "Lifespan Evolutionary Development"
+hex_tag: "S10D"
+series: "S"
+source_file: "1771907213278_2256535_Integrating+Lifespan+and+Evolutionary+Perspectives+in+Developmental+Psychology.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Framework integrating lifespan developmental psychology with evolutionary processes, advocating a shift from stage-based models to process-based regulation. Adaptation serves as the core construct bridging biological and psychological domains. Accommodative regulation — flexible goal adjustment in response to constraint — replaces rigid stage progression. Development is reconceived as recursive dynamics within nested systems, where stability and change emerge from the same underlying regulatory processes rather than from fixed traits or predetermined sequences."
+nemetic: "Φ(LifespanEvoDev) = σ(process_regulation|adaptive_dynamics) ∘ ρ(accommodative_flexibility|goal_adjustment) ∘ λ(paradigm_shift|stage_dissolution) ∘ β(recursive_growth|nested_systems) ∘ δγ(biological_substrate|evolutionary_constraint) ∘ μ(regulatory_structure|homeostatic_boundary) + ε | :dynamic_equilibrium"
+siml_encoding: "⟨stage_model⟩ ⊳ ⟨process_regulation⟩ → ⟨adaptive_dynamics⟩ ⊗ ⟨nested_system_recursion⟩ ⇄ ⟨dynamic_equilibrium⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ → process-based regulation replaces stage categorization, revealing continuous adaptive dynamics beneath apparent discontinuity"
+    - "∂Φ/∂ρ → accommodative flexibility allows organisms to adjust goals and strategies when environmental or biological constraints shift"
+    - "∂Φ/∂λ → the paradigm shift from stages to processes fundamentally transforms how development is conceptualized and measured"
+    - "∂Φ/∂β → recursive growth within nested systems (cell, organism, social group, culture) produces emergent developmental trajectories"
+    - "∂Φ/∂δγ → biological substrate and evolutionary constraint provide the material ground within which developmental regulation operates"
+    - "∂Φ/∂μ → regulatory structures and homeostatic boundaries maintain system coherence while permitting adaptive change"
+  Z_state: "dynamic_equilibrium — development is neither linear progression nor random variation but a continuously self-adjusting system balancing stability and change through recursive regulation"
+  tendency: "β → 0.77"
+elemental_mapping:
+  air_sigma: {emphasis: 0.73, aspects: [process_abstraction, regulatory_modeling, systems_analysis], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.64, aspects: [accommodative_flexibility, emotional_adaptation, relational_adjustment], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.68, aspects: [paradigm_disruption, stage_model_dissolution, conceptual_transformation], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.77, aspects: [recursive_growth, nested_development, organic_system_elaboration], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: [biological_substrate, evolutionary_selection, material_developmental_constraint], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: [regulatory_structure, homeostatic_maintenance, system_boundary_integrity], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---
