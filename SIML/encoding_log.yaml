@@ -1176,12 +1176,27 @@ entries:
       - seq: 480
         reason: "Near-duplicate — CAIT2 Framework overlaps S114_CAIT2_Dissonance_Empathy"
 
+  # Batch 49 (files 481-490)
+  - seq: 481-490
+    action: "batch"
+    encoded_tags: "S156-S15B"
+    encoded_names: "Aphantasia_Hyperphantasia_Spectrum, Schizoanalysis_Deleuze_Guattari, Whitehead_Actual_Occasions, Body_Without_Organs, Precognition_Quantum_Consciousness, Science_Adaptive_Resonance"
+    skipped:
+      - seq: 481
+        reason: "Near-duplicate — CAIT2 Framework overlaps S114 and seq 480"
+      - seq: 484
+        reason: "Too thin — My-Stream definition (~160 words)"
+      - seq: 488
+        reason: "Too thin — Adaptive Resonance Theory role (~105 words)"
+      - seq: 490
+        reason: "Too thin — Anu-Sūtra-Veda Sanskrit definition (~381 words)"
+
 summary:
-  total_processed: 480
-  encoded: 340
-  skipped_duplicate: 54
-  skipped_empty: 86
+  total_processed: 490
+  encoded: 346
+  skipped_duplicate: 55
+  skipped_empty: 89
   skipped_error: 0
-  last_tag_assigned: "S155"
-  next_available: "S156"
-  remaining_files: 148
+  last_tag_assigned: "S15B"
+  next_available: "S15C"
+  remaining_files: 138
