@@ -848,12 +848,23 @@ entries:
     encoded_names: "STEAM_Education_AI_Literacy, Transhumanism_Spirit_Machine, Metaphors_AI_Perception, Cognitive_Memory_Memetic_Recall, Quantum_Immortality_Consciousness, Hybrid_Intelligence_Consciousness, Meta_Ideological_Politics, Human_Centered_Computing, Longevity_Escape_Velocity, Fundamental_Structure_Intelligence"
     skipped: []
 
+  # Batch 22 (files 211-220)
+  - seq: 211-220
+    action: "batch"
+    encoded_tags: "S098-S09F"
+    encoded_names: "HG_Wells_Growth_Conflict, Haig_Darwin_Derrida_Meaning, Emotion_Cognition_Interaction, Multidimensional_Knowledge_Constructs, Epistemological_Research_Framework, Emotional_Bonds_AI, ITS_STREAMware_Cybernetic_Learning, Multifaceted_Sensemaking_Theory"
+    skipped:
+      - seq: 213
+        reason: "Too practical — X algorithm engagement/marketing, not sensemaking"
+      - seq: 214
+        reason: "Prompt template only — Johari+Bloom analysis prompt, no content"
+
 summary:
-  total_processed: 210
-  encoded: 150
+  total_processed: 220
+  encoded: 158
   skipped_duplicate: 36
-  skipped_empty: 24
+  skipped_empty: 26
   skipped_error: 0
-  last_tag_assigned: "S097"
-  next_available: "S098"
-  remaining_files: 418
+  last_tag_assigned: "S09F"
+  next_available: "S0A0"
+  remaining_files: 408
