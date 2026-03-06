@@ -1064,12 +1064,27 @@ entries:
       - seq: 400
         reason: "Too thin — Dhāraṇa-Tanmātra definition (~263 words)"
 
+  # Batch 41 (files 401-410)
+  - seq: 401-410
+    action: "batch"
+    encoded_tags: "S129-S12E"
+    encoded_names: "Posthumanism_Human_Agency, Nervous_System_Bio_Justification, Energy_Leak_Violation_Frame, Neuroplasticity_Technology_Gaming, Psilocybin_Brain_Connectivity, Subliminal_Learning_LMs"
+    skipped:
+      - seq: 401
+        reason: "Too thin — Rasa-Tanmātra Sanskrit definition (~265 words)"
+      - seq: 402
+        reason: "Too thin — Apas-Tāraṇe Sanskrit definition (~267 words)"
+      - seq: 407
+        reason: "Near-duplicate — Neuroplasticity VR Gaming overlaps seq 406/S12C"
+      - seq: 410
+        reason: "Too thin — Neurofeedback VR (~200 words)"
+
 summary:
-  total_processed: 400
-  encoded: 295
-  skipped_duplicate: 46
-  skipped_empty: 59
+  total_processed: 410
+  encoded: 301
+  skipped_duplicate: 47
+  skipped_empty: 62
   skipped_error: 0
-  last_tag_assigned: "S128"
-  next_available: "S129"
-  remaining_files: 228
+  last_tag_assigned: "S12E"
+  next_available: "S12F"
+  remaining_files: 218

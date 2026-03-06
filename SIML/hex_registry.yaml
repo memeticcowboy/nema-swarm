@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S129"
+  next_available: "S12F"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -645,6 +645,12 @@ S:
     S126: "Language_Autonomous_System"
     S127: "Spinoza_Emotions_Visualization"
     S128: "Sacred_Territory_Boundaries"
+    S129: "Posthumanism_Human_Agency"
+    S12A: "Nervous_System_Bio_Justification"
+    S12B: "Energy_Leak_Violation_Frame"
+    S12C: "Neuroplasticity_Technology_Gaming"
+    S12D: "Psilocybin_Brain_Connectivity"
+    S12E: "Subliminal_Learning_LMs"
   collisions: {}
 
 U:
