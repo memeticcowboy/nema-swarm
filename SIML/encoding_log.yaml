@@ -841,12 +841,19 @@ entries:
       - seq: 196
         reason: "Too thin — McKenna quote image commentary only"
 
+  # Batch 21 (files 201-210)
+  - seq: 201-210
+    action: "batch"
+    encoded_tags: "S08E-S097"
+    encoded_names: "STEAM_Education_AI_Literacy, Transhumanism_Spirit_Machine, Metaphors_AI_Perception, Cognitive_Memory_Memetic_Recall, Quantum_Immortality_Consciousness, Hybrid_Intelligence_Consciousness, Meta_Ideological_Politics, Human_Centered_Computing, Longevity_Escape_Velocity, Fundamental_Structure_Intelligence"
+    skipped: []
+
 summary:
-  total_processed: 200
-  encoded: 140
+  total_processed: 210
+  encoded: 150
   skipped_duplicate: 36
   skipped_empty: 24
   skipped_error: 0
-  last_tag_assigned: "S08D"
-  next_available: "S08E"
-  remaining_files: 428
+  last_tag_assigned: "S097"
+  next_available: "S098"
+  remaining_files: 418
