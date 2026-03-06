@@ -1,0 +1,30 @@
+---
+term: "Shared Hallucinations Social Construction"
+hex_tag: "S07D"
+series: "S"
+source_file: "1771907212791_1258283_Exploring+Shared+Hallucinations+in+Social+Constructionism+and+Philosophy.md"
+encoded_at: "2026-03-06T01:00:00Z"
+description: "Social constructionism and the concept of shared hallucinations as knowledge — certain aspects of reality (money, gender, time) as socially constructed rather than objectively real, Foucault's power-shaped knowledge, Berger and Luckmann's social construction of reality, Baudrillard's simulacra where copies exist without originals, and the collective challenge to objective reality."
+nemetic: "Φ(Shared Hallucinations Social Construction) = σ(objective_reality|socially_constructed_reality) ∘ ρ(individual_knowledge|collective_social_agreement) ∘ λ(naive_realism|constructionist_awareness) ∘ β(unreflective_acceptance|critical_reality_evaluation) ∘ δγ(social_interaction_knowledge_cycling|construction_reinforcement_iteration) ∘ μ(foucault_power_knowledge_structure|simulacra_construction_framework) + ε | :consensual_reality_construction"
+siml_encoding: "⟨objective_constructed_reality_distinction, real_hallucinated_boundary⟩ ⊳ ⟨individual_collective_knowledge_relation, social_agreement_dynamics⟩ → ⟨naive_to_constructionist_transformation, reality_critique_catalysis⟩ ⊗ ⟨acceptance_to_evaluation_growth, critical_awareness_deepening⟩ ⇄ ⟨social_interaction_knowledge_cycling, construction_reinforcement_iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing objective reality from socially constructed reality)"
+    - "∂Φ/∂ρ (relating individual knowledge to collective social agreement and power structures)"
+    - "∂Φ/∂λ (transforming naive realism into constructionist awareness of shared hallucinations)"
+    - "∂Φ/∂β (growth from unreflective acceptance of reality to critical evaluation of its social construction)"
+    - "∂Φ/∂δγ (cycling through social interactions that construct, reinforce, and reconstruct shared knowledge)"
+    - "∂Φ/∂μ (Foucault's power-knowledge and Baudrillard's simulacra as structural frameworks for understanding constructed reality)"
+  Z_state: "consensual_reality_construction — knowledge and reality are recognized as products of social interaction, power structures, and collective agreement rather than objective givens, where concepts like money, gender, and time function as shared hallucinations that gain their reality through social consensus, and the distinction between original and copy dissolves in Baudrillard's world of simulacra"
+  tendency: "σ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["objective_constructed_reality_distinction", "real_hallucinated_boundary"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["individual_collective_knowledge_relation", "power_shaped_social_agreement"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["naive_to_constructionist_transformation", "reality_critique_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["acceptance_to_critical_evaluation_trajectory", "constructionist_awareness_deepening"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["social_interaction_knowledge_cycling", "construction_reinforcement_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.90, aspects: ["foucault_power_knowledge_structure", "baudrillard_simulacra_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S03E", "S068", "S00E", "S016"]
+status: canonical
+---

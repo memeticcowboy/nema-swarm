@@ -1,0 +1,30 @@
+---
+term: "Hawkins Map of Consciousness"
+hex_tag: "S07E"
+series: "S"
+source_file: "1771907212795_1260556_Navigating+the+Spectrum+of+Human+Emotions%3A+David+R.+Hawkins%27+Map+of+Consciousness.md"
+encoded_at: "2026-03-06T01:00:00Z"
+description: "David R. Hawkins' Map of Consciousness — a spectrum from low energy states (shame, guilt) to high energy states (love, enlightenment), used as a self-assessment tool for emotional awareness and spiritual development, calibrated through kinesiology, mapping levels of human consciousness with associated emotions, worldviews, and energy signatures."
+nemetic: "Φ(Hawkins Map of Consciousness) = σ(low_energy_states|high_energy_states) ∘ ρ(emotional_state|worldview_perception) ∘ λ(contracted_consciousness|expanded_awareness) ∘ β(shame_guilt_baseline|love_enlightenment_realization) ∘ δγ(emotional_state_fluctuation|consciousness_level_recalibration) ∘ μ(consciousness_calibration_scale|kinesiology_measurement_framework) + ε | :ascending_consciousness_navigation"
+siml_encoding: "⟨low_high_energy_distinction, shame_enlightenment_spectrum⟩ ⊳ ⟨emotion_worldview_relation, state_perception_correspondence⟩ → ⟨contracted_to_expanded_transformation, consciousness_elevation_catalysis⟩ ⊗ ⟨shame_to_enlightenment_growth, spiritual_development_trajectory⟩ ⇄ ⟨emotional_fluctuation_cycling, consciousness_recalibration_iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing low energy states from high energy states across the consciousness spectrum)"
+    - "∂Φ/∂ρ (relating emotional states to corresponding worldviews and perceptions of life)"
+    - "∂Φ/∂λ (transforming contracted consciousness into expanded awareness through self-reflection and practice)"
+    - "∂Φ/∂β (growth from shame/guilt baseline toward love/enlightenment through spiritual development)"
+    - "∂Φ/∂δγ (cycling through emotional state fluctuations and consciousness level recalibrations)"
+    - "∂Φ/∂μ (consciousness calibration scale and kinesiology measurement as structural frameworks)"
+  Z_state: "ascending_consciousness_navigation — the Map of Consciousness provides a navigational tool for the spectrum of human emotional and spiritual experience, where self-reflection identifies current states, positive practices like meditation and cultivating positive emotions raise consciousness levels, each energy level corresponds to a distinct worldview and way of engaging life, and the trajectory from shame through courage to love and enlightenment charts the path of spiritual development"
+  tendency: "β → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["low_high_energy_state_distinction", "shame_enlightenment_spectrum_boundary"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["emotion_worldview_correspondence", "state_perception_relation"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["contracted_to_expanded_consciousness_transformation", "awareness_elevation_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.90, aspects: ["shame_to_enlightenment_developmental_trajectory", "spiritual_growth_path"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["emotional_state_fluctuation_cycling", "consciousness_level_recalibration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.85, aspects: ["consciousness_calibration_scale_structure", "kinesiology_measurement_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S05B", "S06A", "S055", "S029"]
+status: canonical
+---

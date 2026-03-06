@@ -802,12 +802,23 @@ entries:
       - seq: 169
         reason: "Near-duplicate of S005_DSRP_Theory_of_Thinking"
 
+  # Batch 18 (files 171-180)
+  - seq: 171-180
+    action: "batch"
+    encoded_tags: "S079-S080"
+    encoded_names: "Heart_Treasure_Enlightened_Ones, Hermetic_Correspondence_Principle, Consciousness_Reality_Creativity, Novelty_Consciousness_Evolution, Shared_Hallucinations_Social_Construction, Hawkins_Map_of_Consciousness, Holographic_Principle_Growth, Michelangelo_Intellecto_Discovery"
+    skipped:
+      - seq: 177
+        reason: "Near-duplicate of S07A_Hermetic_Correspondence_Principle (same Hermetic content)"
+      - seq: 178
+        reason: "Near-duplicate of 177/S07A (identical Hermetic hearth content)"
+
 summary:
-  total_processed: 170
-  encoded: 119
-  skipped_duplicate: 32
+  total_processed: 180
+  encoded: 127
+  skipped_duplicate: 34
   skipped_empty: 19
   skipped_error: 0
-  last_tag_assigned: "S078"
-  next_available: "S079"
-  remaining_files: 458
+  last_tag_assigned: "S080"
+  next_available: "S081"
+  remaining_files: 448
