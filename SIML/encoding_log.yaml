@@ -929,12 +929,21 @@ entries:
       - seq: 293
         reason: "Near-duplicate — Brain cells intelligent behavior overlaps S0D6 Goal Progress Cells"
 
+  # Batch 31 (files 301-310)
+  - seq: 301-310
+    action: "batch"
+    encoded_tags: "S0E9-S0F1"
+    encoded_names: "Gibbs_Mapping_IF_Prime, IF_Prime_Sovereignty, Transformative_Sustainability_Learning, AI_Language_Consciousness_Decolonial, Abolitionist_Project_Suffering, Fascism_Characteristics_Six_Cyborgs, Hoffman_Higher_Dimensions, Wisdom_Age_AI, Prefigurative_Community_Building"
+    skipped:
+      - seq: 306
+        reason: "Too thin — philosophical musing on language limits (~250 words)"
+
 summary:
-  total_processed: 300
-  encoded: 231
+  total_processed: 310
+  encoded: 240
   skipped_duplicate: 39
-  skipped_empty: 30
+  skipped_empty: 31
   skipped_error: 0
-  last_tag_assigned: "S0E8"
-  next_available: "S0E9"
-  remaining_files: 328
+  last_tag_assigned: "S0F1"
+  next_available: "S0F2"
+  remaining_files: 318
