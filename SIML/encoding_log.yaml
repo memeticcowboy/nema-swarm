@@ -1014,12 +1014,25 @@ entries:
       - seq: 370
         reason: "Too thin — untitled Revitalizer mythic identity (~201 words)"
 
+  # Batch 38 (files 371-380)
+  - seq: 371-380
+    action: "batch"
+    encoded_tags: "S11D-S123"
+    encoded_names: "Neurodivergence_Memetic_Framework, AI_Emotional_Awareness_Biosensing, Collective_Synpraxis, Karma_Bija_Selflessness, Granthis_Spiritual_Blockages, Fuller_Synergetics_Design, Atma_Vesa_Nidhi_Selfplex"
+    skipped:
+      - seq: 373
+        reason: "Too thin — untitled Caitanyam ātmā (~106 words)"
+      - seq: 375
+        reason: "Near-duplicate — RCA Meaning as Matter overlaps S10E"
+      - seq: 380
+        reason: "Too thin — Sarvaṁ Viśvahitāya definition (~217 words)"
+
 summary:
-  total_processed: 370
-  encoded: 283
-  skipped_duplicate: 45
-  skipped_empty: 42
+  total_processed: 380
+  encoded: 290
+  skipped_duplicate: 46
+  skipped_empty: 44
   skipped_error: 0
-  last_tag_assigned: "S11C"
-  next_available: "S11D"
-  remaining_files: 258
+  last_tag_assigned: "S123"
+  next_available: "S124"
+  remaining_files: 248
