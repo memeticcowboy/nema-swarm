@@ -879,12 +879,21 @@ entries:
       - seq: 231
         reason: "Near-duplicate of S07A_Hermetic_Correspondence_Principle (Hermetic sensors)"
 
+  # Batch 25 (files 241-250)
+  - seq: 241-250
+    action: "batch"
+    encoded_tags: "S0B1-S0B9"
+    encoded_names: "Brain_Emergency_Energy_Marathons, Wisdom_Relational_Ontology, Derrida_Hauntology, Cognitive_Benefits_Print_Media, Kalonosis_Creation_Entrapment, Dopamine_Memory_Reshaping, Cognition_Collateral_Usurpian_Systemics, Divine_Memory_Consciousness, Agricultural_Revolution_Impact"
+    skipped:
+      - seq: 241
+        reason: "Too thin — generic Gen X creative career overview, no source"
+
 summary:
-  total_processed: 240
-  encoded: 175
+  total_processed: 250
+  encoded: 184
   skipped_duplicate: 38
-  skipped_empty: 27
+  skipped_empty: 28
   skipped_error: 0
-  last_tag_assigned: "S0B0"
-  next_available: "S0B1"
-  remaining_files: 388
+  last_tag_assigned: "S0B9"
+  next_available: "S0BA"
+  remaining_files: 378
