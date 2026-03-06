@@ -1,0 +1,30 @@
+---
+term: "Non Linguistic Metacognition"
+hex_tag: "S155"
+series: "S"
+source_file: "1771907213480_2417555_Exploring+Non-Linguistic+Metacognition+in+Piaget%2C+Vygotsky%2C+and+Bruner.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Non-linguistic metacognition in Piaget, Vygotsky, and Bruner. Piaget: sensorimotor stage builds schemas through sensation/movement — cognition precedes language. Vygotsky: preverbal thought exists, cultural tools beyond language include artifacts, symbols, non-verbal practices. Bruner: enactive and iconic representations operate independently of language. All three have strands reaching beyond language into thinking-about-thinking through action, perception, embodied sense."
+nemetic: "Φ(Non Linguistic Metacognition) = σ(language_dependent_thought|prelinguistic_cognitive_recognition) ∘ ρ(verbal_mediation|embodied_action_relation) ∘ λ(linguistic_metacognition|non_verbal_thinking_about_thinking) ∘ β(basic_sensorimotor_schema|expanding_representational_modes) ∘ δγ(linguistic_prelinguistic_oscillation|verbal_embodied_cycling) ∘ μ(triadic_theorist_architecture|convergent_nonlinguistic_framework) + ε | :thinking_beyond_language"
+siml_encoding: "⟨language_prelinguistic_distinction, verbal_cognitive_discernment⟩ ⊳ ⟨verbal_embodied_relating, mediation_action_flow⟩ → ⟨linguistic_nonverbal_catalysis, metacognitive_transformation⟩ ⊗ ⟨sensorimotor_representational_growth, schema_mode_expansion⟩ ⇄ ⟨linguistic_prelinguistic_cycling, verbal_embodied_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing language-dependent thought from prelinguistic cognitive recognition — the discernment between the assumption that all higher cognition requires language and the recognition that thinking, including thinking-about-thinking, operates through non-linguistic channels of action, perception, and embodied sense)"
+    - "∂Φ/∂ρ (relating verbal mediation to embodied action relation — the relational dynamic where cognition is mediated not only through language but through bodily action, sensory engagement, artifacts, symbols, and non-verbal cultural practices that connect knower to known)"
+    - "∂Φ/∂λ (transforming linguistic metacognition into non-verbal thinking-about-thinking — the catalytic expansion where metacognition is recognized as operating through enactive and iconic modes, with awareness-of-awareness occurring through bodily sensation, perceptual pattern, and action-based reflection)"
+    - "∂Φ/∂β (growth from basic sensorimotor schemas to expanding representational modes — the developmental trajectory from Piaget's sensorimotor stage through Bruner's enactive and iconic modes, with each stage adding non-linguistic representational capacity that supports metacognitive awareness)"
+    - "∂Φ/∂δγ (cycling between linguistic and prelinguistic modes of metacognition — the grounding oscillation where awareness moves between verbal reflection and embodied, enactive, iconic modes of thinking-about-thinking, with each mode informing and enriching the other)"
+    - "∂Φ/∂μ (structural framework of triadic theorist convergence — the framework encoding how Piaget, Vygotsky, and Bruner each contribute strands to a convergent understanding of non-linguistic metacognition, providing architectural coherence across three distinct developmental traditions)"
+  Z_state: "thinking_beyond_language — metacognition operates through non-linguistic channels that precede, accompany, and sometimes exceed verbal reflection; Piaget's sensorimotor schemas demonstrate cognition built through sensation and movement before language; Vygotsky's preverbal thought and cultural tools beyond language — artifacts, symbols, non-verbal practices — show mediation extending past the linguistic; Bruner's enactive and iconic representations operate independently of symbolic-linguistic processing; all three theorists contain strands reaching beyond language into thinking-about-thinking through action, perception, and embodied sense"
+  tendency: "δγ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["prelinguistic_cognitive_recognition", "language_dependence_dissolution"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["embodied_action_relation", "nonverbal_mediation_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["nonverbal_metacognitive_expansion", "thinking_about_thinking_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.90, aspects: ["expanding_representational_modes", "sensorimotor_to_iconic_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["linguistic_prelinguistic_oscillation", "verbal_embodied_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["triadic_theorist_architecture", "convergent_nonlinguistic_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

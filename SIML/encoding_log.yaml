@@ -1163,12 +1163,25 @@ entries:
       - seq: 466
         reason: "Too thin — untitled depth/indexing meditation (~283 words)"
 
+  # Batch 48 (files 471-480)
+  - seq: 471-480
+    action: "batch"
+    encoded_tags: "S14F-S155"
+    encoded_names: "Kathara_Grid_Source_Template, Cognition_Coherence_Mind_Field, Latticework_Knowledge_Structures, Mental_Models_Consciousness, Grinberg_Syntergic_Theory, Rorty_Neopragmatism_NVC, Non_Linguistic_Metacognition"
+    skipped:
+      - seq: 477
+        reason: "Too thin — Abductive Logic (~266 words)"
+      - seq: 479
+        reason: "Too thin — Non-Verbal Thinking (~157 words), overlaps seq 478"
+      - seq: 480
+        reason: "Near-duplicate — CAIT2 Framework overlaps S114_CAIT2_Dissonance_Empathy"
+
 summary:
-  total_processed: 470
-  encoded: 333
-  skipped_duplicate: 53
-  skipped_empty: 84
+  total_processed: 480
+  encoded: 340
+  skipped_duplicate: 54
+  skipped_empty: 86
   skipped_error: 0
-  last_tag_assigned: "S14E"
-  next_available: "S14F"
-  remaining_files: 158
+  last_tag_assigned: "S155"
+  next_available: "S156"
+  remaining_files: 148
