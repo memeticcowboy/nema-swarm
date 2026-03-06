@@ -1,19 +1,21 @@
 ---
 term_id: L019
 source_domain: education
-source_term: Spaced Repetition / Forgetting Curve (Ebbinghaus, 1885; Bjork, 1994)
+source_term: Spaced Repetition / Forgetting Curve (Ebbinghaus, 1885; Bjork, 1994; Namboodiri & Burke, 2025)
 hex_tag: #L019
 generated_at: 2026-02-27T09:52:00+08:00
-status: draft
+updated_at: 2026-03-06
+status: canonical
 ---
 
 ## SIML Term Summary
 
 - **Term:** Spaced Repetition — Learning through strategic intervals that leverage forgetting
 - **Nemetic String:** Φ(SR) = δγ(encoding|initial-consolidation) ∘ δγ(forgetting|desirable-difficulty) ∘ δγ(retrieval|reactivation) ∘ δγ(spacing|metabolic-cycling) → [κ(durable-memory)] → [δγ(long-term-retention)] + ε | :cyclical
-- **Core Operators:** δγ (earth/cycling), κ (knowledge), μ (boundary)
+- **Core Operators:** δγ (earth/cycling), κ (knowledge), μ (boundary), Q (resonance/tension)
 - **Z-State:** cyclical — memory emerges from rhythmic engagement with forgetting
 - **Tendency:** Cycling/Returning → 1 (learning as metabolic process)
+- **Dopamine Mechanism:** Inter-reward interval controls learning rate via dopaminergic anticipation
 
 ## SIML Encoding
 
@@ -28,7 +30,43 @@ status: draft
 
 ## Core Definition
 
-**Spaced Repetition** is a learning technique that incorporates increasing intervals of time between subsequent review of previously learned material. Based on the **Forgetting Curve** discovered by Hermann Ebbinghaus (1885) and elaborated by Robert Bjork's theory of **Desirable Difficulties** (1994), the approach leverages the brain's natural forgetting processes to strengthen memory.
+**Spaced Repetition** is a learning technique that incorporates increasing intervals of time between subsequent review of previously learned material. Based on the **Forgetting Curve** discovered by Hermann Ebbinghaus (1885), elaborated by Robert Bjork's theory of **Desirable Difficulties** (1994), and now explained neuroscientifically by **Namboodiri & Burke's dopamine interval mechanism** (2025), the approach leverages the brain's natural forgetting processes to strengthen memory.
+
+### The Dopamine Interval Discovery (2025)
+
+Groundbreaking research from UCSF reveals the mechanism behind spaced repetition's efficacy:
+
+> **"The time between cue-reward pairings helps the brain determine how much to learn from that experience."** — Vijay Mohan K. Namboodiri
+
+**Key Findings:**
+
+| Variable | Traditional Assumption | New Discovery |
+|----------|------------------------|---------------|
+| **Learning driver** | Number of repetitions | Duration between rewards |
+| **Optimal reward rate** | Frequent reinforcement | Sparse rewards (10%) |
+| **Dopamine timing** | Responds to reward | Anticipates based on interval |
+| **Cramming effect** | More exposure = better | Downregulated learning |
+
+**The Mechanism:**
+When rewards (or learning events) are spaced further apart, the brain requires significantly fewer repetitions before releasing dopamine in anticipation. The inter-reward interval creates a **Q-gradient**—directional tension that drives learning.
+
+```
+DOPAMINE RELEASE PATTERN
+
+Frequent rewards (cramming):
+Reward ──Reward──Reward──Reward──
+     ↓       ↓       ↓       ↓
+   Dopamine response (diminishing)
+
+Spaced rewards (spaced repetition):
+Reward ──────────────Reward──────────────
+     ↑                  ↑
+   Dopamine ANTICIPATION (enhanced)
+   Builds during interval
+```
+
+**The 10% Rule:**
+Mice receiving rewards only 10% of the time (sparse learning) learned at the same rate—or faster—than those receiving 20x more trials. The brain extracts maximum information from infrequent experiences.
 
 ### The Forgetting Curve
 
@@ -156,6 +194,31 @@ Spaced Repetition is fundamentally an **Earth theory**:
 - **Returning:** Memory consolidation through repeated engagement
 - **Metabolism:** Treating learning as a biological process requiring cycles of activity and rest
 - **Grounding:** Building durable foundations through layered consolidation
+
+### Q-Gradient Connection
+
+The Namboodiri & Burke (2025) discovery reveals that **Q-gradients** (directional tension in the field) are the underlying mechanism:
+
+> **Q-gradients are the dopaminergic tension waiting for resolution.**
+
+During the interval between learning events:
+1. **χ (Distinction):** Initial encoding creates separation
+2. **Q (Resonance):** Tension builds as forgetting begins—the brain anticipates
+3. **Dopamine spike:** At interval completion, dopamine releases in anticipation
+4. **Ψ (Compression):** Retrieval consolidates the memory
+
+This explains why **sparse rewards (10%) create steeper Q-gradients**—the longer interval builds more tension, driving faster learning with fewer repetitions.
+
+```
+Q-GRADIENT IN SPACED REPETITION
+
+χ ──────── Q builds ──────── ⚡ ──────── Ψ
+(encoding)   (tension/      (dopamine   (compression/
+              anticipation)   spike)      consolidation)
+
+Interval length = Q-gradient steepness
+Steeper gradient = faster learning
+```
 
 ### Supporting Elements
 
