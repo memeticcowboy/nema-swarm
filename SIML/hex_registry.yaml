@@ -66,6 +66,18 @@ B:
   assigned:
     B001: "Borrowed_Mind"
 
+CB:
+  description: "Cowboy Canonical terms - Memetic Cowboy's core framework concepts"
+  next_available: "CB007"
+  assigned:
+    CB001: "Recursive_Phenomenology"
+    CB002: "Theory_in_Drag"
+    CB003: "Self_Undermining_Gesture"
+    CB004: "Metabolic_Cost"
+    CB005: "Mythworks"
+    CB006: "Freedom_of_Evolution"
+  collisions: {}
+
 C:
   description: "Critical thinking and cognitive processes"
   next_available: "C189"
