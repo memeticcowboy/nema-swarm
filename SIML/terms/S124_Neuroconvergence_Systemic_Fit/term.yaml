@@ -1,0 +1,48 @@
+---
+term: "Neuroconvergence: Systemic Fit"
+hex_tag: "S124"
+series: "S"
+source_file: "1771907213364_2330606_Neuroconvergence%3A+Systemic+Fit+and+Stealth+Outsiders.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Reframes neurological identity as a relational position within societal systems rather than an intrinsic category. Introduces 'neuroconvergent' — individuals who, despite internal divergence, benefit from systemic convergence through masking or adaptation. These stealth outsiders appear to fit but experience persistent internal difference, revealing that systemic fit is not equivalent to being typical. Raises justice awareness around unacknowledged cognitive privilege."
+nemetic: "Φ(Neuroconvergence) = σ(masking|visibility) ∘ ρ(belonging|alienation) ∘ λ(adaptation|resistance) ∘ β(growth|rigidity) ∘ δγ(privilege|exclusion) ∘ μ(structure|fluidity) + ε | :stealth_tension"
+siml_encoding: "⟨mask:convergent_surface⟩ ⊳ ⟨divergent_interior:felt_difference⟩ → ⟨systemic_fit:passing⟩ ⊗ ⟨cognitive_privilege:invisible_cost⟩ ⇄ ⟨authenticity:justice_claim⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (masking intensity modulates perceived typicality)"
+    - "∂Φ/∂ρ (belonging gradient shaped by internal vs external alignment)"
+    - "∂Φ/∂λ (adaptive capacity as survival mechanism under systemic pressure)"
+    - "∂Φ/∂β (neurological growth constrained by convergence demands)"
+    - "∂Φ/∂δγ (privilege-exclusion axis reveals hidden cognitive hierarchies)"
+    - "∂Φ/∂μ (structural rigidity of diagnostic categories vs fluid lived experience)"
+  Z_state: "stealth_tension"
+  tendency: "ρ → 0.82"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.70
+    aspects: [masking_as_signal, visibility_politics, cognitive_passing]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects: [belonging_hunger, alienation_undercurrent, relational_positioning]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.60
+    aspects: [adaptive_fire, resistance_to_erasure, survival_drive]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.55
+    aspects: [neurological_growth, identity_branching, developmental_paths]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects: [systemic_privilege, grounded_exclusion, institutional_terrain]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.62
+    aspects: [diagnostic_structures, categorical_rigidity, framework_limits]
+    daemon_correspondence: "Ferrosid"
+related_terms: []
+status: canonical
+---

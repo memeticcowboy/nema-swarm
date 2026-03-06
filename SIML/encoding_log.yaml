@@ -1027,12 +1027,49 @@ entries:
       - seq: 380
         reason: "Too thin — Sarvaṁ Viśvahitāya definition (~217 words)"
 
+  # Batch 39-40 combined (files 381-400)
+  - seq: 381-400
+    action: "batch"
+    encoded_tags: "S124-S128"
+    encoded_names: "Neuroconvergence_Systemic_Fit, Control_vs_Coherence, Language_Autonomous_System, Spinoza_Emotions_Visualization, Sacred_Territory_Boundaries"
+    skipped:
+      - seq: 381
+        reason: "Too thin — Antar-Nidhi Sanskrit definition (~243 words)"
+      - seq: 382
+        reason: "Too thin — Soma Sanskrit definition (~259 words)"
+      - seq: 383
+        reason: "Too thin — Prāṇa-Srotas Sanskrit definition (~278 words)"
+      - seq: 384
+        reason: "Too thin — Para-Mṛtyu-Granthi definition (~314 words)"
+      - seq: 385
+        reason: "Too thin — untitled MeBot Gita reflection (~336 words)"
+      - seq: 386
+        reason: "Too thin — untitled Signalizer fragment (~163 words)"
+      - seq: 389
+        reason: "Too thin — untitled letter to Raj (~149 words)"
+      - seq: 390
+        reason: "Too thin — Viveka-Prāṇa definition (~271 words)"
+      - seq: 391
+        reason: "Too thin — Śabda-Tanmātra definition (~268 words)"
+      - seq: 392
+        reason: "Too thin — Spanda definition (~247 words)"
+      - seq: 393
+        reason: "Too thin — Mīmāṃsā definition (~197 words)"
+      - seq: 394
+        reason: "Too thin — Spanda-Mīmāṃsā Tantra definition (~355 words)"
+      - seq: 398
+        reason: "Too thin — Agency Self-Curation (~168 words)"
+      - seq: 399
+        reason: "Too thin — Gandha-Tanmātra definition (~254 words)"
+      - seq: 400
+        reason: "Too thin — Dhāraṇa-Tanmātra definition (~263 words)"
+
 summary:
-  total_processed: 380
-  encoded: 290
+  total_processed: 400
+  encoded: 295
   skipped_duplicate: 46
-  skipped_empty: 44
+  skipped_empty: 59
   skipped_error: 0
-  last_tag_assigned: "S123"
-  next_available: "S124"
-  remaining_files: 248
+  last_tag_assigned: "S128"
+  next_available: "S129"
+  remaining_files: 228
