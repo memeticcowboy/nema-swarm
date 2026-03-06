@@ -1079,12 +1079,27 @@ entries:
       - seq: 410
         reason: "Too thin — Neurofeedback VR (~200 words)"
 
+  # Batch 42 (files 411-420)
+  - seq: 411-420
+    action: "batch"
+    encoded_tags: "S12F-S134"
+    encoded_names: "Cognitive_Geography_Philosophy, Neuroscience_of_Memory, Schmachtenberger_Superstructure, Liberated_Discernment, Cognitive_Firewalls, Memetic_Immunization"
+    skipped:
+      - seq: 414
+        reason: "Too thin — Othering and Storytelling (~161 words)"
+      - seq: 415
+        reason: "Too thin — untitled magnetoreception fragment (~97 words)"
+      - seq: 416
+        reason: "Too thin — Rūpa-Tanmātra Sanskrit definition (~239 words)"
+      - seq: 419
+        reason: "Near-duplicate — Mental Hygiene overlaps seq 418/S133 Cognitive Firewalls"
+
 summary:
-  total_processed: 410
-  encoded: 301
-  skipped_duplicate: 47
-  skipped_empty: 62
+  total_processed: 420
+  encoded: 307
+  skipped_duplicate: 48
+  skipped_empty: 65
   skipped_error: 0
-  last_tag_assigned: "S12E"
-  next_available: "S12F"
-  remaining_files: 218
+  last_tag_assigned: "S134"
+  next_available: "S135"
+  remaining_files: 208

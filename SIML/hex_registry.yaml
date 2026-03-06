@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S12F"
+  next_available: "S135"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -651,6 +651,12 @@ S:
     S12C: "Neuroplasticity_Technology_Gaming"
     S12D: "Psilocybin_Brain_Connectivity"
     S12E: "Subliminal_Learning_LMs"
+    S12F: "Cognitive_Geography_Philosophy"
+    S130: "Neuroscience_of_Memory"
+    S131: "Schmachtenberger_Superstructure"
+    S132: "Liberated_Discernment"
+    S133: "Cognitive_Firewalls"
+    S134: "Memetic_Immunization"
   collisions: {}
 
 U:
