@@ -897,12 +897,19 @@ entries:
       - seq: 254
         reason: "Too thin — brief hexagonal note-taking study tips"
 
+  # Batch 27 (files 261-270)
+  - seq: 261-270
+    action: "batch"
+    encoded_tags: "S0C3-S0CC"
+    encoded_names: "Reimagining_Social_Contracts, SHOCK_Framework, Holonic_Paradigm, Empathy_Four_Attributes_DSRP, Follow_Your_Bliss, Distributed_Cognition_Citadel_Model, FOOLPLAY_Learning, Perception_Role_Creativity, IEML_Collective_Intelligence, Psycho_Cybernetics"
+    skipped: []
+
 summary:
-  total_processed: 260
-  encoded: 193
+  total_processed: 270
+  encoded: 203
   skipped_duplicate: 38
   skipped_empty: 29
   skipped_error: 0
-  last_tag_assigned: "S0C2"
-  next_available: "S0C3"
-  remaining_files: 368
+  last_tag_assigned: "S0CC"
+  next_available: "S0CD"
+  remaining_files: 358
