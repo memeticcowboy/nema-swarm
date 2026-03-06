@@ -791,12 +791,23 @@ entries:
       - seq: 156
         reason: "Too thin — Wilczek multiverse audio summary, no insight"
 
+  # Batch 17 (files 161-170)
+  - seq: 161-170
+    action: "batch"
+    encoded_tags: "S071-S078"
+    encoded_names: "Network_Intelligence_Symbolic_Computation, Sorokin_Cyclical_Social_Change, Mechanical_Mind, Neural_Scaling_Quanta_Memes, Knowledge_Framework_Growth, Actor_Network_Theory_Agency, Ada_Lovelace_Cyborg_Creator, Timelessness_Deep_Meditation"
+    skipped:
+      - seq: 167
+        reason: "Near-duplicate of S076_Actor_Network_Theory_Agency (ANT research applications)"
+      - seq: 169
+        reason: "Near-duplicate of S005_DSRP_Theory_of_Thinking"
+
 summary:
-  total_processed: 160
-  encoded: 111
-  skipped_duplicate: 31
-  skipped_empty: 18
+  total_processed: 170
+  encoded: 119
+  skipped_duplicate: 32
+  skipped_empty: 19
   skipped_error: 0
-  last_tag_assigned: "S070"
-  next_available: "S071"
-  remaining_files: 468
+  last_tag_assigned: "S078"
+  next_available: "S079"
+  remaining_files: 458
