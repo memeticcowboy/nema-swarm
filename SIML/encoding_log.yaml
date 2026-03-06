@@ -830,12 +830,23 @@ entries:
       - seq: 188
         reason: "Near-duplicate of S021_Wu_Wei_Effortless_Action"
 
+  # Batch 20 (files 191-200)
+  - seq: 191-200
+    action: "batch"
+    encoded_tags: "S086-S08D"
+    encoded_names: "Binaural_Beats_Visuospatial_Memory, Time_Expansion_Experiences, AI_Theory_of_Mind, AI_Consciousness_Exploration, Taxonomy_Values_Love, Nonaka_Takeuchi_Knowledge_Spiral, Truth_Iteration_Ancient_Wisdom, Negative_Time_Quantum"
+    skipped:
+      - seq: 191
+        reason: "Too thin — Hamming quote image commentary only"
+      - seq: 196
+        reason: "Too thin — McKenna quote image commentary only"
+
 summary:
-  total_processed: 190
-  encoded: 132
+  total_processed: 200
+  encoded: 140
   skipped_duplicate: 36
-  skipped_empty: 22
+  skipped_empty: 24
   skipped_error: 0
-  last_tag_assigned: "S085"
-  next_available: "S086"
-  remaining_files: 438
+  last_tag_assigned: "S08D"
+  next_available: "S08E"
+  remaining_files: 428
