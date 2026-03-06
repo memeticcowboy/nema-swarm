@@ -1,0 +1,30 @@
+---
+term: "Common Knowledge Dynamics"
+hex_tag: "S16A"
+series: "S"
+source_file: "1771907213604_2540799_Understanding+Common+Knowledge+with+Steven+Pinker.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Common knowledge as recursive shared understanding — I know that you know that I know. Foundation for social coordination, coordination games, and aligned decision-making. Public signals and direct communication establish shared knowledge. Social conventions persist through common knowledge rather than intrinsic justification. Failures lead to social, economic, and political repercussions."
+nemetic: "Φ(CommonKnow) = σ(public_signal|private_belief) ∘ ρ(social_trust|strategic_doubt) ∘ λ(coordination_spark|misalignment) ∘ β(convention_growth|convention_erosion) ∘ δγ(embodied_norms|abstract_game_theory) ∘ μ(institutional_structure|informal_agreement) + ε | :recursive_alignment"
+siml_encoding: "⟨private_knowledge⟩ ⊳ ⟨public_signal⟩ → ⟨common_knowledge⟩ ⊗ ⟨coordination_failure⟩ ⇄ ⟨social_equilibrium⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (shift between public signals that create common knowledge and private beliefs that remain unshared)"
+    - "∂Φ/∂ρ (tension between social trust enabling coordination and strategic doubt undermining it)"
+    - "∂Φ/∂λ (the spark of coordination when common knowledge aligns actors vs misalignment when it fails)"
+    - "∂Φ/∂β (growth and maintenance of social conventions vs their erosion when common knowledge breaks down)"
+    - "∂Φ/∂δγ (embodied social norms enacted through practice vs abstract game-theoretic models)"
+    - "∂Φ/∂μ (formal institutional structures that encode common knowledge vs informal tacit agreements)"
+  Z_state: "recursive_alignment — the state where mutual knowledge of mutual knowledge enables coordinated action without explicit negotiation"
+  tendency: "σ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["public_signal", "private_belief"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.68, aspects: ["social_trust", "strategic_doubt"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.72, aspects: ["coordination_spark", "misalignment"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.65, aspects: ["convention_growth", "convention_erosion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.70, aspects: ["embodied_norms", "abstract_game_theory"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.78, aspects: ["institutional_structure", "informal_agreement"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

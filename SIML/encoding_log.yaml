@@ -1208,12 +1208,29 @@ entries:
       - seq: 497
         reason: "Too thin — untitled (~125 words)"
 
+  - batch: 51
+    range: "seq 501-510"
+    encoded:
+      - {seq: 502, tag: "S164", name: "ELIXA_Effect"}
+      - {seq: 503, tag: "S165", name: "Meaning_Beyond_Language"}
+      - {seq: 504, tag: "S166", name: "Memetics_Behavioral_Economics"}
+      - {seq: 506, tag: "S167", name: "Sacred_Listening"}
+      - {seq: 507, tag: "S168", name: "Epistemic_Collapse"}
+      - {seq: 508, tag: "S169", name: "Identity_Shadow_Integration"}
+      - {seq: 509, tag: "S16A", name: "Common_Knowledge_Dynamics"}
+      - {seq: 510, tag: "S16B", name: "Meta_Cognitive_Contradiction_Resolution"}
+    skipped:
+      - seq: 501
+        reason: "Near-duplicate — I-Tube Cognitive Resilience overlaps I001 and S138"
+      - seq: 505
+        reason: "Too thin — untitled meditation reflection (~143 words)"
+
 summary:
-  total_processed: 500
-  encoded: 354
-  skipped_duplicate: 55
-  skipped_empty: 91
+  total_processed: 510
+  encoded: 362
+  skipped_duplicate: 56
+  skipped_empty: 92
   skipped_error: 0
-  last_tag_assigned: "S163"
-  next_available: "S164"
-  remaining_files: 128
+  last_tag_assigned: "S16B"
+  next_available: "S16C"
+  remaining_files: 118
