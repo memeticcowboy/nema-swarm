@@ -1,0 +1,30 @@
+---
+term: "Snowden Sensemaking and Complexity"
+hex_tag: "S0FB"
+series: "S"
+source_file: "1771907213219_2205164_Understanding+Sensemaking+and+Complexity%3A+Insights+from+Dave+Snowden%27s+Lecture.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Dave Snowden's sensemaking and complexity framework. The Cynefin framework differentiates ordered, complex, and chaotic systems, each requiring fundamentally different decision-making approaches. Enabling constraints (flexible boundaries that allow growth — e.g., Wikipedia rules) versus governing constraints (restrictive boundaries that limit action). Emphasizes the importance of context in all decisions — no absolute statements hold in complexity. Incorporates natural sciences into sensemaking methodology to reduce uncertainty while acknowledging irreducible unpredictability."
+nemetic: "Φ(Snowden Sensemaking Complexity) = σ(ordered|complex|chaotic) ∘ ρ(enabling_constraints|governing_constraints) ∘ λ(certainty|uncertainty) ∘ β(top_down|emergent) ∘ δγ(absolute_statements|contextual_flexibility) ∘ μ(social_science|natural_science) + ε | :contextual_adaptive_sensemaking"
+siml_encoding: "⟨ordered_complex_chaotic_distinction, system_scope⟩ ⊳ ⟨enabling_governing_relational_web, constraint_resonance⟩ → ⟨certainty_uncertainty_transformation, adaptive_catalysis⟩ ⊗ ⟨topdown_emergent_growth, approach_expansion⟩ ⇄ ⟨absolute_contextual_cycling, decision_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing ordered from complex from chaotic systems — the foundational discernment that different system types demand fundamentally different approaches to decision-making and sensemaking)"
+    - "∂Φ/∂ρ (relating enabling constraints to governing constraints — the relational tension between boundaries that foster growth and flexibility and boundaries that restrict and control action within systems)"
+    - "∂Φ/∂λ (transforming certainty through uncertainty — the catalytic movement where deterministic models encounter irreducible unpredictability, forcing adaptation in sensemaking methodology)"
+    - "∂Φ/∂β (growth from top-down to emergent approaches — expanding from command-and-control decision frameworks to emergent, adaptive strategies appropriate for complex and chaotic domains)"
+    - "∂Φ/∂δγ (cycling between absolute statements and contextual flexibility — the oscillation between the desire for universal rules and the recognition that context determines the validity of any approach)"
+    - "∂Φ/∂μ (structural integration of social science and natural science — the architecture that incorporates findings from natural sciences into sensemaking frameworks traditionally rooted in social science to reduce uncertainty)"
+  Z_state: "contextual_adaptive_sensemaking — sensemaking operates not through universal rules but through contextual discernment of system type; the Cynefin framework provides the discriminating lens that determines which approach applies where; enabling constraints create the conditions for emergence while governing constraints maintain necessary boundaries; no absolute statements survive contact with genuine complexity, requiring continuous adaptive engagement with context"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["system_type_discernment", "ordered_complex_chaotic_distinction"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["constraint_type_relating", "enabling_governing_connection_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["certainty_uncertainty_catalysis", "adaptive_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["topdown_to_emergent_growth", "approach_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["absolute_contextual_cycling", "decision_grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["social_natural_science_integration", "framework_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

@@ -949,12 +949,21 @@ entries:
       - seq: 314
         reason: "Near-duplicate — Symbolic Metaphysics Education in AI overlaps S0F3"
 
+  # Batch 33 (files 321-330)
+  - seq: 321-330
+    action: "batch"
+    encoded_tags: "S0FA-S102"
+    encoded_names: "Self_Cognition_Sense_Making, Snowden_Sensemaking_Complexity, Knowledge_Management_Snowden, Jung_Knowledge_Wrangling, Diagnostic_Questions_IFS_Constructor, Care_Ethics_Technology, Harmonic_Universe, Noemara_Empath_Twin, Language_Consciousness_Barenholtz"
+    skipped:
+      - seq: 326
+        reason: "Too thin — parody liturgy (~245 words, off-topic)"
+
 summary:
-  total_processed: 320
-  encoded: 248
+  total_processed: 330
+  encoded: 257
   skipped_duplicate: 41
-  skipped_empty: 31
+  skipped_empty: 32
   skipped_error: 0
-  last_tag_assigned: "S0F9"
-  next_available: "S0FA"
-  remaining_files: 308
+  last_tag_assigned: "S102"
+  next_available: "S103"
+  remaining_files: 298

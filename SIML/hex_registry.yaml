@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S0FA"
+  next_available: "S103"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -598,6 +598,15 @@ S:
     S0F7: "AI_Meta_Linguistic_Environments"
     S0F8: "It_Fends_Dynamic_Protection"
     S0F9: "Participatory_Sense_Making"
+    S0FA: "Self_Cognition_Sense_Making"
+    S0FB: "Snowden_Sensemaking_Complexity"
+    S0FC: "Knowledge_Management_Snowden"
+    S0FD: "Jung_Knowledge_Wrangling"
+    S0FE: "Diagnostic_Questions_IFS_Constructor"
+    S0FF: "Care_Ethics_Technology"
+    S100: "Harmonic_Universe"
+    S101: "Noemara_Empath_Twin"
+    S102: "Language_Consciousness_Barenholtz"
   collisions: {}
 
 U:

@@ -1,0 +1,30 @@
+---
+term: "Knowledge Management through Snowden's Framework"
+hex_tag: "S0FC"
+series: "S"
+source_file: "1771907213219_2205194_Exploring+Knowledge+Management+and+Decision+Support+Systems+through+Snowden%27s+Sensemaking+Framework.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Knowledge management and decision support systems examined through Snowden's Cynefin framework across individual, team, organizational, and societal levels. Probes the role of abductive reasoning versus deduction and induction, tacit versus explicit knowledge, and KM/DSS design across Cynefin domains. Explores enabling versus governing constraints in system design, and how informal networks augment formal systems during crisis sensemaking. Reveals that knowledge management requires fundamentally different architectures depending on the complexity domain in which it operates."
+nemetic: "Φ(Knowledge Management Snowden) = σ(individual|collective_knowledge) ∘ ρ(formal_KM|informal_networks) ∘ λ(complicated|complex_domains) ∘ β(deductive|abductive_reasoning) ∘ δγ(explicit|tacit_knowledge) ∘ μ(enabling|governing_constraints) + ε | :domain_adaptive_knowledge_architecture"
+siml_encoding: "⟨individual_collective_distinction, knowledge_scope⟩ ⊳ ⟨formal_informal_relational_web, network_resonance⟩ → ⟨complicated_complex_transformation, domain_catalysis⟩ ⊗ ⟨deductive_abductive_growth, reasoning_expansion⟩ ⇄ ⟨explicit_tacit_cycling, knowledge_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing individual knowledge from collective knowledge — the foundational discernment between knowledge held by persons and knowledge distributed across teams, organizations, and societies)"
+    - "∂Φ/∂ρ (relating formal KM systems to informal networks — the relational tension between designed knowledge management infrastructure and the organic, emergent networks that augment formal systems especially during crisis)"
+    - "∂Φ/∂λ (transforming complicated-domain approaches through complex-domain demands — the catalytic movement where linear KM/DSS designs encounter the irreducible unpredictability of complex domains requiring adaptive architecture)"
+    - "∂Φ/∂β (growth from deductive to abductive reasoning — expanding from deduction and induction toward abductive reasoning as a critical but underappreciated mode for generating hypotheses in complex knowledge environments)"
+    - "∂Φ/∂δγ (cycling between explicit and tacit knowledge — the oscillation between codifiable, transferable knowledge and embodied, contextual knowledge that resists formalization)"
+    - "∂Φ/∂μ (structural design of enabling versus governing constraints — the architecture that determines whether KM/DSS systems foster emergence and innovation or enforce compliance and standardization)"
+  Z_state: "domain_adaptive_knowledge_architecture — knowledge management systems must be designed differently depending on which Cynefin domain they serve; formal KM systems handle complicated-domain knowledge well but require informal network augmentation in complex domains; abductive reasoning fills the gap between deduction and induction when facing genuinely novel situations; the architecture of constraints — enabling versus governing — determines whether knowledge systems cultivate emergence or enforce standardization"
+  tendency: "ρ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["individual_collective_knowledge_discernment", "scale_level_distinction"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["formal_informal_network_relating", "crisis_augmentation_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["complicated_complex_domain_catalysis", "adaptive_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["deductive_to_abductive_growth", "reasoning_mode_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["explicit_tacit_knowledge_cycling", "knowledge_type_grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["constraint_design_structure", "KM_DSS_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S0FB"]
+status: canonical
+---
