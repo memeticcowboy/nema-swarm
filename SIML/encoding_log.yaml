@@ -743,12 +743,40 @@ entries:
     tags: "S050-S057"
     term_names: "Diagram_of_Thought_Framework, Dymaxion_Cognitive_Maps, DIKUW_Memetic_Consciousness, Identity_Memetic_Philosophy, Cyborg_Augmentation_Ethics, Awe_and_the_Sublime, Complexity_Civilization, Intelligence_Amplification_Memetics"
 
+  # Batch 14 (files 131-140)
+  - seq: 131
+    source_file: "1771907212665_872079_The+Intricate+Geometry+of+Dandelions.md"
+    action: "skipped"
+    reason: "Too thin — brief Fibonacci/geometry observation, covered by S024"
+
+  - seq: 132
+    source_file: "1771907212665_872454_Exploring+Dynamic+Identity+Formation.md"
+    action: "encoded"
+    tag: "S058"
+    term_name: "Dynamic_Identity_Formation"
+
+  - seq: 133-138
+    action: "encoded"
+    tags: "S059-S05E"
+    term_names: "Predictable_Evolution_Pangenome, Autistic_Exploration_Patterns, Emotions_Blooms_Taxonomy, Reward_Seeking_Nicotine_Response, Memory_Beyond_Brain, Brain_Action_Sequencing"
+
+  - seq: 139
+    source_file: "1771907212686_942387_Cross-Cultural+Insights+on+Big+Five+Traits.md"
+    action: "skipped"
+    reason: "Too thin — themes/keywords only, no insight section"
+
+  - seq: 140
+    source_file: "1771907212688_958169_Enhancing+Decision-Making+in+Human+Capital.md"
+    action: "encoded"
+    tag: "S05F"
+    term_name: "Decision_Intelligence_Human_Capital"
+
 summary:
-  total_processed: 130
-  encoded: 86
+  total_processed: 140
+  encoded: 94
   skipped_duplicate: 30
-  skipped_empty: 14
+  skipped_empty: 16
   skipped_error: 0
-  last_tag_assigned: "S057"
-  next_available: "S058"
-  remaining_files: 498
+  last_tag_assigned: "S05F"
+  next_available: "S060"
+  remaining_files: 488

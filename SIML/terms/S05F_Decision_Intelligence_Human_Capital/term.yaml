@@ -1,0 +1,30 @@
+---
+term: "Decision Intelligence Human Capital"
+hex_tag: "S05F"
+series: "S"
+source_file: "1771907212688_958169_Enhancing+Decision-Making+in+Human+Capital.md"
+encoded_at: "2026-03-05T22:30:00Z"
+description: "The Sense-Analyze-Act model for human capital management transforms workforce strategy through identifying signals, analyzing with clarity, and acting decisively. Addresses challenges of information overload and cognitive biases through cultures of curiosity, humility, and data-driven thinking."
+nemetic: "Φ(Decision Intelligence Human Capital) = σ(signal|noise) ∘ ρ(data_insight|organizational_context) ∘ λ(raw_information|actionable_strategy) ∘ β(intuitive_decision|mature_intelligence) ∘ δγ(sense|analyze|act_cycling) ∘ μ(decision_framework|organizational_structure) + ε | :strategic_clarity"
+siml_encoding: "⟨signal_detection, data_sensing⟩ ⊳ ⟨analytical_clarity, bias_mitigation⟩ → ⟨decisive_action, workforce_strategy⟩ ⊗ ⟨curiosity_culture, humility_practice⟩ ⇄ ⟨insight_to_action_loop, continuous_improvement⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing meaningful signals from information noise)"
+    - "∂Φ/∂ρ (relating data insights to organizational context)"
+    - "∂Φ/∂λ (transforming raw information into actionable workforce strategy)"
+    - "∂Φ/∂β (growth from intuitive decision-making to mature decision intelligence)"
+    - "∂Φ/∂δγ (cycling through sense-analyze-act phases)"
+    - "∂Φ/∂μ (structural decision frameworks and organizational architecture)"
+  Z_state: "strategic_clarity — converting information overload into clear, bias-aware workforce decisions through disciplined sense-analyze-act cycling"
+  tendency: "λ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["signal_noise_distinction", "pattern_recognition_in_data"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.70, aspects: ["contextual_understanding", "stakeholder_relationship_awareness"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["information_to_action_transformation", "decisive_execution"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["decision_capability_maturation", "organizational_learning_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["sense_analyze_act_cycling", "feedback_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["decision_framework_structure", "organizational_governance"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S040", "S053", "S02E", "S034"]
+status: canonical
+---
