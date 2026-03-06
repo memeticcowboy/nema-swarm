@@ -347,7 +347,7 @@ O:
 
 S:
   description: "Sensemaking and epistemics"
-  next_available: "S04F"
+  next_available: "S058"
   assigned:
     S001: "SCAMPER"
     S002: "System_1_System_2_Thinking"
@@ -427,6 +427,15 @@ S:
     S04C: "Collaborative_Knowledge_Scaffolding"
     S04D: "Cognition_Without_Language"
     S04E: "Neural_Coupling_Dogs_Humans"
+    S04F: "Cognitive_Map_Mnemonic_VR"
+    S050: "Diagram_of_Thought_Framework"
+    S051: "Dymaxion_Cognitive_Maps"
+    S052: "DIKUW_Memetic_Consciousness"
+    S053: "Identity_Memetic_Philosophy"
+    S054: "Cyborg_Augmentation_Ethics"
+    S055: "Awe_and_the_Sublime"
+    S056: "Complexity_Civilization"
+    S057: "Intelligence_Amplification_Memetics"
   collisions: {}
 
 U:

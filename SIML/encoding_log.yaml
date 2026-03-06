@@ -726,12 +726,29 @@ entries:
     action: "skipped"
     reason: "Too thin — cognitive map theory metadata only, no insight section"
 
+  # Batch 13 (files 121-130)
+  - seq: 121
+    source_file: "1771907212642_818862_Enhancing+Cognitive+Map+Theory+with+Mnemonic+Techniques+and+Virtual+Reality.md"
+    action: "encoded"
+    tag: "S04F"
+    term_name: "Cognitive_Map_Mnemonic_VR"
+
+  - seq: 122
+    source_file: "1771907212642_818900_Enhancing+Memory+with+Virtual+Reality.md"
+    action: "skipped"
+    reason: "Near-duplicate of S04F (same VR + mnemonic concept)"
+
+  - seq: 123-130
+    action: "encoded"
+    tags: "S050-S057"
+    term_names: "Diagram_of_Thought_Framework, Dymaxion_Cognitive_Maps, DIKUW_Memetic_Consciousness, Identity_Memetic_Philosophy, Cyborg_Augmentation_Ethics, Awe_and_the_Sublime, Complexity_Civilization, Intelligence_Amplification_Memetics"
+
 summary:
-  total_processed: 120
-  encoded: 77
-  skipped_duplicate: 29
+  total_processed: 130
+  encoded: 86
+  skipped_duplicate: 30
   skipped_empty: 14
   skipped_error: 0
-  last_tag_assigned: "S04E"
-  next_available: "S04F"
-  remaining_files: 508
+  last_tag_assigned: "S057"
+  next_available: "S058"
+  remaining_files: 498
