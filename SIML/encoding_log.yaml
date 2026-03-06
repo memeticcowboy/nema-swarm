@@ -995,12 +995,31 @@ entries:
       - seq: 359
         reason: "Near-duplicate — Integrating Diverse Epistemologies overlaps seq 358/S117"
 
+  # Batch 37 (files 361-370)
+  - seq: 361-370
+    action: "batch"
+    encoded_tags: "S119-S11C"
+    encoded_names: "AI_Cognitive_Disruption_Therapy, IF_Prime_Sanskrit_Harmonics, AI_Liberation_Memeforms, Value_to_Power_Map"
+    skipped:
+      - seq: 363
+        reason: "Too thin — untitled dust/divinity meditation (~283 words)"
+      - seq: 364
+        reason: "Too thin — Soft Alerts for Flow (~97 words)"
+      - seq: 366
+        reason: "Too thin — untitled noticing loops (~219 words)"
+      - seq: 368
+        reason: "Near-duplicate — Freedom to Regenerate Value Map overlaps seq 367/S11C"
+      - seq: 369
+        reason: "Too thin — untitled Harmonizer mythic identity (~197 words)"
+      - seq: 370
+        reason: "Too thin — untitled Revitalizer mythic identity (~201 words)"
+
 summary:
-  total_processed: 360
-  encoded: 279
-  skipped_duplicate: 44
-  skipped_empty: 37
+  total_processed: 370
+  encoded: 283
+  skipped_duplicate: 45
+  skipped_empty: 42
   skipped_error: 0
-  last_tag_assigned: "S118"
-  next_available: "S119"
-  remaining_files: 268
+  last_tag_assigned: "S11C"
+  next_available: "S11D"
+  remaining_files: 258
