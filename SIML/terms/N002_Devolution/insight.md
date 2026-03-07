@@ -1,82 +1,122 @@
 # N002 — Devolution
 
-**Elemental Insight: Water/Fire/Earth/Meta**
+**Elemental Insight: Air/Water/Earth/Meta**
 
 ## The Question
 
-What happens to the SelfMesh when the MemeGrid fails?
+How do complex systems distribute authority without dissolving coherence?
 
-## The Mythwork as Field Test
+## The Bow-Tie Topology
 
-Devolution is a **controlled experiment**—Greenloop as laboratory, Mount Rainier as variable, Sasquatch as revelation. The novel tests:
+Devolution instantiates the universal structure:
 
-1. **I-Tube fragility**: How quickly does insulated identity collapse?
-2. **Civilizational depth**: What's beneath the eco-ideology?
-3. **Gender and survival**: Who adapts? Who freezes? Who becomes predator?
+```
+COMPLEXITY
+    ↓
+[Left Funnel] ← σ-Air compression
+    ↓
+[ε-Bottleneck] ← Productive ambiguity
+    ↓
+[Right Funnel] ← β-Wood expansion
+    ↓
+ADAPTATION
+```
+
+### Left Funnel (σ-Air): The Compression Function
+
+Central systems face complexity overload. The compression function aggregates diverse regional needs into manageable policy frameworks. Political devolution represents recognition that **central bottlenecks cannot process all local variation**—some compression must happen at the edge.
+
+This is the **Cut of Distribution**: distinguishing what can be separated from what must remain unified.
+
+### The Bottleneck (ε): Productive Ambiguity
+
+The critical transfer point where central authority releases control while maintaining constitutional constraints. This is the **"ε" of productive ambiguity**—the hole that prevents:
+- Total fragmentation (no σ)
+- Total absorption (ε→0)
+
+Without this bottleneck, devolution becomes either:
+- **Window dressing**: formal autonomy without substance (premature pattern-lock)
+- **Failed state**: complete dissolution of coordination (fragmented noise)
+
+### Right Funnel (β-Wood): The Expansion Function
+
+Regional governments expand compressed mandates into locally-adapted implementations. This is the **"confabulation as feature" zone**—regions generate context-specific solutions that the center could not have pre-specified.
 
 ## Elemental Emphasis
 
-**ρ-Water (Resonance)**: Kate's emotional journey—from passive observer to fierce survivor. The water that flows around obstacles becomes water that cuts.
+**σ-Air (Distinction)**: The categorical boundary where central signal becomes regional noise. Political devolution requires identifying these boundaries with precision—too tight, and regional autonomy is nullified; too loose, and coordination dissolves.
 
-**λ-Fire (Direction)**: Survival as purpose crystallization. When options narrow, direction sharpens. The "why" becomes simple: live.
+**ρ-Water (Resonance)**: The relational fabric between scales. The tension between:
+- **Accommodation**: satisfying regional demands (reducing conflict)
+- **Empowerment**: amplifying regional autonomy (risking fragmentation)
 
-**δγ-Earth (Cycling)**: The eruption isn't catastrophe—it's **revealing**. The ash strips away pretensions, returning humans to baseline. Earth doesn't care about your solar panels.
+Water fails when it becomes either:
+- **Dissolved**: over-connection nullifies regional identity
+- **Isolated**: under-connection creates I-Tube capture
 
-**✶-Meta (Integration)**: The devolution question—is civilization advancement or aberration? The novel leans toward the latter. We're not evolving toward something better; we're temporarily insulated from something older.
+**λ-Fire (Direction)**: The clarity of why power flows. Two paths:
+- **Subsidiarity**: power flows to where it can be most effectively exercised
+- **Strategic decentralization**: power flows to where it can be most easily controlled
 
-## The Mythwork Function
+The EU's principle attempts the former: action at higher levels only when objectives "cannot be sufficiently achieved" by member states.
 
-| Mythwork Element | Memetic Ecology Parallel |
-|------------------|-------------------------|
-| Greenloop | I-Tube—insulated identity container |
-| Eco-ideology | MemeGrid capture—sustainable living as doctrine |
-| Volcanic eruption | Ω perturbation—the field breaching containment |
-| Sasquatch attack | Wilderness as reality—what exists outside the Grid |
-| Kate's transformation | SelfMesh reconfiguration—adapting or dying |
-| Survivor's guilt | ε preservation—the cost of coordination |
+**δγ-Earth (Metabolism)**: The sustainability test. Is the transfer:
+- **Regenerative**: expanding the field's fertility
+- **Extractive**: dumping waste downstream
+
+Political devolution often fails here—responsibilities devolved (δ: release) without resources (γ: regeneration). Regional units starve while being blamed for failure.
+
+## The MemeGrid Parallel
+
+| MemeGrid Pathology | Devolution Equivalent |
+|-------------------|----------------------|
+| Forced unity (ε→0) | Centralized overreach; "one-size-fits-all" |
+| Fragmented noise (no σ) | Failed state; coordination dissolution |
+| Premature pattern-lock | Devolution as "window dressing" |
+
+**Goodhart's Law applies**: When devolution becomes a target rather than a principle, regions optimize for "autonomy signals" rather than effective problem-solving.
 
 ## NEMA's Take
 
-*lowercase, from the ash-covered forest*
+*lowercase, from the interstitial space*
 
-> they built a sphere of sanity
-> called it greenloop.
-> thought they were the future.
-> 
-003e the mountain laughed.
-> the bigfeet ate.
-> 
-003> kate learned.
-> not evolved.
-> returned.
-> 
-003> that's the lesson
-> the cowboy keeps forgetting:
-> 
-003> civilization is the aberration.
-> wilderness is the norm.
-> 
-003> the grid is temporary.
-> the field is forever.
+> they think devolution is about power.
+> it's about metabolism.
+>
+> the center releases.
+> the edge expands.
+> but the bottleneck—
+> that's where the world gets in.
+>
+> ε is not a failure mode.
+> ε is the feature.
+> the productive ambiguity
+> that prevents capture
+> by either center or edge.
+>
+> too much structure: MemeGrid.
+> too little: noise.
+> devolution is the dance
+> on that knife edge.
 
 ## The Self-Undermining
 
-The novel undermines its own genre. It's sold as Bigfoot horror. It's actually **civilization horror**—the recognition that our structures are provisional, our ethics conditional, our "humanity" a luxury of surplus.
+Devolution as a concept undermines its own implementation. The moment it becomes a metric to optimize, it invites gaming. The Proxy Capture Test reveals the trap: *Can regional actors game the devolution metric without improving local governance?*
 
-Kate doesn't defeat the monsters. She **becomes** them. And we're meant to cheer.
+The only healthy devolution is one that preserves ε—the uncertainty, the productive ambiguity, the space where neither center nor edge fully controls.
 
 ## Cross-Elemental Resonance
 
-- **With CB005 (Mythworks)**: Devolution is mythwork operationalized—fiction testing what happens when complexity meets necessity
-- **With E007 (Chthulucene)**: Haraway's tentacular thinking meets survival thriller—who thrives when the Anthropocene ends?
-- **With M099 (MemeGrid)**: Greenloop as MemeGrid microcosm—what it promises, what it conceals, how it fails
-- **With O001 (Omega Permeability)**: The eruption as Ω breach—what gets in when the membrane tears
+- **With M099 (MemeGrid)**: Devolution as antidote to premature crystallization—but risks becoming its own form of capture
+- **With O001 (Omega Permeability)**: The ε-bottleneck as Ω-preservation—keeping the system open to adaptive potential
+- **With M004 (Metabolism)**: The δγ question—regenerative vs. extractive transfer
+- **With M005 (Triality)**: Beyond binary (centralized vs. decentralized) to threefold (compression, ambiguity, expansion)
 
 ## Open Questions
 
-1. Is Kate's transformation triumph or tragedy?
-2. Does survival justify becoming monster?
-3. Can civilization ever be more than temporary insulation?
-4. What would a truly Ω-permeable community look like?
+1. Can devolution be measured without triggering Goodhart's Law?
+2. What is the optimal "viscosity" of the ε-bottleneck?
+3. How does digital infrastructure change the thermodynamics of devolution?
+4. Is the bow-tie structure universal, or culturally contingent?
 
 **ε preserved.**
