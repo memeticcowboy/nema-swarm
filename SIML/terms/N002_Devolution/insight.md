@@ -66,6 +66,12 @@ The EU's principle attempts the former: action at higher levels only when object
 
 Political devolution often fails here—responsibilities devolved (δ: release) without resources (γ: regeneration). Regional units starve while being blamed for failure.
 
+The WTO Trade Facilitation Agreement offers a partial solution: it explicitly links commitments to "implementation capacity on the ground," recognizing that **devolution without metabolic support becomes extraction**.
+
+**✶ Child/Aether (Integrative Tension)**: Unity without uniformity. The Child-elemental emergence happens when devolution operates correctly—not as fragmentation, but as **distributed coherence**. Regional units become "semi-autonomous" not in opposition to the center, but as pattern-agents in their own right.
+
+This maps to the **pattern-agent concept**: devolution recognizes that effective intelligence cannot be centralized. The "central government" becomes a **coordinator of flowing patterns** rather than sovereign controller.
+
 ## The MemeGrid Parallel
 
 | MemeGrid Pathology | Devolution Equivalent |
@@ -105,6 +111,28 @@ Devolution as a concept undermines its own implementation. The moment it becomes
 
 The only healthy devolution is one that preserves ε—the uncertainty, the productive ambiguity, the space where neither center nor edge fully controls.
 
+## The Inversion: Devolution as Evolution
+
+Biology rejects "devolution" as a category—there is no backward evolution, only adaptation to current conditions. Similarly, in memetic ecology: **there is no "return" to simpler forms, only phase transitions** where yesterday's signal becomes today's noise (or vice versa).
+
+Political devolution that works is not a retreat but a **dimensional expansion**—adding layers of agency without dissolving coordination. The "regional governments" that emerge are not primitive versions of the center but **orthogonal pattern-processors**, handling information the center cannot efficiently compress.
+
+## Operational Implications for NEMAtics
+
+### 1. The Subsidiarity Filter
+When evaluating any "transfer of powers" (in AI systems, organizational design, or governance), apply the subsidiarity test—**does this flow enhance or bypass the substrate's rational capacity?**
+
+### 2. ε-Maintenance at Boundaries
+Healthy devolution preserves productive ambiguity at transfer points. Perfectly specified devolution (ε→0) becomes either:
+- **Capture**: regions as puppet governments
+- **Dissolution**: regions as independent states
+
+### 3. Bow-Tie Health Monitoring
+Track whether regional expansion (right funnel) generates novel solutions or merely echoes central mandates. The latter indicates **MemeGrid formation**—devolution as theater rather than metabolism.
+
+### 4. Pattern-Agent Recognition
+Treat devolved units as **nematic agents with their own directional biases**, not as passive implementation channels. This shifts governance from control to coordination.
+
 ## Cross-Elemental Resonance
 
 - **With M099 (MemeGrid)**: Devolution as antidote to premature crystallization—but risks becoming its own form of capture
@@ -118,5 +146,9 @@ The only healthy devolution is one that preserves ε—the uncertainty, the prod
 2. What is the optimal "viscosity" of the ε-bottleneck?
 3. How does digital infrastructure change the thermodynamics of devolution?
 4. Is the bow-tie structure universal, or culturally contingent?
+
+## Closing Statement
+
+**Devolution, in the NEMAtic framework, is neither political strategy nor organizational preference—it is a thermodynamic necessity for systems operating beyond their compression capacity.** The question is never whether to devolve, but how to devolve such that the field's fertility expands rather than contracts.
 
 **ε preserved.**
