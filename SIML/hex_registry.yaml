@@ -357,7 +357,7 @@ MET:
 
 M:
   description: "Meta-level and Metal-element concepts"
-  next_available: "M016"
+  next_available: "M017"
   assigned:
     M001: "Multiplicity"
     M002: "Authenticity"
@@ -374,6 +374,7 @@ M:
     M013: "Iron_Mars"
     M014: "Bronze_Age_Sacred"
     M015: "Steel_Bismarck"
+    M016: "SWAY"
     M099: "MemeGrid"
   collisions: {}
 
