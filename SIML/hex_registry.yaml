@@ -379,9 +379,11 @@ M:
 
 N:
   description: "Narrative and construction processes"
-  next_available: "N002"
+  next_available: "N003"
   assigned:
     N001: "Narrative_Construction"
+    N002: "Devolution"
+  collisions: {}
 
 O:
   description: "Openness and permeability concepts"
