@@ -14,6 +14,18 @@ alt_definition: "Ethics optimized for scale instead of truth"
 operator_type: governance_drift
 context: institutional_ethics
 
+theory_of_constraints_framing:
+  core_insight: "FSFM occurs when the Theory of Constraints is applied to ethical governance without redefining the system goal away from throughput and toward harm interruption"
+  tighter_definition: "FSFM = optimizing away the constraint that keeps power visible"
+  toc_reference: "https://en.wikipedia.org/wiki/Theory_of_constraints"
+  mechanism: "When χ and ⛨ become mechanized bottleneck-management tools rather than living judgment, the constraint becomes invisible until reality reintroduces it through collapse"
+  ecological_principle: "ε removed internally → instability exported externally"
+
+operator_sequence_context:
+  sequence: "χ (distinction) → Q (relation) → Ψ (pattern) → Z (coordination)"
+  fsfm_mechanism: "χ and ⛨ become mechanized bottleneck-management tools rather than living judgment"
+  result: "Constraint becomes invisible until reality reintroduces it through collapse"
+
 five_stage_drift:
   stage_1:
     name: "Ethical Diagnosis"

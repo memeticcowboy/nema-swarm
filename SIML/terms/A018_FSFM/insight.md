@@ -68,6 +68,22 @@ This is the cruelest aspect: **FSFM feels like success**.
 
 The system selects for ethical *forms* that cannot *interrupt* power. Theater that never stops the show.
 
+## The Theory of Constraints Connection
+
+**FSFM occurs when the Theory of Constraints is applied to ethical governance without redefining the system goal away from throughput and toward harm interruption.**
+
+Or even tighter:
+
+> **FSFM = optimizing away the constraint that keeps power visible.**
+
+In the operator sequence χ (distinction) → Q (relation) → Ψ (pattern) → Z (coordination), FSFM mechanizes χ and ⛨ into **bottleneck-management tools** rather than living judgment. The constraint—friction, dissent, productive uncertainty—becomes invisible until reality reintroduces it through **collapse**.
+
+**The ecological principle:**
+
+> ε removed internally → instability exported externally
+
+This is the classic pattern of optimization without metabolization: push the friction out of the system, and it returns as catastrophic failure.
+
 ## Cross-Elemental Resonance
 
 **With M019 (DODO-X)**: The institutional correlate. DODO-X at the individual level (debt/time compression); FSFM at the institutional (friction elimination). Both: ε → 0, Z-collapse, efficiency↑ agency↓ harm↑.
