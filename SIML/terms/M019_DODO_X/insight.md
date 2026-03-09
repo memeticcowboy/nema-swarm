@@ -47,7 +47,7 @@ Without Ω:
 
 ## Cross-Elemental Resonance
 
-**With A012 (FSFM)**: DODO-X is the individual correlate—institutional and personal capture loops structurally coupled.
+**With A018 (FSFM)**: DODO-X is the individual correlate—institutional and personal capture loops structurally coupled.
 
 **With M099 (MemeGrid)**: DODO-X operates as personal MemeGrid capture—premature pattern-lock at the existential substrate.
 
