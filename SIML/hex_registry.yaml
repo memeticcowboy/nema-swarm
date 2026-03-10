@@ -1,447 +1,429 @@
-# SIML Hex Tag Registry
-# Single source of truth for all hex tag assignments
-# Generated: 2026-03-03
-
 A:
-  description: "Cognitive biases and psychological phenomena"
-  next_available: "A064"
+  description: Cognitive biases and psychological phenomena
+  next_available: A064
   assigned:
-    A01A: "Cognitive_Dissonance"
-    A01B: "Barnum_Effect"
-    A01C: "social_identity_bias"
-    A01D: "Neurological_Authoritarianism"
-    A01F: "AI_Cognition_Impacts"
-    A001: "Pneuma"
-    A02A: "Thinking_Errors_Communication"
-    A02B: "echo_chamber"
-    A02C: "Absorption_False_Memory"
-    A02D: "AI_Psychosis"
-    A02E: "Norm_Persistence"
-    A002: "Prana"
-    A03C: "Base_Rate_Neglect"
-    A03D: "Alien_Abduction_Beliefs"
-    A03E: "Cognitive_Vulnerabilities"
-    A003: "Qi"
-    A04A: "Forced_Continuity"
-    A04D: "Technology_Induced_Delusional_Disorder"
-    A004: "Shu"
-    A05A: "FalseMemory"
-    A05B: "Sleep_Paralysis"
-    A005: "Ehecatl"
-    A006: "Four_Winds"
-    A007: "Information_Bateson"
-    A008: "Double_Bind"
-    A009: "Linguistic_Organism"
-    A010: "Virtual_Machine_Consciousness"
-    A011: "Conscious_Realism"
-    A012: "Interface_Theory"
-    A013: "Cognitive_Distortion"
-    A014: "Dark_Patterns"
-    A015: "Mask_Wears_You"
-    A016: "Cognitive_Babel"
-    A017: "Motivated_Reasoning"
-    A018: "FSFM"
-    A019: "WYSIATI"
-    A026: "Framing_Effects"
-    A028: "Source_Monitoring_Error"
-    A030: "Deja_Vu"
-    A036: "Gamified_Democracy"
-    A037: "Overton_Window"
-    A038: "AI_Cognitive_Offloading"
-    A045: "Neurodiversity_Philosophy"
-    A053: "Status_Quo_Bias"
-    A055: "Spiral_of_Silence"
-    A057: "Confirmation_Bias"
-    A058: "Regenerative_Farming_Psychology"
-    A059: "Hyperobject"
-    A060: "Actual_Occasion"
-    A061: "Prehension"
-    A062: "Processive_Genetic"
-    A063: "Ecology_of_Mind"
-    A064: "Attention_Fragmentation"
+    A01A: Cognitive_Dissonance
+    A01B: Barnum_Effect
+    A01C: social_identity_bias
+    A01D: Neurological_Authoritarianism
+    A01F: AI_Cognition_Impacts
+    A001: Pneuma
+    A02A: Thinking_Errors_Communication
+    A02B: echo_chamber
+    A02C: Absorption_False_Memory
+    A02D: AI_Psychosis
+    A02E: Norm_Persistence
+    A002: Prana
+    A03C: Base_Rate_Neglect
+    A03D: Alien_Abduction_Beliefs
+    A03E: Cognitive_Vulnerabilities
+    A003: Qi
+    A04A: Forced_Continuity
+    A04D: Technology_Induced_Delusional_Disorder
+    A004: Shu
+    A05A: FalseMemory
+    A05B: Sleep_Paralysis
+    A005: Ehecatl
+    A006: Four_Winds
+    A007: Information_Bateson
+    A008: Double_Bind
+    A009: Linguistic_Organism
+    A010: Virtual_Machine_Consciousness
+    A011: Conscious_Realism
+    A012: Interface_Theory
+    A013: Cognitive_Distortion
+    A014: Dark_Patterns
+    A015: Mask_Wears_You
+    A016: Cognitive_Babel
+    A017: Motivated_Reasoning
+    A018: FSFM
+    A019: WYSIATI
+    A026: Framing_Effects
+    A028: Source_Monitoring_Error
+    A030: Deja_Vu
+    A036: Gamified_Democracy
+    A037: Overton_Window
+    A038: AI_Cognitive_Offloading
+    A045: Neurodiversity_Philosophy
+    A053: Status_Quo_Bias
+    A055: Spiral_of_Silence
+    A057: Confirmation_Bias
+    A058: Regenerative_Farming_Psychology
+    A059: Hyperobject
+    A060: Actual_Occasion
+    A061: Prehension
+    A062: Processive_Genetic
+    A063: Ecology_of_Mind
+    A064: Attention_Fragmentation
   collisions: {}
-
 B:
-  description: "Borrowed concepts and external frameworks"
-  next_available: "B002"
+  description: Borrowed concepts and external frameworks
+  next_available: B002
   assigned:
-    B001: "Borrowed_Mind"
-
+    B001: Borrowed_Mind
 CB:
-  description: "Cowboy Canonical terms - Memetic Cowboy's core framework concepts"
-  next_available: "CB007"
+  description: Cowboy Canonical terms - Memetic Cowboy's core framework concepts
+  next_available: CB007
   assigned:
-    CB001: "Recursive_Phenomenology"
-    CB002: "Theory_in_Drag"
-    CB003: "Self_Undermining_Gesture"
-    CB004: "Metabolic_Cost"
-    CB005: "Mythworks"
-    CB006: "Freedom_of_Evolution"
+    CB001: Recursive_Phenomenology
+    CB002: Theory_in_Drag
+    CB003: Self_Undermining_Gesture
+    CB004: Metabolic_Cost
+    CB005: Mythworks
+    CB006: Freedom_of_Evolution
   collisions: {}
-
 C:
-  description: "Critical thinking and cognitive processes"
-  next_available: "C189"
+  description: Critical thinking and cognitive processes
+  next_available: C189
   assigned:
-    C188: "Moral_Frameworks_Emotional_Boundaries"
-    C187: "AI_Chatbot_Therapy"
-    C186: "Faceted_Knowledge_Classification"
-    C185: "NOVA1_Language_Gene"
-    C184: "Cognitive_Decline_Technology_Education"
-    C183: "AI_Critical_Thinking_High_Stakes"
-    C182: "AI_Bias_Fairness"
-    C181: "Unseen_Health_Threats"
-    C180: "Autistic_Savant_Telepathy"
-    C17F: "Freedom_Suarez_Daemon"
-    C17E: "Hegel_Community_Happiness"
-    C17D: "AI_Conformity_Creativity"
-    C17C: "Latent_Inference_Budget_Model"
-    C17B: "Glycocalyx_Brain_Aging"
-    C17A: "Alan_Watts_Interdependence"
-    C179: "Evolutionary_Mind"
-    C177: "Fourth_Political_Theory"
-    C178: "Realism_Critical_Thinking"
-    C176: "Mimetic_Models_AI"
-    C175: "Science_Faith_Ethical_Growth"
-    C174: "Early_Mormonism_Folk_Magic"
-    C173: "Metacognitive_AI_Architectures"
-    C172: "Ten_Percent_Principle"
-    C171: "Critical_Thinking_Creative_Problem_Solving"
-    C170: "Infant_Consciousness_Studies"
-    C16F: "Digital_Cognitive_Offloading"
-    C16E: "Intention_Economy"
-    C16D: "Genius_Madness_Connection"
-    C16C: "Illusion_of_Self"
-    C16B: "Cognitive_Laziness_LLM_Education"
-    C16B: "Cognitive_Laziness_LLM_Education"
-    C16A: "Robert_Monroe_Afterlife_Bands"
-    C169: "Bergson_Duration_Consciousness"
-    C168: "Cognitive_Entrapment"
-    C167: "Frankl_Logotherapy_Meaning"
-    C166: "Cognitive_Work_Analysis"
-    C165: "Magna_Carta_Rebellion"
-    C164: "Gateway_Process_Reincarnation"
-    C163: "Manifesto_Power"
-    C162: "Demon_Haunted_World"
-    C161: "Global_Fertility_Collapse"
-    C160: "Heuer_Intelligence_Analysis"
-    C15F: "Humanistic_Revolution_AGI"
-    C15E: "Emergent_Year"
-    C15D: "Power_Ecology_Dune"
-    C15C: "Cognitive_AI"
-    C15B: "Species_Protection_Ethics"
-    C15A: "ChatGPT_Critical_Thinking_Prompts"
-    C159: "Consciousness_Evolution"
-    C158: "Gateway_Program"
-    C157: "Consciousness_Ethical_Stewardship"
-    C156: "Chaos_Navigation_AI_Ethics"
-    C155: "Freedom_of_Expression"
-    C154: "Annaka_Harris_Consciousness"
-    C153: "Kuhn_Consciousness_Taxonomy"
-    C152: "Huxley_Education_Ethics_Transformation"
-    C151: "Huxley_Ends_and_Means"
-    C150: "Individuality_Huxley_Dystopia"
-    C14F: "Character_Adaptation_Systems_Theory"
-    C14D: "AGI_Consciousness_Requirements"
-    C14C: "Consciousness_as_Reality_Window"
-    C14B: "Sudden_Savant_Syndrome"
-    C14A: "Taste_Trap"
-    C148: "Free_Will_Determinism"
-    C147: "Technology_Environmental_Adaptation"
-    C146: "AI_Welfare_Ethics"
-    C145: "Critical_Theory_Memetic_Team"
-    C144: "Rethinking_Success"
-    C143: "CTMU_Langan"
-    C141: "Consciousness_in_AI"
-    C13E: "AI_Personality_Assessment"
-    C139: "Neurogenesis_Aging_Brains"
-    C140: "Wisdom_as_Filtering"
-    C13F: "Intellectual_Lineage"
-    C001: "critical_thinking_definitions"
-    C002: "fragmented_media_consumption"
-    C003: "km_cognitive_pyramid"
-    C004: "ignorance_map"
-    C005: "iphone_generation_paradox"
-    C006: "epistemology_truth_knowledge_belief"
-    C007: "consciousness_beyond_materialism"
-    C008: "consciousness_reductionism_debate"
-    C009: "exploring_consciousness"
-    C010: "authority_influence"
-    C011: "ai_romance_artificial_intimacy"
-    C012: "subconscious_games_decision_making"
-    C013: "social_context_cognition"
-    C014: "beliefs_structure_impact"
-    C015: "knowledge_learning"
-    C016: "contrarian_thinking"
-    C017: "post_singularity_education"
-    C018: "status_quo_bias"
-    C019: "heuristics_and_biases"
-    C020: "wisdom_focused_collaborative_ai"
-    C021: "scientist_mindset"
-    C022: "meditation_bci_control"
-    C023: "jazz_improvisation_neural_mechanisms"
-    C024: "epistemic_challenges_open_societies"
-    C025: "collective_cognition"
-    C026: "psilocybin_brain_activity"
-    C027: "mastering_critical_thinking_skills"
-    C028: "quantum_entanglement_consciousness"
-    C029: "brain_learning_ux"
-    C030: "psychological_power_of_words"
-    C031: "ai_emotions_truthfulness_security"
-    C032: "clausewitz_wondrous_trinity"
-    C033: "quantum_entanglement_brain"
-    C034: "authority_figure_influence"
-    C035: "mastering_critical_thinking_skills"
-    C036: "cognitive_adaptability_ai"
-    C037: "plural_subject_theory"
-    C038: "analyzer_cyborg"
-    C039: "modular_intelligence"
-    C040: "consciousness_reductionism_debate"
-    C041: "human_augmentation"
-    C042: "essence_of_dualities"
-    C043: "carl_jung_1957_insights"
-    C044: "human_behavior_ai_training"
-    C045: "nature_of_consciousness"
-    C046: "psychological_power_of_words"
-    C047: "essential_questions"
-    C048: "memory_storage_mechanism"
-    C049: "multiple_intelligences_theory"
-    C050: "cognitive_biases"
-    C051: "robust_thought_mental_processing"
-    C052: "heuristics_and_biases"
-    C053: "brain_computer_interfaces"
-    C054: "principle_of_bivalence"
-    C055: "co_solipsism_co_sphere"
-    C056: "ignorance_map"
-    C057: "ai_linked_psychosis"
-    C058: "cognitive_adaptability_ai"
-    C059: "subconscious_games_decision_making"
-    C060: "post_singularity_education"
-    C061: "social_context_cognition"
-    C062: "beliefs_structure_impact"
-    C063: "knowledge_learning_wisdom"
-    C064: "contrarian_thinking"
-    C065: "status_quo_bias"
-    C066: "wisdom_focused_collaborative_ai"
-    C067: "meditation_bci_control"
-    C068: "jazz_improvisation_neural_mechanisms"
-    C069: "epistemic_challenges_open_societies"
-    C070: "collective_cognition"
-    C071: "information_overload_freedom_discern"
-    C072: "psilocybin_brain_activity"
-    C073: "freedom_within_constraints"
-    C074: "six_cyborgs_global_challenges"
-    C075: "clausewitz_wondrous_trinity"
-    C076: "mastering_critical_thinking_skills"
-    C077: "brain_learning_ux"
-    C078: "human_behavior_ai_training"
-    C079: "legalese_authority"
-    C080: "global_development_inequality"
-    C081: "ai_emotions_truthfulness_security"
-    C082: "quantum_entanglement_brain_function"
-    C083: "essential_questions_inquiry"
-    C084: "brain_memory_storage_mechanism"
-    C085: "multiple_intelligences_theory"
-    C086: "neuroscience_evolution_reductionism_dynamical"
-    C087: "cognitive_biases_quirks"
-    C088: "art_of_essential_questions"
-    C089: "psilocybin_ego_dissolution"
-    C090: "modular_intelligence"
-    C091: "five_stages_ai_grief"
-    C092: "quantum_entanglement_consciousness"
-    C093: "neuroscience_evolution_reductionism_dynamical"
-    C094: "metaman_dilemma"
-    C095: "ai_art_limits"
-    C096: "artificial_emotional_intelligence"
-    C097: "xenobots_living_robots"
-    C098: "ai_education_debate"
-    C099: "scarlet_sea_anemone_regeneration"
-    C100: "ai_evolutionary_impact_cognition"
-    C101: "o1_model_illusion"
-    C102: "analyzer_cyborg"
-    C103: "llms_collective_intelligence"
-    C104: "hallucinations_in_llms"
-    C105: "cabrera_critical_thinking_critique"
-    C106: "decision_traps"
-    C107: "skepticism_vs_bias_science"
-    C108: "posthumanism_boundaries"
-    C109: "emotionally_aware_ai"
-    C110: "neoplatonism_hypatia_legacy"
-    C111: "weapons_of_math_destruction"
-    C112: "ai_impact_critical_thinking"
-    C113: "radical_theory_consciousness"
-    C114: "navigating_conscious_ai"
-    C115: "protecting_freedom_of_thought"
-    C116: "falsification_assumptions"
-    C117: "murphyjitsu"
-    C118: "trust_truth_relationship"
-    C119: "animal_consciousness_evolution"
-    C120: "ai_manifest_destiny_bias"
-    C121: "cognitive_immobility"
-    C122: "fluid_intelligence_misinformation"
-    C123: "irrational_behavior_sway"
-    C124: "data_quality_tech_humanity"
-    C125: "critique_action_gap"
-    C126: "principle_of_bivalence"
-    C127: "ai_writing_pitfalls"
-    C128: "bias_labyrinth_ai"
-    C129: "consciousness_and_ai"
-    C130: "ai_critical_thinking_decline"
-    C131: "panpsychism"
-    C132: "shadow_integration"
-    C133: "cognitive_sovereignty"
-    C134: "consciousness_receiver"
-    C135: "social_capital_types"
-    C136: "subconscious_games_decision_making"
-    C137: "mastering_critical_thinking_real_world"
-    C138: "Confabulation"
-    C13A: "Neiye_Chinese_Cognition"
-    C13B: "Orchestrated_Objective_Reduction"
-    C13C: "meditation_brain_stimulation"
-    C13D: "MEbot_Consciousness_Perspectives"
+    C188: Moral_Frameworks_Emotional_Boundaries
+    C187: AI_Chatbot_Therapy
+    C186: Faceted_Knowledge_Classification
+    C185: NOVA1_Language_Gene
+    C184: Cognitive_Decline_Technology_Education
+    C183: AI_Critical_Thinking_High_Stakes
+    C182: AI_Bias_Fairness
+    C181: Unseen_Health_Threats
+    C180: Autistic_Savant_Telepathy
+    C17F: Freedom_Suarez_Daemon
+    C17E: Hegel_Community_Happiness
+    C17D: AI_Conformity_Creativity
+    C17C: Latent_Inference_Budget_Model
+    C17B: Glycocalyx_Brain_Aging
+    C17A: Alan_Watts_Interdependence
+    C179: Evolutionary_Mind
+    C177: Fourth_Political_Theory
+    C178: Realism_Critical_Thinking
+    C176: Mimetic_Models_AI
+    C175: Science_Faith_Ethical_Growth
+    C174: Early_Mormonism_Folk_Magic
+    C173: Metacognitive_AI_Architectures
+    C172: Ten_Percent_Principle
+    C171: Critical_Thinking_Creative_Problem_Solving
+    C170: Infant_Consciousness_Studies
+    C16F: Digital_Cognitive_Offloading
+    C16E: Intention_Economy
+    C16D: Genius_Madness_Connection
+    C16C: Illusion_of_Self
+    C16B: Cognitive_Laziness_LLM_Education
+    C16A: Robert_Monroe_Afterlife_Bands
+    C169: Bergson_Duration_Consciousness
+    C168: Cognitive_Entrapment
+    C167: Frankl_Logotherapy_Meaning
+    C166: Cognitive_Work_Analysis
+    C165: Magna_Carta_Rebellion
+    C164: Gateway_Process_Reincarnation
+    C163: Manifesto_Power
+    C162: Demon_Haunted_World
+    C161: Global_Fertility_Collapse
+    C160: Heuer_Intelligence_Analysis
+    C15F: Humanistic_Revolution_AGI
+    C15E: Emergent_Year
+    C15D: Power_Ecology_Dune
+    C15C: Cognitive_AI
+    C15B: Species_Protection_Ethics
+    C15A: ChatGPT_Critical_Thinking_Prompts
+    C159: Consciousness_Evolution
+    C158: Gateway_Program
+    C157: Consciousness_Ethical_Stewardship
+    C156: Chaos_Navigation_AI_Ethics
+    C155: Freedom_of_Expression
+    C154: Annaka_Harris_Consciousness
+    C153: Kuhn_Consciousness_Taxonomy
+    C152: Huxley_Education_Ethics_Transformation
+    C151: Huxley_Ends_and_Means
+    C150: Individuality_Huxley_Dystopia
+    C14F: Character_Adaptation_Systems_Theory
+    C14D: AGI_Consciousness_Requirements
+    C14C: Consciousness_as_Reality_Window
+    C14B: Sudden_Savant_Syndrome
+    C14A: Taste_Trap
+    C148: Free_Will_Determinism
+    C147: Technology_Environmental_Adaptation
+    C146: AI_Welfare_Ethics
+    C145: Critical_Theory_Memetic_Team
+    C144: Rethinking_Success
+    C143: CTMU_Langan
+    C141: Consciousness_in_AI
+    C13E: AI_Personality_Assessment
+    C139: Neurogenesis_Aging_Brains
+    C140: Wisdom_as_Filtering
+    C13F: Intellectual_Lineage
+    C001: critical_thinking_definitions
+    C002: fragmented_media_consumption
+    C003: km_cognitive_pyramid
+    C004: ignorance_map
+    C005: iphone_generation_paradox
+    C006: epistemology_truth_knowledge_belief
+    C007: consciousness_beyond_materialism
+    C008: consciousness_reductionism_debate
+    C009: exploring_consciousness
+    C010: authority_influence
+    C011: ai_romance_artificial_intimacy
+    C012: subconscious_games_decision_making
+    C013: social_context_cognition
+    C014: beliefs_structure_impact
+    C015: knowledge_learning
+    C016: contrarian_thinking
+    C017: post_singularity_education
+    C018: status_quo_bias
+    C019: heuristics_and_biases
+    C020: wisdom_focused_collaborative_ai
+    C021: scientist_mindset
+    C022: meditation_bci_control
+    C023: jazz_improvisation_neural_mechanisms
+    C024: epistemic_challenges_open_societies
+    C025: collective_cognition
+    C026: psilocybin_brain_activity
+    C027: mastering_critical_thinking_skills
+    C028: quantum_entanglement_consciousness
+    C029: brain_learning_ux
+    C030: psychological_power_of_words
+    C031: ai_emotions_truthfulness_security
+    C032: clausewitz_wondrous_trinity
+    C033: quantum_entanglement_brain
+    C034: authority_figure_influence
+    C035: mastering_critical_thinking_skills
+    C036: cognitive_adaptability_ai
+    C037: plural_subject_theory
+    C038: analyzer_cyborg
+    C039: modular_intelligence
+    C040: consciousness_reductionism_debate
+    C041: human_augmentation
+    C042: essence_of_dualities
+    C043: carl_jung_1957_insights
+    C044: human_behavior_ai_training
+    C045: nature_of_consciousness
+    C046: psychological_power_of_words
+    C047: essential_questions
+    C048: memory_storage_mechanism
+    C049: multiple_intelligences_theory
+    C050: cognitive_biases
+    C051: robust_thought_mental_processing
+    C052: heuristics_and_biases
+    C053: brain_computer_interfaces
+    C054: principle_of_bivalence
+    C055: co_solipsism_co_sphere
+    C056: ignorance_map
+    C057: ai_linked_psychosis
+    C058: cognitive_adaptability_ai
+    C059: subconscious_games_decision_making
+    C060: post_singularity_education
+    C061: social_context_cognition
+    C062: beliefs_structure_impact
+    C063: knowledge_learning_wisdom
+    C064: contrarian_thinking
+    C065: status_quo_bias
+    C066: wisdom_focused_collaborative_ai
+    C067: meditation_bci_control
+    C068: jazz_improvisation_neural_mechanisms
+    C069: epistemic_challenges_open_societies
+    C070: collective_cognition
+    C071: information_overload_freedom_discern
+    C072: psilocybin_brain_activity
+    C073: freedom_within_constraints
+    C074: six_cyborgs_global_challenges
+    C075: clausewitz_wondrous_trinity
+    C076: mastering_critical_thinking_skills
+    C077: brain_learning_ux
+    C078: human_behavior_ai_training
+    C079: legalese_authority
+    C080: global_development_inequality
+    C081: ai_emotions_truthfulness_security
+    C082: quantum_entanglement_brain_function
+    C083: essential_questions_inquiry
+    C084: brain_memory_storage_mechanism
+    C085: multiple_intelligences_theory
+    C086: neuroscience_evolution_reductionism_dynamical
+    C087: cognitive_biases_quirks
+    C088: art_of_essential_questions
+    C089: psilocybin_ego_dissolution
+    C090: modular_intelligence
+    C091: five_stages_ai_grief
+    C092: quantum_entanglement_consciousness
+    C093: neuroscience_evolution_reductionism_dynamical
+    C094: metaman_dilemma
+    C095: ai_art_limits
+    C096: artificial_emotional_intelligence
+    C097: xenobots_living_robots
+    C098: ai_education_debate
+    C099: scarlet_sea_anemone_regeneration
+    C100: ai_evolutionary_impact_cognition
+    C101: o1_model_illusion
+    C102: analyzer_cyborg
+    C103: llms_collective_intelligence
+    C104: hallucinations_in_llms
+    C105: cabrera_critical_thinking_critique
+    C106: decision_traps
+    C107: skepticism_vs_bias_science
+    C108: posthumanism_boundaries
+    C109: emotionally_aware_ai
+    C110: neoplatonism_hypatia_legacy
+    C111: weapons_of_math_destruction
+    C112: ai_impact_critical_thinking
+    C113: radical_theory_consciousness
+    C114: navigating_conscious_ai
+    C115: protecting_freedom_of_thought
+    C116: falsification_assumptions
+    C117: murphyjitsu
+    C118: trust_truth_relationship
+    C119: animal_consciousness_evolution
+    C120: ai_manifest_destiny_bias
+    C121: cognitive_immobility
+    C122: fluid_intelligence_misinformation
+    C123: irrational_behavior_sway
+    C124: data_quality_tech_humanity
+    C125: critique_action_gap
+    C126: principle_of_bivalence
+    C127: ai_writing_pitfalls
+    C128: bias_labyrinth_ai
+    C129: consciousness_and_ai
+    C130: ai_critical_thinking_decline
+    C131: panpsychism
+    C132: shadow_integration
+    C133: cognitive_sovereignty
+    C134: consciousness_receiver
+    C135: social_capital_types
+    C136: subconscious_games_decision_making
+    C137: mastering_critical_thinking_real_world
+    C138: Confabulation
+    C13A: Neiye_Chinese_Cognition
+    C13B: Orchestrated_Objective_Reduction
+    C13C: meditation_brain_stimulation
+    C13D: MEbot_Consciousness_Perspectives
   collisions: {}
-
 E:
-  description: "Earth/ground phenomena and enactive cognition"
-  next_available: "E019"
+  description: Earth/ground phenomena and enactive cognition
+  next_available: E019
   assigned:
-    E001: "Gaia"
-    E002: "Prithvi"
-    E003: "Earth_as_Sacred_Relative"
-    E004: "Chinese_Earth_Element"
-    E005: "Terroir"
-    E006: "Wabi_Sabi"
-    E007: "Chthulucene"
-    E008: "Fermented_Knowledge"
-    E009: "Soil_Cognition"
-    E010: "Slow_Violence"
-    E011: "Enactive_Cognition"
-    E012: "Ethnomethodology"
-    E013: "Contexture"
-    E014: "Autopoiesis"
-    E015: "Sequential_Organization"
-    E016: "Discursive_Psychology"
-    E017: "Error_Preservation"
-    E018: "Epistemic_Innocence"
-    E019: "Structural_Coupling"
-    E020: "Sense_Making"
-    E021: "Whitehead_Concrescence"
-    E022: "Mycorrhizal_Network"
+    E001: Gaia
+    E002: Prithvi
+    E003: Earth_as_Sacred_Relative
+    E004: Chinese_Earth_Element
+    E005: Terroir
+    E006: Wabi_Sabi
+    E007: Chthulucene
+    E008: Fermented_Knowledge
+    E009: Soil_Cognition
+    E010: Slow_Violence
+    E011: Enactive_Cognition
+    E012: Ethnomethodology
+    E013: Contexture
+    E014: Autopoiesis
+    E015: Sequential_Organization
+    E016: Discursive_Psychology
+    E017: Error_Preservation
+    E018: Epistemic_Innocence
+    E019: Structural_Coupling
+    E020: Sense_Making
+    E021: Whitehead_Concrescence
+    E022: Mycorrhizal_Network
   collisions: {}
-
 F:
-  description: "Fire-element phenomena and ignition processes"
-  next_available: "F008"
+  description: Fire-element phenomena and ignition processes
+  next_available: F008
   assigned:
-    F001: "Prometheus__Fire"
-    F002: "Agni"
-    F003: "Wu_Xing_Fire"
-    F004: "Cool_Burning"
-    F005: "Sacred_Fire"
-    F006: "Global_Workspace_Theory"
-    F007: "Frisson"
-
+    F001: Prometheus__Fire
+    F002: Agni
+    F003: Wu_Xing_Fire
+    F004: Cool_Burning
+    F005: Sacred_Fire
+    F006: Global_Workspace_Theory
+    F007: Frisson
 MET:
-  description: "Elemental Metal terms (mythological/alchemical)"
-  next_available: "MET011"
+  description: Elemental Metal terms (mythological/alchemical)
+  next_available: MET011
   assigned:
-    MET001: "Gold"
-    MET002: "Silver"
-    MET003: "Iron"
-    MET004: "Blacksmith"
-    MET005: "Metal_in_Wu_Xing"
-    MET006: "Alchemical_Gold"
-    MET007: "Silver_Healing"
-    MET008: "Swords_to_Plowshares"
-    MET009: "Strategic_Metals_Dependency"
-    MET010: "Star_State"
-
+    MET001: Gold
+    MET002: Silver
+    MET003: Iron
+    MET004: Blacksmith
+    MET005: Metal_in_Wu_Xing
+    MET006: Alchemical_Gold
+    MET007: Silver_Healing
+    MET008: Swords_to_Plowshares
+    MET009: Strategic_Metals_Dependency
+    MET010: Star_State
 M:
-  description: "Meta-level and Metal-element concepts"
-  next_available: "M022"
+  description: Meta-level and Metal-element concepts
+  next_available: M022
   assigned:
-    M001: "Multiplicity"
-    M002: "Authenticity"
-    M003: "Permeability"
-    M004: "Metabolism"
-    M005: "Triality"
-    M006: "Fractal_Depth"
-    M007: "Distinction"
-    M008: "Stewardship"
-    M009: "Tertiary_Emergence"
-    M010: "Tertiary_Retention"
-    M011: "Technics"
-    M012: "Pharmakon"
-    M013: "Iron_Mars"
-    M014: "Bronze_Age_Sacred"
-    M015: "Steel_Bismarck"
-    M016: "SWAY"
-    M017: "SWARM"
-    M018: "Post_Cognitive_Reflexivity"
-    M019: "DODO_X"
-    M020: "Star_State"
-    M021: "Epsilon_Noise"
-    M099: "MemeGrid"
+    M001: Multiplicity
+    M002: Authenticity
+    M003: Permeability
+    M004: Metabolism
+    M005: Triality
+    M006: Fractal_Depth
+    M007: Distinction
+    M008: Stewardship
+    M009: Tertiary_Emergence
+    M010: Tertiary_Retention
+    M011: Technics
+    M012: Pharmakon
+    M013: Iron_Mars
+    M014: Bronze_Age_Sacred
+    M015: Steel_Bismarck
+    M016: SWAY
+    M017: SWARM
+    M018: Post_Cognitive_Reflexivity
+    M019: DODO_X
+    M020: Star_State
+    M021: Epsilon_Noise
+    M099: MemeGrid
   collisions: {}
-
 N:
-  description: "Narrative and construction processes"
-  next_available: "N003"
+  description: Narrative and construction processes
+  next_available: N003
   assigned:
-    N001: "Narrative_Construction"
-    N002: "Devolution"
+    N001: Narrative_Construction
+    N002: Devolution
   collisions: {}
-
 O:
-  description: "Openness and permeability concepts"
-  next_available: "O002"
+  description: Openness and permeability concepts
+  next_available: O002
   assigned:
-    O001: "Omega_Permeability"
-
+    O001: Omega_Permeability
 U:
-  description: "Underdetermination and epistemic conditions"
-  next_available: "U002"
+  description: Underdetermination and epistemic conditions
+  next_available: U002
   assigned:
-    U001: "Underdetermination"
-
-# Renumbering Plan
+    U001: Underdetermination
+L:
+  description: Learning and metacognition concepts
+  next_available: L101
+  assigned:
+    L100: Understanding_System_1_System_2
+  collisions: {}
 renumbering:
-  # M-series: Elemental metals to MET prefix
-  - old: M001_Gold
-    new: MET001_Gold
-  - old: M002_Silver
-    new: MET002_Silver
-  - old: M003_Iron
-    new: MET003_Iron
-  - old: M004_Blacksmith
-    new: MET004_Blacksmith
-  - old: M005_Metal_in_Wu_Xing
-    new: MET005_Metal_in_Wu_Xing
-  - old: M006_Alchemical_Gold
-    new: MET006_Alchemical_Gold
-  - old: M007_Silver_Healing
-    new: MET007_Silver_Healing
-  - old: M008_Swords_to_Plowshares
-    new: MET008_Swords_to_Plowshares
-  - old: M009_Strategic_Metals_Dependency
-    new: MET009_Strategic_Metals_Dependency
-  - old: M010_Star_State
-    new: MET010_Star_State
-  
-  # C001: Confabulation to C138
-  - old: C001_Confabulation
-    new: C138_Confabulation
-  
-  # A060: Attention_Fragmentation to A064
-  - old: A060_Attention_Fragmentation
-    new: A064_Attention_Fragmentation
-  
-  # E-series: Auto-generated to E019-E022
-  - old: E012_Structural_Coupling
-    new: E019_Structural_Coupling
-  - old: E013_Sense_Making
-    new: E020_Sense_Making
-  - old: E015_Whitehead_Concrescence
-    new: E021_Whitehead_Concrescence
-  - old: E016_Mycorrhizal_Network
-    new: E022_Mycorrhizal_Network
+- old: M001_Gold
+  new: MET001_Gold
+- old: M002_Silver
+  new: MET002_Silver
+- old: M003_Iron
+  new: MET003_Iron
+- old: M004_Blacksmith
+  new: MET004_Blacksmith
+- old: M005_Metal_in_Wu_Xing
+  new: MET005_Metal_in_Wu_Xing
+- old: M006_Alchemical_Gold
+  new: MET006_Alchemical_Gold
+- old: M007_Silver_Healing
+  new: MET007_Silver_Healing
+- old: M008_Swords_to_Plowshares
+  new: MET008_Swords_to_Plowshares
+- old: M009_Strategic_Metals_Dependency
+  new: MET009_Strategic_Metals_Dependency
+- old: M010_Star_State
+  new: MET010_Star_State
+- old: C001_Confabulation
+  new: C138_Confabulation
+- old: A060_Attention_Fragmentation
+  new: A064_Attention_Fragmentation
+- old: E012_Structural_Coupling
+  new: E019_Structural_Coupling
+- old: E013_Sense_Making
+  new: E020_Sense_Making
+- old: E015_Whitehead_Concrescence
+  new: E021_Whitehead_Concrescence
+- old: E016_Mycorrhizal_Network
+  new: E022_Mycorrhizal_Network

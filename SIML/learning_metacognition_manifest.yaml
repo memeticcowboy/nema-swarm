@@ -1,0 +1,21 @@
+manifest_version: '1.0'
+last_updated: '2026-03-11T05:04:08.428996'
+source_directory: /tmp/nema-swarm/SWARM_BASE/Sensemaking & Epistemics/
+total_files: 628
+processed_count: 1
+remaining_count: 627
+queue: []
+processed:
+- index: 1
+  source_file: 1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md
+  hex_tag: L100
+  term_name: Understanding_System_1_System_2
+  processed_at: '2026-03-11T05:04:08.428983'
+  siml_path: /tmp/nema-swarm/SIML/terms/L100_Understanding_System_1_System_2
+next_index: 2
+series: L
+hex_prefix: L
+next_available: L101
+log:
+- '[2026-03-11T05:04:08.428994] Processed 1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md
+  as L100'
