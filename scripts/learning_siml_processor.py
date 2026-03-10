@@ -69,10 +69,13 @@ def save_hex_registry(registry):
     with open(HEX_REGISTRY_PATH, 'w') as f:
         yaml.dump(registry, f, default_flow_style=False, sort_keys=False)
 
-def get_next_hex_tag(series='L'):
+def get_next_hex_tag(series='L', manifest=None):
     """Get next available hex tag for L series, with gap-filling support"""
     registry = load_hex_registry()
-    manifest = load_manifest()
+    
+    # Use provided manifest or load fresh
+    if manifest is None:
+        manifest = load_manifest()
     
     # Check if we're in gap-filling mode
     if manifest.get('gap_filling_mode', False):
@@ -90,7 +93,7 @@ def get_next_hex_tag(series='L'):
                 manifest['next_available'] = 'L106'
             
             save_manifest(manifest)
-            return next_tag, registry
+            return next_tag, registry, manifest
     
     # Normal mode: use next_available from registry
     if series not in registry:
@@ -102,21 +105,21 @@ def get_next_hex_tag(series='L'):
         }
     
     next_tag = registry[series].get('next_available', f'{series}106')
-    return next_tag, registry
+    return next_tag, registry, manifest
 
 def claim_hex_tag(tag, term_name, registry):
     """Claim a hex tag"""
     series = tag[0]
-    manifest = load_manifest()
     
     if 'assigned' not in registry[series]:
         registry[series]['assigned'] = {}
     
     registry[series]['assigned'][tag] = term_name.replace(' ', '_')
     
-    # Only advance next_available if NOT in gap-filling mode
+    # Note: next_available is managed in get_next_hex_tag for gap-filling mode
+    # Only update registry next_available if not in gap-filling
+    manifest = load_manifest()
     if not manifest.get('gap_filling_mode', False):
-        # Calculate next
         num = int(re.search(r'(\d+)$', tag).group(1))
         registry[series]['next_available'] = f"{series}{num + 1:03d}"
     
@@ -353,8 +356,8 @@ def process_next_file():
     if not term_name:
         term_name = f"learning_concept_{manifest['next_index']}"
     
-    # Get hex tag
-    hex_tag, registry = get_next_hex_tag('L')
+    # Get hex tag (manifest is updated inside get_next_hex_tag for gap-filling)
+    hex_tag, registry, manifest = get_next_hex_tag('L', manifest)
     log_message(f"Allocating hex tag: {hex_tag}")
     
     # Create SIML entry

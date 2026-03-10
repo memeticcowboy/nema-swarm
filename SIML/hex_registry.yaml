@@ -390,7 +390,7 @@ U:
     U001: Underdetermination
 L:
   description: Learning and metacognition concepts
-  next_available: L088
+  next_available: L097
   assigned:
     L001: Jigsaw
     L002: Meta_Jigsaw
@@ -482,7 +482,15 @@ L:
     L103: Spaced_Repetition
     L104: Memory_Reconsolidation_Machine_Unlearning
     L105: Memory_Pruning_Revisiting
-    L088: Spaced_Repetition
+    L088: AIPersonalized_Math_Tutoring
+    L089: Memory_Reconsolidation_Machine_Unlearning
+    L090: Memory_Pruning_Revisiting
+    L091: Thermodynamic_Learning_Efficiency
+    L092: Kolbs_Learning_Styles_Blooms
+    L093: Educational_Game_Design_Principles
+    L094: Neuroplasticity_BrainComputer_Interfaces
+    L095: Direct_Brain_SkillWriting_via
+    L096: AIPersonalized_Math_Tutoring
   collisions: {}
 renumbering:
 - old: M001_Gold
