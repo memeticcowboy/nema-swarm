@@ -390,14 +390,99 @@ U:
     U001: Underdetermination
 L:
   description: Learning and metacognition concepts
-  next_available: L106
+  next_available: L088
   assigned:
+    L001: Jigsaw
+    L002: Meta_Jigsaw
+    L003: Informativeness_Divergence
+    L004: Transformative_Learning
+    L005: Living_Curriculum
+    L006: CAMIL_XR
+    L007: CAMIL_Theory
+    L008: Media_Method
+    L009: CAMIL_Full
+    L010: CAMIL_Complete
+    L011: Cognitive_Load_Theory
+    L012: Four_E_Cognition
+    L013: Social_Learning_Theory
+    L014: Situated_Learning
+    L015: Self_Determination_Theory
+    L016: Transformative_Learning_Theory
+    L017: Constructionism
+    L018: Experiential_Learning
+    L019: Spaced_Repetition
+    L020: Flow_Theory
+    L021: Behaviorism
+    L022: Sociocultural_Theory
+    L023: Connectivism
+    L024: Andragogy
+    L025: Heutagogy
+    L026: Problem_Based_Learning
+    L027: Scaffolding_Theory
+    L028: Cognitive_Apprenticeship
+    L029: Blooms_Taxonomy
+    L030: Metacognition
+    L031: Elaboration_Theory
+    L032: Multimedia_Learning_Theory
+    L033: Cognitive_Flexibility_Theory
+    L034: Discovery_Learning
+    L035: Inquiry_Based_Learning
+    L036: Action_Learning
+    L037: Double_Loop_Learning
+    L038: Mastery_Learning
+    L039: Activity_Theory
+    L040: Multiple_Intelligences
+    L041: Schema_Theory
+    L042: Generative_Learning_Theory
+    L043: Zone_Proximal_Development
+    L044: Attribution_Theory
+    L045: Expectancy_Value_Theory
+    L046: Goal_Setting_Theory
+    L047: Self_Regulated_Learning
+    L048: Reciprocal_Teaching
+    L049: Cognitive_Development_Theory
+    L050: Script_Theory
+    L051: Subsumption_Theory
+    L052: Concept_Mapping
+    L054: First_Principles_Instruction
+    L055: Learning_Styles_Theory
+    L057: Mental_Models_Theory
+    L058: Pedagogical_Content_Knowledge
+    L060: Diffusion_Of_Innovation
+    L061: Learning_Transfer_Theory
+    L062: Cognitive_Evaluation_Theory
+    L063: ARCS_Model
+    L064: Information_Processing_Theory
+    L065: Conditions_Of_Learning
+    L066: Operant_Conditioning
+    L067: Insight_Learning_Theory
+    L068: Classical_Conditioning
+    L069: Humanistic_Learning_Theory
+    L070: Gestalt_Learning_Theory
+    L072: Dewey_Pragmatism_Progressive_Education
+    L073: Gamified_Learning
+    L074: Universal_Design_Learning
+    L075: Multiliteracies_Pedagogy
+    L076: Meaningful_Learning_Theory
+    L077: Integrated_Learning_Framework
+    L078: Embodied_Cognition
+    L079: Rhizomatic_Learning
+    L080: Adaptive_Learning
+    L081: Montessori_Method
+    L083: Communities_Of_Practice
+    L084: Reggio_Emilia_Approach
+    L085: Waldorf_Education
+    L087: Genetic_Epistemology
+    L097: Critical_Pedagogy
+    L098: Reflective_Practice
+    L099: Peer_Instruction
     L100: Understanding_System_1_System_2
-    L101: learning_concept_2
+    L101: Learning_Concept_2
     L102: Embedding_Intentions_into_Subconscious_Brain
     L103: Spaced_Repetition
     L104: Memory_Reconsolidation_Machine_Unlearning
     L105: Memory_Pruning_Revisiting
+    L088: Spaced_Repetition
   collisions: {}
 renumbering:
 - old: M001_Gold

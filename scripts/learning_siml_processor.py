@@ -70,32 +70,55 @@ def save_hex_registry(registry):
         yaml.dump(registry, f, default_flow_style=False, sort_keys=False)
 
 def get_next_hex_tag(series='L'):
-    """Get next available hex tag for L series"""
+    """Get next available hex tag for L series, with gap-filling support"""
     registry = load_hex_registry()
+    manifest = load_manifest()
     
+    # Check if we're in gap-filling mode
+    if manifest.get('gap_filling_mode', False):
+        gap_range = manifest.get('gap_range', [])
+        gap_index = manifest.get('gap_index', 0)
+        
+        if gap_index < len(gap_range):
+            # Return next gap tag
+            next_tag = gap_range[gap_index]
+            manifest['gap_index'] = gap_index + 1
+            
+            # If we've filled all gaps, disable gap-filling mode
+            if manifest['gap_index'] >= len(gap_range):
+                manifest['gap_filling_mode'] = False
+                manifest['next_available'] = 'L106'
+            
+            save_manifest(manifest)
+            return next_tag, registry
+    
+    # Normal mode: use next_available from registry
     if series not in registry:
         registry[series] = {
             'description': 'Learning and metacognition concepts',
-            'next_available': f'{series}100',
+            'next_available': f'{series}106',
             'assigned': {},
             'collisions': {}
         }
     
-    next_tag = registry[series].get('next_available', f'{series}100')
+    next_tag = registry[series].get('next_available', f'{series}106')
     return next_tag, registry
 
 def claim_hex_tag(tag, term_name, registry):
     """Claim a hex tag"""
     series = tag[0]
+    manifest = load_manifest()
     
     if 'assigned' not in registry[series]:
         registry[series]['assigned'] = {}
     
     registry[series]['assigned'][tag] = term_name.replace(' ', '_')
     
-    # Calculate next
-    num = int(re.search(r'(\d+)$', tag).group(1))
-    registry[series]['next_available'] = f"{series}{num + 1:03d}"
+    # Only advance next_available if NOT in gap-filling mode
+    if not manifest.get('gap_filling_mode', False):
+        # Calculate next
+        num = int(re.search(r'(\d+)$', tag).group(1))
+        registry[series]['next_available'] = f"{series}{num + 1:03d}"
     
     save_hex_registry(registry)
     return True
