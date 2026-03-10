@@ -390,9 +390,14 @@ U:
     U001: Underdetermination
 L:
   description: Learning and metacognition concepts
-  next_available: L101
+  next_available: L106
   assigned:
     L100: Understanding_System_1_System_2
+    L101: learning_concept_2
+    L102: Embedding_Intentions_into_Subconscious_Brain
+    L103: Spaced_Repetition
+    L104: Memory_Reconsolidation_Machine_Unlearning
+    L105: Memory_Pruning_Revisiting
   collisions: {}
 renumbering:
 - old: M001_Gold

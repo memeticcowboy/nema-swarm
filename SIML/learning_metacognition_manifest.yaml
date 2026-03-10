@@ -1,9 +1,9 @@
 manifest_version: '1.0'
-last_updated: '2026-03-11T05:55:47.045585'
+last_updated: '2026-03-11T06:09:14.530768'
 source_directory: /tmp/Memetic_Ecology/Learning & Metacognition
 total_files: 35
-processed_count: 1
-remaining_count: 34
+processed_count: 3
+remaining_count: 32
 queue: []
 processed:
 - index: 1
@@ -12,10 +12,22 @@ processed:
   term_name: Spaced_Repetition
   processed_at: '2026-03-11T05:55:47.045572'
   siml_path: /tmp/nema-swarm/SIML/terms/L103_Spaced_Repetition
-next_index: 2
+- index: 2
+  source_file: 10 - Memory Reconsolidation and Machine Unlearning.md
+  hex_tag: L104
+  term_name: Memory_Reconsolidation_Machine_Unlearning
+  processed_at: '2026-03-11T05:59:50.384773'
+  siml_path: /tmp/nema-swarm/SIML/terms/L104_Memory_Reconsolidation_Machine_Unlearning
+- index: 3
+  source_file: 11 - Memory Pruning and Revisiting.md
+  hex_tag: L105
+  term_name: Memory_Pruning_Revisiting
+  processed_at: '2026-03-11T06:09:14.530755'
+  siml_path: /tmp/nema-swarm/SIML/terms/L105_Memory_Pruning_Revisiting
+next_index: 4
 series: L
 hex_prefix: L
-next_available: L104
+next_available: L106
 log:
 - '[2026-03-11T00:00:00+08:00] Manifest initialized for correct source: Memetic_Ecology/Learning
   & Metacognition'
@@ -23,3 +35,7 @@ log:
   source (Sensemaking & Epistemics)'
 - '[2026-03-11T00:00:00+08:00] Starting fresh with 35 files from correct source'
 - '[2026-03-11T05:55:47.045582] Processed 1 - Spaced Repetition.md as L103'
+- '[2026-03-11T05:59:50.384786] Processed 10 - Memory Reconsolidation and Machine
+  Unlearning.md as L104'
+- '[2026-03-11T06:09:14.530766] Processed 11 - Memory Pruning and Revisiting.md as
+  L105'
