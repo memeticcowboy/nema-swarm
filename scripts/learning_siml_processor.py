@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Learning & Metacognition SIML Processor
-Processes files from Sensemaking & Epistemics into SIML entries
+Processes files from Memetic_Ecology/Learning & Metacognition into SIML entries
 Runs every 10 minutes via cron
 """
 
