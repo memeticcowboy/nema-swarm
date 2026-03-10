@@ -1,47 +1,167 @@
-# Learning & Metacognition Processing Manifest
-# Tracks files from Memetic_Ecology/Learning & Metacognition being processed into SIML
-# Created: 2026-03-11
-# Source: /tmp/Memetic_Ecology/Learning & Metacognition/
-
-manifest_version: "1.0"
-last_updated: "2026-03-11T07:45:00+08:00"
-
-source_directory: "/tmp/Memetic_Ecology/Learning & Metacognition"
+manifest_version: '1.0'
+last_updated: '2026-03-11T07:51:12.088147'
+source_directory: /tmp/Memetic_Ecology/Learning & Metacognition
 total_files: 35
-processed_count: 9
-remaining_count: 26
-
-# Gap-filling mode: Fill L088-L096 first, then continue from L106
-# Note: L019 already exists as canonical Spaced Repetition entry
-# L088 was removed (duplicate of superior L019)
-# Starting from L089
-gap_filling_mode: true
-gap_range: [L089, L090, L091, L092, L093, L094, L095, L096]
-gap_index: 0
-
-# Processing queue - ordered list of files to process
+processed_count: 21
+remaining_count: 4
+gap_filling_mode: false
+next_available: L109
 queue: []
-
-# Processed entries
 processed:
 - index: 1
-  source_file: "1 - Spaced Repetition.md"
+  source_file: 1 - Spaced Repetition.md
   hex_tag: L019
   term_name: Spaced_Repetition
   processed_at: '2026-02-27T09:52:00+08:00'
   siml_path: /tmp/nema-swarm/SIML/terms/L019_Spaced_Repetition
-  note: "Canonical entry already exists (superior to auto-generated L088)"
-
-# Current position
-next_index: 2
-
-# Series configuration
-series: "L"
-hex_prefix: "L"
-next_available: "L089"
-
-# Processing log
+  note: Canonical entry already exists (superior to auto-generated L088)
+- index: 2
+  source_file: 10 - Memory Reconsolidation and Machine Unlearning.md
+  hex_tag: L089
+  term_name: Memory_Reconsolidation_Machine_Unlearning
+  processed_at: '2026-03-11T07:41:41+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L089_Memory_Reconsolidation_Machine_Unlearning
+- index: 3
+  source_file: 11 - Memory Pruning and Revisiting.md
+  hex_tag: L090
+  term_name: Memory_Pruning_Revisiting
+  processed_at: '2026-03-11T07:41:51+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L090_Memory_Pruning_Revisiting
+- index: 4
+  source_file: 12 - Thermodynamic Learning Efficiency.md
+  hex_tag: L091
+  term_name: Thermodynamic_Learning_Efficiency
+  processed_at: '2026-03-11T07:41:52+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L091_Thermodynamic_Learning_Efficiency
+- index: 5
+  source_file: 13 - Kolb's Learning Styles and Bloom's Taxonomy.md
+  hex_tag: L092
+  term_name: Kolbs_Learning_Styles_Blooms
+  processed_at: '2026-03-11T07:41:53+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L092_Kolbs_Learning_Styles_Blooms
+- index: 6
+  source_file: 14 - Educational Game Design Principles.md
+  hex_tag: L093
+  term_name: Educational_Game_Design_Principles
+  processed_at: '2026-03-11T07:41:54+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L093_Educational_Game_Design_Principles
+- index: 7
+  source_file: 15 - Neuroplasticity and Brain-Computer Interfaces.md
+  hex_tag: L094
+  term_name: Neuroplasticity_BrainComputer_Interfaces
+  processed_at: '2026-03-11T07:41:55+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L094_Neuroplasticity_BrainComputer_Interfaces
+- index: 8
+  source_file: 16 - Direct Brain Skill-Writing via fMRI.md
+  hex_tag: L095
+  term_name: Direct_Brain_SkillWriting_via
+  processed_at: '2026-03-11T07:41:56+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L095_Direct_Brain_SkillWriting_via
+- index: 9
+  source_file: 17 - AI-Personalized Math Tutoring.md
+  hex_tag: L096
+  term_name: AIPersonalized_Math_Tutoring
+  processed_at: '2026-03-11T07:41:56+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L096_AIPersonalized_Math_Tutoring
+- index: 10
+  source_file: 18 - Curiosity-Driven Cognitive Growth.md
+  hex_tag: L097
+  term_name: CuriosityDriven_Cognitive_Growth
+  processed_at: '2026-03-11T07:50:46.437582'
+  siml_path: /tmp/nema-swarm/SIML/terms/L097_CuriosityDriven_Cognitive_Growth
+- index: 11
+  source_file: 19 - Handwriting vs Typing for Early Reading.md
+  hex_tag: L098
+  term_name: Handwriting_vs_Typing_Early
+  processed_at: '2026-03-11T07:50:47.408019'
+  siml_path: /tmp/nema-swarm/SIML/terms/L098_Handwriting_vs_Typing_Early
+- index: 12
+  source_file: 20 - Five Activities for Cognitive Enhancement.md
+  hex_tag: L099
+  term_name: Five_Activities_Cognitive_Enhancement
+  processed_at: '2026-03-11T07:50:48.344005'
+  siml_path: /tmp/nema-swarm/SIML/terms/L099_Five_Activities_Cognitive_Enhancement
+- index: 13
+  source_file: 21 - Lifestyle Factors and Metacognition.md
+  hex_tag: L100
+  term_name: Lifestyle_Factors_Metacognition
+  processed_at: '2026-03-11T07:50:49.247248'
+  siml_path: /tmp/nema-swarm/SIML/terms/L100_Lifestyle_Factors_Metacognition
+- index: 14
+  source_file: 22 - Brain Productivity Optimization.md
+  hex_tag: L101
+  term_name: Brain_Productivity_Optimization
+  processed_at: '2026-03-11T07:50:50.216000'
+  siml_path: /tmp/nema-swarm/SIML/terms/L101_Brain_Productivity_Optimization
+- index: 15
+  source_file: 23 - Intellectual Overexcitability.md
+  hex_tag: L102
+  term_name: Intellectual_Overexcitability
+  processed_at: '2026-03-11T07:50:51.099900'
+  siml_path: /tmp/nema-swarm/SIML/terms/L102_Intellectual_Overexcitability
+- index: 16
+  source_file: 24 - Creativity in Gifted Children.md
+  hex_tag: L103
+  term_name: Creativity_Gifted_Children
+  processed_at: '2026-03-11T07:50:51.986814'
+  siml_path: /tmp/nema-swarm/SIML/terms/L103_Creativity_Gifted_Children
+- index: 17
+  source_file: 25 - Polymathy.md
+  hex_tag: L104
+  term_name: Polymathy
+  processed_at: '2026-03-11T07:50:52.894752'
+  siml_path: /tmp/nema-swarm/SIML/terms/L104_Polymathy
+- index: 18
+  source_file: 26 - Video Games and Child IQ.md
+  hex_tag: L105
+  term_name: Video_Games_Child_IQ
+  processed_at: '2026-03-11T07:50:53.785263'
+  siml_path: /tmp/nema-swarm/SIML/terms/L105_Video_Games_Child_IQ
+- index: 19
+  source_file: 27 - AI Agent Memory Types.md
+  hex_tag: L106
+  term_name: AI_Agent_Memory_Types
+  processed_at: '2026-03-11T07:50:54.733196'
+  siml_path: /tmp/nema-swarm/SIML/terms/L106_AI_Agent_Memory_Types
+- index: 20
+  source_file: 28 - AI Memory and Switching Costs.md
+  hex_tag: L107
+  term_name: AI_Memory_Switching_Costs
+  processed_at: '2026-03-11T07:50:55.617343'
+  siml_path: /tmp/nema-swarm/SIML/terms/L107_AI_Memory_Switching_Costs
+- index: 21
+  source_file: 29 - Writing as Scientific Process.md
+  hex_tag: L108
+  term_name: Writing_as_Scientific_Process
+  processed_at: '2026-03-11T07:51:12.088133'
+  siml_path: /tmp/nema-swarm/SIML/terms/L108_Writing_as_Scientific_Process
+next_index: 22
+series: L
+hex_prefix: L
 log:
-- "[2026-03-11T07:45:00+08:00] Removed L088 (auto-generated stub)"
-- "[2026-03-11T07:45:00+08:00] Using existing L019 as canonical Spaced Repetition"
-- "[2026-03-11T07:45:00+08:00] Gap-filling now starts at L089"
+- '[2026-03-11T07:45:00+08:00] Removed L088 (auto-generated stub)'
+- '[2026-03-11T07:45:00+08:00] Using existing L019 as canonical Spaced Repetition'
+- '[2026-03-11T07:45:00+08:00] Gap-filling now starts at L089'
+- '[2026-03-11T07:45:00+08:00] Gap-filling completed L089-L096'
+- '[2026-03-11T08:00:00+08:00] Next entries will use L106+'
+- '[2026-03-11T07:50:46.437592] Processed 18 - Curiosity-Driven Cognitive Growth.md
+  as L097'
+- '[2026-03-11T07:50:47.408029] Processed 19 - Handwriting vs Typing for Early Reading.md
+  as L098'
+- '[2026-03-11T07:50:48.344022] Processed 20 - Five Activities for Cognitive Enhancement.md
+  as L099'
+- '[2026-03-11T07:50:49.247258] Processed 21 - Lifestyle Factors and Metacognition.md
+  as L100'
+- '[2026-03-11T07:50:50.216011] Processed 22 - Brain Productivity Optimization.md
+  as L101'
+- '[2026-03-11T07:50:51.099910] Processed 23 - Intellectual Overexcitability.md as
+  L102'
+- '[2026-03-11T07:50:51.986825] Processed 24 - Creativity in Gifted Children.md as
+  L103'
+- '[2026-03-11T07:50:52.894763] Processed 25 - Polymathy.md as L104'
+- '[2026-03-11T07:50:53.785273] Processed 26 - Video Games and Child IQ.md as L105'
+- '[2026-03-11T07:50:54.733206] Processed 27 - AI Agent Memory Types.md as L106'
+- '[2026-03-11T07:50:55.617354] Processed 28 - AI Memory and Switching Costs.md as
+  L107'
+- '[2026-03-11T07:51:12.088144] Processed 29 - Writing as Scientific Process.md as
+  L108'

@@ -1,4 +1,4 @@
-# L088 — Spaced Repetition
+# L107 — AI Memory Switching Costs
 
 **Elemental Insight: Meta/Learning**
 
@@ -23,7 +23,7 @@ What does this learning/metacognition concept reveal about knowledge formation?
 
 ## NEMETIC STRING
 
-`Φ(Spaced_Repetition) = ...`
+`Φ(AI_Memory_Switching_Costs) = ...`
 
 ---
 
