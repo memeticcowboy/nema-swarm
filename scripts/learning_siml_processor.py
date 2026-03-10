@@ -16,9 +16,29 @@ from datetime import datetime
 # Configuration
 MANIFEST_PATH = "/tmp/nema-swarm/SIML/learning_metacognition_manifest.yaml"
 HEX_REGISTRY_PATH = "/tmp/nema-swarm/SIML/hex_registry.yaml"
-SOURCE_DIR = "/tmp/nema-swarm/SWARM_BASE/Sensemaking & Epistemics"
+SOURCE_DIR = "/tmp/Memetic_Ecology/Learning & Metacognition"
+SOURCE_REPO = "/tmp/Memetic_Ecology"
 SIML_TERMS_DIR = "/tmp/nema-swarm/SIML/terms"
 LOG_FILE = "/tmp/nema-swarm/SIML/learning_processing.log"
+
+def pull_latest_source():
+    """Pull latest files from Memetic_Ecology repo"""
+    try:
+        result = subprocess.run(
+            ["git", "pull", "origin", "main"],
+            cwd=SOURCE_REPO,
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0:
+            log_message("Pulled latest from Memetic_Ecology repo")
+            return True
+        else:
+            log_message(f"Git pull warning: {result.stderr}")
+            return False
+    except Exception as e:
+        log_message(f"Git pull error: {e}")
+        return False
 
 def log_message(msg):
     """Write to log file"""
@@ -276,10 +296,18 @@ What does this learning/metacognition concept reveal about knowledge formation?
 
 def process_next_file():
     """Process the next file in queue"""
+    
+    # Pull latest source first
+    pull_latest_source()
+    
     manifest = load_manifest()
     
     # Get list of files in source directory
     source_files = sorted([f for f in os.listdir(SOURCE_DIR) if f.endswith('.md')])
+    
+    # Filter out already processed files
+    processed_files = {p['source_file'] for p in manifest.get('processed', [])}
+    source_files = [f for f in source_files if f not in processed_files]
     
     if not source_files:
         log_message("No files remaining to process")
@@ -342,13 +370,8 @@ def process_next_file():
     
     save_manifest(manifest)
     
-    # Delete source file
-    try:
-        os.remove(filepath)
-        log_message(f"Deleted source file: {next_file}")
-    except Exception as e:
-        log_message(f"Warning: Could not delete source file: {e}")
-    
+    # Note: Source files are NOT deleted from Memetic_Ecology repo
+    # They are tracked as processed in the manifest
     log_message(f"Complete: {hex_tag} {term_name}")
     return True
 
