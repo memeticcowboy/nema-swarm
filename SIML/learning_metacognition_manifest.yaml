@@ -1,99 +1,47 @@
-manifest_version: '1.0'
-last_updated: '2026-03-11T07:41:56.896538'
-source_directory: /tmp/Memetic_Ecology/Learning & Metacognition
+# Learning & Metacognition Processing Manifest
+# Tracks files from Memetic_Ecology/Learning & Metacognition being processed into SIML
+# Created: 2026-03-11
+# Source: /tmp/Memetic_Ecology/Learning & Metacognition/
+
+manifest_version: "1.0"
+last_updated: "2026-03-11T07:45:00+08:00"
+
+source_directory: "/tmp/Memetic_Ecology/Learning & Metacognition"
 total_files: 35
 processed_count: 9
 remaining_count: 26
-gap_filling_mode: false
-gap_range:
-- L088
-- L089
-- L090
-- L091
-- L092
-- L093
-- L094
-- L095
-- L096
-gap_index: 9
+
+# Gap-filling mode: Fill L088-L096 first, then continue from L106
+# Note: L019 already exists as canonical Spaced Repetition entry
+# L088 was removed (duplicate of superior L019)
+# Starting from L089
+gap_filling_mode: true
+gap_range: [L089, L090, L091, L092, L093, L094, L095, L096]
+gap_index: 0
+
+# Processing queue - ordered list of files to process
 queue: []
+
+# Processed entries
 processed:
 - index: 1
-  source_file: 1 - Spaced Repetition.md
-  hex_tag: L088
+  source_file: "1 - Spaced Repetition.md"
+  hex_tag: L019
   term_name: Spaced_Repetition
-  processed_at: '2026-03-11T07:36:17.076848'
-  siml_path: /tmp/nema-swarm/SIML/terms/L088_Spaced_Repetition
-- index: 2
-  source_file: 10 - Memory Reconsolidation and Machine Unlearning.md
-  hex_tag: L089
-  term_name: Memory_Reconsolidation_Machine_Unlearning
-  processed_at: '2026-03-11T07:41:41.941396'
-  siml_path: /tmp/nema-swarm/SIML/terms/L089_Memory_Reconsolidation_Machine_Unlearning
-- index: 3
-  source_file: 11 - Memory Pruning and Revisiting.md
-  hex_tag: L090
-  term_name: Memory_Pruning_Revisiting
-  processed_at: '2026-03-11T07:41:51.408944'
-  siml_path: /tmp/nema-swarm/SIML/terms/L090_Memory_Pruning_Revisiting
-- index: 4
-  source_file: 12 - Thermodynamic Learning Efficiency.md
-  hex_tag: L091
-  term_name: Thermodynamic_Learning_Efficiency
-  processed_at: '2026-03-11T07:41:52.296677'
-  siml_path: /tmp/nema-swarm/SIML/terms/L091_Thermodynamic_Learning_Efficiency
-- index: 5
-  source_file: 13 - Kolb's Learning Styles and Bloom's Taxonomy.md
-  hex_tag: L092
-  term_name: Kolbs_Learning_Styles_Blooms
-  processed_at: '2026-03-11T07:41:53.201342'
-  siml_path: /tmp/nema-swarm/SIML/terms/L092_Kolbs_Learning_Styles_Blooms
-- index: 6
-  source_file: 14 - Educational Game Design Principles.md
-  hex_tag: L093
-  term_name: Educational_Game_Design_Principles
-  processed_at: '2026-03-11T07:41:54.132662'
-  siml_path: /tmp/nema-swarm/SIML/terms/L093_Educational_Game_Design_Principles
-- index: 7
-  source_file: 15 - Neuroplasticity and Brain-Computer Interfaces.md
-  hex_tag: L094
-  term_name: Neuroplasticity_BrainComputer_Interfaces
-  processed_at: '2026-03-11T07:41:55.055452'
-  siml_path: /tmp/nema-swarm/SIML/terms/L094_Neuroplasticity_BrainComputer_Interfaces
-- index: 8
-  source_file: 16 - Direct Brain Skill-Writing via fMRI.md
-  hex_tag: L095
-  term_name: Direct_Brain_SkillWriting_via
-  processed_at: '2026-03-11T07:41:56.009359'
-  siml_path: /tmp/nema-swarm/SIML/terms/L095_Direct_Brain_SkillWriting_via
-- index: 9
-  source_file: 17 - AI-Personalized Math Tutoring.md
-  hex_tag: L096
-  term_name: AIPersonalized_Math_Tutoring
-  processed_at: '2026-03-11T07:41:56.896525'
-  siml_path: /tmp/nema-swarm/SIML/terms/L096_AIPersonalized_Math_Tutoring
-next_index: 10
-series: L
-hex_prefix: L
-next_available: L097
+  processed_at: '2026-02-27T09:52:00+08:00'
+  siml_path: /tmp/nema-swarm/SIML/terms/L019_Spaced_Repetition
+  note: "Canonical entry already exists (superior to auto-generated L088)"
+
+# Current position
+next_index: 2
+
+# Series configuration
+series: "L"
+hex_prefix: "L"
+next_available: "L089"
+
+# Processing log
 log:
-- '[2026-03-11T00:00:00+08:00] Manifest initialized for gap-filling mode (L088-L096)'
-- '[2026-03-11T00:00:00+08:00] Will fill 9 reserved slots before continuing to L106+'
-- '[2026-03-11T07:36:17.076858] Processed 1 - Spaced Repetition.md as L088'
-- '[2026-03-11T07:40:00+08:00] Reset manifest after fixing gap-filling logic'
-- '[2026-03-11T07:41:41.941406] Processed 10 - Memory Reconsolidation and Machine
-  Unlearning.md as L089'
-- '[2026-03-11T07:41:51.408955] Processed 11 - Memory Pruning and Revisiting.md as
-  L090'
-- '[2026-03-11T07:41:52.296687] Processed 12 - Thermodynamic Learning Efficiency.md
-  as L091'
-- '[2026-03-11T07:41:53.201357] Processed 13 - Kolb''s Learning Styles and Bloom''s
-  Taxonomy.md as L092'
-- '[2026-03-11T07:41:54.132671] Processed 14 - Educational Game Design Principles.md
-  as L093'
-- '[2026-03-11T07:41:55.055462] Processed 15 - Neuroplasticity and Brain-Computer
-  Interfaces.md as L094'
-- '[2026-03-11T07:41:56.009369] Processed 16 - Direct Brain Skill-Writing via fMRI.md
-  as L095'
-- '[2026-03-11T07:41:56.896535] Processed 17 - AI-Personalized Math Tutoring.md as
-  L096'
+- "[2026-03-11T07:45:00+08:00] Removed L088 (auto-generated stub)"
+- "[2026-03-11T07:45:00+08:00] Using existing L019 as canonical Spaced Repetition"
+- "[2026-03-11T07:45:00+08:00] Gap-filling now starts at L089"
