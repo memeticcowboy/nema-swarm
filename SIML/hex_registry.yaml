@@ -358,7 +358,7 @@ MET:
 
 M:
   description: "Meta-level and Metal-element concepts"
-  next_available: "M021"
+  next_available: "M022"
   assigned:
     M001: "Multiplicity"
     M002: "Authenticity"
@@ -380,6 +380,7 @@ M:
     M018: "Post_Cognitive_Reflexivity"
     M019: "DODO_X"
     M020: "Star_State"
+    M021: "Epsilon_Noise"
     M099: "MemeGrid"
   collisions: {}
 
