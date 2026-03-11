@@ -1,11 +1,11 @@
 manifest_version: '1.0'
-last_updated: '2026-03-11T07:51:12.088147'
+last_updated: '2026-03-11T12:54:59.254742'
 source_directory: /tmp/Memetic_Ecology/Learning & Metacognition
 total_files: 35
-processed_count: 21
-remaining_count: 4
+processed_count: 25
+remaining_count: 0
 gap_filling_mode: false
-next_available: L109
+next_available: L113
 queue: []
 processed:
 - index: 1
@@ -135,7 +135,31 @@ processed:
   term_name: Writing_as_Scientific_Process
   processed_at: '2026-03-11T07:51:12.088133'
   siml_path: /tmp/nema-swarm/SIML/terms/L108_Writing_as_Scientific_Process
-next_index: 22
+- index: 22
+  source_file: 30 - Hypercognition - The Neurosparkler Concept.md
+  hex_tag: L109
+  term_name: Hypercognition__Neurosparkler_Concept
+  processed_at: '2026-03-11T12:54:56.566721'
+  siml_path: /tmp/nema-swarm/SIML/terms/L109_Hypercognition__Neurosparkler_Concept
+- index: 23
+  source_file: 31 - Hypercognition - Daily Vision Questionnaire.md
+  hex_tag: L110
+  term_name: Hypercognition__Daily_Vision
+  processed_at: '2026-03-11T12:54:57.472123'
+  siml_path: /tmp/nema-swarm/SIML/terms/L110_Hypercognition__Daily_Vision
+- index: 24
+  source_file: 32 - The Third Self.md
+  hex_tag: L111
+  term_name: Third_Self
+  processed_at: '2026-03-11T12:54:58.366842'
+  siml_path: /tmp/nema-swarm/SIML/terms/L111_Third_Self
+- index: 25
+  source_file: 33 - Reclaimed Hubris.md
+  hex_tag: L112
+  term_name: Reclaimed_Hubris
+  processed_at: '2026-03-11T12:54:59.254729'
+  siml_path: /tmp/nema-swarm/SIML/terms/L112_Reclaimed_Hubris
+next_index: 26
 series: L
 hex_prefix: L
 log:
@@ -165,3 +189,9 @@ log:
   L107'
 - '[2026-03-11T07:51:12.088144] Processed 29 - Writing as Scientific Process.md as
   L108'
+- '[2026-03-11T12:54:56.566734] Processed 30 - Hypercognition - The Neurosparkler
+  Concept.md as L109'
+- '[2026-03-11T12:54:57.472136] Processed 31 - Hypercognition - Daily Vision Questionnaire.md
+  as L110'
+- '[2026-03-11T12:54:58.366852] Processed 32 - The Third Self.md as L111'
+- '[2026-03-11T12:54:59.254739] Processed 33 - Reclaimed Hubris.md as L112'
