@@ -1,45 +1,39 @@
-# Co-SPHERE Framework — Insight
+# Insight — Co-SPHERE Framework (G019)
 
 ## Overview
 
-Co-SPHERE is defined with precision: an omega-permeable, Z-level soft coordination basin enabling shared action without coercive closure. Every term in this definition carries specific weight. Omega-permeable means the structure is revisable under dissonance -- no pattern achieves permanence. Z-level indicates operation at the depth of phase dynamics rather than surface narrative. Soft basin means a coordination attractor that holds through utility rather than obligation. Shared action without coercive closure means participants coordinate what they do without being required to converge on what they believe, who they are, or what they value.
+The Co-SPHERE framework defines a specific type of coordination structure: an omega-permeable, Z-level soft coordination basin enabling shared action without coercive closure. Its essential innovation is the strict separation of action coordination from belief alignment -- participants can coordinate what they do together without requiring agreement on why they do it. This distinguishes Co-SPHERE from structures that demand ideological unity, collective identity, or consensus as preconditions for collaboration.
 
-The retrospective assessment framework establishes rigorous invariants for distinguishing genuine Co-SPHERE from drift toward other structural forms. A valid Co-SPHERE must: coordinate action not belief or identity, operate as a soft basin not a sealed structure, remain omega-permeable (revisable under dissonance), allow plural paths to pool without fusion, and preserve exit without punishment. Critical failure modes include: describing Co-SPHERE as "shared truth," "collective identity," or "consensus field"; treating dissonance as threat rather than revision signal; treating revision as betrayal; or implying moral closure or structural inevitability.
+The framework operates through a rigorous set of invariants. A valid Co-SPHERE must coordinate action rather than belief or identity, operate as a soft basin rather than a sealed structure, remain omega-permeable (revisable under dissonance), allow plural paths to pool without fusion, and preserve exit without punishment. These invariants provide the diagnostic criteria for evaluating whether any given coordination attempt is genuinely Co-SPHERE-compatible or has drifted into MemeGrid territory -- the pathological alternative characterized by hard Z-collapse, moralized unity, and closure without exit.
 
-The framework explicitly distinguishes itself from adjacent concepts: We-Sphere (relational continuity), Threadplex (distributed gradients), Lattice (structural memory), and MemeGrid (hard Z-collapse). Material is classified as Canonical, Recoverable, Misclassified, or Pathological based on alignment with the definition lock. The absolute constraint is ecological: health over heritage. No material is preserved for sentimental or historical reasons; only what enables coordinated action without demanding belief, identity, or permanence survives.
+The retrospective assessment process provides the maintenance protocol: scanning for disqualifying signals such as Co-SPHERE being described as "shared truth" or "collective identity," dissonance framed as threat, revision treated as betrayal, or language implying inevitability or moral closure. Material that fails these tests must be reclassified, reframed, or removed. The ecology values health over heritage -- nothing is preserved for sentimental reasons. The final integrity check demands an unambiguous "yes" to: does the remaining material allow coordinated action without demanding belief, identity, or permanence?
 
 ## Elemental Analysis
 
-### Air (sigma/Aerunik) -- Coordination Distinction
-The foundational Air-element distinction: action versus belief. Co-SPHERE coordinates what participants do, not what they think. This is the most critical discernment in the entire framework because its failure -- allowing belief, identity, or value coordination to creep in -- is the mechanism by which Co-SPHERE degrades into MemeGrid. Maintaining this distinction is the primary defense against closure.
+- **Aerunik (Air/sigma)**: The foundational distinction between action coordination and belief alignment. This perceptual clarity separates Co-SPHERE from coercive social structures and provides the diagnostic lens for identifying MemeGrid drift in any coordination attempt.
 
-### Water (rho/Sentaria) -- Pooling Resonance
-Plural paths converge without merging. Water-element resonance where different motivations, frameworks, and orientations pool into shared action while retaining their distinct characters. This is not consensus (which requires belief alignment) but coordination (which requires only action alignment). The pooling metaphor captures how independent streams can flow into the same basin without becoming the same stream.
+- **Sentaria (Water/rho)**: Plural paths pooling without fusion -- diverse approaches converging toward shared action while maintaining distinct trajectories. The relational principle of shared doing without shared believing enables coordination across difference.
 
-### Fire (lambda/Jvalion) -- Dissonance Intensity
-Dissonance is reframed from threat to signal. Fire-element intensity that tests the basin's coherence and triggers revision when coordination patterns fail. In Co-SPHERE, dissonance is the mechanism of health -- the feedback loop that prevents ossification. Treating dissonance as corruption, misunderstanding, or threat is a disqualifying signal that the structure has already drifted toward MemeGrid.
+- **Jvalion (Fire/lambda)**: Pruning intensity that burns away pathological accretions. The retrospective assessment process identifies and removes material that drifts toward moralized unity, suppression of dissonance, or claims of finality that would collapse the soft basin into hard structure.
 
-### Wood (beta/Arboriel) -- Affordance Growth
-Coordination generates possibilities that did not exist before. Wood-element growth of the action space through collective engagement -- the basin produces affordances that no individual participant could access alone. This generative capacity is what makes Co-SPHERE valuable enough to participate in without coercion. Utility replaces obligation.
+- **Arboriel (Wood/beta)**: Low-frequency action affordances as the only valid growth output. When narratives are stripped, only action capabilities, phase relationships, and timing synchronizations remain -- functional branches rather than ideological foliage.
 
-### Earth (delta-gamma/Humavita) -- Basin Ground
-The soft basin provides Earth-element grounding: a coordination substrate with gravitational pull but no sealed boundaries. Participants are attracted by the basin's utility and held by the affordances it generates, but they can leave without punishment. The ground is real but not permanent -- it shifts as coordination patterns evolve and new participants arrive.
+- **Humavita (Earth/delta-gamma)**: Omega-permeability as metabolic principle. The framework remains revisable under dissonance rather than rigidifying, cycling through challenge and revision. Health is valued over heritage; material survives only through continued ecological integrity.
 
-### Metal (mu/Ferrosid) -- Omega-Permeability
-Omega-permeability is the Metal-element structural principle that distinguishes Co-SPHERE from rigid governance: all structures remain revisable under dissonance. No coordination pattern achieves permanent authority. Exit without punishment is structurally guaranteed. This is not weakness but deliberate design -- the framework's longevity depends on its willingness to be revised.
+- **Ferrosid (Metal/mu)**: The dominant element. Soft basin architecture providing structure without walls -- a topology of coordination rather than containment. Distinguished clearly from We-Sphere, Threadplex, Lattice, and MemeGrid as a specific structural type with specific properties.
 
 ## Key Tensions
 
-1. **Coordination without belief vs. implicit belief requirements** -- Any coordination framework implicitly embeds assumptions about value, priority, and method. The claim to coordinate action without belief may be aspirational rather than achievable.
+1. **Coordination vs. Coherence** — Coordinating action without shared belief risks producing incoherent or contradictory outcomes where participants pursue the same actions for incompatible reasons.
 
-2. **Soft basin vs. effective action** -- Soft coordination that preserves exit without punishment may lack the binding force necessary for sustained collective action under pressure. The basin may be too soft to hold participants when costs increase.
+2. **Openness vs. Integrity** — Omega-permeability (revisability under dissonance) must be balanced against the need for stable enough structure to enable coordination, creating tension between openness and functional consistency.
 
-3. **Omega-permeability vs. stability** -- Continuous revisability prevents ossification but may also prevent the accumulation of institutional knowledge and trust that effective coordination requires over time.
+3. **Pruning vs. Preservation** — The ruthless diagnostic assessment that removes non-compliant material risks losing valuable elements that are merely imprecisely formulated rather than genuinely pathological.
 
-4. **MemeGrid detection vs. prevention** -- The framework excels at identifying pathological drift toward closure but may struggle to prevent it in practice, since closure dynamics often operate below conscious awareness.
+4. **Soft Basin vs. MemeGrid** — The boundary between healthy coordination and pathological closure is not always clear in practice, and structures may drift gradually from Co-SPHERE to MemeGrid through incremental tightening.
 
-5. **Health over heritage vs. institutional memory** -- The absolute constraint of pruning for ecological health over historical preservation may sacrifice valuable contextual knowledge that contributes to coordination quality.
+5. **Exit Freedom vs. Commitment** — Preserving exit without punishment ensures voluntariness but may undermine the sustained commitment needed for complex coordinated action that requires investment and follow-through.
 
 ## Source Context
 
-Based on the Co-SPHERE Retrospective Assessment Prompt, a diagnostic alignment framework for evaluating prior materials against the canonical definition of Co-SPHERE. The prompt provides a six-step evaluation protocol: definition lock, material classification, failure mode detection, low-frequency test, output format, and final integrity check. The framework explicitly distinguishes Co-SPHERE from We-Sphere, Threadplex, Lattice, and MemeGrid, with disqualifying signals including language of shared truth, collective identity, consensus field, or stable worldview.
+Based on a retrospective assessment and refinement protocol for the Co-SPHERE framework, focused on diagnostic alignment with the canonical definition of Co-SPHERE as omega-permeable soft coordination basin. The source provides a six-step evaluation process: definition lock, material classification (canonical/recoverable/misclassified/pathological), failure mode detection, low-frequency test, structured output format, and final integrity check. The absolute constraint is that no new theory is added, contradictions are not reconciled, and material is not preserved for sentimental reasons.

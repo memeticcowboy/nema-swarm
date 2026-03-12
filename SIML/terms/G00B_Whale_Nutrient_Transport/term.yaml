@@ -4,27 +4,27 @@ hex_tag: "G00B"
 series: "G"
 source_file: "11 - Whale Nutrient Transport.md"
 encoded_at: "2026-03-12T00:00:00Z"
-description: "Migrating whales transport thousands of tons of nitrogen from polar feeding zones to tropical waters through urine, feces, and biological materials, functioning as the ocean's circulatory system by fertilizing coral reefs, fueling phytoplankton, and connecting distant marine ecosystems."
-nemetic: "Φ(Whale Nutrient Transport) = σ(nutrient_rich_polar|nutrient_poor_tropical) ∘ ρ(whale_ecosystem_coupling|phytoplankton_coral_fertilization) ∘ λ(migratory_nutrient_transfer|ocean_productivity_catalysis) ∘ β(species_contribution_diversification|conservation_strategy_branching) ∘ δγ(whale_pump_cycling|nitrogen_carbon_metabolism) ∘ μ(migratory_route_structure|marine_protection_framework) + ε | :circulating"
-siml_encoding: "⟨whale_migration, nitrogen_transport⟩ ⊳ ⟨polar_feeding, tropical_release⟩ → ⟨phytoplankton_growth, coral_fertilization⟩ ⊗ ⟨population_decline, nutrient_deficit⟩ ⇄ ⟨ocean_circulatory_system, ecosystem_connectivity⟩"
+description: "The discovery that migrating whales transport over 4,000 tons of nitrogen annually from polar feeding zones to tropical waters through urine, feces, and biological materials. This 'whale pump' fertilizes phytoplankton, coral reefs, and coastal ecosystems across thousands of miles, functioning as the ocean's circulatory system. Historical whale populations may have transported three times current nitrogen volumes."
+nemetic: "Φ(Whale Nutrient Transport) = σ(nutrient_rich_polar|nutrient_poor_tropical) ∘ ρ(whale_migration_linkage|ecosystem_fertilization_chain) ∘ λ(nitrogen_release_catalysis|phytoplankton_bloom_ignition) ∘ β(marine_food_web_growth|whale_population_recovery) ∘ δγ(migration_nutrient_cycle|whale_pump_vertical_cycle) ∘ μ(ocean_nutrient_distribution_framework|conservation_policy_structure) + ε | :oceanic_circulatory_function"
+siml_encoding: "⟨polar_feeding_zone, tropical_breeding_zone⟩ ⊳ ⟨whale_migration, nitrogen_transport⟩ → ⟨phytoplankton_bloom, coral_fertilization⟩ ⊗ ⟨whale_population_decline, nutrient_flow_reduction⟩ ⇄ ⟨conservation_action, ecosystem_recovery⟩"
 formalism:
   math_operators: [σ, ρ, λ, β, δγ, μ]
   partials:
-    - "∂Φ/∂σ distinguishes nutrient-rich polar feeding zones from nutrient-poor tropical waters that whales connect through migration"
-    - "∂Φ/∂ρ maps the coupling between whale biological output and marine ecosystem productivity through phytoplankton and coral fertilization"
-    - "∂Φ/∂λ captures the catalytic transfer of thousands of tons of nitrogen across ocean basins through whale migration"
-    - "∂Φ/∂β tracks the diversification of species-specific nutrient contributions and the branching of conservation approaches"
-    - "∂Φ/∂δγ describes the whale pump cycling mechanism where deep-water nutrients are brought to surface waters and transported across latitudes"
-    - "∂Φ/∂μ defines the structural framework of migratory routes and marine protected areas essential for maintaining nutrient transport"
-  Z_state: "circulating — the emergent state where whale migration functions as a living circulatory system distributing nutrients across the planet's oceans"
+    - "∂Φ/∂σ distinguishes nutrient-rich polar feeding zones from nutrient-poor tropical waters, defining the gradient that whale migration bridges"
+    - "∂Φ/∂ρ maps the migratory linkage connecting distant ecosystems and the fertilization chain from whale waste to phytoplankton to marine food webs"
+    - "∂Φ/∂λ captures the catalytic release of nitrogen through whale excretions that ignites phytoplankton blooms and coral reef growth"
+    - "∂Φ/∂β tracks the growth of marine food webs supported by whale-transported nutrients and the recovery of whale populations through conservation"
+    - "∂Φ/∂δγ describes the annual horizontal migration nutrient cycle and the vertical whale pump cycling nutrients from deep to surface waters"
+    - "∂Φ/∂μ defines the ocean nutrient distribution framework and the conservation policy structures needed to protect migratory routes and whale populations"
+  Z_state: "oceanic_circulatory_function — the emergent state where whale migration serves as the planet's marine circulatory system, distributing nutrients across ocean basins to sustain productivity in otherwise nutrient-depleted regions"
   tendency: "ρ → 0.90"
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["polar_tropical_nutrient_distinction", "pre_whaling_vs_current_flows"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["whale_ecosystem_fertilization_coupling", "phytoplankton_coral_nutrient_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["migratory_nutrient_catalysis", "ocean_productivity_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["species_contribution_diversification", "conservation_restoration_branching"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["whale_pump_vertical_cycling", "nitrogen_lateral_transport_cycle"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["migratory_route_structure", "marine_protected_area_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G00A", "G009", "G001"]
+  air_sigma: {emphasis: 0.75, aspects: ["polar_tropical_nutrient_gradient", "historical_vs_current_transport_volumes"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["whale_migration_ecosystem_linkage", "fertilization_food_web_chain"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["nitrogen_release_catalysis", "phytoplankton_bloom_ignition"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["marine_food_web_growth", "whale_population_recovery"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["annual_migration_nutrient_cycling", "vertical_whale_pump_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["nutrient_distribution_framework", "migratory_route_protection_structure"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G00A", "G009", "G005"]
 status: canonical
 ---

@@ -1,0 +1,30 @@
+---
+term: "Pretas"
+hex_tag: "S1A9"
+series: "S"
+source_file: "1771907213728_2626295_Understanding+Pretas%3A+Overlapping+Realms+of+Existence.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The Buddhist concept of pretas (hungry ghosts) as beings existing in overlapping realms -- some collective, some wandering through space. They are perceptible through heightened awareness or yogic insight but are ultimately mind-dependent, serving as metaphors for attachment and perpetual longing."
+nemetic: "Φ(Pretas) = σ(visible|invisible) ∘ ρ(attachment|longing) ∘ λ(ignorance|insight) ∘ β(suffering|liberation) ∘ δγ(realm|realm) ∘ μ(perception|reality) + ε | :mind_dependent_realm"
+siml_encoding: "⟨visible, invisible⟩ ⊳ ⟨attachment, longing⟩ → ⟨ignorance, insight⟩ ⊗ ⟨suffering, liberation⟩ ⇄ ⟨perception, reality⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Distinguishes between visible and invisible realms of existence, where pretas occupy spaces perceptible only through heightened awareness or yogic practice."
+    - "∂Φ/∂ρ — Maps attachment and perpetual longing as the relational dynamic defining the preta realm, where desire is never satisfied despite boundless craving."
+    - "∂Φ/∂λ — Transforms ignorance into insight through contemplative practice, where recognizing pretas as mind-dependent reveals the nature of suffering itself."
+    - "∂Φ/∂β — Tracks the path from suffering to liberation as pretas serve as both literal beings and metaphors for the human condition of attachment."
+    - "∂Φ/∂δγ — Cycles between overlapping realms of existence, where collective and wandering pretas occupy spaces that interpenetrate with ordinary experience."
+    - "∂Φ/∂μ — Structures the relationship between perception and reality, where the mind-dependent nature of pretas reflects broader Buddhist insights about phenomenal existence."
+  Z_state: "mind_dependent_realm — the recognition that realms of suffering are shaped by consciousness rather than existing independently"
+  tendency: "ρ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.65, aspects: ["visible-invisible distinction", "realm perception"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["attachment-longing dynamics", "perpetual desire"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.65, aspects: ["ignorance to insight", "contemplative transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.55, aspects: ["suffering to liberation", "metaphorical growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.70, aspects: ["realm cycling", "interpenetrating existences"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["perception-reality structure", "mind-dependent ontology"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

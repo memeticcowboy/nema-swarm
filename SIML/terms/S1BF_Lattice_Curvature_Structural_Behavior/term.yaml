@@ -1,0 +1,30 @@
+---
+term: "The Lattice: Curvature in Structural Behavior"
+hex_tag: "S1BF"
+series: "S"
+source_file: "1771907213771_2660871_The+Lattice%3A+Curvature+in+Structural+Behavior.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The Lattice describes how we are governed less by commands than by architectures of repeatability. Synthesizing Gibson (affordance), Giddens/Bourdieu (reproduced constraint), Meadows (structural inevitability), memetics (selection by ease), and Winner (infrastructure as law), it reveals that structure drives behavior through curvature, not instruction."
+nemetic: "Φ(Lattice Curvature) = σ(command|curvature) ∘ ρ(organism|environment) ∘ λ(instruction|affordance) ∘ β(path_dependence|adaptive_deviation) ∘ δγ(repetition|reproduction) ∘ μ(infrastructure|governance) + ε | :biased_probability"
+siml_encoding: "⟨command, curvature⟩ ⊳ ⟨organism, environment⟩ → ⟨instruction, affordance⟩ ⊗ ⟨path_dependence, adaptive_deviation⟩ ⇄ ⟨infrastructure, governance⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Air distinguishes command-based governance from curvature-based governance. The Lattice biases action without instruction; history shapes what feels doable rather than telling you what to do."
+    - "∂Φ/∂ρ — Water maps the relational asymmetry between organism and environment (Gibson). Affordances are felt before conceptualized and exist in the relation, not in either party alone."
+    - "∂Φ/∂λ — Fire transforms the understanding of behavior from instruction-following to affordance-navigating. The Lattice adds phenomenology of curvature to Meadows' abstract diagrams."
+    - "∂Φ/∂β — Wood tracks path dependence as structural growth: repetition reproduces constraint, creating channels of ease that guide future action."
+    - "∂Φ/∂δγ — Earth cycles through reproduction: repetition reproduces order without commands, constraint lives in body, timing, posture, expectation. History turned into nature."
+    - "∂Φ/∂μ — Metal structures the political insight: artifacts embed power relations, infrastructure governs silently, design precedes legislation. The Lattice is governance even when nobody votes on it."
+  Z_state: "biased_probability — outcomes shaped by structural curvature producing biased probability rather than deterministic command"
+  tendency: "μ → 0.82"
+elemental_mapping:
+  air_sigma: {emphasis: 0.78, aspects: ["command-curvature distinction", "affordance recognition"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.68, aspects: ["organism-environment relation", "ecological asymmetry"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.62, aspects: ["phenomenological enrichment", "curvature as felt experience"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.72, aspects: ["path dependence", "habitual channels"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["reproductive cycling", "constraint embodiment"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.82, aspects: ["infrastructure as governance", "silent power embedding"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

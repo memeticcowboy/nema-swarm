@@ -1,46 +1,35 @@
 ---
-term: Ecological_Memory
-hex_tag: G017
+term: "Ecological Memory"
+hex_tag: "G017"
 series: "G"
 source_file: "23 - Ecological Memory.md"
 encoded_at: "2026-03-12T00:00:00Z"
-description: >
-  How ecosystems store and transmit information across time through soil, stone, cambium, and
-  brine. The world as sentient archive where ritual anchoring enables ecological recovery.
-nemetic: >
-  Φ(Ecological_Memory) = σ(archive-distinction|world-as-repository) ∘
-  ρ(land-resonance|terrain-recitation-feedback) ∘ λ(forgetting-pressure|amnesia-intensity) ∘
-  β(ritual-growth|anchoring-emergence) ∘ δγ(soil-memory|spiritcode-substrate) ∘
-  μ(persistence-structure|encoded-endurance) + ε | :remembering
-siml_encoding: "Φ(Ecological_Memory) = σ(archive-distinction|world-as-repository) ∘ ρ(land-resonance|terrain-recitation-feedback) ∘ λ(forgetting-pressure|amnesia-intensity) ∘ β(ritual-growth|anchoring-emergence) ∘ δγ(soil-memory|spiritcode-substrate) ∘ μ(persistence-structure|encoded-endurance) + ε | :remembering"
+description: "The concept of a memory-bearing world where the environment stores cultural, spiritual, and ecological information in soil, stone, and living tissue. People forget but the world does not -- spiritcodes persist in landscape, recoverable through ritual anchoring and ecological listening."
+nemetic: "Φ(Ecological_Memory) = σ(memory_distinction|forgetting_vs_remembering_world) ∘ ρ(land_listener_resonance|reciprocal_environment_knowing) ∘ λ(recovery_ignition|ritual_anchoring_catalyst) ∘ β(archive_growth|persistent_memory_expansion) ∘ δγ(soil_stone_cycling|substrate_memory_metabolism) ∘ μ(spiritcode_structure|encoded_landscape_framework) + ε | :remembering"
+siml_encoding: "⟨human_amnesia, world_memory⟩ ⊳ ⟨forgetting, landscape_archive⟩ → ⟨disconnection, ritual_anchoring⟩ ⊗ ⟨erasure, persistence⟩ ⇄ ⟨ecological_listening, memory_recovery⟩"
 formalism:
-  math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  math_operators: [σ, ρ, λ, β, δγ, μ]
   partials:
-    sigma: "σ(archive-distinction|world-as-repository) — emphasis 0.16"
-    rho: "ρ(land-resonance|terrain-recitation-feedback) — emphasis 0.18"
-    lambda: "λ(forgetting-pressure|amnesia-intensity) — emphasis 0.12"
-    beta: "β(ritual-growth|anchoring-emergence) — emphasis 0.16"
-    delta_gamma: "δγ(soil-memory|spiritcode-substrate) — emphasis 0.24"
-    mu: "μ(persistence-structure|encoded-endurance) — emphasis 0.14"
-  Z_state: ":remembering"
-  tendency: "δγ → 0.24"
+    - "∂Φ/∂σ — Distinguishing the world that remembers from the humans who forget; perceiving the environment as active memory-bearer rather than passive backdrop"
+    - "∂Φ/∂ρ — Reciprocal knowing between listener and land; the environment knows more about us than we know about ourselves, creating a relational flow of ecological self-knowledge"
+    - "∂Φ/∂λ — Ritual anchoring as catalytic recovery protocol; the transformative practice that reconnects human awareness to the memory already stored in landscape"
+    - "∂Φ/∂β — The world-as-archive expanding its memory record continuously; persistent storage of spiritcodes, histories, and ecological information accumulating across deep time"
+    - "∂Φ/∂δγ — Soil, stone, cambium, and brine as memory substrates cycling information through geological and biological time; the metabolic ground of landscape memory"
+    - "∂Φ/∂μ — Spiritcodes as structured information encoded in landscape; the formal patterns through which the world preserves and transmits memory across generations"
+  Z_state: "remembering — the world continuously remembers what humans have forgotten; memory persists in landscape awaiting recovery through ecological listening and ritual anchoring"
+  tendency: "δγ → 0.90"
 elemental_mapping:
-  Air_Aerunik: "σ — perceiving the world as archive, landscape as repository of meaning"
-  Water_Sentaria: "ρ — terrain reciting memory back to those who listen, land-resonance"
-  Fire_Jvalion: "λ — the pressure of forgetting, modern amnesia that severs ecological connection"
-  Wood_Arboriel: "β — ritual anchoring that enables recovery of lost ecological memory"
-  Earth_Humavita: "δγ — soil, stone, and cambium as spiritcode substrate holding memory"
-  Metal_Ferrosid: "μ — persistence structure, the encoding that allows memory to endure across time"
+  air_sigma: {emphasis: 0.80, aspects: ["forgetting_remembering_distinction", "environment_as_active_archive"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["reciprocal_land_listener_knowing", "ecological_self_knowledge_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.75, aspects: ["ritual_anchoring_catalyst", "memory_recovery_ignition"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["world_archive_accumulation", "deep_time_memory_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.90, aspects: ["soil_stone_memory_substrate", "geological_biological_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["spiritcode_encoding_structure", "landscape_information_framework"], daemon_correspondence: "Ferrosid"}
 related_terms:
   - "G00F_Myth_of_River_Control"
   - "G015_Protector_Archetype_Ecology"
   - "G016_Biosphere_Consciousness"
+  - "G012_Morton_Dark_Ecology"
   - "G018_Agency_Detection_Ecological_Wisdom"
 status: canonical
 ---

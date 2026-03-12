@@ -4,27 +4,27 @@ hex_tag: "G00C"
 series: "G"
 source_file: "12 - Biocentric Governance.md"
 encoded_at: "2026-03-12T00:00:00Z"
-description: "A governance model that redefines politics as coordination rather than control, emphasizing ecological constraints, multispecies justice, distributed accountability, and the recognition that political layers exist in all systems of coordination including non-human ones like mycorrhizal networks and coral reefs."
-nemetic: "Φ(Biocentric Governance) = σ(coordination|control) ∘ ρ(relational_interdependence|multispecies_justice) ∘ λ(governance_transformation|centralization_to_distribution) ∘ β(political_layer_branching|threadability_knotability_interpretability) ∘ δγ(energetic_cost_cycling|coordination_metabolism) ∘ μ(rights_responsibility_boundary|ecological_constraint_framework) + ε | :reweaving"
-siml_encoding: "⟨governance, coordination⟩ ⊳ ⟨ecological_constraint, multispecies_accountability⟩ → ⟨biocentric_politics, relational_governance⟩ ⊗ ⟨centralized_control, coherence_confusion⟩ ⇄ ⟨distributed_responsibility, interspecies_negotiation⟩"
+description: "A governance model that redefines politics as coordination rather than control, prioritizing ecological constraints, multispecies justice, and distributed accountability. Introduces the concept of a 'political layer' present in all coordination systems, characterized by threadability, knotability, and interpretability, with rights emerging as consequences of enacted responsibilities rather than pre-existing entitlements."
+nemetic: "Φ(Biocentric Governance) = σ(coordination_politics|control_politics) ∘ ρ(relational_interdependence|multispecies_justice) ∘ λ(governance_paradigm_shift|rights_responsibility_inversion) ∘ β(political_imagination_growth|governance_tool_development) ∘ δγ(threadability_knotability_oscillation|ecological_political_cycling) ∘ μ(coordination_layer_framework|ecological_constraint_structure) + ε | :relational_governance_emergence"
+siml_encoding: "⟨coordination, control⟩ ⊳ ⟨ecological_constraint, political_structure⟩ → ⟨distributed_accountability, centralized_authority⟩ ⊗ ⟨multispecies_justice, anthropocentric_governance⟩ ⇄ ⟨threadability, knotability⟩"
 formalism:
   math_operators: [σ, ρ, λ, β, δγ, μ]
   partials:
-    - "∂Φ/∂σ distinguishes coordination from control as the fundamental political act, reframing governance from imposition to cultivation"
-    - "∂Φ/∂ρ maps the relational interdependencies between species, ecosystems, and governance systems that biocentric politics must honor"
-    - "∂Φ/∂λ captures the transformation from centralized control to distributed accountability as the governance trajectory"
-    - "∂Φ/∂β tracks the branching attributes of political layers: threadability, knotability, and interpretability across systems"
-    - "∂Φ/∂δγ describes the energetic costs of coordination and the metabolic sustainability of governance practices"
-    - "∂Φ/∂μ defines the boundary framework where rights emerge from enacted responsibilities and ecological constraints shape governance"
-  Z_state: "reweaving — the emergent state where political structures are being rewoven to honor the interdependencies of life across species boundaries"
-  tendency: "ρ → 0.90"
+    - "∂Φ/∂σ distinguishes politics as coordination from politics as control, reframing the fundamental nature of governance"
+    - "∂Φ/∂ρ maps the relational interdependencies between species and systems that biocentric governance seeks to honor and negotiate"
+    - "∂Φ/∂λ captures the catalytic shift from rights-as-entitlements to rights-as-consequences-of-enacted-responsibilities"
+    - "∂Φ/∂β tracks the growth of new political imagination and governance tools emerging from biocentric frameworks"
+    - "∂Φ/∂δγ describes the oscillation between threadability (openness to new relations) and knotability (hardening of existing patterns)"
+    - "∂Φ/∂μ defines the coordination layer framework present in all systems and the ecological constraints that structure governance decisions"
+  Z_state: "relational_governance_emergence — the emergent state where governance practices evolve beyond anthropocentric control to become responsive, distributed systems that honor ecological interdependencies and multispecies responsibilities"
+  tendency: "σ → 0.90"
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["coordination_vs_control_distinction", "political_layer_recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["relational_interdependence", "multispecies_justice_resonance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["centralization_to_distribution_trajectory", "governance_paradigm_shift"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["threadability_knotability_interpretability", "political_layer_diversification"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["coordination_energetic_cost", "governance_metabolic_sustainability"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["rights_from_responsibility_framework", "ecological_constraint_boundary"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G001", "G00A", "G006", "G00D"]
+  air_sigma: {emphasis: 0.90, aspects: ["coordination_vs_control_distinction", "political_layer_discernment"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["relational_interdependence", "multispecies_justice_flows"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["governance_paradigm_shift", "rights_responsibility_inversion"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["political_imagination_expansion", "governance_tool_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["threadability_knotability_oscillation", "ecological_political_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["coordination_layer_structure", "ecological_constraint_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G006", "G00A", "G00D"]
 status: canonical
 ---

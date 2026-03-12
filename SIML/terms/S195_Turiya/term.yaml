@@ -1,0 +1,30 @@
+---
+term: "Turiya"
+hex_tag: "S195"
+series: "S"
+source_file: "1771907213700_2606957_Exploring+Turiya%3A+Swami+Sarvapriyananda%E2%80%99s+Wisdom.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The fourth state of consciousness in Advaita Vedanta that witnesses waking, dreaming, and deep sleep. Turiya is the unchanging awareness behind all transient states, identified with Brahman as pure existence-consciousness-bliss (Sat-Chit-Ananda)."
+nemetic: "Φ(Turiya) = σ(witness|witnessed) ∘ ρ(subject|object) ∘ λ(separation|oneness) ∘ β(self_inquiry|liberation) ∘ δγ(waking|dreaming|deep_sleep) ∘ μ(consciousness|identity) + ε | :non_dual_awareness"
+siml_encoding: "⟨witness, witnessed⟩ ⊳ ⟨subject, object⟩ → ⟨separation, oneness⟩ ⊗ ⟨inquiry, liberation⟩ ⇄ ⟨consciousness, identity⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Distinguishes between the witness (Turiya) and the witnessed states (waking, dreaming, deep sleep), establishing that awareness itself is not identical to any of its contents."
+    - "∂Φ/∂ρ — Maps the subject-object relationship within experience, showing how consciousness relates to its objects before the non-dual dissolution of that distinction."
+    - "∂Φ/∂λ — Transforms the experience of apparent separation into realized oneness, the central movement of Advaita Vedanta from ignorance to liberation."
+    - "∂Φ/∂β — Tracks self-inquiry as a growth path toward liberation, where questioning 'Who am I?' progressively reveals the witness behind all states."
+    - "∂Φ/∂δγ — Cycles through the three ordinary states of consciousness (waking, dreaming, deep sleep) that come and go while Turiya persists as their common ground."
+    - "∂Φ/∂μ — Structures the relationship between pure consciousness and personal identity, showing that the true self is not the fluctuating ego but the unchanging awareness."
+  Z_state: "non_dual_awareness — the recognition that subject and object are aspects of one unified consciousness (Brahman)"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["witness-witnessed distinction", "awareness vs content"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.65, aspects: ["subject-object relation", "consciousness-world coupling"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["separation to oneness", "ignorance to liberation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.60, aspects: ["self-inquiry path", "progressive realization"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.70, aspects: ["three-state cycling", "waking-dreaming-sleep oscillation"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.65, aspects: ["consciousness-identity structure", "unchanging self"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---
