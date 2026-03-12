@@ -1,0 +1,30 @@
+---
+term: "CO2 Fertilization Greening"
+hex_tag: "G002"
+series: "G"
+source_file: "2 - CO2 Fertilization Greening in Arid Lands.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The unexpected phenomenon of vegetation growth in arid and dryland regions driven by elevated atmospheric CO2 enhancing photosynthetic efficiency. While 41% of world drylands show significant greening, this paradoxical outcome brings ecological risks including invasive species displacement, increased fire danger, and water resource competition."
+nemetic: "Φ(CO2 Fertilization Greening) = σ(greening_signal|desertification_expectation) ∘ ρ(co2_water_vegetation_coupling|community_resource_dependency) ∘ λ(photosynthetic_enhancement|ecosystem_disruption) ∘ β(dryland_vegetation_expansion|agricultural_adaptation) ∘ δγ(carbon_capture_cycle|water_depletion_cycle) ∘ μ(climate_model_framework|land_management_protocol) + ε | :paradoxical_greening"
+siml_encoding: "⟨co2_rise, photosynthetic_gain⟩ ⊳ ⟨dryland_greening, desertification_reversal⟩ → ⟨invasive_species, native_displacement⟩ ⊗ ⟨carbon_capture, water_depletion⟩ ⇄ ⟨ecological_benefit, ecological_risk⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes the observed greening signal from the previously expected desertification trajectory in global drylands"
+    - "∂Φ/∂ρ maps the coupled relationships between CO2 levels, water use efficiency, vegetation response, and community resource dependency"
+    - "∂Φ/∂λ captures the catalytic transformation of enhanced photosynthesis disrupting established arid ecosystem dynamics"
+    - "∂Φ/∂β tracks the expansion of dryland vegetation cover and the adaptive agricultural practices emerging in response"
+    - "∂Φ/∂δγ describes the oscillation between carbon capture benefits and water resource depletion in greening drylands"
+    - "∂Φ/∂μ defines the structural frameworks of climate models and land management protocols used to predict and manage greening outcomes"
+  Z_state: "paradoxical_greening — the emergent state where an environmental positive (vegetation growth) simultaneously generates ecological risks (invasive species, fire, water scarcity) confounding simple narrative assessment"
+  tendency: "λ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["greening_vs_desertification_distinction", "expectation_vs_observation_gap"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["co2_water_vegetation_coupling", "community_water_dependency"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["photosynthetic_catalysis", "bushfire_risk_amplification"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["dryland_vegetation_expansion", "sahel_tree_regeneration"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["carbon_capture_cycling", "aridity_growth_decoupling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["climate_model_structure", "satellite_observation_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G005", "G00A", "G00D"]
+status: canonical
+---

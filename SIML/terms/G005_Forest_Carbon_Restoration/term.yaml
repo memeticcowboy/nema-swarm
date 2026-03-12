@@ -1,0 +1,30 @@
+---
+term: "Forest Carbon Restoration"
+hex_tag: "G005"
+series: "G"
+source_file: "5 - Forest Restoration for Carbon Sequestration.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The carbon sequestration potential of restoring 350 million hectares of forest by 2030, as targeted by the Bonn Challenge. Evaluates natural regeneration, mixed restoration, and plantation pathways across tropical and sub-tropical regions, using climate models and biomass data to estimate carbon stocks under different restoration and climate scenarios."
+nemetic: "Φ(Forest Carbon Restoration) = σ(restoration_pathway|deforestation_baseline) ∘ ρ(carbon_cycle_linkage|community_livelihood_connection) ∘ λ(sequestration_acceleration|climate_mitigation_impact) ∘ β(forest_cover_expansion|biodiversity_recovery) ∘ δγ(carbon_stock_monitoring_cycle|restoration_policy_feedback) ∘ μ(bonn_challenge_framework|climate_model_structure) + ε | :regenerative_carbon_equilibrium"
+siml_encoding: "⟨deforested_land, restored_forest⟩ ⊳ ⟨natural_regeneration, plantation_approach⟩ → ⟨carbon_sequestration, climate_mitigation⟩ ⊗ ⟨biodiversity_gain, monoculture_risk⟩ ⇄ ⟨ecological_restoration, economic_development⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes between restoration pathways (natural regeneration, mixed, plantation) and the deforestation baseline they aim to reverse"
+    - "∂Φ/∂ρ maps the relational connections between carbon cycling, ecosystem services, and community livelihoods supported by restored forests"
+    - "∂Φ/∂λ captures the catalytic acceleration of carbon sequestration and its aggregate climate mitigation impact at the 350-million-hectare scale"
+    - "∂Φ/∂β tracks the expansion of forest cover, biodiversity recovery, and ecosystem service growth under different restoration methods"
+    - "∂Φ/∂δγ describes the monitoring cycle for carbon stocks and the policy feedback loop between restoration outcomes and strategy adjustment"
+    - "∂Φ/∂μ defines the institutional framework of the Bonn Challenge and the structural role of climate models in guiding restoration decisions"
+  Z_state: "regenerative_carbon_equilibrium — the emergent state where large-scale forest restoration achieves a dynamic balance between carbon sequestration, biodiversity support, and community livelihood across tropical and sub-tropical landscapes"
+  tendency: "β → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.75, aspects: ["restoration_pathway_distinction", "method_effectiveness_comparison"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["carbon_cycle_ecosystem_linkage", "community_livelihood_connection"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["sequestration_acceleration", "climate_mitigation_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.85, aspects: ["forest_cover_expansion", "biodiversity_recovery_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["carbon_stock_monitoring", "restoration_policy_feedback_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["bonn_challenge_institutional_framework", "climate_model_predictive_structure"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G002", "G00A", "G00D"]
+status: canonical
+---

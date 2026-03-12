@@ -296,6 +296,38 @@ F:
     F006: "Global_Workspace_Theory"
     F007: "Frisson"
 
+G:
+  description: "Green/Ecological systems and environmental thinking"
+  next_available: "G01B"
+  assigned:
+    G001: "Environmental_Philosophies_SWOT"
+    G002: "CO2_Fertilization_Greening"
+    G003: "Turtle_Genomics_Evolution"
+    G004: "Comb_Jelly_Reverse_Aging"
+    G005: "Forest_Carbon_Restoration"
+    G006: "Leverage_Points_Complex_Systems"
+    G007: "Synthetic_Biology_Architecture"
+    G008: "Bio_Inspired_Underwater_Civilizations"
+    G009: "Human_Impact_Animal_Patterns"
+    G00A: "Rewilding"
+    G00B: "Whale_Nutrient_Transport"
+    G00C: "Biocentric_Governance"
+    G00D: "Great_Simplification"
+    G00E: "Dapeng_Coastal_Resilience"
+    G00F: "Myth_of_River_Control"
+    G010: "Arctic_Amazon_Climate_Connection"
+    G011: "Haraway_Staying_with_Trouble"
+    G012: "Morton_Dark_Ecology"
+    G013: "Rotimization_Decay_Design"
+    G014: "Optimizer_Archetype_Ecology"
+    G015: "Protector_Archetype_Ecology"
+    G016: "Biosphere_Consciousness"
+    G017: "Ecological_Memory"
+    G018: "Agency_Detection_Ecological_Wisdom"
+    G019: "Co_SPHERE_Framework"
+    G01A: "Exaptation"
+  collisions: {}
+
 MET:
   description: "Elemental Metal terms (mythological/alchemical)"
   next_available: "MET011"

@@ -1,0 +1,30 @@
+---
+term: "Comb Jelly Reverse Aging"
+hex_tag: "G004"
+series: "G"
+source_file: "4 - Comb Jelly Reverse Aging.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The warty comb jelly (Mnemiopsis leidyi) possesses the remarkable ability to revert from an adult to a juvenile state under stress conditions such as starvation or injury. This de-aging process involves morphological regression including size reduction and reabsorption of adult characteristics, offering profound insights into biological plasticity and regenerative medicine."
+nemetic: "Φ(Comb Jelly Reverse Aging) = σ(adult_state|larval_state) ∘ ρ(stress_response_coupling|organism_environment_feedback) ∘ λ(developmental_reversal|cellular_reprogramming) ∘ β(regenerative_capacity|research_expansion) ∘ δγ(aging_deaging_oscillation|stress_recovery_cycle) ∘ μ(morphological_stage_framework|molecular_pathway_structure) + ε | :biological_time_reversal"
+siml_encoding: "⟨adult_form, larval_form⟩ ⊳ ⟨starvation_stress, injury_stress⟩ → ⟨morphological_regression, cellular_reprogramming⟩ ⊗ ⟨biological_resilience, developmental_plasticity⟩ ⇄ ⟨aging_forward, aging_reverse⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes the adult morphological state from the reverted larval state, identifying the boundary conditions of developmental reversal"
+    - "∂Φ/∂ρ maps the coupling between environmental stressors and the organism's plastic response, including feedback loops between stress intensity and reversion speed"
+    - "∂Φ/∂λ captures the catalytic transformation of developmental reversal where adult characteristics are reabsorbed and juvenile traits re-emerge"
+    - "∂Φ/∂β tracks the growth of regenerative medicine potential and expanding research into similar capabilities across other species"
+    - "∂Φ/∂δγ describes the oscillation between aging and de-aging states as a cyclical rather than unidirectional biological process"
+    - "∂Φ/∂μ defines the structural framework of morphological stages and the molecular pathways that enable transitions between them"
+  Z_state: "biological_time_reversal — the emergent state where an organism reverses its developmental trajectory, challenging the assumption that biological aging is unidirectional"
+  tendency: "λ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["adult_larval_state_distinction", "developmental_stage_boundaries"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["stress_response_coupling", "organism_environment_feedback"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.90, aspects: ["developmental_reversal_catalysis", "cellular_reprogramming_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["regenerative_medicine_potential", "cross_species_research_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["aging_deaging_oscillation", "stress_recovery_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["morphological_stage_structure", "molecular_pathway_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G003", "G007"]
+status: canonical
+---

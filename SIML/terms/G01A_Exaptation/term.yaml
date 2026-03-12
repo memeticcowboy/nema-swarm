@@ -1,0 +1,45 @@
+---
+term: Exaptation
+hex_tag: G01A
+series: "G"
+source_file: "26 - Exaptation.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: >
+  Gould and Vrba's exaptation — traits evolved for one purpose co-opted for another. Evolution
+  through repurposing existing structures rather than novel creation, from feathers to flight.
+nemetic: >
+  Φ(Exaptation) = σ(function-shift-distinction|original-vs-coopted-role) ∘
+  ρ(repurposing-resonance|cross-domain-transfer) ∘ λ(selection-pressure|environmental-forcing) ∘
+  β(novelty-growth|innovation-through-reuse) ∘ δγ(structural-inheritance|pre-existing-substrate) ∘
+  μ(constraint-frame|available-parts-limitation) + ε | :co-opted
+siml_encoding: "Φ(Exaptation) = σ(function-shift-distinction|original-vs-coopted-role) ∘ ρ(repurposing-resonance|cross-domain-transfer) ∘ λ(selection-pressure|environmental-forcing) ∘ β(novelty-growth|innovation-through-reuse) ∘ δγ(structural-inheritance|pre-existing-substrate) ∘ μ(constraint-frame|available-parts-limitation) + ε | :co-opted"
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  partials:
+    sigma: "σ(function-shift-distinction|original-vs-coopted-role) — emphasis 0.20"
+    rho: "ρ(repurposing-resonance|cross-domain-transfer) — emphasis 0.18"
+    lambda: "λ(selection-pressure|environmental-forcing) — emphasis 0.16"
+    beta: "β(novelty-growth|innovation-through-reuse) — emphasis 0.22"
+    delta_gamma: "δγ(structural-inheritance|pre-existing-substrate) — emphasis 0.14"
+    mu: "μ(constraint-frame|available-parts-limitation) — emphasis 0.10"
+  Z_state: ":co-opted"
+  tendency: "β → 0.22"
+elemental_mapping:
+  Air_Aerunik: "σ — distinguishing original function from co-opted role, seeing the shift"
+  Water_Sentaria: "ρ — resonance across domains, traits transferring between functional contexts"
+  Fire_Jvalion: "λ — environmental selection pressure that creates conditions for co-option"
+  Wood_Arboriel: "β — novelty and innovation emerging from reuse of existing structures"
+  Earth_Humavita: "δγ — structural inheritance, the pre-existing substrate available for repurposing"
+  Metal_Ferrosid: "μ — constraint of available parts, evolution works with what already exists"
+related_terms:
+  - "G013_Rotimization_Decay_Design"
+  - "G014_Optimizer_Archetype_Ecology"
+  - "G017_Ecological_Memory"
+status: canonical
+---

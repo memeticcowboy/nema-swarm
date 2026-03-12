@@ -1,0 +1,30 @@
+---
+term: "Synthetic Biology Architecture"
+hex_tag: "G007"
+series: "G"
+source_file: "7 - Synthetic Biology Architecture.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "An investigation into how synthetic biology, including living materials, protocell systems, and self-organizing structures, can transform architecture into a sustainable, adaptive, and regenerative discipline. Buildings are reimagined as dynamic systems with biological capabilities such as self-healing, environmental sensing, and carbon capture, reducing the 40% urban carbon footprint of traditional construction."
+nemetic: "Φ(Synthetic Biology Architecture) = σ(living_material|inert_material) ∘ ρ(building_environment_symbiosis|microbiome_occupant_interaction) ∘ λ(biological_integration_catalysis|carbon_negative_transformation) ∘ β(adaptive_building_evolution|protocell_self_organization) ∘ δγ(metabolic_building_cycle|repair_regeneration_cycle) ∘ μ(bioarchitecture_framework|ethical_regulatory_structure) + ε | :living_built_environment"
+siml_encoding: "⟨living_material, inert_material⟩ ⊳ ⟨protocell_system, engineered_organism⟩ → ⟨self_healing_structure, carbon_negative_building⟩ ⊗ ⟨biological_function, architectural_form⟩ ⇄ ⟨process_orientation, permanence_orientation⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes living and responsive building materials from traditional inert construction materials, defining a new material category"
+    - "∂Φ/∂ρ maps the symbiotic relationship between buildings and their environments, including microbiome interactions with occupants"
+    - "∂Φ/∂λ captures the catalytic integration of biology into architecture and the transformation toward carbon-negative construction"
+    - "∂Φ/∂β tracks the evolution of adaptive building envelopes and the self-organizing growth of protocell-based structures"
+    - "∂Φ/∂δγ describes the metabolic cycling of living buildings that process inputs and outputs, and the self-repair regeneration cycle"
+    - "∂Φ/∂μ defines the bioarchitecture design framework and the ethical and regulatory structures required for bio-integrated environments"
+  Z_state: "living_built_environment — the emergent state where architecture transcends static form to become a living, metabolizing, evolving system that integrates biology, computation, and human habitation"
+  tendency: "λ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["living_vs_inert_material_distinction", "biological_vs_mechanical_function"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["building_environment_symbiosis", "microbiome_occupant_health_relation"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["biological_integration_catalysis", "carbon_negative_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.85, aspects: ["adaptive_building_evolution", "protocell_self_organization_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["metabolic_building_cycling", "self_repair_regeneration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["bioarchitecture_design_framework", "ethical_regulatory_structure"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G008", "G003", "G004"]
+status: canonical
+---

@@ -1,0 +1,45 @@
+---
+term: Optimizer_Archetype_Ecology
+hex_tag: G014
+series: "G"
+source_file: "20 - The Optimizer Archetype.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: >
+  The Optimizer as ecological archetype — freedom to nourish through sustainable abundance,
+  transmuting waste into womb via regenerative loops and composting crises into cradles.
+nemetic: >
+  Φ(Optimizer_Archetype_Ecology) = σ(nutrient-distinction|discerning-value-in-neglect) ∘
+  ρ(cycle-resonance|regenerative-loop-feedback) ∘ λ(decay-heat|composting-transformation) ∘
+  β(abundance-growth|sustainable-surge) ∘ δγ(soil-return|earth-alchemy) ∘
+  μ(thrift-structure|circular-economy-frame) + ε | :cycling
+siml_encoding: "Φ(Optimizer_Archetype_Ecology) = σ(nutrient-distinction|discerning-value-in-neglect) ∘ ρ(cycle-resonance|regenerative-loop-feedback) ∘ λ(decay-heat|composting-transformation) ∘ β(abundance-growth|sustainable-surge) ∘ δγ(soil-return|earth-alchemy) ∘ μ(thrift-structure|circular-economy-frame) + ε | :cycling"
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  partials:
+    sigma: "σ(nutrient-distinction|discerning-value-in-neglect) — emphasis 0.14"
+    rho: "ρ(cycle-resonance|regenerative-loop-feedback) — emphasis 0.22"
+    lambda: "λ(decay-heat|composting-transformation) — emphasis 0.16"
+    beta: "β(abundance-growth|sustainable-surge) — emphasis 0.18"
+    delta_gamma: "δγ(soil-return|earth-alchemy) — emphasis 0.18"
+    mu: "μ(thrift-structure|circular-economy-frame) — emphasis 0.12"
+  Z_state: ":cycling"
+  tendency: "ρ → 0.22"
+elemental_mapping:
+  Air_Aerunik: "σ — discerning the nutrient in neglect, the heat in decay, value in waste"
+  Water_Sentaria: "ρ — regenerative feedback loops cycling vitality from the void"
+  Fire_Jvalion: "λ — composting transformation where decay generates creative heat"
+  Wood_Arboriel: "β — sustainable surge of abundance through regenerative growth"
+  Earth_Humavita: "δγ — soil-return alchemy, what we give back becomes our future"
+  Metal_Ferrosid: "μ — circular-economy structure, thrift as systemic design principle"
+related_terms:
+  - "G013_Rotimization_Decay_Design"
+  - "G015_Protector_Archetype_Ecology"
+  - "G017_Ecological_Memory"
+status: canonical
+---

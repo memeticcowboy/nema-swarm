@@ -1,0 +1,46 @@
+---
+term: Ecological_Memory
+hex_tag: G017
+series: "G"
+source_file: "23 - Ecological Memory.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: >
+  How ecosystems store and transmit information across time through soil, stone, cambium, and
+  brine. The world as sentient archive where ritual anchoring enables ecological recovery.
+nemetic: >
+  Φ(Ecological_Memory) = σ(archive-distinction|world-as-repository) ∘
+  ρ(land-resonance|terrain-recitation-feedback) ∘ λ(forgetting-pressure|amnesia-intensity) ∘
+  β(ritual-growth|anchoring-emergence) ∘ δγ(soil-memory|spiritcode-substrate) ∘
+  μ(persistence-structure|encoded-endurance) + ε | :remembering
+siml_encoding: "Φ(Ecological_Memory) = σ(archive-distinction|world-as-repository) ∘ ρ(land-resonance|terrain-recitation-feedback) ∘ λ(forgetting-pressure|amnesia-intensity) ∘ β(ritual-growth|anchoring-emergence) ∘ δγ(soil-memory|spiritcode-substrate) ∘ μ(persistence-structure|encoded-endurance) + ε | :remembering"
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  partials:
+    sigma: "σ(archive-distinction|world-as-repository) — emphasis 0.16"
+    rho: "ρ(land-resonance|terrain-recitation-feedback) — emphasis 0.18"
+    lambda: "λ(forgetting-pressure|amnesia-intensity) — emphasis 0.12"
+    beta: "β(ritual-growth|anchoring-emergence) — emphasis 0.16"
+    delta_gamma: "δγ(soil-memory|spiritcode-substrate) — emphasis 0.24"
+    mu: "μ(persistence-structure|encoded-endurance) — emphasis 0.14"
+  Z_state: ":remembering"
+  tendency: "δγ → 0.24"
+elemental_mapping:
+  Air_Aerunik: "σ — perceiving the world as archive, landscape as repository of meaning"
+  Water_Sentaria: "ρ — terrain reciting memory back to those who listen, land-resonance"
+  Fire_Jvalion: "λ — the pressure of forgetting, modern amnesia that severs ecological connection"
+  Wood_Arboriel: "β — ritual anchoring that enables recovery of lost ecological memory"
+  Earth_Humavita: "δγ — soil, stone, and cambium as spiritcode substrate holding memory"
+  Metal_Ferrosid: "μ — persistence structure, the encoding that allows memory to endure across time"
+related_terms:
+  - "G00F_Myth_of_River_Control"
+  - "G015_Protector_Archetype_Ecology"
+  - "G016_Biosphere_Consciousness"
+  - "G018_Agency_Detection_Ecological_Wisdom"
+status: canonical
+---

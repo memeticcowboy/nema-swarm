@@ -1,0 +1,30 @@
+---
+term: "Whale Nutrient Transport"
+hex_tag: "G00B"
+series: "G"
+source_file: "11 - Whale Nutrient Transport.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "Migrating whales transport thousands of tons of nitrogen from polar feeding zones to tropical waters through urine, feces, and biological materials, functioning as the ocean's circulatory system by fertilizing coral reefs, fueling phytoplankton, and connecting distant marine ecosystems."
+nemetic: "Φ(Whale Nutrient Transport) = σ(nutrient_rich_polar|nutrient_poor_tropical) ∘ ρ(whale_ecosystem_coupling|phytoplankton_coral_fertilization) ∘ λ(migratory_nutrient_transfer|ocean_productivity_catalysis) ∘ β(species_contribution_diversification|conservation_strategy_branching) ∘ δγ(whale_pump_cycling|nitrogen_carbon_metabolism) ∘ μ(migratory_route_structure|marine_protection_framework) + ε | :circulating"
+siml_encoding: "⟨whale_migration, nitrogen_transport⟩ ⊳ ⟨polar_feeding, tropical_release⟩ → ⟨phytoplankton_growth, coral_fertilization⟩ ⊗ ⟨population_decline, nutrient_deficit⟩ ⇄ ⟨ocean_circulatory_system, ecosystem_connectivity⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes nutrient-rich polar feeding zones from nutrient-poor tropical waters that whales connect through migration"
+    - "∂Φ/∂ρ maps the coupling between whale biological output and marine ecosystem productivity through phytoplankton and coral fertilization"
+    - "∂Φ/∂λ captures the catalytic transfer of thousands of tons of nitrogen across ocean basins through whale migration"
+    - "∂Φ/∂β tracks the diversification of species-specific nutrient contributions and the branching of conservation approaches"
+    - "∂Φ/∂δγ describes the whale pump cycling mechanism where deep-water nutrients are brought to surface waters and transported across latitudes"
+    - "∂Φ/∂μ defines the structural framework of migratory routes and marine protected areas essential for maintaining nutrient transport"
+  Z_state: "circulating — the emergent state where whale migration functions as a living circulatory system distributing nutrients across the planet's oceans"
+  tendency: "ρ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.75, aspects: ["polar_tropical_nutrient_distinction", "pre_whaling_vs_current_flows"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["whale_ecosystem_fertilization_coupling", "phytoplankton_coral_nutrient_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["migratory_nutrient_catalysis", "ocean_productivity_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["species_contribution_diversification", "conservation_restoration_branching"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["whale_pump_vertical_cycling", "nitrogen_lateral_transport_cycle"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["migratory_route_structure", "marine_protected_area_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G00A", "G009", "G001"]
+status: canonical
+---

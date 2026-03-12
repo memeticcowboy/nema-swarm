@@ -1,0 +1,35 @@
+---
+term: "Myth of River Control"
+hex_tag: "G00F"
+series: "G"
+source_file: "15 - The Myth of River Control.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The belief that rivers are containable resources exposed as mythic infrastructure. Dam-building as monument to the conviction that natural rhythm can be flattened without consequence, leading to silica collapse, diatom loss, and planetary-scale suffocation of ocean carbon cycling."
+nemetic: "Φ(Myth_of_River_Control) = σ(rhythm_distinction|pulse_vs_flatline) ∘ ρ(flow_resonance|river_breath_cycle) ∘ λ(dam_pressure|engineering_hubris) ∘ β(riparian_recovery|floodplain_renewal) ∘ δγ(sediment_memory|nutrient_substrate) ∘ μ(concrete_rigidity|infrastructure_myth) + ε | :suppressed"
+siml_encoding: "⟨pulse, flatline⟩ ⊳ ⟨river_breath, sediment_flow⟩ → ⟨dam_construction, rhythm_erasure⟩ ⊗ ⟨ocean_suffocation, diatom_collapse⟩ ⇄ ⟨attunement, pulse_return⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Perceiving the lost distinction between a river's natural pulse and the engineered flatline; recovering the perceptual capacity to see floods as rhythm rather than problem"
+    - "∂Φ/∂ρ — The river's own breath-cycle of seasonal floods, nutrient pulses, and sediment transport that sustains diatoms, carbon cycling, and ocean oxygenation"
+    - "∂Φ/∂λ — Dam construction as catalytic mythic act transforming landscapes in the image of human control; engineering hubris that anesthetizes living systems"
+    - "∂Φ/∂β — Latent regenerative capacity of floodplain ecosystems awaiting pulse restoration; riparian recovery potential currently suppressed by infrastructure"
+    - "∂Φ/∂δγ — Sediment as memory carrier depositing silica, minerals, and organic matter during floods; the nutrient substrate that feeds downstream and oceanic systems"
+    - "∂Φ/∂μ — Dams as concrete embodiments of the mastery narrative; rigid structures expressing the fragile belief that nature can be permanently contained"
+  Z_state: "suppressed — natural rhythms flattened by engineering but pressure builds beneath the surface; the pulse persists under concrete"
+  tendency: "ρ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.75, aspects: ["pulse_vs_flatline_perception", "sacred_rhythm_recognition"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["river_breath_cycle", "sediment_nutrient_transport"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["dam_building_hubris", "mythic_transformation_of_landscape"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["floodplain_regeneration_potential", "riparian_recovery_capacity"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["sediment_memory_transfer", "nutrient_substrate_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["concrete_infrastructure_rigidity", "mastery_narrative_embodiment"], daemon_correspondence: "Ferrosid"}
+related_terms:
+  - "G00E_Dapeng_Coastal_Resilience"
+  - "G010_Arctic_Amazon_Climate_Connection"
+  - "G017_Ecological_Memory"
+  - "G016_Biosphere_Consciousness"
+  - "G006_Leverage_Points_Complex_Systems"
+status: canonical
+---

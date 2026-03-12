@@ -1,0 +1,30 @@
+---
+term: "Rewilding"
+hex_tag: "G00A"
+series: "G"
+source_file: "10 - Rewilding.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "Restoring natural ecosystems through rewilding practices including keystone species reintroduction, trophic cascade activation, habitat reconnection, and community-engaged conservation to reverse human-caused ecological degradation."
+nemetic: "Φ(Rewilding) = σ(wild_state|degraded_state) ∘ ρ(trophic_cascade|predator_prey_reconnection) ∘ λ(restoration_momentum|ecological_recovery_direction) ∘ β(species_reintroduction|habitat_corridor_branching) ∘ δγ(ecosystem_service_cycling|biodiversity_metabolism) ∘ μ(land_protection_boundary|development_exclusion_framework) + ε | :recovering"
+siml_encoding: "⟨degraded_landscape, human_impact⟩ ⊳ ⟨species_reintroduction, habitat_reconnection⟩ → ⟨trophic_cascade, ecosystem_recovery⟩ ⊗ ⟨development_pressure, community_resistance⟩ ⇄ ⟨wild_state, self_sustaining_ecology⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes wild or self-sustaining ecosystem states from human-degraded conditions"
+    - "∂Φ/∂ρ maps trophic cascade dynamics where predator reintroduction cascades through prey behavior, vegetation, and hydrology"
+    - "∂Φ/∂λ captures the directional momentum of ecological recovery once keystone species and habitat connectivity are restored"
+    - "∂Φ/∂β tracks the branching of species reintroduction programs and habitat corridor creation across diverse contexts"
+    - "∂Φ/∂δγ describes the cycling restoration of ecosystem services including water purification, climate regulation, and biodiversity metabolism"
+    - "∂Φ/∂μ defines the structural boundaries of land protection, development exclusion zones, and conservation policy frameworks"
+  Z_state: "recovering — the emergent state where ecosystems transition from human-managed degradation toward self-sustaining wildness through deliberate intervention followed by withdrawal"
+  tendency: "ρ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["wild_vs_degraded_distinction", "natural_vs_managed_state"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["trophic_cascade_resonance", "predator_prey_ecosystem_coupling"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["restoration_momentum", "ecological_recovery_trajectory"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["species_reintroduction_branching", "habitat_corridor_diversification"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["ecosystem_service_cycling", "biodiversity_metabolic_restoration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["land_protection_structure", "conservation_policy_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G005", "G009", "G00C"]
+status: canonical
+---

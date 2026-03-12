@@ -1,0 +1,30 @@
+---
+term: "Biocentric Governance"
+hex_tag: "G00C"
+series: "G"
+source_file: "12 - Biocentric Governance.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "A governance model that redefines politics as coordination rather than control, emphasizing ecological constraints, multispecies justice, distributed accountability, and the recognition that political layers exist in all systems of coordination including non-human ones like mycorrhizal networks and coral reefs."
+nemetic: "Φ(Biocentric Governance) = σ(coordination|control) ∘ ρ(relational_interdependence|multispecies_justice) ∘ λ(governance_transformation|centralization_to_distribution) ∘ β(political_layer_branching|threadability_knotability_interpretability) ∘ δγ(energetic_cost_cycling|coordination_metabolism) ∘ μ(rights_responsibility_boundary|ecological_constraint_framework) + ε | :reweaving"
+siml_encoding: "⟨governance, coordination⟩ ⊳ ⟨ecological_constraint, multispecies_accountability⟩ → ⟨biocentric_politics, relational_governance⟩ ⊗ ⟨centralized_control, coherence_confusion⟩ ⇄ ⟨distributed_responsibility, interspecies_negotiation⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes coordination from control as the fundamental political act, reframing governance from imposition to cultivation"
+    - "∂Φ/∂ρ maps the relational interdependencies between species, ecosystems, and governance systems that biocentric politics must honor"
+    - "∂Φ/∂λ captures the transformation from centralized control to distributed accountability as the governance trajectory"
+    - "∂Φ/∂β tracks the branching attributes of political layers: threadability, knotability, and interpretability across systems"
+    - "∂Φ/∂δγ describes the energetic costs of coordination and the metabolic sustainability of governance practices"
+    - "∂Φ/∂μ defines the boundary framework where rights emerge from enacted responsibilities and ecological constraints shape governance"
+  Z_state: "reweaving — the emergent state where political structures are being rewoven to honor the interdependencies of life across species boundaries"
+  tendency: "ρ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["coordination_vs_control_distinction", "political_layer_recognition"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["relational_interdependence", "multispecies_justice_resonance"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["centralization_to_distribution_trajectory", "governance_paradigm_shift"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["threadability_knotability_interpretability", "political_layer_diversification"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["coordination_energetic_cost", "governance_metabolic_sustainability"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["rights_from_responsibility_framework", "ecological_constraint_boundary"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G00A", "G006", "G00D"]
+status: canonical
+---
