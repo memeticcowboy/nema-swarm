@@ -1,7 +1,9 @@
 A:
   description: Cognitive biases and psychological phenomena
-  next_available: A064
+  next_available: A067
   assigned:
+    A065: Motivation_Triangle
+    A066: OPTIMALISM
     A01A: Cognitive_Dissonance
     A01B: Barnum_Effect
     A01C: social_identity_bias
@@ -294,7 +296,7 @@ C:
   collisions: {}
 E:
   description: Earth/ground phenomena and enactive cognition
-  next_available: E019
+  next_available: E024
   assigned:
     E001: Gaia
     E002: Prithvi
@@ -318,10 +320,11 @@ E:
     E020: Sense_Making
     E021: Whitehead_Concrescence
     E022: Mycorrhizal_Network
+    E023: Money_as_Collective_Hallucination
   collisions: {}
 F:
   description: Fire-element phenomena and ignition processes
-  next_available: F008
+  next_available: F009
   assigned:
     F001: Prometheus__Fire
     F002: Agni
@@ -330,6 +333,7 @@ F:
     F005: Sacred_Fire
     F006: Global_Workspace_Theory
     F007: Frisson
+    F008: Retrocausality
 MET:
   description: Elemental Metal terms (mythological/alchemical)
   next_available: MET011
@@ -346,7 +350,7 @@ MET:
     MET010: Star_State
 M:
   description: Meta-level and Metal-element concepts
-  next_available: M022
+  next_available: M023
   assigned:
     M001: Multiplicity
     M002: Authenticity
@@ -369,6 +373,7 @@ M:
     M019: DODO_X
     M020: Star_State
     M021: Epsilon_Noise
+    M022: Synthetic_Intelligence
     M099: MemeGrid
   collisions: {}
 N:
@@ -531,3 +536,17 @@ renumbering:
   new: E021_Whitehead_Concrescence
 - old: E016_Mycorrhizal_Network
   new: E022_Mycorrhizal_Network
+W:
+  description: Worldview-level concepts and cosmological frameworks
+  next_available: W010
+  assigned:
+    W001: Thales_Arche
+    W002: Anaximander_Apeiron
+    W003: Celtic_Trees
+    W004: Axis_Mundi
+    W005: Bodhi_Tree
+    W006: Ahmed_Orientation
+    W007: Ahmed_Affective_Economy
+    W008: Bohm_Pribram_Holographic
+    W009: Cyberanimism
+  collisions: {}
