@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find C:Usersdayze -path */.claude/skills/*encode*)",
+      "Bash(git pull:*)",
+      "Bash(git fetch:*)"
+    ]
+  }
+}
