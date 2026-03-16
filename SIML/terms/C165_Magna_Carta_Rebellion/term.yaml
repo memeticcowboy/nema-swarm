@@ -1,34 +1,63 @@
-term: "Magna_Carta_Rebellion"
-tag: "C165"
-series: "C"
-source_file: "1771907212832_1458278_.md"
-encoded_at: "2026-03-04T03:43:00+08:00"
-
-elements:
-  air:
-    daemon: "Aerunik"
-    dialectic: "law|resistance"
-  water:
-    daemon: "Sentaria"
-    dialectic: "authority|consent"
-  fire:
-    daemon: "Jvalion"
-    dialectic: "contract|rupture"
-  wood:
-    daemon: "Arboriel"
-    dialectic: "legacy|interpretation"
-  earth:
-    daemon: "Humavita"
-    dialectic: "rights|enforcement"
-  metal:
-    daemon: "Ferrosid"
-    dialectic: "charter|history"
-
-state: ":dormant"
-related_terms:
-  - "C150_Individuality_Huxley_Dystopia"
-  - "C151_Huxley_Ends_and_Means"
-  - "C152_Huxley_Education_Ethics_Transformation"
-  - "C010_authority_influence"
-  - "C155_Freedom_of_Expression"
-  - "C115_protecting_freedom_of_thought"
+term_id: C165
+hex_tag: '#C165'
+name: Magna_Carta_Rebellion
+term: Magna Carta Rebellion
+nemetic: >-
+  Φ(MagnaCartaRebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘
+  λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘
+  μ(charter|history) + ε | :drift
+siml_encoding: >-
+  ⟨Law|codified⟩ ⊳ ⟨Rebellion|institutionalized⟩ ⇄ ⟨Authority|conditional⟩ ⊗
+  ⟨Consent|withdrawable⟩ → ⟨Rights|enforceable⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  partials:
+    - "∂Φ/∂σ (distinction between codified law and the right to resist it)"
+    - "∂Φ/∂ρ (relational flow between governing authority and consent of the governed)"
+    - "∂Φ/∂λ (directional tension between social contract and its necessary rupture)"
+    - "∂Φ/∂β (organic growth of historical documents through reinterpretation)"
+    - "∂Φ/∂δγ (grounding gap between declared rights and practical enforcement)"
+    - "∂Φ/∂μ (structural durability of written law against corrosive forces of time)"
+  Z_state: semi
+  tendency: "Resistance/Order → 0.60"
+  hex: ['0x01', '0x65']
+coords:
+  ontology:
+    primary: We
+    secondary: [Its]
+  epistemics:
+    dsrp:
+      D: "Lawful rebellion vs. unlawful revolt"
+      S: "Constitutional governance framework with embedded resistance mechanisms"
+      R: "Contract → breach → lawful dissolution → reconstitution"
+      P: "Baron, sovereign, citizen, legal historian"
+    learning: L2
+  time:
+    mode: layered
+    phase: "dormant activation potential — awaiting constitutional crisis"
+  qualia:
+    affect: [defiance, dignity, obligation]
+    aesthetic: [archaic, solemn, foundational]
+    symbolic: [charter, seal, oath]
+    energetic: [restrained, coiled, latent]
+  agency:
+    type: collective
+    voice: [The Barons, The Constitutional Tradition]
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How does law distinguish between legitimate resistance and mere revolt?"
+  ≈: "What flows between sovereign and subject when the contract of consent is breached?"
+  ▲: "What ignites the moment when lawful rebellion activates from dormancy?"
+  𐂷: "How does the Magna Carta grow through centuries of reinterpretation?"
+  ☷: "What grounds the enforcement of rights when power refuses to yield?"
+  ⛨: "What structural boundaries preserve the charter against political erosion?"
+context_note: >-
+  Article 61 of the Magna Carta (1215) represents a radical memetic innovation:
+  the institutionalization of resistance within the legal structure itself. Unlike
+  modern conceptions of revolution as extra-legal, this framework embeds rebellion
+  within law, creating a strange loop where the system contains the seeds of its
+  own legitimate dissolution.
+source: "Grok analysis of Article 61 of Magna Carta; Wikipedia, Britannica, David Allen Green"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

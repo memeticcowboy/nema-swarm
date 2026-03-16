@@ -1,0 +1,94 @@
+term_id: C162
+hex_tag: '#C162'
+name: Demon_Haunted_World
+term: "The Demon-Haunted World"
+nemetic: >-
+  Φ(BaloneyDetection) = σ(wonder|skepticism) ∘ ρ(curiosity|method) ∘ λ(illumination|darkness)
+  ∘ β(inquiry|growth) ∘ δγ(truth|comfort)
+  ∘ μ(rigor|openness) + ε | :pure
+siml_encoding: >-
+  ⟨Science|candle⟩ ⊳ ⟨Skepticism|disciplined⟩ ⊗ ⟨Evidence|demanded⟩
+  ⊗ ⟨Pseudoscience|exposed⟩ ⊗ ⟨Wonder|preserved⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between genuine wonder and credulity, skepticism and cynicism)"
+    - "∂Φ/∂ρ (relational coupling between curiosity and disciplined method)"
+    - "∂Φ/∂λ (directional pull of illumination against darkness and ignorance)"
+    - "∂Φ/∂β (inquiry-growth feedback loop — questioning leads to deeper understanding)"
+    - "∂Φ/∂δγ (metabolic cost of truth-seeking vs comfort of comforting delusions)"
+    - "∂Φ/∂μ (boundary between methodological rigor and paradigm openness)"
+  Z_state: permeable
+  tendency: "Wonder/Rigor → 0.8"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - We
+  epistemics:
+    dsrp:
+      D: "Science vs. pseudoscience; wonder vs. superstition"
+      S: "Baloney Detection Kit as critical thinking toolkit"
+      R: "Evidence-based inquiry dispels superstition while sustaining genuine awe"
+      P: "Carl Sagan's scientific humanism and Enlightenment tradition"
+    learning: L1
+  time:
+    mode: linear
+    phase: "candle in the dark"
+  qualia:
+    affect:
+      - wonder
+      - vigilance
+      - clarity
+    aesthetic:
+      - luminous
+      - rigorous
+      - democratic
+    symbolic:
+      - candle-in-dark
+      - baloney-detector
+      - demon-haunted
+    energetic:
+      - illuminating
+      - testing
+      - protecting
+  agency:
+    type: ego
+    voice:
+      - Scientific Humanist
+      - Skeptical Inquirer
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How is genuine scientific wonder distinguished from credulity and superstition?"
+  ≈: "What flows between curiosity and disciplined method? Can rigor sustain awe?"
+  ▲: "Does scientific skepticism lead toward truth or toward dismissive cynicism?"
+  𐂷: "What forms of inquiry remain undeveloped between rigid scientism and gullible acceptance?"
+  ☷: "What is the metabolic cost of facing truth vs. the comfort of soothing delusions?"
+  ⛨: "What structures protect critical thinking without closing off genuine anomalies?"
+context_note: >-
+  Carl Sagan's seminal work advocating scientific skepticism and the Baloney Detection Kit
+  as essential tools against superstition, pseudoscience, and misinformation. Science is
+  positioned not as a body of knowledge but as a way of thinking.
+source: "Sagan, Carl. The Demon-Haunted World: Science as a Candle in the Dark (1995)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

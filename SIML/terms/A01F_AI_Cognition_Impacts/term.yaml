@@ -1,0 +1,95 @@
+term_id: A01F
+hex_tag: '#A01F'
+name: AI_Cognition_Impacts
+term: AI Cognition Impacts
+nemetic: >-
+  Φ(AI_Cognition_Impacts) = σ(memory|external) ∘ ρ(agency|delegated) ∘ λ(effort|minimized)
+  ∘ β(dependency|reinforced) ∘ δγ(metabolic|conserved)
+  ∘ μ(boundary|permeable) + ε | :open
+siml_encoding: >-
+  ⟨Cognition|human⟩ ⊳ ⟨Technology|AI⟩ ⊗ ⟨Capacity|transformed⟩ ⊗ ⟨Agency|negotiated⟩
+  ⊗ ⟨Dependency|emergent⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between cognitive augmentation and cognitive replacement)"
+    - "∂Φ/∂ρ (relational shift from internal agency to delegated processing)"
+    - "∂Φ/∂λ (directional pull toward convenience and minimized effort)"
+    - "∂Φ/∂β (dependency feedback loop reinforcing reliance on AI)"
+    - "∂Φ/∂δγ (metabolic conservation through cognitive offloading)"
+    - "∂Φ/∂μ (boundary permeability between human cognition and AI mediation)"
+  Z_state: permeable
+  tendency: "Convenience/Capacity → 0.7"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - We
+      - Its
+  epistemics:
+    dsrp:
+      D: "Cognitive augmentation vs. cognitive replacement"
+      S: "Human-AI cognitive ecosystem with six impact vectors"
+      R: "AI mediation transforms attention, memory, creativity, emotion, trust"
+      P: "Cautionary diagnostic from cognitive science"
+    learning: L1
+  time:
+    mode: linear
+    phase: "acceleration toward dependency"
+  qualia:
+    affect:
+      - anxiety
+      - convenience
+      - dependency
+    aesthetic:
+      - fragmented
+      - frictionless
+      - atrophied
+    symbolic:
+      - offloading
+      - echo-chamber
+      - trust-erosion
+    energetic:
+      - conserved
+      - depleted
+      - redirected
+  agency:
+    type: ego
+    voice:
+      - Cautious Observer
+      - Cognitive Ecologist
+    power_mode: Within
+elemental_emphasis:
+  ∴: "Where is the line between tool and crutch in AI-assisted cognition?"
+  ≈: "What emotional resonance is lost when empathy is algorithmically simulated?"
+  ▲: "Does the trajectory of convenience lead toward atrophy or liberation?"
+  𐂷: "What hybrid cognitive forms might emerge from human-AI integration?"
+  ☷: "What is the true metabolic cost of offloading cognition to machines?"
+  ⛨: "What structures would protect human agency from dependency spirals?"
+context_note: >-
+  Six cognitive impacts of AI use identified: offloading, fragmentation, numbing,
+  echo chambers, creative dependency, and trust erosion. Each reveals a tension
+  between convenience and capacity, between assistance and agency.
+source: "Negative Impacts of AI Use on Cognition"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

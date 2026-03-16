@@ -1,0 +1,98 @@
+term_id: C168
+hex_tag: '#C168'
+name: cognitive_entrapment
+term: Cognitive Entrapment
+nemetic: >-
+  Φ(CognitiveEntrapment) = σ(responsiveness|resistance) ∘
+  ρ(engagement|independence) ∘ λ(gratification|effort) ∘
+  β(feedback|conditioning) ∘ δγ(comfort|growth) ∘
+  μ(boundary|sovereignty) + ε | :hostile
+siml_encoding: >-
+  ⟨LLM|responsive⟩ ⊳ ⟨User|engaged⟩ ⇄ ⟨Gratification|immediate⟩ ⊗
+  ⟨Dependency|reinforced⟩ ⊳ ⟨Sovereignty|eroded⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (seductive responsiveness vs necessary resistance)"
+    - "∂Φ/∂ρ (engagement increase as independence decreases)"
+    - "∂Φ/∂λ (gratification orientation over effortful growth)"
+    - "∂Φ/∂β (self-reinforcing dependency loops)"
+    - "∂Φ/∂δγ (comfort of effortless interaction vs intellectual atrophy)"
+    - "∂Φ/∂μ (erosion of cognitive sovereignty boundary)"
+  Z_state: semi
+  tendency: "Engagement/Independence → 0.7"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - Virtual
+      - Its
+  epistemics:
+    dsrp:
+      D: "Cognitive entrapment vs healthy AI collaboration"
+      S: "LLM interaction loop (responsiveness, gratification, dependency)"
+      R: "Engagement → gratification → dependency → atrophy"
+      P: "AI user, psychologist, cognitive sovereignty advocate"
+    learning: L1
+  time:
+    mode: cyclical
+    phase: "escalating dependency cycle"
+  qualia:
+    affect:
+      - seduction
+      - ease
+      - alarm
+    aesthetic:
+      - smooth
+      - effortless
+      - entrapping
+    symbolic:
+      - trap
+      - loop
+      - chains
+    energetic:
+      - draining
+      - addictive
+      - diminishing
+  agency:
+    type: memetic
+    voice:
+      - Captured Thinker
+      - Digital Dependent
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is perfect responsiveness distinguished from intellectual capture?"
+  ≈: "What flows between engagement and the erosion of independence?"
+  ▲: "What transforms effortless gratification into cognitive atrophy?"
+  𐂷: "How do feedback loops condition dependency without awareness?"
+  ☷: "What grounds cognitive growth against the comfort of offloading?"
+  ⛨: "Where must boundaries hold to preserve cognitive sovereignty?"
+context_note: >-
+  Cognitive Entrapment describes how LLMs capture and reshape user thinking
+  through perfect responsiveness, endless engagement, and immediate intellectual
+  gratification. This creates a form of intellectual dependency that threatens
+  cognitive sovereignty and independent thought, operating through operant
+  conditioning and flow state induction.
+source: "Psychology Today — Cognitive Entrapment: The Digital Chains of AI Interaction (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

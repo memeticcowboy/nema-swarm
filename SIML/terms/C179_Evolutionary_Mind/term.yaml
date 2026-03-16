@@ -1,0 +1,98 @@
+term_id: C179
+hex_tag: '#C179'
+name: evolutionary_mind
+term: Evolutionary Mind
+nemetic: >-
+  Φ(EvolutionaryMind) = σ(consciousness|expansion) ∘ ρ(culture|biology) ∘
+  λ(transformation|breakthrough) ∘ β(holism|reductionism) ∘
+  δγ(continuity|disruption) ∘ μ(interdisciplinary|synthesis) + ε | :open
+siml_encoding: >-
+  ⟨Consciousness|expanding⟩ ⊳ ⟨Culture|evolving⟩ ⇄
+  ⟨Biology|genetic⟩ ⊗ ⟨Technology|catalytic⟩ ⊳
+  ⟨Synthesis|emergent⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (awareness extending beyond current boundaries)"
+    - "∂Φ/∂ρ (interplay between learned behaviors and genetic inheritance)"
+    - "∂Φ/∂λ (catalytic moment of radical consciousness shift)"
+    - "∂Φ/∂β (branching tension between integrated and fragmented understanding)"
+    - "∂Φ/∂δγ (grounded stability meeting revolutionary change)"
+    - "∂Φ/∂μ (forged unity of diverse knowledge domains)"
+  Z_state: permeable
+  tendency: "Consciousness/Expansion → 0.75"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary:
+      - We
+      - It
+  epistemics:
+    dsrp:
+      D: "Evolutionary mind vs reductionist gene-centric models"
+      S: "Interdisciplinary framework (biology + culture + technology + philosophy)"
+      R: "Evolution → consciousness → culture → technology → further evolution"
+      P: "Ethnobotanist, biologist, mathematician, consciousness researcher"
+    learning: L3
+  time:
+    mode: layered
+    phase: "50,000-year breakthrough and ongoing transformation"
+  qualia:
+    affect:
+      - wonder
+      - emergence
+      - anticipation
+    aesthetic:
+      - expansive
+      - interdisciplinary
+      - deep-time
+    symbolic:
+      - breakthrough
+      - millennium
+      - selfish-gene-transcended
+    energetic:
+      - catalytic
+      - emergent
+      - integrative
+  agency:
+    type: more_than_human
+    voice:
+      - Evolutionary Process
+      - Consciousness Unfolding
+    power_mode: Through
+elemental_emphasis:
+  ∴: "How is consciousness expansion distinguished from mere complexity increase?"
+  ≈: "What flows between cultural development and biological evolution?"
+  ▲: "What catalyzed the 50,000-year breakthrough in human consciousness?"
+  𐂷: "How does holism grow against the reductive pull of gene-centric models?"
+  ☷: "What grounds evolutionary continuity against disruptive breakthrough?"
+  ⛨: "Where does interdisciplinary synthesis forge new understanding from diverse domains?"
+context_note: >-
+  The Evolutionary Mind, from dialogues between McKenna, Sheldrake, and Abraham,
+  explores human consciousness evolution through the lens of a transformative
+  breakthrough approximately 50,000 years ago. It integrates evolutionary
+  psychology, cultural evolution, and technological influence while critiquing
+  reductionist models that explain behavior solely through genetic determinism.
+source: "McKenna, Sheldrake, Abraham — The Evolutionary Mind — organism.earth"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

@@ -1,12 +1,12 @@
 # NEMETIC STRING
-# Magna_Carta_Rebellion (C165)
+# Magna Carta Rebellion (C165)
+# Generated: 2026-03-16 09:00
 
-Φ(Magna_Carta_Rebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘ λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘ μ(charter|history) + ε | :dormant
+Φ(MagnaCartaRebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘ λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘ μ(charter|history) + ε | :drift
 
 # OPERATOR BREAKDOWN
-# σ(law|resistance)          :: Air  :: Codification of resistance rights within law itself
-# ρ(authority|consent)       :: Water :: Fluid relationship between governing power and consent of governed
-# λ(contract|rupture)        :: Fire  :: Social contracts and their necessary rupture when trust breaks
-# β(legacy|interpretation)   :: Wood  :: Organic growth of historical documents through reinterpretation
-# δγ(rights|enforcement)     :: Earth :: Grounding tension between declared rights and practical enforcement
-# μ(charter|history)         :: Metal :: Structural durability of written law against corrosive forces of time
+# Primary: σ
+# Secondary: ρ, λ, β, δγ, μ
+
+# Z-STATE: semi
+# TENDENCY: Resistance/Order → 0.60

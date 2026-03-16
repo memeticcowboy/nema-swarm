@@ -1,0 +1,94 @@
+term_id: A057
+hex_tag: '#A057'
+name: Confirmation_Bias
+term: Confirmation Bias
+nemetic: >-
+  Φ(Confirm) = σ(confirming|disconfirming) ∘ ρ(belief|evidence) ∘ λ(validation|truth)
+  ∘ β(reinforcement|feedback) ∘ δγ(comfort|certainty)
+  ∘ μ(boundary|selective) + ε | :closed
+siml_encoding: >-
+  ⟨Belief|held⟩ ⊳ ⟨Evidence|selected⟩ ⊗ ⟨Validation|experienced⟩ ⊗ ⟨Disconfirm|ignored⟩
+  ⊗ ⟨Certainty|reinforced⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (how the distinction operator filters evidence by confirmation value)"
+    - "∂Φ/∂ρ (relational asymmetry between belief-holding and evidence-considering)"
+    - "∂Φ/∂λ (directional pull toward validation over truth)"
+    - "∂Φ/∂β (feedback loop intensity — how belief reinforces itself)"
+    - "∂Φ/∂δγ (metabolic cost/benefit of certainty vs ambiguity tolerance)"
+    - "∂Φ/∂μ (boundary permeability — what can challenge the belief)"
+  Z_state: sealed
+  tendency: "Validation/Truth → 0.85"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - We
+  epistemics:
+    dsrp:
+      D: "Confirming evidence vs. disconfirming evidence"
+      S: "Self-reinforcing belief-evidence filtering system"
+      R: "Belief shapes what evidence is admitted; evidence reinforces belief"
+      P: "Individual cognition scaling to collective echo chambers"
+    learning: L1
+  time:
+    mode: cyclical
+    phase: "self-reinforcing loop"
+  qualia:
+    affect:
+      - certainty
+      - comfort
+      - righteous
+    aesthetic:
+      - selective
+      - filtering
+      - one-directional
+    symbolic:
+      - echo-chamber
+      - filter-bubble
+      - epistemic-closure
+    energetic:
+      - self-reinforcing
+      - sealing
+      - constricting
+  agency:
+    type: ego
+    voice:
+      - Belief Defender
+      - Selective Perceiver
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How is confirming evidence distinguished from disconfirming evidence pre-consciously?"
+  ≈: "What is the felt sense when encountering confirming vs. disconfirming information?"
+  ▲: "Does the search serve truth or comfort? Who benefits from belief maintenance?"
+  𐂷: "What experiments have been refused? What narratives remain ungrown?"
+  ☷: "What is the true cost of wrong certainty compounding over time?"
+  ⛨: "What structures would make disconfirmation welcome rather than threatening?"
+context_note: >-
+  Confirmation Bias describes the tendency to favor information that confirms existing
+  beliefs while ignoring contradictory evidence. Operates through selective exposure,
+  selective interpretation, and selective memory.
+source: "Navigating the Quirky World of Cognitive Biases"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

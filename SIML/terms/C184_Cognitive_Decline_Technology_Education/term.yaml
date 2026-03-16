@@ -1,0 +1,99 @@
+term_id: C184
+hex_tag: '#C184'
+name: cognitive_decline_technology_education
+term: Cognitive Decline Technology Education
+nemetic: >-
+  Φ(CognitiveDecline) = σ(capacity|atrophy) ∘ ρ(depth|fragmentation) ∘
+  λ(engagement|distraction) ∘ β(literacy|scrolling) ∘
+  δγ(grounding|disruption) ∘ μ(focus|multitasking) + ε | :drift
+siml_encoding: >-
+  ⟨CognitiveCapacity|declining⟩ ⊳ ⟨Attention|fragmented⟩ ⇄
+  ⟨ScreenTime|escalating⟩ ⊗ ⟨DeepReading|abandoned⟩ ⊳
+  ⟨Education|disrupted⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (cognitive capacity vs its atrophy over time)"
+    - "∂Φ/∂ρ (flow from deep reading to fragmented consumption)"
+    - "∂Φ/∂λ (transformation from active engagement to passive distraction)"
+    - "∂Φ/∂β (branching paths of literacy vs endless scrolling)"
+    - "∂Φ/∂δγ (stable educational grounding vs systemic disruption)"
+    - "∂Φ/∂μ (boundary between sustained focus and fractured multitasking)"
+  Z_state: semi
+  tendency: "Capacity/Atrophy → 0.6"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - I
+      - Its
+  epistemics:
+    dsrp:
+      D: "Environmental cognitive decline vs genetic cognitive change"
+      S: "Technology-education-media ecosystem affecting cognition"
+      R: "Screen time → attention fragmentation → reduced literacy → cognitive decline"
+      P: "Educator, psychologist, student, policymaker"
+    learning: L1
+  time:
+    mode: linear
+    phase: "accelerating decline since mid-2010s"
+  qualia:
+    affect:
+      - alarm
+      - loss
+      - urgency
+    aesthetic:
+      - fragmenting
+      - shallow
+      - eroding
+    symbolic:
+      - infinite-scroll
+      - attention-span
+      - PISA-scores
+    energetic:
+      - depleting
+      - scattering
+      - diminishing
+  agency:
+    type: collective
+    voice:
+      - Distracted Generation
+      - Concerned Educator
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is environmental cognitive decline distinguished from genetic change?"
+  ≈: "What flows between deep engagement and fragmented media consumption?"
+  ▲: "What transforms tools of connection into engines of cognitive dissolution?"
+  𐂷: "How does the literacy-scrolling fork shape developmental trajectories?"
+  ☷: "What grounds educational systems against the disruption of attention?"
+  ⛨: "Where must focus boundaries hold against the normalization of multitasking?"
+context_note: >-
+  Research indicates significant decline in cognitive abilities among young
+  people driven by environmental factors including technology use, media
+  consumption shifts, and educational disruptions. Only 37.6% of Americans read
+  novels in 2022. The trend predates COVID-19, with evidence of systemic
+  changes since the mid-2010s affecting focus, reasoning, and information
+  processing.
+source: "Futurism — University of Michigan and PISA studies (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

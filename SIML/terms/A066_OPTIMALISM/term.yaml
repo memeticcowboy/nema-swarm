@@ -1,0 +1,96 @@
+term_id: A066
+hex_tag: '#A066'
+name: OPTIMALISM
+term: OPTIMALISM - Precision Hope (Bob-RJ Framework)
+nemetic: >-
+  Φ(Optimalism) = σ(optimal|perfectionist) ∘ ρ(flow|friction) ∘ λ(aspiration|acceptance)
+  ∘ β(growth|stagnation) ∘ δγ(calibration|drift) ∘ μ(structure|flexibility) + ε | :open
+siml_encoding: >-
+  ⟨Agent|aspiring⟩ ⊳ ⟨Frame|optimal-enough⟩ ⇄ ⟨Practice|calibrated-hope⟩ ⊗
+  ⟨Value|precision-over-perfection⟩ ⊳ ⟨Outcome|sustainable-growth⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
+  partials:
+  - "∂Φ/∂σ (distinction between optimal-enough and perfectionist paralysis)"
+  - "∂Φ/∂ρ (relational flow between aspiration and present capacity)"
+  - "∂Φ/∂λ (directional tension between aspiration and radical acceptance)"
+  - "∂Φ/∂β (branching between sustainable growth and stagnation)"
+  - "∂Φ/∂δγ (metabolic calibration of hope against drift)"
+  - "∂Φ/∂μ (structural scaffolding balanced with adaptive flexibility)"
+  Z_state: permeable
+  tendency: "Calibration/Perfectionism → 0.75"
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x06'
+  - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - We
+    - It
+  epistemics:
+    dsrp:
+      D: "Optimalism vs perfectionism vs complacency"
+      S: "Bob-RJ framework of precision hope and calibrated aspiration"
+      R: "Aspiration → calibration → action → feedback → recalibration"
+      P: "Practitioner, coach, philosopher of good-enough"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "calibration-action-feedback loop"
+  qualia:
+    affect:
+    - hope
+    - groundedness
+    - sustainable motivation
+    aesthetic:
+    - precise
+    - warm
+    - measured
+    symbolic:
+    - compass
+    - tuning fork
+    - seed
+    energetic:
+    - steady
+    - renewing
+    - patient
+  agency:
+    type: ego
+    voice:
+    - Calibrated Aspirant
+    - Precision Hopeful
+    power_mode: Within
+elemental_emphasis:
+  ∴: "What distinguishes precision hope from naive optimism or perfectionist paralysis?"
+  ≈: "How does aspiration flow through constraint without losing momentum?"
+  ▲: "What direction does calibrated hope aim toward when perfection is released?"
+  𐂷: "What forms of growth become possible when 'good enough' is embraced as strategy?"
+  ☷: "What sustains optimalism through cycles of disappointment and recalibration?"
+  ⛨: "What structures prevent precision hope from collapsing into complacency?"
+context_note: "OPTIMALISM represents the Bob-RJ framework of precision hope — a practice
+  of calibrated aspiration that rejects both perfectionism and complacency. It treats
+  'optimal enough' as a dynamic target, continuously recalibrated through feedback.
+  Unlike naive optimism, optimalism is precise: it acknowledges constraints, measures
+  progress against realistic benchmarks, and sustains motivation through honest
+  assessment rather than inflated expectations."
+source: "Bob-RJ Framework — Precision Hope (Memetic Cowboy)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

@@ -1,0 +1,94 @@
+term_id: C15A
+hex_tag: '#C15A'
+name: ChatGPT_Critical_Thinking_Prompts
+term: ChatGPT Critical Thinking Prompts
+nemetic: >-
+  Φ(PromptThink) = σ(introspection|projection) ∘ ρ(question|assumption) ∘ λ(challenge|growth)
+  ∘ β(feedback|insight) ∘ δγ(pattern|disruption)
+  ∘ μ(bias|awareness) + ε | :open
+siml_encoding: >-
+  ⟨Query|posed⟩ ⊳ ⟨Reflection|engaged⟩ ⊗ ⟨Assumption|surfaced⟩
+  ⊗ ⟨Challenge|embraced⟩ ⊗ ⟨Insight|integrated⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between self-examination and externalized thinking)"
+    - "∂Φ/∂ρ (relational flow between questioning and underlying assumptions)"
+    - "∂Φ/∂λ (direction from comfort zone toward growth edge)"
+    - "∂Φ/∂β (feedback between AI response and human insight)"
+    - "∂Φ/∂δγ (cycle of pattern recognition and pattern breaking)"
+    - "∂Φ/∂μ (boundary between biased and unbiased cognition)"
+  Z_state: permeable
+  tendency: "Awareness/Automation → 0.6"
+  hex:
+    - '0x01'
+    - '0x05'
+    - '0x0A'
+    - '0x0F'
+    - '0x14'
+    - '0x19'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - Its
+  epistemics:
+    dsrp:
+      D: "Internal reflection vs. externalized AI-mediated inquiry"
+      S: "Five prompt archetypes as cognitive mirror system"
+      R: "Prompts externalize dialogue, making thought patterns examinable"
+      P: "Socratic method applied through AI augmentation"
+    learning: L1
+  time:
+    mode: event
+    phase: "reflective provocation"
+  qualia:
+    affect:
+      - discomfort
+      - curiosity
+      - liberation
+    aesthetic:
+      - confrontational
+      - reflective
+      - clarifying
+    symbolic:
+      - cognitive-mirror
+      - excuse-interrogator
+      - belief-dissolver
+    energetic:
+      - provoking
+      - surfacing
+      - integrating
+  agency:
+    type: ego
+    voice:
+      - Socratic Questioner
+      - Cognitive Mirror
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How is genuine self-examination distinguished from comfortable self-talk?"
+  ≈: "What flows between the AI prompt and the human's hidden assumptions?"
+  ▲: "Where does provoked discomfort lead — toward growth or defensive retreat?"
+  𐂷: "What beliefs might dissolve if systematically challenged by external inquiry?"
+  ☷: "What habitual patterns of thought does structured AI questioning disrupt?"
+  ⛨: "What boundaries between bias and awareness do these prompts enforce?"
+context_note: >-
+  Five ChatGPT prompt archetypes function as cognitive mirrors — the Excuse Interrogator,
+  Belief Assumption, Fear Visualizer, Perspective Shifter, and Attachment Dissolver —
+  using AI-mediated inquiry to extend the range and depth of self-examination.
+source: "Forbes — 5 Hard-Hitting ChatGPT Prompts That Will Change The Way You Think (Jodie Cook)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

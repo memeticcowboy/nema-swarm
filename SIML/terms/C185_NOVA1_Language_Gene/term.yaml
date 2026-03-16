@@ -1,0 +1,99 @@
+term_id: C185
+hex_tag: '#C185'
+name: nova1_language_gene
+term: NOVA1 Language Gene
+nemetic: >-
+  Φ(NOVA1) = σ(expression|silence) ∘ ρ(complexity|simplicity) ∘
+  λ(communication|isolation) ∘ β(speech|squeak) ∘ δγ(grounding|drift) ∘
+  μ(human|neanderthal) + ε | :open
+siml_encoding: >-
+  ⟨NOVA1Gene|mutated⟩ ⊳ ⟨Vocalization|altered⟩ ⇄
+  ⟨SpeechCapacity|emergent⟩ ⊗ ⟨HomoSapiens|advantaged⟩ ⊳
+  ⟨Language|complex⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (vocal expression vs silence at the genetic boundary)"
+    - "∂Φ/∂ρ (flow from simple to complex communication patterns)"
+    - "∂Φ/∂λ (transformation from isolation to social communication)"
+    - "∂Φ/∂β (branching evolution of speech vs basic vocalization)"
+    - "∂Φ/∂δγ (stable genetic grounding vs evolutionary drift)"
+    - "∂Φ/∂μ (boundary distinguishing human speech from other hominins)"
+  Z_state: permeable
+  tendency: "Expression/Silence → 0.8"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: It
+    secondary:
+      - MoreThanHuman
+      - We
+  epistemics:
+    dsrp:
+      D: "Human NOVA1 I197V variant vs ancestral hominin variant"
+      S: "CRISPR gene-editing experimental framework"
+      R: "Gene mutation → vocalization change → speech capacity → language evolution"
+      P: "Geneticist, evolutionary biologist, CRISPR researcher"
+    learning: L2
+  time:
+    mode: layered
+    phase: "deep evolutionary divergence point"
+  qualia:
+    affect:
+      - wonder
+      - precision
+      - revelation
+    aesthetic:
+      - molecular
+      - evolutionary
+      - emergent
+    symbolic:
+      - amino-acid-switch
+      - mouse-squeak
+      - language-threshold
+    energetic:
+      - catalytic
+      - divergent
+      - foundational
+  agency:
+    type: more_than_human
+    voice:
+      - Evolutionary Process
+      - Genetic Blueprint
+    power_mode: Through
+elemental_emphasis:
+  ∴: "How does a single amino acid substitution distinguish speech from silence?"
+  ≈: "What flows between genetic simplicity and communicative complexity?"
+  ▲: "What transforms biological substrate into the capacity for symbolic language?"
+  𐂷: "How does the speech-squeak branching reveal evolutionary trajectories?"
+  ☷: "What grounds the NOVA1 variant in the deep evolutionary soil of hominins?"
+  ⛨: "Where does the boundary between human and Neanderthal speech capacity lie?"
+context_note: >-
+  The NOVA1 gene's human-specific I197V variant, when inserted into mice via
+  CRISPR, produced higher-pitched squeaks and more complex mating calls. This
+  single amino acid substitution (isoleucine to valine at position 197) may
+  have been pivotal in human speech evolution. Neanderthals and Denisovans
+  lacked this variant, raising questions about communication's role in Homo
+  sapiens' success.
+source: "IFLScience — Scientists Put a Human Language Gene Into Mice (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML
