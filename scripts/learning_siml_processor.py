@@ -335,6 +335,20 @@ def process_next_file():
     processed_files = {p['source_file'] for p in manifest.get('processed', [])}
     source_files = [f for f in source_files if f not in processed_files]
     
+    # Skip files that were already processed as duplicates (L101-L105, L103-L105)
+    # These were from the incorrect source directory
+    skip_files = {
+        '10 - Memory Reconsolidation and Machine Unlearning.md',
+        '11 - Memory Pruning and Revisiting.md',
+        '12 - Thermodynamic Learning Efficiency.md',
+        '13 - Kolb\'s Learning Styles and Bloom\'s Taxonomy.md',
+        '14 - Educational Game Design Principles.md',
+        '15 - Neuroplasticity and Brain-Computer Interfaces.md',
+        '16 - Direct Brain Skill-Writing via fMRI.md',
+        '17 - AI-Personalized Math Tutoring.md',
+    }
+    source_files = [f for f in source_files if f not in skip_files]
+    
     if not source_files:
         log_message("No files remaining to process")
         return False

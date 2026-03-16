@@ -1,0 +1,44 @@
+---
+term_id: A067
+hex_tag: A067
+canonical_name: Alief
+category: cognitive_phenomenon
+description: Associative, affect-laden, behavior-directing mental state that operates independently of truth-aimed belief
+created_date: 2026-03-17
+status: canonical
+
+source:
+  philosopher: "Tamar Gendler"
+  work: "Alief and Belief (2008)"
+  context: "Philosophical psychology, implicit bias research"
+
+elemental_mapping:
+  air: 0.25
+  water: 0.85
+  fire: 0.80
+  wood: 0.40
+  earth: 0.55
+  metal: 0.30
+  meta: 0.60
+
+# Alief = high Water (associative, resonance-based) + high Fire (affect, activation)
+# Low Air because alief bypasses truth-norms and evidence-evaluation
+# Moderate Earth for behavioral cycling and metabolic grounding
+# Low Metal because alief operates below obligation/structure
+
+related_terms:
+  - "A065_Motivation_Triangle"
+  - "M016_SWAY"
+  - "M019_DODO_X"
+  - "C138_Confabulation"
+  - "A064_Attention_Fragmentation"
+  - "E011_Enactive_Cognition"
+
+dialectical_pairs:
+  - alief|belief: "Automatic associative response vs. deliberative truth-aimed acceptance"
+  - felt|known: "Somatic certainty vs. propositional assent"
+  - reactive|reflective: "Knot-level triggering vs. Thread-level deliberation"
+
+blog_post: https://memeticcowboy.github.io/nemetics/blog/2026-03-17-alief-belief-split.html
+glossary_entry: https://memeticcowboy.github.io/nemetics/glossary/A/alief.html
+---
