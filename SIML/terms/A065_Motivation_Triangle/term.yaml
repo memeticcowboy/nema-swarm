@@ -1,0 +1,87 @@
+hex_tag: '#A065'
+term: Motivation Triangle (Eyal)
+nemetic: Φ(Motivation_Triangle) = λ(benefit-direction|aim-pull) ∘ σ(behavior-distinction|action-making)
+  ∘ ρ(belief-resonance|expectation-lock) ∘ ∮(circulation-integration|vertex-breathing) + ε | :circulating
+siml_encoding: ⟨Benefit|aim⟩ ⊳ ⟨Behavior|action⟩ ⇄ ⟨Belief|expectation⟩ ⊗ ⟨Frame|Eyal-Triangle⟩
+  → ⟨Outcome|motivated-state⟩
+formalism:
+  math_operators:
+  - λ
+  - σ
+  - ρ
+  - ∮
+  dim_operators:
+  - Q_forward
+  - χ
+  - Q_inward
+  - Ψ_integrative
+  partials:
+  - ∂Φ/∂λ (benefit direction)
+  - ∂Φ/∂σ (behavior distinction)
+  - ∂Φ/∂ρ (belief resonance)
+  - ∂Φ/∂∮ (circulation integration)
+  Z_state: circulating
+  tendency: Integration/Direction/Distinction/Resonance → 1
+  hex:
+  - '0x03'
+  - '0x01'
+  - '0x02'
+  - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - We
+    - It
+  epistemics:
+    dsrp:
+      D: Benefit vs Behavior vs Belief
+      S: Eyal's three-vertex system
+      R: Circulation between vertices (not foundation)
+      P: Practitioner, coach, self-optimizer
+    learning: L3
+  time:
+    mode: cyclical
+    phase: motivation-moment
+  qualia:
+    affect:
+    - driven
+    - stuck
+    - flowing
+    aesthetic:
+    - triangular
+    - dynamic
+    - balanced
+    symbolic:
+    - triangle
+    - circulation
+    - basin
+    energetic:
+    - pulling
+    - distinguishing
+    - resonating
+  agency:
+    type: ego
+    voice:
+    - Motivated Self
+    - Stuck Practitioner
+    power_mode: Within
+elemental_emphasis:
+  ∴: How is each vertex distinguished from the others?
+  ≈: What resonance does belief carry when locked vs flowing?
+  ▲: What direction does benefit pull the system?
+  𐂷: What possibilities open through behavioral distinction?
+  ☷: How does motivation cycle through collapse and renewal?
+  ⛨: What boundaries contain the three vertices as a system?
+context_note: 'Motivation Triangle represents a popular psychology framework that
+  maps well to NEMETIC operators. Key insight: the foundation is circulation between
+  vertices, not any single element. Eyal''s framework risks dimensional collapse if
+  belief is treated as load-bearing. The triangle is diagnostic, not generative—motivation
+  is the visible wave; nematic metabolism is what moves underneath.'
+source: Nir Eyal's Motivation Triangle (Benefit-Behavior-Belief) + Bert's Nemetics
+  analysis
+hex_registry:
+  series: A
+  tag: A065
+date_processed: '2026-03-15'
+processed_by: Bert/The Memetic Cowboy
