@@ -113,8 +113,8 @@ That's the line.
 
 ## Cross-References
 
-- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/C/catechism.html)** (CB007) — The diagnostic tool for noticing when stance slips
-- **[Metabolic Cost](https://memeticcowboy.github.io/nemetics/glossary/M/metabolic_cost.html)** (CB004) — The price of maintaining patterns
-- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html)** (M016) — Detection of implicit pattern alignment
-- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/D/dodo-x.html)** (M019) — Pathology of capture and lock-in
-- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/A/alief.html)** (A067) — The automatic patterns that drive codependent behavior
+- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/catechism.html)** (CB007) — The diagnostic tool for noticing when stance slips
+- **[Metabolic Cost](https://memeticcowboy.github.io/nemetics/glossary/metabolic_cost.html)** (CB004) — The price of maintaining patterns
+- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html)** (M016) — Detection of implicit pattern alignment
+- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)** (M019) — Pathology of capture and lock-in
+- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** (A067) — The automatic patterns that drive codependent behavior

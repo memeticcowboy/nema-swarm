@@ -83,8 +83,8 @@ The Cowboy's job is to feel the gap, to notice when alief and belief diverge, an
 
 ## Cross-References
 
-- [Belief](https://memeticcowboy.github.io/nemetics/glossary/B/belief.html) — The Air-native counterpart
-- [SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html) (M016) — The detection of implicit patterns
-- [DODO-X](https://memeticcowboy.github.io/nemetics/glossary/D/dodo-x.html) (M019) — The pathology of captured aliefs
-- [Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/M/motivation_triangle.html) (A065) — The explicit architecture alief shadows
-- [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/E/enactive_cognition.html) (E011) — The Earth-grounded alternative to representational belief
+- [Belief](https://memeticcowboy.github.io/nemetics/glossary/belief.html) — The Air-native counterpart
+- [SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html) (M016) — The detection of implicit patterns
+- [DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html) (M019) — The pathology of captured aliefs
+- [Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/motivation_triangle.html) (A065) — The explicit architecture alief shadows
+- [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html) (E011) — The Earth-grounded alternative to representational belief

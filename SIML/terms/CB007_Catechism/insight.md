@@ -108,9 +108,9 @@ The Catechism is not what to think. It's how to keep thinking—when the librari
 
 ## Cross-References
 
-- [Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/R/recursive_phenomenology.html) (CB001) — The self-referential structure of NEMEtic inquiry
-- [Self-Undermining Gesture](https://memeticcowboy.github.io/nemetics/glossary/S/self_undermining_gesture.html) (CB003) — The pattern that undoes its own sealing
-- [Mythworks](https://memeticcowboy.github.io/nemetics/glossary/M/mythworks.html) (CB005) — Story as compression and coordination
-- [Alief](https://memeticcowboy.github.io/nemetics/glossary/A/alief.html) (A067) — The embodied, automatic patterns the Catechism speaks to
-- [Pragmatic Belief](https://memeticcowboy.github.io/nemetics/glossary/P/pragmatic_belief.html) (A068) — Belief as stance and coordination
-- [SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html) (M016) — The detection the Catechism performs
+- [Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/recursive_phenomenology.html) (CB001) — The self-referential structure of NEMEtic inquiry
+- [Self-Undermining Gesture](https://memeticcowboy.github.io/nemetics/glossary/self_undermining_gesture.html) (CB003) — The pattern that undoes its own sealing
+- [Mythworks](https://memeticcowboy.github.io/nemetics/glossary/mythworks.html) (CB005) — Story as compression and coordination
+- [Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html) (A067) — The embodied, automatic patterns the Catechism speaks to
+- [Pragmatic Belief](https://memeticcowboy.github.io/nemetics/glossary/pragmatic_belief.html) (A068) — Belief as stance and coordination
+- [SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html) (M016) — The detection the Catechism performs
