@@ -67,7 +67,7 @@ B:
     B001: Borrowed_Mind
 CB:
   description: Cowboy Canonical terms - Memetic Cowboy's core framework concepts
-  next_available: CB013
+  next_available: CB015
   assigned:
     CB001: Recursive_Phenomenology
     CB002: Theory_in_Drag
@@ -81,6 +81,8 @@ CB:
     CB010: Rumspringa_Protocol
     CB011: Lariat_Protocol
     CB012: Three_Body_Ecology
+    CB013: SelfMesh
+    CB014: 6DOF
   collisions: {}
 C:
   description: Critical thinking and cognitive processes
