@@ -1,0 +1,78 @@
+;; H003_Hauntology
+;; Nemetic String: [Past_Pattern] ⊗ [Failed_δγ] → [Spectral_Presence] ⇄ [Mourning] ⊕ [Temporal_Shear]
+;; Elemental: Water 0.90 (dominant), Meta 0.85, Metal 0.70
+
+(define hauntology
+  (λ (past-pattern delta-gamma-status)
+    ;; Left funnel: Past pattern enters metabolic cycling
+    (let ((cycling (δγ-process past-pattern)))
+      
+      ;; Bottleneck: δ (release) occurs but γ (regeneration) fails
+      (if (stuck-at-delta? cycling)
+          
+          ;; Spectral emergence: undead residue
+          (let ((specter (σ-cut-incomplete 
+                          (ε-trapped past-pattern))))
+            
+            ;; The haunt: virtual presence without actuality
+            (let ((haunt (ρ-resonance-with-absence specter)))
+              
+              ;; Return: pattern that haunts rather than metabolizes
+              (values haunt
+                      'temporal-shear
+                      'failed-composting
+                      ;; Fertile vs haunted ε diagnostic
+                      (if (γ-regen-positive?)
+                          'fertile-openness
+                          'melancholic-openness))))
+          
+          ;; Normal case: pattern composts successfully
+          (values 'composted 'fertility 'regeneration)))))
+
+;; The "time is out of joint" — temporal σ-cuts that don't complete
+(define temporal-shear
+  (Φ (t)
+    ;; Distinctions made but not metabolized
+    (= σ-cut incomplete)))
+
+;; The "cancellation of the future" — λ without β
+(define foreclosed-future
+  (λ (lambda-aim)
+    (when (null? beta-branching)
+      ;; Purpose with no generative range
+      (orbit-as-attractor-without-basin lambda-aim))))
+
+;; The "lost futures" — Ω-permeability preemptively closed
+(define preemptive-domestication
+  (Ω-alternatives
+    ;; Arrived already domesticated
+    (mourning-for-never-was)))
+
+;; Retro as failed δγ: repetition without fertility
+(define retro-pathology
+  (δγ-cycle
+    (δ release)  ; happens
+    (γ 0.0)))    ; regeneration absent
+
+;; The eerie: ρ-resonance with missing correlate
+(define eerie-atmosphere
+  (ρ-fold
+    (felt-kinship absent-presence)))
+
+;; Fisher's trap: beautiful sadness as elegant prison
+(define hauntological-capture
+  (μ-boundary
+    (appears-open)  ; feels like openness
+    (functions-closed)))  ; but it's closure
+
+;; Daemon mappings
+(define hauntology-daemons
+  `((ρ-daemon . resonance-with-absence)
+    (δ-daemon . release-without-regeneration)
+    (μ-daemon . elegant-prison-of-sadness)
+    (if-prime . fertile-vs-haunted-detector)
+    (meta-daemon . temporal-shear-observer)))
+
+;; The Cowboy's discipline
+(define cowboy-distinction
+  "Mark the divergence, respect the gradient, keep riding.")
