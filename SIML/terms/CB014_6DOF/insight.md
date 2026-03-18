@@ -118,4 +118,44 @@ Pre-flight scan of all six:
 
 **6DOF = The Ψ-pose**—the instantaneous geometry of the bow-tie throat.
 
+---
+
+## Maneuver Theory
+
+6DOF maneuvers are **macro-operators** composed of elemental weightings:
+
+| Maneuver | Elemental | NEMA Phase | Function |
+|----------|-----------|------------|----------|
+| **SCAN** | Air–Wood | N (Notice) | σ-sweep across We/Other; detects Twist residues |
+| **ENGAGE** | Fire–Metal | E→M | λ-vectored with μ-integrity |
+| **RESONATE** | Water–Metal | E (Engage) | ρ-coupling with boundary preservation |
+| **COMPOST** | Earth–Water | M (Mull) | δγ-cycling with ρ-permeability |
+| **REFRAME** | Wood–Air | N→E | β-branching + σ-redistinction |
+| **COORDINATE** | Aether (✶) | A (Activate) | Z-harmonic; holds tensions without resolution |
+
+---
+
+## The Ω-Test for Pose Integrity
+
+**A pose is lumemic** (expanding option space) if:
+- Yaw can still sweep to Other without Roll collapse
+- Z-translation remains viable (can descend to compost)
+- Pitch can reverse (Fire→Earth transition possible)
+
+**A pose is usurpenic** (contracting option space) if:
+- Roll is locked (Metal without Water = fortress stance)
+- Yaw is fixed (Air captured by validation loops)
+- X is unidirectional (+X broadcasting without −X reception)
+
+---
+
+## Thermodynamic Pose Management
+
+| ε-Condition | Mesh State | Diagnostic |
+|-------------|------------|------------|
+| ε > 0, distributed | Agile | All maneuvers available; Aether active |
+| ε → 0 on single axis | Saturated | Specific capture vector dominant |
+| ε → 0 globally | Sealed | MemeGrid capture; needs external perturbation |
+| ε chaotic (unbounded) | Diffused | Air-failure; no coherent pose possible |
+
 ✶
