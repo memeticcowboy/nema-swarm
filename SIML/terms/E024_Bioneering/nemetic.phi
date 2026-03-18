@@ -1,0 +1,75 @@
+;; E024_Bioneering
+;; Nemetic String: [β_Branching] ⊗ [δγ_Cycling] → [Four_Spheres] ⇄ [Socio_Technical] ⊕ [γ_regen_≥_1]
+;; Elemental: Wood 0.85, Earth 0.80, Water 0.70
+
+(define bioneering
+  (λ (socio-technical-system four-spheres-context)
+    ;; Bioneering applies β + δγ to human systems within planetary constraints
+    
+    ;; β (Wood): Generative range expansion into viable niches
+    (let ((branches (β-expand socio-technical-system four-spheres-context)))
+      
+      ;; δγ (Earth): Metabolic cycling—what gets released, what regenerates
+      (let ((cycled (δγ-cycle branches)))
+        
+        ;; Assessment: γ_regen ≥ 1?
+        (let ((regen-factor (γ-assess cycled)))
+          
+          ;; Return bioneered solution or failure mode
+          (if (>= regen-factor 1)
+              (values cycled 'sustainable-mutual-aid)  ;; γ_regen ≈ 1
+              (if (< regen-factor 1)
+                  (values cycled 'extractive-depletion)  ;; γ < 1
+                  (values cycled 'cancerous-overgrowth))))))))  ;; γ >> 1
+
+;; β without δγ = tangled chaos (green tech without ethics)
+(define β-without-δγ
+  (λ (solution)
+    (and (β-branching? solution)
+         (not (δγ-cycling? solution))
+         'tangled-chaos)))  ;; solar panels + slave labor, etc.
+
+;; δγ without β = stagnation (deep ecology without innovation)
+(define δγ-without-β
+  (λ (solution)
+    (and (δγ-cycling? solution)
+         (not (β-branching? solution))
+         'stagnation)))  ;; preservation without pioneering
+
+;; The Ausubel criterion: elegant and simple solutions
+(define ausubel-criterion
+  (λ (solution)
+    (and (elegant? solution)
+         (simple? solution)
+         (viable-niche? solution))))
+
+;; The bioneer's question pair
+(define bioneer-questions
+  '("What does this release?"
+    "What does it regenerate?"))
+
+;; Sphere-overlap awareness: habitat nesting
+(define sphere-nesting
+  (λ (location)
+    ;; Soil example: contains all four spheres co-present
+    (list (geosphere-presence location)   ;; minerals
+          (hydrosphere-presence location)  ;; moisture
+          (atmosphere-presence location)   ;; air pockets
+          (biosphere-presence location)))) ;; insects/plants
+
+;; SelfMesh calibration for bioneering
+(define bioneer-pose
+  (λ (target-sphere)
+    ;; Adjust 6DOF for sphere-specific constraints
+    (case target-sphere
+      ('geosphere (pose-metal-dominant))    ;; rigid, structural
+      ('hydrosphere (pose-water-dominant))  ;; flow, connectivity
+      ('atmosphere (pose-air-dominant))     ;; mixing, diffusion
+      ('biosphere (pose-wood-earth))))))    ;; metabolic, generative
+
+;; Formal: Bioneering = (β ∘ δγ)(Systems) ⊕_spheres [γ_regen ≥ 1]
+(define bioneering-formal
+  (⊕_spheres 
+    (compose δγ β)
+    socio-technical-system
+    (constraint γ_regen >= 1)))
