@@ -62,9 +62,11 @@ A:
   collisions: {}
 B:
   description: Borrowed concepts and external frameworks
-  next_available: B002
+  next_available: B003
   assigned:
     B001: Borrowed_Mind
+    B002: LeapFrogU
+  collisions: {}
 CB:
   description: Cowboy Canonical terms - Memetic Cowboy's core framework concepts
   next_available: CB015

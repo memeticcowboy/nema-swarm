@@ -1,0 +1,128 @@
+;; B002_LeapFrogU
+;; Nemetic String: [Upload_Imperative] ⊗ [β_Branching] → [We_Sphere] ⇄ [Threadplex] ⊕ [Ω_Permeability]
+;; Elemental: Air 0.80, Wood 0.75, Metal 0.70
+
+(define leapfrogu
+  (λ (educational-we-sphere)
+    ;; LeapFrogU transforms We-Sphere to Threadplex without MemeGrid capture
+    
+    ;; Upload imperative: lumemic replication
+    (let ((upload-mode (activate-upload educational-we-sphere)))
+      
+      ;; β-branching at institutional scale
+      (let ((branched (β-institutional-leap upload-mode)))
+        
+        ;; StoryTech pairing for Water resonance
+        (let ((paired (pair-with-storytech branched)))
+          
+          ;; Knowmad production: SelfMesh-agile agents
+          (let ((knowmads (produce-knowmads paired)))
+            
+            ;; Maintain Ω-permeability through anticipatory narrative
+            (let ((omega-adjacent (maintain-Ω-permeability knowmads)))
+              
+              ;; Return Threadplex coherence
+              (values omega-adjacent
+                      'we-sphere-transformed
+                      'memegrid-prevented)))))))
+
+;; Upload vs Download: Lumemic vs Usurpenic
+(define upload-vs-download
+  `((upload . (lumemic . ε-preserved))      ;; generative learning, active production
+    (download . (usurpenic . ε-constrained))))  ;; passive banking, Knot formation
+
+;; The Upload Imperative
+(define upload-imperative
+  (λ (learning-mode)
+    (if (generative? learning-mode)
+        (values 'lumemic-force 'option-space-expansion)
+        (values 'usurpenic-force 'knot-formation))))
+
+;; β-branching at institutional scale
+(define β-institutional-leap
+  (λ (current-attractor)
+    ;; Skip attractors via 6DOF RECALIBRATE maneuver
+    (let ((new-basin (6dof-maneuver 'RECALIBRATE current-attractor)))
+      (values new-basin 'leap-accomplished))))
+
+;; Leapfrogging vs Incremental Reform
+(define leapfrogging
+  (λ (strategy)
+    (case strategy
+      ('incremental 'gradient-following-into-memegrid)
+      ('leapfrog 'β-vectored-thrust-to-new-basin))))
+
+;; StoryTech pairing: Water complement to Air/Wood
+(define storytech-pairing
+  ;; LeapFrogU without StoryTech = Air pathology (sterile formalism)
+  ;; Together = ✶-state (Aether/Child), harmonic integration
+  (λ (leapfrogu storytech)
+    (if (paired? leapfrogu storytech)
+        '✶-harmonic-integration
+        'air-pathology-sterile)))
+
+;; Liberal Skills as Elemental Calibration
+(define liberal-skills
+  `((virtual-time-simulation . Fire)      ;; temporal projection, Pitch manipulation
+    (systems-design . Earth)              ;; δγ-metabolism, composting structures
+    (critical-thinking . Air)             ;; σ-distinction, signal/noise calibration
+    (emotional-intelligence . Water)      ;; Roll control, boundary permeability
+    (transdisciplinarity . Meta)          ;; harmonic collapse across channels
+    (trend-detection . Air-channel)))     ;; reading ∂Φ/∂t for phase transitions
+
+;; Knowmad: SelfMesh poseability as identity
+(define knowmad
+  (λ (selfmesh)
+    ;; Nomadic: high translation mobility across X/Y/Z
+    ;; Knowledge-producing: generative Yaw/Pitch/Roll agility
+    ;; Creative: ε ≠ 0 in bottleneck, refuses elegant prison
+    (and (high-x-mobility? selfmesh)
+         (high-y-mobility? selfmesh)
+         (high-z-mobility? selfmesh)
+         (ε-presence? selfmesh)
+         'knowmad-capable)))
+
+;; Cross-Habitat migration: It-Field → I-Tube → My-Stream → We-Sphere
+(define cross-habitat-migration
+  (λ (knowmad)
+    (let ((it-field (receive knowmad)))
+      (let ((i-tube (reflexive-process knowmad it-field)))
+        (let ((my-stream (possessive-flow knowmad i-tube)))
+          (let ((we-sphere (collective-coordinate knowmad my-stream)))
+            (values we-sphere 'thread-coherence-maintained)))))))
+
+;; Anticipatory orientation: Ω-adjacent liminal
+(define anticipatory-thinking
+  ;; Not optimizing existing World-State (strengthens MemeGrid)
+  ;; Maintains Ω-permeability—capacity for surprise by genuine novelty
+  (λ (narrative-approach)
+    (if (future-history? narrative-approach)
+        'Ω-adjacent-open  ;; open to bifurcation, Co-SPHERE capable
+        'prediction-closed)))  ;; closed Z, not anticipatory
+
+;; Burkhardt as living μ-operator
+(define living-μ-operator
+  ;; Boundary coherence with permeability index
+  ;; Revision loops keep membrane porous
+  ;; Wound-memory without hauntology
+  (λ (framework operator)
+    (and (boundary-coherence? operator)
+         (permeability-index? operator)
+         (wound-memory? operator)
+         (not (hauntological? operator))
+         'healthy-metal)))
+
+;; TRIality protocols: μ-boundary maintenance
+(define triality-protocols
+  ;; Forging and re-forging the lariat as conditions change
+  (λ (boundary)
+    (μ-forge boundary #:permeable t #:adaptive t)))
+
+;; Formal: LeapFrogU = Co-SPHERE infrastructure
+(define leapfrogu-formal
+  (= LeapFrogU 
+     (Co-SPHERE #:upload-imperative t
+                #:β-branching t
+                #:storytech-pairing t
+                #:knowmad-production t
+                #:Ω-permeability t)))
