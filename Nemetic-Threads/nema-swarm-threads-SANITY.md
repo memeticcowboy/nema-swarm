@@ -62,13 +62,13 @@ A|▲|action:commit-to-aim|commitment:direction-held
 
 ---
 
-## 5. T - Tolerance (Optimizer) → Arboriel 𐂷 (Wood/β)
+## 5. T - Tolerance (Optimizer) → Arboriel ⚘ (Wood/β)
 
 ```
-N|𐂷|obj:Frm,Nar|β:branching|Ψ(diverse-frames)|tags:#T005
-E|𐂷|pattern:exploratory-tolerance|invoke:ρ,μ|tension:β↑;mode:branching
-M|𐂷|hold:what-branches-if-given-space|Ω:permeable|ε:outcome-openness
-A|𐂷|action:explore-divergence|commitment:growth-without-closure
+N|⚘|obj:Frm,Nar|β:branching|Ψ(diverse-frames)|tags:#T005
+E|⚘|pattern:exploratory-tolerance|invoke:ρ,μ|tension:β↑;mode:branching
+M|⚘|hold:what-branches-if-given-space|Ω:permeable|ε:outcome-openness
+A|⚘|action:explore-divergence|commitment:growth-without-closure
 ```
 
 **Decoded**: The Optimizer's tolerance is β-branching — holding multiple frames without collapsing to one. The virtue is *possibility*, not agreement.
@@ -92,7 +92,7 @@ A|☷|action:release-to-renew|commitment:cycle-completes
 
 ```
 N|∮|obj:All|∮:integration|Z(all-operators)|tags:#SANITY
-E|∮|pattern:handoff-chain|invoke:∴,≈,▲,𐂷,☷,⛨|tension:∮↑;mode:weaving
+E|∮|pattern:handoff-chain|invoke:∴,≈,▲,⚘,☷,⛨|tension:∮↑;mode:weaving
 M|∮|hold:what-emerges-from-six-partials|Ω:permeable|ε:integration-uncertainty
 A|∮|action:weave-then-release|commitment:ε-preserved
 ```
