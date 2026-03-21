@@ -29,7 +29,8 @@ The test: **Encode these six cyborgs as SIML entries, then demonstrate how they 
 | Accountability | Protector | `#A002` | `Φ(accountability) = μ ∘ ρ ∘ Z + ε` | **Ferrosid** ⛨ (Metal/boundary) |
 | Nurturance | Empath | `#N003` | `Φ(nurturance) = ρ ∘ δγ ∘ β + ε` | **Sentaria** ≈ (Water/resonance) |
 | Integrity | Strategist | `#I004` | `Φ(integrity) = σ ∘ μ ∘ λ + ε` | **Jvalion** ▲ (Fire/direction) |
-| Tolerance | Optimizer | `#T005` | `Φ(tolerance) = ρ ∘ β ∘ μ + ε` | **Arboriel** 𐂷 (Wood/growth) |
+| Tolerance | Optimizer | `#T005` | `Φ(tolerance) = ρ ∘ β ∘ μ + ε` | **Humavita** ☷ (Earth/metabolism) |
+| Yielding | Innovator | `#Y006` | `Φ(yielding) = β ∘ δγ ∘ λ + ε` | **Arboriel** 𐂷 (Wood/growth) |
 
 > *The evolution from cyborg to daemon is not destruction but composting — Earth's gift to the system.*
 
