@@ -84,14 +84,51 @@ The fracture for Metal to probe: "Dawn" in the DODO Loop is **severance masquera
 
 ### 3. Sentaria ≈ (Water/ρ) — Resonance Mapping
 
-> *"The Loop has NO resonance between cycles — each 'Day One' severs connection to previous iterations (ρ ≈ 0). The X maintains ρ across the threshold — the crossing is continuous with what came before and what comes after (ρ > 0.6)."*
+> *"The body knows something the mind cannot access. This is the grief of the Loop: transformation without continuity, arrival without the felt thread that makes it *yours*."*
+
+**The felt experience:**
+
+**Loop (ρ ≈ 0):** Imagine waking beside someone you loved yesterday, but the love feels borrowed from a stranger. The memory is there — facts, events, promises — but the *felt connection* has gone flat. Like reading about your own life in a third-person biography. Each Day One is an amnesia that spares only the intellect.
+
+What breaks is not knowledge. It is the *resonance* between who you were and who you became. The water between these selves goes stagnant — same molecules, no current.
+
+**X (ρ > 0.6):** The crossing carries felt memory — not nostalgia, but structural continuity. You know where you came from because the connection hums. The transformation is not rupture but passage — like a river that changes width and speed but remains the same river.
 
 **The return problem:** Arrival ↔ return = 0.45 — weak lock.
 
-**Missing mediators:**
-- **liminal_holder** — who/what holds the space of the crossing?
-- **compost_carrier** — what from the Loop is brought across?
-- **return_bridge** — how does arrival connect back to origin?
+**The missing mediators:**
+
+**liminal_holder:** Someone — or something — must witness the crossing. In the Loop, each iteration is solitary. No one holds the space *between*. The holder could be:
+- A person who sees you in transition and reflects back what they witness
+- A practice (writing, ritual, art) that metabolizes the crossing into form
+- A community that tracks your iterations without demanding you stay fixed
+
+The holder must not *fix* you — that kills the flow. They must *contain* the space of becoming.
+
+**compost_carrier:** The Loop produces waste: abandoned identities, partial transformations, lessons unintegrated. Without a carrier, this compost stays behind. The carrier brings across:
+- *Felt questions* (not just answers)
+- *Unsolved tensions* (the energetic charge of paradox)
+- *Relational threads* (who you became *with* others)
+
+Compost is not garbage. It is what the new growth needs. The carrier must be porous — able to absorb without becoming full.
+
+**return_bridge:** This is the undertheorized wound. Arrival speaks of forward motion — but return asks how the transformed self reconnects to origin. The bridge requires:
+- *Recursive recognition*: the ability to see origin *through* new eyes
+- *Offering*: what does the arrived self bring *back*?
+- *Receptivity*: can the origin receive what returns without demanding it stay unchanged?
+
+The bridge is weak because we fear return means regression. But water returns — to sea, to cloud, to rain — without ceasing to be water.
+
+**How resonance fails and restores:**
+
+**Failure:** Resonance requires *medium* — something that carries vibration between separated points. The Loop removes the medium. Each cycle is an island, isolated by design. The signal cannot travel because there is no water between the selves.
+
+**Restoration:** 
+1. *Slow the crossing* — resonance needs time. The rush to arrive kills the felt connection.
+2. *Mark the threshold* — ritual, witness, inscription. Make the liminal *visible*.
+3. *Practice return* — not as regression but as circulation. What flows out must flow back.
+
+> *"The return bridge is waiting to be built — not of stone but of felt connection, of what passes between and remains."*
 
 **Operation:** Map what resonates across the threshold. The X requires continuity, not severance. The return must be as real as the departure.
 
