@@ -37,8 +37,8 @@ I generated six SIML v1.2.1 entries, one for each cyborg/virtue:
 | Accountability | Protector | #A002 | `Φ(accountability) = μ ∘ ρ ∘ Z + ε` | **Ferrosid** ⛨ (Metal/boundary) |
 | Nurturance | Empath | #N003 | `Φ(nurturance) = ρ ∘ δγ ∘ β + ε` | **Sentaria** ≈ (Water/resonance) |
 | Integrity | Strategist | #I004 | `Φ(integrity) = σ ∘ μ ∘ λ + ε` | **Jvalion** ▲ (Fire/direction) |
-| Tolerance | Optimizer | #T005 | `Φ(yielding) = β ∘ δγ ∘ λ + ε` | **Humavita** ☷ (Earth/metabolism) |
-| Yielding | Innovator | #Y006 | `Φ(tolerance) = ρ ∘ β ∘ μ + ε` | **Arboriel** 𐂷 (Wood/growth) |
+| Tolerance | Optimizer | #T005 | `Φ(tolerance) = ρ ∘ β ∘ μ + ε` | **Humavita** ☷ (Earth/metabolism) |
+| Yielding | Innovator | #Y006 | `Φ(yielding) = β ∘ δγ ∘ λ + ε` | **Arboriel** 𐂷 (Wood/growth) |
 
 ---
 
