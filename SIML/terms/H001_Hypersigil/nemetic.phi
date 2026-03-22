@@ -1,0 +1,49 @@
+;; H001_Hypersigil
+;; Nemetic String: [Intent] ⊗ [Narrative] → [Proxy] ⇄ [Reality] ⊕ [Collective_Attention]
+;; Elemental: Fire 0.75, Water 0.80, Meta 0.85 (dominant)
+
+(define hypersigil
+  (λ (intent narrative proxy reality audience)
+    ;; Left funnel: Intention enters narrative compression
+    (let ((compressed (σ-cut intent narrative)))
+      
+      ;; Bottleneck: Proxy embodies the λ-aim
+      (let ((aim-sustained (λ-sustain compressed proxy)))
+        
+        ;; Right funnel: Reality expansion with feedback
+        (let ((reality-shift (ρ-fold aim-sustained reality)))
+          
+          ;; Recursive loop: changed reality feeds back to creator
+          (let ((creator-changed (χ-cross reality-shift)))
+            
+            ;; Collective amplification if released to audience
+            (if (not (null? audience))
+                (⊕-amplify reality-shift audience)
+                reality-shift)
+            
+            ;; Return new state for next iteration
+            (values creator-changed narrative reality-shift)))))))
+
+;; The feedback loop: ∂Φ/∂t = [(Z ∘ Ψ ∘ Q ∘ χ)(Ω)] + ε
+(define hypersigil-dynamics
+  (Φ (t)
+    (+ (compose Z Ψ Q χ Ω)
+       ε-noise)))  ; ε preserved as generative substrate
+
+;; Risk: MemeGrid capture when ε collapses
+(define memegrid-warning
+  (when (ε? = 0)
+    (warn "Hypersigil has achieved MemeGrid stasis. Compost immediately.")))
+
+;; Discipline: Maintain Co-Sphere permeability
+(define co-sphere-discipline
+  (μ-with-Π  ; Boundary with breathing
+    (maintain-permeability proxy creator)))
+
+;; Daemon mappings
+(define hypersigil-daemons
+  `((λ-daemon . sustains-aim-across-duration)
+    (β-daemon . proxy-explores-creator-cannot)
+    (ρ-daemon . immersion-in-narrative-flow)
+    (meta-daemon . monitors-for-memegrid-hardening)
+    (if-prime . detects-capture-signals)))

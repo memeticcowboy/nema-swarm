@@ -62,12 +62,14 @@ A:
   collisions: {}
 B:
   description: Borrowed concepts and external frameworks
-  next_available: B002
+  next_available: B003
   assigned:
     B001: Borrowed_Mind
+    B002: LeapFrogU
+  collisions: {}
 CB:
   description: Cowboy Canonical terms - Memetic Cowboy's core framework concepts
-  next_available: CB013
+  next_available: CB015
   assigned:
     CB001: Recursive_Phenomenology
     CB002: Theory_in_Drag
@@ -81,6 +83,8 @@ CB:
     CB010: Rumspringa_Protocol
     CB011: Lariat_Protocol
     CB012: Three_Body_Ecology
+    CB013: SelfMesh
+    CB014: 6DOF
   collisions: {}
 C:
   description: Critical thinking and cognitive processes
@@ -304,7 +308,7 @@ C:
   collisions: {}
 E:
   description: Earth/ground phenomena and enactive cognition
-  next_available: E024
+  next_available: E026
   assigned:
     E001: Gaia
     E002: Prithvi
@@ -329,6 +333,8 @@ E:
     E021: Whitehead_Concrescence
     E022: Mycorrhizal_Network
     E023: Money_as_Collective_Hallucination
+    E024: Bioneering
+    E025: Four_Spheres
   collisions: {}
 F:
   description: Fire-element phenomena and ignition processes
@@ -558,4 +564,13 @@ W:
     W008: Bohm_Pribram_Holographic
     W009: Cyberanimism
     WO007: Tentacular_Thinking
+  collisions: {}
+H:
+  description: Hypersigils and extended magical/ritual patterns
+  next_available: H005
+  assigned:
+    H001: Hypersigil
+    H002: Hyperstition
+    H003: Hauntology
+    H004: StoryTech
   collisions: {}

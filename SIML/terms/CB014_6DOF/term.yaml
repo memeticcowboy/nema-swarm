@@ -1,0 +1,51 @@
+hex: CB014
+term: 6DOF
+category: Framework
+family: Cowboy_Canonical
+status: active
+created: 2026-03-19
+author: Bert, the Memetic Cowboy
+
+etymology: >
+  Acronym for "Six Degrees of Freedom"—the standard mechanical engineering 
+  term for the freedom of movement of a rigid body in three-dimensional space: 
+  three translations (X, Y, Z) and three rotations (Yaw, Pitch, Roll). Adapted 
+  by SelfMesh framework to describe the elemental physics of perceiver attitude 
+  as control weightings on coupling geometry.
+
+definition: >
+  The six degrees of freedom operationalized as elemental control surfaces 
+  regulating NEMA flow through the bow-tie bottleneck. Each DOF manifests 
+  specific elemental biases: X (Intake/Expression) as λ-gating with Fire/Air; 
+  Y (We/Other) as ρ-permeability with Water/Metal; Z (Surface/Depth) as 
+  δγ-velocity with Earth/Wood; Yaw (Attentional Heading) as σ-steering with 
+  Air/Aether; Pitch (Temporal Tilt) as λ↔️δγ tension between Fire and Earth; 
+  Roll (Boundary Stance) as μ-coherence with Metal/Water. The 6DOF attitude 
+  is the Ψ-pose—the instantaneous geometry of the bow-tie throat.
+
+elemental_signature:
+  Air: 0.80
+  Fire: 0.75
+  Water: 0.70
+  Metal: 0.65
+  Earth: 0.60
+  Wood: 0.55
+  Meta: 0.50
+
+aliases:
+  - six degrees of freedom
+  - elemental control surfaces
+  - DOF axes
+  - Ψ-pose dimensions
+
+see_also:
+  - selfmesh
+  - bow-tie
+  - sigma
+  - rho
+  - lambda
+  - delta-gamma
+  - mu
+
+cross_references:
+  - papers/selfmesh_v1.1_nematic_integration.md
