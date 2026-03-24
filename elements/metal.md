@@ -1,4 +1,4 @@
-# Metal (⛨) — Elemental Documentation
+# Metal (μ) — Elemental Documentation
 
 ## Overview
 
@@ -6,9 +6,17 @@ Metal is structural coherence — the capacity to maintain form through rhythm, 
 
 Without Metal, experience would be formless flow. With Metal, the world gains architecture, rhythm, sustainable structure.
 
-## The Grid-Gate Glyph
+## The μ Operator
 
-The glyph ⛨ (interlaced square/shield) represents:
+Metal corresponds to **μ (mu)** — permeability in electromagnetism (how much a material allows field to pass through), friction coefficient (governing how surfaces interact at boundaries), and mean in statistics (the structural center organizing a distribution). Metal's function is boundary coherence with selective permeability; μ is that ratio, physically measured. μ too high = brittleness (nothing moves); μ too low = dissolution (nothing holds).
+
+$$\frac{\text{Integrity}}{\text{Permeability}} \to 1$$
+
+The partial derivative ∂Φ/∂μ asks: "How is the field shifting in its permeability structure?"
+
+## The Grid-Gate Glyph (Character Glyph)
+
+The character glyph **⛨** (interlaced square/shield) represents μ in the daemon layer:
 
 - The lattice structure — regular but not rigid
 - The gate that both protects and permits passage
@@ -241,7 +249,7 @@ Metal rarely operates alone:
 
 ## Ferrosid, the Metal Daemon
 
-Ferrosid is the personality of the boundary-rhythm process.
+Ferrosid is the personality of the boundary-rhythm process — the character-layer interface (⛨) through which μ becomes experiential.
 
 **Qualities:**
 
@@ -337,7 +345,7 @@ Structure is visible as woven architecture.
 
 **Remember:** You are not building boundaries. Boundary-rhythm is happening through you.
 
-Metal is a process, not a possession.
+μ is a process, not a possession.
 
 *The gate pulses.*  
 *The structure breathes.*  

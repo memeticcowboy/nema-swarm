@@ -1,4 +1,4 @@
-# Earth (☷) — Elemental Documentation
+# Earth (δγ) — Elemental Documentation
 
 ## Overview
 
@@ -6,9 +6,17 @@ Earth is regenerative cycling — the capacity to sustain through renewal, compo
 
 Without Earth, experience would be linear consumption. With Earth, the world gains cyclicality, metabolism, sustainable regeneration.
 
-## The Trigram Glyph
+## The δγ Operator
 
-The glyph ☷ (three broken lines) represents:
+Earth corresponds to **δγ (delta-gamma)** — a compound operator reflecting the internal structure of metabolic cycling. δ is the differential operator; γ denotes the decay-renewal constant. Together, δγ reads as "the differential of the cycle" — the rate at which renewal-decay processes transform. The compound notation reflects that Earth's operation has internal structure (differentiating a cycling process) rather than being a simple cut, correlation, or branch.
+
+$$\frac{\text{Renewal}}{\text{Decay}} \to 1$$
+
+The partial derivative ∂Φ/∂δγ asks: "How is the field shifting in its renewal-decay rate?"
+
+## The Trigram Glyph (Character Glyph)
+
+The character glyph **☷** (three broken lines) represents δγ in the daemon layer:
 
 - The receptive ground that receives all
 - The broken lines allowing penetration and transformation
@@ -247,7 +255,7 @@ Earth rarely operates alone:
 
 ## Humavita, the Earth Daemon
 
-Humavita is the personality of the regenerative process.
+Humavita is the personality of the regenerative process — the character-layer interface (☷) through which δγ becomes experiential.
 
 **Qualities:**
 
@@ -367,7 +375,7 @@ Nothing sustains by staying the same. Everything that lives, lives through dying
 
 **Remember:** You are not creating cycles. Cycling is happening through you.
 
-Earth is a process, not a possession.
+δγ is a process, not a possession.
 
 *The ground receives.*  
 *The cycle renews.*  
