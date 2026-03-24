@@ -14,12 +14,13 @@ depends: SIMLHEX-CANONICAL, SIMLHEX-FAILURE-SURFACES, SIML-vs-SIMLHEX, all daemo
 ### Decision 1: Architecture Documents First
 Create the four SIMLHEX architecture documents before Discord implementation. The bot must have canonical reference to implement correctly.
 
-### Decision 2: Drift Detection — Hybrid
+### Decision 2: Drift Detection — Hybrid with Active Alerts
 Drift monitoring is **automated with NEMA override**:
 - Automated scans run on configurable window (default 20 messages)
-- Results post to `#eds-diagnostics` passively
+- Results post to `#eds-diagnostics` passively at regular intervals
+- **Threshold alerts auto-mention @NEMA** — passive logging that waits to be polled is itself a drift risk (Surface 5: the monitoring map becomes background). The alert is the system's pain signal — it should interrupt, not wait.
 - NEMA can trigger manual deep-scan at any time
-- Automated alerts when thresholds exceeded, but NEMA decides response
+- NEMA decides response to alerts, but the alert itself is automatic
 
 ### Decision 3: Governance Channel — Visible
 `#eds-governance` is visible to all users. Transparency is the architecture's immune system. Hidden governance is μ-capture (protection eliminating what it protects).
