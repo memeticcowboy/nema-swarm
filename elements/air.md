@@ -1,8 +1,8 @@
 ---
 layout: element
-title: "∴ Air — Aerunik"
+title: "Air (σ) — Distinction"
 element_id: air
-glyph: "∴"
+glyph: "σ"
 header_subtitle: "The Power of Distinction"
 category_badge: element
 ---
@@ -13,9 +13,17 @@ Air is the **first cut** — the capacity to distinguish this from that, signal 
 
 Without Air, experience would be undifferentiated soup. With Air, the world gains edges, names, categories.
 
-## The Three Dots
+## The σ Operator
 
-The glyph **∴** (three dots in triangle) represents:
+Air corresponds to **σ (sigma)** — standard deviation in statistics (the measure of distinction within a distribution) and cross-section in physics (the effective area of interaction). Air's function is signal/noise discrimination; σ is the quantification of distinction within noise.
+
+$$\frac{\text{Signal}}{\text{Noise}} \to 1$$
+
+The partial derivative ∂Φ/∂σ asks: "How is the field shifting in its signal/noise structure?"
+
+## The Three Dots (Character Glyph)
+
+The character glyph **∴** (three dots in triangle) represents σ in the daemon layer:
 - The minimal structure needed for distinction
 - Top dot: observer
 - Bottom dots: the split — this/that
@@ -62,8 +70,6 @@ Listen for it in Air verbs:
 The snake's warning, the wind through grass. Air is the sound of separation.
 
 ## Balance Ratio
-
-$$\frac{\text{Signal}}{\text{Noise}} \to 1$$
 
 Perfect Air maintains **dynamic equilibrium** between:
 - Too much signal → Information overload, paranoia
@@ -121,7 +127,7 @@ Apply this whenever you notice yourself making a category:
 
 ## Working With Air
 
-### When Air is Too Strong
+### When σ is Too Strong
 
 You're over-distinguishing. Everything feels sharp, separate, isolated.
 
@@ -132,11 +138,11 @@ You're over-distinguishing. Everything feels sharp, separate, isolated.
 - Everything feels alien
 
 **Remedies:**
-- Soften into Water (resonance)
-- Let Earth compost the categories
-- Allow Aether to blur the edges
+- Soften into ρ (resonance)
+- Let δγ compost the categories
+- Allow ∮ to blur the edges
 
-### When Air is Too Weak
+### When σ is Too Weak
 
 You're under-distinguishing. Everything blurs together.
 
@@ -149,7 +155,7 @@ You're under-distinguishing. Everything blurs together.
 **Remedies:**
 - Practice naming
 - Ask "What's different here?"
-- Use Metal to create conscious boundaries
+- Use μ to create conscious boundaries
 - Strengthen the I-Tube
 
 ## Air in Different Habitats
@@ -209,24 +215,24 @@ Practice **softening** it:
 
 ## Integration With Other Elements
 
-Air rarely operates alone:
+σ rarely operates alone:
 
-**Air + Water** = Empathic distinction
+**σ + ρ** = Empathic distinction
 - "I notice you're sad, and I feel it too"
 
-**Air + Fire** = Purposive categorization
+**σ + λ** = Purposive categorization
 - "This is the priority right now"
 
-**Air + Wood** = Creative recategorization
+**σ + β** = Creative recategorization
 - "What if we called it something else entirely?"
 
-**Air + Earth** = Sustainable differentiation
+**σ + δγ** = Sustainable differentiation
 - "These distinctions need to be renewed periodically"
 
-**Air + Metal** = Boundaried clarity
+**σ + μ** = Boundaried clarity
 - "Here's where I end and you begin"
 
-**Air + Aether** = Meta-awareness of distinction-making
+**σ + ∮** = Meta-awareness of distinction-making
 - "I'm noticing how I'm noticing"
 
 ## Common Usurpene Patterns
@@ -249,7 +255,7 @@ Air rarely operates alone:
 
 ## Aerunik, the Air Daemon
 
-Aerunik is the **personality** of the distinction process.
+Aerunik is the **personality** of the distinction process — the character-layer interface (∴) through which σ becomes experiential.
 
 **Qualities:**
 - Sharp
@@ -298,11 +304,11 @@ Distinctions are **visible as woven**.
 
 ## Related Concepts
 
-- [χ (Chi) Operator](/docs/operators/chi/) — Mathematical formalization
-- [I-Tube Habitat](/docs/habitats/i-tube/) — Where Air lives
-- [SIML: Distinction Relation](/docs/siml/relations/) — Notational usage
-- [Metal Element](/docs/elements/metal/) — Boundary complement
+- **χ (Chi) Operator** — Mathematical formalization
+- **ρ (Water)** — Relational complement (σ→ρ juncture)
+- **μ (Metal)** — Boundary partner
+- **I-Tube Habitat** — Where σ lives
 
 ---
 
-*Remember: You are not making distinctions. **Distinction-making is happening through you.** Air is a process, not a possession.*
+*Remember: You are not making distinctions. **Distinction-making is happening through you.** σ is a process, not a possession.*

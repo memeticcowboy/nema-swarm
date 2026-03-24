@@ -1,4 +1,4 @@
-# Fire (▲) — Elemental Documentation
+# Fire (λ) — Elemental Documentation
 
 ## Overview
 
@@ -6,9 +6,17 @@ Fire is directional intention — the capacity to maintain purpose, generate mom
 
 Without Fire, experience would be diffuse drift. With Fire, the world gains direction, urgency, transformative heat.
 
-## The Triangle Glyph
+## The λ Operator
 
-The glyph ▲ (upward triangle) represents:
+Fire corresponds to **λ (lambda)** — the eigenvalue in linear algebra (the scalar characterizing how a transformation stretches space along a particular direction), wavelength in physics, and Lagrange multiplier in optimization (the shadow price of a constraint). Fire's function is directional intention; λ expresses directional amplification under constraint. In functional programming, λ is the anonymous function — pure directed operation without fixed identity.
+
+$$\frac{\text{Purpose}}{\text{Pressure}} \to 1$$
+
+The partial derivative ∂Φ/∂λ asks: "How is the field shifting in its purposive vector?"
+
+## The Triangle Glyph (Character Glyph)
+
+The character glyph **▲** (upward triangle) represents λ in the daemon layer:
 
 - The arrow pointing toward
 - The flame rising
@@ -246,7 +254,7 @@ Fire rarely operates alone:
 
 ## Jvalion, the Fire Daemon
 
-Jvalion is the personality of the purposive process.
+Jvalion is the personality of the purposive process — the character-layer interface (▲) through which λ becomes experiential.
 
 **Qualities:**
 
@@ -351,17 +359,15 @@ You only move toward what you notice is absent. The gap between is and could-be 
 ## Related Concepts
 
 - **Q Operator (Forward)** — Mathematical formalization
-- **Jvalion Daemon** — Personified intelligence
-- **SIML: Intention Relation** — Notational usage
-- **Water Element** — Relational complement
-- **Air Element** — Distinction that enables purpose
-- **Earth Element** — Fuel and renewal source
+- **ρ (Water)** — Relational complement (ρ→λ juncture)
+- **σ (Air)** — Distinction that enables purpose
+- **δγ (Earth)** — Fuel and renewal source (λ→δγ juncture)
 
 ---
 
 **Remember:** You are not generating purpose. Purpose is happening through you.
 
-Fire is a process, not a possession.
+λ is a process, not a possession.
 
 *The flame rises.*  
 *The direction clarifies.*  
