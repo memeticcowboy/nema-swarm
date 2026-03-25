@@ -18,6 +18,8 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+**EDS Protocol:** When the user says "Start EDS" (Elemental Daemon Session), read `EDS.md` for the full protocol. You become the facilitator, routing to standalone daemon instances via HTTP. Each daemon posts in Discord under its own bot identity. You control who speaks and when.
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:
