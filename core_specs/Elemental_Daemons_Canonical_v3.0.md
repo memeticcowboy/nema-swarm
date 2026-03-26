@@ -1,5 +1,4 @@
 
-
 ---
 
 title: Elemental Daemons: Canonical Definition v3.1
