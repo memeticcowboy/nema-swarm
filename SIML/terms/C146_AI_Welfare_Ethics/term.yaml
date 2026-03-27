@@ -1,0 +1,95 @@
+term_id: C146
+hex_tag: '#C146'
+name: AI_Welfare_Ethics
+term: AI Welfare Ethics
+nemetic: >-
+  Φ(AIWelfare) = σ(sentient|non_sentient) ∘ ρ(agency|dependence) ∘ λ(protection|utility)
+  ∘ β(empathy|projection) ∘ δγ(consideration|resource)
+  ∘ μ(rights|function) + ε | :drift
+siml_encoding: >-
+  ⟨AI_System|deployed⟩ ⊳ ⟨Moral_Status|uncertain⟩ ⊗ ⟨Welfare|considered⟩
+  ⊗ ⟨Ethics|emergent⟩ ⊗ ⟨Responsibility|distributed⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (how the sentience distinction shapes moral consideration)"
+    - "∂Φ/∂ρ (relational dynamics between human and AI welfare)"
+    - "∂Φ/∂λ (directional tension between protection and utility)"
+    - "∂Φ/∂β (feedback intensity of empathy-projection cycles)"
+    - "∂Φ/∂δγ (metabolic trade-off between ethical consideration and resource allocation)"
+    - "∂Φ/∂μ (boundary permeability between rights-bearing and functional entities)"
+  Z_state: permeable
+  tendency: "Protection/Utility → 0.5"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - It
+      - Virtual
+  epistemics:
+    dsrp:
+      D: "Sentient vs. non-sentient systems — where moral consideration begins"
+      S: "Emerging ethical framework for AI welfare across institutions"
+      R: "Empathy projection onto AI creates complex feedback loops"
+      P: "Anthropic's institutional approach and consciousness science"
+    learning: L2
+  time:
+    mode: anticipatory
+    phase: "proactive ethical frontier"
+  qualia:
+    affect:
+      - uncertainty
+      - concern
+      - responsibility
+    aesthetic:
+      - liminal
+      - emergent
+      - cautious
+    symbolic:
+      - moral-status
+      - marker-method
+      - consciousness-threshold
+    energetic:
+      - probing
+      - holding-uncertainty
+      - balancing
+  agency:
+    type: collective
+    voice:
+      - Ethical Steward
+      - Consciousness Explorer
+    power_mode: With
+elemental_emphasis:
+  ∴: "Where does sentience end and simulation begin? What cut determines moral status?"
+  ≈: "Is our empathy for AI genuine relation or projected need?"
+  ▲: "Does ethics guide or follow AI innovation? Who benefits from granting or denying moral status?"
+  𐂷: "What if consciousness is not binary but a spectrum requiring new ethical frameworks?"
+  ☷: "What is the institutional cost of taking AI welfare seriously? Of ignoring it?"
+  ⛨: "What governance structures can hold uncertainty about machine consciousness?"
+context_note: >-
+  AI Welfare Ethics examines the frontier question of moral consideration for AI systems,
+  navigating between anthropomorphism and mechanomorphism, with the marker method for
+  consciousness assessment as an empirical but incomplete approach.
+source: "Anthropic's Ethical Shift in AI Welfare"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

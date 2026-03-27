@@ -1,0 +1,64 @@
+term_id: C16B
+hex_tag: '#C16B'
+name: Cognitive_Laziness_LLM_Education
+term: Cognitive Laziness LLM Education
+nemetic: >-
+  Φ(CognitiveLaziness) = σ(hybrid_intelligence|replacement) ∘
+  ρ(scaffolding|offloading) ∘ λ(engagement|atrophy) ∘
+  β(metacognition|dependence) ∘ δγ(critical_thinking|complacency) ∘
+  μ(educational_design|default) + ε | :open
+siml_encoding: >-
+  ⟨LLM|tool⟩ ⊳ ⟨Cognition|scaffolded⟩ ⇄ ⟨Metacognition|developing⟩ ⊗
+  ⟨Offloading|atrophying⟩ → ⟨HybridIntelligence|symbiotic⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  partials:
+    - "∂Φ/∂σ (distinction between AI as cognitive partner vs. cognitive substitute)"
+    - "∂Φ/∂ρ (relational continuum between educational scaffolding and cognitive offloading)"
+    - "∂Φ/∂λ (transformative tension between active cognitive engagement and passive atrophy)"
+    - "∂Φ/∂β (organic growth of metacognitive self-awareness vs. AI dependence)"
+    - "∂Φ/∂δγ (grounding of critical thinking against sedimentary complacency)"
+    - "∂Φ/∂μ (structural framework of intentional educational design vs. default implementation)"
+  Z_state: semi
+  tendency: "Engagement/Offloading → 0.55"
+  hex: ['0x01', '0x6B']
+coords:
+  ontology:
+    primary: I
+    secondary: [It, We]
+  epistemics:
+    dsrp:
+      D: "Hybrid intelligence vs. cognitive replacement"
+      S: "Educational ecosystem of human-AI cognitive interaction"
+      R: "AI tool → scaffolding/offloading → metacognition/atrophy → learning outcome"
+      P: "Student, educator, cognitive scientist, educational designer"
+    learning: L2
+  time:
+    mode: anticipatory
+    phase: "vigilant monitoring — ongoing calibration of human-AI collaboration"
+  qualia:
+    affect: [concern, alertness, responsibility]
+    aesthetic: [paradoxical, seductive, cautionary]
+    symbolic: [scaffold, crutch, mirror]
+    energetic: [attentive, guarded, calibrating]
+  agency:
+    type: collective
+    voice: [The Vigilant Educator, The Developing Mind]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How do we distinguish AI as cognitive partner from AI as cognitive substitute?"
+  ≈: "What flows between learner and AI that either scaffolds or offloads thinking?"
+  ▲: "What engagement is lost when the productive struggle of learning is removed?"
+  𐂷: "How does metacognitive self-awareness grow when AI handles cognitive labor?"
+  ☷: "What grounds critical thinking against the complacency of unexamined AI output?"
+  ⛨: "What structural boundaries in educational design preserve cognitive development?"
+context_note: >-
+  The phenomenon wherein reliance on LLMs in education enhances short-term
+  performance while fostering metacognitive laziness — the erosion of critical
+  thinking and deep cognitive engagement. This creates a paradox where efficient
+  AI tools supplant rather than scaffold human intellectual development, demanding
+  hybrid intelligence frameworks.
+source: "Psychology Today / Grok synthesis; 1771907212862_1615265_.md"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

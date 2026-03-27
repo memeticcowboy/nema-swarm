@@ -1,0 +1,98 @@
+term_id: C16D
+hex_tag: '#C16D'
+name: genius_madness_connection
+term: Genius Madness Connection
+nemetic: >-
+  Φ(GeniusMadness) = σ(creativity|pathology) ∘ ρ(association|causation) ∘
+  λ(eminence|suffering) ∘ β(insight|distress) ∘ δγ(adaptive|disabling) ∘
+  μ(boundary|continuum) + ε | :drift
+siml_encoding: >-
+  ⟨Creativity|exceptional⟩ ⊳ ⟨Psychopathology|correlated⟩ ⇄
+  ⟨CognitiveTraits|shared⟩ ⊗ ⟨OptimalLevel|adaptive⟩ ⊳
+  ⟨Continuum|nuanced⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (creativity-pathology distinction and overlap)"
+    - "∂Φ/∂ρ (association vs causation in creativity-madness link)"
+    - "∂Φ/∂λ (eminence trajectory parallel to suffering trajectory)"
+    - "∂Φ/∂β (bidirectional insight-distress feedback)"
+    - "∂Φ/∂δγ (adaptive edge where moderate symptoms fuel creativity)"
+    - "∂Φ/∂μ (permeable boundary between divergent thinking and pathology)"
+  Z_state: semi
+  tendency: "Creativity/Pathology → 0.6"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - It
+      - We
+  epistemics:
+    dsrp:
+      D: "Creative genius vs psychopathological symptom"
+      S: "Historiometric, psychiatric, and psychometric research nexus"
+      R: "Shared cognitive traits → moderate symptoms → creative output"
+      P: "Creator, psychiatrist, historian, psychometrician"
+    learning: L2
+  time:
+    mode: layered
+    phase: "curvilinear relationship across intensity spectrum"
+  qualia:
+    affect:
+      - tension
+      - brilliance
+      - anguish
+    aesthetic:
+      - turbulent
+      - incandescent
+      - fragile
+    symbolic:
+      - tortured-artist
+      - double-edge
+      - continuum
+    energetic:
+      - volatile
+      - generative
+      - costly
+  agency:
+    type: ego
+    voice:
+      - Gifted Creator
+      - Suffering Genius
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How is creative achievement distinguished from psychopathological symptom?"
+  ≈: "What flows between the association and causation of genius and madness?"
+  ▲: "What transforms moderate pathological symptoms into creative fuel?"
+  𐂷: "How does the insight-distress feedback loop generate both art and suffering?"
+  ☷: "What grounds the optimal level where symptoms are adaptive rather than disabling?"
+  ⛨: "Where does the boundary between divergent thinking and full pathology lie?"
+context_note: >-
+  The Genius-Madness Connection explores empirical evidence from historiometric,
+  psychiatric, and psychometric research showing a positive but complex
+  association between creativity and mental health conditions. The optimal level
+  hypothesis suggests moderate psychopathological symptoms may be adaptive for
+  creativity while full-blown pathology inhibits it.
+source: "Psychiatric Times — Are Genius and Madness Related? — via x/change rajendra"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

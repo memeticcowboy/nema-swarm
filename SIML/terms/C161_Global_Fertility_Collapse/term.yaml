@@ -1,0 +1,95 @@
+term_id: C161
+hex_tag: '#C161'
+name: Global_Fertility_Collapse
+term: Global Fertility Collapse
+nemetic: >-
+  Φ(FertilityCollapse) = σ(birth|decline) ∘ ρ(individual|collective) ∘ λ(choice|constraint)
+  ∘ β(economic|cultural) ∘ δγ(fulfillment|legacy)
+  ∘ μ(policy|autonomy) + ε | :drift
+siml_encoding: >-
+  ⟨Reproduction|declining⟩ ⊳ ⟨Economy|constraining⟩ ⊗ ⟨Culture|shifting⟩
+  ⊗ ⟨Policy|intervening⟩ ⊗ ⟨Demography|transforming⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between birth-supporting and birth-declining conditions)"
+    - "∂Φ/∂ρ (tension between individual reproductive autonomy and collective demographic needs)"
+    - "∂Φ/∂λ (directional pull between personal choice and structural constraint)"
+    - "∂Φ/∂β (feedback between economic pressures and cultural values shaping family decisions)"
+    - "∂Φ/∂δγ (metabolic trade-off between present fulfillment and generational legacy)"
+    - "∂Φ/∂μ (boundary between state policy intervention and individual reproductive autonomy)"
+  Z_state: permeable
+  tendency: "Decline/Stability → 0.7"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - I
+      - Its
+  epistemics:
+    dsrp:
+      D: "Personal reproductive choice vs. societal demographic imperative"
+      S: "Multifactorial fertility decline system spanning economics, culture, technology, policy"
+      R: "Urbanization, education, and economic pressure interact to depress fertility rates"
+      P: "Demographic transition theory and population studies"
+    learning: L1
+  time:
+    mode: linear
+    phase: "demographic transition acceleration"
+  qualia:
+    affect:
+      - anxiety
+      - autonomy
+      - loss
+    aesthetic:
+      - contracting
+      - structural
+      - generational
+    symbolic:
+      - below-replacement
+      - aging-population
+      - labor-shortage
+    energetic:
+      - declining
+      - constraining
+      - adapting
+  agency:
+    type: collective
+    voice:
+      - Demographic Observer
+      - Policy Analyst
+    power_mode: Over
+elemental_emphasis:
+  ∴: "What distinguishes voluntary childlessness from structurally coerced infertility?"
+  ≈: "What emotional currents flow between generations facing demographic decline?"
+  ▲: "Where does fertility decline lead — toward societal innovation or systemic collapse?"
+  𐂷: "What alternative social structures might sustain societies below replacement rates?"
+  ☷: "What is the true metabolic cost of demographic contraction on social welfare systems?"
+  ⛨: "What policy boundaries balance reproductive autonomy with demographic sustainability?"
+context_note: >-
+  Global Fertility Collapse examines the multifaceted factors driving worldwide fertility
+  decline: economic pressures, cultural paradigm shifts, delayed family planning,
+  technological empowerment, and the intergenerational challenges of below-replacement rates.
+source: "Understanding Global Fertility Collapse Factors"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

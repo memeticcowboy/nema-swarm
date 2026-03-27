@@ -1,0 +1,94 @@
+term_id: A053
+hex_tag: '#A053'
+name: Status_Quo_Bias
+term: Status Quo Bias
+nemetic: >-
+  Φ(StatusQuo) = σ(familiar|novel) ∘ ρ(comfort|anxiety) ∘ λ(stability|change)
+  ∘ β(reinforcement|feedback) ∘ δγ(ease|effort)
+  ∘ μ(boundary|guarded) + ε | :closed
+siml_encoding: >-
+  ⟨Change|proposed⟩ ⊳ ⟨Familiar|preferred⟩ ⊗ ⟨Inertia|maintained⟩ ⊗ ⟨Novelty|rejected⟩
+  ⊗ ⟨Status|preserved⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between familiar current state and novel alternatives)"
+    - "∂Φ/∂ρ (relational comfort with existing conditions vs anxiety toward change)"
+    - "∂Φ/∂λ (direction of preference toward stability over transformation)"
+    - "∂Φ/∂β (feedback loop where current practice reinforces itself)"
+    - "∂Φ/∂δγ (metabolic ease of continuing vs effort of changing)"
+    - "∂Φ/∂μ (boundary guarding that protects existing structures)"
+  Z_state: sealed
+  tendency: "Stability/Change → 0.8"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - It
+  epistemics:
+    dsrp:
+      D: "The way things are vs. the way things could be"
+      S: "Cognitive-economic-social inertia system"
+      R: "Familiarity breeds preference; change breeds anxiety"
+      P: "Behavioral economics and regenerative farming transitions"
+    learning: L1
+  time:
+    mode: linear
+    phase: "inertial maintenance"
+  qualia:
+    affect:
+      - comfort
+      - anxiety
+      - resistance
+    aesthetic:
+      - invisible
+      - entrenched
+      - guarded
+    symbolic:
+      - anchoring
+      - loss-aversion
+      - regret-avoidance
+    energetic:
+      - conserving
+      - blocking
+      - reinforcing
+  agency:
+    type: collective
+    voice:
+      - Tradition Keeper
+      - Cautious Pragmatist
+    power_mode: With
+elemental_emphasis:
+  ∴: "What would it take to make the status quo visible as a constructed choice?"
+  ≈: "Is the comfort of the familiar genuine contentment or avoidance of uncertainty?"
+  ▲: "Does maintaining current practices serve long-term flourishing or court collapse?"
+  𐂷: "What possibilities exist beyond the change-vs-stability dichotomy?"
+  ☷: "What is the true cost accounting when we include the cost of not changing?"
+  ⛨: "What structures could create containers for safe experimentation with change?"
+context_note: >-
+  Status Quo Bias describes the preference for the current state of affairs, where
+  individuals and systems resist change even when alternatives offer clear benefits.
+  Rooted in cognitive ease, loss aversion, and regret avoidance.
+source: "Overcoming Barriers to Regenerative Farming: A Psychological Perspective"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

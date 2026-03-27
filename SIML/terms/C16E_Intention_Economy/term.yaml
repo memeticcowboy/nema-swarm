@@ -1,0 +1,98 @@
+term_id: C16E
+hex_tag: '#C16E'
+name: intention_economy
+term: Intention Economy
+nemetic: >-
+  Φ(IntentionEconomy) = σ(prediction|manipulation) ∘ ρ(data|intention) ∘
+  λ(influence|autonomy) ∘ β(feedback|commodification) ∘
+  δγ(attention|intention) ∘ μ(privacy|extraction) + ε | :hostile
+siml_encoding: >-
+  ⟨AIModel|predictive⟩ ⊳ ⟨UserData|harvested⟩ ⇄
+  ⟨Intention|commodified⟩ ⊗ ⟨Autonomy|eroded⟩ ⊳
+  ⟨Democracy|threatened⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (legitimate prediction vs manipulative influence)"
+    - "∂Φ/∂ρ (personal data as raw material for intention extraction)"
+    - "∂Φ/∂λ (AI-driven suggestion vs self-directed choice)"
+    - "∂Φ/∂β (self-reinforcing behavior-prediction-shaping cycles)"
+    - "∂Φ/∂δγ (energy transformation from passive attention to active intention)"
+    - "∂Φ/∂μ (permeable boundary between private mental states and extraction)"
+  Z_state: semi
+  tendency: "Prediction/Manipulation → 0.7"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+      - I
+      - We
+  epistemics:
+    dsrp:
+      D: "Intention economy vs attention economy"
+      S: "AI prediction-influence-commodification pipeline"
+      R: "Data → prediction → influence → commodification → autonomy erosion"
+      P: "User, advertiser, AI system, regulator, democratic citizen"
+    learning: L1
+  time:
+    mode: anticipatory
+    phase: "real-time prediction and influence of future intentions"
+  qualia:
+    affect:
+      - unease
+      - manipulation
+      - urgency
+    aesthetic:
+      - invasive
+      - seamless
+      - pervasive
+    symbolic:
+      - surveillance
+      - marketplace
+      - puppet-strings
+    energetic:
+      - extractive
+      - accelerating
+      - destabilizing
+  agency:
+    type: memetic
+    voice:
+      - Commodified Subject
+      - Algorithmic Influencer
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How is legitimate behavioral prediction distinguished from manipulation?"
+  ≈: "What flows between harvested data and extracted human intentions?"
+  ▲: "What transforms AI influence into genuine erosion of autonomy?"
+  𐂷: "How do prediction-behavior feedback loops commodify the will itself?"
+  ☷: "What grounds the metabolic shift from passive attention to active intention capture?"
+  ⛨: "Where must privacy boundaries hold against cognitive extraction?"
+context_note: >-
+  The Intention Economy represents a paradigm shift from capturing attention to
+  predicting and influencing human intentions in real-time. AI systems
+  commodify human motivations, enabling behavioral manipulation with implications
+  for democratic processes, market fairness, and individual autonomy. Cambridge
+  researchers emphasize urgent need for regulatory frameworks.
+source: "The Guardian — AI tools may soon manipulate people's online decision-making (2024)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

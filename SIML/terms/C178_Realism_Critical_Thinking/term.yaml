@@ -1,0 +1,99 @@
+term_id: C178
+hex_tag: '#C178'
+name: realism_critical_thinking
+term: Realism Critical Thinking
+nemetic: >-
+  Φ(RealismCriticalThinking) = σ(idealism|realism) ∘
+  ρ(universal_outreach|willing_recipient) ∘
+  λ(external_intervention|personal_responsibility) ∘
+  β(narrative_fallacy|factual_discernment) ∘
+  δγ(ignorance_illusion|socratic_wisdom) ∘ μ(knowing|not_knowing) + ε | :pure
+siml_encoding: >-
+  ⟨IdealisticGoal|cherished⟩ ⊳ ⟨UniversalOutreach|attempted⟩ ⇄
+  ⟨ResistanceEncountered|experienced⟩ ⊗ ⟨SelfReflection|initiated⟩ ⊳
+  ⟨WillingLearners|engaged⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between who can and cannot be helped)"
+    - "∂Φ/∂ρ (relation between teaching effort and learning outcome)"
+    - "∂Φ/∂λ (direction from external to internal motivation)"
+    - "∂Φ/∂β (feedback between cognitive biases and critical awareness)"
+    - "∂Φ/∂δγ (cycle of recognizing one's own ignorance)"
+    - "∂Φ/∂μ (boundary between confidence and competence)"
+  Z_state: semi
+  tendency: "Realism/Idealism → 0.7"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - We
+  epistemics:
+    dsrp:
+      D: "Idealistic universalism vs pragmatic selective engagement"
+      S: "Educator-learner system bounded by motivation and receptivity"
+      R: "Outreach → resistance → reflection → realistic focus → willing learners"
+      P: "Educator, critical thinking advocate, willing learner, resistant learner"
+    learning: L2
+  time:
+    mode: linear
+    phase: "maturation from idealism to pragmatic realism"
+  qualia:
+    affect:
+      - humility
+      - pragmatism
+      - acceptance
+    aesthetic:
+      - grounded
+      - mature
+      - focused
+    symbolic:
+      - socratic-paradox
+      - dunning-kruger
+      - ten-percent
+    energetic:
+      - conserving
+      - targeted
+      - effective
+  agency:
+    type: ego
+    voice:
+      - Pragmatic Educator
+      - Self-Aware Thinker
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is realistic engagement distinguished from giving up on people?"
+  ≈: "What flows between the effort of teaching and the receptivity of learning?"
+  ▲: "What transforms idealistic ambition into pragmatic effectiveness?"
+  𐂷: "How do narrative fallacies feed back into overconfident ignorance?"
+  ☷: "What grounds Socratic wisdom in acknowledging the limits of what we know?"
+  ⛨: "Where does the boundary between knowing and not-knowing define competence?"
+context_note: >-
+  This concept captures the pragmatic shift from believing everyone can and
+  should develop critical thinking to focusing on willing recipients. It
+  recognizes that critical thinking requires internal motivation, not just
+  external resources. The Dunning-Kruger effect and narrative fallacy represent
+  key cognitive barriers that limit universal outreach.
+source: "Psychology Today — Why I Stopped Caring About Enhancing Everyone's Thinking (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

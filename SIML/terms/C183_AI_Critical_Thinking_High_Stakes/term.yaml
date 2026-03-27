@@ -1,0 +1,98 @@
+term_id: C183
+hex_tag: '#C183'
+name: ai_critical_thinking_high_stakes
+term: AI Critical Thinking High Stakes
+nemetic: >-
+  Φ(AICriticalThinking) = σ(augmentation|erosion) ∘ ρ(tool|crutch) ∘
+  λ(engagement|offloading) ∘ β(expertise|dependence) ∘
+  δγ(accountability|delegation) ∘ μ(verification|trust) + ε | :locked
+siml_encoding: >-
+  ⟨AITool|adopted⟩ ⊳ ⟨CriticalThinking|offloaded⟩ ⇄
+  ⟨Expertise|eroded⟩ ⊗ ⟨HighStakes|endangered⟩ ⊳
+  ⟨Vigilance|imperative⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (AI as cognitive augmentation vs skill erosion)"
+    - "∂Φ/∂ρ (AI flowing from tool to crutch in professional contexts)"
+    - "∂Φ/∂λ (transformation from active engagement to passive offloading)"
+    - "∂Φ/∂β (branching paths of expertise development vs dependence)"
+    - "∂Φ/∂δγ (accountability grounding against delegation tendency)"
+    - "∂Φ/∂μ (boundary between verification and blind trust in AI)"
+  Z_state: semi
+  tendency: "Augmentation/Erosion → 0.65"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - Its
+      - We
+  epistemics:
+    dsrp:
+      D: "AI-augmented professional vs AI-dependent professional"
+      S: "High-stakes professional ecosystem (law, forensics, medicine)"
+      R: "AI adoption → offloading → skill erosion → accountability gap"
+      P: "Professional practitioner, regulator, educator, AI developer"
+    learning: L1
+  time:
+    mode: linear
+    phase: "generational shift toward AI dependency"
+  qualia:
+    affect:
+      - alarm
+      - vigilance
+      - responsibility
+    aesthetic:
+      - high-stakes
+      - erosive
+      - urgent
+    symbolic:
+      - crutch
+      - blind-trust
+      - accountability-gap
+    energetic:
+      - depleting
+      - accelerating
+      - warning
+  agency:
+    type: collective
+    voice:
+      - Vigilant Professional
+      - Dependent Practitioner
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is AI augmentation distinguished from cognitive skill erosion?"
+  ≈: "What flows between AI as tool and AI as crutch in professional practice?"
+  ▲: "What transforms active professional engagement into passive offloading?"
+  𐂷: "How does the expertise-dependence feedback loop develop over careers?"
+  ☷: "What grounds accountability when high-stakes decisions are delegated to AI?"
+  ⛨: "Where must verification boundaries hold against blind trust in AI outputs?"
+context_note: >-
+  A study in Societies reveals that heavy reliance on AI tools diminishes
+  critical thinking through cognitive offloading, disproportionately affecting
+  younger professionals. In high-stakes fields like law and forensic science,
+  unverified AI outputs can lead to catastrophic errors, requiring maintained
+  human expertise and rigorous verification protocols.
+source: "Forbes / Societies Journal — AI's Impact on Critical Thinking (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

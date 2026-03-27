@@ -1,59 +1,63 @@
-# SIML Entry: Alan Watts on Reality - Interdependence vs. Separation
-# Term: C17A
-# Source: 1771907212930_1798385_Alan+Watts+on+Reality%3A+Interdependence+vs.+Separation.md
-# Generated: 2026-03-04T07:23:00+08:00
-
-term_name: "Alan_Watts_Interdependence"
-term_tag: "C17A"
-series: "C"
-source_file: "1771907212930_1798385_Alan+Watts+on+Reality%3A+Interdependence+vs.+Separation.md"
-
-concept:
-  name: "Alan Watts on Reality: Interdependence vs. Separation"
-  description: "Alan Watts' philosophical critique of the 'ceramic' and 'fully automatic' models of reality, advocating for a holistic understanding that emphasizes interdependence over separation between humans and nature"
-
-nemetic_structure:
-  core_tension: "separation|interdependence"
-  dialectic: "ceramic_model|fully_automatic_model"
-  transformation: "alienation|holistic_integration"
-
-related_terms:
-  - C007_consciousness_beyond_materialism
-  - C045_nature_of_consciousness
-  - C16C_Illusion_of_Self
-  - C042_essence_of_dualities
-  - C159_Consciousness_Evolution
-
-keywords:
-  - alan_watts
-  - ceramic_model
-  - fully_automatic_model
-  - interdependence
-  - separation
-  - holism
-  - consciousness
-  - prickles_and_goo
-  - philosophical_models
-  - nature_of_reality
-
-source_metadata:
-  author: "Alan Watts"
-  work: "Models of Reality and Consciousness"
-  era: "20th Century"
-  topics:
-    - philosophy
-    - consciousness
-    - eastern_philosophy
-    - holism
-    - models_of_reality
-
-nemetic_string: "Φ(Alan_Watts_Interdependence) = σ(ceramic|automatic) ∘ ρ(separation|interdependence) ∘ λ(alienation|integration) ∘ β(entity|field) ∘ δγ(self|universe) ∘ μ(model|experience) + ε | :interconnected_awareness"
-
-# Elemental Analysis:
-# σ (Air/Aerunik): The tension between ceramic and fully automatic models of reality
-# ρ (Water/Sentaria): The flow between separation and interdependence
-# λ (Fire/Jvalion): The transformation from alienation to holistic integration
-# β (Wood/Arboriel): The organic relationship between entity and field
-# δγ (Earth/Humavita): The grounding of self within the universe
-# μ (Metal/Ferrosid): The structure of models giving way to direct experience
-# ε: The residual insight of interconnected awareness
+term_id: C17A
+hex_tag: '#C17A'
+name: Alan_Watts_Interdependence
+term: Alan Watts Interdependence
+nemetic: >-
+  Φ(AlanWattsInterdependence) = σ(ceramic|automatic) ∘
+  ρ(separation|interdependence) ∘ λ(alienation|integration) ∘ β(entity|field) ∘
+  δγ(self|universe) ∘ μ(model|experience) + ε | :open
+siml_encoding: >-
+  ⟨Model|ceramic⟩ ⊳ ⟨Model|automatic⟩ ⇄ ⟨Reality|interdependent⟩ ⊗
+  ⟨Self|field-embedded⟩ → ⟨Experience|holistic⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  partials:
+    - "∂Φ/∂σ (distinction between ceramic and fully automatic models of reality)"
+    - "∂Φ/∂ρ (relational flow between separation and interdependence)"
+    - "∂Φ/∂λ (directional transformation from alienation to holistic integration)"
+    - "∂Φ/∂β (organic relationship between isolated entity and interconnected field)"
+    - "∂Φ/∂δγ (grounding of self within the universe as non-separate)"
+    - "∂Φ/∂μ (structural models giving way to direct unmediated experience)"
+  Z_state: permeable
+  tendency: "Integration/Separation → 0.80"
+  hex: ['0x01', '0x7A']
+coords:
+  ontology:
+    primary: MoreThanHuman
+    secondary: [I, We]
+  epistemics:
+    dsrp:
+      D: "Ceramic model vs. fully automatic model vs. interdependent reality"
+      S: "Watts' holistic metaphysics dissolving subject-object separation"
+      R: "Model → experience → interdependence → dissolution of separation"
+      P: "Eastern philosopher, mystic, cultural critic"
+    learning: L3
+  time:
+    mode: cyclical
+    phase: "eternal present — interdependence as timeless ground"
+  qualia:
+    affect: [wonder, belonging, dissolution]
+    aesthetic: [holistic, playful, paradoxical]
+    symbolic: [wave, ocean, net, prickles-and-goo]
+    energetic: [expansive, relaxing, liberating]
+  agency:
+    type: more_than_human
+    voice: [The Universe Playing, The Interconnected Field]
+    power_mode: Through
+elemental_emphasis:
+  ∴: "How does Watts distinguish between the ceramic, automatic, and interdependent models of reality?"
+  ≈: "What flows between self and universe when the illusion of separation dissolves?"
+  ▲: "What drives the transformation from alienation to holistic integration?"
+  𐂷: "How does the entity-field relationship grow beyond isolated selfhood?"
+  ☷: "How does the self ground itself within the universe rather than against it?"
+  ⛨: "What structural limits of models must be dissolved for direct experience?"
+context_note: >-
+  Alan Watts' philosophical critique of the ceramic model (divine potter creating
+  separate artifacts) and the fully automatic model (meaningless mechanical universe),
+  advocating instead for interdependence as the fundamental nature of reality. The
+  prickles-and-goo dialectic captures the tension between those wanting hard boundaries
+  and those wanting fluid merger.
+source: "Alan Watts, Models of Reality and Consciousness; 1771907212930_1798385_.md"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML
