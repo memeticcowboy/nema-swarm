@@ -1,0 +1,30 @@
+---
+term: "Attention Economy Limits"
+hex_tag: "S181"
+series: "S"
+source_file: "1771907213678_2574525_Understanding+Human+Attention+Limits+in+Media+and+Digital+Applications.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Models of human attention as a limited, zero-sum resource. LC4MP framework treats encoding, storage, and retrieval as drawing from a finite cognitive pool. Working memory holds 7-9 chunks, attention drops after 8-12 seconds, multitasking reduces efficiency by 40%, and average web dwell time is 47 seconds."
+nemetic: "Φ(AttentionLimit) = σ(finite_resource|infinite_demand) ∘ ρ(encoding_flow|retrieval_bottleneck) ∘ λ(engagement_spike|attention_decay) ∘ β(capacity_growth|cognitive_depletion) ∘ δγ(embodied_attention|digital_abstraction) ∘ μ(budget_structure|attention_capture) + ε | :zero_sum_allocation"
+siml_encoding: "⟨Finite_attention⟩ ⊳ ⟨infinite_content⟩ → ⟨encoding|storage|retrieval⟩ ⊗ ⟨depletion_curve⟩ ⇄ ⟨zero_sum_allocation⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (categorical distinction between finite attentional resource and infinite informational demand; the fundamental asymmetry driving the attention economy)"
+    - "∂Φ/∂ρ (relational flow between encoding and retrieval processes; the channel connecting intake capacity with recall bottlenecks within the LC4MP framework)"
+    - "∂Φ/∂λ (transformative spike of initial engagement vs exponential attention decay after 8-12 seconds; the fire of capture against the cooling of habituation)"
+    - "∂Φ/∂β (developmental tension between capacity growth through training and cognitive depletion through overload; the organic limits of attentional plasticity)"
+    - "∂Φ/∂δγ (embodied attentional experience — felt focus, fatigue, distraction — vs digital abstraction that models attention as data points)"
+    - "∂Φ/∂μ (structural budget of 8-10 hours daily digital attention vs attention capture mechanisms designed to exceed that budget)"
+  Z_state: "zero_sum_allocation — the condition where every unit of attention given to one stimulus is necessarily withdrawn from another, making attention an economy of scarcity in an environment of informational abundance"
+  tendency: "μ → 0.88"
+elemental_mapping:
+  air_sigma: {emphasis: 0.82, aspects: ["finite_resource", "infinite_demand"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["encoding_flow", "retrieval_bottleneck"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.76, aspects: ["engagement_spike", "attention_decay"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["capacity_growth", "cognitive_depletion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.74, aspects: ["embodied_attention", "digital_abstraction"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.88, aspects: ["budget_structure", "attention_capture"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

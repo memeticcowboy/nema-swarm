@@ -1,0 +1,30 @@
+---
+term: "Reward Seeking Nicotine Response"
+hex_tag: "S05C"
+series: "S"
+source_file: "1771907212682_924995_Mice+Behavior+and+Nicotine+Response+Study.md"
+encoded_at: "2026-03-05T22:30:00Z"
+description: "Individual reward-seeking behaviors in mice predict nicotine responses, with personality differences linked to dopamine system activity. Environmental factors in the semi-natural Souris-City setting shape behavioral traits that influence addiction susceptibility."
+nemetic: "Φ(Reward Seeking Nicotine Response) = σ(reward_seeking|avoidance) ∘ ρ(individual|peer_environment) ∘ λ(baseline_behavior|nicotine_altered_state) ∘ β(trait_formation|addiction_trajectory) ∘ δγ(exposure|response_cycling) ∘ μ(dopamine_architecture|behavioral_constraint) + ε | :differential_susceptibility"
+siml_encoding: "⟨individual_personality, reward_seeking_profile⟩ ⊳ ⟨social_environment, souris_city_context⟩ → ⟨nicotine_response_prediction, behavioral_divergence⟩ ⊗ ⟨dopamine_system, addiction_susceptibility⟩ ⇄ ⟨environmental_shaping, trait_expression⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing reward-seeking from avoidant behavioral profiles)"
+    - "∂Φ/∂ρ (relational influence of peer environment on individual behavior)"
+    - "∂Φ/∂λ (transformation from baseline behavior to nicotine-altered state)"
+    - "∂Φ/∂β (developmental trajectory from trait formation to addiction vulnerability)"
+    - "∂Φ/∂δγ (cycling between substance exposure and behavioral response)"
+    - "∂Φ/∂μ (structural constraints of dopamine system on behavioral expression)"
+  Z_state: "differential_susceptibility — individual behavioral profiles create distinct vulnerability landscapes for substance response"
+  tendency: "σ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["personality_type_distinction", "behavioral_profile_categorization"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.75, aspects: ["peer_influence_dynamics", "social_environment_shaping"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.70, aspects: ["nicotine_state_transformation", "behavioral_alteration"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["trait_development_trajectory", "addiction_vulnerability_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["exposure_response_cycling", "habituation_sensitization_oscillation"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["dopamine_system_architecture", "neurochemical_constraint"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S05D", "S034", "S04A"]
+status: canonical
+---

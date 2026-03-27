@@ -1,0 +1,35 @@
+---
+term: "Haraway Staying with the Trouble"
+hex_tag: "G011"
+series: "G"
+source_file: "17 - Haraway Staying with the Trouble.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "Donna Haraway's framework for engaging with planetary crisis through multispecies kinship, tentacular thinking, and sympoiesis. Replaces the Anthropocene with the Chthulucene, advocating for response-ability, oddkin-making, and speculative fabulation over both technofixes and apocalyptic despair."
+nemetic: "Φ(Haraway_Staying_with_Trouble) = σ(tentacular_distinction|chthulucene_reframe) ∘ ρ(sympoiesis_resonance|making_with_cycles) ∘ λ(crisis_intensity|damaged_planet_urgency) ∘ β(kin_making|multispecies_flourishing) ∘ δγ(compost_ground|earthly_entanglement) ∘ μ(response_ability|ethical_structure) + ε | :troubled"
+siml_encoding: "⟨anthropocene, chthulucene⟩ ⊳ ⟨autopoiesis, sympoiesis⟩ → ⟨crisis_despair, staying_with_trouble⟩ ⊗ ⟨bounded_individual, oddkin_assemblage⟩ ⇄ ⟨technofix, compost_futures⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Displacing the Anthropocene with the Chthulucene; perceiving tentacular interdependence of earth-powers over anthropocentric epochal framing"
+    - "∂Φ/∂ρ — Sympoiesis as making-with replacing autopoiesis; collective production without self-defined boundaries, holobiont assemblages dissolving organism-environment distinctions"
+    - "∂Φ/∂λ — The catalytic urgency of mass extinction, climate change, and systemic inequality demanding engagement rather than flight into salvation narratives or despair"
+    - "∂Φ/∂β — Making oddkin across species boundaries; multispecies flourishing through unexpected collaborations that transcend biological family and human exceptionalism"
+    - "∂Φ/∂δγ — Compost as central material metaphor grounding the framework in earthly entanglement; hot compost piles where becoming-with happens through decay and regeneration"
+    - "∂Φ/∂μ — Response-ability as structural ethical framework; collective accountability to respond to multispecies suffering without collapsing into individual guilt or moralistic closure"
+  Z_state: "troubled — deliberately remaining in trouble rather than seeking resolution; staying present to complexity, damage, and possibility simultaneously"
+  tendency: "β → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["chthulucene_epochal_reframe", "tentacular_perception_mode"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["sympoiesis_collective_making", "holobiont_boundary_dissolution"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.75, aspects: ["planetary_crisis_urgency", "rejection_of_technofix_and_despair"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.90, aspects: ["oddkin_multispecies_kinship", "cross_species_solidarity_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["compost_metabolism_metaphor", "earthly_material_entanglement"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["response_ability_accountability", "ethical_framework_without_moralism"], daemon_correspondence: "Ferrosid"}
+related_terms:
+  - "G012_Morton_Dark_Ecology"
+  - "G013_Rotimization_Decay_Design"
+  - "G016_Biosphere_Consciousness"
+  - "G018_Agency_Detection_Ecological_Wisdom"
+  - "G01A_Exaptation"
+status: canonical
+---

@@ -1,0 +1,62 @@
+---
+term: "Lacan's Mirror Stage and Desire"
+hex_tag: "S017"
+series: "S"
+source_file: "1771907212412_264798_Lacan%27s+Mirror+Stage+and+Desire+Theory.md"
+encoded_at: "2026-03-05T18:30:00Z"
+description: "Lacan's mirror stage — the infant's recognition of its reflection as a complete unified self, producing a foundational misidentification that creates the basis for psychological struggles. Desire and Lack — unconscious desires shaped by society, always seeking external fulfillment, creating persistent incompleteness. The subject is constituted through desire for what it lacks, ensuring that satisfaction remains structurally impossible."
+nemetic: "Φ(MirrorDesire) = σ(self|reflection) ∘ ρ(desire|lack) ∘ λ(recognition|misrecognition) ∘ β(infant|subject) ∘ δγ(completeness|incompleteness) ∘ μ(image|identity) + ε | :forming"
+siml_encoding: "⟨Self|distinguished⟩ ⊳ ⟨Desire|related⟩ → ⟨Recognition|transformed⟩ ⊗ ⟨Infant|growing⟩ ⇄ ⟨Identity|forming⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction between self and its reflected image as foundational split)"
+    - "∂Φ/∂ρ (relational dynamic between desire and lack as constitutive of subjectivity)"
+    - "∂Φ/∂λ (transformative moment of recognition that is simultaneously misrecognition)"
+    - "∂Φ/∂β (developmental stage from infant bodily fragmentation to constituted subject)"
+    - "∂Φ/∂δγ (oscillation between imagined completeness and structural incompleteness)"
+    - "∂Φ/∂μ (structural boundary between mirror image and identity formation)"
+  Z_state: "forming (subject formed through mirror identification and desire's constitutive lack)"
+  tendency: "Formation/Incompleteness → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "Foundational distinction between self and reflected image as originary psychic split"
+      - "Analytical separation of the experiencing subject from its imaginary double"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.90
+    aspects:
+      - "Desire as relational lack — always directed toward an other, never self-contained"
+      - "Flow of desire perpetually seeking fulfillment through external objects and others"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "Misrecognition as the transformative moment constituting the ego"
+      - "Recognition of the mirror image as simultaneously a fundamental misidentification"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+      - "Developmental passage from infant bodily fragmentation to constituted subject"
+      - "Growth through the mirror stage as foundational psychic developmental event"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "Oscillation between imagined completeness and structural incompleteness"
+      - "Grounding tension between the promise of wholeness and its perpetual deferral"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "Image-identity boundary as structural limit of self-knowledge"
+      - "Mirror image as rigid framework that both constitutes and constrains the ego"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S016_Lacan_Imaginary_Symbolic_Real"
+  - "C043_carl_jung_psychological_insights"
+status: canonical
+---

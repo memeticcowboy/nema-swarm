@@ -1,0 +1,30 @@
+---
+term: "Socially Minded Intelligence"
+hex_tag: "S03F"
+series: "S"
+source_file: "1771907212620_740565_Exploring+Socially-Minded+Intelligence.md"
+encoded_at: "2026-03-05T21:00:00Z"
+description: "The capacity of individuals, groups, or AI systems to dynamically oscillate between independent and collective functioning based on context, goals, and social landscape. Proposes measurable dimensions including socially-minded ability, social resources, and goal alignment."
+nemetic: "Φ(SociallyMindedIntelligence) = σ(individual|collective) ∘ ρ(alignment|divergence) ∘ λ(switching|stabilizing) ∘ β(skills|capacity) ∘ δγ(feedback|adaptation) ∘ μ(metrics|frameworks) + ε | :dynamic_oscillation"
+siml_encoding: "⟨individual autonomy⟩ ⊳ ⟨collective coordination⟩ → ⟨contextual switching⟩ ⊗ ⟨goal alignment metrics⟩ ⇄ ⟨social intelligence enhancement⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing independent from collective modes of functioning)"
+    - "∂Φ/∂ρ (mapping goal alignment and social resource networks)"
+    - "∂Φ/∂λ (dynamic switching between individual and group modalities)"
+    - "∂Φ/∂β (growth of emotional intelligence and social skills over time)"
+    - "∂Φ/∂δγ (feedback loops between social context and behavioral adaptation)"
+    - "∂Φ/∂μ (formal metrics and algorithmic structures for measuring social intelligence)"
+  Z_state: "dynamic_oscillation — system maintains productive tension between autonomous agency and collective participation"
+  tendency: "λ → 0.82"
+elemental_mapping:
+  air_sigma: {emphasis: 0.75, aspects: ["individual vs collective distinction", "self-relevance calculation"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["goal alignment", "social resource networks"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.82, aspects: ["dynamic context switching", "mode flexibility"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["emotional intelligence growth", "social skill development"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.68, aspects: ["social feedback cycling", "adaptive recalibration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.72, aspects: ["socially-minded ability metrics", "social influence algorithms"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S029_Social_Evolution_Consciousness", "S027_Distributed_Consciousness", "S031_Language_Reality_Interconnected", "A011_Conscious_Realism"]
+status: canonical
+---

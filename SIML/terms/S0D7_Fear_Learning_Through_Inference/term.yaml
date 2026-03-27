@@ -1,0 +1,30 @@
+---
+term: "Fear Learning Through Inference"
+hex_tag: "S0D7"
+series: "S"
+source_file: "1771907213132_2118074_Rats+Learn+Fear+Through+Inference%3A+A+Neuroscience+Breakthrough.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Rats learn fear through inference, not just direct experience. Medial prefrontal cortex (mPFC) links neutral cues to fearful events through internal models. mPFC tags neurons during sensory pairing, activated during emotional learning. Blocking mPFC impairs inference but not direct memory. Implications for understanding human anxiety and trauma-related disorders."
+nemetic: "Φ(Fear Learning Through Inference) = σ(direct_experience|inference) ∘ ρ(conditioned_response|internal_model) ∘ λ(basic_memory|higher_order_emotion) ∘ β(individual_fear|clinical_understanding) ∘ δγ(sensory_pairing_cycles|emotional_learning_activation) ∘ μ(amygdala_structures|prefrontal_cortex_structures) + ε | :inferential_fear_architecture"
+siml_encoding: "⟨experience_inference_distinction, fear_epistemics⟩ ⊳ ⟨conditioned_model_relational_mapping, internal_model_web⟩ → ⟨memory_to_emotion_transformation, emotional_catalysis⟩ ⊗ ⟨individual_to_clinical_maturation, fear_understanding_growth⟩ ⇄ ⟨sensory_emotional_cycling, learning_activation_renewal⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing direct experiential fear conditioning from inferential fear learning)"
+    - "∂Φ/∂ρ (relating conditioned responses to internal model construction through mPFC mediation)"
+    - "∂Φ/∂λ (transforming basic associative memory into higher-order emotional inference)"
+    - "∂Φ/∂β (growth from individual fear responses to clinical understanding of anxiety and trauma)"
+    - "∂Φ/∂δγ (cycling between sensory pairing phases and emotional learning activation phases)"
+    - "∂Φ/∂μ (structural contrast between amygdala-driven conditioning and prefrontal cortex-mediated inference)"
+  Z_state: "inferential_fear_architecture — the organism builds internal models linking neutral cues to fearful events through mPFC-mediated inference, transcending direct associative conditioning to construct predictive emotional landscapes"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["direct_vs_inferential_learning_distinction", "experience_inference_epistemics"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["conditioned_internal_model_mapping", "mPFC_mediation_web"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["memory_to_emotional_inference_transformation", "higher_order_fear_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["individual_to_clinical_growth", "anxiety_trauma_understanding_arc"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["sensory_emotional_learning_cycling", "pairing_activation_renewal"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["amygdala_vs_prefrontal_architecture", "neural_circuit_frameworks"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S02F", "S09A"]
+status: canonical
+---

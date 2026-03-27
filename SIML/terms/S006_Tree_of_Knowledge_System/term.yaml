@@ -1,0 +1,62 @@
+---
+term: "Tree of Knowledge System"
+hex_tag: "S006"
+series: "S"
+source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
+encoded_at: "2026-03-05T18:15:00Z"
+description: "Gregg Henriques' unified metatheoretical framework organizing human knowledge across psychological domains—biopsychology, cognitive science, developmental psychology, and systems theory—into an integrated tree structure."
+nemetic: "Φ(ToK) = σ(domain|integration) ∘ ρ(discipline|synthesis) ∘ λ(fragmented|unified) ∘ β(branch|trunk) ∘ δγ(bio|psycho) ∘ μ(taxonomy|boundary) + ε | :unifying"
+siml_encoding: "⟨Knowledge|fragmented⟩ ⊳ ⟨Domains|classified⟩ → ⟨Integration|structured⟩ ⊗ ⟨Theory|unified⟩ ⇄ ⟨Understanding|holistic⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction between separate knowledge domains and their meta-integration)"
+    - "∂Φ/∂ρ (relational flow between disciplines enabling cross-domain synthesis)"
+    - "∂Φ/∂λ (transformative direction from fragmented knowledge toward unified framework)"
+    - "∂Φ/∂β (organic branching of knowledge domains from common trunk of understanding)"
+    - "∂Φ/∂δγ (cyclical grounding between biological and psychological levels of analysis)"
+    - "∂Φ/∂μ (taxonomic boundaries organizing knowledge into structured categories)"
+  Z_state: "unifying (knowledge organized into coherent metatheoretical structure)"
+  tendency: "Integration/Coherence → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "Classification of distinct psychological domains"
+      - "Meta-distinction between disciplinary knowledge and integrative framework"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects:
+      - "Cross-disciplinary flow connecting biopsychology to systems theory"
+      - "Relational synthesis across knowledge domains"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "Transformative direction from fragmented disciplines to unified vision"
+      - "Purpose-driven integration of knowledge"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.90
+    aspects:
+      - "Tree structure: knowledge domains branching from common trunk"
+      - "Organic growth model of accumulated understanding"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+      - "Grounding in biological foundations of psychology"
+      - "Cyclical return between theory and embodied reality"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "Taxonomic structure organizing domains into categories"
+      - "Boundary clarity between levels of analysis"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S005_DSRP_Theory_of_Thinking"
+  - "C063_knowledge_learning_wisdom"
+status: canonical
+---

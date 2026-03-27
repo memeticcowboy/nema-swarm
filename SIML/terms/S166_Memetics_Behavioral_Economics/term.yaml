@@ -1,0 +1,30 @@
+---
+term: "Memetics Behavioral Economics"
+hex_tag: "S166"
+series: "S"
+source_file: "1771907213599_2537121_.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Maps structural parallels between memetics and behavioral economics. Memes function as cognitive heuristics — fast, frugal, and error-prone. Memeplexes operate as framing effects, emotional tagging as affect heuristic, memetic competition as idea markets, cultural conditioning as availability bias, memetic resistance as status-quo bias, memetic engineering as choice architecture, and metacognitive meme-awareness as nudge-plus boosts."
+nemetic: "Φ(MemeEcon) = σ(heuristic|deliberation) ∘ ρ(affect_tag|rational_weight) ∘ λ(viral_spread|slow_adoption) ∘ β(memeplex_growth|pruning) ∘ δγ(cultural_conditioning|critical_override) ∘ μ(choice_architecture|free_selection) + ε | :idea_market"
+siml_encoding: "⟨meme_as_heuristic⟩ ⊳ ⟨behavioral_bias⟩ → ⟨memetic_engineering⟩ ⊗ ⟨metacognitive_resistance⟩ ⇄ ⟨idea_market_equilibrium⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (shift between fast heuristic meme-adoption and slow deliberative evaluation)"
+    - "∂Φ/∂ρ (emotional tagging of memes — affect heuristic driving selection over rational weighting)"
+    - "∂Φ/∂λ (viral ignition speed vs slow organic adoption of cultural ideas)"
+    - "∂Φ/∂β (memeplex growth through bundling vs pruning through competition and falsification)"
+    - "∂Φ/∂δγ (cultural conditioning as availability heuristic vs critical metacognitive override)"
+    - "∂Φ/∂μ (designed choice architecture and nudging vs unconstrained free selection)"
+  Z_state: "idea_market — the dynamic equilibrium of competing memes shaped by cognitive biases, emotional tagging, and cultural architecture"
+  tendency: "σ → 0.82"
+elemental_mapping:
+  air_sigma: {emphasis: 0.82, aspects: ["heuristic", "deliberation"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.75, aspects: ["affect_tag", "rational_weight"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.70, aspects: ["viral_spread", "slow_adoption"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.68, aspects: ["memeplex_growth", "pruning"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.72, aspects: ["cultural_conditioning", "critical_override"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.78, aspects: ["choice_architecture", "free_selection"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

@@ -1,0 +1,35 @@
+---
+term: "Biosphere Consciousness"
+hex_tag: "G016"
+series: "G"
+source_file: "22 - Biosphere Consciousness.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "A state of awareness where humanity recognizes its interconnectedness with the entire biosphere, shifting from anthropocentric to ecocentric perspective. Fosters collective responsibility for planetary well-being, understanding that human actions directly impact all ecosystems and that survival requires biospheric-scale thinking."
+nemetic: "Φ(Biosphere_Consciousness) = σ(scale_distinction|anthropocentric_vs_ecocentric) ∘ ρ(planetary_resonance|human_ecosystem_interdependence) ∘ λ(perspective_shift|consciousness_transformation) ∘ β(awareness_expansion|local_to_planetary_growth) ∘ δγ(life_support_cycling|ecosystem_metabolism) ∘ μ(collective_structure|global_responsibility_framework) + ε | :awakening"
+siml_encoding: "⟨anthropocentric, ecocentric⟩ ⊳ ⟨individual_gain, planetary_health⟩ → ⟨national_borders, biospheric_thinking⟩ ⊗ ⟨consumption_impact, ecosystem_consequence⟩ ⇄ ⟨collective_action, sustainable_flourishing⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Distinguishing anthropocentric from ecocentric perspective; perceiving the shift from human-centered to ecosystem-centered awareness as fundamental reorientation"
+    - "∂Φ/∂ρ — The resonant interdependence between human well-being and biospheric health; understanding that human actions flow through all ecosystems as direct impact"
+    - "∂Φ/∂λ — The catalytic transformation from national-individual consciousness to planetary-collective consciousness; the empathic leap to biosphere-scale awareness"
+    - "∂Φ/∂β — Expansion of awareness from local and national scales to planetary scope; growth of consciousness to encompass the full biosphere as domain of concern"
+    - "∂Φ/∂δγ — Earth's life-support systems as metabolic cycling ground; the ecosystem processes that sustain all life and require conscious stewardship to maintain"
+    - "∂Φ/∂μ — Collective responsibility frameworks providing structure for global coordination; institutional and ethical scaffolding for biosphere-scale governance"
+  Z_state: "awakening — emerging shift from anthropocentric default to ecocentric awareness; consciousness in transition toward planetary-scale recognition"
+  tendency: "ρ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["anthropocentric_ecocentric_reframe", "scale_of_awareness_distinction"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["human_biosphere_interdependence", "planetary_health_resonance"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["consciousness_transformation_catalyst", "empathic_leap_intensity"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["awareness_scale_expansion", "local_to_planetary_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["life_support_system_metabolism", "ecosystem_process_grounding"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["collective_responsibility_framework", "global_governance_scaffolding"], daemon_correspondence: "Ferrosid"}
+related_terms:
+  - "G010_Arctic_Amazon_Climate_Connection"
+  - "G012_Morton_Dark_Ecology"
+  - "G011_Haraway_Staying_with_Trouble"
+  - "G00C_Biocentric_Governance"
+  - "G017_Ecological_Memory"
+status: canonical
+---

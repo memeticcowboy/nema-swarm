@@ -1,0 +1,63 @@
+---
+term: "Understanding Reality Through Science"
+hex_tag: "S011"
+series: "S"
+source_file: "1771907212395_257810_Understanding+Reality+Through+Science.md"
+encoded_at: "2026-03-05T18:30:00Z"
+description: "Science as a democratic, everyday tool for understanding reality through the IO Loop (Information-Organization Loop)—a cyclical process of observation, questioning, and experimentation that refines mental models. Reality is always communicating; our task is to listen. Warns against confirmation bias as the primary obstacle to genuine inquiry."
+nemetic: "Φ(ScienceReality) = σ(observe|question) ∘ ρ(reality|model) ∘ λ(hypothesis|test) ∘ β(refine|adapt) ∘ δγ(information|organization) ∘ μ(method|bias) + ε | :aligning"
+siml_encoding: "⟨Observation|made⟩ ⊳ ⟨Question|asked⟩ → ⟨Hypothesis|tested⟩ ⊗ ⟨Model|refined⟩ ⇄ ⟨Reality|aligned⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction through observation and questioning of perceived phenomena)"
+    - "∂Φ/∂ρ (relational alignment between reality's communications and mental models)"
+    - "∂Φ/∂λ (transformative hypothesis testing through experimentation)"
+    - "∂Φ/∂β (developmental refinement and adaptation of models through iterative cycles)"
+    - "∂Φ/∂δγ (cyclical IO Loop grounding information intake in organizational structure)"
+    - "∂Φ/∂μ (structural scientific method as discipline against confirmation bias)"
+  Z_state: "aligning (mental models progressively aligned with reality through iterative inquiry)"
+  tendency: "Alignment/Refinement → 0.75"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects:
+      - "Observation as the primary act of distinction"
+      - "Questioning as the sharpening of what has been observed"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.65
+    aspects:
+      - "Reality-mind relationship as ongoing communication"
+      - "Listening to what reality is telling us through phenomena"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+      - "Hypothesis testing as transformative experimentation"
+      - "Directed inquiry that changes understanding"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "Iterative refinement and adaptation of mental models"
+      - "Growth through cycles of error correction"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects:
+      - "The IO Loop as cyclical grounding process: information in, organization out"
+      - "Metabolic rhythm of observation, hypothesis, test, refine"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+      - "Scientific method as structural discipline against confirmation bias"
+      - "Procedural rigor preventing self-deception"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S004_Mental_Models_Integrative_Thinking"
+  - "A057_Confirmation_Bias"
+  - "S005_DSRP_Theory_of_Thinking"
+status: canonical
+---

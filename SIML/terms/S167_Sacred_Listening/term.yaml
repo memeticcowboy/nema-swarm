@@ -1,0 +1,30 @@
+---
+term: "Sacred Listening"
+hex_tag: "S167"
+series: "S"
+source_file: "1771907213601_2538970_Listening+as+Sacred+Emptiness+and+Presence.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Listening as sacred poverty — renouncing the will to shape, frame, or impress. A yielding that opens the self to unmediated presence. Silence not as absence but as sanctified capacity. Draws on apophatic Christianity, Buddhist renunciation, Pauline Oliveros' deep listening, and Japanese aesthetics of ma and wabi-sabi. The ear as empty vessel; receptivity as renunciation."
+nemetic: "Φ(SacredListen) = σ(silence|noise) ∘ ρ(receptivity|projection) ∘ λ(presence_ignition|distraction) ∘ β(organic_attention|forced_focus) ∘ δγ(embodied_stillness|restless_action) ∘ μ(ritual_form|formlessness) + ε | :sanctified_emptiness"
+siml_encoding: "⟨performative_self⟩ ⊳ ⟨sacred_poverty⟩ → ⟨deep_receptivity⟩ ⊗ ⟨willful_shaping⟩ ⇄ ⟨presence_as_emptiness⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (the clearing of cognitive noise to create space for silence as communicative medium)"
+    - "∂Φ/∂ρ (shift from projective listening — hearing what one expects — to genuinely receptive listening)"
+    - "∂Φ/∂λ (the kindling of full presence vs dissipation into distraction)"
+    - "∂Φ/∂β (natural, organic attention that grows without force vs effortful concentration)"
+    - "∂Φ/∂δγ (embodied stillness as ground of listening vs restless action-orientation)"
+    - "∂Φ/∂μ (ritual containers that support listening vs the formless openness they serve)"
+  Z_state: "sanctified_emptiness — the condition where the listener becomes an empty vessel, and silence itself becomes the medium of meaning"
+  tendency: "ρ → 0.88"
+elemental_mapping:
+  air_sigma: {emphasis: 0.72, aspects: ["silence", "noise"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.88, aspects: ["receptivity", "projection"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.55, aspects: ["presence_ignition", "distraction"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.62, aspects: ["organic_attention", "forced_focus"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["embodied_stillness", "restless_action"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.50, aspects: ["ritual_form", "formlessness"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

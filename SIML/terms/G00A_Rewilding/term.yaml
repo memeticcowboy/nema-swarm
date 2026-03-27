@@ -1,0 +1,30 @@
+---
+term: "Rewilding"
+hex_tag: "G00A"
+series: "G"
+source_file: "10 - Rewilding.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The practice of restoring land to its natural state by reintroducing native species, removing human-made barriers, and allowing ecosystems to recover autonomously. Encompasses trophic cascade restoration through predator reintroduction, community-driven land preservation, and the long-term vision of creating self-sustaining ecosystems independent of human intervention."
+nemetic: "Φ(Rewilding) = σ(wild_state|managed_state) ∘ ρ(trophic_cascade_relation|community_land_stewardship) ∘ λ(predator_reintroduction_catalysis|ecosystem_regime_shift) ∘ β(biodiversity_recovery_growth|rewilding_movement_expansion) ∘ δγ(ecosystem_restoration_cycle|human_withdrawal_oscillation) ∘ μ(land_protection_framework|ecological_baseline_structure) + ε | :autonomous_ecosystem_recovery"
+siml_encoding: "⟨degraded_land, restored_wild⟩ ⊳ ⟨predator_reintroduction, barrier_removal⟩ → ⟨trophic_cascade, ecosystem_recovery⟩ ⊗ ⟨human_withdrawal, ecological_autonomy⟩ ⇄ ⟨development_pressure, conservation_commitment⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes wild autonomous ecosystems from human-managed landscapes, defining the target state for rewilding interventions"
+    - "∂Φ/∂ρ maps the trophic cascade relationships triggered by species reintroduction and the community bonds formed through collaborative land stewardship"
+    - "∂Φ/∂λ captures the catalytic transformation when predator reintroduction triggers ecosystem-wide regime shifts through cascading effects"
+    - "∂Φ/∂β tracks the growth of biodiversity recovery in rewilded areas and the global expansion of the rewilding movement"
+    - "∂Φ/∂δγ describes the restoration cycle where ecosystems recover through iterative natural processes and the oscillation between human withdrawal and ecological autonomy"
+    - "∂Φ/∂μ defines the land protection frameworks and ecological baseline reference points that structure rewilding goals and assessment"
+  Z_state: "autonomous_ecosystem_recovery — the emergent state where restored ecosystems achieve self-sustaining function independent of ongoing human management, maintained by recovered trophic structures and natural processes"
+  tendency: "δγ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["wild_vs_managed_distinction", "natural_vs_degraded_baseline"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["trophic_cascade_relations", "community_land_stewardship_bonds"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["predator_reintroduction_catalysis", "ecosystem_regime_shift"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["biodiversity_recovery", "rewilding_movement_expansion"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["ecosystem_restoration_cycling", "human_withdrawal_oscillation"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["land_protection_framework", "ecological_baseline_structure"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G005", "G009", "G00B"]
+status: canonical
+---

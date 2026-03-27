@@ -1,0 +1,94 @@
+term_id: C163
+hex_tag: '#C163'
+name: Manifesto_Power
+term: Manifesto Power
+nemetic: >-
+  Φ(ManifestoPower) = σ(question|assumption) ∘ ρ(principle|paradigm) ∘ λ(action|inertia)
+  ∘ β(growth|stagnation) ∘ δγ(symbol|abstraction)
+  ∘ μ(edge|blur) + ε | :open
+siml_encoding: >-
+  ⟨Question|disruptive⟩ ⊳ ⟨Principle|radical⟩ ⊗ ⟨Action|mobilized⟩
+  ⊗ ⟨Symbol|charged⟩ ⊗ ⟨Paradigm|disrupted⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (how the core question destabilizes existing assumptions)"
+    - "∂Φ/∂ρ (flow of new conceptual frameworks replacing entrenched paradigms)"
+    - "∂Φ/∂λ (transformative spark moving from thought to mobilization)"
+    - "∂Φ/∂β (organic expansion of movements from manifesto seed ideas)"
+    - "∂Φ/∂δγ (grounded power of charged symbolic imagery vs detached abstraction)"
+    - "∂Φ/∂μ (cutting edge between old and new worldviews)"
+  Z_state: permeable
+  tendency: "Action/Inertia → 0.85"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - I
+  epistemics:
+    dsrp:
+      D: "Core disruptive question vs. received assumption"
+      S: "Four-mechanism manifesto engine: question, principle, action, symbol"
+      R: "Critique bridges to praxis through charged symbolic mobilization"
+      P: "Marx/Engels, Marinetti, Haraway, Solanas as canonical exemplars"
+    learning: L2
+  time:
+    mode: event
+    phase: "paradigmatic disruption"
+  qualia:
+    affect:
+      - urgency
+      - defiance
+      - possibility
+    aesthetic:
+      - revolutionary
+      - charged
+      - confrontational
+    symbolic:
+      - specter-haunting
+      - racing-car
+      - cyborg
+    energetic:
+      - mobilizing
+      - disrupting
+      - seeding
+  agency:
+    type: memetic
+    voice:
+      - Revolutionary Author
+      - Paradigm Disruptor
+    power_mode: Through
+elemental_emphasis:
+  ∴: "What is the core question that destabilizes the prevailing assumption?"
+  ≈: "How do new principles flow to replace entrenched paradigms?"
+  ▲: "Where does the manifesto's energy direct — toward mobilization or mere provocation?"
+  𐂷: "What movements grow from manifesto seeds that the authors never imagined?"
+  ☷: "What grounds the charged symbolic power — embodied imagery or detached theory?"
+  ⛨: "What edges does the manifesto sharpen between old and new worldviews?"
+context_note: >-
+  Manifestos function as memetic engines through four mechanisms: a disruptive core
+  question, an alternate principle, actionable possibilities, and charged symbolic power.
+  Analyzed through the Communist, Futurist, Cyborg, and SCUM Manifestos.
+source: "Daniel Durrant via Perplexity — Examples of Manifestos"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

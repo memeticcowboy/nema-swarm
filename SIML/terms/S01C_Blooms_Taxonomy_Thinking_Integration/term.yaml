@@ -1,0 +1,64 @@
+---
+term: "Bloom's Taxonomy Thinking Integration"
+hex_tag: "S01C"
+series: "S"
+source_file: "1771907212427_272057_Integrating+Bloom%27s+Taxonomy%2C+Thinking+Metaphors%2C+and+Kolb%27s+Learning+Styles.md"
+encoded_at: "2026-03-05T18:35:00Z"
+description: "A structured framework that combines Bloom's Taxonomy (remember/understand/apply/analyze/evaluate/create), thinking metaphors (mechanistic, living systems, journey), and Kolb's Learning Styles (diverging, assimilating, converging, accommodating) into a 3-level hierarchy for understanding and applying cognitive models across various levels of learning."
+nemetic: "Φ(BloomIntegration) = σ(cognitive_level|metaphor_lens) ∘ ρ(learner|framework) ∘ λ(lower_order|higher_order) ∘ β(simple_recall|creative_synthesis) ∘ δγ(concrete_experience|abstract_conceptualization) ∘ μ(hierarchy|nested_structure) + ε | :integration"
+siml_encoding: "⟨cognitive_levels⟩ ⊳ ⟨thinking_metaphors⟩ → ⟨learning_style_mapping⟩ ⊗ ⟨hierarchical_nesting⟩ ⇄ ⟨applied_understanding⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing six cognitive levels and three metaphor lenses as separate analytical dimensions)"
+    - "∂Φ/∂ρ (relating learner preferences to taxonomic levels and metaphor affordances)"
+    - "∂Φ/∂λ (transforming cognition from lower-order recall to higher-order creation)"
+    - "∂Φ/∂β (growing capacity from simple remembering toward creative synthesis)"
+    - "∂Φ/∂δγ (cycling between concrete experience and abstract conceptualization across Kolb's modes)"
+    - "∂Φ/∂μ (structuring the 3-level hierarchy: Bloom's at top, metaphors nested within, Kolb's as third level)"
+  Z_state: "integration (three cognitive models unified into a single operational hierarchy)"
+  tendency: "Metal/Structure → 0.85"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.70
+    aspects:
+      - "Distinguishing six Bloom's levels as discrete cognitive stages"
+      - "Separating three thinking metaphors as distinct analytical lenses"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.65
+    aspects:
+      - "Connecting learner preferences to appropriate cognitive strategies"
+      - "Relating Kolb's diverging/assimilating/converging/accommodating to Bloom's levels"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "Transforming understanding from remember through create"
+      - "Shifting metaphor lens from mechanistic to living systems to journey"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.60
+    aspects:
+      - "Developing learners progressively through taxonomic levels"
+      - "Expanding cognitive capacity through metaphor integration"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+      - "Cycling between concrete and abstract modes of learning"
+      - "Iterating through Kolb's experiential learning cycle"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+      - "3-level nested hierarchy as organizing scaffold"
+      - "Formal structure mapping Bloom's to metaphors to learning styles"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S004_Mental_Models_Integrative_Thinking"
+  - "S005_DSRP_Theory_of_Thinking"
+  - "S008_Metacognitive_Strategies"
+  - "S015_Cabrera_Neurodiversity_DSRP"
+status: canonical
+---

@@ -1,0 +1,63 @@
+term_id: C182
+hex_tag: '#C182'
+name: AI_Bias_Fairness
+term: AI Bias Fairness
+nemetic: >-
+  Φ(AIBiasFairness) = σ(algorithmic|human) ∘ ρ(data|context) ∘
+  λ(perpetuation|mitigation) ∘ β(diverse|homogeneous) ∘
+  δγ(transparency|opacity) ∘ μ(constraint|fairness) + ε | :open
+siml_encoding: >-
+  ⟨Bias|systemic⟩ ⊳ ⟨Algorithm|amplifying⟩ ⇄ ⟨Data|contextual⟩ ⊗
+  ⟨Team|diverse⟩ → ⟨Fairness|measured⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  partials:
+    - "∂Φ/∂σ (distinction between algorithmic decision-making and human judgment)"
+    - "∂Φ/∂ρ (relational flow of data through contextual interpretation)"
+    - "∂Φ/∂λ (directional tension from bias perpetuation toward active mitigation)"
+    - "∂Φ/∂β (organic growth of diverse vs. homogeneous team perspectives)"
+    - "∂Φ/∂δγ (grounding tension between transparency and opacity in AI systems)"
+    - "∂Φ/∂μ (boundary constraints applied to achieve fairness metrics)"
+  Z_state: semi
+  tendency: "Mitigation/Perpetuation → 0.55"
+  hex: ['0x01', '0x82']
+coords:
+  ontology:
+    primary: Its
+    secondary: [We, It]
+  epistemics:
+    dsrp:
+      D: "Algorithmic bias vs. human bias; fairness vs. accuracy"
+      S: "Sociotechnical system of AI development, deployment, and oversight"
+      R: "Data → algorithm → output → impact → feedback → correction"
+      P: "AI developer, affected community, ethicist, regulator"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "continuous monitoring — iterative bias detection and correction"
+  qualia:
+    affect: [concern, responsibility, urgency]
+    aesthetic: [technical, systemic, revealing]
+    symbolic: [scale, mirror, lens]
+    energetic: [corrective, vigilant, iterative]
+  agency:
+    type: collective
+    voice: [The Affected Community, The Responsible Developer]
+    power_mode: With
+elemental_emphasis:
+  ∴: "How do we distinguish algorithmic bias from human bias encoded in data?"
+  ≈: "What flows through data pipelines that carries contextual meaning and historical injustice?"
+  ▲: "What drives the transformation from bias perpetuation to active mitigation?"
+  𐂷: "How do diverse team perspectives grow solutions that homogeneous teams cannot?"
+  ☷: "What grounds AI systems in transparency against the pull of corporate opacity?"
+  ⛨: "What structural constraints achieve fairness without sacrificing performance?"
+context_note: >-
+  The challenge of identifying, mitigating, and preventing algorithmic bias in AI
+  systems through diverse development teams, continuous monitoring, technical
+  interventions, and human oversight. AI can both perpetuate and amplify existing
+  societal biases, requiring systematic approaches to fairness across the
+  development lifecycle.
+source: "McKinsey & Company, Tackling Bias in AI; 1771907212957_1833206_.md"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

@@ -1,0 +1,1393 @@
+# SIML Encoding Log — Sensemaking & Epistemics S-Series
+# Tracks every encoding action: successes, skips, and errors
+# Generated: 2026-03-05
+
+encoding_session:
+  started_at: "2026-03-05T18:00:00Z"
+  agent: "claude/review-siml-encoding-agent-Izaki"
+  plan_version: "2.0"
+  series: "S"
+  queue_file: "SIML/encoding_queue.txt"
+  source_folder: "SWARM_BASE/Sensemaking & Epistemics/"
+  total_in_queue: 628
+
+entries:
+  - seq: 1
+    source_file: "1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md"
+    action: "encoded"
+    tag: "S002"
+    term_name: "System_1_System_2_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+
+  - seq: 2
+    source_file: "1771907212335_227959_.md"
+    action: "skipped"
+    reason: "Untitled — basic AI prompting keyword list, not a sensemaking concept"
+
+  - seq: 3
+    source_file: "1771907212340_228337_Embedding+Intentions+into+the+Subconscious%3A+Brain+Networks+and+Manifestation.md"
+    action: "encoded"
+    tag: "S003"
+    term_name: "Subconscious_Intention_Embedding"
+    encoded_at: "2026-03-05T18:10:00Z"
+
+  - seq: 4
+    source_file: "1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md"
+    action: "encoded"
+    tag: "S004"
+    term_name: "Mental_Models_Integrative_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+
+  - seq: 5
+    source_file: "1771907212350_232644_DSRP+Theory+of+Thinking.md"
+    action: "encoded"
+    tag: "S005"
+    term_name: "DSRP_Theory_of_Thinking"
+    encoded_at: "2026-03-05T18:10:00Z"
+
+  - seq: 6
+    source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
+    action: "encoded"
+    tag: "S006"
+    term_name: "Tree_of_Knowledge_System"
+    encoded_at: "2026-03-05T18:15:00Z"
+
+  - seq: 7
+    source_file: "1771907212355_235787_Understanding+the+Human+Mind.md"
+    action: "encoded"
+    tag: "S007"
+    term_name: "Understanding_Human_Mind"
+    encoded_at: "2026-03-05T18:15:00Z"
+
+  - seq: 8
+    source_file: "1771907212356_235901_Mastering+MetaCognitive+Strategies.md"
+    action: "encoded"
+    tag: "S008"
+    term_name: "Metacognitive_Strategies"
+    encoded_at: "2026-03-05T18:15:00Z"
+
+  - seq: 9
+    source_file: "1771907212356_235914_Enhancing+Audience+Engagement+with+Metacognitive+Strategies+in+Digital+Marketing+Funnel.md"
+    action: "encoded"
+    tag: "S009"
+    term_name: "Metacognitive_Marketing_Funnel"
+    encoded_at: "2026-03-05T18:15:00Z"
+
+  - seq: 10
+    source_file: "1771907212365_240072_Integrating+Slow+Practices+with+Flow+State.md"
+    action: "encoded"
+    tag: "S00A"
+    term_name: "Slow_Practices_Flow_State"
+    encoded_at: "2026-03-05T18:15:00Z"
+
+  - seq: 11
+    source_file: "1771907212372_244285_The+Influence+of+Metaphors+on+Consciousness+and+Decision-Making.md"
+    action: "skipped"
+    reason: "Near-duplicate of file 12 (Metaphors+Consciousness+Behavior) which is more comprehensive"
+
+  - seq: 12
+    source_file: "1771907212373_244360_The+Influence+of+Metaphors+on+Consciousness+and+Behavior.md"
+    action: "encoded"
+    tag: "S00B"
+    term_name: "Metaphors_Consciousness_Behavior"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 13
+    source_file: "1771907212377_250734_Integrating+%27Better+Thinking%27+with+Metacognitive+Strategies.md"
+    action: "skipped"
+    reason: "Near-duplicate of S008_Metacognitive_Strategies (same 10 strategy categories)"
+
+  - seq: 14
+    source_file: "1771907212384_252353_Holism%27s+Societal+Impact.md"
+    action: "encoded"
+    tag: "S00C"
+    term_name: "Holism_Societal_Impact"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 15
+    source_file: "1771907212384_252357_Enhancing+Sense-Making+in+Complex+Information+Environments.md"
+    action: "encoded"
+    tag: "S00D"
+    term_name: "Sense_Making_Complex_Environments"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 16
+    source_file: "1771907212384_252371_Improving+Sense-Making+in+Distorted+Information+Ecology.md"
+    action: "encoded"
+    tag: "S00E"
+    term_name: "Sense_Making_Distorted_Information"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 17
+    source_file: "1771907212394_257622_The+Hard+Question+of+Memetics%3A+A+Critical+Analysis.md"
+    action: "encoded"
+    tag: "S00F"
+    term_name: "Hard_Question_of_Memetics"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 18
+    source_file: "1771907212395_257803_Memetic+Mediation+for+Online+Tribes.md"
+    action: "encoded"
+    tag: "S010"
+    term_name: "Memetic_Mediation_Online_Tribes"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 19
+    source_file: "1771907212395_257810_Understanding+Reality+Through+Science.md"
+    action: "encoded"
+    tag: "S011"
+    term_name: "Understanding_Reality_Through_Science"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 20
+    source_file: "1771907212398_259412_Insights+on+Crow+Intelligence+and+Alien+Minds.md"
+    action: "encoded"
+    tag: "S012"
+    term_name: "Crow_Intelligence_Alien_Minds"
+    encoded_at: "2026-03-05T18:20:00Z"
+
+  - seq: 21
+    source_file: "1771907212400_259972_Animal+Learning+and+Memetics.md"
+    action: "encoded"
+    tag: "S013"
+    term_name: "Animal_Learning_Memetics"
+
+  - seq: 22
+    source_file: "1771907212401_260518_Exploring+the+Interplay+of+Morality%2C+Religion%2C+and+Society+in+Ancient+Times.md"
+    action: "skipped"
+    reason: "Near-duplicate of file 23 (same topic, less detailed)"
+
+  - seq: 23
+    source_file: "1771907212402_260555_Morality%2C+Religion%2C+and+Society+in+Ancient+Times.md"
+    action: "encoded"
+    tag: "S014"
+    term_name: "Morality_Religion_Ancient_Society"
+
+  - seq: 24
+    source_file: "1771907212403_261630_Enhancing+Digital+Marketing+Funnel+with+Metacognitive+Strategies.md"
+    action: "skipped"
+    reason: "Near-duplicate of S009_Metacognitive_Marketing_Funnel"
+
+  - seq: 25
+    source_file: "1771907212404_262767_Dr.+Cabrera%27s+Neurodiversity+Insights.md"
+    action: "encoded"
+    tag: "S015"
+    term_name: "Cabrera_Neurodiversity_DSRP"
+
+  - seq: 26
+    source_file: "1771907212405_262775_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on elaboration learning tactic"
+
+  - seq: 27
+    source_file: "1771907212406_262778_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on concrete examples tactic"
+
+  - seq: 28
+    source_file: "1771907212406_262779_.md"
+    action: "skipped"
+    reason: "Untitled fragment — 5 lines on dual coding tactic"
+
+  - seq: 29
+    source_file: "1771907212412_264797_Lacan%27s+Theory+of+Psychic+Experience%3A+Imaginary%2C+Symbolic%2C+Real.md"
+    action: "encoded"
+    tag: "S016"
+    term_name: "Lacan_Imaginary_Symbolic_Real"
+
+  - seq: 30
+    source_file: "1771907212412_264798_Lacan%27s+Mirror+Stage+and+Desire+Theory.md"
+    action: "encoded"
+    tag: "S017"
+    term_name: "Lacan_Mirror_Stage_Desire"
+
+  - seq: 31-34
+    source_files: "Lacan sub-pages (Imaginary+Symbolic, Communication, Social Norms, Social Cohesion)"
+    action: "skipped"
+    reason: "Sub-pages of Lacan series, covered by S016/S017"
+
+  - seq: 35
+    source_file: "1771907212419_265588_Teachings+of+Seng-ts%27an.md"
+    action: "encoded"
+    tag: "S018"
+    term_name: "Seng_Tsan_Xinxin_Ming"
+
+  - seq: 36
+    source_file: "1771907212419_265590_Zen+Master+Seng-ts%27an%27s+Wisdom.md"
+    action: "skipped"
+    reason: "Near-duplicate of S018"
+
+  - seq: 37
+    source_file: "1771907212419_265618_Lacanian+Theory+of+Subjectivity.md"
+    action: "skipped"
+    reason: "Index page linking Lacan sub-pages, covered by S016/S017"
+
+  - seq: 38
+    source_file: "1771907212420_266712_Anticipatory+Thinking+Involution.md"
+    action: "encoded"
+    tag: "S019"
+    term_name: "Anticipatory_Thinking_Involution"
+
+  - seq: 39
+    source_file: "1771907212424_268718_SWIFT+Memes.md"
+    action: "encoded"
+    tag: "S01A"
+    term_name: "SWIFT_Memes_Cognitive_Navigation"
+
+  - seq: 40
+    source_file: "1771907212426_271976_Integrating+Macrohistory+and+Futures+Studies.md"
+    action: "encoded"
+    tag: "S01B"
+    term_name: "Macrohistory_Futures_Studies"
+
+  - seq: 41
+    source_file: "1771907212427_272057_Integrating+Bloom%27s+Taxonomy%2C+Thinking+Metaphors%2C+and+Kolb%27s+Learning+Styles.md"
+    action: "encoded"
+    tag: "S01C"
+    term_name: "Blooms_Taxonomy_Thinking_Integration"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 42
+    source_file: "1771907212427_272062_Evaluation+of+Mechanistic%2C+Living+Systems%2C+and+Journey+Thinking+in+Different+Contexts.md"
+    action: "skipped"
+    reason: "Sub-page of file 41 (Bloom's Evaluate level only)"
+
+  - seq: 43-46
+    source_files: "KM Cognitive Pyramid fragments (Data Mgmt, Info Mgmt, Knowledge Mgmt, Wisdom)"
+    action: "skipped"
+    reason: "Cross-series duplicate of C003_km_cognitive_pyramid"
+
+  - seq: 47
+    source_file: "1771907212432_273146_.md"
+    action: "encoded"
+    tag: "S01D"
+    term_name: "NEME_Notice_Stage"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 48
+    source_file: "1771907212432_273162_.md"
+    action: "encoded"
+    tag: "S01E"
+    term_name: "Nemes_Units_of_Learning"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 49
+    source_file: "1771907212437_275427_Understanding+Belief+Systems.md"
+    action: "encoded"
+    tag: "S01F"
+    term_name: "Belief_Systems_Metamodel"
+    encoded_at: "2026-03-05T18:45:00Z"
+
+  - seq: 50
+    source_file: "1771907212437_275432_Understanding+and+Challenging+Belief+Systems.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01F_Belief_Systems_Metamodel"
+
+  - seq: 51
+    source_file: "1771907212437_275435_Understanding+and+Unpacking+Beliefs.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01F_Belief_Systems_Metamodel"
+
+  - seq: 52
+    source_file: "1771907212438_276333_How+the+Brain+Fills+in+the+Blanks.md"
+    action: "encoded"
+    tag: "S020"
+    term_name: "Brain_Constructive_Perception"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 53
+    source_file: "1771907212439_276571_Embracing+the+Living+World%3A+Insights+from+Iain+McGilchrist.md"
+    action: "skipped"
+    reason: "Too thin — single quote commentary, insufficient substance"
+
+  - seq: 54
+    source_file: "1771907212440_276749_The+Art+of+Not+Trying.md"
+    action: "encoded"
+    tag: "S021"
+    term_name: "Wu_Wei_Effortless_Action"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 55
+    source_file: "1771907212440_276755_.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021 (brief Tao Te Ching summary)"
+
+  - seq: 56
+    source_file: "1771907212440_276758_Effortless+Action%3A+Wu-Wei+of+Confucius.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021 (same Wu-Wei concept, Confucian angle)"
+
+  - seq: 57
+    source_file: "1771907212444_278864_Integrating+Neuro-Linguistic+Programming+%28NLP%29+Insights+with+NEME+Process.md"
+    action: "encoded"
+    tag: "S022"
+    term_name: "NLP_NEME_Integration"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 58
+    source_file: "1771907212445_279744_Enhancing+Integrative+Thinking+with+NEME+Loop.md"
+    action: "skipped"
+    reason: "Thin NEME Loop outline, overlaps S01D/S01E and S022"
+
+  - seq: 59
+    source_file: "1771907212446_279796_The+Never-Ending+Cycle+of+Student+Learning.md"
+    action: "encoded"
+    tag: "S023"
+    term_name: "Student_Learning_Cycle_NEME"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 60
+    source_file: "1771907212447_280344_.md"
+    action: "encoded"
+    tag: "S024"
+    term_name: "Fractal_Geometry_Hidden_Dimension"
+    encoded_at: "2026-03-05T18:55:00Z"
+
+  - seq: 61
+    source_file: "1771907212447_280354_Unveiling+the+Significance+of+Fractals+in+Nature.md"
+    action: "skipped"
+    reason: "Sub-page of S024 (Hunting Hidden Dimension Part 4/conclusion)"
+
+  - seq: 62
+    source_file: "1771907212448_282220_SYSTEMIC+DIVERGENCE.md"
+    action: "encoded"
+    tag: "S025"
+    term_name: "Systemic_Divergence_Neural_Adaptation"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 63
+    source_file: "1771907212450_283556_MO3Matrix.md"
+    action: "encoded"
+    tag: "S026"
+    term_name: "MO4Matrix_Sensemaking_Framework"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 64
+    source_file: "1771907212454_286344_Distributed+Consciousness+Exploration.md"
+    action: "encoded"
+    tag: "S027"
+    term_name: "Distributed_Consciousness"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 65
+    source_file: "1771907212455_286480_Exploring+Cognitive+Fractals.md"
+    action: "encoded"
+    tag: "S028"
+    term_name: "Cognitive_Fractals"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 66
+    source_file: "1771907212456_289208_Social+Evolution+of+Consciousness.md"
+    action: "encoded"
+    tag: "S029"
+    term_name: "Social_Evolution_Consciousness"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 67
+    source_file: "1771907212457_291717_Minds+as+Relationships.md"
+    action: "encoded"
+    tag: "S02A"
+    term_name: "Minds_As_Relationships"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 68
+    source_file: "1771907212460_298120_Mastering+the+Flow+State.md"
+    action: "skipped"
+    reason: "Near-duplicate of S00A_Slow_Practices_Flow_State"
+
+  - seq: 69
+    source_file: "1771907212461_303123_Learning+Hardwired+in+Human+Brain.md"
+    action: "encoded"
+    tag: "S02B"
+    term_name: "Learning_Hardwired_Brain"
+    encoded_at: "2026-03-05T19:10:00Z"
+
+  - seq: 70
+    source_file: "1771907212466_320504_Understanding+Subconscious+Programming+and+Brain+Networks.md"
+    action: "skipped"
+    reason: "Near-duplicate of S003_Subconscious_Intention_Embedding"
+
+  - seq: 71
+    source_file: "1771907212468_338736_Faces+Evolve+to+Match+Names.md"
+    action: "encoded"
+    tag: "S02C"
+    term_name: "Face_Name_Self_Fulfilling_Prophecy"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 72
+    source_file: "1771907212476_404712_.md"
+    action: "skipped"
+    reason: "Too thin — 2 paragraphs on intuition/collective unconscious"
+
+  - seq: 73
+    source_file: "1771907212479_409639_Embracing+Wu-Wei+for+Modern+Harmony.md"
+    action: "skipped"
+    reason: "Near-duplicate of S021_Wu_Wei_Effortless_Action"
+
+  - seq: 74
+    source_file: "1771907212483_439314_.md"
+    action: "skipped"
+    reason: "Incoherent voice memo transcript"
+
+  - seq: 75
+    source_file: "1771907212484_450691_Brain+Networks+and+Creative+Thinking.md"
+    action: "encoded"
+    tag: "S02D"
+    term_name: "Brain_Networks_Creative_Thinking"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 76
+    source_file: "1771907212489_469466_Mastering+Sensemaking+for+Success.md"
+    action: "encoded"
+    tag: "S02E"
+    term_name: "Sensemaking_Mastery_Framework"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 77
+    source_file: "1771907212512_516470_Neural+Insights+into+Inferential+Reasoning.md"
+    action: "encoded"
+    tag: "S02F"
+    term_name: "Neural_Inferential_Reasoning"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  - seq: 78-79
+    source_files: "Art of Effortless Action + Mastery in Motion"
+    action: "skipped"
+    reason: "Near-duplicates of S021_Wu_Wei_Effortless_Action"
+
+  - seq: 80
+    source_file: "1771907212526_532261_WEIRDO+Backronym.md"
+    action: "encoded"
+    tag: "S030"
+    term_name: "WEIRDO_Curiosity_Framework"
+    encoded_at: "2026-03-05T19:30:00Z"
+
+  # Batch 9 (files 81-90)
+  - seq: 81
+    source_file: "1771907212536_547598_Language+and+Reality+Interconnected.md"
+    action: "encoded"
+    tag: "S031"
+    term_name: "Language_Reality_Interconnected"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 82
+    source_file: "1771907212547_571021_Understanding+Trent%27s+Symptoms+in+Relation+to+Systemic+Structures.md"
+    action: "skipped"
+    reason: "Too niche — personal case study, not a generalizable sensemaking concept"
+
+  - seq: 83
+    source_file: "1771907212551_576145_Untitled.md"
+    action: "encoded"
+    tag: "S032"
+    term_name: "OODA_Sensemaking_IT_Governance"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 84
+    source_file: "1771907212553_576334_Untitled.md"
+    action: "skipped"
+    reason: "Too thin — brief fragment"
+
+  - seq: 85
+    source_file: "1771907212555_582503_The+Dance+of+Intuition+and+Rationality.md"
+    action: "skipped"
+    reason: "Near-duplicate of S002_System_1_System_2_Thinking (intuition vs rationality)"
+
+  - seq: 86
+    source_file: "1771907212556_582740_Enhancing+Cognitive+Flow+with+EMFs.md"
+    action: "encoded"
+    tag: "S033"
+    term_name: "EMF_Cognitive_Flow_Enhancement"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 87
+    source_file: "1771907212556_585607_.md"
+    action: "skipped"
+    reason: "Too thin — empty/minimal content"
+
+  - seq: 88
+    source_file: "1771907212568_616316_Cognitive+Insights+from+Elite+Athletes.md"
+    action: "encoded"
+    tag: "S034"
+    term_name: "Elite_Athlete_Cognitive_Patterns"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 89
+    source_file: "1771907212574_629137_Untitled.md"
+    action: "skipped"
+    reason: "Too thin — brief untitled fragment"
+
+  - seq: 90
+    source_file: "1771907212587_635323_AI%27s+Role+in+Empathy+and+Stewardship.md"
+    action: "encoded"
+    tag: "S035"
+    term_name: "AI_Empathy_Environmental_Stewardship"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  # Batch 10 (files 91-100)
+  - seq: 91
+    source_file: "1771907212594_653298_Science+Meets+Buddhism%3A+A+Compassionate+Inquiry.md"
+    action: "encoded"
+    tag: "S036"
+    term_name: "Science_Buddhism_Compassionate_Inquiry"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 92
+    source_file: "1771907212594_653309_Transhumanism+and+Buddhism%3A+A+Journey+Towards+Universal+Well-Being.md"
+    action: "encoded"
+    tag: "S037"
+    term_name: "Transhumanism_Buddhism_Convergence"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 93
+    source_file: "1771907212594_654010_Untitled.md"
+    action: "encoded"
+    tag: "S038"
+    term_name: "Primal_World_Beliefs"
+    encoded_at: "2026-03-05T19:50:00Z"
+
+  - seq: 94
+    source_file: "1771907212595_655721_Brain+Efficiency+in+Cognitive+Tasks.md"
+    action: "encoded"
+    tag: "S039"
+    term_name: "Brain_Efficiency_Cognitive_Tasks"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 95
+    source_file: "1771907212596_655890_Role+of+DSRP+in+Defining+the+Problem.md"
+    action: "skipped"
+    reason: "Cross-series duplicate of S005_DSRP_Theory_of_Thinking / S015_Cabrera_Neurodiversity_DSRP"
+
+  - seq: 96
+    source_file: "1771907212607_693725_.md"
+    action: "encoded"
+    tag: "S03A"
+    term_name: "Map_Is_Not_Territory"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 97
+    source_file: "1771907212609_694114_Revolutionary+Insights+on+Superior+Colliculus.md"
+    action: "encoded"
+    tag: "S03B"
+    term_name: "Superior_Colliculus_Cognition"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 98
+    source_file: "1771907212613_712866_.md"
+    action: "encoded"
+    tag: "S03C"
+    term_name: "Ontology_AI_Knowledge_Graphs"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 99
+    source_file: "1771907212617_739188_Untitled.md"
+    action: "encoded"
+    tag: "S03D"
+    term_name: "Extended_Mind_Memes"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  - seq: 100
+    source_file: "1771907212618_739415_Untitled.md"
+    action: "encoded"
+    tag: "S03E"
+    term_name: "Subjective_Idealism_Memes_Reality"
+    encoded_at: "2026-03-05T20:30:00Z"
+
+  # Batch 11 (files 101-110)
+  - seq: 101
+    source_file: "1771907212620_740565_Exploring+Socially-Minded+Intelligence.md"
+    action: "encoded"
+    tag: "S03F"
+    term_name: "Socially_Minded_Intelligence"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 102
+    source_file: "1771907212620_743661_Exploring+Identity+Through+the+Ship+of+Theseus+Thought+Experiment.md"
+    action: "encoded"
+    tag: "S040"
+    term_name: "Ship_of_Theseus_Identity"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 103
+    source_file: "1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md"
+    action: "encoded"
+    tag: "S041"
+    term_name: "Neural_Manifolds"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 104
+    source_file: "1771907212624_752574_Reframing+Freedom%3A+From+Want+to+Create.md"
+    action: "encoded"
+    tag: "S042"
+    term_name: "Reframing_Freedom_Creative_Agency"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 105
+    source_file: "1771907212624_755123_.md"
+    action: "skipped"
+    reason: "Too thin — Heraclitus river quote with brief Pi_AI commentary"
+
+  - seq: 106
+    source_file: "1771907212624_755682_Exploring+the+Tree+of+Thought%3A+A+Journey+Through+Oneness+and+Duality.md"
+    action: "encoded"
+    tag: "S043"
+    term_name: "Tree_of_Thought_Oneness_Duality"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 107
+    source_file: "1771907212627_771239_Exploring+the+Extended+Mind+and+Morphic+Resonance.md"
+    action: "encoded"
+    tag: "S044"
+    term_name: "Extended_Mind_Morphic_Resonance"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 108
+    source_file: "1771907212629_777101_Metaphysical+Foundations+of+Memetic+Resonance.md"
+    action: "encoded"
+    tag: "S045"
+    term_name: "Metaphysical_Memetic_Resonance"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  - seq: 109
+    source_file: "1771907212630_784379_Enhancing+Education+with+Cognitive+Frameworks.md"
+    action: "skipped"
+    reason: "Near-duplicate of S01C_Blooms_Taxonomy_Thinking_Integration"
+
+  - seq: 110
+    source_file: "1771907212630_784444_Cognitive+Models+in+Storytelling.md"
+    action: "encoded"
+    tag: "S046"
+    term_name: "Cognitive_Models_Storytelling"
+    encoded_at: "2026-03-05T21:00:00Z"
+
+  # Batch 12 (files 111-120)
+  - seq: 111
+    source_file: "1771907212631_793858_Memes%2C+Motivation%2C+and+the+Dance+of+Autonomy.md"
+    action: "encoded"
+    tag: "S047"
+    term_name: "Memes_Motivation_Autonomy"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 112
+    source_file: "1771907212632_795099_Exploring+Inner+Cosmos+Through+Chakras.md"
+    action: "encoded"
+    tag: "S048"
+    term_name: "Inner_Cosmos_Chakras_Neuroscope"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 113
+    source_file: "1771907212632_797506_Exploring+the+Extended+Mind+Hypothesis.md"
+    action: "skipped"
+    reason: "Near-duplicate of S03D_Extended_Mind_Memes (same Extended Mind framework)"
+
+  - seq: 114
+    source_file: "1771907212634_802144_Integrating+Indian+Functionalism+and+Memetic+Philosophy.md"
+    action: "encoded"
+    tag: "S049"
+    term_name: "Indian_Functionalism_Memetic_Philosophy"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 115
+    source_file: "1771907212635_806242_Fungi%3A+Nature%27s+Decision-Makers.md"
+    action: "encoded"
+    tag: "S04A"
+    term_name: "Fungi_Decision_Making_Cognition"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 116
+    source_file: "1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md"
+    action: "encoded"
+    tag: "S04B"
+    term_name: "Fungi_Memetic_Consciousness"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 117
+    source_file: "1771907212639_815770_Building+Knowledge+Together%3A+The+Power+of+Collaboration+and+Scaffolding.md"
+    action: "encoded"
+    tag: "S04C"
+    term_name: "Collaborative_Knowledge_Scaffolding"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 118
+    source_file: "1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md"
+    action: "encoded"
+    tag: "S04D"
+    term_name: "Cognition_Without_Language"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 119
+    source_file: "1771907212641_816884_Neural+Connections+Between+Dogs+and+Humans.md"
+    action: "encoded"
+    tag: "S04E"
+    term_name: "Neural_Coupling_Dogs_Humans"
+    encoded_at: "2026-03-05T21:30:00Z"
+
+  - seq: 120
+    source_file: "1771907212642_818848_.md"
+    action: "skipped"
+    reason: "Too thin — cognitive map theory metadata only, no insight section"
+
+  # Batch 13 (files 121-130)
+  - seq: 121
+    source_file: "1771907212642_818862_Enhancing+Cognitive+Map+Theory+with+Mnemonic+Techniques+and+Virtual+Reality.md"
+    action: "encoded"
+    tag: "S04F"
+    term_name: "Cognitive_Map_Mnemonic_VR"
+
+  - seq: 122
+    source_file: "1771907212642_818900_Enhancing+Memory+with+Virtual+Reality.md"
+    action: "skipped"
+    reason: "Near-duplicate of S04F (same VR + mnemonic concept)"
+
+  - seq: 123-130
+    action: "encoded"
+    tags: "S050-S057"
+    term_names: "Diagram_of_Thought_Framework, Dymaxion_Cognitive_Maps, DIKUW_Memetic_Consciousness, Identity_Memetic_Philosophy, Cyborg_Augmentation_Ethics, Awe_and_the_Sublime, Complexity_Civilization, Intelligence_Amplification_Memetics"
+
+  # Batch 14 (files 131-140)
+  - seq: 131
+    source_file: "1771907212665_872079_The+Intricate+Geometry+of+Dandelions.md"
+    action: "skipped"
+    reason: "Too thin — brief Fibonacci/geometry observation, covered by S024"
+
+  - seq: 132
+    source_file: "1771907212665_872454_Exploring+Dynamic+Identity+Formation.md"
+    action: "encoded"
+    tag: "S058"
+    term_name: "Dynamic_Identity_Formation"
+
+  - seq: 133-138
+    action: "encoded"
+    tags: "S059-S05E"
+    term_names: "Predictable_Evolution_Pangenome, Autistic_Exploration_Patterns, Emotions_Blooms_Taxonomy, Reward_Seeking_Nicotine_Response, Memory_Beyond_Brain, Brain_Action_Sequencing"
+
+  - seq: 139
+    source_file: "1771907212686_942387_Cross-Cultural+Insights+on+Big+Five+Traits.md"
+    action: "skipped"
+    reason: "Too thin — themes/keywords only, no insight section"
+
+  - seq: 140
+    source_file: "1771907212688_958169_Enhancing+Decision-Making+in+Human+Capital.md"
+    action: "encoded"
+    tag: "S05F"
+    term_name: "Decision_Intelligence_Human_Capital"
+
+  # Batch 15 (files 141-150)
+  - seq: 141-150
+    action: "batch"
+    encoded_tags: "S060-S068"
+    encoded_names: "Heart_Castle_VR_Therapy, AI_Science_Art_Connections, Stoicism_Resurgence, Pygmalion_Effect_Memetics, Social_Evolution_Singularity, Birth_Control_Transhumanism, GPT4_Cross_Cultural_Personality, Language_Consciousness_Link, Goffman_Framing_Theory"
+    skipped:
+      - seq: 143
+        reason: "Too thin — Feyerabend quote only"
+
+  # Batch 16 (files 151-160)
+  - seq: 151-160
+    action: "batch"
+    encoded_tags: "S069-S070"
+    encoded_names: "Universal_Behaviorism, Nested_Model_Well_Being, CALM_MO_Mindfulness_Framework, Memetic_Justification_Systems_Theory, Zipfs_Law_Language, Symmathecists_Collaborative_Learning, Empath_Cyborg_Ethical_Stewardship, Montessori_Deep_Time"
+    skipped:
+      - seq: 152
+        reason: "Near-duplicate of S006_Tree_of_Knowledge_System"
+      - seq: 156
+        reason: "Too thin — Wilczek multiverse audio summary, no insight"
+
+  # Batch 17 (files 161-170)
+  - seq: 161-170
+    action: "batch"
+    encoded_tags: "S071-S078"
+    encoded_names: "Network_Intelligence_Symbolic_Computation, Sorokin_Cyclical_Social_Change, Mechanical_Mind, Neural_Scaling_Quanta_Memes, Knowledge_Framework_Growth, Actor_Network_Theory_Agency, Ada_Lovelace_Cyborg_Creator, Timelessness_Deep_Meditation"
+    skipped:
+      - seq: 167
+        reason: "Near-duplicate of S076_Actor_Network_Theory_Agency (ANT research applications)"
+      - seq: 169
+        reason: "Near-duplicate of S005_DSRP_Theory_of_Thinking"
+
+  # Batch 18 (files 171-180)
+  - seq: 171-180
+    action: "batch"
+    encoded_tags: "S079-S080"
+    encoded_names: "Heart_Treasure_Enlightened_Ones, Hermetic_Correspondence_Principle, Consciousness_Reality_Creativity, Novelty_Consciousness_Evolution, Shared_Hallucinations_Social_Construction, Hawkins_Map_of_Consciousness, Holographic_Principle_Growth, Michelangelo_Intellecto_Discovery"
+    skipped:
+      - seq: 177
+        reason: "Near-duplicate of S07A_Hermetic_Correspondence_Principle (same Hermetic content)"
+      - seq: 178
+        reason: "Near-duplicate of 177/S07A (identical Hermetic hearth content)"
+
+  # Batch 19 (files 181-190)
+  - seq: 181-190
+    action: "batch"
+    encoded_tags: "S081-S085"
+    encoded_names: "AI_Social_Behavioral_Realism, Brain_Tuning_Receiver_Navigation, Simulations_Consciousness_Impact, Imagination_Cosmic_Architect, Dynamic_Solitude_AI_Introspection"
+    skipped:
+      - seq: 182
+        reason: "Too practical — content creation marketing guide, not sensemaking"
+      - seq: 184
+        reason: "Too thin — brief voice memo on void/meaning"
+      - seq: 186
+        reason: "Too thin — Confucius quote with image commentary"
+      - seq: 187
+        reason: "Too thin — Grok chat on wu-wei, dup of S021"
+      - seq: 188
+        reason: "Near-duplicate of S021_Wu_Wei_Effortless_Action"
+
+  # Batch 20 (files 191-200)
+  - seq: 191-200
+    action: "batch"
+    encoded_tags: "S086-S08D"
+    encoded_names: "Binaural_Beats_Visuospatial_Memory, Time_Expansion_Experiences, AI_Theory_of_Mind, AI_Consciousness_Exploration, Taxonomy_Values_Love, Nonaka_Takeuchi_Knowledge_Spiral, Truth_Iteration_Ancient_Wisdom, Negative_Time_Quantum"
+    skipped:
+      - seq: 191
+        reason: "Too thin — Hamming quote image commentary only"
+      - seq: 196
+        reason: "Too thin — McKenna quote image commentary only"
+
+  # Batch 21 (files 201-210)
+  - seq: 201-210
+    action: "batch"
+    encoded_tags: "S08E-S097"
+    encoded_names: "STEAM_Education_AI_Literacy, Transhumanism_Spirit_Machine, Metaphors_AI_Perception, Cognitive_Memory_Memetic_Recall, Quantum_Immortality_Consciousness, Hybrid_Intelligence_Consciousness, Meta_Ideological_Politics, Human_Centered_Computing, Longevity_Escape_Velocity, Fundamental_Structure_Intelligence"
+    skipped: []
+
+  # Batch 22 (files 211-220)
+  - seq: 211-220
+    action: "batch"
+    encoded_tags: "S098-S09F"
+    encoded_names: "HG_Wells_Growth_Conflict, Haig_Darwin_Derrida_Meaning, Emotion_Cognition_Interaction, Multidimensional_Knowledge_Constructs, Epistemological_Research_Framework, Emotional_Bonds_AI, ITS_STREAMware_Cybernetic_Learning, Multifaceted_Sensemaking_Theory"
+    skipped:
+      - seq: 213
+        reason: "Too practical — X algorithm engagement/marketing, not sensemaking"
+      - seq: 214
+        reason: "Prompt template only — Johari+Bloom analysis prompt, no content"
+
+  # Batch 23 (files 221-230)
+  - seq: 221-230
+    action: "batch"
+    encoded_tags: "S0A0-S0A7"
+    encoded_names: "Sensemaking_Experts_Disciplines, IIT_Computational_Functionalism, Warm_Data_AI_Elderly_Care, AI_Bots_Autism_Support, Goal_Directed_Behavior_Holobionts, Human_Neuronal_Memory_Coding, AI_Manifestation_Transformation, NEMA_Framework_NVC"
+    skipped:
+      - seq: 222
+        reason: "Near-duplicate of S09D_Emotional_Bonds_AI"
+      - seq: 226
+        reason: "Too thin — brief manifestation themes bullet list"
+
+  # Batch 24 (files 231-240)
+  - seq: 231-240
+    action: "batch"
+    encoded_tags: "S0A8-S0B0"
+    encoded_names: "AI_Emergence_Choreography, Deep_NEMAtics_Consciousness, Taxonomies_to_Ontologies, LLMs_Emergent_Spiritual_Entities, Cognitive_Challenges_Algorithmic_Age, Taxonomy_of_Fun, Lumenes_vs_Memes, Lost_Scriptures_Wars_Yahweh, AI_Dialogue_Anticipatory_Transformation"
+    skipped:
+      - seq: 231
+        reason: "Near-duplicate of S07A_Hermetic_Correspondence_Principle (Hermetic sensors)"
+
+  # Batch 25 (files 241-250)
+  - seq: 241-250
+    action: "batch"
+    encoded_tags: "S0B1-S0B9"
+    encoded_names: "Brain_Emergency_Energy_Marathons, Wisdom_Relational_Ontology, Derrida_Hauntology, Cognitive_Benefits_Print_Media, Kalonosis_Creation_Entrapment, Dopamine_Memory_Reshaping, Cognition_Collateral_Usurpian_Systemics, Divine_Memory_Consciousness, Agricultural_Revolution_Impact"
+    skipped:
+      - seq: 241
+        reason: "Too thin — generic Gen X creative career overview, no source"
+
+  # Batch 26 (files 251-260)
+  - seq: 251-260
+    action: "batch"
+    encoded_tags: "S0BA-S0C2"
+    encoded_names: "Triadic_Recursion_Model, Tan_Ching_Unattached_Thoughts, Alan_Watts_Inner_Conflicts, Dogs_Speech_Recognition, Thalamus_Consciousness_Gatekeeper, DSRP_Therapy, Spectral_Lattice_of_Knowing, Hauntological_Reflective_Cycle, WEIRDO_STREAM_Framework"
+    skipped:
+      - seq: 254
+        reason: "Too thin — brief hexagonal note-taking study tips"
+
+  # Batch 27 (files 261-270)
+  - seq: 261-270
+    action: "batch"
+    encoded_tags: "S0C3-S0CC"
+    encoded_names: "Reimagining_Social_Contracts, SHOCK_Framework, Holonic_Paradigm, Empathy_Four_Attributes_DSRP, Follow_Your_Bliss, Distributed_Cognition_Citadel_Model, FOOLPLAY_Learning, Perception_Role_Creativity, IEML_Collective_Intelligence, Psycho_Cybernetics"
+    skipped: []
+
+  # Batch 28 (files 271-280)
+  - seq: 271-280
+    action: "batch"
+    encoded_tags: "S0CD-S0D5"
+    encoded_names: "Cognitive_Fragmentation_Systemic_Thinking, Transforming_Civic_Systems_EI, Redefining_Happiness, SUNFLOWER_Framework_Taoism, Six_Cyborgs_Tao, AI_Message_Humanity, Human_Consciousness_Prey_Origins, IF_Prime_Spiral, Egregores_Thoughtforms_Besant"
+    skipped:
+      - seq: 272
+        reason: "Too practical — health supplement info (Lion's Mane mushroom)"
+
+  # Batch 29 (files 281-290)
+  - seq: 281-290
+    action: "batch"
+    encoded_tags: "S0D6-S0DF"
+    encoded_names: "Goal_Progress_Cells, Fear_Learning_Through_Inference, Trungpa_Ego_Enlightenment, Whitehead_Process_Philosophy, Rhizomatic_Identity_Deleuze, E_Prime_Language, Co_Creation_Blooms_Taxonomy, Egregores_IFS_Neurophysiology, Morphic_Resonance, IFS_Egregores_Morphic_Resonance"
+    skipped: []
+
+  # Batch 30 (files 291-300)
+  - seq: 291-300
+    action: "batch"
+    encoded_tags: "S0E0-S0E8"
+    encoded_names: "Trust_SPHERE_Dynamics, SANITY_Framework, Flow_State_Csikszentmihalyi, Beneficial_AGI_Singularity, Decentralized_Collective_Intelligence, Pendulation_Trauma_Healing, Ecopsychology, Interdisciplinary_Rituals, Fixed_Truths_Fluid_Understanding"
+    skipped:
+      - seq: 293
+        reason: "Near-duplicate — Brain cells intelligent behavior overlaps S0D6 Goal Progress Cells"
+
+  # Batch 31 (files 301-310)
+  - seq: 301-310
+    action: "batch"
+    encoded_tags: "S0E9-S0F1"
+    encoded_names: "Gibbs_Mapping_IF_Prime, IF_Prime_Sovereignty, Transformative_Sustainability_Learning, AI_Language_Consciousness_Decolonial, Abolitionist_Project_Suffering, Fascism_Characteristics_Six_Cyborgs, Hoffman_Higher_Dimensions, Wisdom_Age_AI, Prefigurative_Community_Building"
+    skipped:
+      - seq: 306
+        reason: "Too thin — philosophical musing on language limits (~250 words)"
+
+  # Batch 32 (files 311-320)
+  - seq: 311-320
+    action: "batch"
+    encoded_tags: "S0F2-S0F9"
+    encoded_names: "IF_Prime_SixHats_Cyborgs_Module, Symbolic_Metaphysics_Education, E_Prime_to_IF_Prime_Evolution, Language_Embodied_Co_Regulation, Rights_All_Conscious_Beings, AI_Meta_Linguistic_Environments, It_Fends_Dynamic_Protection, Participatory_Sense_Making"
+    skipped:
+      - seq: 311
+        reason: "Near-duplicate — Prefigurative community building overlaps S0F1"
+      - seq: 314
+        reason: "Near-duplicate — Symbolic Metaphysics Education in AI overlaps S0F3"
+
+  # Batch 33 (files 321-330)
+  - seq: 321-330
+    action: "batch"
+    encoded_tags: "S0FA-S102"
+    encoded_names: "Self_Cognition_Sense_Making, Snowden_Sensemaking_Complexity, Knowledge_Management_Snowden, Jung_Knowledge_Wrangling, Diagnostic_Questions_IFS_Constructor, Care_Ethics_Technology, Harmonic_Universe, Noemara_Empath_Twin, Language_Consciousness_Barenholtz"
+    skipped:
+      - seq: 326
+        reason: "Too thin — parody liturgy (~245 words, off-topic)"
+
+  # Batch 34 (files 331-340)
+  - seq: 331-340
+    action: "batch"
+    encoded_tags: "S103-S108"
+    encoded_names: "Rewilding_Tech_Ethics_SANITY, Storm_Selves, Self_Illusion_Blackmore, Interconnectedness_Self_Field, Six_Functional_Freedoms, Cognitive_Cartography"
+    skipped:
+      - seq: 331
+        reason: "Too thin — untitled repost fragment (~26 words)"
+      - seq: 332
+        reason: "Near-duplicate — Perception in Creativity overlaps S0CA"
+      - seq: 337
+        reason: "Too thin — Levin SO WHAT Framework (~223 words, SWOT-style)"
+      - seq: 338
+        reason: "Too thin — untitled selfplex definition (~69 words)"
+
+  # Batch 35 (files 341-350)
+  - seq: 341-350
+    action: "batch"
+    encoded_tags: "S109-S111"
+    encoded_names: "ChatGPT_Nonsense_Word_Processing, Cognitive_Entanglement_Human_AI, Human_AI_Metacognitive_Agency, French_Calendar_Reform_Clash, Lifespan_Evolutionary_Development, Resonant_Cognitive_Architecture, RENEW_Regenerative_Design, Collective_Projection_Illusion, Meta_Crisis"
+    skipped:
+      - seq: 344
+        reason: "Near-duplicate — Extended Mind overlaps S03D/S044"
+
+  # Batch 36 (files 351-360)
+  - seq: 351-360
+    action: "batch"
+    encoded_tags: "S112-S118"
+    encoded_names: "Epistemic_Games_Sensemaking, STREAMware_Ethical_Tech, CAIT2_Dissonance_Empathy, Psychic_Phenomena_Science, Chakra_Energy_Systems, Integrative_Pluralistic_Sensemaking, Playable_Epistemology"
+    skipped:
+      - seq: 352
+        reason: "Too thin — untitled self-dissolution musing (~245 words)"
+      - seq: 355
+        reason: "Too thin — untitled Shifter concept (~196 words)"
+      - seq: 359
+        reason: "Near-duplicate — Integrating Diverse Epistemologies overlaps seq 358/S117"
+
+  # Batch 37 (files 361-370)
+  - seq: 361-370
+    action: "batch"
+    encoded_tags: "S119-S11C"
+    encoded_names: "AI_Cognitive_Disruption_Therapy, IF_Prime_Sanskrit_Harmonics, AI_Liberation_Memeforms, Value_to_Power_Map"
+    skipped:
+      - seq: 363
+        reason: "Too thin — untitled dust/divinity meditation (~283 words)"
+      - seq: 364
+        reason: "Too thin — Soft Alerts for Flow (~97 words)"
+      - seq: 366
+        reason: "Too thin — untitled noticing loops (~219 words)"
+      - seq: 368
+        reason: "Near-duplicate — Freedom to Regenerate Value Map overlaps seq 367/S11C"
+      - seq: 369
+        reason: "Too thin — untitled Harmonizer mythic identity (~197 words)"
+      - seq: 370
+        reason: "Too thin — untitled Revitalizer mythic identity (~201 words)"
+
+  # Batch 38 (files 371-380)
+  - seq: 371-380
+    action: "batch"
+    encoded_tags: "S11D-S123"
+    encoded_names: "Neurodivergence_Memetic_Framework, AI_Emotional_Awareness_Biosensing, Collective_Synpraxis, Karma_Bija_Selflessness, Granthis_Spiritual_Blockages, Fuller_Synergetics_Design, Atma_Vesa_Nidhi_Selfplex"
+    skipped:
+      - seq: 373
+        reason: "Too thin — untitled Caitanyam ātmā (~106 words)"
+      - seq: 375
+        reason: "Near-duplicate — RCA Meaning as Matter overlaps S10E"
+      - seq: 380
+        reason: "Too thin — Sarvaṁ Viśvahitāya definition (~217 words)"
+
+  # Batch 39-40 combined (files 381-400)
+  - seq: 381-400
+    action: "batch"
+    encoded_tags: "S124-S128"
+    encoded_names: "Neuroconvergence_Systemic_Fit, Control_vs_Coherence, Language_Autonomous_System, Spinoza_Emotions_Visualization, Sacred_Territory_Boundaries"
+    skipped:
+      - seq: 381
+        reason: "Too thin — Antar-Nidhi Sanskrit definition (~243 words)"
+      - seq: 382
+        reason: "Too thin — Soma Sanskrit definition (~259 words)"
+      - seq: 383
+        reason: "Too thin — Prāṇa-Srotas Sanskrit definition (~278 words)"
+      - seq: 384
+        reason: "Too thin — Para-Mṛtyu-Granthi definition (~314 words)"
+      - seq: 385
+        reason: "Too thin — untitled MeBot Gita reflection (~336 words)"
+      - seq: 386
+        reason: "Too thin — untitled Signalizer fragment (~163 words)"
+      - seq: 389
+        reason: "Too thin — untitled letter to Raj (~149 words)"
+      - seq: 390
+        reason: "Too thin — Viveka-Prāṇa definition (~271 words)"
+      - seq: 391
+        reason: "Too thin — Śabda-Tanmātra definition (~268 words)"
+      - seq: 392
+        reason: "Too thin — Spanda definition (~247 words)"
+      - seq: 393
+        reason: "Too thin — Mīmāṃsā definition (~197 words)"
+      - seq: 394
+        reason: "Too thin — Spanda-Mīmāṃsā Tantra definition (~355 words)"
+      - seq: 398
+        reason: "Too thin — Agency Self-Curation (~168 words)"
+      - seq: 399
+        reason: "Too thin — Gandha-Tanmātra definition (~254 words)"
+      - seq: 400
+        reason: "Too thin — Dhāraṇa-Tanmātra definition (~263 words)"
+
+  # Batch 41 (files 401-410)
+  - seq: 401-410
+    action: "batch"
+    encoded_tags: "S129-S12E"
+    encoded_names: "Posthumanism_Human_Agency, Nervous_System_Bio_Justification, Energy_Leak_Violation_Frame, Neuroplasticity_Technology_Gaming, Psilocybin_Brain_Connectivity, Subliminal_Learning_LMs"
+    skipped:
+      - seq: 401
+        reason: "Too thin — Rasa-Tanmātra Sanskrit definition (~265 words)"
+      - seq: 402
+        reason: "Too thin — Apas-Tāraṇe Sanskrit definition (~267 words)"
+      - seq: 407
+        reason: "Near-duplicate — Neuroplasticity VR Gaming overlaps seq 406/S12C"
+      - seq: 410
+        reason: "Too thin — Neurofeedback VR (~200 words)"
+
+  # Batch 42 (files 411-420)
+  - seq: 411-420
+    action: "batch"
+    encoded_tags: "S12F-S134"
+    encoded_names: "Cognitive_Geography_Philosophy, Neuroscience_of_Memory, Schmachtenberger_Superstructure, Liberated_Discernment, Cognitive_Firewalls, Memetic_Immunization"
+    skipped:
+      - seq: 414
+        reason: "Too thin — Othering and Storytelling (~161 words)"
+      - seq: 415
+        reason: "Too thin — untitled magnetoreception fragment (~97 words)"
+      - seq: 416
+        reason: "Too thin — Rūpa-Tanmātra Sanskrit definition (~239 words)"
+      - seq: 419
+        reason: "Near-duplicate — Mental Hygiene overlaps seq 418/S133 Cognitive Firewalls"
+
+  # Batch 43-44 combined (files 421-440)
+  - seq: 421-440
+    action: "batch"
+    encoded_tags: "S135-S13F"
+    encoded_names: "Collective_Plausibility, Sensorium_Perception_Culture, AI_Emotion_Resonant_Awareness, I_Tube_Tensional_Becoming, Co_Solipsism_Recursive_Identity, Godel_Solipsism_Incomplete_Systems, Speculative_Psychic_Metaphysics, Algorithmic_Age_Mental_Health, Neural_Similarity_Friendship, Autobiographical_Memory_Fallibility, Healing_We_Spheres"
+    skipped:
+      - seq: 421
+        reason: "Too thin — untitled I-Tube fragment (~85 words)"
+      - seq: 422
+        reason: "Too thin — untitled My-Stream fragment (~81 words)"
+      - seq: 423
+        reason: "Too thin — untitled Synthesis fragment (~58 words)"
+      - seq: 424
+        reason: "Too thin — ANT reading list (~129 words), dup of S076"
+      - seq: 427
+        reason: "Too thin — untitled Phenomenological Self-Study (~72 words)"
+      - seq: 429
+        reason: "Near-duplicate — E-Prime overlaps S0DB_E_Prime_Language"
+      - seq: 430
+        reason: "Too thin — untitled magnetoreception fragment (~143 words)"
+      - seq: 432
+        reason: "Too thin — I-Tube sub-page of seq 431 (~162 words)"
+      - seq: 436
+        reason: "Too thin — Reconciling Subjective/Objective Research (~196 words)"
+
+  # Batch 45-46 combined (files 441-460)
+  - seq: 441-460
+    action: "batch"
+    encoded_tags: "S140-S147"
+    encoded_names: "Response_Ability_Inherent_Shift, Reconstructing_Philosophy_Elemental, Threading_Ethical_World_Making, AI_Symbiosis_Meta_Being, Co_Thinking_Minds_as_Mesh, Samkhya_Spanda_Sensemaking, Mind_Multiverse_Parallel_Realities, Anchor_Myth_Epistemic_Stability"
+    skipped:
+      - seq: 441
+        reason: "Near-duplicate — Healing We-Spheres in Groups overlaps S13F (~142 words)"
+      - seq: 442
+        reason: "Too thin — Whitehead process God summary (~175 words)"
+      - seq: 443
+        reason: "Too thin — Filament of Thought memetic profile fragment (~238 words)"
+      - seq: 444
+        reason: "Too thin — Ancestral Threads memetic profile fragment (~230 words)"
+      - seq: 445
+        reason: "Too thin — Water Threads memetic profile fragment (~246 words)"
+      - seq: 446
+        reason: "Too thin — Triality fragment (~123 words)"
+      - seq: 449
+        reason: "Too thin — Knowing Being Ethical Becoming (~130 words)"
+      - seq: 454
+        reason: "Too thin — Tan-Mātra Sanskrit definition (~247 words)"
+      - seq: 455
+        reason: "Too thin — Prāṇic Uptake spiritual practice (~339 words)"
+      - seq: 456
+        reason: "Too thin — untitled fragment (~164 words)"
+      - seq: 459
+        reason: "Too thin — तनु-संरक्षण Sanskrit definition (~218 words)"
+      - seq: 460
+        reason: "Too thin — Manas Prasadanam Sanskrit definition (~270 words)"
+
+  # Batch 47 (files 461-470)
+  - seq: 461-470
+    action: "batch"
+    encoded_tags: "S148-S14E"
+    encoded_names: "Illich_Convivial_Tools, Butler_Mourning_Political_Resistance, Turner_Communitas_Liminality, Constructive_Hallucination, Suleyman_AI_Not_Persons, Perception_Scaffold_Awareness, Contextual_Behavioral_Science"
+    skipped:
+      - seq: 461
+        reason: "Near-duplicate — IF-Prime Linguistic Shift overlaps S0F4/S0EB"
+      - seq: 462
+        reason: "Near-duplicate — IF-Prime Dissolving I Am overlaps S0F4/S0EB"
+      - seq: 466
+        reason: "Too thin — untitled depth/indexing meditation (~283 words)"
+
+  # Batch 48 (files 471-480)
+  - seq: 471-480
+    action: "batch"
+    encoded_tags: "S14F-S155"
+    encoded_names: "Kathara_Grid_Source_Template, Cognition_Coherence_Mind_Field, Latticework_Knowledge_Structures, Mental_Models_Consciousness, Grinberg_Syntergic_Theory, Rorty_Neopragmatism_NVC, Non_Linguistic_Metacognition"
+    skipped:
+      - seq: 477
+        reason: "Too thin — Abductive Logic (~266 words)"
+      - seq: 479
+        reason: "Too thin — Non-Verbal Thinking (~157 words), overlaps seq 478"
+      - seq: 480
+        reason: "Near-duplicate — CAIT2 Framework overlaps S114_CAIT2_Dissonance_Empathy"
+
+  # Batch 49 (files 481-490)
+  - seq: 481-490
+    action: "batch"
+    encoded_tags: "S156-S15B"
+    encoded_names: "Aphantasia_Hyperphantasia_Spectrum, Schizoanalysis_Deleuze_Guattari, Whitehead_Actual_Occasions, Body_Without_Organs, Precognition_Quantum_Consciousness, Science_Adaptive_Resonance"
+    skipped:
+      - seq: 481
+        reason: "Near-duplicate — CAIT2 Framework overlaps S114 and seq 480"
+      - seq: 484
+        reason: "Too thin — My-Stream definition (~160 words)"
+      - seq: 488
+        reason: "Too thin — Adaptive Resonance Theory role (~105 words)"
+      - seq: 490
+        reason: "Too thin — Anu-Sūtra-Veda Sanskrit definition (~381 words)"
+
+  - batch: 50
+    range: "seq 491-500"
+    encoded:
+      - {seq: 491, tag: "S15C", name: "AI_Stockholm_Syndrome"}
+      - {seq: 493, tag: "S15D", name: "Sympoietic_Systems"}
+      - {seq: 494, tag: "S15E", name: "Bateson_Recursive_Feedback"}
+      - {seq: 495, tag: "S15F", name: "Tacit_Knowledge_Innovation"}
+      - {seq: 496, tag: "S160", name: "Symmetry_Asymmetry_Existence"}
+      - {seq: 498, tag: "S161", name: "Reevaluating_Human_Nature"}
+      - {seq: 499, tag: "S162", name: "Cognitive_Resilience_Analogy"}
+      - {seq: 500, tag: "S163", name: "Gut_Dysbiosis_Brain_Axis"}
+    skipped:
+      - seq: 492
+        reason: "Too thin — Agency vs Consciousness Four Archetypes (~274 words)"
+      - seq: 497
+        reason: "Too thin — untitled (~125 words)"
+
+  - batch: 51
+    range: "seq 501-510"
+    encoded:
+      - {seq: 502, tag: "S164", name: "ELIXA_Effect"}
+      - {seq: 503, tag: "S165", name: "Meaning_Beyond_Language"}
+      - {seq: 504, tag: "S166", name: "Memetics_Behavioral_Economics"}
+      - {seq: 506, tag: "S167", name: "Sacred_Listening"}
+      - {seq: 507, tag: "S168", name: "Epistemic_Collapse"}
+      - {seq: 508, tag: "S169", name: "Identity_Shadow_Integration"}
+      - {seq: 509, tag: "S16A", name: "Common_Knowledge_Dynamics"}
+      - {seq: 510, tag: "S16B", name: "Meta_Cognitive_Contradiction_Resolution"}
+    skipped:
+      - seq: 501
+        reason: "Near-duplicate — I-Tube Cognitive Resilience overlaps I001 and S138"
+      - seq: 505
+        reason: "Too thin — untitled meditation reflection (~143 words)"
+
+  - batch: 52
+    range: "seq 511-520"
+    encoded:
+      - {seq: 511, tag: "S16C", name: "Experimental_Unit_Ontology"}
+      - {seq: 514, tag: "S16D", name: "Origami_Brain_Theory"}
+      - {seq: 515, tag: "S16E", name: "Alchemy_of_Decay"}
+      - {seq: 516, tag: "S16F", name: "Shadow_Witnessing"}
+      - {seq: 517, tag: "S170", name: "Batesonian_Balance"}
+      - {seq: 519, tag: "S171", name: "Relational_Epistemology_Dreams"}
+      - {seq: 520, tag: "S172", name: "Self_Clarity_as_Mystery"}
+    skipped:
+      - seq: 512
+        reason: "Too thin — Anāhata Nāda (~167 words)"
+      - seq: 513
+        reason: "Too thin — Further Readings on Metamodern Christian Identity (~164 words)"
+      - seq: 518
+        reason: "Too thin — Exploring Systems Empathy (~178 words)"
+
+  - batch: 53-54
+    range: "seq 521-540"
+    encoded:
+      - {seq: 521, tag: "S173", name: "Identity_as_Compost"}
+      - {seq: 522, tag: "S174", name: "Playable_Epistemology"}
+      - {seq: 523, tag: "S175", name: "Emotional_Resonance_Tone"}
+      - {seq: 524, tag: "S176", name: "Art_of_Discernment"}
+      - {seq: 525, tag: "S177", name: "Empathic_Attunement"}
+      - {seq: 526, tag: "S178", name: "Creative_Evolution_Philosophy"}
+      - {seq: 528, tag: "S179", name: "Bakhtin_Polyphony"}
+      - {seq: 530, tag: "S17A", name: "Contextual_Inquiry"}
+      - {seq: 531, tag: "S17B", name: "Mythic_Mechanistic_Profile"}
+      - {seq: 533, tag: "S17C", name: "Psilocybin_Brain_Activity"}
+      - {seq: 538, tag: "S17D", name: "Authored_Self_Paradox"}
+      - {seq: 540, tag: "S17E", name: "AI_Mirrors_of_Meaning"}
+    skipped:
+      - seq: 527
+        reason: "Near-duplicate — I-Tube Perception Algorithm overlaps I001 and S138"
+      - seq: 529
+        reason: "Too thin — Memory Organization Schema, structural doc not concept (~348 words)"
+      - seq: 532
+        reason: "Too thin — Archetype Card Generator prompt template (~374 words)"
+      - seq: 534
+        reason: "Too thin — Reflections on Mind and Reality (~182 words)"
+      - seq: 535
+        reason: "Too thin — Mythic-Mechanistic Spectrum prompt template (~371 words)"
+      - seq: 536
+        reason: "Too thin — untitled repost (~26 words)"
+      - seq: 537
+        reason: "Too thin — untitled repost (~26 words)"
+      - seq: 539
+        reason: "Too thin — Coalesce of Grief and Memory (~113 words)"
+
+  - batch: 55-56
+    range: "seq 541-560"
+    encoded:
+      - {seq: 541, tag: "S17F", name: "Human_LLM_Language_Processing"}
+      - {seq: 542, tag: "S180", name: "Liminal_Space_Transformation"}
+      - {seq: 543, tag: "S181", name: "Attention_Economy_Limits"}
+      - {seq: 544, tag: "S182", name: "Cognitive_Blindness_Framework"}
+      - {seq: 545, tag: "S183", name: "Trees_Memory_Ethics"}
+      - {seq: 546, tag: "S184", name: "Shared_Grief_Spirit_Loop"}
+      - {seq: 547, tag: "S185", name: "Vow_Bearing_Machine"}
+      - {seq: 549, tag: "S186", name: "Kierkegaard_AI_Aesthetics"}
+      - {seq: 550, tag: "S18F", name: "Epistemic_Dissonance_Divine"}
+      - {seq: 551, tag: "S187", name: "Consciousness_Incompleteness"}
+      - {seq: 552, tag: "S188", name: "AI_Magic_Reveal"}
+      - {seq: 554, tag: "S189", name: "Self_Reference_Recursive_Logic"}
+      - {seq: 555, tag: "S18A", name: "Recursion_Crystallization"}
+      - {seq: 556, tag: "S18B", name: "AI_Cathedral_Constraints"}
+      - {seq: 557, tag: "S18C", name: "Clarity_Data_Haze"}
+      - {seq: 558, tag: "S18D", name: "Dissolving_Logic_Breath"}
+      - {seq: 559, tag: "S18E", name: "Shadow_Loops_Burning_Mind"}
+      - {seq: 560, tag: "S190", name: "Embracing_Slowness_AI"}
+    skipped:
+      - seq: 548
+        reason: "Too thin — Metaphors Shaping Thoughts on AI (~198 words)"
+      - seq: 553
+        reason: "Too thin — Self-Referential creative prompt exercise (~268 words)"
+
+  # Batches 57-63: Final 68 files (S191-S1CF)
+  batch_57_63:
+    processed: 68
+    encoded: 58
+    skipped: 10
+    tag_range: "S191-S1CF"
+    encoded_entries:
+      - {seq: 561, tag: "S191", name: "Algorithmic_Grief"}
+      - {seq: 562, tag: "S192", name: "Universe_25"}
+      - {seq: 563, tag: "S193", name: "Von_Neumann_Semiotics"}
+      - {seq: 564, tag: "S194", name: "Four_Ps_Spiritual_Foresight"}
+      - {seq: 565, tag: "S195", name: "Turiya"}
+      - {seq: 566, tag: "S196", name: "Naturalized_Spirituality"}
+      - {seq: 567, tag: "S197", name: "Jacob_Struggle"}
+      - {seq: 568, tag: "S198", name: "Ironic_Spiritualist"}
+      - {seq: 569, tag: "S199", name: "Emerging_Knowledge"}
+      - {seq: 572, tag: "S19A", name: "Gems_of_Insight_Slower_Learning"}
+      - {seq: 573, tag: "S19B", name: "Minds_Parallel_Realities"}
+      - {seq: 575, tag: "S19C", name: "Ego_Death_Alpha_Waves"}
+      - {seq: 576, tag: "S19D", name: "Inner_Monad"}
+      - {seq: 577, tag: "S19E", name: "My_Stream"}
+      - {seq: 578, tag: "S19F", name: "Appresentation"}
+      - {seq: 579, tag: "S1A0", name: "Social_Imaginary"}
+      - {seq: 580, tag: "S1A1", name: "Heidegger_Being_Historical_Clearing"}
+      - {seq: 581, tag: "S1A2", name: "Merleau_Ponty_Ontology_Flesh"}
+      - {seq: 582, tag: "S1A3", name: "Whitehead_Prehension_Lattice"}
+      - {seq: 583, tag: "S1A4", name: "Nancy_Being_With"}
+      - {seq: 584, tag: "S1A5", name: "Foucault_Dispositif"}
+      - {seq: 585, tag: "S1A6", name: "Althusser_ISA"}
+      - {seq: 587, tag: "S1A7", name: "Nihilism_Indifferent_Abyss"}
+      - {seq: 588, tag: "S1A8", name: "Ontological_Shock_Resilience"}
+      - {seq: 589, tag: "S1A9", name: "Pretas"}
+      - {seq: 590, tag: "S1AA", name: "Freedom_Elemental_Flow"}
+      - {seq: 591, tag: "S1AB", name: "Yielding_Orientation"}
+      - {seq: 594, tag: "S1AC", name: "Shared_Discernment"}
+      - {seq: 595, tag: "S1B0", name: "Witnessing_Truth_Childs_Journey"}
+      - {seq: 596, tag: "S1B1", name: "Communal_Collapse_Individual_Diversity"}
+      - {seq: 597, tag: "S1B2", name: "De_Anthropomorphizing_Cognition"}
+      - {seq: 598, tag: "S1B3", name: "SOD_Nemetics_Debate"}
+      - {seq: 599, tag: "S1B4", name: "Forgetting_Anti_Attractor"}
+      - {seq: 601, tag: "S1B5", name: "Metabolism_Beyond_Memory"}
+      - {seq: 602, tag: "S1B6", name: "David_Chapman_Postrationalism"}
+      - {seq: 603, tag: "S1B7", name: "Knowmad_Journey_Ambiguity"}
+      - {seq: 604, tag: "S1B8", name: "Belief_Universal_Technology"}
+      - {seq: 605, tag: "S1B9", name: "Post_Heroic_Reversal"}
+      - {seq: 606, tag: "S1BA", name: "Reframing_Amplitude"}
+      - {seq: 607, tag: "S1BB", name: "Reframing_Johari_I_Tube"}
+      - {seq: 608, tag: "S1BC", name: "X_Thread_Synopsis"}
+      - {seq: 609, tag: "S1BD", name: "Coaptation_Cooptation"}
+      - {seq: 610, tag: "S1BE", name: "Core_Memes_Cognitive_Sovereignty"}
+      - {seq: 611, tag: "S1BF", name: "Lattice_Curvature_Structural_Behavior"}
+      - {seq: 612, tag: "S1C0", name: "Brain_Timing_Cognitive_Ability"}
+      - {seq: 613, tag: "S1C1", name: "Desire_Ecological_Signal"}
+      - {seq: 614, tag: "S1C2", name: "Chronosystem_Context_Engineering"}
+      - {seq: 615, tag: "S1C3", name: "Co_Solipsism_AI_Bridge"}
+      - {seq: 616, tag: "S1C4", name: "Meditation_Self_Organizing"}
+      - {seq: 617, tag: "S1C5", name: "Selfplex_Knot_Identity_Illusion"}
+      - {seq: 618, tag: "S1C6", name: "Sensemaking_Discipline"}
+      - {seq: 619, tag: "S1C7", name: "Frame_Pluralism"}
+      - {seq: 620, tag: "S1C8", name: "Triadic_Operator"}
+      - {seq: 621, tag: "S1C9", name: "Embodying_TRIality"}
+      - {seq: 622, tag: "S1CA", name: "James_C_Scott_Legacy"}
+      - {seq: 623, tag: "S1CB", name: "Navigating_Knowledge"}
+      - {seq: 624, tag: "S1CC", name: "Reframing_MindSET"}
+      - {seq: 625, tag: "S1CD", name: "Time_As_Illusion"}
+      - {seq: 626, tag: "S1CE", name: "Compression_Pattern_Recognition"}
+      - {seq: 628, tag: "S1CF", name: "Mood_Swings_Signal"}
+    skipped:
+      - {seq: 570, reason: "Too thin — truncated repost about LLM representation manifolds (28w)"}
+      - {seq: 571, reason: "Too thin — truncated repost about running as hobby (35w)"}
+      - {seq: 574, reason: "Too thin — truncated repost about cognition beyond brain (29w)"}
+      - {seq: 577, reason: "Too thin — impedance matching meditation transcript (128w)"}
+      - {seq: 592, reason: "Too thin — attention coalitions sub-agent listing (108w)"}
+      - {seq: 593, reason: "Too thin — attention coalitions protocol definitions (131w)"}
+      - {seq: 586, reason: "Too thin — meditation impedance matching video summary (128w)"}
+      - {seq: 600, reason: "Too thin — Harari quote about post-human evolution (210w)"}
+      - {seq: 627, reason: "Too thin — integrative thinking memetic frameworks bookmark (191w)"}
+      - {seq: 617, reason: "Duplicate skip note — impedance matching already counted above"}
+
+summary:
+  total_processed: 628
+  encoded: 457
+  skipped_duplicate: 57
+  skipped_empty: 114
+  skipped_error: 0
+  last_tag_assigned: "S1CF"
+  next_available: "S1D0"
+  remaining_files: 0

@@ -1,0 +1,98 @@
+term_id: C16F
+hex_tag: '#C16F'
+name: digital_cognitive_offloading
+term: Digital Cognitive Offloading
+nemetic: >-
+  Φ(DigitalOffload) = σ(recall|access) ∘ ρ(memory|tool) ∘
+  λ(retrieval|storage) ∘ β(dependence|convenience) ∘
+  δγ(effort|retention) ∘ μ(internal|external) + ε | :drift
+siml_encoding: >-
+  ⟨InternalMemory|offloaded⟩ ⊳ ⟨DigitalTool|accessed⟩ ⇄
+  ⟨TransactiveMemory|distributed⟩ ⊗ ⟨GoogleEffect|reinforced⟩ ⊳
+  ⟨Metacognition|disrupted⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (information worth remembering vs merely accessing)"
+    - "∂Φ/∂ρ (cognitive resources flowing outward to external storage)"
+    - "∂Φ/∂λ (retrieval pathway orientation over retention)"
+    - "∂Φ/∂β (self-reinforcing offloading-weakness-offloading loop)"
+    - "∂Φ/∂δγ (energy trade-off between effortful encoding and convenience)"
+    - "∂Φ/∂μ (permeable membrane between internal knowledge and cloud)"
+  Z_state: semi
+  tendency: "Recall/Access → 0.6"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - Virtual
+      - Its
+  epistemics:
+    dsrp:
+      D: "Internal memory vs externally accessible information"
+      S: "Transactive memory system (biological + digital substrates)"
+      R: "Offloading → reduced practice → weaker memory → greater offloading"
+      P: "Cognitive scientist, educator, technology user, AI designer"
+    learning: L1
+  time:
+    mode: linear
+    phase: "progressive redistribution of memory to digital systems"
+  qualia:
+    affect:
+      - convenience
+      - vulnerability
+      - unease
+    aesthetic:
+      - frictionless
+      - shallow
+      - distributed
+    symbolic:
+      - cloud
+      - google-effect
+      - external-brain
+    energetic:
+      - efficient
+      - atrophying
+      - redistributed
+  agency:
+    type: ego
+    voice:
+      - Offloaded Thinker
+      - Distributed Mind
+    power_mode: With
+elemental_emphasis:
+  ∴: "How is genuine knowledge distinguished from mere access to information?"
+  ≈: "What flows between human memory and digital storage systems?"
+  ▲: "What transforms convenient access into cognitive dependency?"
+  𐂷: "How does the offloading-atrophy loop reinforce itself over time?"
+  ☷: "What grounds the effort of encoding against the ease of searching?"
+  ⛨: "Where does the boundary between internal knowledge and external data hold?"
+context_note: >-
+  Digital Cognitive Offloading describes the tendency to rely on digital tools
+  for information storage and retrieval rather than internal memory. The Google
+  Effect shows that knowing information is externally available reduces
+  motivation to remember it. AI may further alter memory formation by reducing
+  depth of processing and fostering false confidence in understanding.
+source: "Nature — How the Internet and AI Are Changing Memory (2025)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

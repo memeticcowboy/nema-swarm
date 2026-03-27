@@ -1,0 +1,97 @@
+term_id: C142
+hex_tag: '#C142'
+name: Human_Enhancement_Ethics
+term: Human Enhancement Ethics
+nemetic: >-
+  Φ(Human_Enhancement_Ethics) = σ(access|exclusion) ∘ ρ(elevation|inequality)
+  ∘ λ(transcendence|hubris) ∘ β(evolution|fragmentation) ∘ δγ(grounding|unmooring)
+  ∘ μ(augmentation|erosion) + ε | :drift
+siml_encoding: >-
+  ⟨Technology|enhancing⟩ ⊳ ⟨Human|augmented⟩ ⇄ ⟨Ethics|contested⟩ ⊗
+  ⟨Society|stratified⟩ ⊳ ⟨Identity|unmoored⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
+  partials:
+  - "∂Φ/∂σ (who controls access determines liberation vs entrenchment)"
+  - "∂Φ/∂ρ (enhancement risks creating biological castes)"
+  - "∂Φ/∂λ (Promethean flame of self-improvement burns with creative destruction)"
+  - "∂Φ/∂β (unchecked growth fragments the forest of shared humanity)"
+  - "∂Φ/∂δγ (enhancement threatens to unmoor identity from biological continuity)"
+  - "∂Φ/∂μ (enhancement augments capabilities but may erode character-shaping struggle)"
+  Z_state: semi
+  tendency: "Enhancement/Equity → 0.6"
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x06'
+  - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - I
+    - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: "Enhanced human vs baseline human vs posthuman"
+      S: "Human augmentation technology and ethics ecosystem"
+      R: "Access → enhancement → inequality → ethical response → regulation"
+      P: "Transhumanist, bioethicist, affected individual, society"
+    learning: L2
+  time:
+    mode: anticipatory
+    phase: "pre-enhancement ethical window"
+  qualia:
+    affect:
+    - hope
+    - anxiety
+    - vertigo
+    aesthetic:
+    - sublime
+    - unsettling
+    - aspirational
+    symbolic:
+    - Prometheus
+    - Faust
+    - double-edged sword
+    energetic:
+    - accelerating
+    - destabilizing
+    - electrifying
+  agency:
+    type: collective
+    voice:
+    - Transhumanist Aspirant
+    - Bioethical Guardian
+    power_mode: Through
+elemental_emphasis:
+  ∴: "Who controls access to enhancement determines whether it liberates or entrenches — what distinguishes democratic from elite enhancement?"
+  ≈: "How does the flow of enhancement technology through social structures create or dissolve inequality?"
+  ▲: "Where does the Promethean drive for self-transcendence cross into hubris?"
+  𐂷: "What forms of human development become possible through enhancement that evolution alone cannot achieve?"
+  ☷: "What sustains human identity through radical biological transformation — what ground remains?"
+  ⛨: "What boundaries should contain enhancement to preserve shared humanity while enabling individual growth?"
+context_note: "Human Enhancement Ethics examines the moral principles governing technologies
+  that augment human physical, cognitive, or perceptual capacities. Drawing from
+  analysis of Nexus by Yuval Noah Harari, the term explores the tension between
+  individual enhancement and collective equity, the risk of creating biological
+  castes, and the question of whether augmentation enriches or erodes what it means
+  to be human."
+source: "Exploring Human Enhancement and Ethics (Nexus analysis)"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

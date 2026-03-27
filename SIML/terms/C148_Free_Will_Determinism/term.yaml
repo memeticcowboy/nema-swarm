@@ -1,0 +1,98 @@
+term_id: C148
+hex_tag: '#C148'
+name: Free_Will_Determinism
+term: Free Will and Determinism
+nemetic: >-
+  Φ(Free_Will_Determinism) = σ(autonomy|causality) ∘ ρ(agency|necessity)
+  ∘ λ(evolution|fixity) ∘ β(culture|biology) ∘ δγ(responsibility|mechanism)
+  ∘ μ(commitment|impulse) + ε | :open
+siml_encoding: >-
+  ⟨Agent|choosing⟩ ⊳ ⟨Cause|determining⟩ ⇄ ⟨Freedom|evolving⟩ ⊗
+  ⟨Culture|shaping⟩ ⊳ ⟨Responsibility|emergent⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
+  partials:
+  - "∂Φ/∂σ (self-directed thought vs causal chains)"
+  - "∂Φ/∂ρ (fluid negotiation between acting and being acted upon)"
+  - "∂Φ/∂λ (natural selection creating novel capacities — freedom evolves)"
+  - "∂Φ/∂β (co-evolution of memes and genes)"
+  - "∂Φ/∂δγ (moral accountability grounded in social practices)"
+  - "∂Φ/∂μ (structural capacity for self-control through pre-commitment)"
+  Z_state: permeable
+  tendency: "Agency/Determinism → 0.65"
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x06'
+  - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+    - We
+    - It
+  epistemics:
+    dsrp:
+      D: "Free will vs hard determinism vs compatibilism"
+      S: "Biological-cultural-philosophical system of human agency"
+      R: "Causation → capacity → choice → responsibility → community"
+      P: "Philosopher, neuroscientist, moral agent, community"
+    learning: L3
+  time:
+    mode: layered
+    phase: "evolutionary-cultural temporal depth"
+  qualia:
+    affect:
+    - autonomy
+    - determination
+    - moral gravity
+    aesthetic:
+    - complex
+    - layered
+    - emergent
+    symbolic:
+    - crossroads
+    - river branching
+    - evolving landscape
+    energetic:
+    - deliberate
+    - self-binding
+    - liberating
+  agency:
+    type: ego
+    voice:
+    - Compatibilist Agent
+    - Evolved Freedom
+    power_mode: Within
+elemental_emphasis:
+  ∴: "What distinguishes genuine autonomy from the illusion of choice within causal chains?"
+  ≈: "How does agency flow between acting and being acted upon — where is the negotiation point?"
+  ▲: "In what direction does freedom evolve — and what new capacities emerge through evolution?"
+  𐂷: "What forms of freedom become possible through cultural tools that extend biological capacity?"
+  ☷: "What sustains moral responsibility when mechanism underlies all behavior?"
+  ⛨: "What structures of self-control enable agents to bind themselves against impulse?"
+context_note: "Free Will and Determinism examines the philosophical tension between the
+  experience of autonomous choice and the causal necessity of physical laws, resolved
+  through Dennett's compatibilist framework. Freedom is understood as an emergent
+  property that evolves through biological and cultural co-evolution. Responsibility
+  emerges from communities of praise and blame rather than metaphysical foundations.
+  Self-control operates through pre-commitment devices that bind the agent against
+  hyperbolic discounting."
+source: "Daniel C. Dennett, Freedom Evolves"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

@@ -1,0 +1,95 @@
+term_id: A03E
+hex_tag: '#A03E'
+name: Cognitive_Vulnerabilities
+term: Cognitive Vulnerabilities
+nemetic: >-
+  Φ(CogVuln) = σ(awareness|blindness) ∘ ρ(defender|manipulator) ∘ λ(vigilance|exploitation)
+  ∘ β(self-reflection|feedback) ∘ δγ(anxiety|empowerment)
+  ∘ μ(boundary|porous) + ε | :open
+siml_encoding: >-
+  ⟨Cognition|human⟩ ⊳ ⟨Vulnerability|systematic⟩ ⊗ ⟨Exploitation|risk⟩ ⊗ ⟨Defense|awareness⟩
+  ⊗ ⟨Manipulation|resisted⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between metacognitive awareness and systematic blindness)"
+    - "∂Φ/∂ρ (relational asymmetry between vigilant defender and manipulative actor)"
+    - "∂Φ/∂λ (direction of vigilance toward exploitation prevention)"
+    - "∂Φ/∂β (feedback loop where self-reflection reinforces defensive capacity)"
+    - "∂Φ/∂δγ (metabolic cost of anxiety vs empowerment from hackability awareness)"
+    - "∂Φ/∂μ (boundary permeability between protected cognition and manipulation)"
+  Z_state: permeable
+  tendency: "Awareness/Blindness → 0.6"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - We
+  epistemics:
+    dsrp:
+      D: "Genuine metacognitive awareness vs. performative vigilance"
+      S: "Cognitive defense ecosystem spanning biases, blind spots, and heuristics"
+      R: "Defender-manipulator asymmetry where awareness creates new exploits"
+      P: "Behavioral economics and rationalist sensemaking communities"
+    learning: L1
+  time:
+    mode: cyclical
+    phase: "recursive vigilance loop"
+  qualia:
+    affect:
+      - anxiety
+      - curiosity
+      - empowerment
+      - skepticism
+    aesthetic:
+      - vigilant
+      - recursive
+      - porous
+    symbolic:
+      - hackable-brain
+      - mental-OS-patch
+      - cognitive-exploits
+    energetic:
+      - depleting
+      - cycling
+      - self-sealing
+  agency:
+    type: ego
+    voice:
+      - Vigilant Defender
+      - Meta-Cognitive Observer
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How is genuine metacognitive awareness distinguished from performative vigilance?"
+  ≈: "What flows between the vigilant defender and the manipulative actor?"
+  ▲: "Where does vigilance want to go — liberation or perpetual anxiety?"
+  𐂷: "What if the vulnerability frame itself creates the exploit?"
+  ☷: "What is the metabolic cost of constant vigilance against cognitive manipulation?"
+  ⛨: "What structures distinguish healthy skepticism from paralyzing paranoia?"
+context_note: >-
+  Cognitive Vulnerabilities describes systematic flaws in human thinking — biases,
+  blind spots, and heuristics — that make minds exploitable. The self-sealing
+  meta-frame is critical: dismissal of the concept proves its point.
+source: "Barriers to Shifting Communication Norms"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

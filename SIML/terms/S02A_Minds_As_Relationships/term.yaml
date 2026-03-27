@@ -1,0 +1,48 @@
+---
+term: "Minds As Relationships"
+hex_tag: "S02A"
+series: "S"
+source_file: "1771907212457_291717_Minds+as+Relationships%3A+Social+Nature+of+Cognition+and+Identity.md"
+encoded_at: "2026-03-05T19:10:00Z"
+description: "The framework that cognition is not an internal process but a relational phenomenon emerging between people, tools, and environments, integrating Vygotsky's sociocultural theory, distributed cognition, Bakhtin's dialogism, linguistic relativity, symbolic interactionism, and narrative identity."
+nemetic: "Φ(MindsRel) = σ(internal|relational) ∘ ρ(self|other) ∘ λ(monologue|dialogue) ∘ β(interaction|internalization) ∘ δγ(individual|cultural) ∘ μ(theory|framework) + ε | :intersubjectivity"
+siml_encoding: "⟨internal∣relational⟩ ⊳ ⟨self∣other⟩ → ⟨monologue∣dialogue⟩ ⊗ ⟨interaction∣internalization⟩ ⇄ ⟨individual∣cultural⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing internal-process models from relational-emergence models of cognition)"
+    - "∂Φ/∂ρ (relating self to other as constitutive rather than separable entities)"
+    - "∂Φ/∂λ (transforming monologic thought into dialogic cognition through internalized social interaction)"
+    - "∂Φ/∂β (growing cognitive capacity through social interaction that becomes internalized structure)"
+    - "∂Φ/∂δγ (cycling between individual expression and cultural narrative in identity construction)"
+    - "∂Φ/∂μ (structuring multiple theoretical traditions into a coherent relational framework)"
+  Z_state: "intersubjectivity (minds exist in the space between subjects, not within them)"
+  tendency: "ρ/β → 0.88"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects: ["distinguishing internal cognition models from relational emergence models", "differentiating six theoretical traditions addressing the same phenomenon"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.95
+    aspects: ["self-other relationships as constitutive of cognition", "distributed cognition across people, tools, and environments"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects: ["transforming monologic thought into Bakhtinian dialogic cognition", "linguistic relativity reshaping thought through language structure"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects: ["Vygotsky's zone of proximal development growing cognition through social scaffolding", "higher cognitive functions developing through social interaction"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects: ["cycling between individual symbolic interaction and cultural narrative", "narrative identity constructed through culturally-influenced stories"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects: ["six theoretical frameworks providing structural scaffolding", "implications formalized for psychology, education, technology, and social policy"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S027_Distributed_Consciousness", "S029_Social_Evolution_Consciousness", "S02B_Learning_Hardwired_Brain", "C003_km_cognitive_pyramid"]
+status: canonical
+---

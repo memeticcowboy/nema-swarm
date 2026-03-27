@@ -1,0 +1,30 @@
+---
+term: "Goal-Progress Cells"
+hex_tag: "S0D6"
+series: "S"
+source_file: "1771907213130_2111725_Unveiling+Goal-Progress+Cells%3A+Insights+for+Neuroscience+and+AI.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Brain uses goal-progress cells to track sequences of actions, enabling prediction and generalization in novel scenarios. These neurons fire based on progress toward behavioral goals, creating internal maps of actions rather than physical spaces. Mice demonstrated true generalization — inferring task structures without prior exposure. Implications for building adaptable AI that mimics human cognitive flexibility."
+nemetic: "Φ(Goal-Progress Cells) = σ(spatial_mapping|action_mapping) ∘ ρ(memory_recall|generalization) ∘ λ(biological_intelligence|artificial_systems) ∘ β(individual_neurons|systemic_tracking) ∘ δγ(familiar_scenarios|novel_scenarios) ∘ μ(rigid_sequence|flexible_goal_progress) + ε | :adaptive_goal_inference"
+siml_encoding: "⟨spatial_action_mapping_distinction, cognitive_cartography⟩ ⊳ ⟨recall_generalization_relational_web, inference_network⟩ → ⟨biological_to_artificial_transformation, intelligence_catalysis⟩ ⊗ ⟨neuron_to_system_maturation, tracking_evolution⟩ ⇄ ⟨familiar_novel_cycling, scenario_adaptation⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing spatial mapping from action-sequence mapping in neural populations)"
+    - "∂Φ/∂ρ (relating memory recall to generalization capacity across novel task structures)"
+    - "∂Φ/∂λ (transforming biological intelligence insights into artificial system architectures)"
+    - "∂Φ/∂β (growth from individual neuron firing patterns to systemic goal-progress tracking)"
+    - "∂Φ/∂δγ (cycling between familiar scenario execution and novel scenario inference)"
+    - "∂Φ/∂μ (structural contrast between rigid sequence replay and flexible goal-progress representation)"
+  Z_state: "adaptive_goal_inference — goal-progress cells enable organisms to transcend rote memory, building internal action maps that generalize across novel contexts, pointing toward AI architectures grounded in progress-tracking rather than spatial encoding"
+  tendency: "λ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["spatial_vs_action_mapping_distinction", "neural_population_coding_awareness"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["recall_generalization_relational_mapping", "inference_network_connectivity"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["biological_to_artificial_transformation", "cognitive_flexibility_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["neuron_to_system_tracking_growth", "goal_progress_developmental_arc"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.75, aspects: ["familiar_novel_scenario_cycling", "adaptation_renewal_loops"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["rigid_vs_flexible_representation_structure", "action_map_frameworks"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S05E", "S041"]
+status: canonical
+---

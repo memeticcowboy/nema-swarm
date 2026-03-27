@@ -1,0 +1,30 @@
+---
+term: "Butler Mourning Political Resistance"
+hex_tag: "S149"
+series: "S"
+source_file: "1771907213454_2401773_Judith+Butler%3A+Mourning+as+Political+Resistance.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Judith Butler's reframing of mourning as a transformative political act. Selective grievability reveals power dynamics — who is deemed grievable exposes hierarchies of recognition. Shared vulnerability and interdependence foster solidarity. Public grief as resource for political transformation, challenging norms of recognition and critiquing state manipulation of grief for nationalist and militaristic purposes. Links mourning to an ethics of nonviolence."
+nemetic: "Φ(Butler Mourning Political Resistance) = σ(grievable_lives|ungrievable_erasure) ∘ ρ(isolated_grief|shared_vulnerability_solidarity) ∘ λ(privatized_sorrow|political_mourning_transformation) ∘ β(foreclosed_recognition|expanding_grievability) ∘ δγ(state_grief_capture|resistant_mourning_cycling) ∘ μ(hierarchy_of_recognition|ethics_of_nonviolence_framework) + ε | :political_grief_sovereign_recognition"
+siml_encoding: "⟨grievable_ungrievable_distinction, recognition_discernment⟩ ⊳ ⟨isolated_shared_relating, vulnerability_solidarity_flow⟩ → ⟨private_political_catalysis, mourning_transformation⟩ ⊗ ⟨foreclosed_expanding_growth, grievability_expansion⟩ ⇄ ⟨capture_resistance_cycling, mourning_politics_rhythm⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing grievable lives from ungrievable erasure — the discernment between lives deemed worthy of public mourning and those whose deaths are systematically erased from collective grief, revealing how selective grievability encodes power hierarchies)"
+    - "∂Φ/∂ρ (relating isolated grief to shared vulnerability and solidarity — the relational web where mourning connects mourners through recognition of mutual vulnerability and interdependence, transforming private sorrow into communal bonds of solidarity)"
+    - "∂Φ/∂λ (transforming privatized sorrow into political mourning — the catalytic process where grief refuses domestication and becomes a public political act, challenging the norms of recognition that determine whose lives count as livable and whose deaths as losses)"
+    - "∂Φ/∂β (growth from foreclosed recognition to expanding grievability — the developmental expansion where the circle of grievable lives widens through political struggle, each act of public mourning extending recognition to those previously excluded)"
+    - "∂Φ/∂δγ (cycling between state grief capture and resistant mourning — the grounding oscillation between state manipulation of grief for nationalist and militaristic purposes and resistant mourning practices that reclaim grief as a resource for political transformation)"
+    - "∂Φ/∂μ (structural framework of recognition hierarchy versus ethics of nonviolence — the architecture mapping how hierarchies of recognition determine grievability and how an ethics of nonviolence grounded in shared vulnerability provides an alternative structural framework for political life)"
+  Z_state: "political_grief_sovereign_recognition — mourning is not merely personal sorrow but a political act that reveals and challenges hierarchies of recognition; who is grievable exposes whose lives are deemed to matter; shared vulnerability and interdependence create the foundation for solidarity; state capture of grief for nationalist purposes must be resisted through public mourning that expands the circle of grievable lives; an ethics of nonviolence emerges from the recognition of shared precarity"
+  tendency: "λ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["grievable_ungrievable_discernment", "recognition_hierarchy_perception"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.90, aspects: ["shared_vulnerability_solidarity", "interdependence_mourning_flow"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.90, aspects: ["political_mourning_catalysis", "grief_transformation_resistance"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["expanding_grievability_growth", "recognition_circle_widening"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["state_capture_resistance_cycling", "mourning_politics_oscillation"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["recognition_hierarchy_structure", "nonviolence_ethics_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

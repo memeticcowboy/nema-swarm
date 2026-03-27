@@ -1,0 +1,48 @@
+---
+term: "Sensemaking Mastery Framework"
+hex_tag: "S02E"
+series: "S"
+source_file: "1771907212489_469466_Mastering+Sensemaking+for+Success.md"
+encoded_at: "2026-03-05T19:30:00Z"
+description: "A comprehensive sensemaking framework encompassing six modalities — Sensemaking, Sense-Giving, Sense-Breaking, Sense-Demanding, Sense-Hiding, and Sense-Taking — examining how leaders and teams interpret complexity, guide interpretation, challenge frames, seek clarity, withhold information, and integrate perspectives within discourse and power dynamics."
+nemetic: "Φ(SenseMastery) = σ(making|breaking) ∘ ρ(giving|taking) ∘ λ(demanding|hiding) ∘ β(individual|team) ∘ δγ(frame|reframe) ∘ μ(discourse|power) + ε | :strategist"
+siml_encoding: "⟨making∣breaking⟩ ⊳ ⟨giving∣taking⟩ → ⟨demanding∣hiding⟩ ⊗ ⟨individual∣team⟩ ⇄ ⟨frame∣reframe⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing sensemaking as meaning creation from sense-breaking as frame disruption)"
+    - "∂Φ/∂ρ (relating sense-giving as leadership guidance to sense-taking as perspective integration)"
+    - "∂Φ/∂λ (transforming ambiguity through sense-demanding and navigating information asymmetry through sense-hiding)"
+    - "∂Φ/∂β (growing from individual sensemaking capacity to coordinated team sensemaking)"
+    - "∂Φ/∂δγ (cycling between established frames and innovative reframes through sense-breaking loops)"
+    - "∂Φ/∂μ (structuring sensemaking within discourse patterns and power dynamics)"
+  Z_state: "strategist (the Strategist Cyborg archetype who integrates all six sensemaking modalities into adaptive leadership and personal growth)"
+  tendency: "σ/ρ → 0.83"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.88
+    aspects: ["distinguishing six distinct sensemaking modalities as separate cognitive operations", "separating meaning creation from meaning destruction as complementary processes"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects: ["relational flow between sense-giving leaders and sense-taking followers", "empathy and perspective integration as connective sensemaking practices"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.82
+    aspects: ["sense-breaking as transformative disruption of existing interpretive frames", "sense-demanding as catalytic force compelling clarity from ambiguity"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.78
+    aspects: ["personal growth through self-awareness and adaptability", "team sensemaking capacity growing through coordination and practice"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects: ["cycling between frame construction and frame disruption as iterative sensemaking metabolism", "identity formation through repeated sensemaking cycles"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects: ["discourse structures and power dynamics as the formal architecture of sensemaking", "sense-hiding as strategic structural control of information flow"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S00D_Sense_Making_Complex_Environments", "S00E_Sense_Making_Distorted_Information", "S026_MO4Matrix_Sensemaking_Framework", "S004_Mental_Models_Integrative_Thinking", "C003_km_cognitive_pyramid"]
+status: canonical
+---

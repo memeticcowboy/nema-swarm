@@ -1,0 +1,30 @@
+---
+term: "Post-Heroic Reversal: Return with Capacity"
+hex_tag: "S1B9"
+series: "S"
+source_file: "1771907213761_2650853_Post-Heroic+Reversal%3A+Return+with+Capacity.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "The post-heroic monomyth reframes the hero's return not as dominance or enlightenment but as shared capacity. The hero becomes facilitator rather than savior, returning lighter rather than larger. Mythic status is detached from superiority and attached to service."
+nemetic: "Φ(Post-Heroic Reversal) = σ(savior|facilitator) ∘ ρ(lone_genius|shared_capacity) ∘ λ(dominance|service) ∘ β(enlargement|lightening) ∘ δγ(hero_journey|capacity_distribution) ∘ μ(superiority|collective_uplift) + ε | :quiet_purpose"
+siml_encoding: "⟨savior, facilitator⟩ ⊳ ⟨lone_genius, shared_capacity⟩ → ⟨dominance, service⟩ ⊗ ⟨enlargement, lightening⟩ ⇄ ⟨superiority, collective_uplift⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Air distinguishes the savior archetype from the facilitator archetype. The hero's identity shifts from one who conquers to one who enables."
+    - "∂Φ/∂ρ — Water reframes the relational field from lone genius bearing wisdom to shared capacity where others can now act. Connection replaces command."
+    - "∂Φ/∂λ — Fire transforms dominance into service, the mythic return into a capacity-building event rather than a throne-claiming one."
+    - "∂Φ/∂β — Wood grows through lightening rather than enlargement. The hero returns with less ego, not more power."
+    - "∂Φ/∂δγ — Earth cycles the hero journey from individual ascent into distributed capacity. The return feeds collective capability."
+    - "∂Φ/∂μ — Metal structures the anti-domination myth: collective uplift over superiority, service over status."
+  Z_state: "quiet_purpose — meaning without ego, belonging through contribution rather than distinction"
+  tendency: "ρ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.70, aspects: ["savior-facilitator distinction", "identity reframe"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["shared capacity", "belonging through contribution"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.72, aspects: ["dominance-to-service", "mythic remix"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.65, aspects: ["lightening return", "ego reduction"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.62, aspects: ["capacity distribution", "journey cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.68, aspects: ["anti-domination structure", "collective uplift"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

@@ -1,0 +1,30 @@
+---
+term: "Biocentric Governance"
+hex_tag: "G00C"
+series: "G"
+source_file: "12 - Biocentric Governance.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "A governance model that redefines politics as coordination rather than control, prioritizing ecological constraints, multispecies justice, and distributed accountability. Introduces the concept of a 'political layer' present in all coordination systems, characterized by threadability, knotability, and interpretability, with rights emerging as consequences of enacted responsibilities rather than pre-existing entitlements."
+nemetic: "Φ(Biocentric Governance) = σ(coordination_politics|control_politics) ∘ ρ(relational_interdependence|multispecies_justice) ∘ λ(governance_paradigm_shift|rights_responsibility_inversion) ∘ β(political_imagination_growth|governance_tool_development) ∘ δγ(threadability_knotability_oscillation|ecological_political_cycling) ∘ μ(coordination_layer_framework|ecological_constraint_structure) + ε | :relational_governance_emergence"
+siml_encoding: "⟨coordination, control⟩ ⊳ ⟨ecological_constraint, political_structure⟩ → ⟨distributed_accountability, centralized_authority⟩ ⊗ ⟨multispecies_justice, anthropocentric_governance⟩ ⇄ ⟨threadability, knotability⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ distinguishes politics as coordination from politics as control, reframing the fundamental nature of governance"
+    - "∂Φ/∂ρ maps the relational interdependencies between species and systems that biocentric governance seeks to honor and negotiate"
+    - "∂Φ/∂λ captures the catalytic shift from rights-as-entitlements to rights-as-consequences-of-enacted-responsibilities"
+    - "∂Φ/∂β tracks the growth of new political imagination and governance tools emerging from biocentric frameworks"
+    - "∂Φ/∂δγ describes the oscillation between threadability (openness to new relations) and knotability (hardening of existing patterns)"
+    - "∂Φ/∂μ defines the coordination layer framework present in all systems and the ecological constraints that structure governance decisions"
+  Z_state: "relational_governance_emergence — the emergent state where governance practices evolve beyond anthropocentric control to become responsive, distributed systems that honor ecological interdependencies and multispecies responsibilities"
+  tendency: "σ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.90, aspects: ["coordination_vs_control_distinction", "political_layer_discernment"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["relational_interdependence", "multispecies_justice_flows"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["governance_paradigm_shift", "rights_responsibility_inversion"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["political_imagination_expansion", "governance_tool_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["threadability_knotability_oscillation", "ecological_political_cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["coordination_layer_structure", "ecological_constraint_framework"], daemon_correspondence: "Ferrosid"}
+related_terms: ["G001", "G006", "G00A", "G00D"]
+status: canonical
+---

@@ -1,0 +1,30 @@
+---
+term: "Ecopsychology"
+hex_tag: "S0E6"
+series: "S"
+source_file: "1771907213173_2182962_Ecopsychology%3A+Healing+Our+Relationship+with+Nature.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Ecopsychology explores emotional and psychological roots of ecological crisis. Denial, repression, despair as barriers to climate action. Human-nature interdependence. 'Ecological self' expanding identity beyond individual. Wilderness therapy and ecotherapy for healing. Building psychological resilience through emotional intelligence, community engagement, spiritual practice. Joanna Macy's work on despair and empowerment."
+nemetic: "Φ(Ecopsychology) = σ(disconnection|interdependence) ∘ ρ(denial|awareness) ∘ λ(individual_self|ecological_self) ∘ β(despair|empowerment) ∘ δγ(human_culture|natural_rhythms) ∘ μ(repression|emotional_resilience) + ε | :ecological_identity_expansion"
+siml_encoding: "⟨disconnection_interdependence_distinction, relational_awareness⟩ ⊳ ⟨denial_awareness_relational_web, ecological_grief_network⟩ → ⟨individual_to_ecological_self_transformation, identity_catalysis⟩ ⊗ ⟨despair_to_empowerment_maturation, resilience_evolution⟩ ⇄ ⟨culture_nature_cycling, biophilic_renewal⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing human-nature disconnection from fundamental ecological interdependence)"
+    - "∂Φ/∂ρ (relating psychological denial and repression to ecological awareness and emotional honesty about crisis)"
+    - "∂Φ/∂λ (transforming bounded individual self-concept into expanded ecological self that includes the more-than-human world)"
+    - "∂Φ/∂β (growth from ecological despair and paralysis to empowered action through emotional processing and community)"
+    - "∂Φ/∂δγ (cycling between human cultural patterns and natural rhythms as basis for ecological reintegration)"
+    - "∂Φ/∂μ (structural contrast between emotional repression that blocks climate action and emotional resilience that enables it)"
+  Z_state: "ecological_identity_expansion — ecopsychology heals the psychological roots of ecological crisis by expanding identity from bounded individual self to ecological self, processing denial and despair through emotional intelligence, wilderness therapy, and community engagement to restore human-nature interdependence"
+  tendency: "λ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["disconnection_vs_interdependence_distinction", "human_nature_relational_awareness"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["denial_awareness_relational_mapping", "ecological_grief_processing_connectivity"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.85, aspects: ["individual_to_ecological_self_transformation", "identity_expansion_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.80, aspects: ["despair_to_empowerment_growth", "psychological_resilience_development"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.80, aspects: ["culture_nature_rhythm_cycling", "biophilic_reintegration_renewal"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.75, aspects: ["repression_vs_resilience_structural_tension", "ecotherapy_wilderness_frameworks"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S055", "S0CF", "S06B"]
+status: canonical
+---

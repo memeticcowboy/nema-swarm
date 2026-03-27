@@ -1,0 +1,63 @@
+---
+term: "Animal Learning and Memetics"
+hex_tag: "S013"
+series: "S"
+source_file: "1771907212400_259972_Animal+Learning+and+Memetics.md"
+encoded_at: "2026-03-05T18:30:00Z"
+description: "Relationship between hardwired behaviors and learning in animals and humans. Memes as 'hardwired software' implanted in the brain and triggered by conditions. Precepts (genes) vs concepts (memes) as co-evolutionary forces. Memes evolved approximately 200K years ago alongside ancient neural connections, with Darwin's dog memory test illustrating the intersection of instinct and learned behavior."
+nemetic: "Φ(AnimalMemes) = σ(hardwired|learned) ∘ ρ(gene|meme) ∘ λ(trigger|activation) ∘ β(precept|concept) ∘ δγ(ancient|recent) ∘ μ(neural|memetic) + ε | :co-evolving"
+siml_encoding: "⟨Behavior|distinguished⟩ ⊳ ⟨Gene|related⟩ → ⟨Trigger|activated⟩ ⊗ ⟨Precept|growing⟩ ⇄ ⟨Meme|co-evolving⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinction between hardwired instinctual behaviors and learned memetic behaviors)"
+    - "∂Φ/∂ρ (relational interplay between genetic inheritance and memetic transmission)"
+    - "∂Φ/∂λ (transformative activation of memes triggered by environmental conditions)"
+    - "∂Φ/∂β (developmental growth from precepts to concepts through evolutionary learning)"
+    - "∂Φ/∂δγ (grounding in ancient neural connections vs. recent memetic evolution ~200K years)"
+    - "∂Φ/∂μ (structural mapping between neural architecture and memetic encoding)"
+  Z_state: "co-evolving (genes and memes in continuous co-evolutionary feedback)"
+  tendency: "Co-evolution/Integration → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "Critical distinction between hardwired instinctual behavior and learned memetic behavior"
+      - "Analytical separation of innate responses from culturally transmitted patterns"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.75
+    aspects:
+      - "Gene-meme relational interplay as co-evolutionary feedback loop"
+      - "Flow between genetic inheritance and memetic transmission across generations"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects:
+      - "Trigger-activation mechanism as transformative catalyst for memetic expression"
+      - "Environmental conditions igniting dormant memetic patterns in neural substrate"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.80
+    aspects:
+      - "Evolutionary growth from precepts (genetic templates) to concepts (memetic constructs)"
+      - "Developmental trajectory of learning capacity across species"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.80
+    aspects:
+      - "Ancient neural connections (~millions of years) cycling against recent memetic evolution (~200K years)"
+      - "Biological grounding of deep-time instinct layered with shallow-time cultural learning"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.70
+    aspects:
+      - "Structural correspondence between neural architecture and memetic encoding"
+      - "Memes as 'hardwired software' — structurally implanted in brain circuitry"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S012_Crow_Intelligence_Alien_Minds"
+  - "S00F_Hard_Question_of_Memetics"
+  - "C119_animal_consciousness_evolution"
+status: canonical
+---

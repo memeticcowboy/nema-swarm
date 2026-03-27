@@ -1,0 +1,48 @@
+---
+term: "MO4Matrix Sensemaking Framework"
+hex_tag: "S026"
+series: "S"
+source_file: "1771907212450_283556_MO3Matrix%3A+Structured+Framework+for+Comprehensive+Analysis.md"
+encoded_at: "2026-03-05T19:10:00Z"
+description: "A reflective decision-making and sensemaking tool with six interconnected dimensions — Motive, Opportunity, Methods, Means, Morality, and MetaEthics — that clarifies complexity, exposes ethical tensions, and guides adaptive action."
+nemetic: "Φ(MO4Matrix) = σ(motive|opportunity) ∘ ρ(means|methods) ∘ λ(reactive|innovative) ∘ β(alignment|transformation) ∘ δγ(morality|metaethics) ∘ μ(framework|dimension) + ε | :ethical_clarity"
+siml_encoding: "⟨motive∣opportunity⟩ ⊳ ⟨means∣methods⟩ → ⟨reactive∣innovative⟩ ⊗ ⟨alignment∣transformation⟩ ⇄ ⟨morality∣metaethics⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing driving motives from systemic opportunities)"
+    - "∂Φ/∂ρ (relating available means and resources to chosen methods)"
+    - "∂Φ/∂λ (transforming approaches from reactive to adaptive to innovative)"
+    - "∂Φ/∂β (growing alignment between ethics, capacity, and action)"
+    - "∂Φ/∂δγ (cycling between explicit morality and deep metaethical assumptions)"
+    - "∂Φ/∂μ (structuring six dimensions into coherent analytical framework)"
+  Z_state: "ethical_clarity (transparent alignment of motives, means, and moral foundations for adaptive decision-making)"
+  tendency: "δγ/ρ → 0.78"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.80
+    aspects: ["distinguishing motives — incentives, fears, goals", "identifying systemic leverage points as opportunities"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.85
+    aspects: ["relating means to ethical capacity and resource alignment", "connecting methods across adaptive, reactive, and innovative approaches"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.70
+    aspects: ["transforming strategy from reactive to innovative", "catalyzing change through identified leverage points"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.65
+    aspects: ["growing alignment between dimensions over iterative analysis", "developing adaptive capacity through framework application"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.90
+    aspects: ["cycling between surface morality and deep metaethical foundations", "metabolizing collective narratives, myths, and unspoken rules"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects: ["structuring six dimensions into systematic analytical matrix", "formalizing decision pathways with explicit ethical checkpoints"]
+    daemon_correspondence: "Ferrosid"
+related_terms: ["S029_Social_Evolution_Consciousness", "S02A_Minds_As_Relationships", "C003_km_cognitive_pyramid"]
+status: canonical
+---

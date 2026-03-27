@@ -1,0 +1,30 @@
+---
+term: "Contextual Inquiry"
+hex_tag: "S17A"
+series: "S"
+source_file: "1771907213647_2566083_Exploring+Contextual+Inquiry+Techniques.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Hands-on UX research method combining observation and interviewing in user's natural setting. Reveals insights surveys/lab tests miss. AEIOU framework (Activities, Environments, Interactions, Objects, Users). Low-stakes pilot approach. Think-aloud protocols. Hybrid observation + interview. Iterative reflection loops. Desensitizing anxiety through experimentation. Time-boxing sessions. Ethics-first consent."
+nemetic: "Φ(CtxInquiry) = σ(situated_observation|decontextualized_testing) ∘ ρ(iterative_reflection|linear_analysis) ∘ λ(think_aloud_protocol|silent_observation) ∘ β(organic_inquiry|scripted_interview) ∘ δγ(natural_setting|laboratory_control) ∘ μ(AEIOU_framework|unstructured_notes) + ε | :embedded_knowing"
+siml_encoding: "⟨contextual_research⟩ ⊳ ⟨hybrid_method⟩ → ⟨observation_plus_interview⟩ ⊗ ⟨decontextualized_testing⟩ ⇄ ⟨situated_insight⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (situated observation in user's natural context vs decontextualized testing in controlled environments)"
+    - "∂Φ/∂ρ (iterative reflection loops that deepen understanding vs linear analysis that moves in one direction)"
+    - "∂Φ/∂λ (think-aloud protocols that make cognition visible vs silent observation that infers from behavior alone)"
+    - "∂Φ/∂β (organic inquiry that follows the user's lead vs scripted interview that follows the researcher's plan)"
+    - "∂Φ/∂δγ (natural setting where behavior is authentic vs laboratory control where behavior is performed)"
+    - "∂Φ/∂μ (AEIOU framework that structures without constraining vs unstructured notes that capture everything and organize nothing)"
+  Z_state: "embedded_knowing — the state where the researcher's understanding is grounded in the user's lived context rather than abstracted from it, where insight emerges from immersion in the natural setting"
+  tendency: "δγ → 0.86"
+elemental_mapping:
+  air_sigma: {emphasis: 0.82, aspects: ["situated_observation", "decontextualized_testing"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.76, aspects: ["iterative_reflection", "linear_analysis"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.74, aspects: ["think_aloud_protocol", "silent_observation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.78, aspects: ["organic_inquiry", "scripted_interview"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.86, aspects: ["natural_setting", "laboratory_control"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["AEIOU_framework", "unstructured_notes"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

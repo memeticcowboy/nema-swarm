@@ -1,0 +1,30 @@
+---
+term: "Psilocybin Brain Activity"
+hex_tag: "S17C"
+series: "S"
+source_file: "1771907213650_2567199_Brain+Activity+Insights+from+Psilocybin+Trip.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "First-person psilocybin neuroimaging data. 5g Psilocybe cubensis (B+ strain). Psilocin acts on 5-HT2A serotonin receptors. Brain shows: decreased prefrontal/premotor control, increased sensory/auditory/speech integration, higher entropic brain patterns (open, flexible, exploratory), youthful network patterns. Subjective: hyperawareness, heightened senses, uninhibited creativity. Three timepoints tracked (acute, end of day, afterglow). Default Mode Network inhibition. Neuroplasticity in action. Longevity implications: psychedelics may reverse biological aging."
+nemetic: "Φ(PsiloBrain) = σ(entropic_expansion|controlled_cognition) ∘ ρ(sensory_integration|sensory_filtering) ∘ λ(uninhibited_creativity|prefrontal_control) ∘ β(neuroplastic_growth|neural_rigidity) ∘ δγ(embodied_hyperawareness|default_mode_autopilot) ∘ μ(neuroimaging_evidence|subjective_report_alone) + ε | :entropic_bloom"
+siml_encoding: "⟨psilocybin_neuroimaging⟩ ⊳ ⟨entropic_brain⟩ → ⟨DMN_inhibition⟩ ⊗ ⟨prefrontal_control⟩ ⇄ ⟨youthful_network_patterns⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (entropic expansion where brain patterns become open and flexible vs controlled cognition where prefrontal cortex maintains order)"
+    - "∂Φ/∂ρ (sensory integration where auditory/visual/speech areas merge vs sensory filtering where inputs are segregated and dampened)"
+    - "∂Φ/∂λ (uninhibited creativity released by decreased prefrontal control vs prefrontal control that constrains creative expression)"
+    - "∂Φ/∂β (neuroplastic growth where new connections form and old patterns break vs neural rigidity where established pathways dominate)"
+    - "∂Φ/∂δγ (embodied hyperawareness where the body becomes intensely present vs default mode autopilot where the self narrates habitually)"
+    - "∂Φ/∂μ (neuroimaging evidence that objectifies subjective experience vs subjective report alone that lacks empirical grounding)"
+  Z_state: "entropic_bloom — the state where increased neural entropy produces not chaos but a flowering of cognitive flexibility, where the brain's youthful, exploratory patterns re-emerge as prefrontal control relaxes and the Default Mode Network releases its grip on self-narration"
+  tendency: "λ → 0.86"
+elemental_mapping:
+  air_sigma: {emphasis: 0.84, aspects: ["entropic_expansion", "controlled_cognition"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.80, aspects: ["sensory_integration", "sensory_filtering"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.86, aspects: ["uninhibited_creativity", "prefrontal_control"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.82, aspects: ["neuroplastic_growth", "neural_rigidity"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.78, aspects: ["embodied_hyperawareness", "default_mode_autopilot"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.76, aspects: ["neuroimaging_evidence", "subjective_report_alone"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

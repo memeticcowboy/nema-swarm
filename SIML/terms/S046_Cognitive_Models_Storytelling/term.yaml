@@ -1,0 +1,30 @@
+---
+term: "Cognitive Models Storytelling"
+hex_tag: "S046"
+series: "S"
+source_file: "1771907212630_784444_Cognitive+Models+in+Storytelling.md"
+encoded_at: "2026-03-05T21:00:00Z"
+description: "Integration of Six Thinking Hats, Bloom's Taxonomy, and Kolb's Experiential Learning Cycle into storytelling frameworks. Explores character perspectives, narrative structure, and story arcs through cognitive models, extending into transmedia, AR, and AI-adaptive personalized narrative paths."
+nemetic: "Φ(CognitiveModelsStorytelling) = σ(perspective|narrative) ∘ ρ(character|audience) ∘ λ(experience|reflection) ∘ β(complexity|depth) ∘ δγ(arc|cycle) ∘ μ(model|structure) + ε | :cognitive_narrative_integration"
+siml_encoding: "⟨cognitive frameworks⟩ ⊳ ⟨storytelling structures⟩ → ⟨experiential narrative⟩ ⊗ ⟨transmedia extension⟩ ⇄ ⟨AI-adaptive personalization⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing cognitive perspectives mapped to character viewpoints)"
+    - "∂Φ/∂ρ (relational dynamics between characters and audience engagement)"
+    - "∂Φ/∂λ (transformative experiential learning embedded in narrative arcs)"
+    - "∂Φ/∂β (growth through Bloom's Taxonomy levels as narrative complexity deepens)"
+    - "∂Φ/∂δγ (cycling through Kolb's experiential stages as story arcs)"
+    - "∂Φ/∂μ (structural frameworks from cognitive models organizing narrative architecture)"
+  Z_state: "cognitive_narrative_integration — storytelling and cognitive models mutually enhance each other, creating narratives that teach and learning that engages"
+  tendency: "μ → 0.80"
+elemental_mapping:
+  air_sigma: {emphasis: 0.78, aspects: ["Six Thinking Hats as character perspectives", "metacognitive narration"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.72, aspects: ["character-audience engagement", "collaborative storytelling"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.75, aspects: ["experiential learning transformation", "choose-your-own-adventure agency"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.73, aspects: ["Bloom's Taxonomy as narrative depth", "cross-cultural archetype growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.70, aspects: ["Kolb's cycle as story arcs", "narrative-reflection cycling"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["cognitive model frameworks", "transmedia and AI-adaptive structures"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S01C_Blooms_Taxonomy_Thinking_Integration", "S028_Cognitive_Fractals", "S031_Language_Reality_Interconnected", "A009_Linguistic_Organism"]
+status: canonical
+---

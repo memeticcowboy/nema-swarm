@@ -1,0 +1,30 @@
+---
+term: "Sorokin Cyclical Social Change"
+hex_tag: "S072"
+series: "S"
+source_file: "1771907212742_1126852_Understanding+Sorokin%27s+Cyclical+Theories+of+Social+Change.md"
+encoded_at: "2026-03-06T00:30:00Z"
+description: "Pitirim Sorokin's cyclical model of social change, proposing that societies oscillate between Sensate (materialist), Ideational (spiritual), and Idealistic (balanced) phases rather than progressing linearly, offering frameworks for forecasting cultural transitions and navigating crises."
+nemetic: "Φ(Sorokin Cyclical Social Change) = σ(linear_progress|cyclical_oscillation) ∘ ρ(sensate_materialism|ideational_spirituality) ∘ λ(crisis_destabilization|phase_transition) ∘ β(single_phase_dominance|idealistic_integration) ∘ δγ(sensate_ideational_cycling|cultural_phase_recurrence) ∘ μ(tripartite_phase_model|forecasting_framework) + ε | :cyclical_cultural_awareness"
+siml_encoding: "⟨linear_cyclical_distinction, historical_trajectory⟩ ⊳ ⟨sensate_ideational_relational_tension, cultural_polarity⟩ → ⟨crisis_to_phase_transition_transformation, immanent_change⟩ ⊗ ⟨single_to_integrated_phase_growth, idealistic_synthesis⟩ ⇄ ⟨sensate_ideational_phase_cycling, cultural_oscillation⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing linear progress narratives from cyclical oscillation models of history)"
+    - "∂Φ/∂ρ (relating Sensate materialism to Ideational spirituality as cultural polarities)"
+    - "∂Φ/∂λ (transforming crisis destabilization into catalytic phase transitions through immanent change)"
+    - "∂Φ/∂β (growth from single-phase dominance toward Idealistic integration of material and spiritual)"
+    - "∂Φ/∂δγ (cycling through Sensate-Ideational-Idealistic phases across historical epochs)"
+    - "∂Φ/∂μ (tripartite phase model and forecasting framework for anticipating cultural transitions)"
+  Z_state: "cyclical_cultural_awareness — societies recognized as oscillating between material and spiritual orientations, with crisis moments serving as phase transition catalysts and the Idealistic phase representing temporary synthesis"
+  tendency: "δγ → 0.90"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["linear_cyclical_distinction", "progress_narrative_challenge"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["sensate_ideational_cultural_polarity", "material_spiritual_tension"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["crisis_phase_transition_catalysis", "immanent_change_transformation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["single_to_integrated_phase_development", "idealistic_synthesis_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.90, aspects: ["sensate_ideational_idealistic_cycling", "cultural_phase_recurrence"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.85, aspects: ["tripartite_phase_model_structure", "forecasting_framework_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S029", "S056", "S01B"]
+status: canonical
+---

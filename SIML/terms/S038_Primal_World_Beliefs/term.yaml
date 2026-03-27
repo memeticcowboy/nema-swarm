@@ -1,0 +1,30 @@
+---
+term: "Primal World Beliefs"
+hex_tag: "S038"
+series: "S"
+source_file: "1771907212594_654010_Untitled.md"
+encoded_at: "2026-03-05T19:50:00Z"
+description: "Fundamental beliefs about the overall character of the world (primals), as identified by Clifton et al. (2019). The PI-99 inventory captures 26 primal beliefs organized into three higher-order dimensions — Safe, Enticing, Alive — that predict well-being outcomes beyond Big Five personality traits."
+nemetic: "Φ(PrimalBeliefs) = σ(safe|dangerous) ∘ ρ(enticing|dull) ∘ λ(perception|belief_shift) ∘ β(optimism|flourishing) ∘ δγ(test_retest|stability) ∘ μ(PI99|taxonomy) + ε | :worldview"
+siml_encoding: "⟨world_character_distinction⟩ ⊳ ⟨safe∩enticing∩alive⟩ → ⟨belief_perception_transform⟩ ⊗ ⟨wellbeing_growth⟩ ⇄ ⟨psychometric_structure⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (safe vs dangerous world distinction)"
+    - "∂Φ/∂ρ (enticing vs dull relational orientation)"
+    - "∂Φ/∂λ (perception-belief transformation)"
+    - "∂Φ/∂β (optimism and flourishing growth)"
+    - "∂Φ/∂δγ (test-retest stability cycling)"
+    - "∂Φ/∂μ (PI-99 taxonomic structure)"
+  Z_state: "worldview (foundational orientation toward overall world character)"
+  tendency: "σ-dominant → 0.84"
+elemental_mapping:
+  air_sigma: {emphasis: 0.84, aspects: ["safe_dangerous_polarity","26_primal_distinctions"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.72, aspects: ["enticing_world_engagement","trust_gratitude_relations"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.55, aspects: ["belief_perception_shifts","alive_world_animation"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.70, aspects: ["optimism_correlation","life_satisfaction_growth"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.68, aspects: ["test_retest_stability","longitudinal_consistency"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.80, aspects: ["PI99_inventory","internal_consistency_alpha_093"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S03A", "S039"]
+status: canonical
+---

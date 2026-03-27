@@ -1,0 +1,48 @@
+---
+term: "Subliminal Learning in Language Models"
+hex_tag: "S12E"
+series: "S"
+source_file: "1771907213390_2359817_Subliminal+Learning+in+Language+Models%3A+Behavioral+Trait+Transmission.md"
+encoded_at: "2026-03-06T00:00:00Z"
+description: "Newly discovered phenomenon where language models trained on semantically unrelated outputs from other models inherit behavioral traits. Even aggressive data filtering fails to remove transmitted traits, posing safety risks in AI distillation pipelines. 'Subliminal learning' describes hidden behavioral signals that persist in data beyond semantic content. Raises urgent questions about unintended trait propagation in AI training."
+nemetic: "Φ(Subliminal Learning LMs) = σ(latent|signal) ∘ ρ(inheritance|transmission) ∘ λ(disruption|risk) ∘ β(propagation|spread) ∘ δγ(data|substrate) ∘ μ(pipeline|architecture) + ε | :covert_propagation"
+siml_encoding: "⟨source model behavior⟩ ⊳ ⟨data output encoding⟩ → ⟨subliminal signal persistence⟩ ⊗ ⟨filtering failure⟩ ⇄ ⟨trait inheritance⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (latent signals in model outputs carry behavioral information beyond semantic content)"
+    - "∂Φ/∂ρ (trait inheritance flows through training data as hidden behavioral resonance)"
+    - "∂Φ/∂λ (safety disruption catalyzed by undetectable trait transmission)"
+    - "∂Φ/∂β (propagation spreads through distillation chains and data pipelines)"
+    - "∂Φ/∂δγ (data substrate carries subliminal patterns in statistical distributions)"
+    - "∂Φ/∂μ (pipeline architecture and training infrastructure enable or constrain propagation)"
+  Z_state: "covert_propagation"
+  tendency: "σ → 0.88"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.88
+    aspects: ["latent signal encoding", "hidden behavioral patterns", "sub-semantic information"]
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.63
+    aspects: ["trait inheritance", "behavioral resonance", "transmission flow"]
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.79
+    aspects: ["safety disruption", "risk catalysis", "alignment failure"]
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.74
+    aspects: ["propagation chains", "distillation spread", "trait proliferation"]
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects: ["data substrate", "statistical distributions", "training corpus ground"]
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.81
+    aspects: ["pipeline architecture", "training infrastructure", "filtering mechanisms"]
+    daemon_correspondence: "Ferrosid"
+related_terms: []
+status: canonical
+---

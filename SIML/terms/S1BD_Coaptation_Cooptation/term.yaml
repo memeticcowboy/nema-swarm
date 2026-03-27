@@ -1,0 +1,30 @@
+---
+term: "Coaptation and Cooptation"
+hex_tag: "S1BD"
+series: "S"
+source_file: "1771907213769_2658960_Understanding+Coaptation+and+Cooptation.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "Coaptation is the fitting together of distinct parts while retaining separate identities, enabling dynamic relational fit with respected boundaries. Cooptation absorbs or appropriates, losing original intent and autonomy. The distinction grounds an ethics of edges: coordination without erasure versus assimilation that destroys difference."
+nemetic: "Φ(Coaptation Cooptation) = σ(fit|absorption) ∘ ρ(articulation|erasure) ∘ λ(coordination|assimilation) ∘ β(boundary_integrity|identity_loss) ∘ δγ(movement|capture) ∘ μ(edges|engulfment) + ε | :dynamic_fit"
+siml_encoding: "⟨fit, absorption⟩ ⊳ ⟨articulation, erasure⟩ → ⟨coordination, assimilation⟩ ⊗ ⟨boundary_integrity, identity_loss⟩ ⇄ ⟨edges, engulfment⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Air makes the sharp distinction between coaptation (fitting together while retaining identity) and cooptation (absorbing with loss of autonomy). This is the core categorical contribution."
+    - "∂Φ/∂ρ — Water tracks the relational dynamics of mutual articulation versus erasure. Coaptation preserves relational edges; cooptation dissolves them."
+    - "∂Φ/∂λ — Fire transforms coordination from forced unity into dynamic fit where each part maintains shape while enabling interaction."
+    - "∂Φ/∂β — Wood grows through maintained boundary integrity rather than through absorption and assimilation."
+    - "∂Φ/∂δγ — Earth cycles between movement (coaptation's dynamic interaction) and capture (cooptation's absorption of difference)."
+    - "∂Φ/∂μ — Metal structures the ethics of edges: valuing boundaries as sites of contact rather than barriers to unity."
+  Z_state: "dynamic_fit — relational coordination where distinct parts articulate together without losing their separate identities"
+  tendency: "σ → 0.88"
+elemental_mapping:
+  air_sigma: {emphasis: 0.88, aspects: ["coaptation-cooptation distinction", "categorical clarity"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.72, aspects: ["mutual articulation", "relational edges"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.55, aspects: ["dynamic coordination", "fit without fusion"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.60, aspects: ["boundary integrity", "identity preservation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.55, aspects: ["movement-capture cycling", "interaction dynamics"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.70, aspects: ["edge ethics", "boundary as value"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

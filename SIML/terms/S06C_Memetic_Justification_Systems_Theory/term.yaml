@@ -1,0 +1,30 @@
+---
+term: "Memetic Justification Systems Theory"
+hex_tag: "S06C"
+series: "S"
+source_file: "1771907212720_1036612_Integrating+Justification+Systems+in+Memetic+Philosophy.md"
+encoded_at: "2026-03-05T23:30:00Z"
+description: "mJUST integrates Justification Systems Theory into Memetic Philosophy. Aligns with DIKUW+ model and memetic transmission dynamics. Justification systems shape cultural norms and behaviors through transmission patterns. Cultural evolution driven by how justifications propagate, compete, and consolidate across populations."
+nemetic: "Φ(Memetic Justification Systems Theory) = σ(raw_belief|justified_norm) ∘ ρ(individual_justification|cultural_transmission) ∘ λ(unjustified_meme|legitimated_cultural_norm) ∘ β(naive_adoption|critical_justification_awareness) ∘ δγ(justification|transmission_cycling) ∘ μ(DIKUW_framework|memetic_architecture) + ε | :justified_cultural_coherence"
+siml_encoding: "⟨belief_norm_distinction, justification_mapping⟩ ⊳ ⟨individual_cultural_transmission_relation, propagation_dynamics⟩ → ⟨unjustified_to_legitimated_transformation, normative_consolidation⟩ ⊗ ⟨naive_to_critical_justification_growth, memetic_literacy⟩ ⇄ ⟨justification_transmission_cycling, cultural_evolution_iteration⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing raw beliefs from justified cultural norms)"
+    - "∂Φ/∂ρ (relating individual justification processes to cultural transmission dynamics)"
+    - "∂Φ/∂λ (transforming unjustified memes into legitimated cultural norms through justification)"
+    - "∂Φ/∂β (growth from naive memetic adoption to critical justification awareness)"
+    - "∂Φ/∂δγ (cycling between justification construction and memetic transmission)"
+    - "∂Φ/∂μ (DIKUW+ framework and memetic architecture as structural scaffolding)"
+  Z_state: "justified_cultural_coherence — cultural norms and behaviors are shaped by justification systems that propagate memetically, with the DIKUW+ model providing the informational hierarchy through which raw data becomes justified cultural knowledge and wisdom, driving cultural evolution through transmission dynamics"
+  tendency: "δγ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.80, aspects: ["belief_norm_justification_distinction", "raw_vs_justified_memetic_content"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.85, aspects: ["individual_cultural_transmission_dynamics", "justification_propagation_networks"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.80, aspects: ["unjustified_to_legitimated_transformation", "normative_consolidation_catalysis"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.75, aspects: ["naive_to_critical_justification_growth", "memetic_literacy_maturation"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.85, aspects: ["justification_transmission_cycling", "cultural_evolution_iteration"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.85, aspects: ["DIKUW_framework_structure", "memetic_transmission_architecture"], daemon_correspondence: "Ferrosid"}
+related_terms: ["S04C", "S04D", "S052", "S056"]
+status: canonical
+---

@@ -1,0 +1,94 @@
+term_id: C13A
+hex_tag: '#C13A'
+name: Neiye_Chinese_Cognition
+term: "Neiye: A Chinese Model of Cognition"
+nemetic: >-
+  Φ(Neiye) = σ(heartmind|brain) ∘ ρ(harmony|disharmony) ∘ λ(cultivation|clarity)
+  ∘ β(breath|alignment) ∘ δγ(body|mind)
+  ∘ μ(internal|external) + ε | :open
+siml_encoding: >-
+  ⟨Xin|heartmind⟩ ⊳ ⟨Qi|cultivated⟩ ⊗ ⟨Harmony|embodied⟩ ⊗ ⟨Clarity|achieved⟩
+  ⊗ ⟨Nature|aligned⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between cardiocentric and cerebrocentric cognition)"
+    - "∂Φ/∂ρ (relational flow between harmonious and disharmonious states)"
+    - "∂Φ/∂λ (transformation through cultivation practices toward clarity)"
+    - "∂Φ/∂β (feedback between breath control and mental state alignment)"
+    - "∂Φ/∂δγ (cyclical unity of body-mind integration)"
+    - "∂Φ/∂μ (boundary between internal cultivation and external nature)"
+  Z_state: permeable
+  tendency: "Cultivation/Clarity → 0.8"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: "Heart-mind (xin) vs. brain-centered cognition"
+      S: "Holistic body-mind-nature cultivation system"
+      R: "Internal cultivation mirrors and aligns with cosmic patterns"
+      P: "Fourth-century BCE Daoist philosophical tradition"
+    learning: L2
+  time:
+    mode: cyclical
+    phase: "cultivation practice"
+  qualia:
+    affect:
+      - serenity
+      - harmony
+      - clarity
+    aesthetic:
+      - holistic
+      - embodied
+      - integrated
+    symbolic:
+      - heartmind
+      - qi
+      - emptiness
+    energetic:
+      - cultivating
+      - aligning
+      - unifying
+  agency:
+    type: ego
+    voice:
+      - Inner Cultivator
+      - Embodied Practitioner
+    power_mode: Within
+elemental_emphasis:
+  ∴: "How does the Neiye distinguish cognition centered in heart-mind from brain-centered thinking?"
+  ≈: "What flows between balanced and imbalanced internal states during cultivation?"
+  ▲: "Where does cultivation practice lead — toward clarity or mere quietude?"
+  𐂷: "What forms of cognition emerge when body-mind dualism is dissolved?"
+  ☷: "What sustains the cyclical unity of physical and mental processes?"
+  ⛨: "What boundaries separate inner cultivation from outer alignment with nature?"
+context_note: >-
+  The Neiye (Inner Training) is a fourth-century BCE Chinese text presenting a holistic
+  model of cognition rooted in Daoist thought, where cognitive functions emerge from
+  integration of physical and mental cultivation rather than abstract reasoning.
+source: "Simonis, Fabien — A Chinese Model of Cognition: The Neiye, Fourth Century BCE"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

@@ -1,0 +1,100 @@
+term_id: C174
+hex_tag: '#C174'
+name: early_mormonism_folk_magic
+term: Early Mormonism Folk Magic
+nemetic: >-
+  Φ(EarlyMormonism) = σ(folk_magic|organized_religion) ∘
+  ρ(seer_stone|sacred_text) ∘ λ(treasure_digger|prophet) ∘
+  β(occult_practice|theological_doctrine) ∘
+  δγ(magical_worldview|religious_narrative) ∘
+  μ(authenticity|rebranding) + ε | :drift
+siml_encoding: >-
+  ⟨FolkMagic|practiced⟩ ⊳ ⟨SeerStone|activated⟩ ⇄
+  ⟨TreasureDigging|ritualized⟩ ⊗ ⟨Prophethood|claimed⟩ ⊳
+  ⟨Theology|systematized⟩
+formalism:
+  math_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  dim_operators:
+    - χ
+    - Q_in
+    - Q_fwd
+    - Ψ_exp
+    - Ψ_reg
+    - Ψ_str
+  partials:
+    - "∂Φ/∂σ (distinction between magical and religious authority)"
+    - "∂Φ/∂ρ (relation between divination and revelation)"
+    - "∂Φ/∂λ (identity transformation from seer to prophet)"
+    - "∂Φ/∂β (feedback between occult influences and doctrinal development)"
+    - "∂Φ/∂δγ (cultural reinterpretation cycle)"
+    - "∂Φ/∂μ (boundary between historical magic and modern religious narrative)"
+  Z_state: semi
+  tendency: "FolkMagic/Religion → 0.6"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x06'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - I
+      - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: "Folk magic practice vs organized religious institution"
+      S: "19th-century American magical-religious synthesis"
+      R: "Seer stone → divination → translation → scripture → theology"
+      P: "Historian, believer, folk practitioner, institutional apologist"
+    learning: L2
+  time:
+    mode: layered
+    phase: "historical transformation reinterpreted across eras"
+  qualia:
+    affect:
+      - fascination
+      - contestation
+      - reverence
+    aesthetic:
+      - syncretic
+      - occluded
+      - transformative
+    symbolic:
+      - seer-stone
+      - talisman
+      - golden-plates
+    energetic:
+      - transmuting
+      - contested
+      - persistent
+  agency:
+    type: archetypal
+    voice:
+      - Folk Magician Becoming Prophet
+      - Institutional Narrator
+    power_mode: Through
+elemental_emphasis:
+  ∴: "How is folk magical practice distinguished from prophetic revelation?"
+  ≈: "What flows between the seer stone as divination tool and translation instrument?"
+  ▲: "What transforms a treasure digger into a religious prophet?"
+  𐂷: "How do occult foundations feed back into doctrinal development?"
+  ☷: "What cultural soil grounds the magical worldview of 19th-century America?"
+  ⛨: "Where does the boundary between historical authenticity and institutional rebranding hold?"
+context_note: >-
+  Early Mormonism reveals how religious movements emerge from folk traditions.
+  Joseph Smith's journey from treasure-digging folk magician to founder of a
+  major world religion illustrates the fluid boundaries between magic and
+  religion in 19th-century America, with seer stones, Kabbalistic influences,
+  and Freemasonic elements transformed into distinctively Mormon theology.
+source: "Quinn, D. M. Early Mormonism and the Magic World View"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML

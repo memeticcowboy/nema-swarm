@@ -1,0 +1,30 @@
+---
+term: "Desire as Ecological Signal"
+hex_tag: "S1C1"
+series: "S"
+source_file: "1771907213775_2663713_Desire+as+Ecological+Signal%2C+Not+Moral+Law.md"
+encoded_at: "2026-03-12T00:00:00Z"
+description: "Desire is an ecological signal, not a moral verdict. Treating it like law converts movement into guilt and self-surveillance. The reframe positions the self as weather-reader rather than defendant, shifting from flawed subject to sensing organism where storms are not sins."
+nemetic: "Φ(Desire as Signal) = σ(law|weather) ∘ ρ(defendant|weather_reader) ∘ λ(guilt|recognition) ∘ β(suppression|sensing) ∘ δγ(moral_verdict|ecological_signal) ∘ μ(self_surveillance|calm_clarity) + ε | :weather_not_law"
+siml_encoding: "⟨law, weather⟩ ⊳ ⟨defendant, weather_reader⟩ → ⟨guilt, recognition⟩ ⊗ ⟨suppression, sensing⟩ ⇄ ⟨self_surveillance, calm_clarity⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ — Air distinguishes desire-as-law from desire-as-weather. The categorical shift removes moral weight from desire, repositioning it as environmental signal rather than judicial verdict."
+    - "∂Φ/∂ρ — Water reframes the self from defendant before a moral court to weather-reader observing ecological patterns. The relational shift is from judgment to observation."
+    - "∂Φ/∂λ — Fire transforms guilt into somatic recognition. Storms are not sins; they carry information about the ecological conditions producing them."
+    - "∂Φ/∂β — Wood grows through sensing rather than suppression. Desire as vital signal encourages awareness rather than denial."
+    - "∂Φ/∂δγ — Earth cycles between moral verdict and ecological signal as competing frames for desire. The cycling dissolves blame without denying consequence."
+    - "∂Φ/∂μ — Metal structures the anti-shame framework: no prescriptive claims, ecological phenomenology replacing puritan ethics."
+  Z_state: "weather_not_law — desire experienced as ecological weather pattern to be read rather than moral law to be obeyed or punished"
+  tendency: "σ → 0.85"
+elemental_mapping:
+  air_sigma: {emphasis: 0.85, aspects: ["law-weather distinction", "categorical reframe"], daemon_correspondence: "Aerunik"}
+  water_rho: {emphasis: 0.72, aspects: ["defendant to weather-reader", "observational relation"], daemon_correspondence: "Sentaria"}
+  fire_lambda: {emphasis: 0.65, aspects: ["guilt-to-recognition", "shame dissolution"], daemon_correspondence: "Jvalion"}
+  wood_beta: {emphasis: 0.60, aspects: ["sensing over suppression", "vital signal"], daemon_correspondence: "Arboriel"}
+  earth_delta_gamma: {emphasis: 0.62, aspects: ["verdict-signal cycling", "blame dissolution"], daemon_correspondence: "Humavita"}
+  metal_mu: {emphasis: 0.55, aspects: ["anti-shame structure", "ecological phenomenology"], daemon_correspondence: "Ferrosid"}
+related_terms: []
+status: canonical
+---

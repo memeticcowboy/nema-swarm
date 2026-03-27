@@ -1,0 +1,66 @@
+---
+term: "Belief Systems Metamodel"
+hex_tag: "S01F"
+series: "S"
+source_file: "1771907212437_275427_Understanding+Belief+Systems.md"
+encoded_at: "2026-03-05T18:35:00Z"
+description: "An analysis of belief systems through metamodel patterns — Mind-Reading, Cause and Effect, and Universal Quantifiers — examining how beliefs form, express, and can be questioned to uncover hidden assumptions and resolve conflicting interpretations."
+nemetic: "Φ(BeliefMeta) = σ(stated_belief|hidden_assumption) ∘ ρ(evidence|interpretation) ∘ λ(partial_belief|complete_belief) ∘ β(single_evidence|multiple_meanings) ∘ δγ(formation|questioning) ∘ μ(pattern|metamodel) + ε | :interrogation"
+siml_encoding: "⟨belief_expression⟩ ⊳ ⟨metamodel_patterns⟩ → ⟨questioning_techniques⟩ ⊗ ⟨assumption_surfacing⟩ ⇄ ⟨belief_resolution⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (distinguishing stated beliefs from hidden assumptions and partial from complete beliefs)"
+    - "∂Φ/∂ρ (relating evidence to interpretation and the relationships that underpin belief formation)"
+    - "∂Φ/∂λ (transforming partial belief statements into complete beliefs through questioning)"
+    - "∂Φ/∂β (growing from single evidence toward recognition of multiple possible meanings)"
+    - "∂Φ/∂δγ (cycling between belief formation and belief interrogation)"
+    - "∂Φ/∂μ (structuring metamodel patterns: Mind-Reading, Cause and Effect, Universal Quantifiers)"
+  Z_state: "interrogation (active questioning of belief structures to surface assumptions and resolve conflicts)"
+  tendency: "Air/Fire → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+      - "Distinguishing stated beliefs from hidden assumptions beneath them"
+      - "Identifying metamodel violations: Mind-Reading, Cause and Effect, Universal Quantifiers"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.70
+    aspects:
+      - "Evidence and relationships as the substrate underpinning beliefs"
+      - "Relational dynamics between believer, evidence, and interpretation"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.80
+    aspects:
+      - "Transforming partial belief statements into complete beliefs through questioning"
+      - "Questioning techniques ('How do you know?' 'What causes this?') as catalytic transformation"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.55
+    aspects:
+      - "Growing awareness that single evidence can yield multiple meanings"
+      - "Expanding from surface belief to deeper belief network"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+      - "Cycling between belief formation and belief questioning"
+      - "Iterative process of surfacing, examining, and resolving conflicting beliefs"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+      - "Metamodel as formal structural framework for categorizing belief distortions"
+      - "Patterned categories (Mind-Reading, Cause-Effect, Universal Quantifiers) as analytical scaffold"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "S002_System_1_System_2_Thinking"
+  - "S004_Mental_Models_Integrative_Thinking"
+  - "S00B_Metaphors_Consciousness_Behavior"
+  - "S00E_Sense_Making_Distorted_Information"
+  - "S016_Lacan_Imaginary_Symbolic_Real"
+  - "S007_Understanding_Human_Mind"
+status: canonical
+---

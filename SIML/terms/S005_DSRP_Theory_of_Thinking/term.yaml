@@ -1,0 +1,63 @@
+---
+term: "DSRP Theory of Thinking"
+hex_tag: "S005"
+series: "S"
+source_file: "1771907212350_232644_DSRP+Theory+of+Thinking.md"
+encoded_at: "2026-03-05T18:10:00Z"
+description: "Derek Cabrera's framework identifying four universal patterns of thinking—Distinctions, Systems, Relationships, and Perspectives—as foundational cognitive operations for understanding complex information."
+nemetic: "Φ(DSRP) = σ(identity|other) ∘ ρ(action|reaction) ∘ λ(point|view) ∘ β(part|whole) ∘ δγ(simple|complex) ∘ μ(pattern|application) + ε | :structuring"
+siml_encoding: "⟨Thinking|patterned⟩ ⊳ ⟨Distinction|made⟩ → ⟨System|organized⟩ ⊗ ⟨Relationship|connected⟩ ⇄ ⟨Perspective|shifted⟩"
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  partials:
+    - "∂Φ/∂σ (the Distinctions operation: identifying what something is and what it is not)"
+    - "∂Φ/∂ρ (the Relationships operation: identifying connections and influences between elements)"
+    - "∂Φ/∂λ (the Perspectives operation: viewing from different points of view for comprehensive analysis)"
+    - "∂Φ/∂β (the Systems operation: recognizing parts and wholes, how components form systems)"
+    - "∂Φ/∂δγ (cyclical application of four patterns to transform simple to complex understanding)"
+    - "∂Φ/∂μ (structural pattern recognition as boundary for applied thinking)"
+  Z_state: "structuring (information organized through four universal cognitive patterns)"
+  tendency: "Structure/Clarity → 0.80"
+elemental_mapping:
+  air_sigma:
+    emphasis: 0.95
+    aspects:
+      - "Distinctions as the primary cognitive operation: identity vs. other"
+      - "DSRP itself as a meta-distinction about how thinking works"
+    daemon_correspondence: "Aerunik"
+  water_rho:
+    emphasis: 0.80
+    aspects:
+      - "Relationships between elements as connections and influences"
+      - "Flow of understanding through relational mapping"
+    daemon_correspondence: "Sentaria"
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+      - "Perspectives as transformative viewpoints"
+      - "Directed shift in understanding through point-of-view changes"
+    daemon_correspondence: "Jvalion"
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+      - "Systems as parts-and-wholes: how components branch into organized wholes"
+      - "Growth of understanding through systemic organization"
+    daemon_correspondence: "Arboriel"
+  earth_delta_gamma:
+    emphasis: 0.70
+    aspects:
+      - "Cyclical application of patterns to build layered understanding"
+      - "Grounding abstract thinking in structured practice"
+    daemon_correspondence: "Humavita"
+  metal_mu:
+    emphasis: 0.80
+    aspects:
+      - "Pattern recognition as structural framework"
+      - "Four operations as boundaries for rigorous thinking"
+    daemon_correspondence: "Ferrosid"
+related_terms:
+  - "A045_Neurodiversity_Philosophy"
+  - "C105_cabrera_critical_thinking_critique"
+  - "S004_Mental_Models_Integrative_Thinking"
+status: canonical
+---

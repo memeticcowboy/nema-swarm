@@ -1,0 +1,88 @@
+term_id: A067
+hex_tag: '#A067'
+name: Attention_Fragmentation
+term: Attention Fragmentation
+nemetic: >-
+  Φ(AttentionFragmentation) = σ(signal|noise-ratio-collapse) ∘ ρ(connection|surface-skimming)
+  ∘ λ(direction|scatter) ∘ μ(boundary|dissolved-thresholds) ∘ δγ(depletion|cognitive-exhaustion)
+  ∘ β(novelty-seeking|compulsive-switching) + ε | :drift
+siml_encoding: >-
+  ⟨Signal|attention⟩ ⊳ ⟨Environment|digital-stimulus-field⟩ ⇄ ⟨Actor|distracted-agent⟩
+  ⊗ ⟨Boundary|dissolved-focus⟩ → ⟨Outcome|cognitive-scatter⟩
+formalism:
+  math_operators: [σ, ρ, λ, μ, δγ, β]
+  dim_operators: [χ, Q_in, Q_fwd, Ψ_str, Ψ_reg, Ψ_exp]
+  partials:
+    - "∂Φ/∂σ (capacity to distinguish signal from noise degrades as attention fragments across stimuli)"
+    - "∂Φ/∂ρ (relational depth collapses into surface-level scanning; connection becomes transactional)"
+    - "∂Φ/∂λ (directional purpose dissolves when attention has no sustained vector)"
+    - "∂Φ/∂μ (boundaries between tasks, contexts, and cognitive modes become porous)"
+    - "∂Φ/∂δγ (metabolic cost of constant context-switching depletes cognitive reserves)"
+    - "∂Φ/∂β (novelty-seeking drive hijacks exploratory capacity into compulsive task-switching)"
+  Z_state: semi
+  tendency: "Signal/Noise → fragmenting"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x06'
+    - '0x05'
+    - '0x04'
+coords:
+  ontology:
+    primary: I
+    secondary:
+      - It
+      - Its
+  epistemics:
+    dsrp:
+      D: "Sustained attention vs. fragmented attention; deep focus vs. continuous partial attention"
+      S: "Digital information ecology — notifications, feeds, multitasking interfaces, algorithmic engagement"
+      R: "Attention ⇄ stimulus environment; depth ⇄ breadth; focus ⇄ novelty"
+      P: "Cognitive scientist, media ecologist, contemplative practitioner, UX designer"
+    learning: L2
+  time:
+    mode: event
+    phase: "interrupt-driven — attention organized by external triggers rather than internal intention"
+  qualia:
+    affect:
+      - scattered
+      - anxious
+      - restless
+      - overwhelmed
+    aesthetic:
+      - fractured
+      - buzzing
+      - shallow
+    symbolic:
+      - shattered mirror
+      - channel-surfing
+      - moth-to-flame
+    energetic:
+      - depleted
+      - jittery
+      - compulsive
+  agency:
+    type: ego
+    voice:
+      - Distracted Mind
+      - Scattered Self
+    power_mode: Over
+elemental_emphasis:
+  ∴: "How do we distinguish genuine attention from the illusion of multitasking? What signal is lost when the noise floor rises?"
+  ≈: "What happens to relational depth when attention never dwells? How does fragmentation erode empathy and presence?"
+  ▲: "Where does purpose go when attention has no sustained direction? What aims are sacrificed to the scroll?"
+  𐂷: "What forms of thought become impossible under fragmented attention? What creative possibilities require sustained focus to emerge?"
+  ☷: "What is the metabolic cost of constant context-switching? How does cognitive depletion accumulate invisibly?"
+  ⛨: "What boundaries protect sustained attention? What structures — digital, social, personal — enable or prevent deep focus?"
+context_note: >-
+  Attention fragmentation describes the systematic degradation of sustained cognitive focus
+  in environments designed to capture and redirect attention. Unlike simple distraction
+  (a temporary interruption), fragmentation is structural — the attention system itself
+  reorganizes around interruption as its default mode. The distinction matters: distraction
+  assumes a baseline of focus that gets disrupted; fragmentation suggests the baseline
+  itself has shifted. This is an Air-primary pathology where σ (distinction-making) degrades
+  under information overload.
+source: "Attention ecology analysis — Memetic Cowboy"
+date_processed: '2026-03-16'
+processed_by: Claude/SIML
