@@ -2,11 +2,11 @@
 layout: docs
 title: "Elements"
 description: "The seven fundamental processes of conscious experience"
-glyph: "✶"
+glyph: "∮"
 category_badge: element
 ---
 
-# The Seven Elements
+# The Seven Elements (σ, ρ, λ, β, δγ, μ, ∮)
 
 Elements are not substances but **processes** — verbs rather than nouns. They are patterns of activity that coordinate into what we call consciousness.
 
@@ -27,25 +27,25 @@ Elements build on each other in dimensional progression:
 ### 0D: Ω (Omega) — The Void Field
 Undifferentiated awareness before any distinction.
 
-### 1D: Air — Distinction
+### 1D: σ (Air) — Distinction
 $$\chi(\Omega) \to \text{Signal/Noise separation}$$
 
 First cut. Creates inside/outside, this/that.
 
-### 2D: Water & Fire — Relational Depth
+### 2D: ρ (Water) & λ (Fire) — Relational Depth
 $$Q(\chi) \to \text{Resonance \& Direction}$$
 
-- **Water** — Inward relationality, empathic feeling
-- **Fire** — Forward directionality, purposive agency
+- **ρ** — Inward relationality, empathic feeling
+- **λ** — Forward directionality, purposive agency
 
-### 3D: Wood, Earth, Metal — Transformation
+### 3D: β (Wood), δγ (Earth), μ (Metal) — Transformation
 $$\Psi(Q) \to \text{Novel forms}$$
 
-- **Wood** — Exploratory branching
-- **Earth** — Regenerative cycling
-- **Metal** — Structural integrity
+- **β** — Exploratory branching
+- **δγ** — Regenerative cycling
+- **μ** — Structural integrity
 
-### 1'D: Aether — Harmonic Collapse
+### 1'D: ∮ (Aether) — Harmonic Collapse
 $$Z(\Omega, \chi, Q, \Psi) \to \Phi$$
 
 Meta-integration. Not seventh among equals but the coordination process itself.
@@ -72,32 +72,32 @@ Every element can operate in two fundamental modes:
 Elements flow through each other in dynamic balance:
 
 ```
-     Air (Distinction)
-          ↓
-    Water ← → Fire
+       σ (Distinction)
+            ↓
+      ρ  ← → λ
    (Inward) (Forward)
-          ↓
-   Wood ← Earth → Metal
+            ↓
+    β  ←  δγ  →  μ
  (Explore) (Renew) (Structure)
-          ↓
-      Aether (Integrate)
-          ↓
-        RETURN
+            ↓
+        ∮ (Integrate)
+            ↓
+          RETURN
 ```
 
 ## Diagnostic Framework
 
 Each element comes with a diagnostic question:
 
-| Element | Diagnostic |
-|---------|------------|
-| Air | Does this distinction expand choice? |
-| Water | Are more feelings allowed or fewer? |
-| Fire | Can direction change via feedback? |
-| Wood | Does experimentation change who decides? |
-| Earth | Does care increase capacity to say no? |
-| Metal | Are boundaries explicit and negotiable? |
-| Aether | Is constructedness acknowledged? |
+| Operator | Element | Diagnostic |
+|----------|---------|------------|
+| σ | Air | Does this distinction expand choice? |
+| ρ | Water | Are more feelings allowed or fewer? |
+| λ | Fire | Can direction change via feedback? |
+| β | Wood | Does experimentation change who decides? |
+| δγ | Earth | Does care increase capacity to say no? |
+| μ | Metal | Are boundaries explicit and negotiable? |
+| ∮ | Aether | Is constructedness acknowledged? |
 
 These aren't one-time questions but **ongoing inquiry**.
 
@@ -131,13 +131,13 @@ If Usurpene: Name the pattern, acknowledge it's woven, choose differently.
 
 Each element has an optimal balance ratio:
 
-- **Air:** Signal/Noise → 1
-- **Water:** Resonance/Isolation → 1
-- **Fire:** Purpose/Pressure → 1
-- **Wood:** Constraint × Curiosity → 1
-- **Earth:** Renewal/Decay → 1
-- **Metal:** Integrity/Permeability → 1
-- **Aether:** Flows = Difference × Harmony
+- **σ (Air):** Signal/Noise → 1
+- **ρ (Water):** Resonance/Isolation → 1
+- **λ (Fire):** Purpose/Pressure → 1
+- **β (Wood):** Constraint × Curiosity → 1
+- **δγ (Earth):** Renewal/Decay → 1
+- **μ (Metal):** Integrity/Permeability → 1
+- **∮ (Aether):** Flows = Difference × Harmony
 
 When ratios drift too far from 1, the element goes Usurpene.
 
@@ -145,10 +145,10 @@ When ratios drift too far from 1, the element goes Usurpene.
 
 Explore each element in depth:
 
-- [Air — Distinction](/docs/elements/air/)
-- [Water — Resonance](/docs/elements/water/)
-- [Fire — Direction](/docs/elements/fire/)
-- [Wood — Growth](/docs/elements/wood/)
-- [Earth — Renewal](/docs/elements/earth/)
-- [Metal — Structure](/docs/elements/metal/)
-- [Aether — Integration](/docs/elements/aether/)
+- [σ (Air) — Distinction](/docs/elements/air/)
+- [ρ (Water) — Resonance](/docs/elements/water/)
+- [λ (Fire) — Direction](/docs/elements/fire/)
+- [β (Wood) — Growth](/docs/elements/wood/)
+- [δγ (Earth) — Renewal](/docs/elements/earth/)
+- [μ (Metal) — Structure](/docs/elements/metal/)
+- [∮ (Aether) — Integration](/docs/elements/aether/)

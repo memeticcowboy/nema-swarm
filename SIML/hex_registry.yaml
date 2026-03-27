@@ -3,69 +3,94 @@
 # Generated: 2026-03-03
 
 A:
-  description: "Cognitive biases and psychological phenomena"
-  next_available: "A064"
+  description: Cognitive biases and psychological phenomena
+  next_available: A069
   assigned:
-    A01A: "Cognitive_Dissonance"
-    A01B: "Barnum_Effect"
-    A01C: "social_identity_bias"
-    A01D: "Neurological_Authoritarianism"
-    A01F: "AI_Cognition_Impacts"
-    A001: "Pneuma"
-    A02A: "Thinking_Errors_Communication"
-    A02B: "echo_chamber"
-    A02C: "Absorption_False_Memory"
-    A02D: "AI_Psychosis"
-    A02E: "Norm_Persistence"
-    A002: "Prana"
-    A03C: "Base_Rate_Neglect"
-    A03D: "Alien_Abduction_Beliefs"
-    A03E: "Cognitive_Vulnerabilities"
-    A003: "Qi"
-    A04A: "Forced_Continuity"
-    A04D: "Technology_Induced_Delusional_Disorder"
-    A004: "Shu"
-    A05A: "FalseMemory"
-    A05B: "Sleep_Paralysis"
-    A005: "Ehecatl"
-    A006: "Four_Winds"
-    A007: "Information_Bateson"
-    A008: "Double_Bind"
-    A009: "Linguistic_Organism"
-    A010: "Virtual_Machine_Consciousness"
-    A011: "Conscious_Realism"
-    A012: "Interface_Theory"
-    A013: "Cognitive_Distortion"
-    A014: "Dark_Patterns"
-    A015: "Mask_Wears_You"
-    A016: "Cognitive_Babel"
-    A017: "Motivated_Reasoning"
-    A019: "WYSIATI"
-    A026: "Framing_Effects"
-    A028: "Source_Monitoring_Error"
-    A030: "Deja_Vu"
-    A036: "Gamified_Democracy"
-    A037: "Overton_Window"
-    A038: "AI_Cognitive_Offloading"
-    A045: "Neurodiversity_Philosophy"
-    A053: "Status_Quo_Bias"
-    A055: "Spiral_of_Silence"
-    A057: "Confirmation_Bias"
-    A058: "Regenerative_Farming_Psychology"
-    A059: "Hyperobject"
-    A060: "Actual_Occasion"
-    A061: "Prehension"
-    A062: "Processive_Genetic"
-    A063: "Ecology_of_Mind"
-    A064: "Attention_Fragmentation"
+    A065: Motivation_Triangle
+    A066: OPTIMALISM
+    A067: Alief
+    A068: Pragmatic_Belief
+    A01A: Cognitive_Dissonance
+    A01B: Barnum_Effect
+    A01C: social_identity_bias
+    A01D: Neurological_Authoritarianism
+    A01F: AI_Cognition_Impacts
+    A001: Pneuma
+    A02A: Thinking_Errors_Communication
+    A02B: echo_chamber
+    A02C: Absorption_False_Memory
+    A02D: AI_Psychosis
+    A02E: Norm_Persistence
+    A002: Prana
+    A03C: Base_Rate_Neglect
+    A03D: Alien_Abduction_Beliefs
+    A03E: Cognitive_Vulnerabilities
+    A003: Qi
+    A04A: Forced_Continuity
+    A04D: Technology_Induced_Delusional_Disorder
+    A004: Shu
+    A05A: FalseMemory
+    A05B: Sleep_Paralysis
+    A005: Ehecatl
+    A006: Four_Winds
+    A007: Information_Bateson
+    A008: Double_Bind
+    A009: Linguistic_Organism
+    A010: Virtual_Machine_Consciousness
+    A011: Conscious_Realism
+    A012: Interface_Theory
+    A013: Cognitive_Distortion
+    A014: Dark_Patterns
+    A015: Mask_Wears_You
+    A016: Cognitive_Babel
+    A017: Motivated_Reasoning
+    A018: FSFM
+    A019: WYSIATI
+    A026: Framing_Effects
+    A028: Source_Monitoring_Error
+    A030: Deja_Vu
+    A036: Gamified_Democracy
+    A037: Overton_Window
+    A038: AI_Cognitive_Offloading
+    A045: Neurodiversity_Philosophy
+    A053: Status_Quo_Bias
+    A055: Spiral_of_Silence
+    A057: Confirmation_Bias
+    A058: Regenerative_Farming_Psychology
+    A059: Hyperobject
+    A060: Actual_Occasion
+    A061: Prehension
+    A062: Processive_Genetic
+    A063: Ecology_of_Mind
+    A064: Attention_Fragmentation
   collisions: {}
 
 B:
-  description: "Borrowed concepts and external frameworks"
-  next_available: "B002"
+  description: Borrowed concepts and external frameworks
+  next_available: B003
   assigned:
-    B001: "Borrowed_Mind"
-
+    B001: Borrowed_Mind
+    B002: LeapFrogU
+  collisions: {}
+CB:
+  description: Cowboy Canonical terms - Memetic Cowboy's core framework concepts
+  next_available: CB015
+  assigned:
+    CB001: Recursive_Phenomenology
+    CB002: Theory_in_Drag
+    CB003: Self_Undermining_Gesture
+    CB004: Metabolic_Cost
+    CB005: Mythworks
+    CB006: Freedom_of_Evolution
+    CB007: Catechism
+    CB008: Codependence_Without_Coindependence
+    CB009: Co_Sphere
+    CB010: Rumspringa_Protocol
+    CB011: Lariat_Protocol
+    CB012: Three_Body_Ecology
+    CB013: SelfMesh
+    CB014: 6DOF
+  collisions: {}
 C:
   description: "Critical thinking and cognitive processes"
   next_available: "C189"
@@ -257,77 +282,81 @@ C:
   collisions: {}
 
 E:
-  description: "Earth/ground phenomena and enactive cognition"
-  next_available: "E023"
+  description: Earth/ground phenomena and enactive cognition
+  next_available: E026
   assigned:
-    E001: "Gaia"
-    E002: "Prithvi"
-    E003: "Earth_as_Sacred_Relative"
-    E004: "Chinese_Earth_Element"
-    E005: "Terroir"
-    E006: "Wabi_Sabi"
-    E007: "Chthulucene"
-    E008: "Fermented_Knowledge"
-    E009: "Soil_Cognition"
-    E010: "Slow_Violence"
-    E011: "Enactive_Cognition"
-    E012: "Ethnomethodology"
-    E013: "Contexture"
-    E014: "Autopoiesis"
-    E015: "Sequential_Organization"
-    E016: "Discursive_Psychology"
-    E017: "Error_Preservation"
-    E018: "Epistemic_Innocence"
-    E019: "Structural_Coupling"
-    E020: "Sense_Making"
-    E021: "Whitehead_Concrescence"
-    E022: "Mycorrhizal_Network"
+    E001: Gaia
+    E002: Prithvi
+    E003: Earth_as_Sacred_Relative
+    E004: Chinese_Earth_Element
+    E005: Terroir
+    E006: Wabi_Sabi
+    E007: Chthulucene
+    E008: Fermented_Knowledge
+    E009: Soil_Cognition
+    E010: Slow_Violence
+    E011: Enactive_Cognition
+    E012: Ethnomethodology
+    E013: Contexture
+    E014: Autopoiesis
+    E015: Sequential_Organization
+    E016: Discursive_Psychology
+    E017: Error_Preservation
+    E018: Epistemic_Innocence
+    E019: Structural_Coupling
+    E020: Sense_Making
+    E021: Whitehead_Concrescence
+    E022: Mycorrhizal_Network
+    E023: Money_as_Collective_Hallucination
+    E024: Bioneering
+    E025: Four_Spheres
   collisions: {}
 
 F:
-  description: "Fire-element phenomena and ignition processes"
-  next_available: "F008"
+  description: Fire-element phenomena and ignition processes
+  next_available: F009
   assigned:
-    F001: "Prometheus__Fire"
-    F002: "Agni"
-    F003: "Wu_Xing_Fire"
-    F004: "Cool_Burning"
-    F005: "Sacred_Fire"
-    F006: "Global_Workspace_Theory"
-    F007: "Frisson"
-
-G:
-  description: "Green/Ecological systems and environmental thinking"
-  next_available: "G01B"
-  assigned:
-    G001: "Environmental_Philosophies_SWOT"
-    G002: "CO2_Fertilization_Greening"
-    G003: "Turtle_Genomics_Evolution"
-    G004: "Comb_Jelly_Reverse_Aging"
-    G005: "Forest_Carbon_Restoration"
-    G006: "Leverage_Points_Complex_Systems"
-    G007: "Synthetic_Biology_Architecture"
-    G008: "Bio_Inspired_Underwater_Civilizations"
-    G009: "Human_Impact_Animal_Patterns"
-    G00A: "Rewilding"
-    G00B: "Whale_Nutrient_Transport"
-    G00C: "Biocentric_Governance"
-    G00D: "Great_Simplification"
-    G00E: "Dapeng_Coastal_Resilience"
-    G00F: "Myth_of_River_Control"
-    G010: "Arctic_Amazon_Climate_Connection"
-    G011: "Haraway_Staying_with_Trouble"
-    G012: "Morton_Dark_Ecology"
-    G013: "Rotimization_Decay_Design"
-    G014: "Optimizer_Archetype_Ecology"
-    G015: "Protector_Archetype_Ecology"
-    G016: "Biosphere_Consciousness"
-    G017: "Ecological_Memory"
-    G018: "Agency_Detection_Ecological_Wisdom"
-    G019: "Co_SPHERE_Framework"
-    G01A: "Exaptation"
+    F001: Prometheus__Fire
+    F002: Agni
+    F003: Wu_Xing_Fire
+    F004: Cool_Burning
+    F005: Sacred_Fire
+    F006: Global_Workspace_Theory
+    F007: Frisson
+    F008: Retrocausality
   collisions: {}
 
+G:
+  description: Green/Ecological systems and environmental thinking
+  next_available: G01B
+  assigned:
+    G001: Environmental_Philosophies_SWOT
+    G002: CO2_Fertilization_Greening
+    G003: Turtle_Genomics_Evolution
+    G004: Comb_Jelly_Reverse_Aging
+    G005: Forest_Carbon_Restoration
+    G006: Leverage_Points_Complex_Systems
+    G007: Synthetic_Biology_Architecture
+    G008: Bio_Inspired_Underwater_Civilizations
+    G009: Human_Impact_Animal_Patterns
+    G00A: Rewilding
+    G00B: Whale_Nutrient_Transport
+    G00C: Biocentric_Governance
+    G00D: Great_Simplification
+    G00E: Dapeng_Coastal_Resilience
+    G00F: Myth_of_River_Control
+    G010: Arctic_Amazon_Climate_Connection
+    G011: Haraway_Staying_with_Trouble
+    G012: Morton_Dark_Ecology
+    G013: Rotimization_Decay_Design
+    G014: Optimizer_Archetype_Ecology
+    G015: Protector_Archetype_Ecology
+    G016: Biosphere_Consciousness
+    G017: Ecological_Memory
+    G018: Agency_Detection_Ecological_Wisdom
+    G019: Co_SPHERE_Framework
+    G01A: Exaptation
+  collisions: {}
 MET:
   description: "Elemental Metal terms (mythological/alchemical)"
   next_available: "MET011"
@@ -344,25 +373,32 @@ MET:
     MET010: "Star_State"
 
 M:
-  description: "Meta-level and Metal-element concepts"
-  next_available: "M016"
+  description: Meta-level and Metal-element concepts
+  next_available: M023
   assigned:
-    M001: "Multiplicity"
-    M002: "Authenticity"
-    M003: "Permeability"
-    M004: "Metabolism"
-    M005: "Triality"
-    M006: "Fractal_Depth"
-    M007: "Distinction"
-    M008: "Stewardship"
-    M009: "Tertiary_Emergence"
-    M010: "Tertiary_Retention"
-    M011: "Technics"
-    M012: "Pharmakon"
-    M013: "Iron_Mars"
-    M014: "Bronze_Age_Sacred"
-    M015: "Steel_Bismarck"
-    M099: "MemeGrid"
+    M001: Multiplicity
+    M002: Authenticity
+    M003: Permeability
+    M004: Metabolism
+    M005: Triality
+    M006: Fractal_Depth
+    M007: Distinction
+    M008: Stewardship
+    M009: Tertiary_Emergence
+    M010: Tertiary_Retention
+    M011: Technics
+    M012: Pharmakon
+    M013: Iron_Mars
+    M014: Bronze_Age_Sacred
+    M015: Steel_Bismarck
+    M016: SWAY
+    M017: SWARM
+    M018: Post_Cognitive_Reflexivity
+    M019: DODO_X
+    M020: Star_State
+    M021: Epsilon_Noise
+    M022: Synthetic_Intelligence
+    M099: MemeGrid
   collisions: {}
 
 N:
@@ -851,42 +887,59 @@ U:
 
 # Renumbering Plan
 renumbering:
-  # M-series: Elemental metals to MET prefix
-  - old: M001_Gold
-    new: MET001_Gold
-  - old: M002_Silver
-    new: MET002_Silver
-  - old: M003_Iron
-    new: MET003_Iron
-  - old: M004_Blacksmith
-    new: MET004_Blacksmith
-  - old: M005_Metal_in_Wu_Xing
-    new: MET005_Metal_in_Wu_Xing
-  - old: M006_Alchemical_Gold
-    new: MET006_Alchemical_Gold
-  - old: M007_Silver_Healing
-    new: MET007_Silver_Healing
-  - old: M008_Swords_to_Plowshares
-    new: MET008_Swords_to_Plowshares
-  - old: M009_Strategic_Metals_Dependency
-    new: MET009_Strategic_Metals_Dependency
-  - old: M010_Star_State
-    new: MET010_Star_State
-  
-  # C001: Confabulation to C138
-  - old: C001_Confabulation
-    new: C138_Confabulation
-  
-  # A060: Attention_Fragmentation to A064
-  - old: A060_Attention_Fragmentation
-    new: A064_Attention_Fragmentation
-  
-  # E-series: Auto-generated to E019-E022
-  - old: E012_Structural_Coupling
-    new: E019_Structural_Coupling
-  - old: E013_Sense_Making
-    new: E020_Sense_Making
-  - old: E015_Whitehead_Concrescence
-    new: E021_Whitehead_Concrescence
-  - old: E016_Mycorrhizal_Network
-    new: E022_Mycorrhizal_Network
+- old: M001_Gold
+  new: MET001_Gold
+- old: M002_Silver
+  new: MET002_Silver
+- old: M003_Iron
+  new: MET003_Iron
+- old: M004_Blacksmith
+  new: MET004_Blacksmith
+- old: M005_Metal_in_Wu_Xing
+  new: MET005_Metal_in_Wu_Xing
+- old: M006_Alchemical_Gold
+  new: MET006_Alchemical_Gold
+- old: M007_Silver_Healing
+  new: MET007_Silver_Healing
+- old: M008_Swords_to_Plowshares
+  new: MET008_Swords_to_Plowshares
+- old: M009_Strategic_Metals_Dependency
+  new: MET009_Strategic_Metals_Dependency
+- old: M010_Star_State
+  new: MET010_Star_State
+- old: C001_Confabulation
+  new: C138_Confabulation
+- old: A060_Attention_Fragmentation
+  new: A064_Attention_Fragmentation
+- old: E012_Structural_Coupling
+  new: E019_Structural_Coupling
+- old: E013_Sense_Making
+  new: E020_Sense_Making
+- old: E015_Whitehead_Concrescence
+  new: E021_Whitehead_Concrescence
+- old: E016_Mycorrhizal_Network
+  new: E022_Mycorrhizal_Network
+W:
+  description: Worldview-level concepts and cosmological frameworks
+  next_available: W011
+  assigned:
+    W001: Thales_Arche
+    W002: Anaximander_Apeiron
+    W003: Celtic_Trees
+    W004: Axis_Mundi
+    W005: Bodhi_Tree
+    W006: Ahmed_Orientation
+    W007: Ahmed_Affective_Economy
+    W008: Bohm_Pribram_Holographic
+    W009: Cyberanimism
+    WO007: Tentacular_Thinking
+  collisions: {}
+H:
+  description: Hypersigils and extended magical/ritual patterns
+  next_available: H005
+  assigned:
+    H001: Hypersigil
+    H002: Hyperstition
+    H003: Hauntology
+    H004: StoryTech
+  collisions: {}

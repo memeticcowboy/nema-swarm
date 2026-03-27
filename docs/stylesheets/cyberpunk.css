@@ -1,0 +1,736 @@
+/* ============================================================
+   NEMA SWARM — 80s Retro Cyberpunk Theme
+   Dark backgrounds, neon accents, legible body text
+   ============================================================ */
+
+/* --- Import retro display font for headers --- */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;900&family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Share+Tech+Mono&display=swap');
+
+/* ============================================================
+   ROOT VARIABLES — Element Color System
+   ============================================================ */
+:root {
+  /* --- Background Layers --- */
+  --bg-void: #0a0a0f;
+  --bg-primary: #0d0d14;
+  --bg-surface: #12121c;
+  --bg-elevated: #1a1a2e;
+  --bg-card: #16162466;
+
+  /* --- Body Text --- */
+  --text-primary: #d0d0d8;
+  --text-secondary: #9898a8;
+  --text-muted: #606078;
+
+  /* --- Element Colors --- */
+  --aether-primary: #e040fb;
+  --aether-secondary: #b388ff;
+  --aether-glow: #e040fb66;
+  --aether-bg: #e040fb0d;
+
+  --air-primary: #e8e8f0;
+  --air-secondary: #b8b8d0;
+  --air-glow: #e8e8f066;
+  --air-bg: #e8e8f00d;
+
+  --water-primary: #40c4ff;
+  --water-secondary: #80d8ff;
+  --water-glow: #40c4ff66;
+  --water-bg: #40c4ff0d;
+
+  --fire-primary: #ff9100;
+  --fire-secondary: #ffab40;
+  --fire-glow: #ff910066;
+  --fire-bg: #ff91000d;
+
+  --wood-primary: #69f0ae;
+  --wood-secondary: #b9f6ca;
+  --wood-glow: #69f0ae66;
+  --wood-bg: #69f0ae0d;
+
+  --earth-primary: #ffd740;
+  --earth-secondary: #ffe57f;
+  --earth-glow: #ffd74066;
+  --earth-bg: #ffd7400d;
+
+  --metal-primary: #b0bec5;
+  --metal-secondary: #cfd8dc;
+  --metal-glow: #b0bec566;
+  --metal-bg: #b0bec50d;
+
+  /* --- Neon Accent (default = aether) --- */
+  --neon-primary: var(--aether-primary);
+  --neon-secondary: var(--aether-secondary);
+  --neon-glow: var(--aether-glow);
+
+  /* --- Scanline / CRT effect --- */
+  --scanline-opacity: 0.03;
+
+  /* --- Grid lines --- */
+  --grid-color: #ffffff08;
+}
+
+/* ============================================================
+   BASE OVERRIDES — Material Theme Dark
+   ============================================================ */
+
+/* Force dark background everywhere */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--bg-primary);
+  --md-default-fg-color: var(--text-primary);
+  --md-default-fg-color--light: var(--text-secondary);
+  --md-default-fg-color--lighter: var(--text-muted);
+  --md-primary-fg-color: var(--bg-elevated);
+  --md-primary-bg-color: var(--neon-primary);
+  --md-accent-fg-color: var(--neon-primary);
+  --md-typeset-color: var(--text-primary);
+  --md-typeset-a-color: var(--neon-primary);
+  --md-code-bg-color: var(--bg-void);
+  --md-code-fg-color: var(--text-primary);
+  --md-footer-bg-color: var(--bg-void);
+  --md-footer-fg-color: var(--text-secondary);
+}
+
+body {
+  background: var(--bg-void) !important;
+}
+
+/* ============================================================
+   CRT SCANLINE OVERLAY
+   ============================================================ */
+.md-content::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, var(--scanline-opacity)) 2px,
+    rgba(0, 0, 0, var(--scanline-opacity)) 4px
+  );
+}
+
+/* ============================================================
+   HEADER / NAVIGATION BAR
+   ============================================================ */
+.md-header {
+  background: var(--bg-void) !important;
+  border-bottom: 1px solid var(--neon-primary);
+  box-shadow: 0 0 20px var(--neon-glow), 0 1px 0 var(--neon-primary);
+}
+
+.md-header__title {
+  font-family: 'Orbitron', monospace !important;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--neon-primary) !important;
+  text-shadow: 0 0 10px var(--neon-glow);
+}
+
+.md-tabs {
+  background: var(--bg-void) !important;
+  border-bottom: 1px solid #ffffff10;
+}
+
+.md-tabs__link {
+  font-family: 'Orbitron', monospace !important;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  opacity: 1;
+  text-shadow: 0 0 8px var(--neon-glow);
+}
+
+/* ============================================================
+   SIDEBAR NAVIGATION
+   ============================================================ */
+.md-sidebar {
+  background: var(--bg-void) !important;
+}
+
+.md-nav__link {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8rem;
+  color: var(--text-secondary) !important;
+  transition: all 0.2s ease;
+}
+
+.md-nav__link:hover {
+  color: var(--neon-primary) !important;
+  text-shadow: 0 0 6px var(--neon-glow);
+}
+
+.md-nav__link--active {
+  color: var(--neon-primary) !important;
+  font-weight: 600;
+}
+
+.md-nav__item--nested > .md-nav__link {
+  font-family: 'Orbitron', monospace !important;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ============================================================
+   TYPOGRAPHY — Body
+   ============================================================ */
+.md-typeset {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.82rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+}
+
+/* ============================================================
+   TYPOGRAPHY — Headers (Cyberpunk Orbitron)
+   ============================================================ */
+.md-typeset h1 {
+  font-family: 'Orbitron', monospace !important;
+  font-weight: 900;
+  font-size: 2.2rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--neon-primary);
+  text-shadow: 0 0 20px var(--neon-glow), 0 0 40px var(--neon-glow);
+  border-bottom: 2px solid var(--neon-primary);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset h2 {
+  font-family: 'Orbitron', monospace !important;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--neon-secondary);
+  text-shadow: 0 0 10px var(--neon-glow);
+  border-bottom: 1px solid var(--neon-glow);
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+.md-typeset h3 {
+  font-family: 'Orbitron', monospace !important;
+  font-weight: 600;
+  font-size: 1.15rem;
+  letter-spacing: 0.04em;
+  color: var(--neon-primary);
+  opacity: 0.9;
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: 'Orbitron', monospace !important;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--text-primary);
+}
+
+/* ============================================================
+   LINKS
+   ============================================================ */
+.md-typeset a {
+  color: var(--neon-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.md-typeset a:hover {
+  text-shadow: 0 0 8px var(--neon-glow);
+  border-bottom-color: var(--neon-primary);
+}
+
+/* ============================================================
+   CODE BLOCKS — Retro Terminal Style
+   ============================================================ */
+.md-typeset code {
+  background: var(--bg-void);
+  border: 1px solid #ffffff15;
+  color: var(--neon-primary);
+  font-family: 'Share Tech Mono', 'IBM Plex Mono', monospace;
+  font-size: 0.85em;
+  padding: 0.1em 0.4em;
+  border-radius: 2px;
+}
+
+.md-typeset pre {
+  background: var(--bg-void) !important;
+  border: 1px solid var(--neon-glow);
+  border-radius: 4px;
+  box-shadow: 0 0 15px #00000080, inset 0 0 30px #00000040;
+  position: relative;
+}
+
+.md-typeset pre::before {
+  content: ">";
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  color: var(--neon-primary);
+  opacity: 0.4;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.md-typeset pre > code {
+  border: none;
+  background: transparent !important;
+  color: var(--text-primary);
+  font-size: 0.82em;
+}
+
+/* ============================================================
+   TABLES — Grid Style
+   ============================================================ */
+.md-typeset table:not([class]) {
+  background: var(--bg-card);
+  border: 1px solid var(--neon-glow);
+  border-radius: 4px;
+  box-shadow: 0 0 10px #00000040;
+}
+
+.md-typeset table:not([class]) thead {
+  background: var(--bg-elevated);
+  border-bottom: 2px solid var(--neon-primary);
+}
+
+.md-typeset table:not([class]) th {
+  font-family: 'Orbitron', monospace !important;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--neon-primary);
+  padding: 0.8rem 1rem;
+}
+
+.md-typeset table:not([class]) td {
+  border-color: #ffffff08;
+  padding: 0.6rem 1rem;
+  color: var(--text-primary);
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: var(--bg-elevated);
+}
+
+/* ============================================================
+   ADMONITIONS — Neon-bordered
+   ============================================================ */
+.md-typeset .admonition,
+.md-typeset details {
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--neon-glow) !important;
+  border-left: 4px solid var(--neon-primary) !important;
+  box-shadow: 0 0 10px #00000040;
+  border-radius: 4px;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: 'Orbitron', monospace !important;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--bg-elevated) !important;
+  border-bottom: 1px solid #ffffff10;
+}
+
+/* ============================================================
+   BLOCKQUOTES
+   ============================================================ */
+.md-typeset blockquote {
+  border-left: 3px solid var(--neon-primary);
+  background: var(--bg-card);
+  padding: 1rem 1.5rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* ============================================================
+   IMAGES — Responsive with neon border
+   ============================================================ */
+.md-typeset img {
+  border: 1px solid var(--neon-glow);
+  border-radius: 4px;
+  box-shadow: 0 0 20px #00000060, 0 0 6px var(--neon-glow);
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.md-typeset img:hover {
+  box-shadow: 0 0 30px #00000060, 0 0 12px var(--neon-glow);
+}
+
+/* ============================================================
+   HORIZONTAL RULES — Neon line
+   ============================================================ */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--neon-primary), transparent);
+  box-shadow: 0 0 8px var(--neon-glow);
+  margin: 2rem 0;
+}
+
+/* ============================================================
+   SEARCH
+   ============================================================ */
+.md-search__input {
+  background: var(--bg-void) !important;
+  border: 1px solid var(--neon-glow) !important;
+  color: var(--text-primary) !important;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.md-footer {
+  background: var(--bg-void) !important;
+  border-top: 1px solid var(--neon-glow);
+}
+
+/* ============================================================
+   ELEMENT-SPECIFIC PAGE THEMES
+   Each element page sets a data-element attribute on body
+   ============================================================ */
+
+/* --- AETHER (Pink/Purple) --- */
+.element-aether {
+  --neon-primary: var(--aether-primary);
+  --neon-secondary: var(--aether-secondary);
+  --neon-glow: var(--aether-glow);
+}
+
+/* --- AIR (White) --- */
+.element-air {
+  --neon-primary: var(--air-primary);
+  --neon-secondary: var(--air-secondary);
+  --neon-glow: var(--air-glow);
+}
+
+/* --- WATER (Light Blue) --- */
+.element-water {
+  --neon-primary: var(--water-primary);
+  --neon-secondary: var(--water-secondary);
+  --neon-glow: var(--water-glow);
+}
+
+/* --- FIRE (Light/Bright Orange) --- */
+.element-fire {
+  --neon-primary: var(--fire-primary);
+  --neon-secondary: var(--fire-secondary);
+  --neon-glow: var(--fire-glow);
+}
+
+/* --- WOOD (Light Green) --- */
+.element-wood {
+  --neon-primary: var(--wood-primary);
+  --neon-secondary: var(--wood-secondary);
+  --neon-glow: var(--wood-glow);
+}
+
+/* --- EARTH (Earthy Yellow) --- */
+.element-earth {
+  --neon-primary: var(--earth-primary);
+  --neon-secondary: var(--earth-secondary);
+  --neon-glow: var(--earth-glow);
+}
+
+/* --- METAL (Grey) --- */
+.element-metal {
+  --neon-primary: var(--metal-primary);
+  --neon-secondary: var(--metal-secondary);
+  --neon-glow: var(--metal-glow);
+}
+
+/* ============================================================
+   SIML DATABASE — 80s Terminal Theme
+   Green text on black, pink code elements
+   ============================================================ */
+.siml-terminal {
+  --neon-primary: #39ff14;
+  --neon-secondary: #76ff7a;
+  --neon-glow: #39ff1466;
+  --text-primary: #39ff14;
+  --text-secondary: #2db811;
+  --siml-pink: #ff6ec7;
+  --siml-pink-glow: #ff6ec766;
+}
+
+.siml-terminal .md-typeset {
+  color: #39ff14;
+}
+
+.siml-terminal .md-typeset h1,
+.siml-terminal .md-typeset h2,
+.siml-terminal .md-typeset h3 {
+  color: #39ff14;
+  text-shadow: 0 0 20px #39ff1466, 0 0 40px #39ff1433;
+  border-bottom-color: #39ff1466;
+}
+
+.siml-terminal .md-typeset code {
+  color: #ff6ec7;
+  border-color: #ff6ec733;
+  text-shadow: 0 0 4px #ff6ec744;
+}
+
+.siml-terminal .md-typeset pre {
+  border-color: #39ff1444;
+  background: #000a00 !important;
+  box-shadow: 0 0 15px #00000080, inset 0 0 30px #001a0020;
+}
+
+.siml-terminal .md-typeset pre > code {
+  color: #39ff14;
+  text-shadow: 0 0 2px #39ff1433;
+}
+
+.siml-terminal .md-typeset pre::before {
+  color: #39ff14;
+}
+
+.siml-terminal .md-typeset a {
+  color: #ff6ec7;
+}
+
+.siml-terminal .md-typeset a:hover {
+  text-shadow: 0 0 8px #ff6ec766;
+}
+
+.siml-terminal .md-typeset table:not([class]) thead {
+  border-bottom-color: #39ff14;
+}
+
+.siml-terminal .md-typeset table:not([class]) th {
+  color: #ff6ec7;
+}
+
+.siml-terminal .md-typeset table:not([class]) td {
+  color: #39ff14;
+}
+
+.siml-terminal .md-typeset table:not([class]) {
+  border-color: #39ff1444;
+}
+
+.siml-terminal .md-typeset blockquote {
+  border-left-color: #ff6ec7;
+  color: #76ff7a;
+}
+
+.siml-terminal .md-typeset strong {
+  color: #ff6ec7;
+}
+
+.siml-terminal .md-typeset .admonition,
+.siml-terminal .md-typeset details {
+  border-color: #39ff1444 !important;
+  border-left-color: #39ff14 !important;
+}
+
+/* Blinking cursor effect for SIML headers */
+.siml-terminal .md-typeset h1::after {
+  content: "_";
+  animation: blink 1s step-end infinite;
+  color: #39ff14;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Terminal prompt for SIML paragraphs */
+.siml-terminal .md-typeset > p::before {
+  content: "$ ";
+  color: #39ff1466;
+  font-weight: bold;
+}
+
+/* ============================================================
+   ELEMENT CARDS — Homepage grid
+   ============================================================ */
+.element-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.element-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--card-color, var(--neon-glow));
+  border-radius: 6px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  text-decoration: none !important;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.element-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--card-color, var(--neon-primary));
+  box-shadow: 0 0 10px var(--card-color, var(--neon-glow));
+}
+
+.element-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px #00000060, 0 0 15px var(--card-color, var(--neon-glow));
+  border-color: var(--card-color, var(--neon-primary));
+}
+
+.element-card .glyph {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  display: block;
+  text-shadow: 0 0 15px var(--card-color, var(--neon-glow));
+}
+
+.element-card .card-title {
+  font-family: 'Orbitron', monospace;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--card-color, var(--neon-primary));
+  margin-bottom: 0.3rem;
+}
+
+.element-card .card-subtitle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.8rem;
+}
+
+.element-card .card-desc {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Card color variants */
+.element-card.aether { --card-color: var(--aether-primary); }
+.element-card.air { --card-color: var(--air-primary); }
+.element-card.water { --card-color: var(--water-primary); }
+.element-card.fire { --card-color: var(--fire-primary); }
+.element-card.wood { --card-color: var(--wood-primary); }
+.element-card.earth { --card-color: var(--earth-primary); }
+.element-card.metal { --card-color: var(--metal-primary); }
+
+/* ============================================================
+   GLYPH DISPLAY — Large centered element glyphs
+   ============================================================ */
+.glyph-hero {
+  text-align: center;
+  font-size: 5rem;
+  margin: 2rem 0 1rem;
+  text-shadow: 0 0 30px var(--neon-glow), 0 0 60px var(--neon-glow);
+  line-height: 1;
+}
+
+/* ============================================================
+   NEON BADGE / TAG
+   ============================================================ */
+.neon-badge {
+  display: inline-block;
+  font-family: 'Orbitron', monospace;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.2em 0.8em;
+  border: 1px solid var(--neon-primary);
+  border-radius: 2px;
+  color: var(--neon-primary);
+  text-shadow: 0 0 6px var(--neon-glow);
+  box-shadow: 0 0 6px var(--neon-glow);
+}
+
+/* ============================================================
+   STATUS INDICATORS
+   ============================================================ */
+.status-lumeme {
+  color: var(--wood-primary);
+  text-shadow: 0 0 6px var(--wood-glow);
+}
+
+.status-usurpene {
+  color: var(--fire-primary);
+  text-shadow: 0 0 6px var(--fire-glow);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+  .md-typeset h1 {
+    font-size: 1.5rem;
+    letter-spacing: 0.04em;
+  }
+  .md-typeset h2 {
+    font-size: 1.2rem;
+  }
+  .element-grid {
+    grid-template-columns: 1fr;
+  }
+  .glyph-hero {
+    font-size: 3.5rem;
+  }
+}
+
+/* ============================================================
+   SCROLLBAR — Cyberpunk style
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-void);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-elevated);
+  border: 1px solid var(--neon-glow);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--neon-primary);
+}
+
+/* ============================================================
+   PRINT OVERRIDES
+   ============================================================ */
+@media print {
+  .md-content::before { display: none; }
+  * { text-shadow: none !important; box-shadow: none !important; }
+}

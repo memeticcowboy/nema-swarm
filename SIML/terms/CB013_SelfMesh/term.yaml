@@ -1,0 +1,52 @@
+hex: CB013
+term: SelfMesh
+category: Framework
+family: Cowboy_Canonical
+status: active
+created: 2026-03-19
+author: Bert, the Memetic Cowboy
+
+etymology: >
+  Portmanteau of "Self" (the perceiver as control surface) and "Mesh" 
+  (the toroidal coordinate system defining 6DOF attitude). The term 
+  operationalizes the I-Tube/My-Stream interface as a steerable object 
+  within the Threadplex—valve geometry regulating NEMA flow.
+
+definition: >
+  The 6DOF attitude of the perceiver as valve geometry regulating NEMA 
+  flow through the bow-tie bottleneck. SelfMesh does not replace the NEMA 
+  habitat ecology—it operationalizes the I-Tube/My-Stream interface as a 
+  steerable object. Where Φ(t) describes field descent across the dimensional 
+  stack, SelfMesh describes how the subject-vehicle is oriented to receive it 
+  (the aerodynamics of attention). The six degrees of freedom manifest 
+  elemental biases as control weightings on coupling geometry: X (λ/Fire), 
+  Y (ρ/Water), Z (δγ/Earth), Yaw (σ/Air), Pitch (λ↔️δγ), Roll (μ/Metal).
+
+elemental_signature:
+  Meta: 0.90
+  Air: 0.75
+  Water: 0.70
+  Fire: 0.65
+  Metal: 0.60
+  Earth: 0.55
+  Wood: 0.50
+
+aliases:
+  - poseable coordinate system
+  - valve geometry
+  - control surface
+  - perceiver attitude
+  - I-Tube interface
+
+see_also:
+  - 6dof
+  - bow-tie
+  - i-tube
+  - my-stream
+  - nema
+  - selfplex
+  - installation-vector
+
+cross_references:
+  - papers/selfmesh_v1.1_nematic_integration.md
+  - knowledge/cybernetics_information_theory.md

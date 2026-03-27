@@ -1,40 +1,54 @@
-term_id: WO007
-name: Tentacular_Thinking
-element: Wood
-phonetic_key: ⛨/γ
-description: Thought modeled on tentacles, mycelia, roots—partial, lateral, entangled
-  connection rather than panoramic survey
-nemetic_string: Φ(Tentacular_Thinking) = β(lateral-exploration|reaching-grasping)
-  ∘ ρ(entangled-resonance|tangling-sensing) ∘ γ(string-figure-cycling|passing-dropping-picking-up)
-  ∘ σ(partial-distinction|never-total) + ε | :open
-operators:
-  primary: β
-  secondary:
-  - ρ
-  - γ
-  - σ
-  absent:
-  - λ
-  - μ
-  - δ
-z_state: :open
-tendency: Exploration/Resonance → 1
-habitat_affinity: 5_THINKING / 6_REFLEXIVE-STATES
-daemon_correspondence: β (exploration) primary, W (witness) secondary
-opposition: God trick—seeing everything from nowhere, neutral total overview
-haraway_figure: Tentacles, mycelia, roots, string games—life lived along lines, not
-  at points, not in spheres
-tentacle_functions: Reach, grasp, sense, tangle; weave string figures, passing patterns
-  hand to hand
-method: Stay inside mesh, feeling pulls, following threads—not rising above into abstract
-  overview
-nematic_operation: Patterning by following and re-tensioning lines, not imposing single
-  clean vantage
-key_insight: Thought as tentacular—partial, situated, always entangled, never overview
-_source_meta:
-  version: SIML v1.2.1
-  encoding_date: '2026-02-25T05:45:00+08:00'
-  encoder: Kimi Claw
-  source_material: Donna Haraway—tentacular thinking, sympoiesis, Chthulucene, refusal
-    of god trick, staying with the trouble
-  total_terms: 3
+---
+# SIML L0 Full Artifact — Tentacular Thinking (WO007)
+# Source: Donna Haraway, "Staying with the Trouble" (Chapter 2)
+# Encoded: 2026-03-16
+# Element: Wood — with Water resonance
+
+meta:
+  version: "SIML v1.2.1"
+  encoding_date: "2026-03-16T12:00:00+08:00"
+  encoder: "Bert (The Memetic Cowboy)"
+  source_material: "Donna Haraway—Tentacular Thinking, Staying with the Trouble"
+  total_terms: 1
+
+terms:
+  - term_id: "WO007"
+    name: "Tentacular_Thinking"
+    element: "Wood"
+    phonetic_key: "✶/βρ-γ-σ"
+    description: "Cognition as lateral, entangled, multispecies exploration—thinking as tentacular reaching, grasping, and tangling"
+    nemetic_string: "Φ(Tentacular_Thinking) = β(lateral-exploration|reaching-grasping) ∘ ρ(entangled-resonance|tangling-sensing) ∘ γ(string-figure-cycling|drop-pick-up) ∘ σ(partial-distinction|never-total) + ε | :mesh"
+    operators:
+      primary: "β"
+      secondary: ["ρ", "γ", "σ"]
+      absent: ["λ", "μ", "δ"]
+    z_state: ":mesh"
+    tendency: "Exploration/Resonance/Cycling/Distinction → 0"
+    habitat_affinity: "5_THINKING / 7_CULTURAL"
+    daemon_correspondence: "A (arboriel) primary, U (undine) secondary, H (humavita), Aerunik supporting"
+    operator_pattern: "β-ρ-γ-σ (explore → resonate → cycle → distinguish → repeat)"
+    daemon_expression:
+      beta_dominant: "Lateral exploration, reaching-grasping—sideways outreach without predetermined goals"
+      rho_resonating: "Entangled resonance, tangling-sensing—feeling through vibrations in the mesh"
+      gamma_cycling: "String-figure passing, dropping-picking-up—rhythmic attachment and detachment"
+      sigma_distinguishing: "Partial, never-total—discernment without claiming god trick"
+    variant_type: "β-Primary with ρ-Entanglement"
+    key_tension: "Staying inside mesh vs rising above—refusal of god trick (view from nowhere)"
+    diagnostic: "Does β-exploration attune to tensions or escape into abstraction?"
+    sympoiesis: "Making-with others, not self-contained systems—multispecies entanglement"
+    chthulucene_connection: "Earthly, abyssal, tentacular ways of knowing—staying with the trouble"
+    god_trick_refusal: "Rejects transcendent omniscience for immanent partial perspective"
+    nemetic_reading: "The mesh daemon resists bow-tie compression—no clean funnel, just ongoing string-figure passing"
+    related_concepts: ["WO008_Chthulucene", "META003_Cthulucene_Nemetic_Ecology", "Ω-Permeability", "Sympoiesis"]
+    key_insight: "Thinking is not head-trip—it's reach into mesh, feel for tangle, pass of pattern"
+
+cross_elemental_synthesis:
+  tentacular_arboriel_bridge: "Tentacular Thinking (WO007) + Arboriel (β-primary) = exploration with entanglement vs exploration with growth"
+  tentacular_chthulucene_bridge: "WO007 + WO008 = the method and the epoch—tentacular cognition for the Chthulucene age"
+  tentacular_memetics_contrast: "Memetics wants view from above (compression/expansion); Tentacular Thinking stays in the mesh (no closure)"
+  mesh_daemon_i-tube: "The Mesh Daemon operates in i-tube as tangle—self-model as web, not line"
+  meta_integration: "Tentacular Thinking gives Nemetics its lateral, immanent wing—cognition as embodied, situated, partial"
+
+meta_insight: "The Mesh Daemon offers knowing that doesn't need to arrive—forever incomplete, forever in relation, refusing the god trick even when it feels safe"
+
+---

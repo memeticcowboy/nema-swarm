@@ -1,4 +1,4 @@
-# Wood (𐂷) — Elemental Documentation
+# Wood (β) — Elemental Documentation
 
 ## Overview
 
@@ -6,9 +6,17 @@ Wood is exploratory branching — the capacity to grow into novelty, generate ne
 
 Without Wood, experience would be repetitive constraint. With Wood, the world gains creativity, emergence, organic growth.
 
-## The Branching Glyph
+## The β Operator
 
-The glyph 𐂷 (branching tree form) represents:
+Wood corresponds to **β (beta)** — branching ratio in particle physics (the probability of decay into a specific channel versus all possible channels), β-diversity in ecology (the novelty that emerges across niches), β-coefficients in regression (how each predictor contributes to outcome), and β-reduction in lambda calculus (the operation of making potential actual). Wood's function is novel form generation; β quantifies how a system distributes across possibility-space.
+
+$$\text{Constraint} \times \text{Curiosity} \to 1$$
+
+The partial derivative ∂Φ/∂β asks: "How is the field shifting in its possibility-space?"
+
+## The Branching Glyph (Character Glyph)
+
+The character glyph **𐂷** (branching tree form) represents β in the daemon layer:
 
 - The tree growing outward and upward
 - Multiple branches from single trunk
@@ -248,7 +256,7 @@ Wood rarely operates alone:
 
 ## Arboriel, the Wood Daemon
 
-Arboriel is the personality of the exploratory process.
+Arboriel is the personality of the exploratory process — the character-layer interface (𐂷) through which β becomes experiential.
 
 **Qualities:**
 
@@ -368,7 +376,7 @@ You can't plan emergence—you can only create conditions for it and follow what
 
 **Remember:** You are not creating growth. Growth is happening through you.
 
-Wood is a process, not a possession.
+β is a process, not a possession.
 
 *The branch reaches.*  
 *The form emerges.*  
