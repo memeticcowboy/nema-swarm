@@ -25,3 +25,20 @@ The framework also addresses a fundamental epistemological challenge: single pie
 
 ## Source Context
 Derived from source material on understanding belief systems through metamodel analysis, focusing on Mind-Reading, Cause and Effect, and Universal Quantifier patterns. Emphasizes questioning techniques for surfacing assumptions and resolving conflicting beliefs. Part of the Sensemaking & Epistemics S-series within the SIML encoding project.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

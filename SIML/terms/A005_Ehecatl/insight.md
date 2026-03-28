@@ -112,3 +112,20 @@ Ehecatl reveals Air as change-agent and messenger — wind that brings rain for 
 - **File to:** SIML/terms/A005_Ehecatl/
 - **Cross-reference:** A004_Shu (parallel cosmogonic Air), A006_Four_Winds (directional wind), E003_Earth_as_Sacred_Relative (agricultural grounding), A015_Mask_Wears_You (mask/identity theory)
 - **Open Question:** Does the conch-shell symbol (spiral breath) encode a fractal model of Air where internal breathing mirrors atmospheric wind patterns — and does this create a bridge between somatic and cosmological Air traditions?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

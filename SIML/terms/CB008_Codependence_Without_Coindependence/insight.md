@@ -118,3 +118,20 @@ That's the line.
 - **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html)** (M016) — Detection of implicit pattern alignment
 - **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)** (M019) — Pathology of capture and lock-in
 - **[Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** (A067) — The automatic patterns that drive codependent behavior
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

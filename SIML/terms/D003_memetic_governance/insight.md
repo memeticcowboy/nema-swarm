@@ -187,3 +187,20 @@ AI-assisted dashboards monitoring memetic flows — flagging distortions, amplif
 ---
 
 *ε preserved: This insight encodes a political-theoretical pattern about symbolic power. The pattern is real; the encoding is a map. The future of democratic legitimacy may hinge not on who writes the laws — but on who crafts the metaphors.*
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

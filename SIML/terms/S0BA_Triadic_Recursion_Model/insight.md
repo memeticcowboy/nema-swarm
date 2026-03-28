@@ -28,3 +28,20 @@ The recursive interactions are bidirectional: Head to Heart to Hands (past knowl
 ## Source Context
 
 Encoded from an exploration of the Triadic Recursion Model applying multi-linguistic pattern language to map philosophical inquiry through Head/Sky/Past, Heart/Earth/Present, and Hands/Sea/Future, with recursive interactions and cross-cultural enrichment. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

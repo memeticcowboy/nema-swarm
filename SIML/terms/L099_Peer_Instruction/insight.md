@@ -80,3 +80,20 @@ Peer Instruction operationalizes this insight, transforming the classroom from a
 **Tags:** #peer-instruction #mazur #active-learning #social-learning #conceptual-change #education #STEM
 
 **Related:** L001 (Jigsaw), L013/L089 (Social Learning Theory), L017/L093 (Constructionism), L043 (ZPD), P005 (Cognitive Dissonance)
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

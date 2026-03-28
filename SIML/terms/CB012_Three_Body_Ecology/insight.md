@@ -157,3 +157,20 @@ Ride well. Attend to the field. Let it be wild. Let it travel.
 - [Triality](https://memeticcowboy.github.io/nemetics/glossary/triality.html) (M005) — The fundamental three-ness of the NEMEtic framework
 - [Tertiary Emergence](https://memeticcowboy.github.io/nemetics/glossary/tertiary-emergence.html) (M009) — The emergence of emergence—meta-level pattern generation
 - [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive-cognition.html) (E011) — The Earth-grounded approach to mind that supports three-body navigation
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

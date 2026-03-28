@@ -24,3 +24,20 @@ The key insight is that Johari tells you who knows what, while the I-Tube tells 
 
 ## Source Context
 Developed in exchange with Bob-RJ Burkhart, reframing Johari Window through I-Tube and We-Sphere ecology. Preserves agency, timing, and somatic truth against premature disclosure and identity capture.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

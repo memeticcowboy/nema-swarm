@@ -26,3 +26,20 @@ The model's central contribution is reframing knowledge from a static stock to b
 ## Source Context
 
 Encoded from "Navigating the Knowledge Spiral: Nonaka and Takeuchi's Dynamic Model of Learning" — exploration of the SECI knowledge conversion model illustrating continuous knowledge creation through the interplay of tacit and explicit knowledge across four conversion modes. Source: Sensemaking & Epistemics collection, via Burkhart exchange.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

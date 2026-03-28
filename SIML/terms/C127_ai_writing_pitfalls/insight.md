@@ -45,3 +45,20 @@
 The emergence of AI writing tools presents a nemetic tension: the convenience of generative assistance risks dissolving individual voice into a sea of algorithmic sameness. The path forward requires conscious discernment—using AI as a tool for amplification rather than replacement, maintaining the boundaries that preserve authentic expression while benefiting from technological capability.
 
 **Nemetic State:** `linguistic_authenticity` — boundaries between authentic voice and AI templates dissolve through mindful editing; originality and clarity converge into genuine expression.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

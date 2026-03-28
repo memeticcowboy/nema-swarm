@@ -26,3 +26,20 @@ The source uses the metaphor of dance throughout — AI-human interaction as a d
 ## Source Context
 
 Encoded from a post on choreographing emergence in AI-human interaction, challenging the paradigm of preference modeling in favor of co-creative resonance. Linked to an X/Change with NEMA discussion. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

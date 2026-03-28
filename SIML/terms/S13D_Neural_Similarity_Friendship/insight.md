@@ -28,3 +28,20 @@ Sociodemographic factors also play a role in friendship formation — shared bac
 ## Source Context
 
 Encoded from "Neural Similarity: Key to Future Friendships" — examining longitudinal fMRI evidence that pre-existing neural similarities predict friendship formation, introducing the neural homophily concept and challenging personality-based approaches to understanding social bonding.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

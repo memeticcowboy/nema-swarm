@@ -37,3 +37,20 @@ Circular economy principles figure prominently: waste as nutrient, outputs feedi
 ## Source Context
 
 The source document presents the RENEW Manifesto developed through the University of Bath, positioning regenerative design as the necessary evolution beyond sustainability. It draws on biomimicry, circular economy theory, systems ecology, and participatory design to articulate principles applicable across built environment, agriculture, manufacturing, and governance. The practical emphasis on measurable outcomes and reflective governance distinguishes this from purely philosophical treatments of ecological design.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

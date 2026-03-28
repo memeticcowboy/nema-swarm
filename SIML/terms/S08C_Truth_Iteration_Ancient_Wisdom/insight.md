@@ -26,3 +26,20 @@ The resolution proposed is not the victory of one approach over the other but th
 ## Source Context
 
 Encoded from "Navigating Truth: Iteration vs. Ancient Wisdom" — exploration of the tension between personal experimentation and time-tested wisdom in discerning truth, with emphasis on body-mind-soul integration and holistic well-being. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

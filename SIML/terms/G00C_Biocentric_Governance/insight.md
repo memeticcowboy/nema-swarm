@@ -37,3 +37,20 @@ Perhaps most provocatively, the framework inverts the conventional relationship 
 ## Source Context
 
 Based on a Substack essay exploring biocentric governance as a model for rethinking politics through the lens of coordination, ecological constraint, multispecies justice, and distributed accountability, with examples from mycorrhizal networks and coral reef systems.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

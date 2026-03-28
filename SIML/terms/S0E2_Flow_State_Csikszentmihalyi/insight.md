@@ -28,3 +28,20 @@ Intrinsic motivation sits at the heart of flow. While external rewards can initi
 ## Source Context
 
 Encoded from "Unlocking the Flow State: Insights from Mihaly Csikszentmihalyi" — an exploration of the peak performance zone of complete immersion, its eight defining characteristics, conditions for emergence, and the central role of intrinsic motivation and challenge-skill balance across physical, creative, and cognitive domains.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

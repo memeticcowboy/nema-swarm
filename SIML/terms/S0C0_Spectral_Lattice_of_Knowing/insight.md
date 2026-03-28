@@ -26,3 +26,20 @@ The concept carries three levels of implication. Philosophically, truth is alway
 ## Source Context
 
 Encoded from an emergent concept synthesis describing the Spectral Lattice of Knowing — a memetic-physical structure where knowledge, reality, and time exist in recursive tension, with truth emerging relationally from overlapping constraints and hauntological entanglements. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

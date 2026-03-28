@@ -145,3 +145,20 @@ Define the radius. Then throw.
 - [Codependence Without Co-independence](https://memeticcowboy.github.io/nemetics/glossary/codependence-without-coindependence.html) (CB008) — The pathology that Lariat Protocol prevents
 - [SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html) (M016) — Detection of implicit pattern alignment that signals scope creep
 - [Distinction](https://memeticcowboy.github.io/nemetics/glossary/distinction.html) (M007) — The fundamental Air operation that makes scope visible
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -32,3 +32,20 @@ The IO Loop concept describes self-reinforcing cycles of information operations 
 ## Source Context
 
 Based on analysis of the "war on sensemaking" in contemporary information ecologies. Draws on game theory, information operations research, epistemic ecology, and the concept of hormesis to propose frameworks for building individual and collective resilience against propaganda, disinformation, and systematic distortion of the information commons.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

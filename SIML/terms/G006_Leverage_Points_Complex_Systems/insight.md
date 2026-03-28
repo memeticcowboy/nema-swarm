@@ -37,3 +37,20 @@ The practitioner orientation emphasizes systems mapping as a visualization tool 
 ## Source Context
 
 Derived from analysis of leverage points in complex systems, drawing on systems thinking methodology with practical examples from ecological restoration, organizational management, and community development, emphasizing the identification of high-impact intervention points and the role of feedback loops in amplifying small changes.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -34,3 +34,20 @@ Broken symmetries crystallize into stable structures that persist across cosmic 
 
 ## Source Context
 Based on Frank Close's "Lucifer's Legacy: The Meaning of Asymmetry," which explores how broken symmetries in physics, chemistry, and biology enable the existence of matter and life. Integrates concepts from particle physics (matter-antimatter asymmetry), cosmology (force unification and separation), and biology (chirality and handedness).
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

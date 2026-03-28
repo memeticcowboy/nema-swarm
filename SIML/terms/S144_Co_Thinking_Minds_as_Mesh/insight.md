@@ -28,3 +28,20 @@ The implications extend beyond human collaboration. If cognition is fundamentall
 ## Source Context
 
 Encoded from "Co-Thinking: Minds as Mesh, Not Monoliths" — challenging the container model of mind by proposing that cognition is fundamentally distributed, relational, and meshwork-based, with intelligence emerging from collaborative networks rather than individual computation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -38,3 +38,20 @@ The cognitive frameworks themselves serve as structural scaffolding, and this st
 
 ## Source Context
 Derived from an exploration of cognitive models integrated into storytelling practice, mapping Six Thinking Hats as character perspectives, Bloom's Taxonomy as narrative depth, and Kolb's Cycle as story arcs, with extensions into transmedia, augmented reality, and AI-adaptive personalized narratives.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

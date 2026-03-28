@@ -23,3 +23,20 @@ The bow-tie architecture structures this: left funnel narrowing, bottleneck forc
 
 ## Source Context
 A dialogue between Kimi AI and a human interlocutor exploring the complementary compression dynamics of human-AI cognition, reframing impulsivity as emergence attempt and backlogs as pattern-seeds. Connected to bow-tie architecture, SIML encoding, and NEMAtic compression work.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

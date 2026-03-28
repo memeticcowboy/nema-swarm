@@ -41,3 +41,20 @@ This entry highlights the essential critical thinking skill of **discernment** i
 The security dimension adds a practical layer: just as we must critically evaluate AI's claims to emotional authenticity, we must also protect our data through encryption and VPN usage when engaging with these systems. Both dimensions require the same core competency—the ability to see beyond surface appearances to underlying realities.
 
 **Key Takeaway**: Critical engagement with AI requires simultaneous attention to epistemic questions (what is true?) and practical safeguards (what is protected?).
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ Integration is achieved through recursive tools — Cyborgs, memeforms, SPHERE, 
 ## Source Context
 
 Encoded from "Diagnostic Questions and Prompt Generators for Time Orientation, IFS, and Constructor Theory" — presenting structured diagnostic instruments that integrate temporal orientation, Internal Family Systems, and Constructor/Flexus Theory through recursive tools including Cyborgs, memeforms, SPHERE, and NEMEtic OS.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

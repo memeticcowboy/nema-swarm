@@ -37,3 +37,20 @@ The framework operates through an iterative rot-loop: ongoing decomposition of s
 ## Source Context
 
 Emerges from a dialogue integrating Donna Haraway's "Staying with the Trouble," Timothy Morton's dark ecology, and the original concept of rotimization -- decomposing optimization into decay-driven design. The source positions this synthesis as both philosophical framework and practical design methodology, proposing compost consciousness as an alternative to the control paradigms that dominate conventional systems thinking. Includes mythopoetic phrase-fusions and suggests visual rot-cycle diagrams for operationalizing the philosophy across narrative, system design, and ritual practice.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -36,3 +36,20 @@ Sovereign boundary is the structural safeguard that prevents relational epistemo
 
 ## Source Context
 Derived from discourse on relational epistemology in dreams, critiquing extractive Cartesian models, drawing on wu wei and water as teacher, My-Streaming as affective identity current, ethics of care, boundary and sovereignty in empathy, symbolic death of old epistemologies, and indigenous epistemologies that treat water as relative rather than resource.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

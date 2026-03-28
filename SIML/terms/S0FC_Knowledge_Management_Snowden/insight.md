@@ -28,3 +28,20 @@ A particularly significant finding concerns the role of informal networks during
 ## Source Context
 
 Encoded from "Exploring Knowledge Management and Decision Support Systems through Snowden's Sensemaking Framework" — examining how Cynefin domains demand different KM/DSS architectures, the role of abductive reasoning and tacit knowledge, enabling versus governing constraints in system design, and how informal networks augment formal systems during crisis.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

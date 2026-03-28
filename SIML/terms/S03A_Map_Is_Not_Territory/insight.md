@@ -37,3 +37,20 @@ Formal epistemological frameworks — logic, Bayesian inference, Korzybski's gen
 
 ## Source Context
 Based on a LessWrong analysis of Korzybski's "map is not territory" principle, integrating epistemological theory with practical rationalist applications for belief calibration and cognitive bias correction.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

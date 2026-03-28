@@ -28,3 +28,20 @@ The concept of kairos-timed intervention is central. Unlike chronos (clock time)
 ## Source Context
 
 Encoded from "Healing We-Spheres: Reweaving Collective Well-Being Through Systemic Resonance" — examining We-Spheres as patterned fields where ruptures signal incoherence, healing operates through field-level pattern shifts, and kairos-timed resonant intervention can reorganize collective architecture.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

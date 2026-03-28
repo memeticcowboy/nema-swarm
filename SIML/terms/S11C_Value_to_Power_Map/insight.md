@@ -31,3 +31,20 @@ The Value-to-Power Map provides a comprehensive taxonomy of how relational value
 ## Source Context
 
 Derived from `1771907213345_2314230_Exploring+the+Value-to-Power+Map%3A+Emotional+Dynamics+and+Relational+Empowerment.md`, which develops a detailed taxonomy of power modalities specific to the Freedom to Connect archetype (Empath Cyborg). The source material situates the value-to-power conversion within a broader framework of IF-Prime Freedoms and their associated archetypes, treating the Empath Cyborg as a specific configuration of human capacity characterized by enhanced empathic perception and relational intelligence. The eight-modality taxonomy provides both a developmental map (from Null Power through genuine power forms) and a diagnostic tool (distinguishing authentic from counterfeit empathic engagement), making it applicable to clinical, organizational, and personal development contexts.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

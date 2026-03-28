@@ -153,3 +153,20 @@ Wabi-sabi is compost consciousness in aesthetic form. The three marks of existen
 ---
 
 *ε preserved: This insight encodes a compost-aesthetics pattern. The pattern is real; the encoding is a map. The cracks are the most beautiful part.*
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -32,3 +32,20 @@ Metal draws the precise boundary between what the convergence establishes and wh
 
 ## Source Context
 Derived from Zhejiang University research published in Nature Human Behaviour demonstrating that humans and LLMs share sentence representation strategies, particularly in word deletion patterns during sentence compression. The finding bridges cognitive science and AI, suggesting convergent processing strategies across biological and artificial language systems while leaving open questions about the relationship between structural convergence and semantic understanding.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

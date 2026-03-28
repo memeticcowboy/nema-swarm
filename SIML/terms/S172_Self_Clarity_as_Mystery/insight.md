@@ -36,3 +36,20 @@ The structural reframe of fog itself. Metal takes the primary obstacle to conven
 
 ## Source Context
 Derived from discourse on embracing mystery as a form of clarity, drawing on non-dual awareness, mysticism of process, metamodern selfhood, phenomenological introspection, the Inner Navigator archetype, and the principle that self-clarity is attunement to movement through the unknown rather than definition of fixed identity.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

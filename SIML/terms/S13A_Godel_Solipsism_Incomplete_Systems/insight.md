@@ -28,3 +28,20 @@ This framework reframes incompleteness not as a failure of consciousness but as 
 ## Source Context
 
 Encoded from "Gödel, Solipsism, and AI: Incomplete Systems" — applying Gödel's incompleteness theorems to consciousness and co-solipsism, revealing structural parallels between formal undecidability and the mind's inability to self-verify.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

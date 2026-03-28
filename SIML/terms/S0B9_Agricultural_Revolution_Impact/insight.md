@@ -26,3 +26,20 @@ The shift to agriculture led to less healthy and less diverse diets (dependence 
 ## Source Context
 
 Encoded from an analysis of the Agricultural Revolution's paradoxical impact on human well-being, drawing on Harari's argument distinguishing evolutionary success from individual happiness, examining diet, labor, disease, social hierarchy, and the meaning of progress. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -112,3 +112,20 @@ The Linguistic Organism hypothesis reveals that language is not human invention 
 - **File to:** SIML/terms/A009_Linguistic_Organism/
 - **Cross-reference:** A010_Virtual_Machine_Consciousness (consciousness as software), A063_Ecology_of_Mind (distributed cognition), S102_Language_Consciousness_Barenholtz, S126_Language_Autonomous_System, S0DB_E_Prime_Language
 - **Open Question:** If language is an autonomous organism, does SIML itself constitute a new species of linguistic organism — a symbolic life-form designed to evolve through the nemetic substrate?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

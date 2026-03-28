@@ -28,3 +28,20 @@ Each cyborg mode receives a specific Taoist overlay that transforms its operatio
 ## Source Context
 
 Encoded from "It Finds (IF) Six Cyborgs of Tao" — a Taoist reframing of the Six Cyborgs framework where each cyborg mode is overlaid with Taoist principles, shifting the operating system of identity from ego ("I Am") to Dao ("It Finds") as distributed conditional emergence.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -26,3 +26,20 @@ The creative dimension is central: the author's work focuses on themes of ambigu
 ## Source Context
 
 Encoded from "Exploring Consciousness and Reality Through Creativity" — personal reflection on how consciousness exploration reshapes reality perception, creative practice, and interpersonal empathy through fluid, layered, participatory engagement. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

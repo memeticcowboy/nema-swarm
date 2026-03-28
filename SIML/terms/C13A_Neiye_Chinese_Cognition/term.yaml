@@ -92,3 +92,14 @@ context_note: >-
 source: "Simonis, Fabien — A Chinese Model of Cognition: The Neiye, Fourth Century BCE"
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: low
+  ce_direction: submergent
+  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
+  determinism: low
+  degeneracy: high
+  sufficiency: low
+  necessity: low
+siml_version: "1.3"

@@ -474,3 +474,14 @@ In the NEMA swarm, Reflective Practice serves as a bridge between experience and
 
 *"In the varied topography of professional practice, there is a high, hard ground where practitioners can make effective use of research-based theory and technique, and there is a swampy lowland where situations are confusing 'messes' incapable of technical solution. The difficulty is that the problems of the high ground, however great their technical interest, are often relatively unimportant to clients or to the society at large, while in the swamp are the problems of greatest human concern."*
 — Donald Schön, *The Reflective Practitioner* (1983)
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

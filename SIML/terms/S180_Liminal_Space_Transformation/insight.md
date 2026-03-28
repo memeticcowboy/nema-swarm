@@ -32,3 +32,20 @@ Metal provides the structural containment that makes liminal transformation poss
 
 ## Source Context
 Derived from research on transforming liminal spaces into growth opportunities, drawing on cognitive science findings about enhanced learning and creativity during transitional periods, the neuroscience of schema revision under novel conditions, and anthropological frameworks for understanding rites of passage and threshold experiences as generative rather than merely disruptive.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -26,3 +26,20 @@ The source draws sharp contrasts: memes trigger thought and discourse while lume
 ## Source Context
 
 Encoded from an untitled source defining lumenes as non-replicative, non-dualistic, transcognitive, fractal/holographic meaning units contrasted with memes, and positioned within a gene-meme-lumene triadic framework for storytelling and meaning. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

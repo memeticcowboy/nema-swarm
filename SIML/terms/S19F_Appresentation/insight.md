@@ -22,3 +22,20 @@ Future research in cognitive science, social sciences, and artificial intelligen
 
 ## Source Context
 Based on an exploration of appresentation in phenomenology, tracing the concept from Husserl through Merleau-Ponty and Schutz. Sourced from Number Analytics blog.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -32,3 +32,20 @@ These metaphors are rooted in embodied experience rather than abstract logic, un
 ## Source Context
 
 Based on George Lakoff and Mark Johnson's conceptual metaphor theory (Metaphors We Live By). The source examines how orientational, ontological, and structural metaphors shape consciousness and behavior, arguing against objectivist accounts of meaning in favor of an embodied, interactionist view.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

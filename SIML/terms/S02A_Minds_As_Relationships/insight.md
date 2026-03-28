@@ -25,3 +25,20 @@ The implications span psychology (reconceiving mental health as relational well-
 
 ## Source Context
 Derived from an analysis of minds as relationships exploring the social nature of cognition and identity. The source integrates Vygotsky's sociocultural theory, distributed cognition, Bakhtin's dialogism, linguistic relativity, symbolic interactionism, and narrative identity into a unified argument that cognition is fundamentally relational, with implications for psychology, education, technology, and social policy.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

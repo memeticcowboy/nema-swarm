@@ -28,3 +28,20 @@ The personal implications are profound. If reality is fundamentally process, the
 ## Source Context
 
 Encoded from "Embracing Change: Insights from Whitehead's Process Philosophy" — an exploration of Whitehead's process philosophy, reality as interconnected processes, creativity and becoming as central to shaping reality, and personal transformation through embracing change and interconnectedness.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ The concept operates within a fundamental tension between individual agency and 
 ## Source Context
 
 Encoded from "Understanding Daniel Schmachtenberger's Superstructure Concept" — analyzing the layered architecture of societal constructs, institutions, and belief systems through a systems thinking lens to identify leverage points for genuine systemic transformation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

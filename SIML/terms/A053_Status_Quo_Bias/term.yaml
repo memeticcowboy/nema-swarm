@@ -92,3 +92,14 @@ context_note: >-
 source: "Overcoming Barriers to Regenerative Farming: A Psychological Perspective"
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: flat
+  scale_note: "No clear scale dominance identified"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

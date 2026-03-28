@@ -28,3 +28,14 @@ elemental_mapping:
 related_terms: ["S0C3", "S029", "S064"]
 status: canonical
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Macro-level description increases causal informativeness over micro-level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

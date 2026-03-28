@@ -28,3 +28,20 @@ Yet communitas is inherently dissipative. It cannot sustain itself as spontaneou
 ## Source Context
 
 Encoded from "Understanding Victor Turner's Concept of Communitas in Ritual Theory" — examining the nature of communitas as anti-structure, the liminal state as realm of pure possibility, the three forms of communitas, and the essential cycling between structure and communitas in social life.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

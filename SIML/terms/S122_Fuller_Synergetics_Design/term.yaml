@@ -46,3 +46,14 @@ elemental_mapping:
 related_terms: ["S11D_Neurodivergence_Memetic_Framework", "S11F_Collective_Synpraxis"]
 status: canonical
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

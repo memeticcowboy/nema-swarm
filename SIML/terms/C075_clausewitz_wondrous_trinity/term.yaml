@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain the wondrous trinity? What boundaries separate and unite passion, chance, and reason?"
 context_note: "Clausewitz's Wondrous Trinity frames war as a complex adaptive system comprising three interdependent elements: passion (the people's emotions), chance (the commander's creativity and uncertainty), and reason (the government's policy). This trinity reveals war's paradoxical nature as both rational extension of policy and irrational expression of violence. The framework emphasizes nonlinear interactions, emergent behavior, and sensitivity to initial conditions. Military strategists must embrace complexity theory, recognizing that small changes can lead to significant consequences, and that effective strategy requires balancing emotional forces with rational planning while remaining adaptable to chance events."
 source_file: "1771907212501_503631_Understanding+Clausewitz%27s+Wondrous+Trinity.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

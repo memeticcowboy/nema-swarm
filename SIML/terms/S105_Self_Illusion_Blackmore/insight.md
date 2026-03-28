@@ -27,3 +27,20 @@ Blackmore's account is not purely theoretical. Through mindfulness practice, she
 ## Source Context
 
 Encoded from "Exploring the Self Illusion: Insights from Susan Blackmore's Perspective" — presenting Blackmore's argument that the self is an illusion (not non-existent but not what it seems), critiquing the Cartesian Theater model, drawing on Libet's experiments and mindfulness practice to reveal the constructed, fluctuating, non-centralized nature of conscious selfhood.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

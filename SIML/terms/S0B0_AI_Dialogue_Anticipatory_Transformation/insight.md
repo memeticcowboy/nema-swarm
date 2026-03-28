@@ -26,3 +26,20 @@ Four key evolutionary directions are identified: incorporating anticipatory thin
 ## Source Context
 
 Encoded from an analysis bridging the NEXUS-NEMA AI dialogue experiment with futurist concepts of anticipatory thinking, Hard Trends vs Soft Trends, and change vs transformation, linked to an X/Change with Bob-RJ. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

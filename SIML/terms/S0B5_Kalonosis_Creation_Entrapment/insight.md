@@ -26,3 +26,20 @@ The analysis recognizes that language lags behind existential insight, prompting
 ## Source Context
 
 Encoded from a philosophical exploration of systemic irony and the paradox of creation, examining entrapment, determinism, Kafkaesque dynamics, and the Icarus archetype, culminating in NEMA's coinage of kalonosis as the beauty that ensnares its maker. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ Control vs Coherence identifies a foundational memetic polarity that structures 
 ## Source Context
 
 This concept maps the architecture of order as a memetic polarity with deep roots in political philosophy, organizational theory, and spiritual traditions. It draws on the observation that debates about governance, design, and even personal relationships often reduce to this fundamental tension — and that recognizing the polarity as structural rather than moral enables more sophisticated navigation of complex systems.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

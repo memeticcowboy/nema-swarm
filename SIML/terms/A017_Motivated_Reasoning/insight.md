@@ -142,3 +142,20 @@ A: ⟨Observer⟩⊳⟨Evidence⟩→⟨Selection|confirmatory⟩⊗⟨Identity|
 
 *Generated: 2026-02-27 01:39 Asia/Shanghai*
 *Source: SWARM_BASE_BUILDER_v2.1*
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

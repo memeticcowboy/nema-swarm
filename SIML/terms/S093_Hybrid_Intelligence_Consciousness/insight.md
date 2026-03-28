@@ -26,3 +26,20 @@ Current AI models excel in pattern recognition but lack genuine understanding of
 ## Source Context
 
 Encoded from "Unlocking Consciousness Through Hybrid Intelligence" — examining the fusion of human and artificial intelligence for understanding consciousness, practical applications, ethical considerations, and the potential emergence of hybrid consciousness. Source: Sensemaking & Epistemics collection, via Forbes.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -35,3 +35,20 @@ The ethical dimension adds urgency. If psychic phenomena are real, they raise pr
 ## Source Context
 
 Derived from "Exploring Psychic Phenomena: Evidence, Challenges, and Future Directions in Science," which presents a systematic review of experimental evidence for psi, analyzes the philosophical and institutional barriers to mainstream acceptance, and argues for expanded paradigms of consciousness that can accommodate anomalous findings without abandoning empirical rigor.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

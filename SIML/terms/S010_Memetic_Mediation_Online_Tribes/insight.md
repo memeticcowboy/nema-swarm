@@ -33,3 +33,20 @@ The critical insight is that the pain of encountering opposing worldviews should
 ## Source Context
 
 Framework for memetic mediation addressing the polarization of online discourse. Draws on conflict resolution theory, cognitive dissonance research, and the design of intentional virtual communities. Emphasizes that genuine mediation requires pain tolerance, not pain avoidance.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

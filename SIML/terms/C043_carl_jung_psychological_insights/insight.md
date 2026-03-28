@@ -64,3 +64,20 @@ What structures contain the archetypes? What boundaries separate healthy self-tr
 Carl Jung's rare 1957 interview introduces analytical psychology concepts: persona (social mask), shadow (hidden self), collective unconscious (shared psychic inheritance), and individuation (process of becoming whole). Jung challenges Freud's materialism by legitimizing spirituality and emphasizing interconnectedness beyond biological drives.
 
 Generated: 2026-03-01T14:33:00+08:00
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

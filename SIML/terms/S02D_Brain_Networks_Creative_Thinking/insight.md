@@ -25,3 +25,20 @@ The implications extend beyond basic neuroscience. Understanding the causal neur
 
 ## Source Context
 Derived from neuroscientific research identifying the Default Mode Network's causal role in creative idea generation, established through intracranial electrode studies in epilepsy patients. The study analyzed theta and gamma brain wave patterns during creative tasks, demonstrated that DMN disruption impairs originality but not mind-wandering, and established implications for understanding depression and other conditions involving DMN alteration.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

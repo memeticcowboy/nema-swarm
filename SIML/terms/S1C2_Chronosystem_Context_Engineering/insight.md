@@ -24,3 +24,20 @@ The analysis serves as a warning against the hubris of treating temporal dynamic
 
 ## Source Context
 An analysis of seven conflicts between Chronosystem temporal dynamics and context engineering assumptions, developed in exchange with Bob-RJ Burkhart as a critique of design hubris applied to irreversible temporal processes.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

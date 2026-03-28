@@ -33,3 +33,20 @@ This convergent evolution provides a powerful model for thinking about alien int
 ## Source Context
 
 Analysis of corvid intelligence research as a framework for recognizing alien cognition. Draws on comparative neuroscience, convergent evolution theory, and the search for extraterrestrial intelligence. Argues that Earth already hosts examples of alien-like minds in birds, challenging mammalian-centric assumptions about what intelligence must look like.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

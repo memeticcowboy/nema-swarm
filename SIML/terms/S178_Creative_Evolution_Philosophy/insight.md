@@ -36,3 +36,20 @@ Axiogenesis is the structural claim that rupture creates value rather than destr
 
 ## Source Context
 Derived from discourse on the philosophy of creative evolution and embracing rupture and reinvention, drawing on Whitehead (creativity as universal of universals), Deleuze (production of new from fractures), Langer (form emerges where tension seeks release), axiogenesis, supple defiance, and the principle that evolution is ecstatic emergence rather than linear progress.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

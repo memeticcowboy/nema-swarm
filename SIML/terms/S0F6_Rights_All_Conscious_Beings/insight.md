@@ -28,3 +28,20 @@ Design fiction functions here as a tool for social reflection and ethical provoc
 ## Source Context
 
 Encoded from "Envisioning Rights for All Conscious Beings" — using speculative design methodology to draft a Universal Declaration of Rights extending beyond humans to AI, animals, and extraterrestrial life, deploying design fiction as a tool for social reflection and ethical provocation that reveals the contingent boundaries of current moral frameworks.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

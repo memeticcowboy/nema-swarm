@@ -28,3 +28,20 @@ The provocative reframing of quanta as "memes in machines" (per loopuleasa's obs
 ## Source Context
 
 Encoded from "Understanding Neural Scaling: Quanta and Emergent Abilities" — analysis of the quantization model of neural scaling (Tegmark et al.), with commentary reframing quanta as memes in machines. Source: arXiv paper "The Quantization Model of Neural Scaling."
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

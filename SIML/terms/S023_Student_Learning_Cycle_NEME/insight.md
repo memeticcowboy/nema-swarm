@@ -25,3 +25,20 @@ This model emphasizes that learning is inherently iterative and adaptive. The cy
 
 ## Source Context
 Derived from "The Never-Ending Cycle of Student Learning: A Rollercoaster of Curiosity and Innovation," which models student learning through a NEME-informed five-phase cycle. Positioned within the Sensemaking & Epistemics series as a pedagogical application of NEME principles, emphasizing that genuine learning is always iterative, adaptive, and ongoing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

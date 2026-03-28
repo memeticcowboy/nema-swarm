@@ -18,3 +18,20 @@ This entry encodes research that applies algebraic topology — specifically hom
 ## Source Context
 
 Source: *Exploring Psilocybin's Impact on Brain Connectivity* — This research applies tools from algebraic topology to functional neuroimaging data collected under psilocybin and placebo conditions. Using homological scaffolds derived from persistent homology, the study characterizes the topological landscape of brain connectivity states, finding that psilocybin expands the repertoire of accessible network configurations while reducing the stability of any single configuration. The work contributes both to psychedelic neuroscience and to the growing field of topological data analysis in neuroscience.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

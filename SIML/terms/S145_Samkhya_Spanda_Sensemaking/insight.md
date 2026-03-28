@@ -28,3 +28,20 @@ Modern sensemaking provides the practical application. How does meaning emerge f
 ## Source Context
 
 Encoded from "Understanding Samkhya-Spanda-Sensemaking: Integrating Indian Philosophy and Modern Sensemaking" — bridging Samkhya cosmological categories, Spanda vibratory ontology, and contemporary sensemaking theory into an integrated framework for understanding how meaning emerges through resonant dynamics.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

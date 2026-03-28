@@ -61,3 +61,20 @@ Research supporting consciousness continuity:
 - Monroe Institute research on expanded awareness
 - University of Virginia Medical School past-life memory research
 - https://www.earth.com/news/u-s-army-intelligence-study-suggests-that-reincarnation-is-real/
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

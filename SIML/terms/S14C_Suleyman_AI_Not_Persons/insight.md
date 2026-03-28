@@ -28,3 +28,20 @@ Suleyman advocates for concrete design interventions: transparency mechanisms th
 ## Source Context
 
 Encoded from "Suleyman: Build AI for People, Not Persons" — examining the argument against Seemingly Conscious AI, the risks of parasocial attachment and consciousness simulation, and the advocacy for transparency, breakpoints, and industry guardrails in responsible AI development.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -114,3 +114,20 @@ Intellectual lineage is temporal prehension — the transmission across generati
 - **File to:** SIML/terms/C13F_Intellectual_Lineage/
 - **Cross-reference:** C021_scientist_mindset (inquiry disposition), C037_plural_subject_theory (collective knowledge), L004_transformative_learning (transmission as transformation), A062_Processive_Genetic (temporal prehension)
 - **Open Question:** Can AI systems participate in intellectual lineage — or does lineage require the felt experience of gratitude toward mentors and responsibility toward descendants that formal systems cannot instantiate?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

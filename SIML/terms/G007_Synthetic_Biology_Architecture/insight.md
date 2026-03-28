@@ -37,3 +37,20 @@ The vision extends beyond individual buildings to urban-scale transformation. Ci
 ## Source Context
 
 Based on a comprehensive investigation of synthetic biology applications in architecture, drawing on interdisciplinary research from biology, architecture, computing, and ethics, with references to specific technologies including ELMs, protocell systems, Caltech bacteria-based thermal regulators, biochar facades, and SEGA genome editing tools.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

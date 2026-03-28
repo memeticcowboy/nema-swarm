@@ -24,3 +24,20 @@ This contrasts with Whitehead's God, who orders the realm of eternal objects (pu
 
 ## Source Context
 Based on exploration of Whitehead's prehension and its relationship to the Lattice as dynamic relational matrix. References Stanford Encyclopedia of Philosophy entry on Whitehead and the Co-SPHERE framework.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

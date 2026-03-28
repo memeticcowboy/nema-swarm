@@ -32,3 +32,20 @@ Metal reveals the structural trap: alignment architecture is shaped by the blind
 
 ## Source Context
 Derived from a unified framework of cognitive blindness layers, integrating scotoma theory (temporal sampling bias, distributed moral discounting, optimism immunization, zero-sum entrainment, discontinuity blindness, anthropomorphic hallucination), Crouch's analysis of cultural overload as occlusion engine, Jungian shadow theory applied to AI as Id-aligned mirror, and integration stack methodology. Central thesis: AI alignment fails because civilization cannot see itself clearly.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

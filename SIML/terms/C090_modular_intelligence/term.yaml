@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain module boundaries? What thresholds separate human cognitive strengths from complementary AI capabilities?"
 context_note: "Steven Pinker's concept of modular intelligence challenges the traditional view of intelligence as a singular, limitless continuum. Instead, intelligence comprises specialized modules tailored for specific tasks—both in humans and AI. This perspective reveals that human cognition consists of domain-specific capabilities (pattern recognition, language processing, spatial reasoning) rather than a general-purpose reasoning engine. Similarly, AI systems excel in specialized domains but lack the versatility of human intelligence in social or emotional contexts. The modular view encourages collaboration between human and artificial intelligence, where each leverages their complementary strengths—AI handling data-intensive tasks while humans contribute contextual judgment and creative synthesis."
 source_file: "1771907212512_516377_Pinker+on+Intelligence+and+AI.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

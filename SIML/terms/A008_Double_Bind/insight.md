@@ -112,3 +112,20 @@ The double bind reveals nemetic pathology — the same relational patterns that 
 - **File to:** SIML/terms/A008_Double_Bind/
 - **Cross-reference:** A007_Information_Bateson (healthy distinction), A063_Ecology_of_Mind (system-level mind), A01A_Cognitive_Dissonance (related but distinct — dissonance allows escape; double bind does not), S0BF_DSRP_Therapy (therapeutic application)
 - **Open Question:** Is every memetic pathology a form of double bind — contradictory injunctions at different logical levels with no meta-position? Or are there pathological patterns that capture through means other than paradox?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

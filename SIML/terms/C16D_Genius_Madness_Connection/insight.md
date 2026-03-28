@@ -90,3 +90,20 @@ The romanticized "tortured artist" stereotype contains a kernel of empirical tru
 - Lombroso, Cesare: The Man of Genius
 - MMPI (Minnesota Multiphasic Personality Inventory) studies on creativity
 - x/change rajendra: https://x.com/rajprasad3251/status/1886045839518552194
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

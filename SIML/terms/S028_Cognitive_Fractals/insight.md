@@ -25,3 +25,20 @@ The practical dimension of cognitive fractals extends into visualization and app
 
 ## Source Context
 Derived from an exploration of cognitive fractals examining how self-similarity and recursion manifest in thought patterns and mental processes. The source draws on fractal mathematics, neuroscience visualizations, and cognitive science to propose a framework for understanding, visualizing, and therapeutically intervening in recursive thought structures.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

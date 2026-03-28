@@ -28,3 +28,20 @@ Drawing on Lovelace's spirit of adaptability and creative intuition, the Cyborg 
 ## Source Context
 
 Encoded from "Inspiration d'Ada Lovelace pour des Solutions Technologiques Durables" (French) — exploring Ada Lovelace as inspiration for sustainable technology through the Cyborg Creator concept, fusing creativity with technology, adaptability, and creative intuition.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

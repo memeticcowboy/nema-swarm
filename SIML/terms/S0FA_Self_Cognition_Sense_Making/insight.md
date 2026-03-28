@@ -28,3 +28,20 @@ The synthesis proposes self as lens or filter rather than engine of cognition. S
 ## Source Context
 
 Encoded from "Exploring the Role of Self in Cognition and Participatory Sense-Making" — examining whether the self as identity construct is an ideal vector for cognition, synthesizing arguments for and against self-centric models of sense-making, and proposing self as functional lens or filter rather than engine of cognitive activity within participatory frameworks.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

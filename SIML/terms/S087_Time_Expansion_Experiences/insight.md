@@ -26,3 +26,20 @@ Psychologist Steve Taylor's research frames TEEs as a possible evolutionary adap
 ## Source Context
 
 Encoded from "Understanding Time Expansion Experiences: Evolutionary Insights" — exploration of TEEs as subjective temporal deceleration during extreme situations, framed through Steve Taylor's evolutionary adaptation hypothesis, with implications for understanding consciousness, survival mechanisms, and the nature of subjective time. Source: Sensemaking & Epistemics collection, via Futurism.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

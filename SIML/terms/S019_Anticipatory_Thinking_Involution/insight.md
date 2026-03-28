@@ -36,3 +36,20 @@ Attention management sits at the center of this process. Both involution and ant
 ## Source Context
 
 Analysis of the cognitive process combining involutionary and anticipatory thinking. Examines how involution simplifies complex scenarios by identifying core patterns, while anticipatory thinking projects forward to prepare for future challenges. Explores attention management as the structural discipline enabling both movements, and the cycling between simplification and projection as the fundamental rhythm of adaptive cognition in complex environments.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

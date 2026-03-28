@@ -37,3 +37,20 @@ The meta-crisis framework identifies a fundamental inadequacy in existing proble
 ## Source Context
 
 The source document provides a comprehensive overview of the meta-crisis concept, drawing on systems theory, complexity science, developmental psychology, political philosophy, and spiritual ecology. It synthesizes work from multiple thinkers in the meta-crisis discourse — including those focused on sense-making, institutional legitimacy, meaning-making, and ecological limits — into a unified framework. The document emphasizes that the meta-crisis is not a counsel of despair but a call for fundamentally new approaches that address interconnection, interiority, and institutional transformation simultaneously.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

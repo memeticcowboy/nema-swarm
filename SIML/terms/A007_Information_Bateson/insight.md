@@ -112,3 +112,20 @@ Information in Bateson's sense is not substance transmitted but distinction regi
 - **File to:** SIML/terms/A007_Information_Bateson/
 - **Cross-reference:** A008_Double_Bind (pathological information pattern), A063_Ecology_of_Mind (system-level information), S15E_Bateson_Recursive_Feedback, S170_Batesonian_Balance
 - **Open Question:** If all SIML operators are instances of "difference that makes a difference," is A007 the meta-term for the entire SIML system — the operator that generates all other operators?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

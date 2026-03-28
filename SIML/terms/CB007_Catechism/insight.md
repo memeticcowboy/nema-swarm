@@ -114,3 +114,20 @@ The Catechism is not what to think. It's how to keep thinking—when the librari
 - [Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html) (A067) — The embodied, automatic patterns the Catechism speaks to
 - [Pragmatic Belief](https://memeticcowboy.github.io/nemetics/glossary/pragmatic_belief.html) (A068) — Belief as stance and coordination
 - [SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html) (M016) — The detection the Catechism performs
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

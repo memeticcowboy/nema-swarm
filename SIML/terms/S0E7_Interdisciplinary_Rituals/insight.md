@@ -28,3 +28,20 @@ Causal opacity emerges as a paradoxical feature rather than a bug. Rituals often
 ## Source Context
 
 Encoded from "Exploring the Interdisciplinary Nature of Rituals" — an analysis of rituals through Tinbergen's four questions (phylogeny, adaptive function, mechanism, ontogeny), examining how cognitive adaptations, cultural inheritance, causal opacity, and high-fidelity imitation enable rituals to function as universal yet diverse mechanisms for emotion regulation, identity strengthening, and group cohesion.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

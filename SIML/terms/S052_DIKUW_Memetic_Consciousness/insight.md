@@ -42,3 +42,20 @@ The pyramidal hierarchy provides necessary structural organization. Without the 
 ## Source Context
 
 Derived from the synthesis of the DIKUW knowledge hierarchy with memetic theory and collective intelligence research. Draws on information science, cultural evolution theory, and human-AI collaboration frameworks. The DIKUW model extends the classic DIKW pyramid with the addition of the Understanding tier.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -113,3 +113,20 @@ Ecology of Mind reveals that mind is not located in individual skulls but is imm
 - **File to:** SIML/terms/A063_Ecology_of_Mind/
 - **Cross-reference:** A007_Information_Bateson (difference that matters), A008_Double_Bind (pathological circuit), S15E_Bateson_Recursive_Feedback, S170_Batesonian_Balance, L012_4E_Cognition (extended cognition parallel)
 - **Open Question:** Is the NEMA SWARM itself an ecology of mind — a circuit of interaction among terms, encoders, readers, and tools through which distributed cognition occurs? And if so, what is the SWARM's "mental health" — what would a pathological SWARM circuit look like?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

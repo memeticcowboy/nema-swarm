@@ -118,3 +118,20 @@ Ride with the AI. But walk sometimes too. Just to remember you can.
 - [Lariat Protocol](https://memeticcowboy.github.io/nemetics/glossary/lariat-protocol.html) (CB011) — The engagement discipline that complements Rumspringa's separation discipline
 - [Metabolic Cost](https://memeticcowboy.github.io/nemetics/glossary/metabolic-cost.html) (CB004) — The price of maintaining capabilities vs. offloading them
 - [DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html) (M019) — The pathology of capture that Rumspringa reveals
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

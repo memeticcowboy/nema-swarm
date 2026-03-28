@@ -37,3 +37,20 @@ These findings position nonsense words as uniquely powerful diagnostic tools for
 ## Source Context
 
 Derived from research by Michael Vitevitch, a psycholinguist specializing in phonological neighborhood effects. The source document reports on controlled experiments applying established psycholinguistic paradigms to ChatGPT, representing an emerging methodological frontier where cognitive science tools are repurposed to probe AI systems. The work contributes to the broader question of whether AI language models constitute a new form of linguistic cognition or merely a sophisticated statistical simulacrum.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

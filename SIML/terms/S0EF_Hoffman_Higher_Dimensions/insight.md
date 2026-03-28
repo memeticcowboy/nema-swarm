@@ -28,3 +28,20 @@ If spacetime is not fundamental, then what is? Hoffman argues that consciousness
 ## Source Context
 
 Encoded from "Exploring Higher Dimensional Beings and the Nature of Reality by Donald Hoffman" — an investigation of Hoffman's interface theory of perception arguing that spacetime is a fitness-tuned user interface, consciousness is fundamental, and higher dimensions exist beyond our perceptual headset.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

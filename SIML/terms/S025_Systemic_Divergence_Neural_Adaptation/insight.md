@@ -25,3 +25,20 @@ At its deepest level, the framework addresses the fundamental tradeoff between e
 
 ## Source Context
 Derived from the SYSTEMIC DIVERGENCE backronym framework documenting 18 components of neural adaptation and optimization. The framework synthesizes concepts from computational neuroscience, connectomics, and complexity science to present a unified view of how neural systems maintain dynamic equilibrium through continuous adaptation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -32,3 +32,20 @@ The transformative design dimension extends beyond structure into strategy: "com
 Derived from: `1771907213360_2325479_Exploring+Buckminster+Fuller%27s+Synergetics+for+Transformative+Design.md`
 
 Fuller's synergetics resonates strongly with nemetic principles — both frameworks insist on pattern-level perception, whole-system thinking, and the irreducibility of emergent behavior. The nemetic operators themselves function synergetically: the behavior of the full Phi function is always more than the sum of its six operators. Fuller provides the design science; nemetics provides the sensemaking language. Together they point toward an integrative practice of perception and creation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

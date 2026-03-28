@@ -28,3 +28,20 @@ The third shift extends to identity itself: from static self-concept (fixed esse
 ## Source Context
 
 Encoded from "From Fixed Truths to Fluid Understanding: Evolution of Human Cognition and Identity" — an exploration of three epistemic shifts (fixed to abstract, absolute to probabilistic, static to dynamic identity) and their practical implications for agency, internal locus of control, and mindfulness as cognitive software upgrades from rigid to adaptive.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

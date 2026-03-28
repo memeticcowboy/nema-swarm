@@ -32,3 +32,20 @@ Selflessness emerges as the critical quality distinguishing transformative from 
 Derived from: `1771907213357_2322409_Planting+Seeds+of+Karma%3A+The+Power+of+Selfless+Actions.md`
 
 This encoding connects the traditional Indic karma-bija concept with nemetic analysis, treating karmic seeds as memeforms that propagate through cultural repetition and conscious practice alike. The framework bridges contemplative philosophy with systems thinking: karma as an ecology of consequence, where every action plants seeds in a shared field and the quality of the harvest depends on the consciousness of the planting.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

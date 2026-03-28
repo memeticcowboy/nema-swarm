@@ -28,3 +28,20 @@ The IF-Prime grounding ensures that freedom remains the central organizing princ
 ## Source Context
 
 Encoded from "Exploring IF-Prime and SixHats Cyborgs Module" — integrating Six Thinking Hats with Six Cyborgs through IF-Prime's four-domain freedom model (Head, Heart, Hands, Health), transforming cognitive mode-switching into embodied, interconnected practice where each hat-cyborg pairing represents a facet of freedom lived through the body's intelligence.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

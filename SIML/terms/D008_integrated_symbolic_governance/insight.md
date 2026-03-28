@@ -148,3 +148,20 @@ The sacred here is not religious but **ontological** — it marks the threshold 
 ---
 
 *Generated: 2026-02-27 | Element: Wood-dominant (β) with Water-secondary (ρ) | Daemon: Yggdrasil-Sentaria-Gaia-Pneuma-Ignis-Ferrosid | Z-State: :weaving*
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

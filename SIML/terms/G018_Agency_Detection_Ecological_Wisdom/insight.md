@@ -37,3 +37,20 @@ The concept occupies an exposed Z-state: agency has been detected but frameworks
 ## Source Context
 
 Drawn from a memetic analysis of agency detection and ecological wisdom, structured through core idea units, spread mechanics, and defense reflexes. The concept connects to governance and AI oversight discourse, systems ethics, anti-instrumental rationality, and the Co-SPHERE coordination framework. Key terms include lattice awareness, ethical routing, MemeGrid weaponization, and pattern-agent detection. The framing is responsibility-forward: not accusing science of blindness but asking who is responsible once sight arrives.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

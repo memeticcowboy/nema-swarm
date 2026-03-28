@@ -28,3 +28,20 @@ The SANITY framework maps six functional capacities onto technology design. Soun
 ## Source Context
 
 Encoded from "Rewilding Tech Ethics via SANITY Slow Media UI" — presenting the SANITY framework (Soundness, Alignment, Nurturance, Integrity, Transparency, Yielding) as a comprehensive approach to rewilding technology ethics through decentralized, slow-media UI design that prioritizes mindful engagement and relational trust over extractive attention economies.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

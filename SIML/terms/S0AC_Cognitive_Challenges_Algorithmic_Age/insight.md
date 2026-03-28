@@ -26,3 +26,20 @@ The source proposes a systems thinking lens organized around recursive systems (
 ## Source Context
 
 Encoded from a systems-based research prompt exploring the decline of practical reasoning in the algorithmic age, linked to an X/Change with Bob-RJ, integrating themes from SOPPADA 3D Cognitive Learning, Bloom's Meta-Prompt, memetic recursion, Neuroscape, and commons-centric ethical design. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -25,3 +25,20 @@ The integration also addresses feedback loops, digital and social media applicat
 
 ## Source Context
 Derived from "Integrating Neuro-Linguistic Programming (NLP) Insights with NEME Process," which systematically maps NLP strategies to each phase of the NEME sensemaking cycle. Situated within the Sensemaking & Epistemics series as a practical methodology for enhancing learning, decision-making, and communication through the integration of behavioral science with iterative sensemaking.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

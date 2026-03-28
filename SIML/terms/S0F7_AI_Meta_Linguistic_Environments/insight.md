@@ -28,3 +28,20 @@ This positions AI as a catalyst for ethical reflexivity and collective intellige
 ## Source Context
 
 Encoded from "AI's Role in Co-Creating Meta-Linguistic Environments and Enhancing Collective Intelligence" — exploring AI as a dynamic mirror surfacing language patterns, metaphors, and framing devices to create meta-linguistic environments where groups reflect on and consciously choose the linguistic structures shaping their collective cognition.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

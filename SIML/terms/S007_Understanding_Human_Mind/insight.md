@@ -32,3 +32,20 @@ Yet understanding subjective experience remains fundamentally challenging. Langu
 ## Source Context
 
 MIT Technology Review article on neuroscience mind-reading advances, referencing fMRI research, generative AI reconstruction, psychedelic brain studies, and micro-phenomenological methods.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

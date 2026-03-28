@@ -26,3 +26,20 @@ The source advocates for ontological thinking in modern information systems, ena
 ## Source Context
 
 Encoded from a LinkedIn post by Stephen Clarke MRIM on rethinking information systems through ontological rather than taxonomical approaches, with emphasis on semantic interoperability, Digital Twins, and AI alignment with relational cognition. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

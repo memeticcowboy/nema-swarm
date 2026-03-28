@@ -26,3 +26,20 @@ The framework employs Gibbs' Reflective Cycle for feedback loops and maps hybrid
 ## Source Context
 
 Encoded from "Enhancing the ITS-STREAMware-Cube: A Cybernetic Model for Learning and Identity Formation" — a systemic evaluation and enhancement proposal for a cybernetic learning model integrating Six Thinking Hats, Bloom's Taxonomy, Gardner's MI, cyborg archetypes, and proposed additions of second-order cybernetics, meta-cognition, autopoietic recursion, and Bayesian reasoning. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -38,3 +38,20 @@ The architecture of morphic fields as invisible blueprints provides structural o
 
 ## Source Context
 Derived from an exploration of Rupert Sheldrake's extended mind and morphic resonance theories, examining evidence for non-local mental connections and the implications for our understanding of consciousness, interconnection, and the boundaries of the self.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

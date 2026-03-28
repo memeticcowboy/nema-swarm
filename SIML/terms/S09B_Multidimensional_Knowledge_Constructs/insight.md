@@ -26,3 +26,20 @@ Epistemic topology maps potential knowledge zones and performative identity laye
 ## Source Context
 
 Encoded from "Exploring Multidimensional Knowledge Constructs" — an exploration of contextual intelligence, epistemic topology, adaptive decision-making frameworks, radical constructivism, and integrated systemic thinking as approaches to understanding knowledge as living dialogue. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

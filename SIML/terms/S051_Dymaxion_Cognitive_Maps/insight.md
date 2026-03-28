@@ -42,3 +42,20 @@ The geodesic network provides structural integrity without hierarchy. Fuller's g
 ## Source Context
 
 Derived from the synthesis of Buckminster Fuller's Dymaxion projection and geodesic geometry with cognitive mapping theory and systems thinking. Draws on Fuller's design science, complexity theory, and knowledge management research on multi-perspective modeling.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

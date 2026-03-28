@@ -28,3 +28,20 @@ The deeper insight connects individual bliss to universal mythological patterns.
 ## Source Context
 
 Encoded from "Follow your bliss" — an exploration of Joseph Campbell's philosophy of bliss-following rooted in Sanskrit wisdom, his pedagogical practice at Sarah Lawrence, and the connection between personal rapture and mythological patterns.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

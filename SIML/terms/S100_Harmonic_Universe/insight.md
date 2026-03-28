@@ -28,3 +28,20 @@ The harmonic universe requires integration rather than dominance — mental and 
 ## Source Context
 
 Encoded from "Exploring the Harmonic Universe: Beyond Mental Constructs to Emotional Understanding" — critiquing purely mental approaches to consciousness and manifesting, advocating for the integration of inner feminine sensitivity and embodied emotional processing as essential for harmonic consciousness and genuine transformation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

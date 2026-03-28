@@ -25,3 +25,20 @@ Within practical decision-making contexts, the Notice stage corresponds to the a
 
 ## Source Context
 Derived from source material on the NEME cycle (Notice, Engage, Mull, Exchange), with particular emphasis on the Notice stage as the foundational perceptual act. References Peirce's Firstness as a philosophical grounding for pre-analytical awareness. Part of the Sensemaking & Epistemics S-series within the SIML encoding project.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

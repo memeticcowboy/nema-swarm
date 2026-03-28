@@ -40,3 +40,20 @@
 
 *Generated from: Trust and Truth: A Complex Relationship*
 *Hex: #C118 | Elemental emphasis: σ:0.90 ρ:0.90 λ:0.85 β:0.80 δγ:0.85 μ:0.75*
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

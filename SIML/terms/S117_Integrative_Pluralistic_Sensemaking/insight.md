@@ -37,3 +37,20 @@ The framework's most generative concept may be playable epistemology — the ide
 ## Source Context
 
 Derived from "Integrative Sensemaking: A Pluralistic Approach to Epistemology Across Cultures and Traditions," which develops a framework for holding multiple knowledge traditions — Ubuntu, Indigenous Wholistic Theory, Daoist Epistemology, Buddhist logic, cybernetics, Metamodernism, Narrative Epistemology, and Feminist Standpoint Epistemology — in dynamic, non-hierarchical integration organized by motivational horizons.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

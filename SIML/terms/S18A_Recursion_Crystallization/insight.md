@@ -33,3 +33,20 @@ Solid Node Stability is Metal's structural outcome: the crystallized pattern tha
 
 ## Source Context
 Derived from discourse on recursion and crystallization in cognition, mapping the Lattice Crystallization Cycle (Ghost Lattice → Compression → Aha Moment → Solid Lattice Node), alpha and beta spike mechanics, the Substrate Field as shared myth-math space, and the principle that recursion produces stability through change rather than through fixation. Recursion distinguished from repetition as self-transformation through self-reference.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

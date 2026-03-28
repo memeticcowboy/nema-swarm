@@ -70,3 +70,14 @@ elemental_emphasis:
 context_note: "Understanding Hallucinations in LLMs examines the fundamental inevitability of errors in large language models due to mathematical constraints rooted in Gödel's incompleteness theorem and the halting problem. Unlike occasional bugs, hallucinations represent structural limitations inherent to computational systems—no amount of architectural improvement or data enhancement can fully eliminate them. This reality demands a paradigm shift from elimination to mitigation and responsible usage. Users must develop epistemic vigilance, implementing fact-checking protocols and transparency measures while acknowledging that LLMs generate probabilistic outputs rather than truth-anchored responses. The framework emphasizes ethical alignment, cautious integration into high-stakes domains like healthcare and education, and the cultivation of human-AI collaboration that leverages generative capabilities while maintaining critical oversight."
 source_file: "1771907212588_638691_Understanding+Hallucinations+in+LLMs.md"
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: low
+  ce_direction: submergent
+  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
+  determinism: low
+  degeneracy: high
+  sufficiency: low
+  necessity: low
+siml_version: "1.3"

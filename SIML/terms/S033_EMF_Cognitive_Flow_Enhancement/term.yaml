@@ -46,3 +46,14 @@ elemental_mapping:
 related_terms: ["S00A_Slow_Practices_Flow_State", "S033_EMF_Cognitive_Flow_Enhancement", "S034_Elite_Athlete_Cognitive_Patterns"]
 status: canonical
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: low
+  ce_direction: submergent
+  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
+  determinism: low
+  degeneracy: high
+  sufficiency: low
+  necessity: low
+siml_version: "1.3"
