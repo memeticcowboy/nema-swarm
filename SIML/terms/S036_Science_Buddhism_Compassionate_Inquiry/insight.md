@@ -27,3 +27,20 @@ The emphasis on secular ethics creates common ground beyond metaphysical commitm
 ## Source Context
 
 Based on material exploring the Dalai Lama's advocacy for science-Buddhism dialogue, neuroscience of meditation research, and the development of secular ethical frameworks bridging empirical and contemplative traditions.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

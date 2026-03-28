@@ -37,3 +37,20 @@ The source text proposes five specific emergent forms: metaphors that bridge emb
 ## Source Context
 
 The source document explores human-AI cognitive interaction through the quantum entanglement metaphor, proposing that meaning transforms rather than merely transfers between cognitive systems. It draws on phenomenology, cognitive science, and creative practice to articulate a framework for understanding emergent hybrid cognition. The work contributes to growing discourse on AI co-creativity, post-humanist epistemology, and the ontological status of human-AI collaborative artifacts.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

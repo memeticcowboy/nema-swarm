@@ -28,3 +28,20 @@ The collaborative dimension amplifies both functions. When individual maps are s
 ## Source Context
 
 Encoded from "Cognitive Cartography: Mapping Knowledge Gaps" — presenting cognitive cartography as a visual, collaborative method for mapping and exploring unknown knowledge gaps, connecting to Rumsfeld's known/unknown framework, and emphasizing ignorance mapping as a driver of curiosity, interdisciplinary connection, and targeted inquiry.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

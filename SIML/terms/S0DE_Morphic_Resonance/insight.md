@@ -28,3 +28,20 @@ The challenge to the mechanistic worldview is fundamental. Where mechanism expla
 ## Source Context
 
 Encoded from "Rethinking Nature: Morphic Resonance Explained" — an exploration of Sheldrake's theory that nature has inherent memory where similar patterns influence subsequent ones through morphic resonance, reframing laws of nature as habits within a radically evolutionary, self-organizing universe.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

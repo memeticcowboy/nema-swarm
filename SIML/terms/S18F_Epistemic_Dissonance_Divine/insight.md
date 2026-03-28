@@ -33,3 +33,20 @@ Meta-narrative architecture is Metal's structural contribution: the framework th
 
 ## Source Context
 Derived from discourse on navigating epistemic dissonance within the mythic framework of Arboriel in the Grove of Divine Dissonance, epistemic grammar that refuses closure, faithful synthesis as the art of elevating latent grammar into coherent meta-narrative without forcing resolution, and the principle that dissonance is a dwelling-place rather than a problem to be solved.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

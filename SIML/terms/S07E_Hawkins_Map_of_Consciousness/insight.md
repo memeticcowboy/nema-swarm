@@ -26,3 +26,20 @@ The map serves multiple practical purposes: self-assessment (reflecting on one's
 ## Source Context
 
 Encoded from "Navigating the Spectrum of Human Emotions: David R. Hawkins' Map of Consciousness" — overview of Hawkins' consciousness scale from shame/guilt to love/enlightenment, its uses for self-assessment, understanding others, and spiritual development, including kinesiology calibration methodology. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

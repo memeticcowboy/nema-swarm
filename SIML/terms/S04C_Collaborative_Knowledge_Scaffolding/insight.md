@@ -38,3 +38,20 @@ Structural frameworks and learning blueprints provide the organizational archite
 
 ## Source Context
 Derived from research on collaborative knowledge building, cognitive scaffolding, and community-based inquiry, examining how structured collaboration produces understanding that exceeds individual cognitive capacity through iterative idea improvement and diverse perspective integration.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

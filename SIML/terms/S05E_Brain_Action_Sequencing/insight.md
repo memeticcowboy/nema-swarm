@@ -46,3 +46,20 @@ The neural coordinate grid architecture is the structural backbone of the entire
 ## Source Context
 
 The source presents Oxford/UCL research on how the brain sequences actions, describing a music-box-like mechanism with specialized cells creating GPS-like coordinate systems for tracking position within action sequences. It discusses implications for understanding planning, reasoning, and psychiatric conditions involving disrupted behavioral sequencing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

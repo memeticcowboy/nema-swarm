@@ -26,3 +26,20 @@ Prevailing models span from Spearman's g factor (general intelligence) to Gardne
 ## Source Context
 
 Encoded from "Exploring the Fundamental Structure of Intelligence: A Comprehensive Framework" — a systematic inquiry via Grok examining prevailing models, hidden assumptions, alternative paradigms, and emergent synthesis of intelligence as a dynamic, multifaceted, living phenomenon. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

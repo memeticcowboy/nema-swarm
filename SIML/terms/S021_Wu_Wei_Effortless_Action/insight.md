@@ -25,3 +25,20 @@ The concept connects directly to modern flow state research. Csikszentmihalyi's 
 
 ## Source Context
 Derived from "The Art of Not Trying," drawing on Lao Tzu's Taoist philosophy of wu-wei. Connects to Csikszentmihalyi's flow state research and broader epistemics of embodied, non-deliberative knowledge. Positioned within the Sensemaking & Epistemics series as an alternative to analytic-rational sensemaking models, emphasizing relational and transformative ways of knowing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

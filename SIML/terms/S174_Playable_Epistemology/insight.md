@@ -36,3 +36,20 @@ On-chain attestation creates the structural backbone of epistemic accountability
 
 ## Source Context
 Derived from discourse on Playmaking Packs for Project Engine, specifically PEPE (Peter's Playable Epistemology for Project Engine), drawing on interactive game design, low-code development (React, Discord bots), on-chain attestation, AI scoring scaffolding, collaborative filtering, competitive validation, and the principle that knowing is most rigorous when it is most playable.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

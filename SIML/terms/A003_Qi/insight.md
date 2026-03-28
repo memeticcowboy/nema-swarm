@@ -112,3 +112,20 @@ Qi reveals Air's most radical reconceptualization: not an element at all but omn
 - **File to:** SIML/terms/A003_Qi/
 - **Cross-reference:** A001_Pneuma (soul-substance contrast), A002_Prana (regulable vs. spontaneous), W004_Wu_Wei (non-action), MET005_Metal_in_Wu_Xing (Wuxing context), E004_Chinese_Earth_Element
 - **Open Question:** If Qi dissolves the Air element, does it also dissolve the SIML elemental framework — or does the framework's capacity to register this dissolution prove its resilience?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

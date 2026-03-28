@@ -28,3 +28,20 @@ The framework's deepest insight is that the end-state is not new certainty but r
 ## Source Context
 
 Encoded from a source exploring the S.H.O.C.K. framework — a model for understanding paradigm ruptures as structured processes of singularity, humbling, ontological rewriting, paradigm death, and the emergence of fragile recursive knowing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ Sustained alertness plays a crucial role in this framework. Even in states descr
 ## Source Context
 
 Encoded from "Exploring Timelessness in Deep Meditation" — analysis of the article "Awareness without time?" examining how deep meditation produces experiences of timelessness, the Extended Now Interpretation (ENI), sustained alertness, and phenomenal temporality. Source: Frischhut's philosophical analysis of meditative atemporality.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

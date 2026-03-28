@@ -37,3 +37,20 @@ The practical application in Dapeng demonstrates how nexus thinking can move fro
 ## Source Context
 
 Based on the Land-Water-Biodiversity Nexus framework applied to Shenzhen's Dapeng New District, drawing on resilience theory, SDG integration, and land-sea coupling research published in environmental science literature. The source emphasizes data-driven resilience assessment through multi-domain indicator matrices for coastal urban sustainability.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

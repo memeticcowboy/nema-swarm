@@ -25,3 +25,20 @@ The faceted classification framework reveals knowledge as a multi-dimensional ec
 ## Nemetic Resonance
 
 This framework exemplifies the σ (Air) tension between unity and multiplicity—seeking coherent organization while honoring diverse perspectives. The ρ (Water) flow between structure and fluidity mirrors how knowledge must be both navigable and adaptable.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

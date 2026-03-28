@@ -32,3 +32,20 @@ The dominant element. Metal reveals the structural architecture of the attention
 
 ## Source Context
 Derived from research on human attention limits in media and digital applications, drawing on the LC4MP (Limited Capacity Model of Motivated Mediated Message Processing), working memory research (7-9 chunks), sustained attention studies (8-12 second decay), multitasking efficiency data (40% reduction), web engagement metrics (47-second average dwell time), daily digital attention budgets (8-10 hours), and attention-based neural point process models that formalize attention as a zero-sum commodity.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -37,3 +37,20 @@ The most productive reading of this analysis is not as a ranking of philosophies
 ## Source Context
 
 Derived from a structured SWOT analysis examining Biocentrism, Eco-Holism, and Deep Ecology, with references to real-world implementations including the Endangered Species Act, Yellowstone wolf reintroduction, and marine protected areas. The analysis considers ethical, policy, economic, and cultural dimensions with examples from diverse geographic and cultural contexts.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

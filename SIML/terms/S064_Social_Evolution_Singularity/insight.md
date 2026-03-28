@@ -46,3 +46,20 @@ Social institutions and civilizational structures represent the defining achieve
 ## Source Context
 
 The source presents Dobrolyubov's framework of three-phase social evolution — Adaptive, Structural, and Cognitive — punctuated by two singularities: the Neolithic transition and the ongoing Global transition. It analyzes how the Structural phase produces inequality through individual competition and uniformity through societal competition, and argues that the emergent Cognitive phase will transcend current social institutions.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -56,3 +56,20 @@ Psilocybin's Impact on Brain Activity — Research on default mode network desyn
 
 ## Key Insight
 The default mode network's desynchronization under psilocybin represents a temporary unbinding of the self-model—creating a window of enhanced neuroplasticity that, when properly integrated, can produce lasting therapeutic benefits for conditions like depression.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

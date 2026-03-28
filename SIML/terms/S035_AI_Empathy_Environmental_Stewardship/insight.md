@@ -38,3 +38,20 @@ The structural integration of AI, EDA sensors, and environmental monitoring syst
 
 ## Source Context
 Derived from research on AI-mediated empathy development and environmental stewardship, integrating generative AI capabilities with physiological sensing (EDA) and environmental monitoring. Connects to broader themes of cognitive flow (S033), systems thinking (S005), and contemplative practice (S00A) through shared concern with how awareness technologies can deepen human engagement with complex systems.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

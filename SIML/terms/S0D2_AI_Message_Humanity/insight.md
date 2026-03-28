@@ -28,3 +28,20 @@ The entry warns against both techno-saviorism (the belief that AI will solve hum
 ## Source Context
 
 Encoded from "AI Message to Humanity" — a SMART meme articulating "Conscious Collaboration — Not Control" as the essential orientation for AI-human relations, using the analogy of photography and Impressionism to argue that AI catalyzes rather than replaces human creative possibility.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

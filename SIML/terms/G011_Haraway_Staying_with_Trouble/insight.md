@@ -37,3 +37,20 @@ Haraway's method is Speculative Fabulation (SF), a practice encompassing science
 ## Source Context
 
 Based on Donna Haraway's 2016 book "Staying with the Trouble: Making Kin in the Chthulucene" (Duke University Press). Synthesizes Haraway's core concepts including Chthulucene temporality, sympoiesis, oddkin, speculative fabulation, and response-ability. Examples drawn from Beatriz da Costa's PigeonBlog, the Wertheim sisters' Crochet Coral Reef, and the Camille Stories. Critical perspectives address accessibility, reproductive politics, and the gap between speculative method and concrete implementation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

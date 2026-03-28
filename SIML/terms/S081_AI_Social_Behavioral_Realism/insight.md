@@ -26,3 +26,20 @@ The development of social norms by AI agents creates a feedback loop: as AI beco
 ## Source Context
 
 Encoded from "Insights on AI Development and Social Interaction" — reflection on behavioral realism in AI, adaptive systems and social roles, ethical considerations for emergent AI behavior, interdisciplinary research bridging AI and social sciences, and applications across education, mental health, and cultural studies. Source: Sensemaking & Epistemics collection, via SophiaCycles.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

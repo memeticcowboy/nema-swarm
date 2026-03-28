@@ -28,3 +28,20 @@ A distinctive feature of this framework is its consideration of AI-mediated inte
 ## Source Context
 
 Encoded from "Speculative Psychic-Metaphysics: Symbolic Affordances and Transpersonal Fields" — mapping the speculative territory where archetypal resonance, morphic fields, noospheric coupling, and dream-reality crossfeed converge, with consideration of AI-mediated interfaces as novel amplifiers.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

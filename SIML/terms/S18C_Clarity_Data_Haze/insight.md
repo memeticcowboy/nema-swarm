@@ -33,3 +33,20 @@ Structural navigation builds frameworks for traversing data landscapes: maps, hi
 
 ## Source Context
 Derived from discourse on rising above data overload to achieve clarity, the Signal Peak as epistemological practice, the phenomenology of information haze and the distinction between mechanical filtering and organic discernment. Navigation through overwhelming data landscapes toward essential meaning in an age of information saturation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

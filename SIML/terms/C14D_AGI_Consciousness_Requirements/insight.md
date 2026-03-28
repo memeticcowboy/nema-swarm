@@ -115,3 +115,20 @@ AGI Consciousness Requirements argues that artificial general intelligence needs
 - **File to:** SIML/terms/C14D_AGI_Consciousness_Requirements/
 - **Cross-reference:** A010_Virtual_Machine_Consciousness (layered consciousness architecture), A011_Conscious_Realism (consciousness as fundamental — opposing ontology), C090_modular_intelligence (modular capability), C141_Consciousness_in_AI, C149_Metacognition_AI, C129_consciousness_and_ai
 - **Open Question:** Is Voss's functional/phenomenal distinction a genuine ontological cut — or a pragmatic fiction that enables engineering while evading the hard problem? And if functional consciousness generates phenomenal consciousness as emergent property, does the distinction collapse?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

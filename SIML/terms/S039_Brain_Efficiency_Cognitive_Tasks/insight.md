@@ -37,3 +37,20 @@ The fMRI measurement framework provides the structural backbone of the findings.
 
 ## Source Context
 Based on research demonstrating that brain activity during complex cognitive tasks is both informative and compressible, with efficiency increasing under higher cognitive demand. fMRI studies reveal higher-order networks as the primary locus of adaptive pattern changes.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

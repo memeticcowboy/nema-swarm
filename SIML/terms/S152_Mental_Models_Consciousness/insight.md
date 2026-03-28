@@ -28,3 +28,20 @@ Mental models contribute to consciousness itself by providing the representation
 ## Source Context
 
 Encoded from "The Role of Mental Models in Consciousness" — examining mental models as internal representations shaping cognition and consciousness, their function as the mind's eye for simulation, prediction, and navigation, and their contribution to self-awareness through structured viewpoints that are flexible, evolving, and multilayered.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

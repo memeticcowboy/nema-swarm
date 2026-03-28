@@ -35,3 +35,20 @@ The encoding emphasizes earth as the dominant tendency, reflecting the tradition
 ## Source Context
 
 Derived from "Exploring Chakras, Energy Systems, and Spiritual Transformation," which presents the seven-chakra model as both a map of consciousness and a developmental path. The encoding captures the system's emphasis on grounding-before-transcendence, the Heart's bridging function, and the integration of embodied and transpersonal experience through balanced chakra activation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ This concept advances the provocative claim that language is not a tool deployed
 ## Source Context
 
 This concept emerges from the intersection of philosophy of language, cognitive science, and the recent cultural encounter with large language models. The parallel between human autoregressive thinking and LLM token prediction is not merely metaphorical — it suggests a structural homology that challenges assumptions about consciousness, agency, and the nature of thought. The source material explores thought control not as political censorship but as the deeper structural control that language exercises over cognition itself.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -26,3 +26,20 @@ Neurobiological activity phases underlie emotional experience in cycles of arous
 ## Source Context
 
 Encoded from an analysis of emotion-cognition interaction examining emotion schemas versus basic emotions, neurobiological activity phases, consciousness levels, memes, and mirror neurons in socioemotional development. Source reference: PMC2723854. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

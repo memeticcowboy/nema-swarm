@@ -34,3 +34,20 @@ Structural transformation reconfigures the very architecture through which learn
 
 ## Source Context
 Based on Gregory Bateson's epistemological and cybernetic frameworks, particularly "Steps to an Ecology of Mind" and his levels of learning theory. Integrated with contemporary neuroscience research on pattern recognition and experiential learning methodologies. Applicable across education, organizational development, leadership, and personal transformation contexts.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

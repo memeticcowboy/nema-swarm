@@ -112,3 +112,20 @@ Conscious Realism reveals that we do not see reality as it is but as evolution s
 - **File to:** SIML/terms/A011_Conscious_Realism/
 - **Cross-reference:** A010_Virtual_Machine_Consciousness (self as software), A012_Interface_Theory (detailed interface model), A064_Actual_Occasion (process ontology parallel), C045_nature_of_consciousness, S0EF_Hoffman_Higher_Dimensions
 - **Open Question:** If SIML operators (σ, ρ, β, γ, etc.) are themselves fitness-payoff icons rather than veridical descriptions of reality, does Conscious Realism demand a meta-SIML that operates below the interface — or is the interface all we can ever work with?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

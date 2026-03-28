@@ -37,3 +37,20 @@ The historical dimension is sobering. Commercial whaling drastically reduced wha
 ## Source Context
 
 Based on The Cooldown reporting on a study of whale nutrient transport, documenting how migrating humpbacks, grays, and right whales move thousands of tons of nitrogen from polar to tropical waters, fertilizing phytoplankton and coral reefs and functioning as the ocean's circulatory system.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

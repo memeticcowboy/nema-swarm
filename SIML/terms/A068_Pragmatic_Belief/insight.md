@@ -100,3 +100,20 @@ That's the pragmatic mystery. The map and the territory both matter, and the lin
 - [Illusion of Self](https://memeticcowboy.github.io/nemetics/glossary/illusion_of_self.html) (C16C) — Dennett's Multiple Drafts Theory and the fragmented self
 - [Multiplicity](https://memeticcowboy.github.io/nemetics/glossary/multiplicity.html) (M001) — The fundamental pluralism of the NEMEtic framework
 - [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html) (E011) — Action-based alternative to representational mind
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

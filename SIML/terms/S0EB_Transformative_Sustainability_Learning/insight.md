@@ -28,3 +28,20 @@ The broader significance of TSL lies in its connection to educational reform, en
 ## Source Context
 
 Encoded from "Transformative Sustainability Learning (TSL) Mini-Memetic Profile" — a memetic analysis of holistic sustainability education integrating Head, Hands, and Heart to position learners as change-makers through evolutionary pedagogy connecting individual growth to systemic ecological responsibility.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ The implications extend directly to artificial intelligence. Current AI systems 
 ## Source Context
 
 Encoded from "Unveiling Goal-Progress Cells: Insights for Neuroscience and AI" — an exploration of how the brain uses specialized neurons to track progress through action sequences toward behavioral goals, enabling prediction and generalization in novel scenarios, with implications for building adaptable artificial intelligence.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

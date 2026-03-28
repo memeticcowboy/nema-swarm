@@ -28,3 +28,20 @@ Spinoza's Ethics (1677) proposes a radical thesis: every human emotion, no matte
 ## Source Context
 
 This concept sits at the intersection of rationalist philosophy, affective neuroscience, and computational visualization. It demonstrates that Spinoza's geometric treatment of emotion is not a historical curiosity but a living framework with ongoing empirical relevance. The data visualization dimension brings a 17th-century text into conversation with contemporary computational media, revealing structural insights that emerge only when the medium of analysis matches the complexity of the subject.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

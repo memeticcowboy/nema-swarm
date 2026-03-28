@@ -38,3 +38,20 @@ The physical substrate constrains and shapes network architecture, providing the
 
 ## Source Context
 Derived from research on fungal decision-making, mycelial network optimization, and the capacity of brainless organisms to recognize shapes, solve path-optimization problems, and adaptively allocate resources, with applications to urban planning, transportation design, and distributed computing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

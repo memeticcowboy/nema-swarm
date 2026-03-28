@@ -28,3 +28,20 @@ The challenge to arboreal models runs deep. Traditional Western thought organize
 ## Source Context
 
 Encoded from "Embracing Rhizomatic Identity: Deleuze's Philosophy Unpacked" — an exploration of Deleuze and Guattari's rhizome concept as non-hierarchical network, rhizomatic identity as fluid multiplicity, the six principles of rhizomatic thought, and the challenge to arboreal models of knowledge and identity.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

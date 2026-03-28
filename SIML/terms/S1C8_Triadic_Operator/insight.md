@@ -23,3 +23,20 @@ The practical moves are: hold both without premature collapse, test both through
 
 ## Source Context
 A meta-framework defining the Triadic Operator as the universal template for navigating binary oppositions through held tension, operational testing, and omega-return rather than premature synthesis or collapse.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

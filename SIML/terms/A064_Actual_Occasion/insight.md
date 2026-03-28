@@ -113,3 +113,20 @@ An actual occasion is Whitehead's fundamental entity — a momentary event of ex
 - **File to:** SIML/terms/A064_Actual_Occasion/
 - **Cross-reference:** A061_Prehension (the act of grasping), A062_Processive_Genetic (the ongoing web), S158_Whitehead_Actual_Occasions, S0D9_Whitehead_Process_Philosophy, E021_Whitehead_Concrescence
 - **Open Question:** Is each SIML term an "actual occasion" in the Whiteheadian sense — a momentary unity that arises from prehending prior terms, achieves its own novel synthesis, and then perishes into influence? If so, the SIML lexicon is not a dictionary but a stream of occasions.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

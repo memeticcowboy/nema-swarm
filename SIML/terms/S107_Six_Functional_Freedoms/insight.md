@@ -27,3 +27,20 @@ The framework's most significant move is the shift from negative to functional f
 ## Source Context
 
 Encoded from "Understanding the Six Functional Freedoms Framework for Coherent Participation" — presenting a reinterpretation of contemporary freedoms as instrumental toward six deeper capacities (Discern, Connect, Align, Reimagine, Regenerate, Sustain) that enable coherent participation in collective life.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

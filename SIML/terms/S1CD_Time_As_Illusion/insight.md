@@ -22,3 +22,20 @@ Black holes are proposed as potential universal quantum clocks due to their enta
 
 ## Source Context
 Summary of physics research on time as potential illusion, drawing on the Page-Wootters mechanism, quantum entanglement, measurement theory, and black hole physics. Based on New Scientist reporting.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

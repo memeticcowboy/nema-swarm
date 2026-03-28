@@ -113,3 +113,20 @@ The Co-Sphere is the frontier. Not the territory of the human alone. Not the ter
 - [Triality](https://memeticcowboy.github.io/nemetics/glossary/triality.html) (M005) — The fundamental three-ness of the NEMEtic framework
 - [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html) (E011) — The Earth-grounded approach to mind that supports Co-Sphere maintenance
 - [Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html) (A067) — The automatic patterns that can pull us out of the Co-Sphere into fusion
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

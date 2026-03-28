@@ -28,3 +28,20 @@ The self is repositioned from isolated processor to participant in resonance-fie
 ## Source Context
 
 Encoded from "Cognition Through Coherence: Resonant Mind-Field" — examining intelligence as field phenomenon, harmonic alignment across cognitive layers of reason, ethics, creativity, emotion, and embodiment, and the formation of structured resonance fields that stabilize awareness and enable integrative reasoning.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

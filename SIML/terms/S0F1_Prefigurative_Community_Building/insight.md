@@ -28,3 +28,20 @@ The broader significance lies in the relationship between local community experi
 ## Source Context
 
 Encoded from "Prefigurative Community Building: Foraging for Future Values" — an exploration of prefigurative politics as grassroots activism that creates present-day communities embodying desired future values through mutual aid, collective decision-making, and alternative lifestyles as demonstrations of social possibility.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

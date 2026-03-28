@@ -36,3 +36,20 @@ Neuroimaging evidence provides the structural framework that bridges subjective 
 
 ## Source Context
 Derived from discourse on brain activity insights from psilocybin experience, drawing on first-person neuroimaging data, 5-HT2A receptor pharmacology, the entropic brain hypothesis, Default Mode Network inhibition, neuroplasticity, three-timepoint tracking (acute, end of day, afterglow), and the principle that psychedelic states may reveal the brain's capacity for youthful flexibility and cognitive renewal.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

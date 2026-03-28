@@ -28,3 +28,20 @@ Metal strengthens yet can cut. Enhancement augments capabilities but may erode t
 
 ## Source Context
 Based on analysis of *Nexus* by Yuval Noah Harari (via SoBrief summary), exploring a fictional nano-drug that enhances human consciousness and the societal implications of widespread cognitive augmentation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

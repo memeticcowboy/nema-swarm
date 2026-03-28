@@ -46,3 +46,20 @@ Linguistic grammatical structure and cognitive architecture provide the formal s
 ## Source Context
 
 The source explores the relationship between language and consciousness, arguing that language is a recent human development while consciousness has ancient evolutionary roots across many species. It contends that consciousness exists without language but that language enriches conscious experience by amplifying social interactions, enabling rational thinking, and providing explicit expression of thoughts that enables seeking reasons and justifications.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

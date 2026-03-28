@@ -37,3 +37,20 @@ The structural embedding of memes in cultural systems — languages, media, inst
 
 ## Source Context
 Based on an analysis applying Clark and Chalmers' Extended Mind Hypothesis to memetic theory, treating memes as cognitive prosthetics and active cognitive agents that co-evolve with human cognition and generate emergent cultural complexity. Closely related to S03E (Subjective Idealism, Memes, and Reality).
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

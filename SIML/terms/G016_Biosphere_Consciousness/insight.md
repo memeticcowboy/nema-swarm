@@ -37,3 +37,20 @@ Biosphere consciousness draws from thinkers like Jeremy Rifkin, who frames it as
 ## Source Context
 
 Based on a synthesis of biosphere consciousness literature drawing from Jeremy Rifkin's empathic civilization framework, Earth system science, and ecological philosophy. The source emphasizes the shift from anthropocentric to ecocentric perspective, the direct impact of human activities on all ecosystems, and the necessity of collective action for addressing climate change and preserving biodiversity. References include sustainability discourse, NPR science commentary, and ecological consciousness scholarship.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

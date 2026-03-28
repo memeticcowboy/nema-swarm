@@ -23,3 +23,20 @@ The cross-domain view reveals that these are not separate inquiries but intercon
 
 ## Source Context
 A philosophical domain mapping of X-thread concepts, clustering discussions into Metaphysics, Epistemology, Logic, Ethics, Aesthetics, and Politics with digital-age annotations. Developed in exchange with Bob-RJ Burkhart.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

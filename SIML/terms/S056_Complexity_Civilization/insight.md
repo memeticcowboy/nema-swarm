@@ -42,3 +42,20 @@ Institutional scaffolding provides the structural persistence that allows civili
 ## Source Context
 
 Derived from complexity science perspectives on civilization, drawing on NECSI research, Santa Fe Institute complexity theory, Tainter's collapse dynamics, and cultural evolution theory. Engages with self-organization theory, collective intelligence research, and institutional analysis of civilizational resilience.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ This framework has implications for how understanding itself is conceptualized. 
 ## Source Context
 
 Encoded from "Participatory Sense-Making: Navigating the Recursive Loops of Understanding with Hanne De Jaegher" — presenting De Jaegher's framework for understanding intersubjectivity through participatory engagement, where meaning emerges through interaction dynamics that exceed individual cognition, creating recursive loops of shared understanding irreducible to any single participant.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

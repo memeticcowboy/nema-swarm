@@ -112,3 +112,20 @@ Virtual Machine Consciousness reveals that the "self" is not the observer but on
 - **File to:** SIML/terms/A010_Virtual_Machine_Consciousness/
 - **Cross-reference:** A009_Linguistic_Organism (language as primary software), A011_Conscious_Realism (perception as interface), A014_Dark_Patterns (exploiting the hackable mind), C129_consciousness_and_ai, C14D_AGI_Consciousness_Requirements
 - **Open Question:** If mind is an operating system, what is the BIOS — the minimal set of processes that must run before any "conscious" layer can execute? And can that BIOS be formalized in SIML operators?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

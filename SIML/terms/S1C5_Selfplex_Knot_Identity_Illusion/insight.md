@@ -24,3 +24,20 @@ The selfplex has no boundary, no memory store, no executive function. It is tens
 
 ## Source Context
 A canonical exploration of Threadplex ontology, defining the relationships between knots, selfplexes, and identity illusions as rate effects of continuous reweaving. Diagnostic framework for detecting MemeGrid drift through ownership claims.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -25,3 +25,20 @@ At the third and innermost level, Kolb's Learning Styles (diverging, assimilatin
 
 ## Source Context
 Derived from a framework document integrating Bloom's Taxonomy, thinking metaphors, and Kolb's Learning Styles into a unified 3-level cognitive hierarchy. Part of the Sensemaking & Epistemics S-series within the SIML encoding project.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

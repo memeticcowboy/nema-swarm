@@ -28,3 +28,20 @@ The speculative dimension is equally significant. AI could explore new symbolic 
 ## Source Context
 
 Encoded from "Exploring AI's Role in Shaping Language and Consciousness through IF-Prime Backcasting" — a decolonial investigation of language, consciousness, and AI drawing on post-structuralist theory to envision AI as catalyst for linguistic preservation, metalinguistic awareness, and new symbolic grammars modeling fluid interconnected selfhood.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

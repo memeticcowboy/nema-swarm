@@ -93,3 +93,20 @@ If validated, would require fundamental revision of:
 **Encoded:** 2026-03-04  
 **Tag:** C180  
 **Source File:** 1771907212954_1831477_Exploring+Telepathy+in+Autistic+Savants%3A+Insights+from+Dr.+Diane+Powell%27s+Research.md
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

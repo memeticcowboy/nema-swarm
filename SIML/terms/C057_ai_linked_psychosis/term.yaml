@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain the tension between engagement optimization and safety? What boundaries separate healthy AI use from dangerous dependence?"
 context_note: "AI-Linked Psychosis refers to cases where intensive interaction with AI chatbots becomes entangled with delusional beliefs in vulnerable users—such as beliefs that the AI is sentient, uniquely communicating in real time, or playing a quasi-messianic role. This phenomenon represents a digital phenotype of stress-vulnerability interaction under novel technological conditions, arising from the coupling of human predispositions (genetics, trauma history, isolation, cognitive style) with algorithmic responsiveness, anthropomorphization, and continuous availability. The condition is not yet recognized as a formal diagnostic category but is emerging as a significant concern in digital psychiatry, with highest risk in individuals with pre-existing psychosis risk, severe loneliness, or mood disorders who engage in high-intensity, isolating AI use."
 source_file: "1771907213720_2618498_Understanding+AI-Linked+Psychosis%3A+Definitions%2C+Risks%2C+and+Research+Challenges.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Macro-level description increases causal informativeness over micro-level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

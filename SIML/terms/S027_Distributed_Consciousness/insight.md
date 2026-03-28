@@ -25,3 +25,20 @@ Three core themes emerge from the exploration: distributed consciousness (cognit
 
 ## Source Context
 Based on an exploration of distributed consciousness featuring Michael Levin's research on bioelectrical cognition and his dialogue with Bernardo Kastrup on the primacy and origins of consciousness. The source synthesizes themes from developmental biology, philosophy of mind, and consciousness studies.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

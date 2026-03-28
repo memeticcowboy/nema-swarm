@@ -34,3 +34,20 @@ The granthi system exhibits a dual dominance of **Earth (δγ = 0.85)** and **Fi
 Derived from: `1771907213357_2322524_Understanding+Granthis%3A+Unlocking+Spiritual+Blockages.md`
 
 The granthi framework bridges yogic energy work with psychological development theory. Read through a nemetic lens, the three granthis map to three orders of memeform attachment: survival codes (deepest, most automatic), relational codes (most emotionally charged), and identity codes (most subtle, most recursively self-referencing). Liberation through sequential granthi-piercing parallels the process of examining and releasing increasingly subtle layers of conditioned pattern.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

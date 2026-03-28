@@ -4,3 +4,14 @@ name: flow
 element: ''
 description: ''
 source: Consolidated from 1 insight(s)
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

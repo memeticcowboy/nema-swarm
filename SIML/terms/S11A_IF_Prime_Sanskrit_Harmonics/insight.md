@@ -31,3 +31,20 @@ IF-Prime Sanskrit Harmonics establishes a resonance mapping between the IF-Prime
 ## Source Context
 
 Derived from `1771907213334_2301761_Harmonic+Resonances%3A+Aligning+IF-Prime+Elements+with+Sanskrit+Wisdom.md`, which systematically maps each IF-Prime element to its nearest Sanskrit harmonic while maintaining the integrity of both frameworks. The source emphasizes that the mapping is not reductive but generative — each harmonic pairing illuminates aspects of both traditions that might remain invisible without the resonance. The inclusion of Aether/Ākāśa as the encompassing medium reflects the Sanskrit understanding that space is not emptiness but the condition of possibility for all elemental manifestation, and the IF-Prime recognition that the elements operate within a field that exceeds any single element.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

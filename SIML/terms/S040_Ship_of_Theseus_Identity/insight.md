@@ -38,3 +38,20 @@ Structural form versus material substrate provides the key analytical distinctio
 
 ## Source Context
 Derived from an exploration of the Ship of Theseus thought experiment applied across personal identity, biological evolution, and cultural transformation, arguing for a processual rather than essentialist understanding of identity and continuity.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

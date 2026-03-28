@@ -488,3 +488,14 @@ In the NEMA swarm, Peer Instruction serves as a model for how collective intelli
 
 *"The person who knows the answer has one kind of knowledge. The person who can explain the answer has a deeper kind."*
 — Adapted from Eric Mazur, *Peer Instruction: A User's Manual* (1997)
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

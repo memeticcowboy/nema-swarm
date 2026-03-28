@@ -34,3 +34,20 @@ Archaeological and anthropological evidence provides the structural framework fo
 
 ## Source Context
 Draws on archaeological evidence (Roma 2 dwarf care, matriarchal societies), anthropological research on early human social organization, and critiques of Social Darwinism and materialist reductionism. Challenges the narrative frameworks of competitive individualism and "survival of the fittest" as applied to human nature and social organization.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

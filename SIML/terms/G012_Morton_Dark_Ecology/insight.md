@@ -37,3 +37,20 @@ Morton's philosophical system coheres through ontological flattening: dismantlin
 ## Source Context
 
 Based on Timothy Morton's "The Ecological Thought" and "Dark Ecology," analyzed through a systemic philosophical framework spanning metaphysics, epistemology, logic, ethics, aesthetics, and politics. Emphasizes Morton's commitment to ontological flattening, the mesh of entangled coexistence, interobjectivity, strange strangers, hyperobjects, and dark ecological aesthetics. Draws from contemporary life sciences to argue against pristine nature and for the constant flux and interconnection of all life forms.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

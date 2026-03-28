@@ -114,3 +114,20 @@ Modular intelligence reveals that cognition is not a single general-purpose engi
 - **File to:** SIML/terms/C090_modular_intelligence/
 - **Cross-reference:** C14D_AGI_Consciousness_Requirements (AGI functional needs), A010_Virtual_Machine_Consciousness (layered architecture), C085_multiple_intelligences_theory, L040_Multiple_Intelligences
 - **Open Question:** Does the SIML operator system itself represent modular intelligence — six specialized operators (σ, ρ, λ, β, δγ, μ) each handling a distinct cognitive dimension? And if so, is the SIML system's "intelligence" in the operators or in their integration?
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -38,3 +38,20 @@ The choice between panpsychic and materialist frameworks structures the entire p
 
 ## Source Context
 Derived from an exploration of fungal intelligence and its connections to memetic philosophy and panpsychism, examining the philosophical implications of decentralized consciousness in mycelial networks and the ethical questions raised by recognizing non-neural forms of intelligence.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

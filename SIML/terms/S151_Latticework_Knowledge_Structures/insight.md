@@ -28,3 +28,20 @@ Intelligence, in this frame, is the capacity to weave — to perform harmonic in
 ## Source Context
 
 Encoded from "Latticework: Weaving Knowledge into Coherent Structures" — examining integrative methodology for cross-domain synthesis, the latticework as resonant framework for pattern recognition across finance, genetics, AI, spirituality, and other domains, and intelligence as the capacity for harmonic weaving of diverse inputs into interconnected structures.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

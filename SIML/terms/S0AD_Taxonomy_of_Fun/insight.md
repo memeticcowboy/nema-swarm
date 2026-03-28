@@ -26,3 +26,20 @@ The taxonomy identifies ten key attributes underlying fun: excitement/thrill, hu
 ## Source Context
 
 Encoded from a comprehensive taxonomy of fun developed by an expert taxonomist, organizing enjoyment into three domains with detailed subcategories and ten key attributes. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

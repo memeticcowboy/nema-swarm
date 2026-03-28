@@ -80,3 +80,20 @@ Boundaries between mind and machine dissolve through meditative training; consci
 
 **Research Source:** Carnegie Mellon University study on Mindfulness-Based Attention Training (MBAT) and BCI control enhancement.
 **Key Finding:** Eight weeks of meditation training significantly improves alpha rhythm modulation, crucial for brain-computer interface operation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ The implications run deep. If the mind's creative structuring is feature rather 
 ## Source Context
 
 Encoded from "Constructive Hallucination: Order from Perceived Chaos" — examining the reframing of pattern recognition from cognitive flaw to evolutionary feature, the concept of the Pattern Alchemist as co-creator of meaning, and the generative rather than deceptive nature of the mind's creative structuring of experience.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

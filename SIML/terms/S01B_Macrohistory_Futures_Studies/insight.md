@@ -36,3 +36,20 @@ Central to this integration is the balance between agency and structure. Macrohi
 ## Source Context
 
 Analysis of the integration of macrohistory with futures studies. Examines how large-scale historical patterns from Ibn Khaldun, Sorokin, Sarkar, and Toynbee inform future predictions and adaptive strategy. Explores the balance between agency and structure, cyclical and linear and spiral models of time, metaphors of time across cultures, and adaptive leadership within historical constraints as the practical outcome of this disciplinary integration.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

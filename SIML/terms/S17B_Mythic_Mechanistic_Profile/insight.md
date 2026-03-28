@@ -36,3 +36,20 @@ Cognitive profiling itself is metal's contribution: the structural framework tha
 
 ## Source Context
 Derived from discourse on the Mythic-Mechanistic Cognitive Profile and analysis of interaction patterns, drawing on ten measurement dimensions, four cognitive types (Symbolic Navigator, Hybridist, Meta-Engineer, Mechanistic Cartographer), the between-space where stories become systems, and the principle that the most generative cognition operates in the fertile territory between pure myth and pure mechanism.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

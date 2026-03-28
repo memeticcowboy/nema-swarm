@@ -26,3 +26,20 @@ Key findings include: the intralaminar and medial thalamic nuclei exhibit earlie
 ## Source Context
 
 Encoded from a study on the thalamus's role as consciousness gatekeeper, demonstrating that intralaminar nuclei trigger conscious perception through synchronization with the prefrontal cortex, challenging cortex-centric models. Published in Science (2025). Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

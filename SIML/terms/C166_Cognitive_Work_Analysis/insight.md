@@ -58,3 +58,20 @@ Recognizes that workers adapt to environmental changes and designs systems that 
 - Rasmussen, J. (1986). Information Processing and Human-Machine Interaction: An Approach to Cognitive Engineering. North-Holland.
 - Vicente, K. J. (1999). Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work. Lawrence Erlbaum Associates.
 - https://x.com/i/grok/share/ljIiYW957Be7AIpcaQWhiWkG9
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

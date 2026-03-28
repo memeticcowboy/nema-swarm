@@ -38,3 +38,20 @@ The seven-chakra structure and the backronym principle mapping provide the rigid
 
 ## Source Context
 Derived from an exploration of the inner cosmos through the seven-chakra system, framed as "Neuroscope: Unveiling the Inner Cosmos," integrating traditional Indian concepts of prana, energy centers, and self-realization with modern metaphors for consciousness, balance, and enlightenment.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

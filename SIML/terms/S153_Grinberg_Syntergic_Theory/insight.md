@@ -28,3 +28,20 @@ These convergences suggest a deep structural pattern across consciousness theori
 ## Source Context
 
 Encoded from "Grinberg's Syntergic Theory: A Cross-Disciplinary Analysis" — examining the informational lattice and neural field interaction, perception as co-creation between consciousness and underlying field, and convergences with holographic brain theory, integrated information theory, predictive processing, implicate order, morphogenetic fields, panpsychism, and quantum-consciousness hypotheses.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

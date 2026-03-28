@@ -28,3 +28,20 @@ The practical implication is that knowledge systems should be designed for wrang
 ## Source Context
 
 Encoded from "Carl Jung on Knowledge Wrangling: Ideas as Autonomous Entities Capturing People's Imagination" — presenting the distinction between knowledge management and knowledge wrangling through a Jungian lens, positioning ideas as autonomous agents that drive innovation through collaboration rather than centralized control.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

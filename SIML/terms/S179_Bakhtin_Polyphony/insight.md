@@ -36,3 +36,20 @@ Structural polyphony is the architectural condition for genuine dialogue. Metal 
 
 ## Source Context
 Derived from discourse on Bakhtin's concept of polyphony and the dialogic self, drawing on Dostoevsky's multivoiced novels, the contrast between polyphony and monologism, dialogic criticism, the self as plural constellation, and the principle that genuine selfhood is the unmerged coexistence of multiple autonomous voices in perpetual conversation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

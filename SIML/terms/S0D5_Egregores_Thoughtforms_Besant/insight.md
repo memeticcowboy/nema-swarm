@@ -28,3 +28,20 @@ Besant proposes quasi-mathematical relationships governing this ecology: an inve
 ## Source Context
 
 Encoded from "Understanding Egregores and Thoughtforms in Annie Besant's Theosophy" — an exploration of Besant's theosophical framework where thoughts are vibrations producing persistent forms, individual thoughtforms aggregate into collective egregores, and quasi-mathematical laws (inverse cube, density-frequency) govern the ecology of the mental field.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

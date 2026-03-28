@@ -26,3 +26,20 @@ The study involved nine epilepsy patients with implanted electrodes allowing dir
 ## Source Context
 
 Encoded from "Study Reveals Unique Human Neuronal Memory Coding" — a report on neuroscience research demonstrating context-independent memory coding in human neurons through direct electrode recordings, with implications for understanding abstract thought, metacognition, and the foundations of human intelligence. Source reference: SciTechDaily. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

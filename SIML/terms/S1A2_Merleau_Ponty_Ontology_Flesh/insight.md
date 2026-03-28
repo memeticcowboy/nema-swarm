@@ -23,3 +23,20 @@ His influence extends into body-oriented and feminist phenomenology, cognitive s
 
 ## Source Context
 Based on exploration of Merleau-Ponty's ontology of flesh and the chiasm between seer and seen. References Stanford Encyclopedia of Philosophy entry on Merleau-Ponty.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

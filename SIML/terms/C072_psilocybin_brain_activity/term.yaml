@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain therapeutic psychedelic use? What boundaries separate beneficial plasticity from dangerous psychotic risk?"
 context_note: "Psilocybin, the active compound in magic mushrooms, causes significant desynchronization of brain networks—particularly the default mode network linked to self-reflection and ego. This temporary dissolution of network coherence, mediated through serotonin receptor activation, creates a window of enhanced neuroplasticity that may persist for weeks. Research using precision functional mapping shows decreased synchronicity between the default mode network and anterior hippocampus lasting at least three weeks, potentially explaining therapeutic benefits for depression. The compound's effects are highly context-dependent, requiring controlled environments and psychosis screening to maximize benefits and minimize risks."
 source_file: "1771907212456_290128_Psilocybin%27s+Impact+on+Brain+Activity.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: multiscale
+  scale_note: "Causal power distributed across multiple description levels"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

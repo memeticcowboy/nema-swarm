@@ -28,3 +28,20 @@ The framework insists on the primacy of context in all decisions. No absolute st
 ## Source Context
 
 Encoded from "Understanding Sensemaking and Complexity: Insights from Dave Snowden's Lecture" — presenting Snowden's Cynefin framework for differentiating system types, the distinction between enabling and governing constraints, the primacy of context over universal rules, and the integration of natural sciences into sensemaking methodology.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -28,3 +28,20 @@ The fruits of this practice — compassion and awareness — arise naturally rat
 ## Source Context
 
 Encoded from "Chögyam Trungpa on Ego and Enlightenment" — an exploration of Trungpa's teaching that enlightenment means surrendering ego's territory rather than destroying ego, revealing basic sanity through meditation and the simplification of existence to body, mind, and consciousness.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

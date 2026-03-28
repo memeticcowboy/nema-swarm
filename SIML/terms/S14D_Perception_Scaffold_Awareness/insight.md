@@ -28,3 +28,20 @@ The self, in this model, functions as signal bridge between field and body, betw
 ## Source Context
 
 Encoded from "Perception Scaffold: Energetic Framework of Awareness" — examining the concept of the perception scaffold as dual-function energetic framework providing structural support and antenna reception for expanded awareness, the self as signal bridge between field and body, and consciousness as received rather than produced.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

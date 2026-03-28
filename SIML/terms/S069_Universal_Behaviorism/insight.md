@@ -46,3 +46,20 @@ The structural contrast between physicalist and behavioral methodologies highlig
 ## Source Context
 
 The source critiques reductive physicalism as inadequate for understanding complex behaviors, advocating for universal behaviorism as an alternative scientific framework. It argues that observing and analyzing behavior across various complexity levels provides more comprehensive scientific understanding than attempting to reduce all phenomena to physics, proposing that all phenomena are best understood through a behavioral lens.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

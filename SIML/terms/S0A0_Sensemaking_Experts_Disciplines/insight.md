@@ -26,3 +26,20 @@ The survey identifies emerging contributors including R.J. Cordes (memetic warfa
 ## Source Context
 
 Encoded from "Key Experts and Concepts in Sensemaking Across Disciplines" — a comparative survey of foundational and contemporary sensemaking experts across organizational theory, information science, HCI, complex systems, and cognitive psychology, with a tabular analysis of contributions and ongoing debates about expert qualification. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

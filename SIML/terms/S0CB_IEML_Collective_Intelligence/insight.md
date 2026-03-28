@@ -28,3 +28,20 @@ The vision extends to "collective intelligence games" — collaborative meaning-
 ## Source Context
 
 Encoded from "Pierre Levy's IEML: A New Language for Collective Intelligence" — an exploration of Levy's metalanguage project for formalizing meaning, enabling semantic interoperability, and enhancing collective intelligence through reflexive scientific self-knowledge and collaborative meaning-construction.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

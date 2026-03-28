@@ -35,3 +35,20 @@ Within the cyborg ensemble, the Protector caps the system by integrating the Str
 ## Source Context
 
 Drawn from a philosophical characterization of the Protector archetype within a larger archetypal-cyborg ensemble. The source positions the Protector under environmental ethics and heritage ontology with references to Aldo Leopold, Bruno Latour, and Arnold Berleant. The characterization emphasizes adaptive remembrance over rigid defense, boundaries as membranes rather than walls, and the Protector's role in integrating strategic vectors into enduring safeguards for collective resilience.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

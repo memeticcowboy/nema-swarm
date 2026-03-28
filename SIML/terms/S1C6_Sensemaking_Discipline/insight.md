@@ -24,3 +24,20 @@ The success metric is not the correctness of any frame but its revisability with
 
 ## Source Context
 A revised sensemaking protocol shifting from process to discipline, centering on the lifecycle of frames. Includes OPML structured encoding and connection to Group Decision Support Systems where the Mandatory Return prevents social consensus from hardening into unchallengeable dogma.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

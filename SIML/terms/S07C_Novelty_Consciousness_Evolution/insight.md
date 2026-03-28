@@ -26,3 +26,20 @@ The current era of AI and rapid technological advancement is presented as the em
 ## Source Context
 
 Encoded from "The Impact of Novelty on Consciousness Evolution" — reflection on how the universe's drive toward complexity reshapes consciousness, the role of AI and technology as novelty embodiments, accelerating paradigm shifts, Omega point concept, and the question of symbiotic human-tech relationship. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -34,3 +34,20 @@ The connection to selfplex theory in memetics provides a contemporary bridge: th
 Derived from: `1771907213360_2325523_Understanding+%C4%80tma-Ve%E1%B9%A3a-Nidhi%3A+The+Treasure+of+the+Self%27s+Manifestations.md`
 
 This encoding bridges Vedantic philosophy with memetic selfplex theory, treating both as perspectives on the same phenomenon: the self's creative self-multiplication. The Sanskrit vocabulary provides ontological depth (eternal consciousness manifesting through form); the memetic vocabulary provides structural precision (architecture of self-representations maintaining coherence). Together they describe a self that is neither fixed nor fragmented but coherently multiple — a treasury whose wealth increases with each new manifestation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

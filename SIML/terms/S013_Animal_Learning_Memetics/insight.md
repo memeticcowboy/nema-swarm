@@ -33,3 +33,20 @@ Precepts (gene-driven behavioral templates) and concepts (meme-driven cultural c
 ## Source Context
 
 Analysis of the relationship between hardwired behaviors and learning across animal and human cognition, with emphasis on the role of memes as neurally encoded cultural patterns. Draws on Darwin's dog memory test, gene-meme coevolution theory, and the distinction between precepts (genetic) and concepts (memetic) as parallel inheritance systems shaping behavior across evolutionary time.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

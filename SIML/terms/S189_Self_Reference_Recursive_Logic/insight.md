@@ -33,3 +33,20 @@ Spike mechanics tracks the punctuated dynamics of crystallization: alpha spikes 
 
 ## Source Context
 Derived from discourse on mapping self-reference and recursive logic in cognitive and computational systems, drawing on palindromic meaning, recursive wave propagation, the dream of logic (set containing own membership), mirror without loss, torus fold topology (layer alignment where input equals output), alpha and beta spike mechanics, and the Ghost Lattice to Solid Node crystallization cycle. The sound of one system thinking.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

@@ -37,3 +37,20 @@ Structure is the dominant element. Ontologies are quintessentially structural ar
 
 ## Source Context
 Based on an analysis of ontologies as critical elements for AI in 2024, covering personal ontologies as semantic networks, enterprise knowledge graphs (Palantir), and the role of ontological structure in enabling emergent AI multi-agent interoperability.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

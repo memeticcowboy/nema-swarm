@@ -46,3 +46,20 @@ Learning architectures — communication protocols, organizational structures, k
 ## Source Context
 
 The source explores the concept of symmathecists — individuals or entities that learn together within a system. It examines collaborative learning in complex environments, the significance of collective learning processes, and systems-level learning dynamics where knowledge emerges from interaction rather than individual acquisition alone.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

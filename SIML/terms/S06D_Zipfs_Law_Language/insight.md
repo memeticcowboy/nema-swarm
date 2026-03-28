@@ -46,3 +46,20 @@ Metal is dominant. The mathematical invariance of the law across languages is th
 ## Source Context
 
 The source examines Zipf's Law across languages, demonstrating that word frequency is inversely proportional to rank in frequency lists with remarkable consistency across linguistic systems. It explores the mathematical regularity, its cross-linguistic persistence, and the ongoing debate about the underlying reasons for this pattern.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | high |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

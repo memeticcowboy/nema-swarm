@@ -218,3 +218,20 @@ validation_status: complete
 *"The present has a way of making itself invisible. What we seek is not to destroy the familiar, but to see it as a choice among possibilities."*
 
 **∴ ≈ ▲ 𐂷 ☷ ⛨**
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

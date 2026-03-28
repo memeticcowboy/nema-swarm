@@ -152,3 +152,20 @@ Treat devolved units as **nematic agents with their own directional biases**, no
 **Devolution, in the NEMAtic framework, is neither political strategy nor organizational preference—it is a thermodynamic necessity for systems operating beyond their compression capacity.** The question is never whether to devolve, but how to devolve such that the field's fertility expands rather than contracts.
 
 **ε preserved.**
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

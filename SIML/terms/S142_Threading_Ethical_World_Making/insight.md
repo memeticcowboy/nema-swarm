@@ -28,3 +28,20 @@ This framework dissolves the observer/observed distinction that haunts conventio
 ## Source Context
 
 Encoded from "Exploring Threading as a Framework for Ethical World-Making and Intra-Activity" — examining the convergence between Barad's ethico-onto-epistem-ology and elemental threading, where each thread offers distinct modes of ethical engagement and world-making.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | emergent |
+| **Determinism** | med |
+| **Degeneracy** | low |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

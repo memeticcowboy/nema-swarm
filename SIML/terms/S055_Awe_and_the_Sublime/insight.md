@@ -42,3 +42,20 @@ The interdisciplinary framework provides analytical structure for studying pheno
 ## Source Context
 
 Derived from interdisciplinary exploration of awe and the sublime, drawing on Kant's Critique of Judgment, Burke's Philosophical Enquiry, contemporary psychology of awe (Keltner and Haidt), and aesthetic theory. Situated within the broader sensemaking framework as an investigation of experiences that exceed ordinary cognitive processing.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

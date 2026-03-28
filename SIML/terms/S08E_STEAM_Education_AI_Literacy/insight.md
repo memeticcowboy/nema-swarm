@@ -26,3 +26,20 @@ This framing positions education not merely as skill acquisition but as the cult
 ## Source Context
 
 Encoded from an untitled source discussing STEAM integration, symbolic and sub-symbolic AI, and the role of education in developing rational thinking and AI literacy for an informed and ethical society. Source: Sensemaking & Epistemics collection.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

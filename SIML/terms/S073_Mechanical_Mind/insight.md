@@ -28,3 +28,20 @@ The work serves as a critical mapping of the boundary between what mechanical ex
 ## Source Context
 
 Encoded from an overview of "The Mechanical Mind" — a philosophical exploration of whether mind can be understood mechanically, examining computational models, the Chinese Room argument, extended mind, and the limits of reductive explanation.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

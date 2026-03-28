@@ -23,3 +23,20 @@ The critical contemporary danger is AI entanglement: when the My-Stream goes aut
 
 ## Source Context
 Drawn from philosophical definitions of the My-Stream concept, connecting William James, Derrida, and Deleuze/Guattari to contemporary concerns about AI-mediated consciousness capture.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

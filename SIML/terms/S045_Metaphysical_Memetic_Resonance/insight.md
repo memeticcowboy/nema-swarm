@@ -38,3 +38,20 @@ The informational ontological structure — particularly the naturalized Platoni
 
 ## Source Context
 Derived from an examination of the metaphysical foundations of memetic resonance, drawing on emergent materialism, informational ontology, naturalized Platonism, process philosophy, and the concepts of supervenience and multiple realizability to establish memes as ontologically genuine cognitive extensions with causal efficacy.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

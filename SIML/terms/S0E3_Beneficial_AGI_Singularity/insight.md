@@ -28,3 +28,20 @@ Third, integration of underlying values — not the values humans state but thos
 ## Source Context
 
 Encoded from "Essential Dimensions for Beneficial AGI Singularity: Context, Embodiment, and Values" — an analysis of three essential dimensions (situated contextual awareness, human-embodied awareness, and integration of underlying implicit values) required for AGI to benefit humankind without producing misaligned goals, destructive optimization, or meaning overwrite.
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.

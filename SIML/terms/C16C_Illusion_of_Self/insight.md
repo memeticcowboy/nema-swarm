@@ -81,3 +81,20 @@ If the self is an emergent narrative rather than a metaphysical substance, quest
 - Dennett, Daniel. "The Multiple Drafts Model" from Consciousness Explained
 - Vedanta philosophy: Atman-Brahman identity
 - x/change rajendra: https://x.com/rajprasad3251/status/1886045839518552194
+
+---
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+
+**Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.
