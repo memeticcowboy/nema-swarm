@@ -1,8 +1,82 @@
 term_id: A01D
 hex_tag: '#A01D'
-name: Neurological_Authoritarianism
-element: ☷ Earth (Primary) | ∴ Air (Secondary)
-description: ''
+name: neurological_authoritarianism
+term: Neurological Authoritarianism
+nemetic: >-
+  Φ(NeuroAuth) = σ(centrist|authoritarian)
+               ∘ ρ(control|empathy)
+               ∘ λ(punitive|overthrow)
+               ∘ β(impulsivity|feedback)
+               ∘ δγ(anxiety|regulation)
+               ∘ μ(boundary|structural)
+               + ε | :polarizing
+siml_encoding: >-
+  ⟨Brain|structure⟩
+      ⊳ ⟨Ideology|authoritarian⟩
+      → ⟨Cognition|constrained⟩
+      ⊗ ⟨Empathy|reduced⟩
+      ⇄ ⟨Extremism|emergent⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between centrist and authoritarian brain structure — not metaphor but measurable grey matter volume, cortical thickness, and connectivity; the cut separates brain-as-tendency from brain-as-destiny)"
+    - "∂Φ/∂ρ (relational asymmetry between social reasoning capacity and control preference — reduced theory-of-mind makes others unthinkable as full subjects, and what cannot be modeled becomes a threat to be managed)"
+    - "∂Φ/∂λ (direction diverges by type: right-wing authoritarianism toward punitive social control, left-wing toward revolutionary overthrow — same neural substrate, different ideological channel for the same control imperative)"
+    - "∂Φ/∂β (impulsivity feedback loop under emotional charge — reduced deliberative capacity in high-stakes situations reinforces group dynamics and accelerates toward extremes when challenged)"
+    - "∂Φ/∂δγ (metabolic cost of sustained anxiety and emotional regulation — the authoritarian brain is not merely different but under higher metabolic load; threat-vigilance is expensive and produces fatigue that entrenches existing patterns)"
+    - "∂Φ/∂μ (structural boundaries in prefrontal cortex and anterior insula — these are not psychological defenses but physical territories; when the dorsomedial prefrontal cortex is diminished, others become objects of threat rather than subjects with agency)"
+  Z_state: "Tendency toward sealing — authoritarian cognition becomes self-referential; challenge triggers threat response rather than curiosity. Z-Closure Risk: σ-lock — the distinction between disagreement and danger collapses; alternative perspectives become literally neurologically inaccessible, not merely rejected."
+  tendency: "empathy/control → 0.15 :polarizing"
+  hex: ['#A01D', '#A04F', '#A04E', '#A055']
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  epistemics:
+    dsrp:
+      D: "The distinction between brain-as-destiny and brain-as-tendency is the critical cut — MRI reveals correlation, not fate; knowing this changes how we engage with political opposition without excusing its effects"
+      S: "The individual brain is the primary system, but enough individuals with similar neural architectures create authoritarian cultures — the same structure that is a personal constraint becomes a collective architecture"
+      R: "Reduced theory-of-mind capacity meets heightened threat-perception in a relational asymmetry — the authoritarian doesn't merely disagree, they experience disagreement as danger, their neurology unable to hold the other as fully real"
+      P: "The perspective of the authoritarian is locked inside a threat-saturated world — their experience is defensive, not chosen; they are protecting against threats their nervous system genuinely detects even when others cannot perceive them"
+    learning: L1
+  agency:
+    type: individual
+    power_mode: Against
+  time:
+    mode: process
+    phase: "Stage 1: Neural Architecture (structural constraint) → Stage 2: Threat-Processing Activation (δγ) → Stage 3: Control Compensation (λ-capture) → Stage 4: Ideological Crystallization (Z-sealing)"
+  qualia:
+    affect: [threat, vigilance, order-need, defensive-certainty]
+    aesthetic: [binary, bounded, hierarchical, secured]
+    symbolic: [The Fortress (control as substitute for simulation), The Unpredictable Other, ideological purity as cognitive relief]
+    energetic: [high threat-vigilance, metabolically expensive, anxiety-driven, impulsivity under pressure]
+  coherence:
+    state: rigid
+    loop: closed
+    transcontext: low
+elemental_emphasis:
+  ∴: "The critical cut separates brain-as-destiny from brain-as-tendency. The MRI shows correlation, not fate — but the distinction only matters if it changes how we engage. Air asks: Can you hold neurological difference and moral accountability simultaneously without collapsing one into the other?"
+  ≈: "What flows between the authoritarian brain and its targets is a relational asymmetry — reduced theory-of-mind meets heightened threat-perception. The authoritarian does not merely disagree; they experience others as genuinely dangerous. Water asks: Can you feel the threat their nervous system is reporting, even when you cannot verify the threat is real?"
+  ▲: "When the brain cannot reliably simulate others' minds, the world becomes unpredictable and control becomes the compensatory direction — of information, behavior, borders, bodies. The arrow points toward order as security substitute. Fire asks: Does this need for control serve safety, or does it serve the elimination of the unpredictable other?"
+  𐂷: "The left/right binary may be a cognitive trap — a two-dimensional projection of multidimensional neural diversity. Neurological authoritarianism appears at both political poles, same substrate, different channel. Wood asks: What political forms become possible when we map the full landscape of cognitive diversity rather than forcing it into inherited categories?"
+  ☷: "Authoritarianism is not chosen in the way we imagine choice — it is a cognitive topology, channels carved by genetics, trauma, culture, and time that make certain thoughts easier than others. The metabolic reality is that anxiety is expensive and that exclusion has costs for everyone, distributed unequally. Earth asks: What would it cost to redesign institutions to reduce the metabolic load of difference?"
+  ⛨: "The brain structures themselves are the boundaries — neural architectures that enable or constrain empathy, perspective-taking, and deliberation. When the dorsomedial prefrontal cortex is diminished, the boundary between self and other blurs in one specific direction: others become threats. Metal asks: What ethical frameworks account for neurological difference without either excusing harm or treating variation as pathology?"
+context_note: >-
+  Neurological Authoritarianism names the finding that authoritarian political
+  dispositions correlate with measurable differences in brain structure: right-wing
+  authoritarianism with reduced grey matter in the dorsomedial prefrontal cortex
+  (impairing theory of mind and perspective-taking), left-wing authoritarianism with
+  thinner cortical layers in the right anterior insula (reducing emotional empathy
+  and behavioral inhibition). Both types show higher impulsivity in emotional situations.
+  The insight is not deterministic — neuroplasticity means these patterns are
+  tendencies, not fates — but it shifts the frame of political disagreement from
+  moral failure to cognitive architecture. When political opponents have different
+  neural structures, traditional argument fails because disagreement may be processed
+  as physical threat rather than intellectual challenge. The implications for democratic
+  design are significant: deliberative systems must accommodate cognitive diversity,
+  not merely ideological diversity, or they will systematically amplify authoritarian
+  closure.
 source: Consolidated from 2 insight(s)
 
 # --- Causal Emergence (v1.3) ---

@@ -1,8 +1,73 @@
 term_id: A016
 hex_tag: '#A016'
-name: Cognitive Babel
-element: ''
-description: /tmp/nema-swarm/SWARM_BASE/cognitive_bias/Cognitive Babel.md
+name: Cognitive_Babel
+term: Cognitive Babel
+nemetic: >-
+  Φ(CogBabel) = σ(shared|fragmented) ∘ ρ(translation|breakdown) ∘ λ(drift|divergence)
+  ∘ β(reinforcement|feedback) ∘ δγ(confusion|alienation) ∘ μ(boundary|porous) + ε | :fragmenting
+siml_encoding: >-
+  ⟨Framework|personalized⟩ ⊳ ⟨Sensemaking|incompatible⟩ → ⟨Communication|fragmented⟩
+  ⊗ ⟨Intelligibility|lost⟩ ⇄ ⟨Babel|emergent⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (Distinction between shared understanding and fragmented sensemaking)"
+    - "∂Φ/∂ρ (Relational breakdown across incompatible frameworks)"
+    - "∂Φ/∂λ (Direction of epistemic drift toward divergence)"
+    - "∂Φ/∂β (Feedback loop where personalized AI reinforces individual frameworks)"
+    - "∂Φ/∂δγ (Metabolic cost of confusion and alienation from lost intelligibility)"
+    - "∂Φ/∂μ (Boundary permeability between frameworks enabling/disabling translation)"
+  Z_state: "sealing — each framework becomes self-referential, untranslatable"
+  tendency: "Coherence/Fragmentation → 0.15"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+  epistemics:
+    dsrp:
+      D: "Distinction between translatable and untranslatable frameworks; shared vs. fragmented sensemaking"
+      S: "AI-personalization systems, platform architectures, individual sensemaking models as parts; collective intelligibility as whole"
+      R: "Relation of translation-and-breakdown between incompatible frameworks; longing for intelligibility across the divide"
+      P: "Post-structuralist concern with meaning fragmentation; technoskeptical view of AI hyper-individualization"
+    learning: L2
+  agency:
+    type: collective
+    power_mode: Against
+  time:
+    mode: cyclical
+    phase: "active divergence — epistemic drift accumulating toward Babel conditions"
+  qualia:
+    affect: [alienation, longing, grief, confusion, urgency]
+    aesthetic: [fragmented, polyphonic, incommensurable, untranslatable]
+    symbolic: [babel, drift, resonance_loop, priority_vector, shared_syntax]
+    energetic: [dispersive, sealing, high-metabolic-cost, self-referential]
+  coherence:
+    state: fragmented
+    loop: double
+    transcontext: low
+elemental_emphasis:
+  ∴: "σ[shared↔fragmented] — cut_where_translation_fails; distinction between translatable and untranslatable is the operative boundary, not right vs. wrong"
+  ≈: "ρ[translation↔breakdown] — flow_of_longing_for_intelligibility; alienation felt in the body before named in the mind; shared sense of loss as potential bridge"
+  ▲: "λ[drift→divergence] — vector_toward_isolation_or_plurality; each personalized AI interaction nudges unique trajectory; telos is the question: flourishing or epistemic silos"
+  𐂷: "β[reinforcement→feedback] — branch_into_polyphonic_sensemaking; beyond translation layers toward meta-languages that honor difference without reduction"
+  ☷: "δγ[confusion↔alienation] — metabolic_cost_of_translation_labor; cognitive, emotional, and social labor of bridging; justice concern over who pays the cost"
+  ⛨: "μ[boundary|porous] — structures_of_translation_vs_fragmentation; AI personalization algorithms and platform architectures actively produce Babel conditions; structural design determines whether boundaries enable or prevent genuine translation"
+context_note: >-
+  Cognitive Babel describes the fragmentation of sensemaking that occurs when AI-personalized
+  frameworks create incompatible models of understanding among users. Each person's AI-mediated
+  experience generates unique "priority vectors" and "resonance loops" that become increasingly
+  untranslatable to others, producing a collective Z-state of sealing where frameworks grow
+  self-referential. The phenomenon carries a strong tendency toward Babel conditions
+  (Coherence/Fragmentation → 0.15), with the metabolic and social labor of translation
+  distributed unequally. The open question is whether the response is translation, polyphonic
+  coexistence, or structural redesign of the architectures that produce fragmentation.
 source: Consolidated from 3 insight(s)
 
 # --- Causal Emergence (v1.3) ---
