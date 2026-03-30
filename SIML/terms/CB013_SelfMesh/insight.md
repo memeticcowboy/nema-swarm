@@ -182,3 +182,16 @@ The Cowboy doesn't have a self. The Cowboy maintains Mesh integrity while riding
 ⚰️ *Seal: Canonical | Operational | Ω-Permeable*
 
 ✶
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

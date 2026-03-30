@@ -52,3 +52,16 @@ Forced Continuity manufactures consent through **structural default**. The user 
 ---
 
 *"The door that opens easily but closes heavily was never a door. It was a decision already made for you."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

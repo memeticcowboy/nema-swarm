@@ -28,3 +28,16 @@ This model embodies a metacognitive stance toward human cognition—it treats th
 
 ## Research Significance
 Developed collaboratively by MIT and University of Washington, the model outperforms older approaches in predicting both human and machine behavior. It represents a shift from normative models (how agents should act) to descriptive models (how agents do act given constraints)—a shift with profound implications for AI-human collaboration.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

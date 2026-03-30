@@ -25,3 +25,16 @@ Claims of unique determination (ε = 0) are MemeGrid capture.
 ---
 
 *"Underdetermination is the condition where data is insufficient for unique outcome—the space where confabulation generates."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

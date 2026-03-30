@@ -50,3 +50,16 @@ Learning Transfer is fundamentally **Water/ρ** (connection across contexts) wit
 
 ---
 *Generated: 2026-02-28 | SIML Encoding v3.0*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

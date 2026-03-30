@@ -37,3 +37,16 @@ The Real is that which lies beyond language and symbolization. It is not "realit
 ## Source Context
 
 Analysis of Lacan's three registers of psychic experience — Imaginary, Symbolic, and Real — as a framework for understanding the topology of subjectivity. Examines ego formation through the mirror stage, the structuring function of language and cultural rules in the Symbolic, and the traumatic encounter with the Real as that which resists symbolization. Draws on Lacanian psychoanalytic theory to map the irreducible dimensions of psychic life.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

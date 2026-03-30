@@ -192,3 +192,16 @@ concurrency/distributed processing/explicit multiplicity.]
 ---
 
 *End of SIML Insight | Hex: #L058 | Generated: 2026-02-27 23:30*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

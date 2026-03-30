@@ -84,3 +84,16 @@ While powerful, the principle requires thoughtful application:
 ## Conclusion
 
 The 10% principle offers a practical, actionable approach to enhancing intelligence through deliberate cognitive calibration. By making small, systematic adjustments to our natural evaluative tendencies, we can become more open-minded, more accurate in our beliefs, and more effective in navigating complex intellectual terrain. The principle embodies the insight that intelligence is not just about raw cognitive capacity but about the metacognitive ability to manage one's own thinking.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

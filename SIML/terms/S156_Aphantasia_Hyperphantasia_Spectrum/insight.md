@@ -28,3 +28,16 @@ The evolutionary function of imagination appears to be preparation for future ex
 ## Source Context
 
 Encoded from "Neuroscience of Visual Imagination: Aphantasia vs. Hyperphantasia" — examining the imagery spectrum from absent to vivid mental pictures, dissociable object and spatial imagery systems, the evolutionary function of imagination as future preparation, and the persistence of creativity across the full spectrum through compensatory non-visual means.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

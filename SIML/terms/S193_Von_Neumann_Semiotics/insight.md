@@ -23,3 +23,16 @@ The implications extend into artificial intelligence and economics, where unders
 
 ## Source Context
 Based on an exploration of Von Neumann's semiotic breakthroughs, connecting Peircean sign theory to achievements in mathematics, game theory, and quantum mechanics. Sourced via Intuition Machine post.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

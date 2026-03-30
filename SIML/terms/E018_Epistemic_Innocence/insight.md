@@ -27,3 +27,16 @@ Epistemic Innocence: **confabulation can be harmless or beneficial**, not necess
 ---
 
 *"Confabulation can be harmless or even beneficial—not necessarily deception."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

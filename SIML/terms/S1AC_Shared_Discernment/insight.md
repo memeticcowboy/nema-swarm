@@ -23,3 +23,16 @@ The framework resists authority capture by refusing forced agreement, deflects p
 
 ## Source Context
 Memeform analysis of shared discernment without consensus, drawing on epistemic pluralism, process ethics, and collective sense-making frameworks. Published on Memetic Cowboy platform.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

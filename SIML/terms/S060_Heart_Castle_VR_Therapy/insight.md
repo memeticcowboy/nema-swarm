@@ -46,3 +46,16 @@ The VR architectural framework and therapeutic protocols provide necessary conta
 ## Source Context
 
 The source describes a VR therapeutic experience in which patients explore a "Heart Castle" — a virtual fortress representing their emotional interior. Guided by Dr. Alexandra Morgan, patients confront past decisions, navigate memories and shadow aspects, and unlock new paths for personal growth through immersive virtual reality technology applied to psychological self-discovery.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

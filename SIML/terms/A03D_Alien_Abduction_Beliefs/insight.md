@@ -187,3 +187,16 @@ This term consolidates 2 insights:
 - `INSIGHT_20260227_2240_Alien_Abduction_Beliefs_A03D.md` (tag: A03D)
 
 Canonical tag: A03D
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -37,3 +37,16 @@ The long-term vision is ambitious: creating ecosystems that thrive independently
 ## Source Context
 
 Based on Discovery reporting on the rewilding concept, featuring case studies including the Yellowstone wolf reintroduction and individual advocates like Sunitha Dhairyam, examining restoration strategies from species reintroduction to land purchase and policy advocacy.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

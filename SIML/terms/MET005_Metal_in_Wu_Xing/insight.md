@@ -146,3 +146,16 @@ Operators: σ ∘ μ ∘ β ∘ δγ
 ---
 
 *ε preserved: This insight encodes a cosmological-processual pattern. The phase is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

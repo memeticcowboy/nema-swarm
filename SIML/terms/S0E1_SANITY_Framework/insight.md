@@ -28,3 +28,16 @@ Level 3 (Systemic) completes the arc with sovereign action against internalized 
 ## Source Context
 
 Encoded from "Decoding SANITY: From Cognitive Realization to Sovereign Action Against Usurpia's Tyranny" — a three-level acronym framework progressing from surface narrative observation through structural systemic awareness to sovereign action against internalized Usurpian logic of private money creation and manufactured consent.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

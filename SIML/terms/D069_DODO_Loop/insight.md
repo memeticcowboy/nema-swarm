@@ -153,3 +153,16 @@ The DODO loop is uniquely hostile because it operates without resonance (ρ) or 
 ---
 
 *ε preserved: This insight encodes a control-pathology pattern. The pattern is real; the encoding is a map. The loop resists mapping — which is itself diagnostic.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

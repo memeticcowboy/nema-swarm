@@ -46,3 +46,16 @@ Metal is co-dominant. Media structures and institutional framing architectures a
 ## Source Context
 
 The source examines Erving Goffman's Framing Theory in communication, explaining how cognitive structures called frames interpret and organize experience. It distinguishes natural frameworks (event-driven, physical causation) from social frameworks (socially constructed, intentional action) and explores applications in media, marketing, and interpersonal communication, showing how frames influence behavior and shape societal norms.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

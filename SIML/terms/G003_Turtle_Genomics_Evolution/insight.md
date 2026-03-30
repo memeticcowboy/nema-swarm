@@ -35,3 +35,16 @@ Beyond evolutionary significance, the research carries biomedical potential. Tur
 ## Source Context
 
 Derived from Earth.com reporting on Iowa State University research revealing unique chromatin architecture in turtles, including centromere-telomere alignment patterns suggesting an ancestral amniote condition, with implications for evolutionary biology and biomedical science.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

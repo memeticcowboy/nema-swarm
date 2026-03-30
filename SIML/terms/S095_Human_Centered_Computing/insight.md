@@ -26,3 +26,16 @@ Interactive systems and tools include gesture-based controls, virtual and augmen
 ## Source Context
 
 Encoded from "Mapping Human-Centered Computing: A Nature-Centric Approach to Accessibility and Interaction" — presenting a hierarchical framework for HCC encompassing accessibility, HCI, interactive systems, and extension toward nature-centric design principles. Source: Sensemaking & Epistemics collection, via X/samim.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

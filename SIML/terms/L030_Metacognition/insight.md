@@ -91,3 +91,16 @@ This trajectory maps to the NEMAtic path from Water/ρ (relational) through Meta
 ## One-Sentence Synthesis
 
 Metacognition is the recursive capacity of cognition to monitor and regulate itself, transforming passive learning into active self-direction through the cyclical integration of planning, performance, and reflection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

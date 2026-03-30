@@ -32,3 +32,16 @@ Metal maps the bark boundary — the structural membrane that contains the tree'
 
 ## Source Context
 Derived from field-note reflections on trees, memory, and the ethics of growth and forgetting. The meditation uses botanical observation — growth rings, pruning, leaf fall, decomposition, bark structure — as a model for how living systems balance accumulation and release, reframing selective forgetting as integral to healthy growth rather than as failure of retention.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

@@ -24,3 +24,16 @@ The kinematic vocabulary (pitch, yaw, roll, surge, heave, sway) provides a non-m
 
 ## Source Context
 A memetic analysis connected to the Hubris reversal project, reframing amplitude through kinematic vocabulary and anti-moralist philosophy. Applies to leadership, coaching, AI discourse, and post-burnout communities.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

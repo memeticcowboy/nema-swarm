@@ -27,3 +27,16 @@ Practical orientations include mindfulness as ongoing attentional discipline, me
 ## Source Context
 
 Encoded from "Redefining Happiness: Beyond Pleasure to Purpose" — a philosophical exploration of happiness as eudaimonia rather than hedonia, drawing on Aristotle and Kierkegaard to reframe happiness as purpose, meaning, and perspective rather than pleasure, comfort, and positive affect.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -42,3 +42,16 @@ The memory palace's architectural structure provides the durable framework withi
 ## Source Context
 
 Derived from research synthesizing Tolman's Cognitive Map Theory with established mnemonic techniques (method of loci, chunking) and contemporary virtual reality applications. Draws on spatial cognition literature, memory palace traditions, and emerging VR-enhanced learning paradigms.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

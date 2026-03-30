@@ -32,3 +32,16 @@ The concept tests whether foundational memeforms — the deep codes governing gr
 Derived from: `1771907213356_2322384_Pieter+de+Beer%3A+Collective+Synpraxis+Conditions.md`
 
 De Beer's work addresses a gap in group process theory: what happens when the problem is not conflict between members but incoherence in the group's own operating patterns. Synpraxis offers a structured practice for this specific challenge, drawing on therapeutic co-regulation concepts, systems thinking, and memetic theory to create conditions for collective self-revision.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

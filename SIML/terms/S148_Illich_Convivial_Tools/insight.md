@@ -28,3 +28,16 @@ Illich's vision finds contemporary resonance in open-source movements, degrowth 
 ## Source Context
 
 Encoded from "Ivan Illich's Vision for a Convivial Society" — examining Illich's 1973 framework for evaluating technologies by their capacity to empower individuals and communities, the threshold principle of tool counterproductivity, and the enduring tension between industrial efficiency and convivial autonomy.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

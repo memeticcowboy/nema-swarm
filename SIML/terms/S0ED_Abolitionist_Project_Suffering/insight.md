@@ -28,3 +28,16 @@ Crucially, the project extends beyond human suffering to encompass all sentient 
 ## Source Context
 
 Encoded from "The Abolitionist Project: Eradicating Suffering Through Biotechnology" — an examination of David Pearce's radical proposal for the complete elimination of involuntary suffering across all sentient beings through biotechnology, driven by the hedonistic imperative and paradise engineering.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

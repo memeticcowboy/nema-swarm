@@ -28,3 +28,16 @@ The implications extend beyond individual therapy. Pendulation reveals that heal
 ## Source Context
 
 Encoded from "Pendulation: A Dance of Trauma Healing" — an exploration of Peter Levine's somatic experiencing technique of therapeutic oscillation between activation and calm, mimicking animals' natural threat response discharge to integrate traumatic memories, expand tolerance windows, and build nervous system resilience.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

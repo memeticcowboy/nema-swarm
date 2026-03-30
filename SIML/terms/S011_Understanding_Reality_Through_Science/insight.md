@@ -33,3 +33,16 @@ The key warning is against confirmation bias—the tendency to seek information 
 ## Source Context
 
 Framework presenting science as accessible everyday practice rather than institutional monopoly. Centers on the IO Loop as the core mechanism for refining mental models through iterative observation and experimentation. Draws attention to confirmation bias as the primary obstacle to genuine scientific understanding.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

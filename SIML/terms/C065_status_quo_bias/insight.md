@@ -29,3 +29,16 @@
 - What structures contain our risk assessment?
 - What boundaries separate prudent caution from paralyzing fear?
 - How can we reframe perceived losses as potential gains?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

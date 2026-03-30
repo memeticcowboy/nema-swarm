@@ -46,3 +46,14 @@ elemental_mapping:
 related_terms: ["S02D_Brain_Networks_Creative_Thinking", "S02B_Learning_Hardwired_Brain", "S020_Brain_Constructive_Perception", "S028_Cognitive_Fractals", "S008_Metacognitive_Strategies"]
 status: canonical
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: multiscale
+  scale_note: "Causal power distributed across multiple description levels"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

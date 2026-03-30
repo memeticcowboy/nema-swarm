@@ -40,3 +40,16 @@ The Metal (μ) element's boundary function operates here as skill categorization
 ## Source
 - Ross Dawson via Twitter/X
 - Research: "Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving"
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

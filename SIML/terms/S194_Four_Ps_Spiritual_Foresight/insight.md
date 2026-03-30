@@ -21,3 +21,16 @@ The framework has strong memetic properties: the four P's create instant cogniti
 
 ## Source Context
 A spiritual foresight framework developed in dialogue with Memetic Cowboy's substack, connecting contemplative virtues to futures methodology with strong memetic scaffolding.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

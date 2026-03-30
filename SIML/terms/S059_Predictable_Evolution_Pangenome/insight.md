@@ -46,3 +46,16 @@ Genomic architecture provides the dominant structural constraint. The physical a
 ## Source Context
 
 The source presents new insights into evolutionary predictability emerging from pangenome research. It examines how gene interactions within the full species gene pool constrain evolutionary trajectories, challenging the traditional view of evolution as random and highlighting implications for applied sciences.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

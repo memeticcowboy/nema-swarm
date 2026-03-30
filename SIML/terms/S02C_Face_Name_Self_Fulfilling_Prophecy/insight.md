@@ -25,3 +25,16 @@ This research carries profound implications for understanding the power of socia
 
 ## Source Context
 Derived from research by Zwebner, Miller, Goldenberg, Grobgeld, and Mayo published in PNAS, demonstrating that adults' faces evolve to match their names through a self-fulfilling prophecy mechanism driven by social expectations and cultural stereotypes. The effect was validated by both human participants and machine learning, with the critical finding that children do not show the effect, confirming its developmental and social rather than innate origin.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

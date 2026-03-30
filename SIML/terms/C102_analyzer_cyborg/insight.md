@@ -29,3 +29,16 @@
 - What structures contain the boundary between objective criteria and subjective judgment?
 - What thresholds separate data-driven rigor from cognitive bias?
 - How do evaluative frameworks maintain integrity against cognitive limitations?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

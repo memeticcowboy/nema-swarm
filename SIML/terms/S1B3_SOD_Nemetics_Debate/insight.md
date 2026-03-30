@@ -24,3 +24,16 @@ The proposed hybrid protocol moves through four stages: Notice system rationalit
 
 ## Source Context
 A deep integration of SOD's seven discourses with Nemetics' fractal meta-language, proposing a hybrid protocol for navigating ontological shock in human-AI collaboration through metabolic budgeting and ritual renewal.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

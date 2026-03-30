@@ -26,3 +26,16 @@ The philosophy identifies two opposing mental states. The first is the restricti
 ## Source Context
 
 Encoded from a philosophical analysis of Tan Ching's quote on emancipation through unattached thinking, exploring mental freedom through detachment from temporal thought-connections and the transformative power of non-attachment. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -26,3 +26,16 @@ The analysis moves through several stages. First, the importance of acknowledgin
 ## Source Context
 
 Encoded from Alan Watts's exploration of inner conflict and authentic self-acceptance, emphasizing the wisdom of spontaneous reactions, the water-adapting-to-ground metaphor, and the embrace of emotional contradiction as the path to genuine selfhood. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

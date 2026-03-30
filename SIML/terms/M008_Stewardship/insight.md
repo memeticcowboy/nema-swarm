@@ -108,3 +108,16 @@ But: **"What must I preserve?"**
 ---
 
 *"The steward holds what is not theirs, for those they may never meet, with accountability that transcends their lifetime. This is care made structural."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

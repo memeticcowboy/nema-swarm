@@ -27,3 +27,16 @@ This framework redefines core human capacities. Discernment is no longer the act
 ## Source Context
 
 Encoded from "Exploring the Interconnectedness of Self and the Field of Existence" — presenting the self as antenna rather than anchor, articulating the YOU (Yielding Orientation to the Unfolding) framework where identity shifts from "I am" to "it flows through," and the Field breathes through the seams of existence as the self becomes a local inflection of the Whole.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

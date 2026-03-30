@@ -25,3 +25,16 @@ Each phase of the OODA loop maps onto specific governance functions: Observe mon
 
 ## Source Context
 Derived from the integration of Boyd's OODA loop with sensemaking theory for IT governance, structured through the COBIT5 framework. The source material emphasizes that effective IT governance requires both rapid action cycles (OODA) and deep interpretive capacity (sensemaking), with COBIT5 providing the systematic structure that bridges interpretation and action into a continuous governance process.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

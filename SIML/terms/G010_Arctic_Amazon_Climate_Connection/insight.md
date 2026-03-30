@@ -37,3 +37,16 @@ The critical temporal dimension is inescapable: the period 2025 to 2035 is ident
 ## Source Context
 
 Compiled from sources examining subarctic dam impacts on permafrost, the Amazon biotic pump theory, AMOC teleconnections, and cascading tipping points. Emphasizes a critical 20-year window (2025-2035) for large-scale ecosystem interventions including subarctic dam removal and Amazon reforestation. Brazil's Muvuca seeding initiative is cited as technical proof of concept. The overarching frame stresses interconnectedness of Earth's systems from pole to tropics and the urgent need for immediate, coordinated action to prevent irreversible planetary changes.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

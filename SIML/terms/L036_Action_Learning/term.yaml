@@ -407,3 +407,14 @@ Element: Fire/λ (primary) + Earth/δγ (secondary) with Water/ρ, Air/σ, Wood/
 ---
 
 *End of SWARM_BASE Entry | Hex: #L036 | Generated: 2026-02-27 17:45*
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain the boundary between in-group and out-group? What thresholds separate social capital as resource from social capital as liability?"
 context_note: "Social Capital Types—bonding, bridging, and linking—represent distinct forms of social connectivity with different functions and consequences. Bonding social capital consists of strong, inward-looking ties among similar people that provide emotional support and identity but risk insularity. Bridging social capital comprises weak, outward-looking ties across diverse groups that enable information flow, innovation, and opportunity. Linking social capital involves vertical ties spanning power hierarchies that provide access to resources and institutional influence. These forms are interdependent rather than mutually exclusive; optimal community development requires balancing all three. Excessive bonding without bridging creates exclusion and groupthink; overemphasis on bridging without bonding erodes local cohesion. The concept originates in network theory and sociology (Granovetter, Burt, Putnam) and applies to community development, organizational management, public health, and economic development policy."
 source_file: "1771907213325_2288492_Understanding+Bonding%2C+Bridging%2C+and+Linking+Social+Capital.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

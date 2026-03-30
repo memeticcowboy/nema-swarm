@@ -23,3 +23,16 @@ Method for MemeGrid detection. The meta-analysis of how discourse captures.
 ---
 
 *"The appeal to 'obvious reality' is itself a rhetorical move."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

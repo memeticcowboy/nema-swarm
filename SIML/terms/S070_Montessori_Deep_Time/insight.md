@@ -28,3 +28,16 @@ The lesson's power lies in its respect for children's developmental capacities. 
 ## Source Context
 
 Encoded from "Montessori's Black Strip: Teaching Deep Time" — an exploration of how Montessori education introduces children to geologic time through impressionistic lessons, fostering interconnectedness and ecological responsibility. Source: The Epoch of the Child (Long Now Foundation).
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

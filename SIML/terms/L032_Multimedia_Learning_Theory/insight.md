@@ -135,3 +135,16 @@ Together, these theories form a comprehensive framework for designing learning e
 ## The Meta-Lesson
 
 Beyond the specific principles, Multimedia Learning Theory teaches a deeper lesson: **effective instruction requires understanding the learner's cognitive architecture**. Design is not about what the instructor wants to present, but about what the learner can process. This learner-centered, evidence-based approach represents a paradigm shift from intuition-based to science-based instructional design.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

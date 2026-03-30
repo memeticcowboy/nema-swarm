@@ -35,3 +35,16 @@
 - What boundaries prevent over-dependence on artificial intelligence?
 - How do we maintain human agency when AI capabilities exceed our own?
 - What thresholds separate beneficial symbiosis from dangerous submission?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

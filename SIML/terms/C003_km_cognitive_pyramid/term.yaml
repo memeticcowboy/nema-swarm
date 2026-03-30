@@ -94,3 +94,14 @@ context_note: "The DIKW pyramid represents a foundational model in knowledge man
 
 timestamp: "2026-03-01T05:23:00+08:00"
 version: "1.0"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

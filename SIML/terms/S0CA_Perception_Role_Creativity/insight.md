@@ -28,3 +28,16 @@ The empirical picture, however, is more nuanced than de Bono's strong claims sug
 ## Source Context
 
 Encoded from "Exploring Perception's Role in Creativity" — an analysis of de Bono's claims about perception's primacy in thinking, supported by lateral thinking, Six Thinking Hats, cognitive reappraisal research, and appraisal theory, with empirical qualification of the multifactorial nature of creativity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -35,3 +35,16 @@ The HOLD stance anchors the entire framework. To HOLD is to contain dissonance w
 ## Source Context
 
 Derived from "CAIT2-Transforms: Navigating Dissonance and Empathy," which develops a framework for relational cognition that redefines empathy as Emotionally Mindful Patience, introduces the HOLD stance for containing dissonance, and proposes the Code as Cradle metaphor for systems that nurture rather than optimize relational capacity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

@@ -28,3 +28,16 @@ The remaining cyborg modes add critical dimensions: the Ethical cyborg names the
 ## Source Context
 
 Encoded from "Analyzing Dr. Lawrence Britt's 14 Characteristics of Fascism Through Six Cognitive Perspectives" — a sixfold Six Cyborgs analysis revealing fascism as systemic saturation of control across psychological, social, institutional, and economic axes rather than a collection of independent authoritarian characteristics.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

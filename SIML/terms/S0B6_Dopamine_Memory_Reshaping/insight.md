@@ -26,3 +26,16 @@ Key experimental findings show that dopamine-producing cells are essential for m
 ## Source Context
 
 Encoded from neuroscience research on dopamine's unexpected role in reshaping reward memories, examining memory devaluation mechanisms, experimental evidence from animal models, computational modeling, and therapeutic implications for addiction and neuropsychiatric disorders. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

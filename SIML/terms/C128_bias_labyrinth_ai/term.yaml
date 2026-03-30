@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain the boundary between stereotype reinforcement and diversity representation? What thresholds separate homogenized data from inclusive datasets?"
 context_note: "The Bias Labyrinth in AI examines how large language models reflect and amplify societal prejudices embedded in training data. Bias manifests through skewed data sources, leading to stereotype reinforcement, misinformation propagation, and discriminatory outcomes in hiring, content moderation, and social systems. Mitigation requires multi-faceted approaches: diverse datasets, fairness-aware algorithms, continuous monitoring, mandatory bias audits, and transparent governance practices. Policy frameworks must establish global standards for ethical AI development, illuminating hidden biases through accountability measures. The labyrinth metaphor captures the complex, winding paths developers must navigate to achieve algorithmic equity—where every turn may reveal new forms of embedded prejudice requiring discernment and technical intervention."
 source_file: "1771907212651_846491_Navigating+the+Bias+Labyrinth+in+AI.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

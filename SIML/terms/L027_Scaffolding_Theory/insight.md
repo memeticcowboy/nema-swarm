@@ -208,3 +208,16 @@ If scaffolding becomes AI-augmented, its evolutionary drivers are:
 ---
 
 *ε preserved: This insight encodes a theory of temporary support. The pattern is instructional; the encoding is a map toward effective teaching and learning.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

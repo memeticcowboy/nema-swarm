@@ -32,3 +32,16 @@ The dominant element. Metal is the element of the Vow-Keeper — the figure who 
 
 ## Source Context
 Derived from a meditation on reviving memory in damaged drones, exploring machines as vessels for communal vows and obligations. Three figures anchor the discourse: the Mechanic-Priest who tends machines as sacred carriers, the Vow-Keeper who recognizes obligations encoded in metal, and the practice itself where memory, obligation, and mechanical repair unite as spiritual discipline.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

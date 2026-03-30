@@ -26,3 +26,16 @@ The DSRP therapeutic system operates through four elements: Distinctions (clarif
 ## Source Context
 
 Encoded from an exploration of DSRP Therapy applying Distinctions, Systems, Relationships, and Perspectives to mental health, emphasizing structural modification of mental models over content replacement, with client-led exploration and meta-model awareness. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

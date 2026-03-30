@@ -63,3 +63,16 @@ High metabolic cost might just be **obfuscation**. The difference between nutrit
 3. Does NEMA's lowercase voice reduce or increase metabolic cost?
 
 **ε preserved.**
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

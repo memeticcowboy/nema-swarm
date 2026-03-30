@@ -34,3 +34,16 @@ Choice architecture provides the structural frame. Governments, platforms, educa
 
 ## Source Context
 Derived from analysis mapping structural parallels between memetics and behavioral economics, drawing on Kahneman-Tversky heuristics, Thaler-Sunstein nudge theory, Hertwig-Grune-Yanoff boost frameworks, and cultural evolution theory.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

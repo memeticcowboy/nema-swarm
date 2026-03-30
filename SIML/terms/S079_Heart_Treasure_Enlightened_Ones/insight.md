@@ -26,3 +26,16 @@ The work outlines the complete Mahayana path through view, meditation, and actio
 ## Source Context
 
 Encoded from briefing document on "The Heart Treasure of the Enlightened Ones: The Practice of View, Meditation, and Action" by Dilgo Khyentse Rinpoche, compiled by Patrul Rinpoche. Covers the five degenerations of the dark age, renunciation, bodhicitta, the six-syllable mantra, guru yoga, sutra and tantra paths, and realization of mind's true nature. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

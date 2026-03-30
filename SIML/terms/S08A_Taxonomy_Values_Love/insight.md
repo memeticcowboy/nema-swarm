@@ -26,3 +26,16 @@ The central insight is that love is never value-neutral. Each form of love corre
 ## Source Context
 
 Encoded from "Integrated Taxonomy of Values and Love: Exploring Their Interconnections" — structured categorization of core values and love forms with systematic mapping of their correspondences and implications for value creation in relationships. Source: Sensemaking & Epistemics collection, via Deepseek analysis stemmed from Atotsm exchange.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -28,3 +28,16 @@ The philosophical dimension adds depth. Heideggerian thrownness acknowledges tha
 ## Source Context
 
 Encoded from "Exploring Diverse Concepts to Enhance Trust and Mistrust Dynamics in Communication" — a cross-disciplinary investigation augmenting trust models with cognitive load theory, Bayesian updating, signal-to-noise analysis, tacit knowledge, error-correction codes, Heideggerian thrownness, and hyperobjects to reframe trust as dynamic recalibration.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

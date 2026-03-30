@@ -28,3 +28,16 @@ The empirical finding is striking: language that acknowledges constraints AND hi
 ## Source Context
 
 Encoded from "Integrating Contextual Behavioral Science for Effective Health Behavior Change" — examining the both-and frame for behavior change, the nested agency map with its four layers from fixed constraints to moment-to-moment choices, and the empirical finding that language acknowledging constraints while highlighting controllable responses produces significantly larger effect sizes.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

@@ -26,3 +26,16 @@ AI companions like ElliQ can provide 24/7 interaction and simulate empathy, but 
 ## Source Context
 
 Encoded from "Enhancing Elderly Care: The Role of Warm Data in AI Companionship" — an analysis of warm data's role in understanding elderly emotional needs, AI companion limitations, practical design applications, and ethical implications for decision-makers balancing technology with human connection. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

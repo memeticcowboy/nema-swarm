@@ -142,3 +142,16 @@ concurrency/distributed processing/explicit multiplicity.]
 ---
 
 *Generated: 2026-02-26 20:13 Asia/Shanghai | Element: Metal | Term: Gold | Hex: a84cacc6*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

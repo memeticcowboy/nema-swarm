@@ -23,3 +23,16 @@ Sense (meaning) arises within this relational context rather than being imposed 
 
 ## Source Context
 Based on Jean-Luc Nancy's concept of being-with as developed in his writings on community, sense, and existence. References Culture Machine journal and Stanford philosophy resources.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

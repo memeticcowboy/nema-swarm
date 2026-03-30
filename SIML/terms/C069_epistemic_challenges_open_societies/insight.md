@@ -35,3 +35,16 @@
 - What thresholds separate tribal signaling from open rational discourse?
 - How do coalitional boundaries harden into epistemic echo chambers?
 - What architectural changes to democratic institutions could lower tribal barriers?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -46,3 +46,16 @@ Metal is co-dominant. The Big Five psychometric framework and GPT-4's transforme
 ## Source Context
 
 The source examines GPT-4's capacity to replicate cross-cultural personality differences between US and South Korean populations using the Big Five framework. It finds that the model can mimic directional differences but exhibits upward bias, lower variance, and structural validity issues, revealing fundamental limitations in AI psychological simulation.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

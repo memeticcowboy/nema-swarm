@@ -55,3 +55,16 @@ The answer cannot come from the company itself. It has no persons to answer.
 ---
 
 *"The zero-person company is possible. The question is whether it is desirable—and for whom."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

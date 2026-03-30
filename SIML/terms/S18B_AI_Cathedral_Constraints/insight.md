@@ -33,3 +33,16 @@ The dominant element. The ratchet mechanism is Metal's central contribution: the
 
 ## Source Context
 Derived from Christopher Wayne Wall's exploration of ratchets and AI cognition, the cathedral metaphor for constraint-based construction, Popperian falsifiability applied to AI generation, and the principle that genuine insight emerges from disciplined limitation rather than from unlimited generative capacity. Constraints as architectural elements that create meaning through restriction.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

@@ -98,3 +98,16 @@ But: **"Am I expressing from alignment or from expectation?"**
 ---
 
 *"The authentic self is not found. It is forged—in the fire of choice, on the ground of experience, through the water of feeling."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

@@ -24,3 +24,16 @@ The dual nature of belief as both empowering (enabling resilience, innovation, m
 
 ## Source Context
 An exploration of belief as humanity's universal technology, drawing on placebo research, social psychology, and cultural evolution to argue that belief is the foundational mechanism underlying all other technologies and meaning-making systems.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

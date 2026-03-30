@@ -33,3 +33,16 @@ This originary misrecognition creates the structural foundation for Lacan's theo
 ## Source Context
 
 Analysis of Lacan's mirror stage and theory of desire. Examines how the infant's identification with its mirror reflection produces a foundational misrecognition that constitutes the ego, and how this originary split generates desire as the permanent condition of subjectivity. Explores the structural impossibility of fulfillment, the role of society in shaping unconscious desires, and the constitutive function of lack in Lacanian psychoanalytic theory.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

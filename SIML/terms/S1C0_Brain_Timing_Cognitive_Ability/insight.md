@@ -22,3 +22,16 @@ The implications extend to neuropsychiatric research (schizophrenia, depression)
 
 ## Source Context
 Based on research by Linden Parkes at Rutgers Health using brain imaging data and mathematical modeling of neural connectivity to demonstrate how intrinsic neural timescale alignment predicts cognitive capacity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

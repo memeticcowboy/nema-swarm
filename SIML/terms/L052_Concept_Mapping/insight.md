@@ -232,3 +232,16 @@ Assessment Use:
 ---
 
 *End of SIML Insight | Hex: #L052 | Generated: 2026-02-27 21:30*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

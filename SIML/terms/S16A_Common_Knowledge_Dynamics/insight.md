@@ -34,3 +34,16 @@ Institutions crystallize common knowledge into durable form. Constitutions, laws
 
 ## Source Context
 Derived from discourse on common knowledge dynamics drawing on Steven Pinker's analysis, game theory, coordination economics, political theory, and the sociology of public signals and conventions.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

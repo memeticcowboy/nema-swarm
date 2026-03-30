@@ -28,3 +28,16 @@ The historical dimension is equally significant. The citadel model was not merel
 ## Source Context
 
 Encoded from "Exploring Distributed Cognition and the Citadel Model of Mind in Western Culture" — an analysis contrasting distributed cognition research with the Western citadel model, drawing on Luhrmann's cross-cultural research in the US, Ghana, and India to reveal how cultural models of mind shape mental health and cognitive ecology.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

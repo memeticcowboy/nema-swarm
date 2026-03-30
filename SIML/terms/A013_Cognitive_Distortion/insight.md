@@ -154,3 +154,16 @@ concurrency/distributed processing/explicit multiplicity.]
 ---
 
 *Generated: 2026-02-26 23:17 Asia/Shanghai | Element: Air | Term: Cognitive Distortion Patterns | Hex: #A013*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

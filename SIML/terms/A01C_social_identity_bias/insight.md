@@ -158,3 +158,16 @@ This term consolidates 3 insights:
 - `INSIGHT_20260228_1009_Social_Identity_Bias_A04F.md` (tag: A04F)
 
 Canonical tag: A01C
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

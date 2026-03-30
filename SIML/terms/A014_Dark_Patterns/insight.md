@@ -257,3 +257,16 @@ This term consolidates 5 insights:
 - `INSIGHT_20260228_1109_Dark_Patterns_A051.md` (tag: A051)
 
 Canonical tag: A014
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

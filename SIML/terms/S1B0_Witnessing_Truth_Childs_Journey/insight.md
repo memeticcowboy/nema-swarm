@@ -24,3 +24,16 @@ The core provocation is a shift from "Tell me what it means" to "Meaning happens
 
 ## Source Context
 Derived from a memetic analysis exploring the child archetype as truth-bearer in post-religious spiritual writing, initiation myths, and threshold stories. The meme repositions truth from something to be possessed to something that emerges through sustained, non-interventionist presence.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

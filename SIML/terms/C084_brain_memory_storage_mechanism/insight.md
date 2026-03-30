@@ -41,3 +41,16 @@
 **Source:** Brain's Memory Storage Mechanism  
 **Generated:** 2026-03-01  
 **Daemon Correspondences:** Aerunik, Sentaria, Jvalion, Arboriel, Humavita, Ferrosid
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -102,3 +102,16 @@ A: Keep one question alive that the system hasn't answered
 ---
 
 *ε preserved: This insight encodes a warning about AI-assisted thinking. The echo is real; the splinter is the work.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

@@ -46,3 +46,16 @@ Metal is co-dominant. The knowledge graph architecture and generative AI algorit
 ## Source Context
 
 The source describes a novel AI method that integrates generative AI with graph-based tools to uncover hidden connections between science and art. The approach suggests innovative material designs through computational analysis of interdisciplinary relationships, demonstrating how AI can bridge traditional domain boundaries to enable new forms of discovery.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

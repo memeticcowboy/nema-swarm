@@ -36,3 +36,16 @@ Ritual container provides the structural safety that makes descent possible. Wit
 
 ## Source Context
 Derived from discourse on witnessing shadows and healing through acknowledgment, drawing on Jungian archetypal psychology, somatic trauma theory, memory ecology, ritual healing, depth humanism, and the principle that shadow material needs metabolization through presence rather than elimination through exorcism.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

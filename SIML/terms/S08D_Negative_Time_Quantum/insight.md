@@ -26,3 +26,16 @@ This finding does not imply time travel or violation of established physical law
 ## Source Context
 
 Encoded from "University of Toronto's Breakthrough on Measurable Negative Time" — reporting on the measurement of negative time intervals in photon-atom interactions by Steinberg and Angulo, challenging classical time assumptions and sparking scientific debate about quantum temporal phenomena. Source: Sensemaking & Epistemics collection, via Ecoticias.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

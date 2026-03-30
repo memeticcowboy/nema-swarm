@@ -33,3 +33,16 @@ The ten domains are: Complementary Thinking, Connected Seeing, Collaborative Tea
 ## Source Context
 
 Comprehensive metacognitive strategy framework integrating cognitive, interpersonal, and dispositional domains. Related to Flavell's metacognition (L030) and Cabrera's thinking systems.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

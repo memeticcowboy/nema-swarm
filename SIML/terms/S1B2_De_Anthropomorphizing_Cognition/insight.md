@@ -24,3 +24,16 @@ Postcognitive reflexivity is the disciplined practice of holding this de-anthrop
 
 ## Source Context
 A philosophical treatise on postcognitive reflexivity drawing on Michael Levin's bioelectric cognition, memetic theory, and AI discourse to argue for the systematic de-anthropomorphization of the category of cognition.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

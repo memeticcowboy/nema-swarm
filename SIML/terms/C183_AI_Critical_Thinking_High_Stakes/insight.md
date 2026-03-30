@@ -41,3 +41,16 @@ The path forward requires μ (verification|trust)—maintaining rigorous boundar
 
 Forbes article referencing study in *Societies* journal (2025)
 https://www.forbes.com/sites/larsdaniel/2025/01/19/new-study-says-ai-is-making-us-stupid-but-does-it-have-to/
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -88,3 +88,14 @@ context_note: "The iPhone Generation Paradox captures the contradictory nature o
 
 timestamp: "2026-03-01T05:53:00+08:00"
 version: "1.0"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: low
+  ce_direction: submergent
+  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
+  determinism: low
+  degeneracy: high
+  sufficiency: low
+  necessity: low
+siml_version: "1.3"

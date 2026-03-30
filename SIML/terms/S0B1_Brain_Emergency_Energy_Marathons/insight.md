@@ -26,3 +26,16 @@ Within 24-48 hours post-marathon, significant changes in myelin markers appear i
 ## Source Context
 
 Encoded from an analysis of research on the brain's emergency energy mechanisms during marathon running, examining metabolic myelin plasticity, temporary cognitive effects, recovery timelines, and evolutionary implications. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

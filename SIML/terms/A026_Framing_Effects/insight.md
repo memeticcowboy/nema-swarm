@@ -127,3 +127,16 @@ This term consolidates 2 insights:
 - `INSIGHT_20260301_0116_FramingEffects_A05D.md` (tag: A05D)
 
 Canonical tag: A026
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

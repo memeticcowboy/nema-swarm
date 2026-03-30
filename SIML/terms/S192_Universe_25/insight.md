@@ -24,3 +24,16 @@ The experiment serves as a powerful cautionary model for human societies, raisin
 
 ## Source Context
 Based on John Calhoun's "Mouse Utopia" experiment, exploring the dark consequences of material abundance when social meaning structures fail. Shared via a repost referencing Elon Musk's commentary on the experiment.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

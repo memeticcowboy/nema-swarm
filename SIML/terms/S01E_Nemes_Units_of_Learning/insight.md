@@ -25,3 +25,16 @@ The nemesphere — the sum total of all nemes an individual has encountered thro
 
 ## Source Context
 Derived from source material defining nemes as units of learning within the nemetic framework. Closely related to the NEME cycle (Notice, Engage, Mull, Exchange) and the concept of the nemesphere as the totality of an individual's learning. Part of the Sensemaking & Epistemics S-series within the SIML encoding project.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

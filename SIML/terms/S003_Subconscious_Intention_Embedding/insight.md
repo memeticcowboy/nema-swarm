@@ -32,3 +32,16 @@ Together, these networks form a pipeline: intentions formed consciously during D
 ## Source Context
 
 Based on neuroscience research on brain network dynamics, referencing James Doty (Stanford/UChicago), NCBI publications on unconscious attention, and default mode network research.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

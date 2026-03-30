@@ -112,3 +112,16 @@ Processive Genetic reveals that there is no final solid ground — only an ongoi
 - **File to:** SIML/terms/A062_Processive_Genetic/
 - **Cross-reference:** A061_Prehension (the basic act), A064_Actual_Occasion (the momentary event), A003_Qi (parallel process ontology), S0D9_Whitehead_Process_Philosophy, S159_Body_Without_Organs
 - **Open Question:** If SIML terms are themselves "societies of occasions" (stabilized styles rather than substances), how should the encoding system account for its own processive nature — should terms have version histories that show their becoming rather than fixed definitions?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

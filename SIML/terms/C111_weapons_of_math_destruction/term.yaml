@@ -70,3 +70,14 @@ elemental_emphasis:
 context_note: "Weapons of Math Destruction examines how big data algorithms reinforce social inequality across education, finance, criminal justice, and employment. Key concepts include WMDs defined by opacity, scale, and damage potential; feedback loops that disproportionately harm low-income individuals; proxy discrimination using zip codes and education levels; and the urgent need for algorithmic transparency, explainable AI, and regulatory frameworks. The analysis reveals how seemingly neutral mathematical models can encode and amplify existing societal biases, creating self-reinforcing cycles of disadvantage. Cathy O'Neil's work demonstrates that algorithmic accountability requires both technical solutions (audits, explainable AI) and structural changes (diverse development teams, community involvement, continuous ethical evaluation)."
 source_file: "1771907212611_708498_Unpacking+Weapons+of+Math+Destruction.md"
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

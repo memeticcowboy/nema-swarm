@@ -28,3 +28,16 @@ The concept is anchored in multiple cultural and intellectual frameworks: health
 ## Source Context
 
 Encoded from "Building Mental Resilience Against Manipulative Ideas through Memetic Immunization" — proposing a biological immunity-inspired framework for building cognitive resistance to manipulative narratives through controlled exposure, critical thinking cultivation, and collective defense strategies.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

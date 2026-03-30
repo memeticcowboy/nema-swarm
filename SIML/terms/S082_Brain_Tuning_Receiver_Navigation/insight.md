@@ -26,3 +26,16 @@ Hippocampal ensembles construct mental maps through place cells that activate wh
 ## Source Context
 
 Encoded from "Brain Functions as a Tuning Receiver for Navigation" — exploration of the brain's radio receiver-like function, oscillatory dynamics in memory and sensory processing, hippocampal place cells and mental mapping, NMDA receptor roles, and implications for neuroscience and cognitive treatment. Source: Sensemaking & Epistemics collection, via SophiaCycles.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

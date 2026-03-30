@@ -178,3 +178,16 @@ This is not a diminished role but a **transformed** one — from knowledge trans
 ---
 
 *Generated: 2026-02-27 | Hex: #L035 | Daemon: Biota-Aerunik-Aquanik-Terroir-Ignisid*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -37,3 +37,16 @@ A key mechanism is accommodative regulation — the capacity to flexibly adjust 
 ## Source Context
 
 The source document advocates for integrating lifespan developmental psychology with evolutionary perspectives, drawing on systems biology, complexity science, and process philosophy. It positions itself against rigid stage models while acknowledging their heuristic value, and proposes adaptation as a bridging construct that unifies biological and psychological approaches to development. The framework has implications for clinical psychology, educational design, and gerontology, where process-based models offer more nuanced intervention strategies than stage-based assessments.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

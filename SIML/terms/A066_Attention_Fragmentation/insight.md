@@ -71,3 +71,16 @@ Restoring attention is an act of resistance against extraction:
 ---
 
 *"The attention you fragment, you cannot recover. But the attention you cultivate, you can protect."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

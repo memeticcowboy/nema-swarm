@@ -28,3 +28,16 @@ The path forward requires integration rather than opposition. Neither Luddite re
 ## Source Context
 
 Encoded from "Wisdom in the Age of AI: Balancing Technology and Humanity" — an exploration of the integration of AI in creative and intellectual pursuits, arguing for a new era of wisdom that balances technological capability with human discernment, judgment, and ethical oversight.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

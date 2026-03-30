@@ -25,3 +25,16 @@ The framework operates as a sensemaking instrument for complexity — clarifying
 
 ## Source Context
 Derived from the MO3Matrix structured framework for comprehensive analysis, extended to MO4Matrix with the addition of MetaEthics as a sixth dimension. The framework synthesizes decision theory, ethical reasoning, and systems thinking into a practical sensemaking tool for navigating complexity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

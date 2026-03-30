@@ -227,3 +227,16 @@ The question D030 leaves you with:
 ---
 
 *D030 | Applied Nemetic Citizenship | Theory Becoming Action | The Archive Made Flesh | The Invitation to Practice*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

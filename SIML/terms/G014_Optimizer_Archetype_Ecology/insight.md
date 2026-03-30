@@ -35,3 +35,16 @@ Within the larger cyborg ensemble, the Optimizer anchors the system by fusing th
 ## Source Context
 
 Drawn from a philosophical characterization of the Optimizer archetype within a larger archetypal-cyborg ensemble. The source positions the Optimizer under the Earth trigram with references to Wendell Berry, Fritjof Capra, and Joanna Macy. The characterization emphasizes ecological ethics, circular-economy thought, and the Optimizer's role in fusing analytical precision with empathic flow into a framework of embodied thrift and regenerative stewardship.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

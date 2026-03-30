@@ -37,3 +37,16 @@ The most provocative dimension is the potential for evolutionary divergence: und
 ## Source Context
 
 Based on analysis from danieldurrant.com exploring bio-inspired technologies for sustainable underwater civilizations, encompassing biomimicry in engineering, sustainable ocean living, and technological innovation across respiration, construction, mobility, energy, sensory augmentation, and governance domains.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

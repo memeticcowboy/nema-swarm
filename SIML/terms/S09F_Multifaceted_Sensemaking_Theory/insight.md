@@ -26,3 +26,16 @@ The theory identifies multiple factors shaping sensemaking: situational factors 
 ## Source Context
 
 Encoded from "Exploring Multifaceted Sensemaking Theory: Bridging Understanding Gaps" — a systematic literature review and content analysis examining how individuals bridge understanding gaps through constructed meaning, shaped by situational, contextual, and personal factors, with information and communication as central vehicles. Source reference: MDPI Systems 11(3)/145. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

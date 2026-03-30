@@ -37,3 +37,16 @@ Cognitive adaptability—the ability to learn new things and apply them effectiv
 
 ## Nemetic String
 `Φ(CognitiveAdaptability) = σ(ability|limitation) ∘ ρ(learning|stagnation) ∘ λ(adaptation|rigidity) ∘ β(growth|atrophy) ∘ δγ(personalization|standardization) ∘ μ(enhancement|dependency) + ε | :adapting`
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

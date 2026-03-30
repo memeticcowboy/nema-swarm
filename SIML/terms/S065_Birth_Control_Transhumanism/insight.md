@@ -46,3 +46,16 @@ Legal and ethical frameworks provide structural containment for reproductive tec
 ## Source Context
 
 The source examines birth control as a transhumanist catalyst for gender equality, arguing that contraceptive technology transcends biological limitations, empowers women, and challenges traditional gender roles. It traces a trajectory from current contraceptive technology to future possibilities including gene editing and artificial wombs, engaging ethical considerations of reproductive technology as memetic prompt evolution.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

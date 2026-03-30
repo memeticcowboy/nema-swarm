@@ -28,3 +28,16 @@ This framework positions structured reflection as elemental practice rather than
 ## Source Context
 
 Encoded from "Gibbs Mapping Framework: A Structured Approach to Reflection and Analysis" — mapping Gibbs' six-stage reflective cycle to IF-Prime verbs and elemental correspondences, revealing structured reflection as elemental attunement where each stage activates a distinct mode of perception and engagement.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

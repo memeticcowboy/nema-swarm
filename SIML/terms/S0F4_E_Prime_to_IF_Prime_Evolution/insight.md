@@ -28,3 +28,16 @@ The key thinkers informing this evolution span traditions: Korzybski (general se
 ## Source Context
 
 Encoded from "The Evolution from E-Prime to IF-Prime: Symbolic and Recursive Language Systems" — tracing the developmental path from E-Prime's single grammatical constraint to IF-Prime's full symbolic framework integrating elemental mapping, ego-minimization, and spiral grammars across Western and Eastern traditions.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

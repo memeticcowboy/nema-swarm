@@ -37,3 +37,16 @@ The midbrain's fixed anatomical architecture — the SC's layered structure, its
 
 ## Source Context
 Based on University of Chicago research demonstrating that the superior colliculus plays a significant role in visual categorization and decision-making, challenging cortex-centric models of cognition. The SC's evolutionary conservation across vertebrates suggests ancient subcortical foundations for cognitive processing.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

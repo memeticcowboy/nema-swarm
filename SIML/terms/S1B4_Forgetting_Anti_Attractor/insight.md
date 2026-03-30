@@ -24,3 +24,16 @@ The meme aligns forgetting with resilience rather than loss, drawing on evolutio
 
 ## Source Context
 A memetic analysis positioning forgetting as evolutionary anti-attractor, drawing on Zhuangzi, commons-based discourse, and cooperation theory to argue that adaptive systems require strategic dissolution of memory and attribution.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

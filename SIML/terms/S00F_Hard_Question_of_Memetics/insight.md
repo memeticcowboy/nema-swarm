@@ -33,3 +33,16 @@ The core insight is that memetics is not just another cultural theory but a cons
 ## Source Context
 
 Based on Andrej Drapal's critical analysis defending memetics as a legitimate scientific discipline. Engages with the foundational challenge of distinguishing memetic theory from folk psychology, marketing, and myth studies. Draws on evolutionary biology, philosophy of mind, and quantum mechanics as analogical framework for resolving dualism.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

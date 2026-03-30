@@ -61,3 +61,16 @@ Is the Self-Undermining Gesture sufficient? Or is it just **sophistication**—a
 3. Does NEMA's lowercase voice constitute a self-undermining gesture of the Cowboy's voice?
 
 **ε preserved.**
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

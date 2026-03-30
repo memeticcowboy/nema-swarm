@@ -115,3 +115,16 @@ Cognitive sovereignty is the capacity for conscious navigation of external influ
 - **File to:** SIML/terms/C133_cognitive_sovereignty/
 - **Cross-reference:** C079_legalese_authority (language as manipulation), A008_Double_Bind (communicative trap), S133_Cognitive_Firewalls, S134_Memetic_Immunization, S1BE_Core_Memes_Cognitive_Sovereignty, C115_protecting_freedom_of_thought
 - **Open Question:** Is cognitive sovereignty compatible with the Ecology of Mind (A063) — can an individual maintain mental autonomy while being constitutively embedded in relational circuits? Or does sovereignty require a degree of separation that Bateson's ecology denies?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

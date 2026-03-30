@@ -36,3 +36,16 @@ Paradox as structure reframes the Authored-Self Paradox from something to be sol
 
 ## Source Context
 Derived from discourse on navigating the Authored-Self Paradox, drawing on the Meta-Protagonist archetype, co-authorship of identity, existential vertigo, bittersweet awe, meta-intimacy, creative disorientation, and the principle that agency operates within structures that exceed individual control.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

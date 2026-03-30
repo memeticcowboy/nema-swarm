@@ -89,3 +89,16 @@ Frankl's model offers an alternative: embrace the tension, find your "why," and 
 ---
 
 *"When we are no longer able to change a situation, we are challenged to change ourselves."* — Viktor Frankl
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -28,3 +28,16 @@ The practical implications ripple outward from individual communication to broad
 ## Source Context
 
 Encoded from "E-Prime: Transforming Communication Through Language Restriction" — an exploration of E-Prime as a modified English eliminating "to be," developed from Korzybski's general semantics, promoting process-oriented language, dialogic exchange, and epistemic humility through disciplined linguistic restriction.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

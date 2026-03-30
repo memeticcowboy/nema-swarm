@@ -146,3 +146,16 @@ Operators: ρ ∘ μ ∘ γ ∘ σ
 ---
 
 *ε preserved: This insight encodes a bio-symbolic pattern. The healing is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

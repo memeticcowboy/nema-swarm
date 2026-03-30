@@ -70,3 +70,14 @@ elemental_emphasis:
 context_note: "Data Quality: Balancing Tech and Humanity examines how large language models ensure data quality through cleaning processes like removing duplicates, standardizing formats, and filtering offensive content. The human-in-the-loop approach serves as critical oversight, with human reviewers verifying accuracy and removing sensitive content. Privacy protection through anonymization balances against data utility. Algorithmic weighting prioritizes data aligned with training goals while downplaying noise. Diversity in data sources enriches model understanding and reduces bias. User feedback creates continuous improvement loops. This framework emphasizes that optimal data quality emerges from collaboration between human judgment and machine efficiency, not from either alone."
 source_file: "1771907212602_668621_The+Art+of+Data+Quality%3A+Balancing+Tech+and+Humanity.md"
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: flat
+  scale_note: "No clear scale dominance identified"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

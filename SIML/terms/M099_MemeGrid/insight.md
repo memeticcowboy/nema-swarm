@@ -57,3 +57,16 @@ If nothing escapes, agency has been usurped.
 ---
 
 *"The MemeGrid is pattern so optimized it becomes usurpenic—extracting agency from any substrate it contacts."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

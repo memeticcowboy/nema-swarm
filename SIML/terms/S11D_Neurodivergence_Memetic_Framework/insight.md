@@ -30,3 +30,16 @@ The framework is dominated by **Air (σ = 0.85)** — it is fundamentally a para
 Derived from: `1771907213352_2317302_Exploring+Sher+Griffin%E2%80%99s+Neurodivergence+Framework+Through+Memetic+Analysis.md`
 
 Griffin's work sits at the intersection of poststructural theory, memetics, and neurodiversity advocacy. The memetic analysis approach allows the framework to be self-aware about its own propagation dynamics — it does not merely argue for ecological cognition but models how that argument spreads, hooks, and transforms discourse. This reflexive quality gives the framework unusual durability as a cultural meme: it understands the mechanisms of its own adoption and can therefore optimize for them.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

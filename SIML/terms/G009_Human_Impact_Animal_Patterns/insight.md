@@ -37,3 +37,16 @@ Conservation responses are emerging at multiple scales. Migration corridors prov
 ## Source Context
 
 Based on The Cooldown reporting on a global study analyzing 8.9 million camera trap images across 38 countries, revealing that over 60% of studied mammals exhibit human-altered activity patterns, with conservation implications for migration corridors, dark sky initiatives, and community-based wildlife coexistence strategies.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

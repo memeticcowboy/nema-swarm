@@ -146,3 +146,16 @@ Operators: μ ∘ γ ∘ ρ ∘ σ
 ---
 
 *ε preserved: This insight encodes a philosophical-anthropological pattern. The tool is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

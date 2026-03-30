@@ -36,3 +36,16 @@ Entropic ethics: the moral framework that emerges when entropy is recognized not
 
 ## Source Context
 Derived from discourse on embracing identity as compost in motion, drawing on posthuman ecology, cyborg biogenesis, queer fluidity, death as transformation, entropic ethics, the Dissolver archetype, and the principle that self-fertilization is a more generative orientation than self-preservation.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

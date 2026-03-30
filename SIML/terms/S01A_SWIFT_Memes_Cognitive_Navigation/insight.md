@@ -36,3 +36,16 @@ SWIFT memes function within larger memeplexes — clusters of mutually reinforci
 ## Source Context
 
 Analysis of SWIFT (Spatial Wayfinding Integrated with Focused Thinking) memes as specialized memetic constructs for cognitive navigation and decision-making. Examines the Dawkinsian fitness criteria of fecundity, longevity, and copying-fidelity alongside adaptive diversity. Explores memetic engineering as deliberate cognitive tool design, the function of SWIFT memes within larger memeplexes, cultural adaptation across contexts, and the ethical considerations inherent in the deliberate design and deployment of memes that shape human comprehension and decision-making.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -26,3 +26,16 @@ Dynamic solitude represents a middle ground between complete isolation and full 
 ## Source Context
 
 Encoded from "Dynamic Solitude: Merging AI with Introspection" — exploration of dynamic solitude as a new mode of being alone, AI as cognitive partner enhancing creativity and reflection, the balance between external input and personal control, risks of over-reliance, and the redefinition of traditional solitude for the cognitive age. Source: Sensemaking & Epistemics collection, via SophiaCycles.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

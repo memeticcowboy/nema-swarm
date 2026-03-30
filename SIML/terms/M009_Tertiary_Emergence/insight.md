@@ -97,3 +97,16 @@ But: **"What pattern produces this novelty?"**
 ---
 
 *"The whole is greater than the sum of its parts because it is different in kind. Emergence is not mystery. It is the reality of pattern."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

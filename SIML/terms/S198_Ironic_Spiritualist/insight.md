@@ -24,3 +24,16 @@ The Ironic Spiritualist stance is memetically resilient because its defense refl
 
 ## Source Context
 Memeform analysis of Ironic Spiritualism, drawing on Sharon Welch's spirituality of irony, Advaita Vedanta, Zen koan logic, and post-dogmatic mysticism. Published on Memetic Cowboy's Substack.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

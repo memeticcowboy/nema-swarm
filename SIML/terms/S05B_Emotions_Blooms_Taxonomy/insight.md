@@ -46,3 +46,16 @@ Bloom's Taxonomy provides the structural scaffold, and pedagogical design transl
 ## Source Context
 
 The source explores the relationship between emotions and Bloom's Taxonomy learning stages, examining how different affective states influence cognitive processing at different levels. It discusses how joy and curiosity enhance memory, how anxiety impacts comprehension, and raises questions about prescriptive versus descriptive approaches to integrating emotion into educational design.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

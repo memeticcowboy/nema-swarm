@@ -46,3 +46,16 @@ Structural elements provide the framework within which dynamism operates. Biolog
 ## Source Context
 
 The source explores identity formation as a multi-layered dynamic process, examining how biological, social, memetic, cognitive, technological, and existential factors interact to shape selfhood. It emphasizes reflexivity as the mechanism through which individuals can pursue authenticity despite — and through — the constraints they face.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

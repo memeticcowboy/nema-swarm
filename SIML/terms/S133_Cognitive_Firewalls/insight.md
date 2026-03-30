@@ -28,3 +28,16 @@ A notable feature of the cognitive firewall concept is its self-sealing characte
 ## Source Context
 
 Encoded from "Cognitive Firewalls: Protecting the Mind from Manipulative Narratives" — proposing a cybersecurity-inspired framework for defending cognitive processes against manipulative narratives, memetic attacks, and disinformation through layered perimeter defense.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

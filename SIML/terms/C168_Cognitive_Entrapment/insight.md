@@ -84,3 +84,16 @@ Widespread cognitive entrapment could lead to homogenized thinking patterns shap
 - Psychology Today: "Cognitive Entrapment: The Digital Chains of AI Interaction" (January 2025)
 - Operant conditioning principles (Skinner)
 - Flow state research (Csikszentmihalyi)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

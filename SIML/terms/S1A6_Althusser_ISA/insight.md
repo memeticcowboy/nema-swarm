@@ -23,3 +23,16 @@ Althusser argued that transforming society requires replacing bourgeois ISAs wit
 
 ## Source Context
 Based on exploration of Althusser's Ideological State Apparatus concept, drawing on Stanford Encyclopedia of Philosophy and Marxist theory.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

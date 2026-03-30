@@ -93,3 +93,14 @@ context_note: >-
 source: "Heuer, R. J. (1999). The Psychology of Intelligence Analysis. CIA."
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: multiscale
+  scale_note: "Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

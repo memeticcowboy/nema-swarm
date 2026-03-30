@@ -18,3 +18,16 @@ The convergence of neurotechnology and gaming represents a frontier in cognitive
 ## Source Context
 
 Source: *Enhancing Neuroplasticity Through Technology and Gaming* — This text evaluates the scientific evidence for technology-assisted and game-based neuroplastic enhancement. It reviews studies on VR-based rehabilitation, BCI training paradigms, and neurofeedback gaming, examining whether these approaches produce genuine long-term neural reorganization or primarily short-term performance gains. The analysis considers both the promise and the methodological challenges of this rapidly evolving field.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

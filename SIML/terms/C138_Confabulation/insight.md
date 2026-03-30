@@ -32,3 +32,16 @@ No = Usurpenic (captured)
 ---
 
 *"Confabulation doesn't describe pre-existing reality but generates phenomenal plausibility."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

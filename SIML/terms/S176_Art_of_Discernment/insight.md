@@ -36,3 +36,16 @@ Alchemical separation is the structural practice of discernment. Metal provides 
 
 ## Source Context
 Derived from discourse on the art of discernment and cultivating unhurried clarity, drawing on William James (radical empiricism), Eleanor Rosch (primary knowing), Henri Bergson (intuiting reality's flux), alchemical metaphors of separation, and the principle that the breath between impulse and insight is the most active form of knowing.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -95,3 +95,16 @@ But: **"What is excluded by the question?"**
 ---
 
 *"The binary is efficient. The triad is true. The binary chooses. The triad sees. The binary closes. The triad opens."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

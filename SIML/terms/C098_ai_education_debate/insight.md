@@ -29,3 +29,16 @@
 - What structures contain the boundary between beneficial AI use and harmful dependency?
 - What thresholds separate educational enhancement from cognitive diminishment?
 - How do institutional guidelines interact with classroom-level resistance and adaptation?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

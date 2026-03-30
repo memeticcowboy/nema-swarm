@@ -32,3 +32,16 @@
 
 ---
 *Generated: 2026-03-02 | Source: Critical Thinking/1771907212611_708498_Unpacking+Weapons+of+Math+Destruction.md*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

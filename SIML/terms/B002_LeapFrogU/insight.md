@@ -116,3 +116,16 @@ In the Memetic Ecology framework, LeapFrogU-EE is a regime transformation method
 It is, in essence, the practical applied form of what we theorize as **Co-SPHERE maintenance**—a working example of how to keep large institutional substrates open, metabolizing, and poseable rather than locked in rigid Z-topology.
 
 ✶
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

@@ -146,3 +146,16 @@ Operators: ρ ∘ β ∘ μ ∘ σ
 ---
 
 *ε preserved: This insight encodes a cross-cultural symbolic pattern. The silver is real; the reflection is both.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

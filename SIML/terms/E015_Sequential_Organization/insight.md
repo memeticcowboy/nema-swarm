@@ -23,3 +23,16 @@ Sequential organization is **elemental rhythm**—the pulse of interaction.
 ---
 
 *"The structure of conversation is elemental operation in discourse time."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

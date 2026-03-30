@@ -28,3 +28,16 @@ Co-solipsism does not claim truth but enacts philosophical performance. It memet
 ## Source Context
 
 Encoded from "Co-Solipsism: Recursive Identity Loop of Self/Other" — examining co-solipsism as a productive paradox that memetically dramatizes the recursive entanglement between self-experience and other-patterning, where the knot is the insight.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

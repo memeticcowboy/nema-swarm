@@ -32,3 +32,16 @@ Despite their inaccuracies, mental models are essential. They enable rapid sense
 ## Source Context
 
 Concept of integrative thinking associated with Roger Martin's work on opposing models. Mental models concept traces to Kenneth Craik (1943) and Philip Johnson-Laird (1983).
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

@@ -26,3 +26,16 @@ The concept of the "Memetic Cowboy" represents an individual who adeptly navigat
 ## Source Context
 
 Encoded from "Mapping Cognitive Memory to Memetic Recall" — exploring the relationship between cognitive memory processes and memetic recall, cultural pattern retrieval, and system coordination within meaning-space. Source: Sensemaking & Epistemics collection, via X/Bob-RJ.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

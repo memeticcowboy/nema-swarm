@@ -41,3 +41,16 @@
 - What frameworks define the limits of acceptable evidence?
 - How do structural boundaries protect against both gullibility and closed-mindedness?
 - What thresholds mark the transition from healthy doubt to harmful denial?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

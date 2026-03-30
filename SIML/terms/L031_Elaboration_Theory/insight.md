@@ -113,3 +113,16 @@ Elaboration Theory functions as the **architectural principle** in the learning 
 - **Metacognition** enables self-directed elaboration
 
 Together, these theories form a comprehensive framework for designing learning experiences that build genuine expertise.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

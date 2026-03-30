@@ -29,3 +29,16 @@ True growth mindset = process-focused responses to challenge
 
 ## SIML Relevance
 Provides the psychological foundation for why learners persist through CAMIL's challenge-skill balancing—mindset determines whether difficulty is embraced or avoided.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

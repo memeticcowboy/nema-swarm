@@ -26,3 +26,16 @@ Key theoretical frameworks include embodied cognition (learning involves the who
 ## Source Context
 
 Encoded from an analysis of cognitive and learning impacts of print-based media in education, examining embodied cognition, sensorimotor integration, textual topography, and balanced analog-digital integration strategies. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

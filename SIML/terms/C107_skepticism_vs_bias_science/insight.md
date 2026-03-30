@@ -32,3 +32,16 @@
 
 ---
 *Generated: 2026-03-02 | Source: 1771907212603_680955_Skepticism+vs.+Bias+in+Science.md*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

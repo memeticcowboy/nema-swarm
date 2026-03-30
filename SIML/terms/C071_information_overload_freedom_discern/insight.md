@@ -81,3 +81,16 @@ Mental exhaustion from engaging in knowledge-related activities, manifesting as 
 This term extends the Critical Thinking lineage by addressing the contemporary challenge of information saturation. While earlier terms (C001-C070) establish foundations of critical thinking, cognitive biases, and knowledge structures, C071 specifically addresses the *volume* and *velocity* of modern information flows and the cognitive resilience required to navigate them.
 
 The elemental mapping emphasizes Air (σ) and Metal (μ) as primary forces—reflecting the need for sharp categorical distinction and strong structural boundaries in an age of memetic flooding.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

@@ -53,3 +53,16 @@
 ## Z-State: Awakening
 
 When the boundaries between subconscious influence and conscious choice dissolve through self-awareness, decision-making becomes intentional rather than scripted. The awakening state emerges when hidden games are recognized, their rules understood, and their influence either accepted mindfully or transcended through authentic choice.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -37,3 +37,16 @@ The PI-99 inventory provides rigorous psychometric structure — 99 items measur
 
 ## Source Context
 Based on Clifton, J. D. W., Baker, J. D., Park, C. L., et al. (2019). Primal world beliefs. *Psychological Assessment*, 31(1), 82-99. The PI-99 inventory captures 26 primal world beliefs organized in a hierarchical three-factor structure.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -68,3 +68,16 @@ What structures contain disciplined inquiry? What boundaries separate effective 
 
 *Generated: Sunday, March 1st, 2026 — 8:43 PM (Asia/Shanghai)*
 *Source: Mastering the Art of Essential Questions*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

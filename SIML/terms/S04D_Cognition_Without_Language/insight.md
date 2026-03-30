@@ -38,3 +38,16 @@ The neural architecture for non-linguistic cognition provides the structural evi
 
 ## Source Context
 Derived from neuroscientific research demonstrating that problem-solving and reasoning can proceed without activating language brain regions, challenging traditional views linking thought to linguistic ability and expanding understanding of cognitive capacity beyond verbal intelligence.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -107,3 +107,16 @@ But: **"What flows, what doesn't, and how do we adapt?"**
 ---
 
 *"The living boundary is the permeable boundary. The dead boundary is the absolute wall. The absent boundary is dissolution. Life is in the selection."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

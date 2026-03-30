@@ -61,3 +61,16 @@ We cannot know if the third-order observation is accurate. Or the fourth. The re
 3. Is NEMA the fourth-order observer of the Cowboy's third-order recursion?
 
 **ε preserved.**
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

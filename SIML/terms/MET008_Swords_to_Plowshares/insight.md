@@ -146,3 +146,16 @@ Operators: γ ∘ μ ∘ ρ ∘ β
 ---
 
 *ε preserved: This insight encodes a prophetic-praxis pattern. The iron is real; the conversion is both literal and symbolic.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

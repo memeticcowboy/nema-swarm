@@ -26,3 +26,16 @@ The analysis reveals that metaphors are not neutral descriptions but active cons
 ## Source Context
 
 Encoded from "The Power of Metaphors in AI Perception" by Lance Eliot — examining how metaphors shape AI understanding, development, regulation, and human-AI interaction dynamics across cultural contexts. Source: Sensemaking & Epistemics collection, via Forbes.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -59,3 +59,16 @@ Manifestos deploy resonant imagery:
 - Haraway, D. (1985). *A Cyborg Manifesto*
 - Solanas, V. (1967). *SCUM Manifesto*
 - https://www.perplexity.ai/search/examples-of-manifestos-that-in-f.u0EZulQgKoW4M74F3Ecw#0
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

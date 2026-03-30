@@ -36,3 +36,16 @@ The AEIOU framework provides the structural scaffolding that makes contextual da
 
 ## Source Context
 Derived from discourse on contextual inquiry techniques, drawing on the AEIOU framework (Activities, Environments, Interactions, Objects, Users), think-aloud protocols, hybrid observation and interview methods, low-stakes pilot approaches, iterative reflection loops, time-boxing, ethics-first consent, and the principle that the most valuable insights emerge from research conducted in the user's natural setting.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

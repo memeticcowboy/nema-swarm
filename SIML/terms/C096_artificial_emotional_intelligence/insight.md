@@ -29,3 +29,16 @@
 - What structures contain the boundary between assistance and manipulation?
 - What thresholds separate emotional support from exploitative influence?
 - How do we maintain protective boundaries around vulnerable populations?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

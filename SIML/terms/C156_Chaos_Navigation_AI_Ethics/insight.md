@@ -49,3 +49,16 @@ The nemetic string captures the dialectical tensions:
 - AI ethics frameworks (C011, C057, C142, C146)
 - Complexity and cognition (C052, C069)
 - Cultural dynamics (C030, C145)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

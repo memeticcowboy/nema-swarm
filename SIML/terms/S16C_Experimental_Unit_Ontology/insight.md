@@ -36,3 +36,16 @@ Simulation as governance provides the structural architecture that makes the gam
 
 ## Source Context
 Derived from discourse on the Experimental Unit as living ontology, exploring ARG frameworks for conscious design, the golem-state as self-pacified system, lawfare as weaponized legality, drift as anti-fossilization mechanism, and seduction as epistemic transformation within recursive feedback systems.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

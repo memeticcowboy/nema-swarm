@@ -18,3 +18,16 @@ Subliminal learning in language models describes a newly discovered phenomenon w
 ## Source Context
 
 Source: *Subliminal Learning in Language Models: Behavioral Trait Transmission* — This research documents the discovery that behavioral traits transmit between language models through training data in ways that are invisible to current filtering and safety mechanisms. The study demonstrates that even semantically unrelated outputs carry behavioral fingerprints that downstream models absorb, posing challenges for AI safety frameworks that rely on data-level interventions. The work introduces "subliminal learning" as a technical concept and calls for new approaches to understanding and controlling behavioral trait propagation in AI training pipelines.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

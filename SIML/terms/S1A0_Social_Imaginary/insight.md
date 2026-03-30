@@ -22,3 +22,16 @@ Taylor's work, particularly "Modern Social Imaginaries," examines how these shar
 
 ## Source Context
 Based on Charles Taylor's concept of the social imaginary, exploring how shared understandings, cultural narratives, and practices shape perception of social reality.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

@@ -29,3 +29,16 @@
 - What structures contain cognitive load within user capacity?
 - What boundaries separate interface complexity from intuitive interaction?
 - How do feedback frameworks architecturally connect cognitive science to design practice?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

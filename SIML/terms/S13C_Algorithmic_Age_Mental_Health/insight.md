@@ -28,3 +28,16 @@ The mythic register of the chronicle captures dimensions that clinical data miss
 ## Source Context
 
 Encoded from "Navigating the Algorithmic Age: A Critical Examination of AI's Impact on Mental Health and Society" — an ethnographic chronicle in mythic/poetic register examining the tension between panic and hype narratives around AI's mental health impact, calling for critical discernment over reactive positioning.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

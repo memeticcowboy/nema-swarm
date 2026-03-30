@@ -34,3 +34,16 @@ The ART framework provides structural scaffolding for systematic cognitive resil
 
 ## Source Context
 Bridges memetics, microbiome science, cognitive psychology, and the emerging field of the gut-brain-microbiota axis. Integrates the Adaptive Resilience Theory (ART) framework with AI-driven neuroimaging research and psychological coping literature. Applicable to information hygiene, media literacy, crisis psychology, and personalized cognitive health management.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

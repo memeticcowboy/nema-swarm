@@ -88,3 +88,6 @@
 (define four-spheres-formal
   (= Four_Spheres 
      (overlap Geosphere Hydrosphere Atmosphere Biosphere)))
+
+# CE-STATE: flat
+# EI-NOTE: No clear scale dominance identified

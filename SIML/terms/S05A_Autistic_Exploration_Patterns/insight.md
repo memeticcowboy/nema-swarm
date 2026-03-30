@@ -46,3 +46,16 @@ Cognitive strategy structure and educational framework design represent the prac
 ## Source Context
 
 The source examines exploration patterns in individuals with higher autistic traits, presenting evidence that these patterns involve longer persistence in curiosity-driven tasks, consistent exploration in challenging environments, and superior learning outcomes. It discusses implications for personalized education and recognition of neurodivergent cognitive strengths.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

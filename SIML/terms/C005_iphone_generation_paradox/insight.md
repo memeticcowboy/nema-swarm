@@ -74,3 +74,16 @@ Source: The iPhone Generation Paradox — Technology and the Decline of Critical
 ## SYNTHESIS QUESTION
 
 How might we redesign the relationship between technology and cognition such that the iPhone generation develops *stronger* critical thinking capacities through their digital engagement, rather than weaker ones?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

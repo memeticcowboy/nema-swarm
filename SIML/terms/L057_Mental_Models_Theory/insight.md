@@ -190,3 +190,16 @@ concurrency/distributed processing/explicit multiplicity.]
 ---
 
 *End of SIML Insight | Hex: #L057 | Generated: 2026-02-27 23:15*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information
