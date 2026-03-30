@@ -43,3 +43,16 @@ The ε of attention emerges as the scarcest resource of the digital age.
 
 Futurism article referencing University of Michigan and PISA studies (2025)
 https://futurism.com/neoscope/human-intelligence-declining-trends
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

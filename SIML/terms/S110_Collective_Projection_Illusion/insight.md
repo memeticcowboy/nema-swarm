@@ -37,3 +37,16 @@ The dynamic transmits through echo chambers, political discourse, and satirical 
 ## Source Context
 
 The source document analyzes collective projection in group dynamics, drawing on psychodynamic theory (Jung, Klein), mimetic theory (Girard), social identity theory, and media studies. It critiques groupthink and tribalism as manifestations of projection-based cohesion, and examines how echo chambers, political discourse, and satirical media serve as transmission vectors. The work emphasizes the emotional sophistication required to counter projection — intellectual insight alone is insufficient without the capacity to tolerate internal dissonance.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

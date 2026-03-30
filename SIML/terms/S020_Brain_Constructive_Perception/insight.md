@@ -25,3 +25,16 @@ At its deepest level, this concept challenges naive realism. Without a brain, na
 
 ## Source Context
 Derived from "How the Brain Fills in the Blanks," which surveys neuroscience research on perceptual construction including blind spot compensation, illusory contours, phantom limb phenomena, and mirror box therapy. Situated within the Sensemaking & Epistemics series as a foundational concept for understanding how all human knowledge is mediated by constructive neural processes.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

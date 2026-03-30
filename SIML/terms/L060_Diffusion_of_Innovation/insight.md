@@ -159,3 +159,16 @@ Diffusion emerges from **network resonance** — innovations spread when they re
 ---
 
 *ε preserved: This insight encodes a propagating pattern. The pattern is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

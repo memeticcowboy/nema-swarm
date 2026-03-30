@@ -46,3 +46,16 @@ Metal is co-dominant. The DIKUW+ framework and memetic architecture provide the 
 ## Source Context
 
 The source integrates Justification Systems Theory into Memetic Philosophy as mJUST, aligning with the DIKUW+ model and memetic transmission dynamics. It examines how justification systems shape cultural norms and behaviors through transmission patterns, driving cultural evolution through the propagation and competition of justified memetic content.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

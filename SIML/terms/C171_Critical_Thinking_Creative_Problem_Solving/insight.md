@@ -152,3 +152,16 @@ The systematic approach to generating novel and effective solutions:
 - Educational frameworks for critical thinking development
 - Creative problem solving methodology (CPS) literature
 - Decision-making and cognitive science research
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

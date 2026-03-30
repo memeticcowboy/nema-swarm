@@ -90,3 +90,16 @@ But: **"How do we hold the many as many?"**
 ---
 
 *"The One is a lure. The Many are the territory."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

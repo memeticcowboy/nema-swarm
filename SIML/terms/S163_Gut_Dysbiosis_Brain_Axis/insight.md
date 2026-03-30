@@ -34,3 +34,16 @@ The neurotransmitter production infrastructure of the gut represents a critical 
 
 ## Source Context
 Draws on gut-brain axis research, microbiome science, neuroimmunology, and clinical gastroenterology. Integrates evidence on neurotransmitter production by enteric bacteria, intestinal permeability and systemic inflammation, vagal nerve communication, and the growing body of research linking specific microbiome compositions to psychiatric and neurological conditions. Applicable to integrative medicine, mental health treatment, nutritional psychiatry, and personalized microbiome interventions.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

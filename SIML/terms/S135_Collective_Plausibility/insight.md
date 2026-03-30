@@ -28,3 +28,16 @@ The concept illuminates why certain narratives spread rapidly while others stall
 ## Source Context
 
 Encoded from source document "1771907213405_2368851_.md" — examining collective plausibility as a social-cognitive phenomenon where shared perception of believability, narrative coherence, and memetic contagion drive idea propagation independently of objective truth.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

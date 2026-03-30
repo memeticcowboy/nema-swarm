@@ -37,3 +37,16 @@ Exaptation has profound implications for understanding the nature of innovation 
 ## Source Context
 
 Based on the concept of exaptation as introduced by Stephen Jay Gould and Elisabeth Vrba in 1982, with the primary example of theropod dinosaur feathers evolving from insulation to flight. The source covers biological examples (feathers, tetrapod limbs from gill arches), technological parallels (printing press from wine press), and linguistic applications. Emphasizes exaptation's role in explaining evolutionary innovation through repurposing rather than de novo creation, and its implications for understanding how complex novelty emerges from existing structures.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

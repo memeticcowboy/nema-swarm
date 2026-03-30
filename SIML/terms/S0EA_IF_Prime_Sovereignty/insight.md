@@ -28,3 +28,16 @@ Sovereignty through non-grip (YOU) introduces the paradox that true sovereignty 
 ## Source Context
 
 Encoded from an IF-Prime exploration of sovereignty as coherent alignment rather than dominion — articulating how freedom becomes sovereign when it aligns with direction through non-grip, inner clarity, and cross-scale coordination, where fire meets pattern in collective entrainment.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

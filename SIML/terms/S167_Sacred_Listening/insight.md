@@ -34,3 +34,16 @@ The lightest element in this encoding. Ritual forms (Quaker silence, meditation 
 
 ## Source Context
 Derived from discourse on listening as sacred emptiness and presence, drawing on apophatic Christian mysticism, Buddhist renunciation, Pauline Oliveros' deep listening, and Japanese aesthetics of ma and wabi-sabi.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

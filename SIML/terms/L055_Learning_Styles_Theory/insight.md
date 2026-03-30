@@ -63,3 +63,16 @@ Kolb (1984), Fleming (1995), Honey & Mumford (1986), Felder-Silverman (1988), Pa
 ---
 
 *Hex: #L055 | Generated: 2026-02-27 22:52*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

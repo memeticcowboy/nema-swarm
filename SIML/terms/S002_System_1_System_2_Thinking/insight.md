@@ -32,3 +32,16 @@ The source draws an embodied analogy between these cognitive modes and muscle fi
 ## Source Context
 
 Based on Daniel Kahneman's dual process framework (Thinking, Fast and Slow). Source also references non-violent communication and memetic tribes via social media discussion.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -93,3 +93,16 @@ This theory exemplifies the **Fire element** (λ) at its core—directional purp
 - **Child (✶)**: Intrinsic value through pure enjoyment
 
 The motivational state emerges from this elemental integration—**Pyrion** (Fire) leading, but supported by the full NEMAtic ecosystem.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

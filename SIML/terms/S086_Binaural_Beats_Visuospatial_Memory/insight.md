@@ -26,3 +26,16 @@ The research distinguishes binaural beats from monaural beats: BB perception is 
 ## Source Context
 
 Encoded from "Enhancing Visuospatial Memory with Inaudible Binaural Beats" — study examining how inaudible binaural beats improve visuospatial memory performance and brain activation as measured by fNIRS, with implications for non-invasive cognitive enhancement. Source: Sensemaking & Epistemics collection, via Nature Scientific Reports.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

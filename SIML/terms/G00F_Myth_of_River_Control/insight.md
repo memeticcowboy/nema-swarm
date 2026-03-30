@@ -37,3 +37,16 @@ The mythic structure is essential to the analysis. The source does not merely cr
 ## Source Context
 
 Structured through the Hararian Narrative Design Framework (HNDF), examining river regulation, silica collapse, and ocean suffocation as interconnected consequences of the hydrological control myth. Draws from deep-time perspectives of Nile and Indus civilizations, tracing how flood worship became flood prevention and how that inversion now threatens planetary carbon cycling. Proposes "The Pulse Returns" as an alternative myth to the collapsed narrative of mastery.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

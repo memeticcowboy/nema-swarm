@@ -46,3 +46,16 @@ Decision frameworks and organizational governance structures provide the scaffol
 ## Source Context
 
 The source examines the Sense-Analyze-Act model for enhancing decision-making in human capital management. It addresses challenges of information overload and cognitive biases, advocates for cultures of curiosity, humility, and data-driven thinking, and focuses on transforming analytical insights into effective workforce strategy actions.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

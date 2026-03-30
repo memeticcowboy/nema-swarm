@@ -53,3 +53,16 @@
 ## Integration Question
 
 **How might the elemental balance—strong Earth (δγ: 0.90) grounding in memory, Water (ρ: 0.85) flowing between fear and adaptation, with Air (σ: 0.80) and Metal (μ: 0.80) providing categorical and structural clarity—inform therapeutic approaches to cognitive immobility?**
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

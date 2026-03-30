@@ -28,3 +28,16 @@ The framework's deepest contribution is the distinction between mastery and adap
 ## Source Context
 
 Encoded from "Embracing Uncertainty: The Journey of Learning Through FOOLPLAY" — a framework mapping learning stages onto the Dunning-Kruger curve, teaching learners to befriend the curve through presence, curiosity, and paradox rather than denying or bypassing it.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

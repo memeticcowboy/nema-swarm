@@ -114,3 +114,16 @@ Legalese reveals that linguistic complexity functions as authority-signal indepe
 - **File to:** SIML/terms/C079_legalese_authority/
 - **Cross-reference:** C133_cognitive_sovereignty (mental autonomy vs. manipulation), A009_Linguistic_Organism (language as autonomous force), C010_authority_influence, D001_democracy_networked_age (accessibility of governance)
 - **Open Question:** Does SIML notation itself risk becoming a form of legalese — where the formal operators (σ, ρ, λ, etc.) signal expertise-authority while reducing accessibility? How can the system maintain precision without creating a new priestly language?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

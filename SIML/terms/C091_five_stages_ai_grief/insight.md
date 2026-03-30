@@ -63,3 +63,16 @@ What sustains the ground of material reality in AI discourse? What are the cycli
 
 ## ⛨ Ferrosid (Metal/μ) - Boundaries
 What structures contain the boundaries between productive and unproductive resistance? What thresholds separate warranted concern from reactive panic?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

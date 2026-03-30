@@ -28,3 +28,16 @@ A crucial and often overlooked element is forgiveness and release. Maltz argued 
 ## Source Context
 
 Encoded from a source exploring Maxwell Maltz's Psycho-Cybernetics — a framework treating the subconscious mind as a cybernetic guidance system aligned with self-image, transformed through visualization, belief replacement, acting "as if," emotional reinforcement, and forgiveness of past failures.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

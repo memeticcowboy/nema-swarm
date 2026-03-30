@@ -210,3 +210,16 @@ If cognitive apprenticeship becomes AI-augmented, its evolutionary drivers are:
 ---
 
 *ε preserved: This insight encodes a theory of learning through authentic participation. The pattern is social and instructional; the encoding is a map toward expertise development.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

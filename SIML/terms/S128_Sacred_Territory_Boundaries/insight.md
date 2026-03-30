@@ -28,3 +28,16 @@ The spiritualization of personal boundaries transforms ordinary interpersonal sp
 ## Source Context
 
 This concept emerges from the intersection of contemporary wellness culture, spiritual practice, and psychological boundary theory. It takes seriously both the genuine empowerment that boundary-setting provides and the pathological forms that emerge when boundaries are elevated to sacred status. The analysis does not dismiss spiritual framing as mere rationalization but examines how sanctification transforms the dynamics of boundary-setting in ways that serve and undermine wellbeing simultaneously.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

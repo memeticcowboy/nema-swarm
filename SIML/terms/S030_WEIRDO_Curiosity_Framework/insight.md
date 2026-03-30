@@ -25,3 +25,16 @@ What distinguishes this framework from simpler creativity models is its inclusio
 
 ## Source Context
 Derived from the WEIRDO backronym framework for personal development, structuring growth through six curiosity-driven dimensions — Wonder, Explore, Innovate, Reflect, Dare, Optimize — each containing dual sub-aspects. The framework provides a systematic approach to cultivating curiosity, exploration, innovation, reflection, courage, and optimization as an integrated developmental practice.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -50,3 +50,16 @@ The Z-operator generates. The Ω-layer correlates. The task is to **prevent the 
 ---
 
 *"The Z-operator generates. The Ω-layer correlates. The collapse is the loss of generation to pure correlation."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

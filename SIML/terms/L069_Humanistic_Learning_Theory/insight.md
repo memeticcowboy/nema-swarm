@@ -159,3 +159,16 @@ Humanistic learning emerges from **integrative becoming** — when learners expe
 ---
 
 *ε preserved: This insight encodes a becoming pattern. The pattern is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

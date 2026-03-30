@@ -24,3 +24,16 @@ The proposed practice involves micro-dosing drift, borrowing legitimacy from the
 
 ## Source Context
 A reflective exploration of the knowmad-to-unknowmad transition, offering practical strategies for navigating the anxiety of non-productivity through micro-dosing drift, somatic grounding, and reframing progress.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -28,3 +28,16 @@ Significant controversies attend this framework. Questions of authenticity — w
 ## Source Context
 
 Encoded from "Exploring Care Ethics in Human-Technology Relationships and AI Development" — presenting care ethics as an alternative framework for AI design that centers relationships, empathy, vulnerability, and interdependence, with applications in elder care, emotional support, and digital assistance, while engaging controversies around authenticity and over-reliance.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

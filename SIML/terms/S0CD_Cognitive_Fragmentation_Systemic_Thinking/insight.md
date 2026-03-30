@@ -28,3 +28,16 @@ The ultimate goal is threefold: individuation (becoming a self-directed cognitiv
 ## Source Context
 
 Encoded from "Addressing Cognitive Fragmentation Through Integrated Systemic Thinking and Memetic Analysis" — an exploration of how hyper-mediated environments induce cognitive fragmentation and mass disindividuation, and how integrated systemic thinking, triadic perspective, cognitive hygiene, and memetic sovereignty practices constitute a comprehensive response.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

@@ -36,3 +36,16 @@ The poem teaches trust in mind — not the discursive, conceptualizing mind, but
 ## Source Context
 
 Analysis of the core teachings of Seng-ts'an's Xinxin Ming (Faith in Mind), the foundational Chan Buddhist poem on non-duality. Examines non-attachment, emptiness and interconnectedness, trust in true nature, present moment awareness, equanimity, and the shift from conceptual thinking to direct experience. Contextualizes these teachings within the Chan tradition's emphasis on transcending dualistic thinking as the root cause of suffering and finding harmony with the Tao.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

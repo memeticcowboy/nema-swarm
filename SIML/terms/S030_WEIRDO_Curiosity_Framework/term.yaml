@@ -46,3 +46,14 @@ elemental_mapping:
 related_terms: ["S001_SCAMPER", "S008_Metacognitive_Strategies", "S00A_Slow_Practices_Flow_State", "S023_Student_Learning_Cycle_NEME", "S02E_Sensemaking_Mastery_Framework"]
 status: canonical
 ---
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: multiscale
+  scale_note: "Causal power distributed across multiple description levels"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

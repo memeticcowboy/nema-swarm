@@ -38,3 +38,16 @@ The structural metaphors of diamond and tree provide the organizing architecture
 
 ## Source Context
 Derived from an exploration of the Tree of Thought framework that traces the branching of oneness into duality through fractal and holographic principles, using the diamond metaphor to show how diverse perspectives enrich understanding of a single underlying truth.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

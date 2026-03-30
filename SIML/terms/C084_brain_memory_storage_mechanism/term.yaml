@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain memory boundaries between neural populations? What thresholds separate modifiable from consolidated memories?"
 context_note: "Brain's Memory Storage Mechanism explores how the brain encodes multiple copies of memories across three distinct neuronal populations, creating a redundancy system that enhances resilience and retrieval. Early-born neurons create long-lasting but initially hard-to-access memories, middle-born neurons provide stable storage, and late-born neurons encode memories strongly at first but fade over time. This distributed architecture ensures that even if one brain region is compromised, memories can still be retrieved from alternative pathways. The research has significant implications for understanding trauma recovery, cognitive enhancement, and AI memory modeling, highlighting the brain's remarkable plasticity and adaptive capacity."
 source_file: "1771907212495_493258_Brain%27s+Memory+Storage+Mechanism.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: flat
+  scale_note: "No clear scale dominance identified"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

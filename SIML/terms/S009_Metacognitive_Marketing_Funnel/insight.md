@@ -32,3 +32,16 @@ At the awareness stage, self-questioning and goal setting prompt reflection. Dur
 ## Source Context
 
 Application of metacognitive learning theory to digital marketing practice. Maps Flavell's metacognitive strategies onto TOFU/MOFU/BOFU funnel stages.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

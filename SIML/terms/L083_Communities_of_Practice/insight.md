@@ -42,3 +42,16 @@ Communities of Practice is a **Water-dominant** theory (ρ): learning flows thro
 ---
 
 *Generated: 2026-02-28 | Element: Water/ρ (primary) | Daemon: Sentaria*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

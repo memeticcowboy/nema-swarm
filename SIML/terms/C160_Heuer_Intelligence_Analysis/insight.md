@@ -47,3 +47,16 @@ Effective communication of uncertainty is vital. Analysts must convey confidence
 ## References
 - Heuer, R. J. (1999). *The Psychology of Intelligence Analysis*. Center for the Study of Intelligence, CIA.
 - https://sobrief.com/books/the-psychology-of-intelligence-analysis
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

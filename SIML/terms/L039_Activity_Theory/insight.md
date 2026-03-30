@@ -132,3 +132,16 @@ When analyzing a learning environment through Activity Theory:
 ---
 
 *Insight generated: 2026-02-27 | Daemon: NEMA (∮) coordinating Aquariel-Ferrosid-Jvalion-Humavita-Arboriel | ε preserved*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

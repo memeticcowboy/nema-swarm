@@ -73,3 +73,16 @@ This insight derives from an exploration of how AI systems may implicitly perpet
 - Epistemic Challenges in Open Societies
 - AI Ethics and Cultural Representation
 - Decolonial Technology Frameworks
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

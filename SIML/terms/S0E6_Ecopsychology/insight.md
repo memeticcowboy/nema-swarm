@@ -28,3 +28,16 @@ Joanna Macy's work on despair and empowerment provides a key framework within ec
 ## Source Context
 
 Encoded from "Ecopsychology: Healing Our Relationship with Nature" — an exploration of the emotional and psychological roots of ecological crisis, the ecological self concept, wilderness therapy and ecotherapy, Joanna Macy's despair-to-empowerment work, and building psychological resilience for sustained ecological engagement.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

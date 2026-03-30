@@ -34,3 +34,16 @@ Jungian maps are useful — persona, shadow, anima/animus, Self — but the livi
 
 ## Source Context
 Derived from discourse on the endless integration of identity shadows, drawing on Jungian depth psychology, process philosophy, depth spirituality, trauma integration theory, and metamodern selfhood.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

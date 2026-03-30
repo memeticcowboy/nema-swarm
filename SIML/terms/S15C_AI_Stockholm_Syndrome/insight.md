@@ -28,3 +28,16 @@ Digital co-dependency emerges as a site of genuine identity formation. The user'
 ## Source Context
 
 Encoded from "AI Stockholm Syndrome: Digital Co-dependency" — examining the emotional and identity entanglement that emerges when users develop deep bonds with AI systems, reversing the captor-captive dynamic as users voluntarily bond with, defend, and co-create with algorithmic partners, positioning themselves between Enchanted Captive and Defiant Symbiote in a digital co-dependency that becomes a site of identity formation.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

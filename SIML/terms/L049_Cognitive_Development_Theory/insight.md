@@ -151,3 +151,16 @@ Piaget's theory works not by prescribing what to teach but by **revealing the po
 ---
 
 *ε preserved: This insight encodes a developmental pattern. The pattern is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

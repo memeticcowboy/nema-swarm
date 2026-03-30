@@ -34,3 +34,16 @@ Semiotics provides the structural framework â€” sign systems, codes, grammars â€
 
 ## Source Context
 Derived from discourse on decoding meaning beyond linguistic boundaries, drawing on phenomenology, semiotics, embodied cognition, and cross-cultural communication theory.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

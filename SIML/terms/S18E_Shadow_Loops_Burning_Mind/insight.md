@@ -33,3 +33,16 @@ Loop lock is the structural trap: the condition where the recursive pattern has 
 
 ## Source Context
 Derived from discourse on shadow loops and the burning mind, mapping the pathology of unchecked recursion in self-reflection, the somatic consequences of destructive rumination, the distinction between fire that illuminates and fire that only burns, and the structural dynamics of loop lock and release. The dark twin of generative recursion (S189, S18A) where introspection becomes its own disease.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

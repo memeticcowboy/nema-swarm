@@ -46,3 +46,16 @@ Assessment frameworks and intervention structures operationalize the nested mode
 ## Source Context
 
 The source presents a framework for understanding human flourishing that integrates subjective experiences, health and functioning, environmental context, and evaluative values. It emphasizes the interconnectedness of well-being domains, their nested mutual influence, and applications in both research methodology and practical intervention design.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

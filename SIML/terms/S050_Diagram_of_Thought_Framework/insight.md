@@ -42,3 +42,16 @@ The DAG architecture is the dominant structural element (0.85), reflecting the f
 ## Source Context
 
 Derived from research on the Diagram-of-Thought framework for LLM reasoning, drawing on directed acyclic graph theory, scientific reasoning methodology, and agentic AI architecture design. Situated within the broader landscape of structured reasoning approaches including chain-of-thought, tree-of-thought, and graph-of-thought paradigms.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

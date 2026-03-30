@@ -35,3 +35,16 @@
 - What boundaries separate trainer intention from algorithmic output?
 - How does the architectural framework connect human behavior to machine learning?
 - What thresholds mark where human adjustment becomes algorithmic pattern?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

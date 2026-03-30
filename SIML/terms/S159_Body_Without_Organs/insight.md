@@ -28,3 +28,16 @@ Practices of "dismantling the organism" — loosening the grip of habitual organ
 ## Source Context
 
 Encoded from "Exploring Deleuze and Guattari's Body Without Organs" — examining the BwO as state of potential beyond organization, raw potential for desire and affect, practices of dismantling the organism, three types (empty, full, cancerous), and the relation to smooth versus striated spaces.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

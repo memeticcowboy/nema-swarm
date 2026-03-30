@@ -28,3 +28,16 @@ The emphasis on interdependence in relationships and identity as journey is cent
 ## Source Context
 
 Encoded from "Exploring the SUNFLOWER Framework and Taoist Principles" — an integration of the SUNFLOWER personal development framework with Taoist philosophy, emphasizing wu wei, simplicity, interdependence, and continuous becoming as complementary paths toward authentic selfhood.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

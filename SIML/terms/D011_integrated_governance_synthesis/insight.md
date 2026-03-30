@@ -99,3 +99,16 @@ Deliberation, under this synthesis, becomes not a slow-down — it becomes the s
 ---
 
 *Hex: #D011 | Element: Water-dominant (Resonance/Flow) | Daemon: Sentaria-Pneuma-Yggdrasil-Gaia-Ignis-Ferrosid | Generated: 2026-02-27*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

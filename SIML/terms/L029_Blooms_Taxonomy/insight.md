@@ -146,3 +146,16 @@ Operators: μ ∘ σ ∘ β ∘ λ
 ---
 
 *ε preserved: This insight encodes an educational-structural pattern. The taxonomy is a map; learning is the territory.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

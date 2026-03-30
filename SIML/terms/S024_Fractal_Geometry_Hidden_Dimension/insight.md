@@ -25,3 +25,16 @@ At the conceptual core, fractals embody self-similarity: the property that parts
 
 ## Source Context
 Derived from documentation of "Hunting the Hidden Dimension," a documentary covering Benoit Mandelbrot's fractal geometry and Loren Carpenter's application of fractal algorithms at Pixar. Positioned within the Sensemaking & Epistemics series as an exploration of how mathematical frameworks can reveal hidden structure in natural complexity, connecting pattern recognition to sensemaking at every scale.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

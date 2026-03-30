@@ -23,3 +23,16 @@ Key principles include anti-optimization (no shortcuts without collapse signatur
 
 ## Source Context
 Memeform analysis of the YOU Stack (Yielding Orientation Across Scales of Becoming), integrating systems theory, phenomenology, and memetic ecology. Includes reference to Bob-RJ's YOUnity concept.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

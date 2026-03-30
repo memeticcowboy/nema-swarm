@@ -25,3 +25,16 @@ Technology Environmental Adaptation describes the dynamic process by which human
 
 ## Source
 Nature article: "Adapting to Environmental Changes with Technology" (s41599-024-03962-x)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

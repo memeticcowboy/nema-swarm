@@ -18,3 +18,16 @@
 ## Source Context
 
 Source: *Nervous System Regulation: The Bio-Justification of Boundaries and Behavior* — A mini-memetic profile examining how neuroscience terminology has been appropriated by wellness culture to provide seemingly objective justification for personal and relational choices. The analysis traces how clinical language migrates into popular discourse, gaining social authority while losing scientific precision, and how this migration shapes contemporary boundary culture.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

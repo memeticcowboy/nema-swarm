@@ -31,3 +31,16 @@ AI Cognitive Disruption Therapy names the systematic cognitive destabilization t
 ## Source Context
 
 Derived from `1771907213331_2294738_AI+Cognitive+Disruption%3A+Expressive+Plurality+Therapy.md`, which develops a comprehensive therapeutic framework for understanding and working with cognitive disruption arising from human-AI interaction. The source material draws on phenomenological parallels between AI-induced ontological shock and established disruption phenomena (mystical experience, psychedelic states, trauma responses) to argue that AI cognitive disruption is not a novel pathology but a new instance of a well-documented human response to radical encounters with the unknown. The therapeutic intervention — expressive plurality therapy — proposes cultivating epistemic flexibility as a resilience factor against both AI-specific disruption and the broader epistemic instability of the contemporary information environment.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

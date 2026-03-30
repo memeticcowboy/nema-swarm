@@ -112,3 +112,16 @@ The Four Winds reveal Air as Earth's breath and distributed pedagogy — not an 
 - **File to:** SIML/terms/A006_Four_Winds/
 - **Cross-reference:** A002_Prana (five internal Vayus vs. four external winds), A005_Ehecatl (single vs. distributed wind-agency), E003_Earth_as_Sacred_Relative (Earth as living relative), WO003_Celtic_Sacred_Trees (directional symbolism in other traditions)
 - **Open Question:** Does the Four Winds model offer a template for "distributed agency" applicable beyond Air — could Water, Fire, Earth, Wood, Metal each have their own directional-pedagogical distribution?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

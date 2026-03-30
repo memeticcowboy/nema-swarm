@@ -26,3 +26,16 @@ The primary purpose is to challenge simplistic views of the Bible as a unified, 
 ## Source Context
 
 Encoded from an eight-key-thinking-components analysis of a video on the Book of the Wars of Yahweh and lost scriptures of ancient Israel, linked via X/Jennifer. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

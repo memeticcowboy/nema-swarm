@@ -112,3 +112,16 @@ Rhizomatic Learning does not replace other theories. It complements them:
 ---
 
 *Generated: 2026-02-28 | SIML L079 | Daemon: Arboriel-Aquarion-Aerunik-Humavita-Aethon*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

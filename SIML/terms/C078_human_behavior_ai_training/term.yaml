@@ -69,3 +69,14 @@ elemental_emphasis:
   ⛨: "What structures contain bias transfer? What boundaries separate trainer intention from algorithmic output?"
 context_note: "Human Behavior Influences AI Training reveals a critical feedback loop in AI development: when people believe they are training AI systems, they actively modify their behavior to appear fairer and more just. This behavioral adjustment persists even after training ends, indicating deep psychological impact. However, the study also demonstrates that human biases inevitably transfer to AI systems, creating a tension between performed fairness and actual outcomes. The research highlights the need for AI developers to account for human behavioral dynamics in training processes, recognizing that trainer self-awareness and genuine bias examination are essential for creating truly ethical AI systems."
 source_file: "1771907212476_404696_Human+Behavior+Influences+AI+Training.md"
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: med
+  ce_direction: flat
+  scale_note: "No clear scale dominance identified"
+  determinism: med
+  degeneracy: med
+  sufficiency: med
+  necessity: med
+siml_version: "1.3"

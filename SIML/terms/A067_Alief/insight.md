@@ -88,3 +88,16 @@ The Cowboy's job is to feel the gap, to notice when alief and belief diverge, an
 - [DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html) (M019) — The pathology of captured aliefs
 - [Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/motivation_triangle.html) (A065) — The explicit architecture alief shadows
 - [Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html) (E011) — The Earth-grounded alternative to representational belief
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

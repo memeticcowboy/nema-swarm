@@ -39,3 +39,16 @@ The Six Cyborgs framework recognizes that global challenges require coordinated 
 **Source:** Taxonomy of Global Challenges Addressed by Six Cyborgs  
 **SIML ID:** C074  
 **Generated:** 2026-03-01
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -28,3 +28,16 @@ The healing model reframes the IFS Self as a "field coherence stabilizer" — no
 ## Source Context
 
 Encoded from "IFS, Egregores, and Morphic Resonance: A Pattern Language for Understanding Psychic Systems" — a pattern language connecting IFS parts as morphic echoes, egregores as social morphic fields, and the Self as field coherence stabilizer, reframing healing as the shift from fragmented to coherent resonance.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

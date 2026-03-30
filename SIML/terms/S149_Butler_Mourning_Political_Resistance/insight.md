@@ -27,3 +27,16 @@ The critique of state manipulation of grief is equally central. States instrumen
 ## Source Context
 
 Encoded from "Judith Butler: Mourning as Political Resistance" — examining Butler's reframing of grief as political act, the concept of selective grievability as encoding power hierarchies, and the link between shared vulnerability, public mourning, and an ethics of nonviolence.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

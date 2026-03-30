@@ -23,3 +23,16 @@ The risk is drift into endless meta without commitment. The strength is resistin
 
 ## Source Context
 A memetic analysis of frame pluralism as adaptive intelligence, drawing on post-rationality, epistemic volition, narrative therapy, and systems thinking. The meme reinforces epistemic agility while warning against drift into uncommitted meta-positioning.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

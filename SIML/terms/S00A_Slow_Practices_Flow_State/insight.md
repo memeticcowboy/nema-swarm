@@ -32,3 +32,16 @@ Six practical strategies support this integration: mindful engagement in present
 ## Source Context
 
 Integration of Csikszentmihalyi's flow state theory with mindfulness-based slow practice research. Practical framework for sustainable cognitive performance.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

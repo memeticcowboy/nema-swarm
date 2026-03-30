@@ -46,3 +46,16 @@ Digital platforms and the philosophical canon provide structural scaffolding. Th
 ## Source Context
 
 The source examines the revival of Stoicism in American culture, focusing on how online communities have made ancient Stoic teachings widely accessible. It explores Stoicism as a path to personal meaning, spiritual growth, and psychological resilience, analyzing how digital platforms have transformed a historical philosophical tradition into a living cultural movement.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

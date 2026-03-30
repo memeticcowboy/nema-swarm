@@ -26,3 +26,16 @@ Key findings include: dogs can identify their names and familiar commands within
 ## Source Context
 
 Encoded from research findings on dogs' speech recognition abilities, demonstrating canine capacity to process meaningful verbal content independent of emotional tone, with implications for understanding animal cognition and human-dog communication. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

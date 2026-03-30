@@ -26,3 +26,16 @@ The analysis introduces uRecursiveReality as a looping construct where degraded 
 ## Source Context
 
 Encoded from a Memetic Cyborg News analysis reframing a metacognition study through Usurpian systemics, examining how economic extraction erodes cognitive vitality, with Six Archetypal Cyborg perspectives and manipulation mechanism mapping. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

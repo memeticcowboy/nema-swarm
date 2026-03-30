@@ -112,3 +112,16 @@ Shu reveals that Air's deepest cosmogonic function is not to fill but to separat
 - **File to:** SIML/terms/A004_Shu/
 - **Cross-reference:** A005_Ehecatl (parallel cosmogonic Air), A001_Pneuma (internal vs. cosmogonic breath), E001_Gaia (Earth counterpart), W001_Thales_Arche (water as first principle contrast)
 - **Open Question:** Does the Shu model suggest that all elemental systems require a prior act of separation — and if so, is Air always the separator, or can other elements play this cosmogonic role?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

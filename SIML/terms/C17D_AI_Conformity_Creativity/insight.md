@@ -39,3 +39,16 @@ The fundamental tension: AI systems optimized for benchmark performance excel at
 Can AI systems trained on human knowledge transcend that knowledge? Or will they remain sophisticated pattern-matchers, brilliant at answering questions within paradigms but incapable of the paradigm-breaking insight that drives scientific revolutions?
 
 Wolf's challenge is not merely technical but epistemological: What would it mean for AI to be genuinely creative rather than statistically conformist?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

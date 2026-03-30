@@ -104,3 +104,16 @@ The supporting elements (Earth, Water, Fire, Wood) describe the conditions that 
 ---
 
 *"The medium is the message—and the message of fragmented media is that attention is disposable."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -24,3 +24,16 @@ The meme spreads through dissolution rather than amplification, surviving by not
 
 ## Source Context
 An exploration of metabolic continuity beyond memory, proposing Re-Memoring as the deliberate practice of un-memorizing that frees the body to its present metabolic flow. Draws on mycorrhizal forgetting, somatic unlearning, and post-narrative praxis.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

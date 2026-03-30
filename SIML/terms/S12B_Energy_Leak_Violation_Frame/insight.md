@@ -18,3 +18,16 @@ The "energy leak" metaphor has become a central organizing concept in contempora
 ## Source Context
 
 Source: *Understanding 'Energy Leak': The Subtle Drain of Emotional Resources and Boundary Violations* — A memetic analysis examining how the energy leak concept functions within wellness culture. The source traces how spiritual and psychological language converges to create a powerful frame that validates emotional withdrawal by casting relational difficulty as energetic violation, analyzing both the genuine phenomenology of depletion and the rhetorical work the metaphor performs.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

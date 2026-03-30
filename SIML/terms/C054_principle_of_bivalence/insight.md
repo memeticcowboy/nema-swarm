@@ -20,3 +20,16 @@ What structures contain the law of excluded middle? What boundaries separate cla
 
 ---
 *Generated from: 1771907212350_232647_.md*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

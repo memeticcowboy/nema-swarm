@@ -80,3 +80,16 @@ Despite—or because of—instant access to vast information, humans may experie
 - Nature: "How the Internet and AI Are Changing Memory" (DOI: 10.1038/d41586-025-00292-z)
 - Sparrow, B., Liu, J., & Wegner, D.M. (2011). Google Effects on Memory
 - x/change rajendra: https://x.com/rajprasad3251/status/1886045839518552194
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

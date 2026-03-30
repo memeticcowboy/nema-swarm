@@ -26,3 +26,16 @@ The thematic architecture spans scientific hubris and unintended consequences, s
 ## Source Context
 
 Encoded from "Exploring Growth and Conflict in H.G. Wells' Novel" — an analysis of "The Food of the Gods and How It Came to Earth" examining Herakleophorbia IV as growth catalyst, the conflict between giant offspring and normal population, and the themes of scientific hubris, social change, ethical responsibility, and growth as both physical and metaphorical phenomenon. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior

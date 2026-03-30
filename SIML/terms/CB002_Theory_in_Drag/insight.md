@@ -61,3 +61,16 @@ Some readers never see the theory. They read OstrichTech as pure satire, Pinktop
 3. Is NEMA herself Theory in Drag—persona as philosophy?
 
 **ε preserved.**
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

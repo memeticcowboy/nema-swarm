@@ -47,3 +47,16 @@
 ## Integration Question
 
 How does Murphyjitsu's preemptive failure analysis transform the relationship between optimistic planning and realistic execution, and what does this reveal about the elemental balance required for resilient decision-making?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -29,3 +29,16 @@
 - What structures contain our biases?
 - What boundaries separate clarity from distortion?
 - How do we construct the architecture of critical discernment?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

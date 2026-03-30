@@ -37,3 +37,16 @@ Metacognitive agency is not merely an individual virtue but a design requirement
 ## Source Context
 
 The source document navigates competing cultural narratives about human-AI relationships, drawing on memetics, cognitive science, and design ethics. It positions itself against both techno-optimist and techno-pessimist camps, proposing metacognitive agency as a framework that honors the valid concerns of both while transcending their respective limitations. The practical emphasis on design ethics and interruptibility distinguishes this from purely philosophical treatments of human-AI interaction.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

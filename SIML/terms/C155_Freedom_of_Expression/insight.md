@@ -45,3 +45,16 @@ Freedom of expression is not absolute—harm provides legitimate limits. But the
 ---
 
 *Encoded: 2026-03-04 | Series: C (Critical Thinking) | Source: 1771907212733_1059921_.md*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

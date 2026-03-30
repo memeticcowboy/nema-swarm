@@ -37,3 +37,16 @@ The retrospective assessment process provides the maintenance protocol: scanning
 ## Source Context
 
 Based on a retrospective assessment and refinement protocol for the Co-SPHERE framework, focused on diagnostic alignment with the canonical definition of Co-SPHERE as omega-permeable soft coordination basin. The source provides a six-step evaluation process: definition lock, material classification (canonical/recoverable/misclassified/pathological), failure mode detection, low-frequency test, structured output format, and final integrity check. The absolute constraint is that no new theory is added, contradictions are not reconciled, and material is not preserved for sentimental reasons.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

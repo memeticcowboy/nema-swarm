@@ -29,3 +29,16 @@
 - What structures contain acceptable dissent within intellectual communities?
 - What boundaries separate constructive challenge from destructive opposition?
 - How do we maintain the threshold of intellectual integrity in our disagreements?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

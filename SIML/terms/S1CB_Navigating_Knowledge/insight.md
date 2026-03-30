@@ -23,3 +23,16 @@ The analysis maps nine key concepts: knowledge creation, fallibilism, theories a
 
 ## Source Context
 A memetic ecology mapping of David Deutsch's epistemology through Threadplex, Knot, and MemeGrid frameworks, developed in exchange with Bob-RJ Burkhart with reference to Deutsch's writings and lectures on knowledge, memes, and progress.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

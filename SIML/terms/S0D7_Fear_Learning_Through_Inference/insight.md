@@ -28,3 +28,16 @@ The implications extend significantly to clinical understanding of human anxiety
 ## Source Context
 
 Encoded from "Rats Learn Fear Through Inference: A Neuroscience Breakthrough" — an exploration of how the medial prefrontal cortex enables organisms to learn fear through inference rather than direct experience, with implications for understanding human anxiety and trauma-related disorders.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

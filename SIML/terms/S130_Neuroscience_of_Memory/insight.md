@@ -28,3 +28,16 @@ The implications extend far beyond neuroscience into questions of identity, lega
 ## Source Context
 
 Encoded from "Neuroscience of Memory: Dynamic Reconstructive Processes" — examining how contemporary neuroscience reveals memory as a dynamic, reconstructive process with profound implications for understanding identity, testimony, therapy, and the nature of the self.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

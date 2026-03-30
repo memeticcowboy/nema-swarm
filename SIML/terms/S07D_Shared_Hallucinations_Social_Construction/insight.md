@@ -26,3 +26,16 @@ Michel Foucault argued that knowledge is shaped by power structures within socie
 ## Source Context
 
 Encoded from "Exploring Shared Hallucinations in Social Constructionism and Philosophy" — examination of shared hallucinations as knowledge, featuring Foucault's power-shaped knowledge, Berger and Luckmann's social construction of reality, and Baudrillard's simulacra. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

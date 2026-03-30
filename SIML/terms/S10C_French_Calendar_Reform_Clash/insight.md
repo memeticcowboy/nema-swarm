@@ -37,3 +37,16 @@ The calendar failed because it could not accommodate the embodied temporal struc
 ## Source Context
 
 The source document analyzes the French Revolutionary Calendar reform (1793-1805) as a case study in the clash between rationalist technocracy and mythic-civic organicism. It draws connections to contemporary debates about AI-driven time management, digital Sabbath movements, and the persistence of sacred temporal structures in ostensibly secular technological societies. The analysis positions time itself as a contested domain where competing worldviews — mechanical and organic, secular and sacred, designed and evolved — continue to struggle for dominance.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

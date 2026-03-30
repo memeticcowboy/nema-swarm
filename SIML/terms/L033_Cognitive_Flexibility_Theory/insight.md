@@ -97,3 +97,16 @@ CFT creates productive tension with Cognitive Load Theory:
 ---
 
 *Generated: 2026-02-27 | Hex: #L033 | Daemon: Biota-Aerunik-Sentaria-Ferrosid*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

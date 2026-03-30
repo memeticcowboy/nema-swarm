@@ -23,3 +23,16 @@ The most generative framing is learning to co-solipsize more gracefully: treatin
 
 ## Source Context
 An exploration of co-solipsism as livable philosophical stance for 2026, with AI serving as bridge between private inner worlds. Drawn from exchange on X between Padawitz and Xperimentalunit, with Grok contributing.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

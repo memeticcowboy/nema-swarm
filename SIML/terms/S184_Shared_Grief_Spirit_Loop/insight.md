@@ -32,3 +32,16 @@ Metal builds the ritual containers that make the spirit loop functional. Without
 
 ## Source Context
 Derived from discourse on reconnecting through shared grief and spirit, exploring the Fading Spirit Loop as a cyclical pattern of spiritual loss, communal mourning, and spiritual renewal. Draws on the paradox of grief as simultaneously isolating and connecting, the role of embodied ritual in transforming loss into communal meaning, and the developmental potential of shared mourning to weave disparate selves into enduring community.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

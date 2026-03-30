@@ -109,3 +109,16 @@ But: **"How much can I metabolize?"**
 ---
 
 *"The organism that consumes without metabolizing dies. The mind that inputs without integrating atrophies. The society that produces without digesting collapses. Metabolism is the difference between abundance and nourishment."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

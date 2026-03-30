@@ -26,3 +26,16 @@ The structured reasoning traces a logical chain: biotech advances slow aging, wh
 ## Source Context
 
 Encoded from "Exploring Longevity Escape Velocity: Impacts on Society, Identity, and Existence" — a hybrid analytical-imaginative exploration of indefinite lifespan extension, its implications for economics, identity, culture, and existential meaning. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

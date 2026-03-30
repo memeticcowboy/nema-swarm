@@ -174,3 +174,16 @@ The goal-directed state emerges from this elemental integration — **Pyrion** (
 ```
 
 Small initial differences in goal quality can amplify through recursive cycles into large performance differences over time.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

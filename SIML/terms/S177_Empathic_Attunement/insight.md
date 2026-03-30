@@ -36,3 +36,16 @@ Ethical reciprocity structures the moral dimension of empathic attunement. Metal
 
 ## Source Context
 Derived from discourse on empathic attunement and fluid connection with ethical reciprocity, drawing on Merleau-Ponty (phenomenology of perception), Nel Noddings (caring and receptive attention), Susan Stuart (feeling-with without fusion), the sovereignty of selective vulnerability, and the image of the wave that yields to the shore yet carves its path.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

@@ -25,3 +25,16 @@ Team sensemaking introduces additional complexity, requiring coordination across
 
 ## Source Context
 Derived from a comprehensive framework for mastering sensemaking covering six modalities — Sensemaking, Sense-Giving, Sense-Breaking, Sense-Demanding, Sense-Hiding, and Sense-Taking — within the context of discourse, power dynamics, identity formation, team coordination, and the Strategist Cyborg archetype. Emphasizes personal growth through self-awareness, empathy, and adaptability as foundations for sensemaking mastery.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

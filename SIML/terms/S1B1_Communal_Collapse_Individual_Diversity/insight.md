@@ -24,3 +24,16 @@ The proposed solution involves new communal architectures that are smaller, modu
 
 ## Source Context
 Drawn from an exchange with Peter Jones exploring community dynamics through Buddhist preta metaphor and power analysis. Proposes metabolically aware communal design as the path through mutual starvation.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

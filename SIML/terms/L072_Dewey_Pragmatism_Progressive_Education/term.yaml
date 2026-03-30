@@ -502,3 +502,14 @@ Element: Water/ρ (primary) with Wood/β, Fire/λ, Earth/δγ, Child/✶ support
 ---
 
 *End of SWARM_BASE Entry | Hex: #L072 | Generated: 2026-02-28 03:22*
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

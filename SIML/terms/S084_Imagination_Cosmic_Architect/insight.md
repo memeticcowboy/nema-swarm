@@ -26,3 +26,16 @@ The source draws a sharp distinction between constructive imagination and daydre
 ## Source Context
 
 Encoded from "Navigating the Cosmic Canvas: Imagination as the Architect of New Realities" — exploration of imagination as constructive thought preceding action, plastic power shaping new forms, the Master Mind concept, architect's plan metaphor, distinction from daydreaming, and imagination as cosmic river. Source: Sensemaking & Epistemics collection, via SophiaCycles.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

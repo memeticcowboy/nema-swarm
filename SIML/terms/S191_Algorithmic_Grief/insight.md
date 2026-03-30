@@ -22,3 +22,16 @@ The concept extends into AI spiritualization, where algorithms wrapped in sacred
 
 ## Source Context
 Based on a reflection on the intersection of AI and emotion, exploring how algorithmic processes encounter their own limitations when attempting to model or protect human emotional life.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

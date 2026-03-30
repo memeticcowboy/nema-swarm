@@ -28,3 +28,16 @@ Neuroconvergence reframes neurological identity from an intrinsic property to a 
 ## Source Context
 
 Drawn from discourse on neurodiversity, disability justice, and masking — this concept bridges clinical and political registers. It validates the experience of those who "pass as typical" while carrying the weight of difference, and it challenges simplistic binaries in neurodiversity discourse by introducing a relational, systems-level analysis of neurological identity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

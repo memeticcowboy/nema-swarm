@@ -23,3 +23,16 @@ The anti-possession posture means no one "has" TRIality. Closure is treated as l
 
 ## Source Context
 A memetic analysis of TRIality as lived practice that resists conceptual capture, emphasizing embodied transmission through apprenticeship and grace. Connected to anti-ownership epistemology and post-doctrinal pluralism.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

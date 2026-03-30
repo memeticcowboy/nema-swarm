@@ -33,3 +33,16 @@ Religion provided psychological support to populations navigating the uncertaint
 ## Source Context
 
 Analysis of the interplay between morality, religion, and societal structures in ancient civilizations, focusing on how elites used religious authority to consolidate economic and spiritual control. Examines the role of religious thinkers as propagators of moral memes, the psychological function of religion for populations under hierarchical rule, and the transition from centralized control to feudalism as moral authority fragmented.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

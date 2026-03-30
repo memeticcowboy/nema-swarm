@@ -126,3 +126,16 @@ What would it mean to treat every learner—regardless of age—as capable of se
 ---
 
 *Encoded in SIML v1.2.1 | Hex: #L024 | Elemental Daemon: Jvalion-Sentaria-Aerunik-Arboriel-Humavita*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

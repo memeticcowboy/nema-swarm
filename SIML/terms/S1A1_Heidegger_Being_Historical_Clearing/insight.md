@@ -24,3 +24,16 @@ Heidegger's later work critiques technology as a mode of revealing that transfor
 
 ## Source Context
 Based on exploration of Heidegger's concept of Being as historical clearing, drawing on Stanford Encyclopedia of Philosophy entry on Heidegger.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

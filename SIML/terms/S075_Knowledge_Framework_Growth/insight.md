@@ -28,3 +28,16 @@ The personal-to-collective dimension is particularly significant. When individua
 ## Source Context
 
 Encoded from "Mindful Exploration: Unpacking Knowledge for Personal and Collective Growth" — a framework for systematic knowledge exploration through 8 core thinking components, emphasizing the transformation of fragmented information into actionable wisdom. Inspired by Bob-RJ's work with Protector and ContemplativeGPT.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

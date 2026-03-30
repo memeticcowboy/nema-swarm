@@ -35,3 +35,16 @@ The broader significance extends well beyond classrooms. Epistemic fluency — t
 ## Source Context
 
 Derived from the source document "Enhancing Epistemic Fluency Through Epistemic Games and Sensemaking Frameworks," which synthesizes Collins and Ferguson's original epistemic games taxonomy with Odden and Russ's sensemaking epistemic game model. The encoding captures the meta-epistemological architecture of the framework and its potential extension toward information resilience and anti-manipulation pedagogy.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -66,3 +66,16 @@ These prompts exemplify **cognitive offloading as cognitive enhancement**—usin
 
 ## Source
 Forbes article: "5 Hard-Hitting ChatGPT Prompts That Will Change The Way You Think" by Jodie Cook (December 2024)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

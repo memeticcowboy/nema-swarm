@@ -35,3 +35,16 @@ The collaborative framework brings together technologists, ecologists, and artis
 ## Source Context
 
 Derived from "Reconfiguring STREAMware for Ethical Tech Innovation," which articulates a vision for technology platforms that integrate ecological awareness, artistic sensibility, and rigorous quality engineering into a unified framework for sustainable urban design and community engagement.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

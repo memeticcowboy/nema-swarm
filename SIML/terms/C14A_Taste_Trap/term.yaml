@@ -50,3 +50,14 @@ metadata:
   encoded_by: "nema_critical_thinking_generator"
   source_quality: "high"
   confidence: 0.82
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Macro-level description increases causal informativeness over micro-level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

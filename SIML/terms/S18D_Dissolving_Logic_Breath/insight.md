@@ -33,3 +33,16 @@ The recessive operator. Ephemeral coherence replaces permanent architecture: str
 
 ## Source Context
 Derived from discourse on dissolving logic and embracing breath and relation, the Wind That Thinks as transrational mode of understanding, processual truth, relational knowing, the embodied rhythm of breath as foundation of thought, and the organic dissolution of rigid logical structures in favor of ephemeral, breath-based coherence.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

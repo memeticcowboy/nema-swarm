@@ -18,3 +18,16 @@ The **air/sigma** dimension dominates (0.82) because posthumanism operates prima
 ## Source Context
 
 Source: *Rethinking Human Agency in Posthumanism* — This text interrogates the foundations of human agency from a posthumanist perspective, drawing on theorists who challenge the autonomous liberal subject. It contributes to discourse studies by proposing relational, embodied, and materially situated models of agency that move beyond anthropocentric frameworks while grappling with the political implications of decentering the human.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

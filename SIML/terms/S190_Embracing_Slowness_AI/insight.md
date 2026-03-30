@@ -33,3 +33,16 @@ Rhythmic structure is Metal's architectural contribution: the framework for inte
 
 ## Source Context
 Derived from discourse on embracing slowness amidst AI acceleration, the AI Speed Paradox where the fastest path to understanding passes through deliberate slowness, epistemological practice distinct from mere resistance, duration-dependent truths inaccessible to speed, and the recognition that organic tempo is irreplaceable for certain forms of understanding.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

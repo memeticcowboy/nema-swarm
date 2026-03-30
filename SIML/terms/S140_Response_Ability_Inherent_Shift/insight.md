@@ -28,3 +28,16 @@ The convergence between de Beer's coordination systems and response-ability theo
 ## Source Context
 
 Encoded from "From Responsibility to Response-Ability: An Inherent Shift" — examining the fundamental reorientation from externally imposed obligation to inherent relational capacity, and the convergence between coordination systems theory and response-ability frameworks.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

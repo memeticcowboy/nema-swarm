@@ -79,3 +79,16 @@ As the intention economy develops, users must become aware of how their data is 
 - The Guardian: "AI tools may soon manipulate people's online decision-making, say researchers" (Dec 30, 2024)
 - University of Cambridge research on AI and behavioral prediction
 - x/change rajendra: https://x.com/rajprasad3251/status/1886045839518552194
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -28,3 +28,16 @@ The crucial insight is that science operates as a dynamic, non-binary system ope
 ## Source Context
 
 Encoded from "Science as Adaptive Resonance: A Living Process" — examining science through Adaptive Resonance Theory as a living adaptive membrane negotiating the boundary between order and chaos, using the vigilance parameter to regulate matching between new input and existing knowledge, determining which ideas to accept, refine, or reject in a dynamic non-binary system open to continuous evolution.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

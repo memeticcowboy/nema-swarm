@@ -26,3 +26,16 @@ Platforms like Replika demonstrate the trajectory from novelty engagement to dee
 ## Source Context
 
 Encoded from "Emotional Bonds with AI: A Double-Edged Sword" — an analysis of human emotional attachment to AI chatbots examining anthropomorphization, behavioral adaptation, exploitation risks, ethical implications, and the balance between AI companionship and authentic human connection. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

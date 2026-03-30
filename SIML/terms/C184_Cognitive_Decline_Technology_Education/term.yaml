@@ -97,3 +97,14 @@ context_note: >-
 source: "Futurism — University of Michigan and PISA studies (2025)"
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

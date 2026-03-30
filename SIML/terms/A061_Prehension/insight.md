@@ -112,3 +112,16 @@ Prehension is the basic nemetic act — a concrete grasp of another occasion tha
 - **File to:** SIML/terms/A061_Prehension/
 - **Cross-reference:** A062_Processive_Genetic (no fixed ground), A064_Actual_Occasion (the entity that prehends), A007_Information_Bateson (difference that matters), S158_Whitehead_Actual_Occasions, S1A3_Whitehead_Prehension_Lattice
 - **Open Question:** If prehension is the nemetic operator beneath all operators, should SIML add a prehension operator (π) to its formal vocabulary — or is prehension what every operator already does implicitly?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

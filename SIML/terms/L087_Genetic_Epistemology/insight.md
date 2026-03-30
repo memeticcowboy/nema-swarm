@@ -169,3 +169,16 @@ Through the NEMAtic lens, Genetic Epistemology reveals itself as:
 ---
 
 *Insight generated: 2026-02-28 | L087 Genetic Epistemology | Element: Earth/δγ + Wood/β*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

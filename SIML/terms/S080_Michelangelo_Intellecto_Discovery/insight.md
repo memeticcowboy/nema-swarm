@@ -26,3 +26,16 @@ The central insight is that true artistry lies in removing surfaces from the sel
 ## Source Context
 
 Encoded from "Unveiling the Inner Self: Michelangelo's Intellecto and the Art of Discovery" — reflection on Michelangelo's concept of visionary intelligence, creativity as self-discovery through layer removal, vulnerability and authenticity, and art as ongoing journey rather than destination. Source: Sensemaking & Epistemics collection, via SophiaCycles.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

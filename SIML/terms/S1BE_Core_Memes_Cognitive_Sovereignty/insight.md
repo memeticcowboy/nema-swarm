@@ -24,3 +24,16 @@ Together, these memes construct an anti-accelerationist, anti-optimization, pro-
 
 ## Source Context
 A set of ten fully-formed memes extracted from a text on cognitive sovereignty, system design, and ethical AI practices, each with narrative structure, emotional leverage, and identity-binding capacity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

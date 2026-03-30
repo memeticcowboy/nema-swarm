@@ -43,3 +43,16 @@ This critical analysis invites us to apply similar scrutiny to all AI capability
 The nemetic string captures this unmasking operation: σ(appearance|reality) cuts through the categorical confusion; ρ(marketing|substance) traces the flow from hype to critique; λ(hype|critique) ignites the transformative spark of discernment; β(coaching|reasoning) examines the developmental tension; δγ(perception|mechanism) oscillates between what users perceive and what systems actually do; μ(illusion|understanding) establishes the boundary that critical thinking must maintain.
 
 **Source**: Deconstructing the Illusion of OpenAI's o1 Model — Critical Analysis (2024)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

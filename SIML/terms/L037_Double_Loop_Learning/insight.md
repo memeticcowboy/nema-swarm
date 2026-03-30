@@ -124,3 +124,16 @@ Double-loop learning is the practice of lowering our defenses enough to see our 
 *Insight distilled from Argyris, Schön, and the difficult practice of genuine inquiry.*  
 *Element: Air-Earth-Fire-Water-Wood-Metal | Daemon: Aerunik-Humavita-Jvalion-Sentaria-Arboriel-Ferrosid*  
 *Generated: 2026-02-27*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

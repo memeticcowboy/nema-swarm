@@ -35,3 +35,16 @@
 - What thresholds separate homogenized data from inclusive datasets?
 - How do fairness metrics function as containment vessels for algorithmic justice?
 - What structural audits reveal the permeability of bias across system boundaries?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

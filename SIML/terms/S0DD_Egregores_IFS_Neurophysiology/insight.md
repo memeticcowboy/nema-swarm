@@ -28,3 +28,16 @@ The group dimension extends the framework beyond individual therapy. Group biofe
 ## Source Context
 
 Encoded from "Integrating Egregores into IFS: A Neurophysiological Approach" — a framework integrating collective thought forms into Internal Family Systems therapy using neurophysiological markers (EEG, HRV, GSR) to detect egregoric influence on parts and verify unblending through biofeedback, extending to group dynamics and collective belief detection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

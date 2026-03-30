@@ -105,3 +105,16 @@ A: Double-edged sword — engagement vs. hedonic trap
 ---
 
 *ε preserved: This insight encodes the complete CAMIL synthesis. The framework is comprehensive; the hedonic trap is real.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

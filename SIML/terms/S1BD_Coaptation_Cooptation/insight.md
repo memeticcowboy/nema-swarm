@@ -22,3 +22,16 @@ The personal reflection embedded in the source material emphasizes a preference 
 
 ## Source Context
 A definitional exploration distinguishing coaptation from cooptation, grounding an ethics of boundary-respecting coordination in creative and intellectual practice.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

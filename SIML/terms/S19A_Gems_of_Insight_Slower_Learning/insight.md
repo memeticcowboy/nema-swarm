@@ -22,3 +22,16 @@ The concept also connects to memetics, exploring how information propagates diff
 
 ## Source Context
 Based on a reflection on Michael's insights about slower learning and efficiency, connecting thermodynamic principles to cognitive science and memetic theory.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

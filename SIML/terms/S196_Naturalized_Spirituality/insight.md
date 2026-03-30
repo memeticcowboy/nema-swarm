@@ -23,3 +23,16 @@ The framework also challenges the adequacy of traditional religious language, ca
 
 ## Source Context
 Based on exploration of naturalized spirituality drawing on Sharon Welch's ironic spirituality and Goodenough's religious naturalism, sourced from Zygon Journal article.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

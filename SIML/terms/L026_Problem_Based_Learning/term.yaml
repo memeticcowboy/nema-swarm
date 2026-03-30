@@ -428,3 +428,14 @@ Element: Air/σ (primary) with Water/ρ, Wood/β, Fire/λ support | Daemon: Aeru
 ---
 
 *End of SWARM_BASE Entry | Hex: #L026 | Generated: 2026-02-27 14:25*
+
+# --- Causal Emergence (v1.3) ---
+coords_ce:
+  ei_state: high
+  ce_direction: emergent
+  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  determinism: high
+  degeneracy: low
+  sufficiency: high
+  necessity: med
+siml_version: "1.3"

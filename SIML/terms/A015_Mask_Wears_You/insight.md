@@ -177,3 +177,16 @@ This term consolidates 4 insights:
 - `INSIGHT_20260228_0739_MaskWearsYou_A048.md` (tag: A048)
 
 Canonical tag: A015
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

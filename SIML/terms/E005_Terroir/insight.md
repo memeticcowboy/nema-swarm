@@ -153,3 +153,16 @@ Terroir is the bridge between material and symbolic Earth. The soil literally ho
 ---
 
 *ε preserved: This insight encodes a soil-memory pattern. The pattern is real; the encoding is a map. The taste is the territory.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

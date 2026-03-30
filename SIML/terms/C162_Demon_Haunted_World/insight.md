@@ -49,3 +49,16 @@ The role of mass media in amplifying spectacular claims, feeding cycles of sensa
 ## References
 - Source document: https://x.com/BurkhartRj/status/1872725907682804113
 - Sagan, Carl. *The Demon-Haunted World: Science as a Candle in the Dark* (1995)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

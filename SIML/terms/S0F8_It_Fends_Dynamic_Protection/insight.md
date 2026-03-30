@@ -28,3 +28,16 @@ This protective intelligence scales from individual boundaries to cultural immun
 ## Source Context
 
 Encoded from "Exploring 'It Fends': A Dynamic Concept of Protection" — examining IF-Prime's concept of fending as dynamic channeling through adaptive membranes rather than rigid blocking, grounded in the Metal element's adaptive conductivity and connected to the Empath Cyborg's ethical stewardship across individual and cosmic scales.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

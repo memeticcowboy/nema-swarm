@@ -33,3 +33,16 @@ This reframing is not merely personal but theoretical: DSRP (Distinctions, Syste
 ## Source Context
 
 Analysis of Derek Cabrera's personal neurodiversity journey and its role in the development of DSRP theory. Examines how neurodiversity — reframed as difference rather than deficit — confers unique cognitive strengths, particularly in seeing connections. Explores how DSRP applies universally across neurotypical and neurodiverse thinking, revealing shared cognitive operations that manifest differently across neurological profiles.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

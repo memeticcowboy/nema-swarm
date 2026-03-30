@@ -28,3 +28,16 @@ AI offers a counterintuitive intervention: rather than further accelerating comm
 ## Source Context
 
 Encoded from "Exploring Language as Embodied Co-Regulation and AI's Role in Fostering Reflective Communication" — applying Varela's enactive theory to reframe language as participatory interface, proposing AI-mediated reflective pauses as practical intervention for restoring embodied co-regulation in accelerated digital communication environments.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

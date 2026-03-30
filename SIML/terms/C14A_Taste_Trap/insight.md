@@ -39,3 +39,16 @@ The Taste Trap operates through the dialectic between:
 - **μ (Metal):** Aesthetic boundaries—defining what is acceptable
 
 The resulting state is `:algorithmic_consumption`—a passive reception of pre-filtered content that reinforces existing preferences while eliminating friction necessary for genuine growth.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

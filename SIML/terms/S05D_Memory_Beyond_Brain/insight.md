@@ -46,3 +46,16 @@ Gene expression machinery provides the structural foundation. The shared molecul
 ## Source Context
 
 The source reports on research demonstrating that non-neural human cells — specifically kidney and nerve tissue cells — can activate memory genes similar to those used by neurons when exposed to chemical signals mimicking neurotransmitters. This finding challenges the brain-exclusivity assumption for memory and opens new avenues for understanding distributed memory functions across biological systems.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

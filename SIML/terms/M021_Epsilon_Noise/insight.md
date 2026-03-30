@@ -102,3 +102,16 @@ The tone underneath everything. The vibration that persists. The noise that keep
 *The noise that keeps us alive.*
 
 ε preserved.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Self-organizing macro-patterns reduce noise and increase determinism over micro-component behavior

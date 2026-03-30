@@ -30,3 +30,16 @@ The core innovation is the bridge between somatic awareness and computational un
 Derived from: `1771907213353_2317743_Revolutionizing+Emotional+Awareness%3A+AI-Driven+Insights+from+Body+and+Language+Interactions.md`
 
 This concept sits at the convergence of affective computing, wearable technology, somatic psychology, and language model capabilities. It represents a frontier where the traditional separation between body and computation begins to dissolve — not through brain-computer interfaces but through the more accessible pathway of peripheral biosensing correlated with natural language interaction.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

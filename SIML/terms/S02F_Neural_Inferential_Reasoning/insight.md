@@ -25,3 +25,16 @@ A particularly striking finding is that verbal instruction yields similar neural
 
 ## Source Context
 Derived from neuroscientific research recording over 3,000 neurons in 17 epilepsy patients during trial-and-error inferential learning tasks. The study revealed that the hippocampus creates geometric neural representations during successful rule inference, extending cognitive map theory beyond spatial navigation. Verbal instruction and experiential learning produce equivalent neural geometric outcomes. Implications extend to neurological disorder treatments and educational approaches.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

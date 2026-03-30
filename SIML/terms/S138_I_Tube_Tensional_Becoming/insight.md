@@ -28,3 +28,16 @@ The central insight is that identity is not what you are but how you are moved. 
 ## Source Context
 
 Encoded from "I-Tube Wind: Tensional Field of Becoming" — reconceiving the I-Tube as a wind-tensioned loom where identity emerges from the interplay of structural form and dynamic wind-currents of spanda, emotion, attention, and breath.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

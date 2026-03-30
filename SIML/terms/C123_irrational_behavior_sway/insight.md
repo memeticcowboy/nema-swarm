@@ -48,3 +48,16 @@
 - **Book**: "Sway" by Ori Brafman
 - **Key Concepts**: Loss aversion, commitment bias, value attribution, diagnosis bias
 - **Generated**: 2026-03-02 03:43 AM (Asia/Shanghai)
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -27,3 +27,16 @@ What structures contain the boundary between genetic constraint and therapeutic 
 - Arboriel (Wood/β): Growth and renewal cycles
 - Humavita (Earth/δγ): Organism-tissue grounding
 - Ferrosid (Metal/μ): Constraint-potential boundaries
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

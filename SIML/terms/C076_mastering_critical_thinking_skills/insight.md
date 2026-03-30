@@ -41,3 +41,16 @@
 Critical thinking mastery emerges from the integration of six competencies: identification, research, bias detection, inference, relevance determination, and curiosity. The highest emphasis falls on **Metal/Mu (0.90)** for bias detection and **Air/Sigma (0.85)** for analytical classification, reflecting the framework's focus on objective evaluation and logical organization. **Wood/Beta (0.85)** emphasizes the developmental nature of these skills, requiring continuous practice for growth.
 
 The nemetic string captures the essential tension: evaluating requires dissolving boundaries between personal bias and objective analysis through disciplined self-reflection, converging critical thinking skills into coherent evaluative practice.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

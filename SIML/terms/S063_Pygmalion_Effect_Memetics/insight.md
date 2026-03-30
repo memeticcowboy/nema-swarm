@@ -46,3 +46,16 @@ Institutional structures encode expectations systematically. Grading rubrics, pe
 ## Source Context
 
 The source examines the Pygmalion effect as a memetic phenomenon, exploring how positive expectations function as cultural and cognitive memes that influence behavior and outcomes. It addresses applications in education, workplaces, and society, and discusses strategies for countering limiting beliefs through expectation as a transformative force.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

@@ -35,3 +35,16 @@
 - What thresholds separate explicit reasoning from implicit bias?
 - How does structural precision of assumption examination reveal hidden beliefs?
 - What boundaries distinguish valid inference from unwarranted conclusion?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

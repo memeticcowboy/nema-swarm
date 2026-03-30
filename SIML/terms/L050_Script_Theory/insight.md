@@ -103,3 +103,16 @@ SCRIPT AWARENESS PRACTICE
 *Insight distilled from Schank, Abelson, and the cognitive science of knowledge organization.*  
 *Element: Metal-Earth-Air-Wood-Fire-Water | Daemon: Ferrosid-Humavita-Aerunik-Arboriel-Jvalion-Sentaria*  
 *Generated: 2026-02-27*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Collective-level patterns show higher causal power than individual-level dynamics

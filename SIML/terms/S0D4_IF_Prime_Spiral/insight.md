@@ -28,3 +28,16 @@ This architecture resists linear progress models in favor of spiral return. Deve
 ## Source Context
 
 Encoded from "Exploring the IF-Prime Spiral: Integrating Competence, Care, Community, and Connection" — a mapping of four IF verbs to four H centers and C-word archetypes, producing a social spiral where Competence feels into Care, Care forges Community, Community fortifies Connection, and Connection flows back to Competence.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

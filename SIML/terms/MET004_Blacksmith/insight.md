@@ -146,3 +146,16 @@ Operators: β ∘ μ ∘ ρ ∘ λ
 ---
 
 *ε preserved: This insight encodes a cross-cultural craft pattern. The forge is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

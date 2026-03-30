@@ -37,3 +37,16 @@ Central to the framework is the concept of memeforms — units of cultural meani
 ## Source Context
 
 The source document draws on somatic psychology, memetics, contemplative practice traditions, and critical theory to construct a framework for understanding selfhood as revisable architecture. It positions itself against both essentialist models of fixed identity and purely discursive models of socially constructed selfhood, insisting on the body as the irreducible site where cultural, relational, and personal patterns are stored and where transformation must occur. The practical orientation — recognize, rupture, reweave — distinguishes this from purely theoretical treatments of embodied cognition.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels

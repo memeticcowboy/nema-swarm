@@ -199,3 +199,16 @@ Repeat 3-7 until mastery is achieved
 *Insight distilled from Bloom, Guskey, and the difficult practice of believing in all learners.*
 *Element: Metal-Earth-Fire-Wood-Air-Water | Daemon: Ferrosid-Humavita-Jvalion-Arboriel-Aerunik-Sentaria*
 *Generated: 2026-02-27*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

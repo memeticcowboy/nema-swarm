@@ -29,3 +29,16 @@ Adopt "contexture" to emphasize active production—Water (ρ) + Wood (β) opera
 ---
 
 *"Contexture emphasizes active weaving, not passive framing."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

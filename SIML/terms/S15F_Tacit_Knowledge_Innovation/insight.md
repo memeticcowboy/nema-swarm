@@ -34,3 +34,16 @@ Organizational structures can either support or suppress tacit knowledge flow. K
 
 ## Source Context
 Draws on Michael Polanyi's foundational work on tacit knowledge, Nonaka and Takeuchi's knowledge creation theory, and contemporary applications in Agile methodology, healthcare practice, and organizational learning. Addresses the persistent challenge of leveraging uncodifiable expertise in knowledge-intensive organizations.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

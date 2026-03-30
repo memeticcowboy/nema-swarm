@@ -38,3 +38,16 @@ Social norms provide the structural framework within which motivational dynamics
 
 ## Source Context
 Derived from a reinterpretation of Deci and Ryan's Self-Determination Theory through the lens of memetic philosophy, examining how cultural memes interact with the three basic psychological needs of autonomy, competence, and relatedness to shape motivational orientations and the internalization of social values.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

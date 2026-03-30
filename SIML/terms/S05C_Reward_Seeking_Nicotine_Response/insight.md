@@ -46,3 +46,16 @@ Dopamine system architecture provides the neurochemical scaffold constraining be
 ## Source Context
 
 The source reports on a study of mice behavior and nicotine response using the semi-natural Souris-City environment. It demonstrates that individual reward-seeking behaviors predict nicotine responses, with personality differences linked to dopamine system activity. Environmental factors including social context shape the behavioral traits that influence addiction susceptibility.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

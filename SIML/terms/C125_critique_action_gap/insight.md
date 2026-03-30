@@ -29,3 +29,16 @@
 - What structures contain the boundary between taking ownership and avoiding responsibility?
 - What thresholds separate productive critique from performative complaint?
 - How do we discern between genuine concern and the appearance of activity without real work?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -28,3 +28,16 @@ Reality is understood as a series of interconnected moments of creative advance 
 ## Source Context
 
 Encoded from "Understanding Whitehead's Actual Occasions: A New Perspective" — examining actual occasions as indivisible pulses of becoming, prehension as the mechanism of relational inheritance, experience as central to all actuality, the rhythm of concrescence and transition, and reality as creative advance into novelty.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -25,3 +25,16 @@ The quantum parallels extend further: linguistic phenomena can be analyzed as sy
 
 ## Source Context
 Derived from an exploration of the profound connection between linguistic structures and physical reality, drawing on Lacanian semiotics (metonymy, metaphor, point de capiton), analytic idealism (physical phenomena as mental expressions), and quantum mechanics (state-dependent observation, local/global observables, measurement-induced state change) to argue that language and reality share deep formal isomorphism rather than merely superficial analogy.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | low |
+| **CE Direction** | submergent |
+| **Determinism** | low |
+| **Degeneracy** | high |
+| **Sufficiency** | low |
+| **Necessity** | low |
+
+**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

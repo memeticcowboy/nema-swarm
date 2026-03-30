@@ -66,3 +66,16 @@ The techno-agora will continue to evolve. The question is whether humans will **
 ---
 
 *"The techno-agora achieves scale without collapse by eliminating the conditions for meaning."*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

@@ -28,3 +28,16 @@ However, significant concerns are raised: over-reliance on technology may limit 
 ## Source Context
 
 Encoded from "Exploring AI-Powered Bots as Support Interfaces for Individuals with Autism" — an analysis of AI bots' potential as non-judgmental, consistent interfaces for autistic individuals, addressing emotional dysregulation, community inclusion, assistive technology tools, and ethical considerations around complementing versus replacing human support. Source: Sensemaking & Epistemics collection.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

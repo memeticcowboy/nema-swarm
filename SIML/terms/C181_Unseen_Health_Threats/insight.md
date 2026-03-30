@@ -155,3 +155,16 @@ Unseen health threats persist not because they are hidden but because they are n
 ---
 
 *ε preserved: This insight encodes a systemic-health pattern. The pattern is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

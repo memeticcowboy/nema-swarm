@@ -112,3 +112,16 @@ Prana reveals that Air is not uniform medium but directionally differentiated en
 - **File to:** SIML/terms/A002_Prana/
 - **Cross-reference:** A001_Pneuma (soul-breath), A003_Qi (process-field), A006_Four_Winds (directional wind), S116_Chakra_Energy_Systems (subtle body topology)
 - **Open Question:** Does the five-Vayu model constitute an indigenous phenomenology of interoception, and if so, what does it teach modern somatic science about directional awareness?
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

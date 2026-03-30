@@ -93,3 +93,16 @@ A: Optimal teaching requires calibrated tension, not maximization
 ---
 
 *ε preserved: This insight encodes a formal learning dynamic. The mathematics is real; the elemental mapping is a lens.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

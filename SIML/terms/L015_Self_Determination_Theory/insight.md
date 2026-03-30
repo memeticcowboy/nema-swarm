@@ -154,3 +154,16 @@ Self-Determination Theory works by **need satisfaction** — humans have innate 
 ---
 
 *ε preserved: This insight encodes a self-determination pattern. The pattern is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

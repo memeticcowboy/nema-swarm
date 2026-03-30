@@ -37,3 +37,16 @@ Kant's categorical structure provides the metallic framework. The a priori categ
 
 ## Source Context
 Based on a synthesis of Berkeley's subjective idealism, Kant's theory of perception, and memetic theory, exploring how memes function as cultural a priori categories constructing fragmented, dynamic realities. Closely related to S03D (Extended Mind and Memes) as a companion analysis.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

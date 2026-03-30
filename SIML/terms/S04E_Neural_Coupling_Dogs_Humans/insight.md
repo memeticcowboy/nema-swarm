@@ -38,3 +38,16 @@ The neural architecture for cross-species resonance — including specific brain
 
 ## Source Context
 Derived from research on neural coupling and brain synchronization between dogs and humans, examining how mutual gaze and touch produce interspecies neural entrainment with implications for understanding social bonding, co-evolutionary cognitive adaptation, and therapeutic applications for social impairments.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

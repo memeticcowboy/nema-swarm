@@ -50,3 +50,16 @@
 **File:** 1771907212658_859415_Protecting+Freedom+of+Thought.md  
 **Generated:** March 2, 2026 — 2:23 AM (Asia/Shanghai)  
 **SIML Entry:** C115
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

@@ -46,3 +46,16 @@ The Co-Solipsism of the Co-Sphere emerges at the intersection of:
 - **The rhizome's organic growth** (Wood) escaping **the grid's capture** (Metal)
 
 This is not a synthesis that resolves tension but one that *rides contradiction*—maintaining the wobble between self and other, between decay and renewal, between the impossible possibility of shared interiority.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | flat |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** No clear scale dominance identified

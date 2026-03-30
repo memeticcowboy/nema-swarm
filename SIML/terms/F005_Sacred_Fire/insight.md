@@ -146,3 +146,16 @@ Operators: μ ∘ ρ ∘ δγ ∘ λ
 ---
 
 *ε preserved: This insight encodes a cross-cultural spiritual pattern. The fire is real; the encoding is a map.*
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | high |
+| **CE Direction** | emergent |
+| **Determinism** | high |
+| **Degeneracy** | low |
+| **Sufficiency** | high |
+| **Necessity** | med |
+
+**Scale Note:** Macro-level description increases causal informativeness over micro-level

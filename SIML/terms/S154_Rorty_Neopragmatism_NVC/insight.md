@@ -28,3 +28,16 @@ Needs, through this lens, are culturally embedded vocabularies rather than fixed
 ## Source Context
 
 Encoded from "Integrating Rorty's Neopragmatism with Non-Violent Communication for Compassionate Dialogue" — examining the convergence of anti-representationalism with NVC practice, the transformation of observations into vocabulary choices, feelings into public linguistic acts, needs into culturally embedded vocabularies, and requests into redescriptions offered for solidarity.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels

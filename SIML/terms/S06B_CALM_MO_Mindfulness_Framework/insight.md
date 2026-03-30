@@ -46,3 +46,16 @@ The framework itself — CALM-MO as an organized protocol — provides the struc
 ## Source Context
 
 The source presents CALM-MO as an integrative mindfulness framework for emotional well-being, built on curiosity, acceptance, compassion, and value-driven motivation. It describes how the metacognitive observer stance breaks neurotic loops, supports emotional regulation, and manages distress through systematic mindful awareness practice.
+
+## Causal Emergence Assessment (SIML v1.3)
+
+| Property | Value |
+|----------|-------|
+| **EI State** | med |
+| **CE Direction** | multiscale |
+| **Determinism** | med |
+| **Degeneracy** | med |
+| **Sufficiency** | med |
+| **Necessity** | med |
+
+**Scale Note:** Causal power distributed across multiple description levels
