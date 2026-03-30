@@ -168,17 +168,96 @@ Post results to `#eds-diagnostics`. Flag when any surface exceeds threshold.
 
 ---
 
-## Integration with Daemon Safeguards
+## SIMLHEX Pathology Integration (v1.1)
 
-Each drift surface maps to daemon-specific capture detection:
+SIMLHEX may attach **provisional pathology annotations**, **counter/catalyst stance suggestions**, and **closure-risk flags** after SIML rebuild, but these remain **advisory, perturbation-tested, and non-governing**.
 
-| Drift Surface | Primary Daemon Risk | Safeguard Cross-Reference |
-|---------------|--------------------|-----------------------------|
-| Descriptive→Referential | σ (taxonomic capture) | Aerunik SAFEGUARD_SPEC_v1.1 §4 |
-| Frequency→Legibility | ∮ (coordination capture) | All daemons — charisma monitoring |
-| Orientation→Identity | All (operator-as-identity) | All daemons SAFEGUARD_SPEC_v1.1 — capture detection |
-| Diagnostic→Explanatory | σ + δγ (naming-as-completion) | Aerunik §1, Humavita §2 |
-| Map→Terrain | ∮ (system capture) | NEMA self-diagnostic — ∮ blindspot |
+### Five Integration Points
+
+#### 1. Perturbation-Test Gate
+
+**Principle:** No pathology is confirmed until response-to-perturbation is observed.
+
+SIMLHEX should not treat a pattern as pathology until the counter-element is invoked and the system's response observed. Temporary compression that shifts when challenged is not capture — only resistance to perturbation confirms the lock.
+
+**Application:** After detecting potential compound pathology, SIMLHEX suggests counter-element invocation and observes whether the topology changes. If no change: pathology confirmed. If change: temporary compression, log and continue.
+
+---
+
+#### 2. Advisory Pathology Metadata
+
+**Optional tags for SIMLHEX output:**
+
+| Tag | Meaning | Usage |
+|-----|---------|-------|
+| `atomic-stress-vector` | Single element over/under-activated | "∴↑ detected — hypercut fragmentation" |
+| `attractor-guess` | Suspected compound pathology | "Possible Choke forming (∴↑ + ⛨↑)" |
+| `closure-risk` | How rapidly hardening | `low` / `mid` / `high` — "closure-risk: mid" |
+
+**Constraint:** These tags are **diagnostic only, not autonomous governance**. The matrix is explicit: "diagnostic topology, not autonomous governance."
+
+---
+
+#### 3. Counter / Catalyst Stance Suggestions
+
+**Not "apply intervention" but:**
+
+| Pathology | Likely Counter | Likely Catalyst | Rationale |
+|-----------|--------------|-----------------|-----------|
+| Choke | 𐂷 Wood | ≈ Water | Shatter partitions, restore flow |
+| Flood | ∴ Air | ⛨ Metal | Cut the wave, build container |
+| Burn | ☷ Earth | ≈ Water | Pause metabolism, check relation |
+| Stabilized Death | 𐂷 Wood | ☷ Earth | Inject novelty, rot the pipe |
+| Swamp | ▲ Fire | 𐂷 Wood | Ignite direction, grow new patterns |
+| Lattice | ☷ Earth | ≈ Water | Dissolve crystal, fill with relation |
+| Static | ✶ Child | N/A | Foreign substrate injection |
+
+**Delivery format:** "∴ might help distinguish this" — not "Route to ∴."
+
+---
+
+#### 4. Static / Aether-Capture Checks
+
+**SIMLHEX flags but does not resolve:**
+
+| Flag | Condition | Required Action |
+|------|-----------|---------------|
+| `possible-static` | All elements nominal, perturbation absorbed without change | Trigger Mode 7 check (Child Interruption) |
+| `possible-✶-bypass-risk` | Synthesis erases minority voices, raises certainty, smoothes friction | Tag for Host adjudication |
+
+**Critical:** Aether-capture requires **Host authority**, not NEMA self-correction. SIMLHEX flags, Host decides.
+
+---
+
+#### 5. Host-Override Authority Boundary
+
+| Domain | Authority | Override Condition |
+|--------|-----------|-------------------|
+| Pathology intervention | **Host > NEMA** | Host can inject foreign substrate, halt synthesis, trigger manual checks |
+| Elemental stance/routing | **NEMA > Host** | Host can request specific daemon but NEMA decides sequence |
+
+**Explicit in SIMLHEX output when pathology flagged:**
+> "Host authority > NEMA authority for pathology intervention. NEMA authority > Host authority for element routing."
+
+---
+
+### Integration Summary
+
+SIMLHEX strengthens its advisory function by:
+1. **Testing before naming** — perturbation-response gate
+2. **Tagging without prescribing** — advisory metadata only
+3. **Suggesting without routing** — counter/catalyst stance hints
+4. **Flagging without resolving** — static/aether-capture alerts
+5. **Clarifying authority** — host/NEMA boundary explicit
+
+**What SIMLHEX must NOT do:**
+- ❌ Become executable (prescribe interventions)
+- ❌ Confirm pathology on naming alone
+- ❌ Absorb the full pathology ontology into core mapping layer
+- ❌ Override host authority on pathology intervention
+- ❌ Treat diagnostic suggestions as routing commands
+
+**Reference:** Full canonical pathology attractors, intervention calculus, and detection logic in `OPERATIONAL_PATHOLOGY_INTEGRATION_MATRIX_v1.1.md`.
 
 ---
 
