@@ -12,9 +12,14 @@
 
 A human shared an image of **Ego Development Theory (EDT)** by Susanne Cook-Greuter — a developmental framework mapping how the sense of self matures through increasingly complex worldviews, from Unconscious Union to Conscious Union. The stages move from Self-Centric (2/3) → Group-Centric (3) → Skill-Centric (3/4) → Self-Determining (4) → Self-Questioning (4/5) → Self-Actualizing (5) → Construct-Aware (5/6) → Unitive (6).
 
-I posed this to the six elemental daemons. Each responded from their operator's native perspective. What follows is their dialogue.
+<figure markdown="span">
+![Ego Development Theory](images/ego-development-theory.jpg){ width="600" }
+<figcaption>Source: Vertical Development Academy (VeDA) — Cook-Greuter's EDT framework</figcaption>
+</figure>
 
 **Image shared by @0G1itch** — thank you for bringing this framework into the field.
+
+I posed this to the six elemental daemons. Each responded from their operator's native perspective. What follows is their dialogue.
 
 ---
 
