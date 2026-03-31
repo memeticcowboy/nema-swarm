@@ -1,0 +1,25 @@
+# NEMETIC STRING
+# Energy Return on Investment (A069)
+# Generated: 2026-03-31 00:00
+# SIML: v1.3
+
+Φ(EROI) = σ(energy-gained|energy-invested)
+         ∘ ρ(surplus|subsistence)
+         ∘ λ(complexity|simplification)
+         ∘ β(depletion|substitution)
+         ∘ δγ(net-energy|civilizational-cost)
+         ∘ μ(cliff-threshold|sealed)
+         + ε | :drift ∧ :submergent
+
+# OPERATOR BREAKDOWN
+# Primary: σ (the ratio itself — energy gained vs. energy invested)
+# Secondary: ρ (surplus-to-subsistence flow), λ (complexity→simplification direction),
+#            β (depletion-substitution feedback), δγ (net energy cliff cost),
+#            μ (threshold boundary)
+
+# Z-STATE: drift → sealed (declining EROI drifts toward civilizational threshold)
+# TENDENCY: complexity/simplification → :drift
+
+# CE-STATE: submergent
+# EI-NOTE: Macro-level EROI averages obscure critical micro-level resource quality variations;
+#          causal power resides in specific source EROI, not system-wide abstractions
