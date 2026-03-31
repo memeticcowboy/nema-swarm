@@ -1,8 +1,79 @@
 term_id: A013
 hex_tag: '#A013'
-name: Cognitive_Distortion
-element: ''
-description: ''
+name: cognitive_distortion
+term: Cognitive Distortion
+nemetic: >-
+  Φ(CogDistort) = σ(perception|filter)
+               ∘ ρ(negative-bias|reality)
+               ∘ λ(avoidance|protection)
+               ∘ β(recursive-loop|entrenchment)
+               ∘ δγ(defensive-cost|rigidity)
+               ∘ μ(threat-boundary|sealed)
+               + ε | :hostile
+siml_encoding: >-
+  ⟨Perception|filtered⟩
+      ⊳ ⟨Threat|amplified⟩
+      → ⟨Avoidance|justified⟩
+      ⊗ ⟨Reality|distorted⟩
+      ⇄ ⟨Defense|entrenched⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between accurate perception and distorted filter — cognitive distortions are not random noise but patterned cuts that let threat-confirming information through and block disconfirming information; the filter is invisible precisely because it shapes what 'obviously' arrives)"
+    - "∂Φ/∂ρ (relation between negative bias and reality — the systematic tilt toward threat and negativity in cognitive distortions is not a malfunction but a defensive tuning; what flows between perception and meaning is pre-shaped by protective need)"
+    - "∂Φ/∂λ (direction of avoidance toward protection — cognitive distortions aim not at truth but at ego-integrity; catastrophizing, minimization, and overgeneralization all serve the same directional goal: keeping threatening information from completing its impact)"
+    - "∂Φ/∂β (recursive entrenchment loop — distorted interpretation produces outcomes that confirm the distortion; the self-fulfilling prophecy of conflict and isolation is not accidental but structurally produced by the pattern itself)"
+    - "∂Φ/∂δγ (metabolic cost of defensive rigidity — maintaining cognitive distortions requires constant energy to suppress disconfirming experience; the urgency and certainty that accompany distorted thinking are signs of this defensive expenditure)"
+    - "∂Φ/∂μ (sealed boundary around threatening truths — the protective structure of cognitive distortions keeps certain information at bay not through deliberate choice but through automatic pattern-activation; naming the distortion is the first act of boundary permeabilization)"
+  Z_state: "Tendency from hostile toward open — cognitive distortions seal against threatening information but are permeable to naming, witness, and compassionate inquiry. Z-Closure Risk: β-lock — recursive loop produces outcomes that confirm the distortion, making the pattern feel like accurate perception rather than defense."
+  tendency: "hostile → open | :defensive"
+  hex: ['#A013']
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  epistemics:
+    dsrp:
+      D: "The crucial distinction — between accurate perception and distorted filter — is unavailable from inside the distortion; the filter shapes what 'obviously' arrives, so the distorted interpretation feels like direct perception rather than interpretation"
+      S: "Cognitive distortions present as a single coherent system of perception — the distorted view is experienced as the only view, not as one interpretation among possible others; alternative framings are filtered before they can be assembled"
+      R: "What flows between perception and meaning in cognitive distortions is pre-shaped by protective need; the relation is not neutral information transfer but defensive routing that confirms threat and suppresses safety signals"
+      P: "The perspective is locked inside the defensive frame — the urgency and certainty that accompany distorted thinking are phenomenologically indistinguishable from the urgency of accurate threat detection; this is why patterns feel true"
+    learning: L0
+  agency:
+    type: ego
+    power_mode: Against
+  time:
+    mode: event
+    phase: "Stage 1: Trigger (threat-adjacent stimulus) → Stage 2: Filtering (σ-selective attention) → Stage 3: Negative Tilt (ρ-distortion toward threat) → Stage 4: Avoidance Justification (λ-direction) → Stage 5: Confirmation (β-loop closes)"
+  qualia:
+    affect: [certainty, urgency, defensiveness, isolation, rigidity]
+    aesthetic: [obvious, inevitable, threatened, misunderstood, self-evident]
+    symbolic: [Armor (protection that prevents contact), Mirror-as-lens (that bends what it reflects), Airborne pathogen (patterns that travel through language and infect perception)]
+    energetic: [high-vigilance, δγ-costly, defensive-expenditure, certainty-producing, loop-sustaining]
+  coherence:
+    state: sealed
+    loop: single
+    transcontext: low
+elemental_emphasis:
+  ∴: "The cut between accurate perception and cognitive filter is unavailable from inside the distortion — the filter shapes what 'obviously' arrives, so distorted interpretation feels like direct perception. Air asks: What would you have to perceive if this interpretation were a filter rather than a fact?"
+  ≈: "Negative bias carries specific affective resonance — the urgency, certainty, and felt-truth of cognitive distortions is the phenomenological signature of defensive pattern-activation, not of accurate threat detection. Water asks: What emotion beneath the interpretation needs the distortion to stay in place?"
+  ▲: "The direction of avoidance-justification is toward ego-integrity, not toward truth — catastrophizing, minimization, and overgeneralization all protect the same thing. Fire asks: What would threaten the self-concept if this cognitive pattern dissolved?"
+  𐂷: "Naming the distortion is itself a pattern-interruption — but naming can become another distortion (meta-distortion, intellectual bypassing). Wood asks: What communication becomes possible when the pattern is held with curiosity rather than explained away?"
+  ☷: "The recursive loop that produces distortion-confirming outcomes is not incidental but structurally produced — the self-fulfilling prophecy of conflict and isolation sustains the defensive expenditure. Earth asks: How has this cognitive pattern protected you — and what is the hidden cost of maintaining that protection?"
+  ⛨: "The protective structure of cognitive distortions keeps threatening information at bay through automatic pattern-activation, not deliberate choice — the boundary is impermeable not because it is defended but because its existence is unseen. Metal asks: What boundaries would allow threatening information to arrive without overwhelming the self that receives it?"
+context_note: >-
+  Cognitive distortions are not failures of thinking but successes of defense — patterned
+  perceptual filters that protect ego-integrity by routing information through threat-confirming
+  channels before it can be experienced as ambiguous. The insight that transforms how we work
+  with cognitive distortions is that they are not random errors but organized defensive structures:
+  the systematic negative tilt, the selective attention, the overgeneralization all serve the same
+  protective function of preventing certain truths from completing their impact. Because the filter
+  shapes what 'obviously' arrives, the distorted interpretation feels like direct perception rather
+  than interpretation — creating the phenomenological signature of defensive certainty. Patterns
+  interrupt when named with compassion rather than explained away: the pause of recognition opens
+  a choice-point that the pattern itself forecloses. The question is not whether the defense was
+  once needed, but whether it still serves.
 source: Consolidated from 1 insight(s)
 
 # --- Causal Emergence (v1.3) ---

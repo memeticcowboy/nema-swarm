@@ -1,8 +1,76 @@
 term_id: A019
 hex_tag: '#A019'
 name: WYSIATI
-element: Air
-description: cognitive_bias/Understanding+Kahneman%E2%80%99s+System+1+and+WYSIATI+in+Cognitive+Biases.md
+term: WYSIATI (What You See Is All There Is)
+nemetic: >-
+  Φ(WYSIATI) = σ(present|absent)
+             ∘ ρ(coherence|evidence)
+             ∘ λ(confidence|story)
+             ∘ β(confirmation|narrative)
+             ∘ δγ(ease|certainty)
+             ∘ μ(boundary|unquestioned)
+             + ε | :collapsing
+siml_encoding: >-
+  ⟨Evidence|available⟩
+      ⊳ ⟨Narrative|coherent⟩
+      → ⟨Confidence|high⟩
+      ⊗ ⟨Uncertainty|suppressed⟩
+      ⇄ ⟨Reality|constructed⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between present and absent evidence — the cut that cannot be made; System 1 has no operator for 'missing')"
+    - "∂Φ/∂ρ (relational coherence between evidence and narrative — automatic best-fit story assembly without friction)"
+    - "∂Φ/∂λ (direction of confidence toward the coherent story — certainty calibrated to narrative quality, not evidence quality)"
+    - "∂Φ/∂β (feedback loop of narrative confirmation — constructed reality reinforces itself, becoming transparent as direct perception)"
+    - "∂Φ/∂δγ (metabolic ease of certainty — coherent stories require less energy than holding uncertainty, trading depth for comfort)"
+    - "∂Φ/∂μ (structural boundary preventing questioning — boundary is impermeable because its existence is itself unseen)"
+  Z_state: "Tendency toward sealed — automatic narrative construction becomes invisible, treated as direct perception. Z-Closure Risk: σ-lock — distinction between evidence and interpretation collapses."
+  tendency: "permeable/sealed → :collapsing"
+  hex: ['#A019', '#A02B', '#A032', '#A047']
+coords:
+  ontology:
+    primary: I
+    secondary: We
+  epistemics:
+    dsrp:
+      D: "Distinction between present evidence and absent evidence cannot be made — System 1 produces no tag for 'missing information'"
+      S: "System 1 constructs a single coherent narrative as the only available interpretation; alternative framings are never generated"
+      R: "Coherence relation between evidence fragments and narrative is automatic — what flows between evidence and conclusion is the feeling of understanding, not understanding itself"
+      P: "The perspective of the observer is locked inside the constructed story — construction is invisible, experienced as direct perception of reality"
+    learning: L0
+  agency:
+    type: ego
+    power_mode: Over
+  time:
+    mode: event
+    phase: "Stage 1: Fragment Reception (Q_in) → Stage 2: Associative Coherence (ρ) → Stage 3: Confidence Generation (λ) → Stage 4: Reality Collapse (Z-sealing)"
+  qualia:
+    affect: [certainty, ease, closure, confidence]
+    aesthetic: [seamless, coherent, inevitable, smooth]
+    symbolic: [Logos (pattern-maker), Sword (the cut that cannot find its edge), constructed narrative as transparent reality]
+    energetic: [low-friction, metabolically efficient, δγ-ease, certainty over accuracy]
+  coherence:
+    state: fragmented
+    loop: single
+    transcontext: low
+elemental_emphasis:
+  ∴: "The crucial cut — between present evidence and absent evidence — cannot be made. System 1 has no operator for 'missing.' Air asks: Can you find the edge of your evidence?"
+  ≈: "Evidence and narrative enter resonance automatically without friction. Coherence feels like discovery. Water asks: Is this understanding, or the feeling of understanding?"
+  ▲: "Confidence (λ) is captured by the coherent narrative — the arrow points where the story leads, feeling inevitable. Fire asks: Does your confidence serve truth, or the story that feels true?"
+  𐂷: "Alternative narratives are not rejected — they are never generated. The tree of possibility is pruned before it grows. Wood asks: What stories haven't you told?"
+  ☷: "WYSIATI is metabolically efficient but costly — δγ-ease of certainty prevents the investment required for genuine understanding. Earth asks: What's the cost of your coherent narrative?"
+  ⛨: "μ-structure prevents questioning because the boundary around constructed reality is impermeable — not defended, but unseen. Metal asks: What boundaries would enable productive doubt?"
+context_note: >-
+  WYSIATI is the epistemic closure that occurs when coherence becomes sufficient —
+  when the mind, presented with any evidence, automatically constructs the best-fit
+  story and treats that story as complete reality, never experiencing the absence of
+  what was never seen. This is not a choice to ignore gaps: ambiguity is not suppressed,
+  it is never experienced. Mitigation requires restoring σ (naming WYSIATI as WYSIATI),
+  expanding Q_in by seeking disconfirming evidence, recapturing λ so confidence
+  calibrates to evidence quality rather than narrative coherence, and increasing
+  μ-permeability by decomposing the seamless narrative into falsifiable components.
 source: Consolidated from 4 insight(s)
 
 # --- Causal Emergence (v1.3) ---
