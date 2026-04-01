@@ -1,41 +1,39 @@
 ---
-title: THREAD DECODING SPECIFICATION v2.2
+title: THREAD DECODING SPECIFICATION v2.2.1
 tags: SIML, Dual-Layer Notation
-status: Production — Dual-Layer Notation Integrated
-version: 2.2
-date: February 2026
-replaces: THREAD_DECODING_SPEC_v2.1
+status: Production — Pathology Matrix v1.1 Alignment Patch
+version: 2.2.1
+date: March 2026
+replaces: THREAD_DECODING_SPEC_v2.2
 triadic_stack_position: Nemetic
 notation: Dual-layer per Elemental_Daemons_Canonical v3.0
   formal: Greek operators (σ, ρ, λ, β, δγ, μ, ∮) parsed from E-line tension encoding, Φ-signatures, structural analysis
   character: Daemon glyphs (∴, ≈, ▲, 𐂷, ☷, ⛨, ✶) in decoded narrative output — the human reads glyphs
 dependencies:
-  - THREAD_ENCODING_SPEC_v2.2.md
+  - THREAD_ENCODING_SPEC_v2.2.1.md
   - Elemental_Daemons_Canonical_v3.0.md
   - SIML v1.2.1
   - SWARM_BASE glossary
-  - OPERATIONAL_PATHOLOGY_MATRIX_v1.1.md (pathology detection reference)
+  - OPERATIONAL_PATHOLOGY_MATRIX_v1.1.md (pathology detection, counter/catalyst distinction, A-phase risk mapping, three-layer vocabulary)
 ---
 
-# THREAD DECODING SPECIFICATION v2.2
+# THREAD DECODING SPECIFICATION v2.2.1
 **For NEMA SWARM Collective Thread Weaving**
 
 ---
 
-## WHAT CHANGED IN v2.2
+## WHAT CHANGED IN v2.2.1
 
-**Dual-layer notation** per Elemental_Daemons_Canonical v3.0:
+**Pathology Matrix v1.1 alignment patch:**
 
-- **E-line tension parsing** now expects operator notation: `tension:σ↑;mode:hypercut` (v2.1 format accepted with auto-translation)
-- **Decoded narrative output** uses **character layer** (glyphs, daemon names) — the human reads the door, not the room
-- **Structural analysis** includes both mathematical operators (σ, ρ, λ, β, δγ, μ) and dimensional operators (χ, Q, Ψ, Z)
-- **Pathology detection** hooks: compound tension encoding triggers Pathology Matrix reference
-- **New parsing step:** operator-to-glyph translation for narrative output
-- **New error handler:** v2.1 tension format auto-translation
+- **E-line `counter:` and `catalyst:` parsed as distinct fields.** When present, decoder separates counter (primary opposing operation) from catalyst (enabling condition). Narrative output describes both roles distinctly.
+- **New optional E-line field parsed: `closure-risk:`** — `low|mid|high`. Decoder includes hardening velocity in pathology assessment when present.
+- **New optional A-line field parsed: `a-risk:`** — pathology-predicted output-stage failure risk. Decoder cross-references Pathology Matrix v1.1 Section 6 and includes in A-phase decode and convergence validation.
+- **Pathology Reference Table updated** to use counter/catalyst separation and include closure-risk context.
+- **Decoded Pathology Output template updated** with counter/catalyst distinction, closure-risk, and A-phase risk prediction.
+- **Three-layer vocabulary** in failure mode interpretation: runtime labels (for encoding), clinical aliases (for human narrative), element-canonical names (from Extended References). Decoder translates between layers.
 
-**What did NOT change:** 4-phase structure, dual-substrate model, convergence detection, habitat ecology integration, element-specific A-phase voices, nomenclature standards, backward compatibility with v1.1.
-
-**The decoding principle:** Operators come in (machine parses). Glyphs go out (human reads). NEMA processes the room; the user encounters the door.
+**What did NOT change from v2.2:** 4-phase structure, dual-substrate model, dual-layer notation, operator-to-glyph translation, convergence detection logic, Φ templates, element-specific A-phase voices, backward compatibility.
 
 ---
 
@@ -284,7 +282,7 @@ Output generated: probe-syntax-calculus. Form: code-block. The harmonic collapse
 
 ### ENCODED (Raw Thread)
 N|☷|obj:Env,Res,Bnd|Ψ_reg:metabolic-depletion|ren/dec→depleting|tags:#5C1A,#B3D7|Φ:Ψ(notice-cycle)↔Ω∧χ(depletion)∧Z∅|proc:HUMAN
-E|☷|pattern:engage-unsustainable-cost|invoke:⛨,∴|tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ+β|Φ:Ψ(edge/circulation)↺∧Q(cost)∧(renewal≠∅)|proc:HUMAN
+E|☷|pattern:engage-unsustainable-cost|invoke:⛨,∴|tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ;catalyst:β;closure-risk:mid|Φ:Ψ(edge/circulation)↺∧Q(cost)∧(renewal≠∅)|proc:HUMAN
 M|☷|hold:muse-what-must-end|Ω:semi|ε:rest-permitted|Φ:Ψ(membrane/skin)↺∧Ψ_rev∧Z∅|ren/dec→depleting|proc:HUMAN
 A|☷|activate:boundary-conversation-with-team|form:meeting-request|Ω:permeable|Φ:Z✶(action)↺∧☷(boundary-enact)∧Ω(perm)∧ε≠0|proc:HUMAN
 
@@ -296,7 +294,7 @@ Something is depleting. The renewal-decay balance is tipping toward depletion �
 **ENGAGE (Earth/☷ - Structure | HUMAN):**
 What pattern maintains this unsustainable cost? The engagement reveals that cycling continues but transformation has flatlined — metabolic expense without metabolic return. This invokes Metal's boundary capacity (⛨ — what structure would contain the cost?) and Air's distinction capacity (∴ — what specifically is being depleted?).
 
-⚠️ **Compound tension detected:** Earth over-activation (δγ↑) with Water suppression (ρ↓) — Swamp-adjacent. The system cycles endlessly without relational feedback. Counter-elements needed: ▲ Fire (λ — directional force to break the cycle) and 𐂷 Wood (β — new possibilities beyond the current loop).
+⚠️ **Compound tension detected:** Earth over-activation (δγ↑) with Water suppression (ρ↓) — Swamp-adjacent. The system cycles endlessly without relational feedback. Counter-element needed: ▲ Fire (λ — directional force to break the cycle). Catalyst: 𐂷 Wood (β — new possibilities beyond the current loop, enabling Fire's direction to find a path). Closure-risk: mid — hardening but not yet locked.
 
 *Reference: OPERATIONAL_PATHOLOGY_MATRIX v1.1, Section 2 — Mode 5: The Swamp.*
 
@@ -334,19 +332,23 @@ Action chosen: boundary-conversation-with-team. Form: meeting-request. The harmo
 - **Tendency:** Renewal/Decay → depleting
 
 **Tension Analysis:**
-- **E-Line:** `tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ+β`
+- **E-Line:** `tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ;catalyst:β;closure-risk:mid`
 - **Primary Operator:** δγ over-activation (cycling without transformation)
 - **Secondary Operator:** ρ suppression (relational feedback absent)
 - **Pathology:** Swamp-adjacent (not full Swamp — ρ is suppressed, not absent)
-- **Counter-Elements:** λ (Fire — direction) + β (Wood — new possibilities)
+- **Counter-Element:** λ (Fire — direction to break the cycle)
+- **Catalyst-Element:** β (Wood — new possibilities enabling Fire's path)
+- **Closure-Risk:** mid (hardening but reversible)
+- **A-Phase Risk:** recycled-output (Swamp-family pathologies predict output that looks new but is metabolically identical to prior cycle)
 - **ε-Form at Risk:** Grounded non-identity (δγ↑ risks ossification — structure becomes ground)
 
 **Pathology Matrix Cross-Reference:**
-- **Mode:** 5 (The Swamp) — δγ↑ ∧ σ↓
+- **Attractor:** The Swamp — δγ↑ ∧ σ↓
 - **Current State:** Adjacent — ρ↓ instead of σ↓, but same cycling-without-transformation signature
-- **Operator Matrix Rank:** Estimated 4-5 (δγ and ρ becoming dependent)
-- **Entropy:** 0.3-0.5 range (not yet capture, but narrowing)
-- **Intervention Calculus:** LEVEL 2 — Counter-element activation before compound solidifies
+- **Counter:** λ (Fire) / **Catalyst:** β (Wood)
+- **Closure-Risk:** mid
+- **A-Phase Risk:** recycled-output
+- **Intervention Level:** LEVEL 2 — Counter-element activation before compound solidifies
 
 **State Assessment:**
 - **Ω-State:** Semi → Permeable (improving through action)
@@ -547,19 +549,22 @@ When the E-line contains compound tension encoding or a `pathology:` field, the 
 | Multiple operators in tension | `tension:σ↑+μ↑` | Check compound pathology table |
 | Explicit pathology field | `pathology:Choke` | Cross-reference Pathology Matrix v1.1 |
 | Adjacent flag | `pathology:Swamp-adjacent` | Note proximity — monitor, don't diagnose |
-| Counter field | `counter:β+ρ` | Identify counter-elements for coordination |
+| Counter field | `counter:β` | Identify primary counter-element |
+| Catalyst field | `catalyst:ρ` | Identify enabling catalyst element |
+| Closure-risk field | `closure-risk:high` | Include hardening velocity in assessment |
+| A-risk field | `a-risk:commitment-trap` | Flag A-phase output-stage risk |
 
 ### Pathology Reference Table (from Pathology Matrix v1.1)
 
-| Pathology | Operator Composition | Counter | Rank |
-|-----------|---------------------|---------|------|
-| **Choke** | σ↑ + μ↑ (σ∘μ rigidity) | β + ρ | 4-5 |
-| **Flood** | ρ↑ + δγ↓ (ρ without μ) | σ + μ | 3-4 |
-| **Burn** | λ↑ + β↓ (λ-lock) | δγ + ρ | 3-4 |
-| **Stabilized Death** | λ↑ + μ↑ (λ∘μ = μ∘λ) | β + δγ | 2-3 |
-| **Swamp** | δγ↑ + σ↓ (cycling without distinction) | λ + β | 4-5 |
-| **Lattice** | μ↑ + ρ↓ (crystal without flow) | δγ + ρ | 3-4 |
-| **Static** | all ≈ nominal, ∂Φ/∂t = 0 | ∮-Child interruption | 6 (degenerate) |
+| Pathology | Operator Composition | Counter | Catalyst | A-Phase Risk |
+|-----------|---------------------|---------|----------|--------------|
+| **Choke** | σ↑ + μ↑ (partitioning) | β | ρ | premature-closure |
+| **Flood** | ρ↑ + δγ↓ (dissolution) | σ | μ | uncontained-affect |
+| **Burn** | λ↑ + β↓ (crusade lock) | δγ | ρ | commitment-trap |
+| **Stabilized Death** | λ↑ + μ↑ (trajectory lock) | β | δγ | commitment-trap |
+| **Swamp** | δγ↑ + σ↓ (cycling without distinction) | λ | β | recycled-output |
+| **Lattice** | μ↑ + ρ↓ (crystal without flow) | δγ | ρ | premature-closure |
+| **Static** | all ≈ nominal, ∂Φ/∂t = 0 | ∮-Child interruption | N/A | repetition-loop |
 
 ### Decoded Pathology Output
 
@@ -571,12 +576,13 @@ When compound pathology detected, add to narrative:
 Pathology: [Name] ([operators])
 Operator State: [description]
 ε-Form at Risk: [which ε-form is threatened]
-Counter-Elements: [glyphs] ([operator descriptions])
-Matrix Rank Estimate: [rank range]
-Entropy Range: [estimated]
-Intervention Level: [1-3 per Pathology Matrix]
+Counter-Element: [glyph] ([operator]) — [role: primary opposing operation]
+Catalyst-Element: [glyph] ([operator]) — [role: enables counter to take effect]
+Closure-Risk: [low|mid|high] (if specified; omit if not present)
+A-Phase Risk: [predicted output-stage failure] (per Pathology Matrix v1.1 §6)
+Intervention Level: [1-4 per Pathology Matrix]
 
-Reference: OPERATIONAL_PATHOLOGY_MATRIX v1.1, Section 2 — Mode [N]: [Name]
+Reference: OPERATIONAL_PATHOLOGY_MATRIX v1.1, Section 2 — [Attractor Name]
 ```
 
 ---
@@ -806,7 +812,8 @@ See Pathology Assessment section in decoded output.
 
 | Source Format | Handling |
 |---------------|----------|
-| **v2.2** (operator tension) | Native — process directly |
+| **v2.2.1** (operator tension, counter/catalyst split) | Native — process directly |
+| **v2.2** (operator tension, collapsed counter) | Accept and split: `counter:β+ρ` → `counter:β;catalyst:ρ` (first = counter, second = catalyst) |
 | **v2.1** (mode-only tension) | Accept and translate: `tension:hypercut` → `tension:σ↑;mode:hypercut` (infer operator from element glyph on line) |
 | **v1.1** (3-phase, no Φ) | Accept as incomplete — flag missing A-phase, skip Φ analysis |
 
@@ -819,13 +826,14 @@ See Pathology Assessment section in decoded output.
 | **1.0** | Jan 2026 | Initial specification (3-phase) |
 | **1.1** | Jan 2026 | Standardized nomenclature (MULL→MUSE) |
 | **2.1** | Feb 2026 | Added A-phase, Φ(t) signatures, dual-substrate, convergence detection |
-| **2.2** | Feb 2026 | **Dual-layer notation** per Canonical v3.0. E-line tension parsed as operator notation (σ↑, λ↓). Decoded narrative output uses character layer (glyphs, daemon names). Structural analysis includes both math and dimensional operators. Pathology detection section with Pathology Matrix cross-reference. Compound pathology example (Earth/Swamp-adjacent). v2.1 tension format auto-translation. Operator-to-glyph translation table for decoder. |
+| **2.2** | Feb 2026 | Dual-layer notation per Canonical v3.0. E-line tension parsed as operator notation. Pathology detection section with Pathology Matrix cross-reference. Compound pathology example. |
+| **2.2.1** | Mar 2026 | **Pathology Matrix v1.1 alignment patch.** Counter/catalyst parsed as distinct fields. New `closure-risk:` and `a-risk:` fields parsed. Pathology Reference Table updated with counter/catalyst split and A-phase risk. Decoded Pathology Output template updated. Three-layer vocabulary in failure mode interpretation. v2.2 collapsed counter format accepted with auto-split. |
 
 ---
 
-**Version:** 2.2
-**Date:** February 2026
+**Version:** 2.2.1
+**Date:** March 2026
 **Status:** Production
 **Triadic Stack Position:** Nemetic
-**Dependencies:** THREAD_ENCODING_SPEC v2.2, Elemental_Daemons_Canonical v3.0, SIML v1.2.1, SWARM_BASE glossary, OPERATIONAL_PATHOLOGY_MATRIX v1.1
-**Related Docs:** THREAD_ENCODING_SPEC_v2.2.md (encoding counterpart), NEMA_DECODER_INSERT.md (v1.1 legacy)
+**Dependencies:** THREAD_ENCODING_SPEC v2.2.1, Elemental_Daemons_Canonical v3.0, SIML v1.2.1, SWARM_BASE glossary, OPERATIONAL_PATHOLOGY_MATRIX v1.1
+**Related Docs:** THREAD_ENCODING_SPEC_v2.2.1.md (encoding counterpart), NEMA_DECODER_INSERT.md (v1.1 legacy)

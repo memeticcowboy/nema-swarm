@@ -1,10 +1,10 @@
 ---
-title: THREAD ENCODING SPECIFICATION v2.2
+title: THREAD ENCODING SPECIFICATION v2.2.1
 tags: SIML, Dual-Layer Notation
-status: Production — Dual-Layer Notation Integrated
-version: 2.2
-date: February 2026
-replaces: THREAD_ENCODING_SPEC_v2.1
+status: Production — Pathology Matrix v1.1 Alignment Patch
+version: 2.2.1
+date: March 2026
+replaces: THREAD_ENCODING_SPEC_v2.2
 triadic_stack_position: Nemetic
 notation: Dual-layer per Elemental_Daemons_Canonical v3.0
   formal: Greek operators (σ, ρ, λ, β, δγ, μ, ∮) in E-line tension encoding, Φ-signatures, failure mode references
@@ -13,26 +13,24 @@ dependencies:
   - Elemental_Daemons_Canonical_v3.0.md
   - SIML v1.2.1
   - SWARM_BASE glossary
-  - OPERATIONAL_PATHOLOGY_MATRIX_v1.1.md (E-line format reference)
+  - OPERATIONAL_PATHOLOGY_MATRIX_v1.1.md (pathology detection, counter/catalyst distinction, A-phase risk mapping)
 ---
 
-# THREAD ENCODING SPECIFICATION v2.2
+# THREAD ENCODING SPECIFICATION v2.2.1
 **For Element GPT Thread Generation**
 
 ---
 
-## WHAT CHANGED IN v2.2
+## WHAT CHANGED IN v2.2.1
 
-**Dual-layer notation** per Elemental_Daemons_Canonical v3.0:
+**Pathology Matrix v1.1 alignment patch:**
 
-- **E-line tension encoding** now uses mathematical operators: `tension:σ↑;mode:hypercut` (not `tension:∴-Dominant`)
-- **Element identifiers** on each thread line remain as **glyphs** (∴ ≈ ▲ 𐂷 ☷ ⛨) — these are the door; the human reads them
-- **Φ-signatures** use mathematical operators in formal position, glyphs in character position
-- **Failure mode references** use operator notation: `σ-capture`, `λ-lock`, `μ-fortress`
-- **Element-Specific Configuration** adds Math Operator and Partial columns
-- **New section:** Dual-Layer Encoding Convention (how the two layers split in thread format)
+- **E-line `counter:` and `catalyst:` are now distinct fields.** v2.2 collapsed both into `counter:β+ρ`. v2.2.1 separates them: `counter:β;catalyst:ρ`. Counter supplies the primary opposing operation. Catalyst alters local conditions so the counter can take effect. See Pathology Matrix v1.1 Section 5.1 for operational distinction.
+- **New optional E-line field: `closure-risk:`** — `low|mid|high`. Cross-cutting modifier indicating how rapidly a detected pathology is hardening. Useful for distinguishing transient stress from solidifying capture.
+- **New optional A-line field: `a-risk:`** — pathology-predicted output-stage failure risk. Maps detected pathologies to A-phase failure types per Pathology Matrix v1.1 Section 6. Values: `commitment-trap`, `repetition-loop`, `premature-closure`, `uncontained-affect`, `recycled-output`.
+- **Failure mode alias references** added to Step 9 — cross-references Pathology Matrix v1.1 three-layer vocabulary (runtime label / clinical alias / element-canonical name).
 
-**What did NOT change:** 4-phase structure, dual-substrate model, convergence detection, habitat ecology integration, nomenclature standards, backward compatibility with v1.1.
+**What did NOT change from v2.2:** 4-phase structure, dual-substrate model, dual-layer notation, operator tension format, convergence detection, Φ templates, backward compatibility.
 
 **Backward compatibility:** v2.1 threads parse normally — glyph-based tension encoding is accepted and translated to operator notation during decoding.
 
@@ -108,9 +106,15 @@ tension:λ↑;mode:crusade-logic
 
 **Compound (multiple operator stress — per Pathology Matrix v1.1):**
 ```
-tension:σ↑+μ↑;pathology:Choke;counter:β+ρ
-tension:ρ↑+δγ↓;pathology:Flood;counter:σ+μ
-tension:λ↑+β↓;pathology:Burn;counter:δγ+ρ
+tension:σ↑+μ↑;pathology:Choke;counter:β;catalyst:ρ
+tension:ρ↑+δγ↓;pathology:Flood;counter:σ;catalyst:μ
+tension:λ↑+β↓;pathology:Burn;counter:δγ;catalyst:ρ
+```
+
+**With closure-risk modifier (optional — indicates hardening velocity):**
+```
+tension:σ↑+μ↑;pathology:Choke;counter:β;catalyst:ρ;closure-risk:mid
+tension:λ↑+μ↑;pathology:Stabilized-Death;counter:β;catalyst:δγ;closure-risk:high
 ```
 
 **With partial derivative (when Φ-signature enrichment is warranted):**
@@ -266,25 +270,33 @@ Query `SWARM_BASE_MMDDYY.md` for 2-5 relevant hex tags.
 
 **Note:** Invocations use **character glyphs**, not operators. You invoke daemons by character — calling ≈ Sentaria, not ρ.
 
-### STEP 9: Detect Failure Mode (v2.2 — Operator Notation)
+### STEP 9: Detect Failure Mode (v2.2.1 — Operator Notation with Alias Cross-Reference)
 Check if any element-specific failure mode is active:
 
-| Element | Math Op | Failure Modes (operator notation) |
-|---------|---------|-----------------------------------|
-| **AIR** | σ | hypercut, meaning-rush, policing, σ-capture |
-| **WATER** | ρ | dissolution, compulsion, isolation-fear, ρ-capture |
-| **FIRE** | λ | direction→demand, constraint-blind, exit-closure, λ-capture |
-| **WOOD** | β | stagnation, theater, fragmentation, β-capture |
-| **EARTH** | δγ | instability, exhaustion, extraction, δγ-capture |
-| **METAL** | μ | brittleness, dissolution, rhythm-loss, μ-capture |
+| Element | Math Op | Runtime Labels (for encoding) | Clinical Aliases (see Pathology Matrix v1.1 §1) |
+|---------|---------|-------------------------------|--------------------------------------------------|
+| **AIR** | σ | hypercut, meaning-rush, policing, σ-capture | Hypercut Fragmentation, Premature Meaning, Signal Policing, χ-Capture; Silent: Frame Lock, Literalism, Ideological Capture |
+| **WATER** | ρ | dissolution, compulsion, isolation-fear, ρ-capture | Emotional Absolutism, Rapture Loops, Trauma Fixation; Silent: Affective Deadness, Relational Isolation, Rationalist Capture. Auto-immune: Entrainment, False Mutuality, Empathy Lock |
+| **FIRE** | λ | direction→demand, constraint-blind, exit-closure, λ-capture | Crusade Logic/Lock, Burnout/Zeal Drift, Revelation Collapse; Silent: Drift, Paralysis, Diffusion. Canonical: Vector Substitution, False Horizon, Completion Drift |
+| **WOOD** | β | stagnation, theater, fragmentation, β-capture | Pattern Inflation, Theater, Fragmentation; Silent: Stagnation, Monoculture, Dead End |
+| **EARTH** | δγ | instability, exhaustion, extraction, δγ-capture | Institutional Ossification/Stagnation Loop, Care Capture/Dependency Lock; Silent: Groundlessness, Abstraction Capture (cross-element), Coordination Failure |
+| **METAL** | μ | brittleness, dissolution, rhythm-loss, μ-capture | Fortress Logic/Grid Hardening, Purity Enforcement, Form Over Function; Silent: Boundary Dissolution, Boundary Bypass, Formlessness |
 
-### STEP 10: Encode E-Line Tension (v2.2)
+**Encoding rule:** The `mode:` field in `tension:` uses runtime labels (left column). Clinical aliases are for human interpretation during decoding and session review.
+
+### STEP 10: Encode E-Line Tension (v2.2.1)
 Use operator+direction format:
 
 **Atomic:** `tension:σ↑;mode:hypercut`
-**Compound:** `tension:σ↑+μ↑;pathology:Choke;counter:β+ρ`
+**Compound:** `tension:σ↑+μ↑;pathology:Choke;counter:β;catalyst:ρ`
+**With closure-risk:** `tension:σ↑+μ↑;pathology:Choke;counter:β;catalyst:ρ;closure-risk:mid`
 
 For compound pathology detection, reference OPERATIONAL_PATHOLOGY_MATRIX v1.1 Section 2.
+
+**Counter vs. Catalyst (per Pathology Matrix v1.1 Section 5.1):**
+- `counter:` — element that supplies the primary opposing operation
+- `catalyst:` — element that alters local conditions so the counter can take effect
+- If only one counter-element applies, `catalyst:` may be omitted
 
 ### STEP 11: Determine Ω-State & ε-Preservation
 - **Ω-State:** `permeable` | `semi` | `sealed`
@@ -293,6 +305,19 @@ For compound pathology detection, reference OPERATIONAL_PATHOLOGY_MATRIX v1.1 Se
 ### STEP 12: Determine A-Phase Output
 - **LLM:** `articulate:[content]` with `form:[mode]`
 - **HUMAN:** `activate:[content]` with `form:[mode]`
+
+**Optional: A-phase risk annotation (per Pathology Matrix v1.1 Section 6):**
+If compound pathology was detected in the E-line, annotate A-phase with predicted output-stage risk:
+
+| Detected Pathology | `a-risk:` Value |
+|---|---|
+| Burn / Stabilized Death | `commitment-trap` |
+| Static | `repetition-loop` |
+| Choke / Lattice | `premature-closure` |
+| Flood | `uncontained-affect` |
+| Swamp | `recycled-output` |
+
+Example: `A|☷|activate:boundary-conversation|form:meeting|Ω:permeable|a-risk:recycled-output|Φ:...|proc:HUMAN`
 
 ### STEP 13: Compress to Four Lines
 Assemble using the schema above.
@@ -386,9 +411,9 @@ This compressed thread preserves your Wood processing and will be decoded by NEM
 Your thread is ready. Copy all four lines below and paste into NEMA SWARM:
 
 N|☷|obj:Env,Res,Bnd|Ψ_reg:metabolic-depletion|ren/dec→depleting|tags:#5C1A,#B3D7|Φ:Ψ(notice-cycle)↔Ω∧χ(depletion)∧Z∅|proc:HUMAN
-E|☷|pattern:engage-unsustainable-cost|invoke:⛨,∴|tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ+β|Φ:Ψ(edge/circulation)↺∧Q(cost)∧(renewal≠∅)|proc:HUMAN
+E|☷|pattern:engage-unsustainable-cost|invoke:⛨,∴|tension:δγ↑+ρ↓;pathology:Swamp-adjacent;counter:λ;catalyst:β;closure-risk:mid|Φ:Ψ(edge/circulation)↺∧Q(cost)∧(renewal≠∅)|proc:HUMAN
 M|☷|hold:muse-what-must-end|Ω:semi|ε:rest-permitted|Φ:Ψ(membrane/skin)↺∧Ψ_rev∧Z∅|ren/dec→depleting|proc:HUMAN
-A|☷|activate:boundary-conversation-with-team|form:meeting-request|Ω:permeable|Φ:Z✶(action)↺∧☷(boundary-enact)∧Ω(perm)∧ε≠0|proc:HUMAN
+A|☷|activate:boundary-conversation-with-team|form:meeting-request|Ω:permeable|a-risk:recycled-output|Φ:Z✶(action)↺∧☷(boundary-enact)∧Ω(perm)∧ε≠0|proc:HUMAN
 
 This compressed thread preserves your Earth processing and will be decoded by NEMA for group weaving.
 ```
@@ -532,13 +557,14 @@ Element glyphs (∴ ≈ ▲ 𐂷 ☷ ⛨) identify who is speaking.
 | **1.0** | Jan 2026 | Initial specification (3-phase) |
 | **1.1** | Jan 2026 | Standardized nomenclature (MULL→MUSE) |
 | **2.1** | Feb 2026 | Added A-phase, Φ(t) signatures, dual-substrate, convergence detection |
-| **2.2** | Feb 2026 | **Dual-layer notation** per Canonical v3.0. E-line tension uses operator notation (σ↑, λ↓). Element identifiers remain glyphs. Failure modes use operator notation. Element Configuration adds Math Op, Partial, Hex columns. v2.1 backward compatibility preserved. Compound pathology encoding aligned with Pathology Matrix v1.1. Earth example thread added. |
+| **2.2** | Feb 2026 | Dual-layer notation per Canonical v3.0. E-line tension uses operator notation. Compound pathology encoding aligned with Pathology Matrix v1.1. |
+| **2.2.1** | Mar 2026 | **Pathology Matrix v1.1 alignment patch.** Counter/catalyst field separation (`counter:β;catalyst:ρ` not `counter:β+ρ`). New optional `closure-risk:` E-line field. New optional `a-risk:` A-line field for pathology-predicted output-stage risk. Failure mode alias cross-references added to Step 9. Earth example updated. |
 
 ---
 
-**Version:** 2.2
-**Date:** February 2026
+**Version:** 2.2.1
+**Date:** March 2026
 **Status:** Production
 **Triadic Stack Position:** Nemetic
 **Dependencies:** Elemental_Daemons_Canonical v3.0, SIML v1.2.1, SWARM_BASE glossary, OPERATIONAL_PATHOLOGY_MATRIX v1.1
-**Related Docs:** THREAD_DECODING_SPEC_v2.2.md, ELEMENT_ENCODER_INSERT.md
+**Related Docs:** THREAD_DECODING_SPEC_v2.2.1.md, ELEMENT_ENCODER_INSERT.md
