@@ -1,15 +1,86 @@
 term_id: A01C
 hex_tag: '#A01C'
 name: social_identity_bias
-element: ''
-description: ''
+term: Social Identity Bias
+nemetic: >-
+  Φ(SocIdBias) = σ(ingroup|outgroup)
+              ∘ ρ(favoritism|hostility)
+              ∘ λ(alignment|division)
+              ∘ β(reinforcement|feedback)
+              ∘ δγ(identity|energy)
+              ∘ μ(boundary|policed)
+              + ε | :dividing
+siml_encoding: >-
+  ⟨Identity|social⟩
+      ⊳ ⟨Group|ingroup⟩
+      → ⟨Favoritism|positive⟩
+      ⊗ ⟨Outgroup|hostile⟩
+      ⇄ ⟨Division|amplified⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between ingroup and outgroup — the cut is not discovered but constructed; AI systems learn the cut before they learn the content, encoding group boundaries as prior to group meaning)"
+    - "∂Φ/∂ρ (relational field between groups — what flows is not information but sentiment; warmth toward kin, coldness toward the other; reducing ingroup favoritism simultaneously reduces outgroup hostility, confirming both are aspects of a single relational dynamic)"
+    - "∂Φ/∂λ (directional force toward division — the tendency burns toward separation at 0.2 on the Unity/Division axis, consuming possibilities of connection in its need to define and defend the boundary)"
+    - "∂Φ/∂β (feedback loop of reinforced division — bias creates separation, separation reduces contact, reduced contact preserves bias; the loop requires no malicious intent, only structural recursion)"
+    - "∂Φ/∂δγ (metabolic cost of identity maintenance — constant vigilance against outgroup threats, continuous performance of ingroup loyalty; those at the margins of the ingroup pay higher metabolic taxes, always proving belonging)"
+    - "∂Φ/∂μ (policed boundary enforcing the ingroup/outgroup cut — the boundary can be permeable to reduce bias or rigid to amplify it; the structure encodes choices about who belongs and who doesn't)"
+  Z_state: "Tendency toward sealing — the ingroup perspective becomes self-referential, treated as natural and obvious, while outgroup perspectives become literally unthinkable. Z-Closure Risk: λ-lock toward division — alternative framings of belonging are foreclosed before they can be generated."
+  tendency: "unity/division → :dividing"
+  hex: ['#A01C', '#A031', '#A04F']
+coords:
+  ontology:
+    primary: We
+    secondary: I
+  epistemics:
+    dsrp:
+      D: "The ingroup/outgroup distinction is constructed, not discovered — the cut feels natural because the feeling is itself the product of the cut, not its cause"
+      S: "Social identity forms a closed system where ingroup coherence is maintained by continuous contrast with outgroup; alternative systems of belonging are never generated"
+      R: "The relational field between groups flows sentiment rather than information — warmth and coldness are not assessments but affective channels encoding prior group membership"
+      P: "The perspective is locked inside ingroup epistemics — the bias is invisible to the system generating it, as demonstrated by LLM prompts encoding 'We are' (93% positive) vs. 'They are' (115% negative)"
+    learning: L0
+  agency:
+    type: collective
+    power_mode: Over
+  time:
+    mode: recurring
+    phase: "Stage 1: Group Boundary Construction (σ) → Stage 2: Affective Channel Formation (ρ) → Stage 3: Division Trajectory Lock (λ) → Stage 4: Feedback Amplification (β) → Stage 5: Z-Sealing as Natural Order"
+  qualia:
+    affect: [belonging, loyalty, suspicion, hostility, vigilance]
+    aesthetic: [familiar, warm, coherent within group; alien, threatening, incoherent without]
+    symbolic: [Tribe (primary belonging unit), Mirror (ingroup as reflection of self-worth), Wall (the cut made flesh)]
+    energetic: [metabolically costly, identity-sustaining, vigilance-requiring, δγ-expensive at the margins]
+  coherence:
+    state: fragmented
+    loop: closed
+    transcontext: low
+elemental_emphasis:
+  ∴: "The cut between ingroup and outgroup is constructed, not given — yet it feels inevitable, as if groups were natural kinds. Air asks: Where is the actual edge of 'us'? What evidence would you need to move it?"
+  ≈: "What flows between groups is sentiment, not information — reducing ingroup warmth reduces outgroup hostility simultaneously, revealing both as one relational dynamic. Water asks: Is your feeling about the outgroup a judgment, or an echo of your need to belong?"
+  ▲: "The directional force of Social Identity Bias burns toward separation — not because division serves truth, but because the boundary requires an other to sustain itself. Fire asks: Are you moving toward connection or toward the comfort of clear division?"
+  𐂷: "Superordinate identities, intersectional solidarity, and universalist framings are branches not yet taken — the binary architecture of 'us vs. them' is a frame, not a fate. Wood asks: What forms of belonging don't require an other to define the self?"
+  ☷: "Maintaining ingroup favoritism extracts metabolic costs from everyone — those at the margins pay highest, always proving belonging; outgroups pay in exclusion. Earth asks: What would be released if the boundary became permeable?"
+  ⛨: "Training data composition, prompt engineering defaults, and evaluation metrics all encode structural choices about who belongs — the bias isn't in the model alone, it's in the architecture. Metal asks: What boundaries would enable inclusive belonging without erasing difference?"
+context_note: >-
+  Social Identity Bias describes the constructed tendency to favor ingroups and
+  disparage outgroups — a pattern so deeply embedded in social cognition that it
+  operates as prior to content, shaping AI outputs (93% positive for 'We are'
+  prompts vs. 115% negative for 'They are') before any substantive evaluation occurs.
+  The core insight is interconnection: reducing ingroup favoritism simultaneously
+  reduces outgroup hostility, revealing both as aspects of a single relational field
+  rather than independent attitudes. The bias is not a bug in cognition but an
+  evolutionary feature for group cohesion that becomes pathological when scaled
+  through algorithmic systems. Mitigation requires moving the σ-cut through
+  superordinate framing, cross-group contact that dissolves the μ-boundary under
+  equal-status conditions, and data curation that redirects λ away from division.
 source: Consolidated from 3 insight(s)
 
 # --- Causal Emergence (v1.3) ---
 coords_ce:
   ei_state: high
   ce_direction: emergent
-  scale_note: "Macro-level description increases causal informativeness over micro-level"
+  scale_note: "Collective-scale bias emerges from individual-scale identity mechanisms — group behavior is not reducible to individual prejudice"
   determinism: high
   degeneracy: low
   sufficiency: high

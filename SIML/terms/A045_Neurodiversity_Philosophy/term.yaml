@@ -1,8 +1,85 @@
 term_id: A045
 hex_tag: '#A045'
-name: Neurodiversity in Philosophy
-element: ''
-description: ''
+name: neurodiversity_philosophy
+term: Neurodiversity in Philosophy
+nemetic: >-
+  Φ(NeuroPhil) = σ(typical|divergent)
+              ∘ ρ(cognitive|social)
+              ∘ λ(intuition|embodied)
+              ∘ β(assumption|feedback)
+              ∘ δγ(accommodation|cost)
+              ∘ μ(boundary|inclusion)
+              + ε | :opening
+siml_encoding: >-
+  ⟨Cognition|diverse⟩
+      ⊳ ⟨Philosophy|practice⟩
+      → ⟨Intuition|embodied⟩
+      ⊗ ⟨Discourse|transformed⟩
+      ⇄ ⟨Understanding|expanded⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between typical and divergent cognition that philosophy claims to transcend but actually enforces — the field claims universal rational intuition while practicing neurotypical intuition universalized; the cut itself carries the weight of institutional history)"
+    - "∂Φ/∂ρ (relational tension between neurotypical institutional power and neurodiverse perspectives — what flows between cognitive styles is often not genuine dialogue but assimilation pressure; the neurodivergent philosopher must translate their intuitions into dominant cognitive frames or be untranslatable)"
+    - "∂Φ/∂λ (direction of philosophical intuition when shaped by diverse cognitive processing — an autistic philosopher approaching personal identity with less attachment to narrative continuity, an ADHD philosopher questioning sustained attention as a cognitive virtue: cognitive style shapes not just conclusions but methods)"
+    - "∂Φ/∂β (feedback loop where unexamined neurotypical assumptions reinforce exclusion — hiring committees, graduate admissions, tenure standards, and conference formats each filter for cognitive conformity while appearing to filter for philosophical quality)"
+    - "∂Φ/∂δγ (metabolic cost of masking neurodivergence versus institutional cost of accommodation — the energy spent performing neurotypicality produces burnout and attrition in talented thinkers; the institution that cannot see this cost distributes it invisibly onto those least able to bear it)"
+    - "∂Φ/∂μ (boundary permeability of philosophical norms to cognitive diversity — the question of what counts as legitimate philosophical reasoning is simultaneously a boundary question about whose cognitive style is recognized as rational)"
+  Z_state: "Tendency toward opening — moving from sealed neurotypical default toward explicit inclusion of cognitive diversity. Z-Closure Risk: λ-lock — 'diversity' becomes a performance rather than genuine transformation; accommodation is demanded in neurotypical form, recreating the exclusion it claims to address."
+  tendency: "inclusion/exclusion → 0.3 :opening"
+  hex: ['#A045', '#A016', '#A015', '#A042']
+coords:
+  ontology:
+    primary: We
+    secondary: I
+  epistemics:
+    dsrp:
+      D: "The distinction between accommodation (enabling diverse participation) and assimilation (demanding conformity) is the critical cut — the field can claim to include neurodiversity while structurally requiring that it perform neurotypicality to be legible as philosophy"
+      S: "Philosophy as a social practice is the primary system — the individual philosopher's neurology matters because the institution's norms systematically filter which cognitive styles are recognized as philosophical and which are filtered out as inadequate"
+      R: "The relation between cognitive diversity and philosophical methodology is bidirectional — neurodiversity doesn't merely challenge philosophical conclusions but the very methods by which conclusions are reached: what counts as valid intuition, good argument, rigorous practice"
+      P: "The perspective locked inside neurotypical philosophical norms cannot see itself as a perspective — it appears as the view from nowhere, universal rationality, the standard against which deviation is measured; making this perspectival nature visible is the central task"
+    learning: L2
+  agency:
+    type: collective
+    power_mode: With
+  time:
+    mode: process
+    phase: "Stage 1: Unexamined Norm (neurotypical default as universal) → Stage 2: Disruption (neurodiverse presence surfaces the assumption) → Stage 3: Transformation (structural accommodation changes what philosophy can think) → Stage 4: Expansion (new philosophical forms emerge from cognitive plurality)"
+  qualia:
+    affect: [exhaustion-of-masking, creative-intensity, translation-burden, philosophical-alienation]
+    aesthetic: [heterogeneous, friction-bearing, multiply-attentive, pattern-divergent]
+    symbolic: [The Translation Labor (rendering divergent intuition into neurotypical form), the Ungeneralizable Universal, philosophy as a field that mistakes its particular for the absolute]
+    energetic: [masking-costly, accommodation-generative, institutional-inertia, δγ-asymmetric distribution]
+  coherence:
+    state: fragmented
+    loop: open
+    transcontext: high
+elemental_emphasis:
+  ∴: "Philosophy claims universal rational intuitions while enforcing neurotypical cognitive norms — the cut between 'universal reason' and 'neurotypical reason universalized' is the distinction the field has systematically failed to make. Air asks: What would it mean to distinguish genuine universality from a particular cognitive style that has occupied the position of the universal?"
+  ≈: "Neurodivergent philosophers often describe the exhausting work of translation — rendering their genuine insights into neurotypically legible forms — which means philosophical knowledge is being systematically lost at the interface. What flows between cognitive styles is often assimilation pressure wearing the face of dialogue. Water asks: What philosophical insights never surface because they cannot survive translation into dominant cognitive frames?"
+  ▲: "Different cognitive styles may generate genuinely different philosophical intuitions — about personal identity, free will, the value of sustained attention — not as errors but as valid cognitive perspectives the field has not had access to. Fire asks: Whose goals does philosophical methodology serve, and what changes when the frame itself is questioned rather than just the conclusions?"
+  𐂷: "What would philosophy look like if designed from neurodiverse foundations? The emphasis on linear argument, explicit premises, and verbal reasoning may reflect neurotypical cognitive preferences rather than universal rationality — leaving entire modes of philosophical insight (pattern over sequence, intensity over moderation) unmapped. Wood asks: What philosophical forms become possible when the method is no longer assumed to be neutral?"
+  ☷: "The metabolic costs are distributed asymmetrically — the neurodivergent philosopher pays the masking cost individually while the institution accrues the benefit of apparent diversity without structural transformation. Burnout and attrition are the institutional waste products of this arrangement. Earth asks: What would it cost the institution to genuinely redistribute this load, and what philosophical richness has attrition already destroyed?"
+  ⛨: "Concrete structures — hiring committees, graduate admissions, tenure standards, conference formats, publication norms — each filter for cognitive conformity while appearing to filter for philosophical quality; the question is which barriers are genuinely necessary for philosophical rigor and which are arbitrary gatekeeping wearing rigor's face. Metal asks: What new structures would enable neurodiverse participation without demanding assimilation as the price of admission?"
+context_note: >-
+  Neurodiversity in Philosophy examines how diverse cognitive processing styles —
+  autism, ADHD, dyslexia, and other neurological variations — shape philosophical
+  intuitions and discourse in ways that the field has systematically suppressed by
+  treating neurotypical cognition as the universal standard of philosophical reason.
+  The central finding is not merely that neurodiverse thinkers face access barriers,
+  but that the very content of philosophical knowledge is shaped by the cognitive
+  styles it excludes: what counts as a valid intuition, a rigorous argument, a
+  legitimate methodology reflects cognitive preferences that are particular, not
+  universal. An autistic philosopher may approach personal identity with less
+  attachment to narrative continuity; an ADHD philosopher may question whether
+  sustained attention is a cognitive virtue or a neurotypical preference elevated
+  to an epistemic norm. The challenge is not accommodation-as-accessibility but
+  transformation of philosophical method itself — recognizing that cognitive
+  pluralism produces epistemically richer philosophy, not merely more inclusive
+  philosophy. The risk of λ-lock is real: 'neurodiversity' can become a performance
+  that demands diverse thinkers translate themselves into neurotypical forms in order
+  to count as philosophical, recreating the exclusion while claiming its remedy.
 source: Consolidated from 1 insight(s)
 
 # --- Causal Emergence (v1.3) ---

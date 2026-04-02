@@ -1,0 +1,111 @@
+# --- Identity ---
+term_id: A069
+hex_tag: '#A069'
+name: energy_return_on_investment
+term: Energy Return on Investment
+
+# --- Nemetic String (L1 compression) ---
+nemetic: >-
+  Φ(EROI) = σ(energy-gained|energy-invested)
+           ∘ ρ(surplus|subsistence)
+           ∘ λ(complexity|simplification)
+           ∘ β(depletion|substitution)
+           ∘ δγ(net-energy|civilizational-cost)
+           ∘ μ(cliff-threshold|sealed)
+           + ε | :drift ∧ :submergent
+
+# --- SIML Encoding ---
+siml_encoding: >-
+  ⟨Resource|energetic⟩
+      ⊳ ⟨Extraction|invested⟩
+      → ⟨Ratio|declining⟩
+      ⊗ ⟨Constraint|material⟩
+      ⇄ ⟨Civilization|complexity-dependent⟩
+      → ⟨Threshold|cliff⟩
+
+# --- Formalism ---
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between energy gained and energy invested — EROI is the ratio E_out/E_in, but this 'belies a deep methodological complexity rooted in the selection of system boundaries'; where you draw the boundary around what counts as invested energy fundamentally determines the ratio, making the cut itself a contested epistemic act rather than a neutral measurement)"
+    - "∂Φ/∂ρ (relation between surplus energy and civilizational subsistence — what flows between energy extraction and social complexity is net energy, the fraction remaining after the energy system feeds itself; at EROI 50:1 only 2% is self-consumed, but at 5:1 fully 20% is diverted to procurement, leaving progressively less for everything that makes civilization more than survival)"
+    - "∂Φ/∂λ (direction from complexity toward simplification — declining EROI exerts a directional force on civilizational structure; Thomas Homer-Dixon argues that falling EROI contributed to the collapse of the Western Roman Empire, and the same directional logic applies to any society whose complexity requires energy surplus that the available sources can no longer provide)"
+    - "∂Φ/∂β (feedback loop between resource depletion and attempted substitution — as conventional oil declines from EROI ~44 in 1950 toward ~7 by 2050, substitutes like shale oil at 1.4-1.5 or tar sands at ~5 cannot replicate the surplus; each substitution attempt reveals the loop: lower-EROI replacements require more energy to extract, further lowering the system-wide ratio)"
+    - "∂Φ/∂δγ (metabolic cost of net energy to civilization — the 'net energy cliff' describes the non-linear relationship where small decreases in EROI below ~8:1 produce exponentially larger losses of net energy available to society; an EROI of 10 delivers 90% net energy, but dropping to 5 delivers only 80%, and to 2 only 50% — the curve steepens precisely where many alternative sources cluster)"
+    - "∂Φ/∂μ (cliff-threshold as sealed boundary — below EROI ~7-8, the boundary between viable and non-viable energy becomes rigid; an EROI of 1:1 is an 'energy sink' that delivers zero net energy, and the threshold between functioning complex society and forced simplification is not gradual but cliff-like, a structural boundary that seals when crossed)"
+  Z_state: "Tendency from drift toward sealed — declining EROI of conventional fuels pushes civilization toward the net energy cliff while awareness of the threshold remains low; most economic models ignore net energy entirely. Z-Closure Risk: δγ-lock — the non-linear cliff function means that by the time EROI decline becomes economically visible, the system may already be past the threshold where substitution is energetically viable."
+  tendency: "complexity/simplification → :drift"
+  hex:
+    - '#A069'
+
+# --- Coordinates (MetaTaxonomy Overlay) ---
+coords:
+  ontology:
+    primary: Its
+    secondary: MoreThanHuman
+  epistemics:
+    dsrp:
+      D: "The critical distinction is between gross energy output and net energy available to society — economics tracks the former (price, GDP), while EROI tracks the latter; the two diverge precisely when it matters most, at the cliff edge where small ratio changes produce large civilizational consequences"
+      S: "EROI operates as a meta-system governing the viability of all other systems — transportation, food production, healthcare, governance, and cultural complexity all depend on energy surplus; when the surplus contracts, every dependent system competes for a shrinking remainder"
+      R: "The relationship between EROI and civilizational complexity is non-linear and asymmetric — high EROI enabled the explosive growth of industrial civilization, but the decline curve is steeper than the ascent because infrastructure built assuming surplus cannot easily simplify"
+      P: "The perspective of conventional economics is locked inside price signals that cannot see net energy — EROI is invisible to markets until its effects manifest as inflation, supply disruption, or economic contraction; the biophysical perspective (Hall, Odum) sees what the financial perspective structurally cannot"
+    learning: L1
+    intervention_stance:
+      mode: constrained
+      do_operator: approximated
+      counterfactual_access: med
+  agency:
+    type: more_than_human
+    power_mode: Through
+  time:
+    mode: linear
+    phase: "Stage 1: High-EROI Discovery (fossil fuel exploitation, EROI 50-100+) → Stage 2: Peak Surplus (maximum civilizational complexity) → Stage 3: Declining Returns (conventional sources deplete, EROI falls) → Stage 4: Substitution Attempts (renewables, unconventionals at lower EROI) → Stage 5: Cliff Approach (net energy contraction accelerates non-linearly)"
+  qualia:
+    affect: [abundance, entitlement, anxiety, denial, urgency]
+    aesthetic: [exponential, cliff-like, non-linear, invisible-until-too-late]
+    symbolic: [The Cliff (non-linear threshold), The Ratio (what remains after self-feeding), The Surplus (what civilization is built on)]
+    energetic:
+      somatic: flowing
+      systemic: tight
+  coherence:
+    state: metastable
+    loop: single
+    transcontext: med
+    ei_stability: drifting
+    scale_dominance: macro
+  ce:
+    ei_state: med
+    ce_direction: submergent
+    scale_note: "Macro-level EROI ratios are useful heuristics but obscure critical micro-level variations — the EROI of Saudi light crude vs. Canadian tar sands vs. North Dakota shale differ by orders of magnitude; system-wide averages mask the micro-level resource quality dynamics that actually drive civilizational outcomes"
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: high
+
+# --- Elemental Emphasis (Sixfold Inquiry) ---
+elemental_emphasis:
+  ∴: "The cut between energy-gained and energy-invested appears simple — E_out/E_in — but the boundary selection is the entire epistemic contest. Where does 'invested' energy begin? At the wellhead? At the refinery? At the road built to reach the drill site? At the military securing the supply route? Each boundary choice produces a different ratio, and the choice is never neutral. Air asks: What would the EROI of your energy system be if you drew the boundary around everything it actually requires to function?"
+  ≈: "What flows between extraction and civilization is not energy but surplus — the fraction remaining after the energy system feeds itself. At EROI 50:1 the flow is generous (98% surplus), but the same physics that made fossil fuels transformative makes their decline devastating: civilization's infrastructure was built assuming a flow rate that geology will not sustain. Water asks: What emotional relationship does your society have with energy abundance — and what happens to that relationship when the flow tightens?"
+  ▲: "Declining EROI exerts directional force toward simplification whether or not anyone chooses it — the Western Roman Empire did not decide to collapse, it ran out of surplus. The same directional logic now applies at planetary scale: the weighted average EROI of all oil liquids declining from 44 to under 7 by 2050 is not a policy failure but a thermodynamic trajectory. Fire asks: Is the current pursuit of economic growth a purposeful direction or an inherited momentum that the energy physics no longer supports?"
+  𐂷: "Substitution is the growth story told at the cliff edge — renewables, nuclear, hydrogen each presented as replacement branches. But the EROI numbers complicate the narrative: solar PV at 2.5-10, wind at 18-50, nuclear at 20-80, each with different boundary assumptions and intermittency costs. The branching is real but each branch carries its own metabolic load. Wood asks: What if no single substitute can replicate what concentrated fossil surplus provided — and what forms of civilization would the actual available surplus support?"
+  ☷: "The net energy cliff is Earth's teaching: below EROI ~8, small decreases produce exponentially larger losses of available surplus. This is not a metaphor but a mathematical function — moving from EROI 10 to 5 loses only 10 percentage points of net energy (90% to 80%), but moving from 5 to 2 loses 30 points (80% to 50%). The metabolic cost of maintaining complex civilization rises precisely as the capacity to pay it falls. Earth asks: What would your society look like if it were designed for the EROI actually available rather than the EROI it inherited?"
+  ⛨: "The boundary between viable and non-viable energy is not gradual but threshold-like — EROI 1:1 is an energy sink, and the minimum for complex civilization is estimated at 7-12 depending on methodology. Below this threshold, the boundary seals: there is not enough surplus energy to build the infrastructure needed to develop new energy sources, creating a structural trap. Metal asks: What institutional and physical boundaries would need to be redesigned now, while surplus still exists, to function under the EROI that is actually coming?"
+
+# --- Context ---
+context_note: >-
+  Energy Return on Investment describes the ratio of usable energy delivered from a source
+  to the energy required to obtain it (E_out/E_in). The concept reveals a structural
+  dependency of civilizational complexity on energy surplus that conventional economics
+  cannot see. The 'net energy cliff' — the non-linear relationship where EROI decline
+  below ~8:1 produces exponentially accelerating loss of available surplus — represents
+  a thermodynamic constraint on social complexity itself. Somatic register shows energy
+  as still flowing (abundant fuel at point of use), while systemic register reads tight
+  (declining EROI of primary sources, increasing extraction costs, substitution gaps).
+  This somatic/systemic divergence — abundance felt, scarcity structurally present —
+  is diagnostically central: it explains why the energy transition feels optional to
+  individuals while being thermodynamically mandatory at system scale.
+source: "Wikipedia: Energy return on investment (https://en.wikipedia.org/wiki/Energy_return_on_investment); Hall, C.A.S. et al.; Homer-Dixon, T."
+date_processed: '2026-03-31'
+processed_by: Claude/SIML
+siml_version: "1.3"

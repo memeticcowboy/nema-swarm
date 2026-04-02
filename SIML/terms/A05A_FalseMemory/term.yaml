@@ -1,15 +1,95 @@
 term_id: A05A
 hex_tag: '#A05A'
-name: False Memory Formation
-element: ''
-description: Psychology Behind Alien Abduction Beliefs
+name: False_Memory_Formation
+term: False Memory Formation
+nemetic: >-
+  Φ(FalseMem) = σ(real|imagined) ∘ ρ(experience|narrative)
+  ∘ λ(belief|validation) ∘ β(confabulation|feedback)
+  ∘ δγ(absorption|dissociation) ∘ μ(boundary|permeable) + ε | :confabulating
+siml_encoding: >-
+  ⟨Memory|encoded⟩ ⊳ ⟨Source|misattributed⟩ → ⟨Belief|entrenched⟩
+  ⊗ ⟨Reality|distorted⟩ ⇄ ⟨Narrative|reinforced⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (distinction between genuine experience and imagined event)"
+    - "∂Φ/∂ρ (relational confusion between internal fantasy and external reality)"
+    - "∂Φ/∂λ (direction of belief formation toward validation-seeking)"
+    - "∂Φ/∂β (feedback loop where narrative reinforcement strengthens false memory)"
+    - "∂Φ/∂δγ (metabolic cost of absorption and dissociation in memory construction)"
+    - "∂Φ/∂μ (boundary permeability between memory and imagination)"
+  Z_state: "sealed (false memory becomes indistinguishable from genuine experience)"
+  tendency: "Fantasy/Reality → 0.7 (strong drift toward narrative construction over accurate recall)"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+  epistemics:
+    dsrp:
+      D: "Genuine memory vs confabulated experience; real event vs imagined narrative"
+      S: "Memory formation ecology — sleep, trauma, absorption, cultural scripts, therapeutic suggestion"
+      R: "Memory ⇄ imagination; experience ⇄ narrative; source ⇄ content; belief ⇄ reinforcement"
+      P: "Memory researcher, forensic psychologist, trauma therapist, eyewitness testimony expert"
+    learning: L1
+  agency:
+    type: ego
+    power_mode: Against
+  time:
+    mode: layered
+    phase: "retrospective — false memories crystallize during recall and reinterpretation, not encoding"
+  qualia:
+    affect:
+      - convinced
+      - vivid
+      - vulnerable
+      - confused
+    aesthetic:
+      - dreamlike
+      - hyper-real
+      - seamless
+    symbolic:
+      - palimpsest
+      - funhouse mirror
+      - phantom limb of experience
+    energetic:
+      - absorptive
+      - confabulating
+      - sealed
+  coherence:
+    state: coherent
+    loop: single
+    transcontext: low
+elemental_emphasis:
+  ∴: "How is genuine memory distinguished from confabulated experience? What cut separates remembered from imagined?"
+  ≈: "What flows between experience and the narrative constructed around it? Is this resonance or source monitoring error?"
+  ▲: "Where does the false memory want to go? Does it serve truth or emotional need?"
+  𐂷: "What forms of memory haven't been normalized? What if the frame of 'recovered memory' itself enables fabrication?"
+  ☷: "What's the metabolic cost of maintaining false beliefs? What sustains the absorption that fuels confabulation?"
+  ⛨: "What structures enable or prevent false memory formation? What boundaries would restore source monitoring?"
+context_note: >-
+  False Memory Formation describes how vivid but inaccurate memories emerge through
+  psychological mechanisms including source monitoring errors, dissociation, absorption, and
+  cultural narrative influence. The brain constructs coherent narratives from fragmented
+  inputs — when emotional needs align with cultural availability, false memories can become
+  subjectively indistinguishable from genuine experience. Key contributing factors include
+  sleep paralysis hallucinations, dissociative experiences, magical ideation, and therapeutic
+  suggestion. The recovered memory therapy scandals of the 1990s demonstrated how therapeutic
+  frameworks can generate elaborate false memories.
 source: Consolidated from 1 insight(s)
+source_file: "Psychology+Behind+Alien+Abduction+Beliefs.md"
 
 # --- Causal Emergence (v1.3) ---
 coords_ce:
   ei_state: med
   ce_direction: flat
-  scale_note: "No clear scale dominance identified"
+  scale_note: "Operates at individual memory level; cultural scripts provide context but causal power is distributed"
   determinism: med
   degeneracy: med
   sufficiency: med

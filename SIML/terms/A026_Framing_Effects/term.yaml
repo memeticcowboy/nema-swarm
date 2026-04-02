@@ -1,15 +1,89 @@
 term_id: A026
 hex_tag: '#A026'
-name: Framing Effects
-element: ''
-description: ''
+name: Framing_Effects
+term: Framing Effects
+nemetic: >-
+  Φ(Framing) = σ(gain|loss) ∘ ρ(presentation|perception) ∘ λ(emotion|decision)
+  ∘ β(equivalence|blindness) ∘ δγ(cognitive|ease) ∘ μ(alternative|suppressed) + ε | :reframing
+siml_encoding: >-
+  ⟨Information|equivalent⟩ ⊳ ⟨Presentation|varied⟩ → ⟨Decision|different⟩
+  ⊗ ⟨Emotion|evoked⟩ ⇄ ⟨Choice|biased⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (distinction between gain-framed and loss-framed presentations)"
+    - "∂Φ/∂ρ (relational dynamics between presentation format and emotional response)"
+    - "∂Φ/∂λ (direction of decision toward emotionally salient framing)"
+    - "∂Φ/∂β (feedback loop where equivalent information is treated as different)"
+    - "∂Φ/∂δγ (metabolic ease of processing one formulation over another)"
+    - "∂Φ/∂μ (boundary suppression of alternative framings)"
+  Z_state: "sealing (one framing becomes invisible as constructed, treated as natural)"
+  tendency: "Loss/Gain → 0.7 (strong loss aversion bias in framing)"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+  epistemics:
+    dsrp:
+      D: "Gain-framed vs loss-framed presentations; equivalent information, divergent responses"
+      S: "Decision-making ecology — medical, financial, policy, marketing, AI interaction"
+      R: "Presentation ⇄ perception; frame ⇄ emotion; visible formulation ⇄ suppressed alternative"
+      P: "Behavioral economist, policy designer, medical communicator, AI prompt engineer"
+    learning: L1
+  agency:
+    type: ego
+    power_mode: Over
+  time:
+    mode: event
+    phase: "decision-point — framing effect activates at moment of choice"
+  qualia:
+    affect:
+      - manipulated
+      - biased
+      - unaware
+    aesthetic:
+      - asymmetric
+      - one-sided
+    symbolic:
+      - window frame
+      - lens filter
+      - one-way mirror
+    energetic:
+      - channeled
+      - constrained
+  coherence:
+    state: dissonant
+    loop: single
+    transcontext: med
+elemental_emphasis:
+  ∴: "How is gain-framed information distinguished from loss-framed? What cut separates survival rates from mortality rates?"
+  ≈: "What flows between the presentation and the emotional response? Is this genuine preference or manipulated feeling?"
+  ▲: "Where does the framing want to direct the decision? Does it serve clarity or manipulation?"
+  𐂷: "What forms of presentation haven't been tried? What if the frame itself determines the answer?"
+  ☷: "What's the metabolic cost of resisting intuitive framing? What sustains the cognitive effort to see equivalence?"
+  ⛨: "What structures enable framing effects? What boundaries would reveal equivalent formulations?"
+context_note: >-
+  Framing Effects describe how the presentation of equivalent information influences decisions
+  and emotions. Kahneman's research shows that "90% survival rate" and "10% mortality rate"
+  produce different responses despite mathematical equivalence. System 1 processes only the
+  visible formulation, creating associative coherence that suppresses awareness of alternatives.
+  In AI contexts, framing determines how users interpret model outputs, policy implications,
+  and risk assessments.
 source: Consolidated from 2 insight(s)
+source_file: "Understanding+Cognitive+Biases%3A+The+Impact+of+%27What+You+See+Is+All+There+Is%27.md"
 
 # --- Causal Emergence (v1.3) ---
 coords_ce:
   ei_state: high
   ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
+  scale_note: "Framing operates at individual decision level but aggregates to population-level bias patterns; no clear scale dominance"
   determinism: high
   degeneracy: low
   sufficiency: high

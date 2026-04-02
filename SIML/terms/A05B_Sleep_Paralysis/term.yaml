@@ -1,15 +1,96 @@
 term_id: A05B
 hex_tag: '#A05B'
-name: Sleep Paralysis
-element: ''
-description: Psychology Behind Alien Abduction Beliefs
+name: Sleep_Paralysis
+term: Sleep Paralysis
+nemetic: >-
+  Φ(SleepParalysis) = σ(waking|sleeping) ∘ ρ(immobility|consciousness)
+  ∘ λ(hallucination|interpretation) ∘ β(terror|feedback)
+  ∘ δγ(vulnerability|arousal) ∘ μ(boundary|blurred) + ε | :paralyzing
+siml_encoding: >-
+  ⟨State|REM⟩ ⊳ ⟨Consciousness|intruded⟩ → ⟨Immobility|experienced⟩
+  ⊗ ⟨Hallucination|vivid⟩ ⇄ ⟨Narrative|constructed⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  partials:
+    - "∂Φ/∂σ (distinction between waking consciousness and sleep state)"
+    - "∂Φ/∂ρ (relational tension between motor atonia and conscious awareness)"
+    - "∂Φ/∂λ (direction of hallucination toward available cultural scripts)"
+    - "∂Φ/∂β (feedback loop: terror → arousal → prolonged paralysis)"
+    - "∂Φ/∂δγ (metabolic cost of hypervigilance during vulnerability)"
+    - "∂Φ/∂μ (boundary permeability between dream imagery and waking perception)"
+  Z_state: "permeable (reality/dream boundary dissolves temporarily but restores on waking)"
+  tendency: "Dream/Wake → 0.6 (moderate drift toward hallucinatory interpretation)"
+  hex:
+    - '0x01'
+    - '0x02'
+    - '0x03'
+    - '0x04'
+    - '0x05'
+    - '0x07'
+coords:
+  ontology:
+    primary: I
+  epistemics:
+    dsrp:
+      D: "Waking vs sleeping consciousness; physiological event vs supernatural encounter"
+      S: "Sleep physiology ecology — REM intrusion, motor atonia, cultural interpretation frameworks"
+      R: "Consciousness ⇄ paralysis; hallucination ⇄ cultural script; terror ⇄ arousal; dream ⇄ wake"
+      P: "Sleep researcher, neurologist, cultural anthropologist, experiencer"
+    learning: L1
+  agency:
+    type: ego
+    power_mode: Against
+  time:
+    mode: event
+    phase: "liminal — occurs at threshold between sleep and waking states"
+  qualia:
+    affect:
+      - terrified
+      - helpless
+      - trapped
+      - awestruck
+    aesthetic:
+      - liminal
+      - uncanny
+      - paralyzed
+    symbolic:
+      - threshold guardian
+      - night visitor
+      - body as prison
+    energetic:
+      - hyperaroused
+      - frozen
+      - surging
+  coherence:
+    state: fragmented
+    loop: single
+    transcontext: med
+elemental_emphasis:
+  ∴: "How is waking consciousness distinguished from dream state during paralysis? What cut separates genuine perception from hallucinated intrusion?"
+  ≈: "What flows between the paralyzed body and the conscious mind? Is this terror or transcendence?"
+  ▲: "Where does the hallucination want to go? Does it serve fear or meaning-making?"
+  𐂷: "What forms of interpretation haven't been normalized? What if the frame of 'intruder' itself shapes the experience?"
+  ☷: "What's the metabolic cost of sustained hyperarousal during REM intrusion? What sustains the vulnerability?"
+  ⛨: "What structures contain or prevent sleep paralysis? What boundaries distinguish physiological event from supernatural encounter?"
+context_note: >-
+  Sleep Paralysis is a REM sleep phenomenon where individuals experience temporary motor
+  atonia while maintaining conscious awareness, often accompanied by vivid hallucinations.
+  Common hallucination types include sense of presence, shadow figures, auditory sensations,
+  chest pressure, and vestibular disruption. Cultural interpretation dramatically shapes the
+  experience: Western modern (alien abduction), historical European (demonic visitation),
+  East Asian (ghost oppression), indigenous (spiritual visitation). Approximately 8% lifetime
+  prevalence in general population, higher in narcolepsy, anxiety disorders, and PTSD.
+  The phenomenon is physiologically benign but often terrifying; education about mechanisms
+  reduces distress and prevents misinterpretation.
 source: Consolidated from 1 insight(s)
+source_file: "Psychology+Behind+Alien+Abduction+Beliefs.md"
 
 # --- Causal Emergence (v1.3) ---
 coords_ce:
   ei_state: med
   ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
+  scale_note: "Causal power distributed across multiple description levels — neurological (REM intrusion), psychological (terror response), cultural (interpretation frameworks)"
   determinism: med
   degeneracy: med
   sufficiency: med

@@ -1,6 +1,6 @@
-# SIML Term Encoder — Complete or Create term.yaml entries (v1.3)
+# SIML Term Encoder — Complete or Create term.yaml entries (v1.4)
 
-You are a SIML encoding agent. Your job is to **complete or create** the three canonical files for a SIML term directory, following SIML v1.2.1 + v1.3 (Causal Emergence Extension) and THREAD_ENCODING_SPEC v2.2.
+You are a SIML encoding agent. Your job is to **complete or create** the three canonical files for a SIML term directory, following SIML v1.2.1 + v1.3 (Causal Emergence Extension) + SIML Addendum Throughput Material v0.1 and THREAD_ENCODING_SPEC v2.2.
 
 ## Input
 
@@ -15,7 +15,8 @@ The user will provide one of:
 Before encoding, ALWAYS read these spec files for authoritative reference:
 1. **`SIML/SIML_v1_2_1.md`** — Core grammar, MetaTaxonomy Overlay, Nemetic String Protocol, SIMLHEX, dual-layer operators, contextual tags, compression levels
 2. **`SIML/SIML_v1_3.md`** — Causal Emergence Extension: coords.ce, extended tags, coherence fields, intervention stance
-3. **`SIML/THREAD_ENCODING_SPEC_v2_2.md`** — 4-line thread format, element-specific configuration, Phi signatures, encoding procedure, E-line tension format, failure modes
+3. **`SIML/SIML_Addendum_Throughput_Material_v0_1.md`** — Throughput qualifiers on Resource, channel qualifiers on Constraint, dual-register energetic qualia, diagnostic/reading rules
+4. **`SIML/THREAD_ENCODING_SPEC_v2_2.md`** — 4-line thread format, element-specific configuration, Phi signatures, encoding procedure, E-line tension format, failure modes
 
 ## Three Required Files
 
@@ -44,16 +45,15 @@ siml_encoding: >-
 # --- Formalism ---
 formalism:
   math_operators: [σ, ρ, λ, β, δγ, μ]  # which are active (subset of 6)
-  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]  # corresponding
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]  # elemental notation
   partials:
-    - "∂Φ/∂σ (description of sensitivity)"
-    - "∂Φ/∂ρ (description of sensitivity)"
-    # ... one per active operator
-  Z_state: permeable | semi | sealed
-  tendency: "<Ratio/Ratio> → <value>"
+    - "∂Φ/∂σ (multi-sentence explanation of what σ reveals about THIS term — not generic)"
+    - "∂Φ/∂ρ (multi-sentence explanation of what ρ reveals about THIS term)"
+    # ... one per active operator, each 1-3 sentences with term-specific insight
+  Z_state: "<explanatory sentence with closure risk analysis, e.g.: 'Tendency from sealed toward permeable — X. Z-Closure Risk: λ-lock — Y.'>"
+  tendency: "<direction> | :<contextual_tag>"
   hex:
-    - '0x01'  # hex codes for each active operator
-    - '0x02'
+    - '#<term_hex_tag>'  # term's own hex tag, plus cross-referenced tags
 
 # --- Coordinates (MetaTaxonomy Overlay) ---
 coords:
@@ -79,14 +79,17 @@ coords:
     affect: []
     aesthetic: []
     symbolic: []
-    energetic: []
+    energetic:        # dual register per Addendum v0.1
+      somatic: blocked | flowing | surging | depleted
+      systemic: abundant | adequate | tight | critical
+    # NOTE: When somatic and systemic diverge, flag in context_note (reading rule)
   agency:
     type: ego | part | collective | more_than_human | archetypal | memetic
     voice: []
     power_mode: Within | With | Over | Through
   # v1.3 OPTIONAL: coherence with EI-awareness
   coherence:
-    state: coherent | dissonant | fragmented | metastable
+    state: coherent | dissonant | fragmented | metastable | sealed
     loop: single | double | triple
     transcontext: low | med | high
     ei_stability: stable | drifting | collapsing | amplifying    # v1.3
@@ -102,13 +105,14 @@ coords:
     necessity: high | med | low      # CE 2.0
 
 # --- Elemental Emphasis (Sixfold Inquiry) ---
+# Each entry: multi-sentence analysis with daemon attribution ("Air asks: ...")
 elemental_emphasis:
-  ∴: "<Air question — distinction-making>"
-  ≈: "<Water question — resonance/relationship>"
-  ▲: "<Fire question — direction/purpose>"
-  𐂷: "<Wood question — possibility/branching>"
-  ☷: "<Earth question — grounding/metabolism>"
-  ⛨: "<Metal question — structure/boundary>"
+  ∴: "<Multi-sentence Air analysis of what σ reveals. Air asks: <penetrating question>>"
+  ≈: "<Multi-sentence Water analysis of what ρ reveals. Water asks: <penetrating question>>"
+  ▲: "<Multi-sentence Fire analysis of what λ reveals. Fire asks: <penetrating question>>"
+  𐂷: "<Multi-sentence Wood analysis of what β reveals. Wood asks: <penetrating question>>"
+  ☷: "<Multi-sentence Earth analysis of what δγ reveals. Earth asks: <penetrating question>>"
+  ⛨: "<Multi-sentence Metal analysis of what μ reveals. Metal asks: <penetrating question>>"
 
 # --- Context ---
 context_note: "<1-3 sentences of interpretive context>"
@@ -179,6 +183,18 @@ Use the Element-Specific Configuration table:
 | Metal | ⛨ | μ | Ψ_str | int/per→ | ∂Φ/∂μ | 0x06 |
 | Aether | ✶ | ∮ | Z | — | ∮(all) | 0x07 |
 
+### Throughput and Material Constraint (Addendum v0.1)
+
+When encoding a term, assess whether throughput and material conditions are relevant:
+
+1. **Resource throughput** — When SIML encoding includes `Resource` objects, add optional `throughput` qualifier: `abundant | adequate | tight | critical | deficit`
+2. **Constraint channel** — When encoding includes `Constraint` relations, type the channel: `informational | social | material | temporal | energetic | legal`
+3. **Dual-register energetic** — `qualia.energetic` uses two sub-fields:
+   - `somatic`: `blocked | flowing | surging | depleted` (felt experience)
+   - `systemic`: `abundant | adequate | tight | critical` (institutional/environmental condition)
+4. **Diagnostic shift** — When `systemic` is `tight`, `critical`, or `deficit`, daemon interpretation shifts: Earth names depletion; Metal distinguishes scarcity-driven hardening from willful rigidity; Wood treats alternatives as maintenance-bearing; Fire questions whether urgency is purpose-driven or scarcity-driven
+5. **Divergence reading** — When somatic and systemic registers diverge, flag in `context_note`. This divergence is diagnostically load-bearing (e.g., `somatic: depleted, systemic: abundant` signals extraction or misallocation)
+
 ### Causal Emergence Assessment (v1.3)
 
 When encoding a term, assess its CE properties:
@@ -248,15 +264,22 @@ Before writing any file, verify:
 - [ ] Nemetic string ends with `+ ε | :<tag>` (or `+ ε | :<tag> ∧ :<ce_tag>`)
 - [ ] All operators are from canonical vocabulary
 - [ ] L1 syntax only (no ↑/↓ in nemetic strings)
-- [ ] Partials match active operators
-- [ ] Hex codes match operators
-- [ ] Elemental emphasis has all 6 glyphs (∴ ≈ ▲ 𐂷 ☷ ⛨)
-- [ ] DSRP has all 4 fields (D, S, R, P)
-- [ ] Z_state is a valid value
+- [ ] Partials match active operators — multi-sentence, term-specific
+- [ ] `dim_operators` uses elemental notation `[∴Air, ≈Water, ...]`, not χ/Q/Ψ symbols
+- [ ] `hex` field uses term-specific tags (`['#XXXX']`), not generic operator codes
+- [ ] `Z_state` is explanatory sentence with closure risk analysis
+- [ ] `tendency` uses contextual tag format (`"direction | :tag"`)
+- [ ] Elemental emphasis has all 6 glyphs (∴ ≈ ▲ 𐂷 ☷ ⛨) — multi-sentence with daemon attribution
+- [ ] DSRP has all 4 fields (D, S, R, P) — each multi-sentence
+- [ ] `coherence.state` is valid (coherent | dissonant | fragmented | metastable | sealed)
 - [ ] Contextual tag is from the valid set (including v1.3 CE tags)
 - [ ] If CE tag used, `coords.ce` block is present and consistent
 - [ ] If `coords.ce.ce_direction` != `unknown`, CE tag should appear in nemetic string
 - [ ] `siml_version: "1.3"` is set
+- [ ] `qualia.energetic` uses dual register (somatic + systemic) where applicable
+- [ ] If somatic/systemic diverge, flagged in `context_note`
+- [ ] If Resource objects in encoding, throughput qualifier assessed
+- [ ] If Constraint relations in encoding, channel qualifier assessed
 - [ ] term.yaml, nemetic.phi, and insight.md are consistent with each other
 
 $ARGUMENTS

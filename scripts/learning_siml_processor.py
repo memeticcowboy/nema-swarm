@@ -168,156 +168,141 @@ def extract_concepts_from_file(filepath):
         title = re.sub(r'%[0-9A-Fa-f]{2}', ' ', title)
         title = title.replace('+', ' ')
     
-    # Extract key concepts (first paragraph after title)
+    # Extract key concepts (first substantial paragraph after title)
     paragraphs = content.split('\n\n')
     description = ""
     for p in paragraphs:
         p = p.strip()
         if p and not p.startswith('#') and len(p) > 50:
-            description = p[:200]  # First 200 chars
+            description = p[:500]  # First 500 chars for richer context
             break
     
-    # Determine elemental emphasis based on content keywords
-    elemental = {
-        'air': 0.60,
-        'water': 0.60,
-        'fire': 0.60,
-        'wood': 0.60,
-        'earth': 0.60,
-        'metal': 0.60,
-        'meta': 0.70
-    }
-    
-    # Adjust based on content
-    content_lower = content.lower()
-    
-    if any(w in content_lower for w in ['thinking', 'cognitive', 'mental', 'mind']):
-        elemental['air'] = 0.75
-    if any(w in content_lower for w in ['learning', 'adaptation', 'growth', 'change']):
-        elemental['wood'] = 0.75
-    if any(w in content_lower for w in ['metacognition', 'reflection', 'awareness', 'self']):
-        elemental['meta'] = 0.85
-    if any(w in content_lower for w in ['memory', 'retention', 'practice', 'repetition']):
-        elemental['earth'] = 0.75
-    if any(w in content_lower for w in ['connection', 'relation', 'social', 'collaborative']):
-        elemental['water'] = 0.75
-    
+    # Extract key headings/concepts for later encoding
+    headings = re.findall(r'^#{1,3}\s+(.+)$', content, re.MULTILINE)
+    key_terms = headings[:10] if headings else []
+
     return {
         'title': title,
         'description': description,
-        'elemental': elemental,
-        'content': content[:1000]  # First 1000 chars for processing
+        'key_terms': key_terms,
+        'content': content[:2000]  # First 2000 chars for richer source material
     }
 
 def create_siml_entry(hex_tag, term_name, concepts, source_file):
-    """Create SIML entry files"""
-    
+    """Create SIML entry files (v2 — proper YAML stubs with status tracking)"""
+
     # Create directory
     dir_name = f"{hex_tag}_{term_name}"
     term_path = Path(SIML_TERMS_DIR) / dir_name
     term_path.mkdir(parents=True, exist_ok=True)
-    
+
     today = datetime.now().strftime("%Y-%m-%d")
-    
-    # term.yaml
-    yaml_content = f"""---
-term_id: {hex_tag}
-hex_tag: {hex_tag}
-canonical_name: {term_name.replace('_', ' ')}
-category: learning_metacognition
-description: {concepts['description'][:100]}
-created_date: {today}
-status: candidate
-source_file: {source_file}
+    human_name = term_name.replace('_', ' ')
 
-elemental_mapping:
-  air: {concepts['elemental']['air']:.2f}
-  water: {concepts['elemental']['water']:.2f}
-  fire: {concepts['elemental']['fire']:.2f}
-  wood: {concepts['elemental']['wood']:.2f}
-  earth: {concepts['elemental']['earth']:.2f}
-  metal: {concepts['elemental']['metal']:.2f}
-  meta: {concepts['elemental']['meta']:.2f}
+    # term.yaml — proper YAML structure matching SIML v1.3 + Addendum v0.1
+    term_data = {
+        'term_id': hex_tag,
+        'hex_tag': f'#{hex_tag}',
+        'name': term_name,
+        'term': human_name,
+        'status': 'stub_requires_encoding',
+        'description': concepts['description'][:500],
+        'source': source_file,
+        'date_processed': today,
+        'processed_by': 'learning_siml_processor/v2',
+        'siml_version': '1.3',
+    }
+
+    with open(term_path / "term.yaml", 'w', encoding='utf-8') as f:
+        yaml.dump(term_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+
+    # nemetic.phi — stub with term-specific name, not generic operators
+    phi_content = f"""# NEMETIC STRING
+# {human_name} ({hex_tag})
+# Generated: {datetime.now().strftime("%Y-%m-%d %H:%M")}
+# SIML: v1.3
+# STATUS: stub_requires_encoding — run /encode-term {hex_tag} to complete
+
+\u03a6({term_name}) = \u03c3(...) \u2218 \u03c1(...) \u2218 \u03bb(...) \u2218 \u03b2(...) \u2218 \u03b4\u03b3(...) \u2218 \u03bc(...) + \u03b5 | :open
+
+# OPERATOR BREAKDOWN
+# Primary: (requires encoding)
+# Secondary: (requires encoding)
+
+# Z-STATE: (requires assessment)
+# TENDENCY: (requires assessment)
+
+# CE-STATE: unknown
+# EI-NOTE: (requires assessment)
+"""
+
+    (term_path / "nemetic.phi").write_text(phi_content, encoding='utf-8')
+
+    # insight.md — structured stub with all required sections marked for completion
+    insight_content = f"""---
+insight_id: INSIGHT_{datetime.now().strftime("%Y%m%d_%H%M")}_{term_name}_{hex_tag}
+term: "{human_name}"
+hex_tag: "#{hex_tag}"
+generated_at: "{datetime.now().isoformat()}"
+source: "{source_file}"
+status: stub_requires_encoding
+siml_version: "1.3"
 ---
 
-# {hex_tag} — {term_name.replace('_', ' ')}
+# SIML Insight: {human_name}
 
-## {concepts['description'][:150]}
+## Core Definition
 
-*(Extracted from Learning & Metacognition source)*
-
-## Source Content
-
-```
-{concepts['content'][:500]}
-```
-
----
-
-ε preserved.
-"""
-    
-    (term_path / "term.yaml").write_text(yaml_content)
-    
-    # nemetic.phi
-    phi_content = f"""Φ({term_name}) = σ(learning_distinction) ∘ ρ(knowledge_relation) ∘ λ(cognitive_direction) ∘ β(growth_branching) ∘ δγ(metabolic_integration) ∘ μ(structure_boundary) + ε(uncertainty) | :learning_metacognition
-
-σ(learning_distinction): The cut that distinguishes learning from non-learning
-ρ(knowledge_relation): How knowledge connects and flows
-λ(cognitive_direction): Aim of learning process
-β(growth_branching): Multiple paths of development
-δγ(metabolic_integration): Cycling of learning through practice
-μ(structure_boundary): Containment of learning framework
-ε(uncertainty): The productive ambiguity in learning
-
-:state = learning_metacognition
-
-# Dialectical Pairs
-- learning|knowing: Process vs. state
-- growth|structure: Adaptation vs. stability
-- individual|social: Solo vs. collaborative learning
-- theory|practice: Abstract vs. embodied knowledge
-"""
-    
-    (term_path / "nemetic.phi").write_text(phi_content)
-    
-    # insight.md
-    insight_content = f"""# {hex_tag} — {term_name.replace('_', ' ')}
-
-**Elemental Insight: Meta/Learning**
-
-## The Question
-
-What does this learning/metacognition concept reveal about knowledge formation?
-
-## Source Analysis
-
-*(To be developed from source content)*
-
-## Elemental Emphasis
-
-**Meta** — Learning about learning. The recursive nature of metacognition.
-
-**Wood** — Growth and adaptation through learning cycles.
-
-## Cross-Elemental Resonance
-
-- **With L-series (Learning Theories)**: Connect to established learning frameworks
-- **With M004 (Metabolism)**: Learning as metabolic cycling of knowledge
-
-## NEMETIC STRING
-
-`Φ({term_name}) = ...`
+{concepts['description']}
 
 ---
 
-*Learning in progress.*
+## SIML Encoding
 
-ε preserved.
+*(Requires /encode-term completion)*
+
+---
+
+## Elemental Emphasis Analysis
+
+### \u2234 Air \u2014 The Distinction-Maker
+*(To be completed)*
+
+### \u2248 Water \u2014 The Resonance-Keeper
+*(To be completed)*
+
+### \u25b2 Fire \u2014 The Direction-Holder
+*(To be completed)*
+
+### \U000100b7 Wood \u2014 The Possibility-Brancher
+*(To be completed)*
+
+### \u2637 Earth \u2014 The Grounding-Force
+*(To be completed)*
+
+### \u26e8 Metal \u2014 The Structure-Guardian
+*(To be completed)*
+
+---
+
+## Causal Emergence Assessment (v1.3)
+
+*(Requires assessment)*
+
+---
+
+## Source Material
+
+{concepts['content'][:1000]}
+
+---
+
+*Generated by learning_siml_processor v2 | SIML v1.3*
+*Status: stub_requires_encoding*
 """
-    
-    (term_path / "insight.md").write_text(insight_content)
-    
+
+    (term_path / "insight.md").write_text(insight_content, encoding='utf-8')
+
     return term_path
 
 def process_next_file():
@@ -397,7 +382,8 @@ def process_next_file():
         'hex_tag': hex_tag,
         'term_name': term_name,
         'processed_at': datetime.now().isoformat(),
-        'siml_path': str(term_path)
+        'siml_path': str(term_path),
+        'status': 'stub_requires_encoding'
     }
     
     if 'processed' not in manifest:

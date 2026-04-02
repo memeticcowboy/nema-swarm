@@ -1,8 +1,81 @@
 term_id: A058
 hex_tag: '#A058'
-name: Regenerative_Farming_Psychology
-element: ''
-description: ''
+name: regenerative_farming_psychology
+term: Regenerative Farming Psychology
+nemetic: >-
+  Φ(RegenFarming) = σ(extraction|relationship)
+                 ∘ ρ(farmer|land)
+                 ∘ λ(short-term|long-term)
+                 ∘ β(identity|resistance)
+                 ∘ δγ(transition|cost)
+                 ∘ μ(industrial|regenerative)
+                 + ε | :transforming
+siml_encoding: >-
+  ⟨Identity|industrial⟩
+      ⊳ ⟨Transition|psychological⟩
+      → ⟨Stewardship|possible⟩
+      ⊗ ⟨Resistance|structural⟩
+      ⇄ ⟨Soil|living-system⟩
+formalism:
+  math_operators: [σ, ρ, λ, β, δγ, μ]
+  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  partials:
+    - "∂Φ/∂σ (distinction between farming as extraction and farming as relationship — not merely technical but ontological; to adopt regenerative practice is to change what a farm *is*, requiring unlearning of a fundamental worldview)"
+    - "∂Φ/∂ρ (relation between farmer and land shifting from dominion to reciprocity — industrial farming imposes will through chemical inputs, regenerative farming requires conversational listening to soil biology and ecosystem signals)"
+    - "∂Φ/∂λ (directional tension between short-term survival and long-term thriving — a farmer cannot sacrifice this year's yield for next decade's soil health if this year's failure means losing the farm; the tragedy is these directions appear opposed)"
+    - "∂Φ/∂β (identity entrenchment as feedback resistance — farmers defend a self-concept built around yield maximization; the status quo bias, loss aversion, and social proof together create a loop that resists transformation even when the current path degrades soil)"
+    - "∂Φ/∂δγ (metabolic cost of transformation — learning curves, transition yield reductions, social judgment from peers, identity uncertainty; these costs are real and fall on individuals embedded in systems that make industrial practice structurally rational)"
+    - "∂Φ/∂μ (boundary between industrial and regenerative paradigms as identity boundary — what prevents crossing is not information deficit but structural lock-in: credit systems, commodity markets, subsidies, and social expectations reinforce the existing boundary)"
+  Z_state: "Tendency from sealed toward permeable — industrial identity opens under sustained soil degradation pressure, peer example, and bridge practices. Z-Closure Risk: λ-lock if 'yield' remains narrowly defined as bushels/acre, preventing the directional shift toward soil-carbon and ecosystem metrics."
+  tendency: "sealed → permeable | :transforming"
+  hex: ['#A058']
+coords:
+  ontology:
+    primary: We
+    secondary: I
+  epistemics:
+    dsrp:
+      D: "The paradigm distinction is between land-as-resource (substrate for extraction) and land-as-partner (living system requiring reciprocal relationship) — a cut that is not technical but ontological"
+      S: "Industrial agricultural practice presents as a single coherent system (yield, inputs, debt, crop insurance) that makes its own continuation rational even when degrading; regenerative practice requires assembling an alternative system with different metrics"
+      R: "The farmer-land relation in regenerative practice becomes conversational — cover crops speak soil needs, mycorrhizal networks signal plant health — rather than the asymmetric relation of human intelligence directing inert matter"
+      P: "The perspective shift required is from producer-of-commodities to steward-of-living-systems — an identity transformation that the broader agricultural system (markets, credit, social proof) does not currently support"
+    learning: L2
+  agency:
+    type: collective
+    power_mode: With
+  time:
+    mode: process
+    phase: "Stage 1: Industrial Identity (sealed, yield-metric) → Stage 2: Pressure (soil degradation, climate instability) → Stage 3: Bridge Experiments (small trials, peer observation) → Stage 4: Identity Transition (permeable boundary) → Stage 5: Stewardship Integration (new metric system)"
+  qualia:
+    affect: [pride, fear, anxiety, trust, uncertainty, competence-threat]
+    aesthetic: [controlled, mastered, seasonal, reciprocal, conversational, living]
+    symbolic: [Farmer-as-Producer (identity under threat), Soil-as-Substrate (worldview to be unlearned), Initiation (transition as rite of passage)]
+    energetic: [identity-defending, structurally-locked, transition-costly, peer-witnessed, δγ-transformation]
+  coherence:
+    state: transitional
+    loop: double
+    transcontext: med
+elemental_emphasis:
+  ∴: "The cut is not between farming methods but between worldviews — one sees land as resource to extract from, the other as partner to co-create with. Air asks: What must be unlearned before regenerative practice becomes conceivable, not merely adoptable?"
+  ≈: "Industrial farming flows dominion; regenerative farming flows reciprocity — and for a farmer whose identity rests on mastery, trusting soil biology over chemical engineering feels like surrender, not partnership. Water asks: What would it mean to listen to the land rather than direct it?"
+  ▲: "The short-term/long-term directional tension is the structural tragedy — bridge practices are needed not because farmers lack vision but because the farm must survive this year to practice regeneration next decade. Fire asks: What makes the long-term direction accessible from the short-term position?"
+  𐂷: "The 'yield' frame itself obscures regenerative possibilities — what if we measured soil carbon, water infiltration, pollinator diversity, farmer wellbeing? Wood asks: What forms of farming become imaginable when we question what success means in agriculture?"
+  ☷: "The resistance to transition is not stupidity or greed but structural lock-in — credit, markets, subsidies, social expectations make industrial practice rational even when undesirable. Earth asks: What support structures would make the metabolic cost of transformation bearable?"
+  ⛨: "Enabling structures (peer networks, cost-share programs, long-term leases) and preventing structures (conventional crop insurance, short rental terms, commodity markets) determine whether regenerative practice is the path of least resistance or of most resistance. Metal asks: What institutional redesign would make stewardship the default?"
+context_note: >-
+  Regenerative farming psychology maps the territory between a technical transition
+  and an ontological transformation — the shift from extractive agriculture to
+  regenerative stewardship requires not just learning new methods but unlearning
+  a fundamental worldview in which land is substrate rather than partner. The
+  insight reveals that resistance to transition is structurally produced, not
+  individually chosen: farmers are embedded in credit systems, commodity markets,
+  crop insurance frameworks, and social expectations that make industrial practice
+  economically rational even as soil degrades beneath them. The psychological
+  barriers (status quo bias, loss aversion, identity entrenchment, temporal
+  discounting) are real but secondary to the structural conditions that activate
+  them. Transformation becomes possible through bridge practices — small
+  experiments, peer witnessing, financial safety nets — that make the long-term
+  direction accessible from the short-term survival position.
 source: Consolidated from 1 insight(s)
 
 # --- Causal Emergence (v1.3) ---
