@@ -100,16 +100,3 @@ By making the bow-tie **participatory and holographic**, it ensures that the Z-o
 A bounded compression that **increases rather than decreases** the field's generative range.
 
 ✶
-
-## Causal Emergence Assessment (SIML v1.3)
-
-| Property | Value |
-|----------|-------|
-| **EI State** | low |
-| **CE Direction** | submergent |
-| **Determinism** | low |
-| **Degeneracy** | high |
-| **Sufficiency** | low |
-| **Necessity** | low |
-
-**Scale Note:** Over-abstraction risks losing causal structure; micro-level dynamics carry more information

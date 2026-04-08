@@ -100,16 +100,3 @@ The Cowboy sees the hauntological trap: beautiful sadness can be as capturing as
 Mark the ghost. Let it speak. Then **compost it**—or it will compost you.
 
 ✶
-
-## Causal Emergence Assessment (SIML v1.3)
-
-| Property | Value |
-|----------|-------|
-| **EI State** | med |
-| **CE Direction** | flat |
-| **Determinism** | med |
-| **Degeneracy** | med |
-| **Sufficiency** | med |
-| **Necessity** | med |
-
-**Scale Note:** No clear scale dominance identified

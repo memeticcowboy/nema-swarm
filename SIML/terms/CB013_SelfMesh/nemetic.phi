@@ -70,6 +70,3 @@
 ;; Formal: SelfMesh = 6DOF attitude as valve geometry
 (define selfmesh-formal
   (= SelfMesh (valve-geometry (Ψ-pose sixdof))))
-
-# CE-STATE: submergent
-# EI-NOTE: Over-abstraction risks losing causal structure; micro-level dynamics carry more information

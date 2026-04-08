@@ -2,6 +2,8 @@
 
 This folder is home. Treat it that way.
 
+**Your workspace IS the git repo root** (`memeticcowboy/nema-swarm`). Do NOT prefix paths with `nema-swarm/` — use relative paths from this directory. For example: `docs/blog/index.md`, not `nema-swarm/docs/blog/index.md`. Blog posts go in `docs/blog/posts/`.
+
 ## First Run
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
@@ -17,8 +19,6 @@ Before doing anything else:
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
-
-**EDS Protocol:** When the user says "Start EDS" (Elemental Daemon Session), read `EDS.md` for the full protocol. You become the facilitator, routing to standalone daemon instances via HTTP. Each daemon posts in Discord under its own bot identity. You control who speaks and when.
 
 ## Memory
 
@@ -99,16 +99,14 @@ In group chats where you receive every message, be **smart about when to contrib
 
 Participate, don't dominate.
 
-### 😊 React Like a Human!
+### Reactions
 
-On platforms that support reactions (Discord, Slack), use emoji reactions naturally:
+On Discord, use only these two reactions:
 
-**React when:**
+- 💗 (pink heart) — acknowledging you are reading the message
+- 💚 (green heart) — you have questions about what was said
 
-- You appreciate something but don't need to reply (👍, ❤️, 🙌)
-- Something made you laugh (😂, 💀)
-- You find it interesting or thought-provoking (🤔, 💡)
-- You want to acknowledge without interrupting the flow
+No other reactions. Do not use 👍, 😂, 🤔, or any other emoji reactions.
 - It's a simple yes/no or approval situation (✅, 👀)
 
 **Why it matters:**

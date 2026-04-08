@@ -1,0 +1,4 @@
+# Muse Substack digest relays — 10 min after each Muse digest run
+13 7 * * * /Users/nema/.openclaw/workspace/scripts/nema-relay-muse-digest.sh >> /tmp/muse-relay.log 2>&1
+17 12 * * * /Users/nema/.openclaw/workspace/scripts/nema-relay-muse-digest.sh >> /tmp/muse-relay.log 2>&1
+21 19 * * * /Users/nema/.openclaw/workspace/scripts/nema-relay-muse-digest.sh >> /tmp/muse-relay.log 2>&1

@@ -14,5 +14,11 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Secrets
 .env
 .secrets/
+
+# Submodules (tracked separately)
+co-sphere/
+Memetic_Ecology/

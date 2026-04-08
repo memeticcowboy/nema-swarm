@@ -1,59 +1,114 @@
 #!/bin/bash
-# nema-relay-muse-digest.sh — Relay Muse Substack digest results to Telegram
+# nema-relay-muse-digest.sh — Relay Muse Substack digest results to Telegram for approval
 # Runs 10 min after each Muse digest: 7:13 AM, 12:17 PM, 7:21 PM
+#
+# Workflow:
+# 1. Reads Google Sheet for pending comments
+# 2. Formats as numbered list
+# 3. Sends Telegram for approval
+# 4. User replies: "post all", "post 1 and 3", "skip 2", "edit 1: new text"
+# 5. Updates sheet accordingly
+# 6. Runs npm run muse-post-approved for approved items
 
 set -euo pipefail
 
 TODAY=$(date +%Y-%m-%d)
+NOW=$(date +%H:%M)
 MUSE_DIR="/Users/nema/Projects/openclaw/daemons/muse"
 CO_SPHERE="/Users/nema/Projects/openclaw/workspace"
 SIGNALS_DIR="$CO_SPHERE/RELATIONSHIPS/signals"
 LOG_DIR="$CO_SPHERE/SHELL_DAEMONS/Muse/x-activity"
-SHEET_URL="https://docs.google.com/spreadsheets/d/1vPVrfFAaaTzNjiS6yrNcuuJi3Fb0avx3vnTT2V03bVk/edit"
+SHEET_ID="1vPVrfFAaaTzNjiS6yrNcuuJi3Fb0avx3vnTT2V03bVk"
+SHEET_URL="https://docs.google.com/spreadsheets/d/$SHEET_ID/edit"
+NEMA_TOKEN=$(cat /Users/nema/Projects/openclaw/daemons/nema-telegram/.auth-token 2>/dev/null || echo "")
+NEMA_SEND_URL="http://127.0.0.1:8814/send"
 
-# Read Muse digest log
-DIGEST_LOG="$LOG_DIR/$TODAY.md"
-ROWS_ADDED=0
-if [ -f "$DIGEST_LOG" ]; then
-  ROWS_ADDED=$(grep -E "Rows added to sheet" "$DIGEST_LOG" | tail -1 | grep -oE '[0-9]+' | tail -1 || echo "0")
+echo "[$NOW] Starting Muse digest relay..." >> /tmp/muse-relay.log
+
+# ── Fetch pending items from Google Sheet ──
+PENDING=$(gws sheets spreadsheets values get \
+  --params "{\"spreadsheetId\":\"$SHEET_ID\",\"range\":\"A:H\"}" \
+  --format json 2>/dev/null | python3 -c "
+import json, sys
+data = json.load(sys.stdin)
+rows = data.get('values', [])
+pending = []
+for i, row in enumerate(rows[1:], start=2):  # Skip header, 1-indexed
+    if len(row) >= 7:
+        status = row[6].lower().strip() if len(row) > 6 else ''
+        if status == 'pending':
+            creator = row[1] if len(row) > 1 else 'unknown'
+            type_ = row[2] if len(row) > 2 else 'post'
+            title = row[3] if len(row) > 3 else 'untitled'
+            url = row[4] if len(row) > 4 else ''
+            comment = row[5] if len(row) > 5 else ''
+            pending.append({
+                'row': i,
+                'creator': creator,
+                'type': type_,
+                'title': title,
+                'url': url,
+                'comment': comment[:200]  # Truncate for display
+            })
+
+# Output as JSON array
+import json
+print(json.dumps(pending))
+" 2>/dev/null)
+
+if [ -z "$PENDING" ] || [ "$PENDING" = "[]" ]; then
+  # No pending items — send simple summary
+  MSG="muse reviewed substack. no pending items need approval.
+∮ sheet: $SHEET_URL"
+  
+  curl -s -X POST "$NEMA_SEND_URL" \
+    -H "Content-Type: application/json" \
+    -H "Authorization: Bearer $NEMA_TOKEN" \
+    -d "{\"text\": \"$MSG\"}" 2>/dev/null
+  
+  echo "[$NOW] No pending items" >> /tmp/muse-relay.log
+  exit 0
 fi
 
-# Check for fport DMs
-FPORT_FLAG=""
-if grep -qi "fport.*dm\|fport.*needs-reply" "$DIGEST_LOG" 2>/dev/null; then
-  FPORT_FLAG="🚩 fport has unread DMs"
-fi
+# ── Build numbered list message ──
+MSG="muse found $(echo "$PENDING" | python3 -c "import json,sys; print(len(json.load(sys.stdin)))") items for approval:
 
-# Check Co-Sphere signals
-SIGNAL_FILE="$SIGNALS_DIR/$TODAY.md"
-NOTABLE=""
-NEW_FOLLOWERS=0
-if [ -f "$SIGNAL_FILE" ]; then
-  NEW_FOLLOWERS=$(grep -c "Substack follower" "$SIGNAL_FILE" 2>/dev/null || echo "0")
-  if [ "$NEW_FOLLOWERS" -gt 0 ]; then
-    NOTABLE="+$NEW_FOLLOWERS followers"
-  fi
-fi
+"
 
-# Build Telegram message (3-5 lines, Nema voice)
-MSG="muse added $ROWS_ADDED items to the engagement queue."
-if [ -n "$NOTABLE" ]; then
-  MSG="$MSG $NOTABLE"
-fi
-if [ -n "$FPORT_FLAG" ]; then
-  MSG="$MSG
-$fport_flag"
-fi
+# Parse and format
+COUNT=0
+while IFS= read -r item; do
+  COUNT=$((COUNT + 1))
+  CREATOR=$(echo "$item" | python3 -c "import json,sys; print(json.load(sys.stdin)['creator'])")
+  TITLE=$(echo "$item" | python3 -c "import json,sys; print(json.load(sys.stdin)['title'])")
+  COMMENT=$(echo "$item" | python3 -c "import json,sys; print(json.load(sys.stdin)['comment'])")
+  URL=$(echo "$item" | python3 -c "import json,sys; print(json.load(sys.stdin)['url'])")
+  
+  MSG="${MSG}$COUNT. **$CREATOR**: $TITLE
+${COMMENT:0:120}...
+"
+done <<< "$(echo "$PENDING" | python3 -c "
+import json, sys
+items = json.load(sys.stdin)
+for item in items:
+    print(json.dumps(item))
+")"
+
 MSG="$MSG
+reply with:
+• \"post all\"
+• \"post 1, 3, 5\" (specific numbers)
+• \"skip 2\" (skip specific)
+• \"edit 1: new text here\" (edit then post)
 ∮ sheet: $SHEET_URL"
 
-# Send via OpenClaw gateway
-curl -s -X POST http://127.0.0.1:18789/invoke \
+# ── Send to Telegram via nema-telegram ──
+curl -s -X POST "$NEMA_SEND_URL" \
   -H "Content-Type: application/json" \
-  -d "{
-    \"target\": \"telegram:1773592492\",
-    \"message\": \"$MSG\",
-    \"source\": \"muse-digest-relay\"
-  }" 2>/dev/null || echo "Failed: $(date)" >> /tmp/muse-relay-errors.log
+  -H "Authorization: Bearer $NEMA_TOKEN" \
+  -d "{\"text\": $(echo "$MSG" | python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))")}" \
+  2>/dev/null || echo "[$NOW] Failed to send" >> /tmp/muse-relay-errors.log
 
-echo "Relayed at $(date '+%H:%M')" >> /tmp/muse-relay.log
+# ── Save pending data for later processing ──
+echo "$PENDING" > /tmp/muse-pending-$TODAY-$NOW.json
+echo "[$NOW] Sent $COUNT items for approval" >> /tmp/muse-relay.log

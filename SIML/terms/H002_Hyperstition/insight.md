@@ -91,16 +91,3 @@ The dangerous relationship? **Hyperstition without hypersigil awareness**—cult
 *The story that knows it's a story is the only kind that won't eat you alive.*
 
 ✶
-
-## Causal Emergence Assessment (SIML v1.3)
-
-| Property | Value |
-|----------|-------|
-| **EI State** | high |
-| **CE Direction** | emergent |
-| **Determinism** | high |
-| **Degeneracy** | low |
-| **Sufficiency** | high |
-| **Necessity** | med |
-
-**Scale Note:** Complex system macro-dynamics carry causal information not present at component level

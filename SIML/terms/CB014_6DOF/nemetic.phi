@@ -91,6 +91,3 @@
 ;; Formal: 6DOF = elemental physics as control surfaces
 (define 6dof-formal
   (= 6DOF (map elemental->control '(X Y Z Yaw Pitch Roll))))
-
-# CE-STATE: submergent
-# EI-NOTE: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
