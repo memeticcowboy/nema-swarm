@@ -78,9 +78,7 @@ Dynamic relations — Flow, Resonance, Conflict, and Recursion — can be furthe
   
 SIML doesn’t just map static structures. It also tracks what people are *doing* with those structures. There are two coordinated verb sets, corresponding to two different modes of engagement.  
   
-### NEMA — The Sensemaking Loop  
-  
-NEMA is for exploration, understanding, and creative generation. Its verbs are:  
+### The Sensemaking Loop: for exploration, understanding, and creative generation. Its verbs are:  
   
 **Observe** — notice what’s happening without yet interpreting it.  
 **Explore** — investigate, branch out, follow threads.  
@@ -91,9 +89,7 @@ NEMA is for exploration, understanding, and creative generation. Its verbs are:
   
 NEMA is used when the situation is open-ended, when you’re trying to understand rather than decide, when creativity and divergent thinking serve better than convergent judgment.  
   
-### NEME — The Governance Loop  
-  
-NEME is for evaluation, commitment, and enforcement. Its verbs are:  
+### The Governance Loop: for evaluation, commitment, and enforcement. Its verbs are:  
   
 **Evaluate** — assess against criteria.  
 **Decide** — choose a course of action.  
@@ -102,9 +98,9 @@ NEME is for evaluation, commitment, and enforcement. Its verbs are:
 **Enforce** — maintain the commitment.  
 **Review** — check whether the commitment is still valid.  
   
-NEME is used when the situation requires judgment, when resources must be allocated, when promises must be kept or revised, when accountability matters.  
+Governance is used when the situation requires judgment, when resources must be allocated, when promises must be kept or revised, when accountability matters.  
   
-The two loops share a common entry point: noticing. From there, the situation determines whether exploration (NEMA) or evaluation (NEME) is the appropriate next move. They can alternate, and in healthy systems they do.  
+The two loops share a common entry point: noticing. From there, the situation determines whether exploration or evaluation is the appropriate next move. They can alternate, and in healthy systems they do.  
   
 -----  
   
