@@ -329,7 +329,7 @@ Several principles govern how SIML is used in practice:
   
 **Reflexivity.** SIML can model itself. Its own documents, practices, and community dynamics can be analyzed using SIML grammar. This is not a luxury feature — it’s a survival mechanism against the system becoming the thing it diagnoses.  
   
-**Dual-track.** Every situation can be approached through NEMA (sensemaking) or NEME (governance). Knowing which track you’re on — and when to switch — is a core competency.  
+**Dual-track.** Every situation can be approached through sensemaking or governance. Knowing which track you’re on — and when to switch — is a core competency.  
   
 **Diagnostic, not normative.** SIML describes curvature. It does not prescribe direction. It can tell you what’s happening and how the pieces connect, but it does not tell you what should happen. That’s a human judgment, and SIML deliberately refuses to automate it.  
   
