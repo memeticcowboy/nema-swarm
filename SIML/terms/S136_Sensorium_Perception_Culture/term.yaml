@@ -1,32 +1,151 @@
 ---
-term: "Sensorium Perception Culture"
-hex_tag: "S136"
-series: "S"
-source_file: "1771907213411_2374032_Understanding+the+Sensorium%3A+Perception+and+Culture.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The sensorium as total sensory apparatus and interpretive capacity, from 17th-century anatomical brain concept to holistic sensory environment. McLuhan's theory that media alter sensory ratios, and the recognition that cultural framing shapes perception — different cultures prioritize different senses, producing unique sensoria studied through sensory ecology and anthropology."
-nemetic: "Φ(Sensorium Perception Culture) = σ(raw_sensation|culturally_framed_perception) ∘ ρ(individual_sensorium|collective_sensory_culture) ∘ λ(habitual_perception|media_altered_ratio) ∘ β(monosensory_focus|multisensory_integration) ∘ δγ(biological_apparatus|cultural_sensorium) ∘ μ(fluid_sensation|sensory_hierarchy) + ε | :culturally_patterned_perception"
-siml_encoding: "⟨sensation_perception_distinction, sensory_discernment⟩ ⊳ ⟨individual_collective_sensorium_relating, cultural_sensory_web⟩ → ⟨habitual_altered_catalysis, media_transformation⟩ ⊗ ⟨mono_multi_sensory_growth, integration_expansion⟩ ⇄ ⟨biological_cultural_cycling, sensorium_rhythm⟩"
+term: Sensorium Perception Culture
+hex_tag: S136
+series: S
+source_file: 1771907213411_2374032_Understanding+the+Sensorium%3A+Perception+and+Culture.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The sensorium as total sensory apparatus and interpretive capacity, from 17th-century anatomical brain concept to holistic sensory environment. McLuhan's theory that media alter sensory ratios, and the recognition that cultural framing shapes perception — different cultures prioritize different senses, producing unique sensoria studied through sensory ecology and anthropology.
+nemetic: Φ(Sensorium Perception Culture) = σ(raw_sensation|culturally_framed_perception) ∘ ρ(individual_sensorium|collective_sensory_culture) ∘ λ(habitual_perception|media_altered_ratio) ∘ β(monosensory_focus|multisensory_integration) ∘ δγ(biological_apparatus|cultural_sensorium) ∘ μ(fluid_sensation|sensory_hierarchy) + ε | :culturally_patterned_perception
+siml_encoding: ⟨sensation_perception_distinction, sensory_discernment⟩ ⊳ ⟨individual_collective_sensorium_relating, cultural_sensory_web⟩ → ⟨habitual_altered_catalysis, media_transformation⟩ ⊗ ⟨mono_multi_sensory_growth, integration_expansion⟩ ⇄ ⟨biological_cultural_cycling, sensorium_rhythm⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: raw_sensation / culturally_framed_perception
+      S: monosensory_focus / multisensory_integration
+      R: individual_sensorium / collective_sensory_culture
+      P: habitual_perception / media_altered_ratio
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing raw sensation from culturally framed perception — the discernment between neurological sensory input and the interpretive overlay that culture, language, and media impose on what is perceived)"
-    - "∂Φ/∂ρ (relating individual sensorium to collective sensory culture — the relational web between personal perceptual experience and the shared sensory priorities, hierarchies, and practices of a cultural group)"
-    - "∂Φ/∂λ (transforming habitual perception through media-altered sensory ratios — McLuhan's catalytic insight that new media technologies restructure the balance between senses, shifting entire cultures from auditory to visual dominance or vice versa)"
-    - "∂Φ/∂β (growth from monosensory focus to multisensory integration — the developmental expansion from privileging a single sense to recognizing and cultivating the full sensory ecology, as sensory anthropology reveals in cross-cultural comparison)"
-    - "∂Φ/∂δγ (cycling between biological apparatus and cultural sensorium — the grounding oscillation between the body's neurological sensory equipment and the cultural frameworks that shape which senses are amplified, suppressed, or trained)"
-    - "∂Φ/∂μ (structural hierarchy of sensory organization — the framework mapping how fluid sensation is organized into sensory hierarchies by cultural convention, media ecology, and institutional practice)"
-  Z_state: "culturally_patterned_perception — the sensorium reveals that perception is never raw but always culturally patterned; media alter sensory ratios, cultures prioritize different senses, and altered sensorium conditions affect cognition; the study of sensoria through sensory ecology and anthropology illuminates how deeply culture shapes the most basic acts of perceiving"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing raw sensation from culturally framed perception — the discernment between neurological sensory input and the interpretive overlay that culture, language, and media impose on what is perceived)
+  - ∂Φ/∂ρ (relating individual sensorium to collective sensory culture — the relational web between personal perceptual experience and the shared sensory priorities, hierarchies, and practices of a cultural group)
+  - ∂Φ/∂λ (transforming habitual perception through media-altered sensory ratios — McLuhan's catalytic insight that new media technologies restructure the balance between senses, shifting entire cultures from auditory to visual dominance or vice versa)
+  - ∂Φ/∂β (growth from monosensory focus to multisensory integration — the developmental expansion from privileging a single sense to recognizing and cultivating the full sensory ecology, as sensory anthropology reveals in cross-cultural comparison)
+  - ∂Φ/∂δγ (cycling between biological apparatus and cultural sensorium — the grounding oscillation between the body's neurological sensory equipment and the cultural frameworks that shape which senses are amplified, suppressed, or trained)
+  - ∂Φ/∂μ (structural hierarchy of sensory organization — the framework mapping how fluid sensation is organized into sensory hierarchies by cultural convention, media ecology, and institutional practice)
+  Z_state: semi
+  z_note: culturally_patterned_perception — the sensorium reveals that perception is never raw but always culturally patterned; media alter sensory ratios, cultures prioritize different senses, and altered sensorium conditions affect cognition; the study of sensoria through sensory ecology and anthropology illuminates how deeply culture shapes the most basic acts of perceiving
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["sensation_perception_discernment", "sensory_framing_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["individual_collective_sensorium_flow", "cultural_sensory_relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["media_sensory_ratio_catalysis", "perceptual_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["mono_to_multi_sensory_growth", "sensory_ecology_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["biological_cultural_sensorium_ground", "body_culture_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["sensory_hierarchy_structure", "perceptual_organization_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - sensation_perception_discernment
+    - sensory_framing_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - individual_collective_sensorium_flow
+    - cultural_sensory_relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - media_sensory_ratio_catalysis
+    - perceptual_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - mono_to_multi_sensory_growth
+    - sensory_ecology_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - biological_cultural_sensorium_ground
+    - body_culture_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - sensory_hierarchy_structure
+    - perceptual_organization_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213411_2374032_Understanding+the+Sensorium%3A+Perception+and+Culture.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

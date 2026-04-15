@@ -118,13 +118,13 @@ The element notices the invisibility of the status quo—how "the way things are
 ```
 The element engages the emotional substrate: What feels safe about the familiar? What feels threatening about change? The engagement reveals that resistance often masks fear.
 
-### M — MUSE
+### M — METABOLIZE
 ```
 #A053|λ?|stability_purpose::evolution_necessity
 ```
 The element holds open the question: Does the current direction serve the system's purpose, or has the path become the destination? What if preservation is actually preventing necessary evolution?
 
-### A — ACTIVATE
+### A — ACT
 ```
 #A053|∮|status_quo_visible→experimentation_enabled
 ```

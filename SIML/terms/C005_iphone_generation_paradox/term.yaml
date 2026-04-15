@@ -1,101 +1,171 @@
-term_id: "C005"
-hex_tag: "#C005"
-source_term: "iPhone Generation Paradox"
-source_file: "1771907212411_264711_The+iPhone+Generation+Paradox.md"
-category: "critical_thinking"
-description: "The paradoxical effect of smartphone technology on cognitive development, where constant connectivity and information access simultaneously enable and erode critical thinking capacities through cognitive overload, attention fragmentation, and surface-level engagement."
-
-nemetic: "Φ(iPhoneGen) = σ(connect|isolate) ∘ ρ(access|overload) ∘ λ(swipe|depth) ∘ β(notification|focus) ∘ δγ(dopamine|discipline) ∘ μ(screen|presence) + ε | :scattered"
-
-siml_encoding: "⟨Technology|ubiquitous⟩ ⊳ ⟨Attention|fragmented⟩ → ⟨Cognition|shallow⟩ ⊗ ⟨Access|unlimited⟩ ⇄ ⟨Understanding|diminished⟩"
-
+---
+term_id: C005
+hex_tag: '#C005'
+source_term: iPhone Generation Paradox
+source_file: 1771907212411_264711_The+iPhone+Generation+Paradox.md
+category: critical_thinking
+description: The paradoxical effect of smartphone technology on cognitive development, where constant connectivity and information access simultaneously enable and erode critical thinking capacities through cognitive overload, attention fragmentation, and surface-level engagement.
+nemetic: Φ(iPhoneGen) = σ(connect|isolate) ∘ ρ(access|overload) ∘ λ(swipe|depth) ∘ β(notification|focus) ∘ δγ(dopamine|discipline) ∘ μ(screen|presence) + ε | :scattered
+siml_encoding: ⟨Technology|ubiquitous⟩ ⊳ ⟨Attention|fragmented⟩ → ⟨Cognition|shallow⟩ ⊗ ⟨Access|unlimited⟩ ⇄ ⟨Understanding|diminished⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between genuine connection and isolation through hyperconnectivity)"
-    - "∂Φ/∂ρ (relational tension between unlimited information access and cognitive overload)"
-    - "∂Φ/∂λ (directional pull toward instant gratification versus deep engagement)"
-    - "∂Φ/∂β (feedback loop between notification-driven dopamine hits and sustained attention)"
-    - "∂Φ/∂δγ (metabolic cycle of addictive tech use versus disciplined cognitive habits)"
-    - "∂Φ/∂μ (boundary permeability between digital screen life and embodied presence)"
-  Z_state: "fragmented (attention scattered across multiple streams, never fully present)"
-  tendency: "Instant/Deep → 0.3 (strong preference for quick consumption over deep analysis)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between genuine connection and isolation through hyperconnectivity)
+  - ∂Φ/∂ρ (relational tension between unlimited information access and cognitive overload)
+  - ∂Φ/∂λ (directional pull toward instant gratification versus deep engagement)
+  - ∂Φ/∂β (feedback loop between notification-driven dopamine hits and sustained attention)
+  - ∂Φ/∂δγ (metabolic cycle of addictive tech use versus disciplined cognitive habits)
+  - ∂Φ/∂μ (boundary permeability between digital screen life and embodied presence)
+  Z_state: permeable
+  z_note: fragmented (attention scattered across multiple streams, never fully present)
+  tendency: Instant/Deep → 0.3 (strong preference for quick consumption over deep analysis)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: individual
+    type: ego
     power_mode: Within
-
+  epistemics:
+    dsrp:
+      D: connect / isolate
+      S: notification / focus
+      R: access / overload
+      P: swipe / depth
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: single
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_mapping:
   air_sigma:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "categorical distinction between signal and noise"
-      - "information filtering and classification"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between signal and noise
+    - information filtering and classification
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "flow of attention across digital streams"
-      - "emotional engagement with instant gratification"
-    daemon_correspondence: "Sentaria"
+    - flow of attention across digital streams
+    - emotional engagement with instant gratification
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.40
+    emphasis: 0.4
     aspects:
-      - "diminished drive for deep inquiry"
-      - "scattered directionality toward multiple stimuli"
-    daemon_correspondence: "Jvalion"
+    - diminished drive for deep inquiry
+    - scattered directionality toward multiple stimuli
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.35
     aspects:
-      - "habit formation through repetitive swiping"
-      - "dopamine-driven feedback loops"
-    daemon_correspondence: "Arboriel"
+    - habit formation through repetitive swiping
+    - dopamine-driven feedback loops
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.50
+    emphasis: 0.5
     aspects:
-      - "grounding in physical presence versus digital immersion"
-      - "cyclical struggle between discipline and addiction"
-    daemon_correspondence: "Humavita"
+    - grounding in physical presence versus digital immersion
+    - cyclical struggle between discipline and addiction
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural boundaries of screen time and notifications"
-      - "algorithmic containment of attention"
-    daemon_correspondence: "Ferrosid"
-
+    - structural boundaries of screen time and notifications
+    - algorithmic containment of attention
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How is meaningful information distinguished from noise? What cuts separate valuable content from cognitive clutter?"
-  ≈: "What flows between attention and distraction? How does emotional engagement shape information consumption?"
-  ▲: "Where does attention want to go? Does technology serve inquiry or interrupt it?"
-  𐂷: "What forms of deep engagement haven't been tried? What alternatives to swipe-based interaction exist?"
-  ☷: "What's the metabolic cost of constant connectivity? What sustains the capacity for focused attention?"
-  ⛨: "What structures contain or fragment attention? What boundaries would enable deep thinking?"
-
+  ∴: How is meaningful information distinguished from noise? What cuts separate valuable content from cognitive clutter?
+  ≈: What flows between attention and distraction? How does emotional engagement shape information consumption?
+  ▲: Where does attention want to go? Does technology serve inquiry or interrupt it?
+  𐂷: What forms of deep engagement haven't been tried? What alternatives to swipe-based interaction exist?
+  ☷: What's the metabolic cost of constant connectivity? What sustains the capacity for focused attention?
+  ⛨: What structures contain or fragment attention? What boundaries would enable deep thinking?
 related_terms:
-  - "Fragmented Media Consumption"
-  - "Cognitive Overload"
-  - "Digital Literacy"
-  - "Attention Economy"
-  - "Deep Work"
+- Fragmented Media Consumption
+- Cognitive Overload
+- Digital Literacy
+- Attention Economy
+- Deep Work
+context_note: 'The iPhone Generation Paradox captures the contradictory nature of modern technology''s impact on cognition. While smartphones provide unprecedented access to information and connectivity, they simultaneously undermine the cognitive capacities required to process that information critically. Key mechanisms include: attention fragmentation through notifications, surface-level engagement encouraged by infinite scroll interfaces, dopamine-driven addiction loops, algorithmic echo chambers that reinforce confirmation bias, and the displacement of face-to-face interaction with digital communication. The paradox is that tools designed to enhance human capability may be diminishing our most distinctly human capacities for deep reflection, sustained attention, and critical analysis.'
+timestamp: '2026-03-01T05:53:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - metal_mu
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.85
+    fire_lambda: 0.4
+    wood_beta: 0.35
+    earth_delta_gamma: 0.5
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212411_264711_The+iPhone+Generation+Paradox.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - name_from_dirname
+  audit: SIML_STANDARDIZATION_2026-04-15
+name: iphone_generation_paradox
 
-context_note: "The iPhone Generation Paradox captures the contradictory nature of modern technology's impact on cognition. While smartphones provide unprecedented access to information and connectivity, they simultaneously undermine the cognitive capacities required to process that information critically. Key mechanisms include: attention fragmentation through notifications, surface-level engagement encouraged by infinite scroll interfaces, dopamine-driven addiction loops, algorithmic echo chambers that reinforce confirmation bias, and the displacement of face-to-face interaction with digital communication. The paradox is that tools designed to enhance human capability may be diminishing our most distinctly human capacities for deep reflection, sustained attention, and critical analysis."
-
-timestamp: "2026-03-01T05:53:00+08:00"
-version: "1.0"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+---

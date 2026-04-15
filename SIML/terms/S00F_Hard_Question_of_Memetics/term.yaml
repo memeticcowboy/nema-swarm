@@ -1,64 +1,153 @@
 ---
-term: "The Hard Question of Memetics"
-hex_tag: "S00F"
-series: "S"
-source_file: "1771907212394_257622_The+Hard+Question+of+Memetics%3A+A+Critical+Analysis.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Andrej Drapal's defense of memetics as science, addressing the 'hard question' of how memes differ from ideas, myths, and PR. Resolution through consilience (bridging natural and social sciences), evolutionary necessity (memes motivated by evolutionary forces), and bridging Platonic/Cartesian dualism through quantum-like acceptance of unity within duality."
-nemetic: "Φ(HardMemetics) = σ(meme|idea) ∘ ρ(natural|social) ∘ λ(dualism|unity) ∘ β(evolution|culture) ∘ δγ(selection|transmission) ∘ μ(quantify|qualify) + ε | :bridging"
-siml_encoding: "⟨Meme|distinct⟩ ⊳ ⟨Consilience|bridging⟩ → ⟨Evolution|motivated⟩ ⊗ ⟨Dualism|transcended⟩ ⇄ ⟨Unity|accepted⟩"
+term: The Hard Question of Memetics
+hex_tag: S00F
+series: S
+source_file: 1771907212394_257622_The+Hard+Question+of+Memetics%3A+A+Critical+Analysis.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Andrej Drapal's defense of memetics as science, addressing the 'hard question' of how memes differ from ideas, myths, and PR. Resolution through consilience (bridging natural and social sciences), evolutionary necessity (memes motivated by evolutionary forces), and bridging Platonic/Cartesian dualism through quantum-like acceptance of unity within duality.
+nemetic: Φ(HardMemetics) = σ(meme|idea) ∘ ρ(natural|social) ∘ λ(dualism|unity) ∘ β(evolution|culture) ∘ δγ(selection|transmission) ∘ μ(quantify|qualify) + ε | :bridging
+siml_encoding: ⟨Meme|distinct⟩ ⊳ ⟨Consilience|bridging⟩ → ⟨Evolution|motivated⟩ ⊗ ⟨Dualism|transcended⟩ ⇄ ⟨Unity|accepted⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: meme / idea
+      S: evolution / culture
+      R: natural / social
+      P: dualism / unity
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between memes and other cultural units such as ideas, myths, and PR)"
-    - "∂Φ/∂ρ (relational consilience bridging natural sciences and social sciences)"
-    - "∂Φ/∂λ (transformative bridging of Platonic/Cartesian dualism through quantum-like unity)"
-    - "∂Φ/∂β (evolutionary growth of culture through memetic replication and variation)"
-    - "∂Φ/∂δγ (grounding in natural selection pressures driving memetic transmission)"
-    - "∂Φ/∂μ (structural precision in quantifying vs. qualifying memetic phenomena)"
-  Z_state: "bridging (dualism resolved into unity through evolutionary consilience)"
-  tendency: "Consilience/Integration → 0.80"
+  - ∂Φ/∂σ (distinction between memes and other cultural units such as ideas, myths, and PR)
+  - ∂Φ/∂ρ (relational consilience bridging natural sciences and social sciences)
+  - ∂Φ/∂λ (transformative bridging of Platonic/Cartesian dualism through quantum-like unity)
+  - ∂Φ/∂β (evolutionary growth of culture through memetic replication and variation)
+  - ∂Φ/∂δγ (grounding in natural selection pressures driving memetic transmission)
+  - ∂Φ/∂μ (structural precision in quantifying vs. qualifying memetic phenomena)
+  Z_state: semi
+  z_note: bridging (dualism resolved into unity through evolutionary consilience)
+  tendency: Consilience/Integration → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Critical distinction between memes and other cultural units (ideas, myths, PR)"
-      - "Analytical separation of memetics from competing frameworks"
-    daemon_correspondence: "Aerunik"
+    - Critical distinction between memes and other cultural units (ideas, myths, PR)
+    - Analytical separation of memetics from competing frameworks
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.65
     aspects:
-      - "Consilience as relational bridge across natural and social sciences"
-      - "Flow between disciplinary boundaries enabling unified understanding"
-    daemon_correspondence: "Sentaria"
+    - Consilience as relational bridge across natural and social sciences
+    - Flow between disciplinary boundaries enabling unified understanding
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Transformative bridging of Platonic/Cartesian dualism"
-      - "Quantum-like acceptance of unity within duality as paradigm shift"
-    daemon_correspondence: "Jvalion"
+    - Transformative bridging of Platonic/Cartesian dualism
+    - Quantum-like acceptance of unity within duality as paradigm shift
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Evolutionary growth of culture through memetic forces"
-      - "Developmental trajectory from gene-meme coevolution"
-    daemon_correspondence: "Arboriel"
+    - Evolutionary growth of culture through memetic forces
+    - Developmental trajectory from gene-meme coevolution
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.65
     aspects:
-      - "Grounding in natural selection as the mechanism driving memetic transmission"
-      - "Biological substrate of evolutionary necessity"
-    daemon_correspondence: "Humavita"
+    - Grounding in natural selection as the mechanism driving memetic transmission
+    - Biological substrate of evolutionary necessity
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Structural precision in defining memetics as rigorous science"
-      - "Quantification vs. qualification of memetic phenomena"
-    daemon_correspondence: "Ferrosid"
+    - Structural precision in defining memetics as rigorous science
+    - Quantification vs. qualification of memetic phenomena
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "C052_heuristics_and_biases"
-  - "A007_Information_Bateson"
+- C052_heuristics_and_biases
+- A007_Information_Bateson
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.65
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.65
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212394_257622_The+Hard+Question+of+Memetics%3A+A+Critical+Analysis.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

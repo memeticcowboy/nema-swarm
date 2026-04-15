@@ -1,50 +1,156 @@
 ---
-term: "Psilocybin Brain Connectivity"
-hex_tag: "S12D"
-series: "S"
-source_file: "1771907213390_2359563_Exploring+Psilocybin%27s+Impact+on+Brain+Connectivity.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Study using homological scaffolds and persistent homology to analyze mesoscopic brain functional networks under psilocybin. Psilocybin induces less stable but more diverse topological brain states compared to placebo. Reveals new dimensions of brain functional connectivity patterns through mathematical topology applied to understanding psychedelic-altered consciousness."
-nemetic: "Φ(Psilocybin Brain Connectivity) = σ(topology|pattern) ∘ ρ(dissolution|expansion) ∘ λ(psychedelic|disruption) ∘ β(connectivity|diversity) ∘ δγ(neural|network) ∘ μ(homology|scaffold) + ε | :entropic_expansion"
-siml_encoding: "⟨placebo baseline⟩ ⊳ ⟨psilocybin perturbation⟩ → ⟨topological diversification⟩ ⊗ ⟨stability dissolution⟩ ⇄ ⟨emergent connectivity⟩"
+term: Psilocybin Brain Connectivity
+hex_tag: S12D
+series: S
+source_file: 1771907213390_2359563_Exploring+Psilocybin%27s+Impact+on+Brain+Connectivity.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Study using homological scaffolds and persistent homology to analyze mesoscopic brain functional networks under psilocybin. Psilocybin induces less stable but more diverse topological brain states compared to placebo. Reveals new dimensions of brain functional connectivity patterns through mathematical topology applied to understanding psychedelic-altered consciousness.
+nemetic: Φ(Psilocybin Brain Connectivity) = σ(topology|pattern) ∘ ρ(dissolution|expansion) ∘ λ(psychedelic|disruption) ∘ β(connectivity|diversity) ∘ δγ(neural|network) ∘ μ(homology|scaffold) + ε | :entropic_expansion
+siml_encoding: ⟨placebo baseline⟩ ⊳ ⟨psilocybin perturbation⟩ → ⟨topological diversification⟩ ⊗ ⟨stability dissolution⟩ ⇄ ⟨emergent connectivity⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: topology / pattern
+      S: connectivity / diversity
+      R: dissolution / expansion
+      P: psychedelic / disruption
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (topological patterns signal novel configurations of brain network connectivity)"
-    - "∂Φ/∂ρ (ego dissolution and perceptual expansion flow through altered states)"
-    - "∂Φ/∂λ (psychedelic disruption catalyzes departure from default connectivity)"
-    - "∂Φ/∂β (connectivity diversity grows as new inter-network bridges form)"
-    - "∂Φ/∂δγ (neural network architecture provides biological ground for topological analysis)"
-    - "∂Φ/∂μ (homological scaffolds and persistent homology provide mathematical structure)"
-  Z_state: "entropic_expansion"
-  tendency: "μ → 0.84"
+  - ∂Φ/∂σ (topological patterns signal novel configurations of brain network connectivity)
+  - ∂Φ/∂ρ (ego dissolution and perceptual expansion flow through altered states)
+  - ∂Φ/∂λ (psychedelic disruption catalyzes departure from default connectivity)
+  - ∂Φ/∂β (connectivity diversity grows as new inter-network bridges form)
+  - ∂Φ/∂δγ (neural network architecture provides biological ground for topological analysis)
+  - ∂Φ/∂μ (homological scaffolds and persistent homology provide mathematical structure)
+  Z_state: semi
+  tendency: μ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.70
-    aspects: ["topological pattern recognition", "connectivity mapping", "network signaling"]
-    daemon_correspondence: "Aerunik"
+    emphasis: 0.7
+    aspects:
+    - topological pattern recognition
+    - connectivity mapping
+    - network signaling
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.72
-    aspects: ["ego dissolution", "perceptual fluidity", "experiential expansion"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - ego dissolution
+    - perceptual fluidity
+    - experiential expansion
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.76
-    aspects: ["psychedelic disruption", "default mode dissolution", "catalytic perturbation"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - psychedelic disruption
+    - default mode dissolution
+    - catalytic perturbation
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.69
-    aspects: ["connectivity diversification", "network bridging", "emergent pathways"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - connectivity diversification
+    - network bridging
+    - emergent pathways
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.73
-    aspects: ["neural substrate", "mesoscopic architecture", "functional network ground"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - neural substrate
+    - mesoscopic architecture
+    - functional network ground
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.84
-    aspects: ["homological scaffolds", "persistent homology", "mathematical formalism"]
-    daemon_correspondence: "Ferrosid"
+    aspects:
+    - homological scaffolds
+    - persistent homology
+    - mathematical formalism
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - fire_lambda
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.72
+    fire_lambda: 0.76
+    wood_beta: 0.69
+    earth_delta_gamma: 0.73
+    metal_mu: 0.84
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213390_2359563_Exploring+Psilocybin%27s+Impact+on+Brain+Connectivity.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Universal Behaviorism"
-hex_tag: "S069"
-series: "S"
-source_file: "1771907212717_1035309_Critiquing+Physicalism%3A+Embracing+Universal+Behaviorism.md"
-encoded_at: "2026-03-05T23:30:00Z"
-description: "Critique of reductive physicalism as inadequate for understanding complex behaviors. Advocates universal behaviorism: observing and analyzing behavior across various complexity levels for comprehensive scientific understanding. All phenomena are best understood through a behavioral lens rather than reduction to physics."
-nemetic: "Φ(Universal Behaviorism) = σ(reductive_physicalism|behavioral_holism) ∘ ρ(isolated_particle|system_interaction) ∘ λ(reduction_to_physics|behavioral_emergence) ∘ β(mechanistic_view|complexity_awareness) ∘ δγ(observation|behavioral_analysis_cycling) ∘ μ(physicalist_methodology|behavioral_methodology) + ε | :behavioral_comprehension"
-siml_encoding: "⟨physicalism_behaviorism_distinction, reductive_holistic_mapping⟩ ⊳ ⟨isolated_systemic_relation, interaction_dynamics⟩ → ⟨reduction_to_emergence_transformation, behavioral_lens_application⟩ ⊗ ⟨mechanistic_to_complexity_growth, multilevel_awareness⟩ ⇄ ⟨observation_analysis_cycling, iterative_behavioral_study⟩"
+term: Universal Behaviorism
+hex_tag: S069
+series: S
+source_file: 1771907212717_1035309_Critiquing+Physicalism%3A+Embracing+Universal+Behaviorism.md
+encoded_at: '2026-03-05T23:30:00Z'
+description: 'Critique of reductive physicalism as inadequate for understanding complex behaviors. Advocates universal behaviorism: observing and analyzing behavior across various complexity levels for comprehensive scientific understanding. All phenomena are best understood through a behavioral lens rather than reduction to physics.'
+nemetic: Φ(Universal Behaviorism) = σ(reductive_physicalism|behavioral_holism) ∘ ρ(isolated_particle|system_interaction) ∘ λ(reduction_to_physics|behavioral_emergence) ∘ β(mechanistic_view|complexity_awareness) ∘ δγ(observation|behavioral_analysis_cycling) ∘ μ(physicalist_methodology|behavioral_methodology) + ε | :behavioral_comprehension
+siml_encoding: ⟨physicalism_behaviorism_distinction, reductive_holistic_mapping⟩ ⊳ ⟨isolated_systemic_relation, interaction_dynamics⟩ → ⟨reduction_to_emergence_transformation, behavioral_lens_application⟩ ⊗ ⟨mechanistic_to_complexity_growth, multilevel_awareness⟩ ⇄ ⟨observation_analysis_cycling, iterative_behavioral_study⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: reductive_physicalism / behavioral_holism
+      S: mechanistic_view / complexity_awareness
+      R: isolated_particle / system_interaction
+      P: reduction_to_physics / behavioral_emergence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing reductive physicalism from behavioral holism)"
-    - "∂Φ/∂ρ (relating isolated particle analysis to system-level interaction dynamics)"
-    - "∂Φ/∂λ (transforming reductive physical accounts into emergent behavioral understanding)"
-    - "∂Φ/∂β (growth from mechanistic worldview to complexity-aware behavioral science)"
-    - "∂Φ/∂δγ (cycling between observation and behavioral analysis across complexity levels)"
-    - "∂Φ/∂μ (contrasting physicalist methodology with behavioral methodology)"
-  Z_state: "behavioral_comprehension — phenomena across all complexity levels are understood through behavioral observation and analysis rather than reduction to fundamental physics, yielding a comprehensive scientific framework that respects emergent properties and system-level dynamics"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing reductive physicalism from behavioral holism)
+  - ∂Φ/∂ρ (relating isolated particle analysis to system-level interaction dynamics)
+  - ∂Φ/∂λ (transforming reductive physical accounts into emergent behavioral understanding)
+  - ∂Φ/∂β (growth from mechanistic worldview to complexity-aware behavioral science)
+  - ∂Φ/∂δγ (cycling between observation and behavioral analysis across complexity levels)
+  - ∂Φ/∂μ (contrasting physicalist methodology with behavioral methodology)
+  Z_state: permeable
+  z_note: behavioral_comprehension — phenomena across all complexity levels are understood through behavioral observation and analysis rather than reduction to fundamental physics, yielding a comprehensive scientific framework that respects emergent properties and system-level dynamics
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["physicalism_behaviorism_distinction", "reductive_vs_holistic_framing"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["isolated_systemic_interaction_dynamics", "relational_behavior_across_levels"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["reduction_to_emergence_transformation", "behavioral_lens_as_catalyst"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["mechanistic_to_complexity_awareness_growth", "multilevel_scientific_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["observation_analysis_cycling", "iterative_behavioral_investigation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["physicalist_vs_behavioral_methodology", "structural_scientific_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S054", "S056", "S052", "S067"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - physicalism_behaviorism_distinction
+    - reductive_vs_holistic_framing
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - isolated_systemic_interaction_dynamics
+    - relational_behavior_across_levels
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - reduction_to_emergence_transformation
+    - behavioral_lens_as_catalyst
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - mechanistic_to_complexity_awareness_growth
+    - multilevel_scientific_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - observation_analysis_cycling
+    - iterative_behavioral_investigation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - physicalist_vs_behavioral_methodology
+    - structural_scientific_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S054
+- S056
+- S052
+- S067
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.75
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212717_1035309_Critiquing+Physicalism%3A+Embracing+Universal+Behaviorism.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

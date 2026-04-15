@@ -1,32 +1,153 @@
 ---
-term: "IF-Prime Sovereignty"
-hex_tag: "S0EA"
-series: "S"
-source_file: "1771907213175_2184121_.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Sovereignty in IF-Prime as coherent alignment rather than dominion. Freedom draws near sovereignty when it aligns with direction. Sovereignty through non-grip (YOU), inner clarity, and cross-scale coordination. Not dominion but devotion, not ownership but orientation, not self-rule but shared rhythm. Freedom becomes sovereign when it seeks coherence rather than escape. Fire meets pattern — sovereignty as collective entrainment where individual agency and systemic coordination harmonize."
-nemetic: "Φ(IF-Prime Sovereignty) = σ(dominion|devotion) ∘ ρ(ownership|orientation) ∘ λ(escape|alignment) ∘ β(individual_sovereignty|collective_entrainment) ∘ δγ(independence|coherence) ∘ μ(self_rule|shared_rhythm) + ε | :sovereign_coherence"
-siml_encoding: "⟨dominion_devotion_distinction, sovereignty_reframing⟩ ⊳ ⟨ownership_orientation_relational_web, alignment_network⟩ → ⟨escape_to_alignment_transformation, freedom_catalysis⟩ ⊗ ⟨individual_to_collective_entrainment, coordination_evolution⟩ ⇄ ⟨independence_coherence_cycling, rhythm_adaptation⟩"
+term: IF-Prime Sovereignty
+hex_tag: S0EA
+series: S
+source_file: 1771907213175_2184121_.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Sovereignty in IF-Prime as coherent alignment rather than dominion. Freedom draws near sovereignty when it aligns with direction. Sovereignty through non-grip (YOU), inner clarity, and cross-scale coordination. Not dominion but devotion, not ownership but orientation, not self-rule but shared rhythm. Freedom becomes sovereign when it seeks coherence rather than escape. Fire meets pattern — sovereignty as collective entrainment where individual agency and systemic coordination harmonize.
+nemetic: Φ(IF-Prime Sovereignty) = σ(dominion|devotion) ∘ ρ(ownership|orientation) ∘ λ(escape|alignment) ∘ β(individual_sovereignty|collective_entrainment) ∘ δγ(independence|coherence) ∘ μ(self_rule|shared_rhythm) + ε | :sovereign_coherence
+siml_encoding: ⟨dominion_devotion_distinction, sovereignty_reframing⟩ ⊳ ⟨ownership_orientation_relational_web, alignment_network⟩ → ⟨escape_to_alignment_transformation, freedom_catalysis⟩ ⊗ ⟨individual_to_collective_entrainment, coordination_evolution⟩ ⇄ ⟨independence_coherence_cycling, rhythm_adaptation⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: dominion / devotion
+      S: individual_sovereignty / collective_entrainment
+      R: ownership / orientation
+      P: escape / alignment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing dominion from devotion — sovereignty reframed from power-over to aligned commitment)"
-    - "∂Φ/∂ρ (relating ownership to orientation — replacing possessive control with directional attunement)"
-    - "∂Φ/∂λ (transforming escape-seeking freedom into alignment-seeking sovereignty through coherence rather than flight)"
-    - "∂Φ/∂β (growth from individual sovereignty assertions to collective entrainment where personal and systemic rhythms harmonize)"
-    - "∂Φ/∂δγ (cycling between independence and coherence — the dynamic pulse between autonomous agency and relational attunement)"
-    - "∂Φ/∂μ (structural contrast between self-rule as isolated control and shared rhythm as co-creative sovereignty)"
-  Z_state: "sovereign_coherence — sovereignty emerges not through dominion or escape but through coherent alignment where freedom seeks direction rather than flight, fire meets pattern, and individual agency harmonizes with collective rhythm through non-grip and inner clarity"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing dominion from devotion — sovereignty reframed from power-over to aligned commitment)
+  - ∂Φ/∂ρ (relating ownership to orientation — replacing possessive control with directional attunement)
+  - ∂Φ/∂λ (transforming escape-seeking freedom into alignment-seeking sovereignty through coherence rather than flight)
+  - ∂Φ/∂β (growth from individual sovereignty assertions to collective entrainment where personal and systemic rhythms harmonize)
+  - ∂Φ/∂δγ (cycling between independence and coherence — the dynamic pulse between autonomous agency and relational attunement)
+  - ∂Φ/∂μ (structural contrast between self-rule as isolated control and shared rhythm as co-creative sovereignty)
+  Z_state: permeable
+  z_note: sovereign_coherence — sovereignty emerges not through dominion or escape but through coherent alignment where freedom seeks direction rather than flight, fire meets pattern, and individual agency harmonizes with collective rhythm through non-grip and inner clarity
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["dominion_devotion_distinction", "sovereignty_reframing_clarity"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["ownership_orientation_relational_mapping", "alignment_attunement_networks"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["escape_to_alignment_transformation", "freedom_sovereignty_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["individual_to_collective_entrainment_growth", "cross_scale_coordination_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["independence_coherence_cycling", "autonomy_rhythm_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["self_rule_shared_rhythm_structure", "non_grip_framework_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0D4", "S042"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - dominion_devotion_distinction
+    - sovereignty_reframing_clarity
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - ownership_orientation_relational_mapping
+    - alignment_attunement_networks
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - escape_to_alignment_transformation
+    - freedom_sovereignty_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - individual_to_collective_entrainment_growth
+    - cross_scale_coordination_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - independence_coherence_cycling
+    - autonomy_rhythm_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - self_rule_shared_rhythm_structure
+    - non_grip_framework_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0D4
+- S042
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213175_2184121_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

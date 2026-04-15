@@ -1,32 +1,155 @@
 ---
-term: "Wisdom as Relational Ontology"
-hex_tag: "S0B2"
-series: "S"
-source_file: "1771907213022_1942633_.md"
-encoded_at: "2026-03-06T04:00:00Z"
-description: "Wisdom reconceived as relational ontology rather than accumulated knowledge or internal insight — wisdom is right orientation within the web of being, emerging not in isolation but in relation; structured through five relational axes: relationship to others (empathy, compassion, attunement), relationship to self (inner alignment, shadow integration), relationship to time (discerning the long arc beyond immediate effects), relationship to systems (ecological, social, symbolic), and relationship to the unknown (reverence, curiosity, humility); wisdom contrasted with knowledge as contextual sensitivity versus solitary accumulation, characterized as the dance rather than the steps, the how and when rather than the what; relational reciprocity as core dynamic where the wise person is changed by engagement rather than merely observing wisely; wisdom as living pattern — a dynamic, evolving resonance with what is, what could be, and what ought to be."
-nemetic: "Φ(Wisdom Relational Ontology) = σ(knowledge_accumulation|relational_orientation) ∘ ρ(self_others_time_systems_unknown|empathic_reciprocal_attunement) ∘ λ(static_possession|living_dynamic_resonance) ∘ β(isolated_insight|contextual_relational_maturation) ∘ δγ(reciprocal_engagement_cycles|wisdom_emergence_through_relational_iteration) ∘ μ(five_relational_axes_framework|web_of_being_architecture) + ε | :wisdom_as_dynamic_relational_resonance"
-siml_encoding: "⟨knowledge_vs_wisdom_distinction, accumulation_orientation_boundary⟩ ⊳ ⟨five_axis_relational_coupling, empathic_reciprocal_attunement⟩ → ⟨static_to_living_pattern_transformation, dynamic_resonance_catalysis⟩ ⊗ ⟨isolated_to_relational_maturation, contextual_wisdom_growth⟩ ⇄ ⟨reciprocal_engagement_cycling, relational_wisdom_iteration⟩"
+term: Wisdom as Relational Ontology
+hex_tag: S0B2
+series: S
+source_file: 1771907213022_1942633_.md
+encoded_at: '2026-03-06T04:00:00Z'
+description: 'Wisdom reconceived as relational ontology rather than accumulated knowledge or internal insight — wisdom is right orientation within the web of being, emerging not in isolation but in relation; structured through five relational axes: relationship to others (empathy, compassion, attunement), relationship to self (inner alignment, shadow integration), relationship to time (discerning the long arc beyond immediate effects), relationship to systems (ecological, social, symbolic), and relationship to the unknown (reverence, curiosity, humility); wisdom contrasted with knowledge as contextual sensitivity versus solitary accumulation, characterized as the dance rather than the steps, the how and when rather than the what; relational reciprocity as core dynamic where the wise person is changed by engagement rather than merely observing wisely; wisdom as living pattern — a dynamic, evolving resonance with what is, what could be, and what ought to be.'
+nemetic: Φ(Wisdom Relational Ontology) = σ(knowledge_accumulation|relational_orientation) ∘ ρ(self_others_time_systems_unknown|empathic_reciprocal_attunement) ∘ λ(static_possession|living_dynamic_resonance) ∘ β(isolated_insight|contextual_relational_maturation) ∘ δγ(reciprocal_engagement_cycles|wisdom_emergence_through_relational_iteration) ∘ μ(five_relational_axes_framework|web_of_being_architecture) + ε | :wisdom_as_dynamic_relational_resonance
+siml_encoding: ⟨knowledge_vs_wisdom_distinction, accumulation_orientation_boundary⟩ ⊳ ⟨five_axis_relational_coupling, empathic_reciprocal_attunement⟩ → ⟨static_to_living_pattern_transformation, dynamic_resonance_catalysis⟩ ⊗ ⟨isolated_to_relational_maturation, contextual_wisdom_growth⟩ ⇄ ⟨reciprocal_engagement_cycling, relational_wisdom_iteration⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: knowledge_accumulation / relational_orientation
+      S: isolated_insight / contextual_relational_maturation
+      R: self_others_time_systems_unknown / empathic_reciprocal_attunement
+      P: static_possession / living_dynamic_resonance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing knowledge — solitary accumulation of data, concepts, and frameworks that can exist in isolation — from wisdom as relational orientation — right positioning within the web of being that requires contextual sensitivity and emerges only through relation; a wise act in one relational field may be foolish in another, revealing wisdom as fundamentally situated rather than universal)"
-    - "∂Φ/∂ρ (the relational dynamics across five axes: relationship to others through empathy, compassion, and attunement; relationship to self through inner alignment and shadow integration; relationship to time through discerning the long arc beyond immediate effects; relationship to systems — ecological, social, symbolic; and relationship to the unknown through reverence, curiosity, and humility; wisdom breathes between these nodes through reciprocal engagement where the wise person is changed by the encounter)"
-    - "∂Φ/∂λ (the transformation from wisdom conceived as static possession — something one has or acquires — to wisdom as a living pattern, a dynamic evolving resonance with what is, what could be, and what ought to be; wisdom is less the what and more the how and when, less the steps and more the dance)"
-    - "∂Φ/∂β (the developmental trajectory from isolated insight — understanding derived in solitude from accumulated knowledge — to contextual relational maturation — wisdom that grows through engagement across multiple relational axes, deepening through reciprocal encounters that change the wise person, not just the observed)"
-    - "∂Φ/∂δγ (the cycling through reciprocal relational engagement — wisdom does not arrive but iterates, emerging through repeated encounters across the five axes; each engagement changes the wise person who then brings transformed orientation to subsequent encounters, creating a spiral of deepening relational attunement)"
-    - "∂Φ/∂μ (the structural framework of the five relational axes — others, self, time, systems, unknown — forming the architecture of the web of being within which wisdom orients; this structure provides the scaffolding through which relational reciprocity, contextual sensitivity, and dynamic resonance operate)"
-  Z_state: "wisdom_as_dynamic_relational_resonance — wisdom is not a static possession but a living pattern that emerges through right orientation within the web of being; it breathes between relational nodes — self, others, time, systems, and the unknown — through empathy, shadow integration, long-arc discernment, systemic awareness, and humble curiosity; the relational reciprocity at its core means wisdom is not merely observing wisely but being changed by what one encounters; it adapts without abandoning its core, listens before it speaks, and evolves through contextual sensitivity rather than universal prescription; the Z-state emerges as dynamic evolving resonance — a living dance with what is, what could be, and what ought to be — where the wise person is simultaneously shaped by and shaping the relational field they inhabit"
-  tendency: "ρ → 0.90"
+  - ∂Φ/∂σ (distinguishing knowledge — solitary accumulation of data, concepts, and frameworks that can exist in isolation — from wisdom as relational orientation — right positioning within the web of being that requires contextual sensitivity and emerges only through relation; a wise act in one relational field may be foolish in another, revealing wisdom as fundamentally situated rather than universal)
+  - '∂Φ/∂ρ (the relational dynamics across five axes: relationship to others through empathy, compassion, and attunement; relationship to self through inner alignment and shadow integration; relationship to time through discerning the long arc beyond immediate effects; relationship to systems — ecological, social, symbolic; and relationship to the unknown through reverence, curiosity, and humility; wisdom breathes between these nodes through reciprocal engagement where the wise person is changed by the encounter)'
+  - ∂Φ/∂λ (the transformation from wisdom conceived as static possession — something one has or acquires — to wisdom as a living pattern, a dynamic evolving resonance with what is, what could be, and what ought to be; wisdom is less the what and more the how and when, less the steps and more the dance)
+  - ∂Φ/∂β (the developmental trajectory from isolated insight — understanding derived in solitude from accumulated knowledge — to contextual relational maturation — wisdom that grows through engagement across multiple relational axes, deepening through reciprocal encounters that change the wise person, not just the observed)
+  - ∂Φ/∂δγ (the cycling through reciprocal relational engagement — wisdom does not arrive but iterates, emerging through repeated encounters across the five axes; each engagement changes the wise person who then brings transformed orientation to subsequent encounters, creating a spiral of deepening relational attunement)
+  - ∂Φ/∂μ (the structural framework of the five relational axes — others, self, time, systems, unknown — forming the architecture of the web of being within which wisdom orients; this structure provides the scaffolding through which relational reciprocity, contextual sensitivity, and dynamic resonance operate)
+  Z_state: permeable
+  z_note: wisdom_as_dynamic_relational_resonance — wisdom is not a static possession but a living pattern that emerges through right orientation within the web of being; it breathes between relational nodes — self, others, time, systems, and the unknown — through empathy, shadow integration, long-arc discernment, systemic awareness, and humble curiosity; the relational reciprocity at its core means wisdom is not merely observing wisely but being changed by what one encounters; it adapts without abandoning its core, listens before it speaks, and evolves through contextual sensitivity rather than universal prescription; the Z-state emerges as dynamic evolving resonance — a living dance with what is, what could be, and what ought to be — where the wise person is simultaneously shaped by and shaping the relational field they inhabit
+  tendency: ρ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["knowledge_vs_wisdom_distinction", "accumulation_vs_relational_orientation_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["five_axis_relational_dynamics", "empathic_reciprocal_attunement"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["static_to_living_pattern_transformation", "dynamic_resonance_emergence"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["isolated_to_relational_maturation", "contextual_wisdom_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["reciprocal_engagement_cycling", "relational_wisdom_spiral"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["five_relational_axes_architecture", "web_of_being_structural_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S008", "S021", "S08A", "S08C"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - knowledge_vs_wisdom_distinction
+    - accumulation_vs_relational_orientation_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - five_axis_relational_dynamics
+    - empathic_reciprocal_attunement
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - static_to_living_pattern_transformation
+    - dynamic_resonance_emergence
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - isolated_to_relational_maturation
+    - contextual_wisdom_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - reciprocal_engagement_cycling
+    - relational_wisdom_spiral
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - five_relational_axes_architecture
+    - web_of_being_structural_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S008
+- S021
+- S08A
+- S08C
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213022_1942633_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

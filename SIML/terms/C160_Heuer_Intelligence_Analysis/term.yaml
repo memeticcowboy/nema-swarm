@@ -2,105 +2,149 @@ term_id: C160
 hex_tag: '#C160'
 name: Heuer_Intelligence_Analysis
 term: Heuer Intelligence Analysis
-nemetic: >-
-  Φ(IntelligenceAnalysis) = σ(structured|intuitive) ∘ ρ(evidence|hypothesis) ∘ λ(rigor|bias)
-  ∘ β(ACH|mindset) ∘ δγ(uncertainty|communication)
-  ∘ μ(diagnostic|volume) + ε | :pure
-siml_encoding: >-
-  ⟨Analysis|structured⟩ ⊳ ⟨Hypothesis|competing⟩ ⊗ ⟨Bias|counteracted⟩
-  ⊗ ⟨Uncertainty|communicated⟩ ⊗ ⟨Judgment|improved⟩
+nemetic: Φ(IntelligenceAnalysis) = σ(structured|intuitive) ∘ ρ(evidence|hypothesis) ∘ λ(rigor|bias) ∘ β(ACH|mindset) ∘ δγ(uncertainty|communication) ∘ μ(diagnostic|volume) + ε | :pure
+siml_encoding: ⟨Analysis|structured⟩ ⊳ ⟨Hypothesis|competing⟩ ⊗ ⟨Bias|counteracted⟩ ⊗ ⟨Uncertainty|communicated⟩ ⊗ ⟨Judgment|improved⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between structured analytical thinking and intuitive judgment)"
-    - "∂Φ/∂ρ (relational flow between evidence evaluation and hypothesis testing)"
-    - "∂Φ/∂λ (directional tension between analytical rigor and cognitive bias)"
-    - "∂Φ/∂β (ACH methodology as growth framework overcoming rigid mental models)"
-    - "∂Φ/∂δγ (grounded practice of communicating uncertainty and confidence levels)"
-    - "∂Φ/∂μ (cutting discernment of diagnostic quality information over data volume)"
+  - ∂Φ/∂σ (distinction between structured analytical thinking and intuitive judgment)
+  - ∂Φ/∂ρ (relational flow between evidence evaluation and hypothesis testing)
+  - ∂Φ/∂λ (directional tension between analytical rigor and cognitive bias)
+  - ∂Φ/∂β (ACH methodology as growth framework overcoming rigid mental models)
+  - ∂Φ/∂δγ (grounded practice of communicating uncertainty and confidence levels)
+  - ∂Φ/∂μ (cutting discernment of diagnostic quality information over data volume)
   Z_state: permeable
-  tendency: "Rigor/Bias → 0.8"
+  tendency: Rigor/Bias → 0.8
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
-      - Its
+    - We
+    - Its
   epistemics:
     dsrp:
-      D: "Structured analysis vs. intuitive judgment under uncertainty"
-      S: "Analytical methodology ecosystem including ACH, bias awareness, uncertainty communication"
-      R: "Evidence tests hypotheses; hypotheses frame evidence — recursive improvement"
-      P: "CIA intelligence analysis tradition (Richards J. Heuer Jr.)"
+      D: Structured analysis vs. intuitive judgment under uncertainty
+      S: Analytical methodology ecosystem including ACH, bias awareness, uncertainty communication
+      R: Evidence tests hypotheses; hypotheses frame evidence — recursive improvement
+      P: CIA intelligence analysis tradition (Richards J. Heuer Jr.)
     learning: L2
   time:
     mode: linear
-    phase: "disciplined analytical process"
+    phase: disciplined analytical process
   qualia:
     affect:
-      - discipline
-      - humility
-      - vigilance
+    - discipline
+    - humility
+    - vigilance
     aesthetic:
-      - structured
-      - rigorous
-      - transparent
+    - structured
+    - rigorous
+    - transparent
     symbolic:
-      - ACH-matrix
-      - baloney-detection
-      - confidence-levels
+    - ACH-matrix
+    - baloney-detection
+    - confidence-levels
     energetic:
-      - calibrating
-      - testing
-      - communicating
+    - calibrating
+    - testing
+    - communicating
   agency:
     type: ego
     voice:
-      - Disciplined Analyst
-      - Structured Thinker
+    - Disciplined Analyst
+    - Structured Thinker
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: dyadic
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is structured analysis distinguished from intuitive gut feeling under pressure?"
-  ≈: "What flows between evidence and hypothesis when both shape each other?"
-  ▲: "Does analytical rigor lead toward truth or toward overconfidence in method?"
-  𐂷: "What analytical techniques beyond ACH might overcome cognitive bias in novel ways?"
-  ☷: "What is the metabolic cost of maintaining disciplined doubt against comfortable certainty?"
-  ⛨: "What structures separate diagnostic information from mere data volume?"
-context_note: >-
-  Richards J. Heuer Jr.'s Psychology of Intelligence Analysis examines how cognitive
-  biases impair analytical judgment and introduces Analysis of Competing Hypotheses
-  (ACH) to improve decision-making under uncertainty.
-source: "Heuer, R. J. (1999). The Psychology of Intelligence Analysis. CIA."
+  ∴: How is structured analysis distinguished from intuitive gut feeling under pressure?
+  ≈: What flows between evidence and hypothesis when both shape each other?
+  ▲: Does analytical rigor lead toward truth or toward overconfidence in method?
+  𐂷: What analytical techniques beyond ACH might overcome cognitive bias in novel ways?
+  ☷: What is the metabolic cost of maintaining disciplined doubt against comfortable certainty?
+  ⛨: What structures separate diagnostic information from mere data volume?
+context_note: Richards J. Heuer Jr.'s Psychology of Intelligence Analysis examines how cognitive biases impair analytical judgment and introduces Analysis of Competing Hypotheses (ACH) to improve decision-making under uncertainty.
+source: Heuer, R. J. (1999). The Psychology of Intelligence Analysis. CIA.
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

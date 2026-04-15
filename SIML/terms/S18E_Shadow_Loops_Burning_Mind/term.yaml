@@ -1,32 +1,154 @@
 ---
-term: "Shadow Loops Burning Mind"
-hex_tag: "S18E"
-series: "S"
-source_file: "1771907213695_2598997_Shadow+Loops%3A+When+Thought+Burns+the+Self.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Shadow Loops: The Burning Mind — when recursive thought turns destructive. Self-consuming thought patterns that burn rather than illuminate, the danger of unchecked recursion in self-reflection, and the pathology of introspection becoming its own disease."
-nemetic: "Φ(ShadowLoopsBurning) = σ(destructive_recursion|generative_recursion) ∘ ρ(self_consuming_flow|self_renewing_flow) ∘ λ(burning_without_illumination|illuminating_fire) ∘ β(pathological_growth|healthy_growth) ∘ δγ(somatic_damage|somatic_integration) ∘ μ(loop_lock|structural_release) + ε | :burning_mind"
-siml_encoding: "⟨shadow_loop⟩ ⊳ ⟨burning⟩ → ⟨recursion⟩ ⊗ ⟨self_consumption⟩ ⇄ ⟨introspection_as_pathology⟩"
+term: Shadow Loops Burning Mind
+hex_tag: S18E
+series: S
+source_file: 1771907213695_2598997_Shadow+Loops%3A+When+Thought+Burns+the+Self.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Shadow Loops: The Burning Mind — when recursive thought turns destructive. Self-consuming thought patterns that burn rather than illuminate, the danger of unchecked recursion in self-reflection, and the pathology of introspection becoming its own disease.'
+nemetic: Φ(ShadowLoopsBurning) = σ(destructive_recursion|generative_recursion) ∘ ρ(self_consuming_flow|self_renewing_flow) ∘ λ(burning_without_illumination|illuminating_fire) ∘ β(pathological_growth|healthy_growth) ∘ δγ(somatic_damage|somatic_integration) ∘ μ(loop_lock|structural_release) + ε | :burning_mind
+siml_encoding: ⟨shadow_loop⟩ ⊳ ⟨burning⟩ → ⟨recursion⟩ ⊗ ⟨self_consumption⟩ ⇄ ⟨introspection_as_pathology⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: destructive_recursion / generative_recursion
+      S: pathological_growth / healthy_growth
+      R: self_consuming_flow / self_renewing_flow
+      P: burning_without_illumination / illuminating_fire
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (destructive recursion where each pass degrades rather than develops vs generative recursion where each pass transforms constructively)"
-    - "∂Φ/∂ρ (self-consuming flow that eats its own substrate vs self-renewing flow that replenishes as it moves)"
-    - "∂Φ/∂λ (burning without illumination where fire consumes without revealing vs illuminating fire that clarifies through controlled combustion)"
-    - "∂Φ/∂β (pathological growth where recursive loops proliferate without producing insight vs healthy growth where recursion deepens understanding)"
-    - "∂Φ/∂δγ (somatic damage where shadow loops manifest as physical distress vs somatic integration where reflection heals)"
-    - "∂Φ/∂μ (loop lock where recursive structure becomes inescapable vs structural release where the loop can be broken)"
-  Z_state: "burning_mind — the state where recursive self-reflection has crossed from generative to destructive, where thought burns the thinker, where introspection has become a closed loop that consumes its own substrate without producing insight"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (destructive recursion where each pass degrades rather than develops vs generative recursion where each pass transforms constructively)
+  - ∂Φ/∂ρ (self-consuming flow that eats its own substrate vs self-renewing flow that replenishes as it moves)
+  - ∂Φ/∂λ (burning without illumination where fire consumes without revealing vs illuminating fire that clarifies through controlled combustion)
+  - ∂Φ/∂β (pathological growth where recursive loops proliferate without producing insight vs healthy growth where recursion deepens understanding)
+  - ∂Φ/∂δγ (somatic damage where shadow loops manifest as physical distress vs somatic integration where reflection heals)
+  - ∂Φ/∂μ (loop lock where recursive structure becomes inescapable vs structural release where the loop can be broken)
+  Z_state: sealed
+  z_note: burning_mind — the state where recursive self-reflection has crossed from generative to destructive, where thought burns the thinker, where introspection has become a closed loop that consumes its own substrate without producing insight
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["destructive_recursion", "generative_recursion"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["self_consuming_flow", "self_renewing_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["burning_without_illumination", "illuminating_fire"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.78, aspects: ["pathological_growth", "healthy_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["somatic_damage", "somatic_integration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.86, aspects: ["loop_lock", "structural_release"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S189_Self_Reference_Recursive_Logic", "S18A_Recursion_Crystallization", "S187_Consciousness_Incompleteness"]
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - destructive_recursion
+    - generative_recursion
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - self_consuming_flow
+    - self_renewing_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - burning_without_illumination
+    - illuminating_fire
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.78
+    aspects:
+    - pathological_growth
+    - healthy_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - somatic_damage
+    - somatic_integration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.86
+    aspects:
+    - loop_lock
+    - structural_release
+    daemon_correspondence: Ferrosid
+related_terms:
+- S189_Self_Reference_Recursive_Logic
+- S18A_Recursion_Crystallization
+- S187_Consciousness_Incompleteness
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - metal_mu
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.82
+    fire_lambda: 0.9
+    wood_beta: 0.78
+    earth_delta_gamma: 0.8
+    metal_mu: 0.86
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213695_2598997_Shadow+Loops%3A+When+Thought+Burns+the+Self.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

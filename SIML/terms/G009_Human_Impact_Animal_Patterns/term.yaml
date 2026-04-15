@@ -1,32 +1,154 @@
 ---
-term: "Human Impact Animal Patterns"
-hex_tag: "G009"
-series: "G"
-source_file: "9 - Human Impact on Animal Activity Patterns.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A global study revealing that human presence significantly alters the daily activity patterns of over 60% of studied mammals, with 74% of 400 analyzed species modifying their behavior in response to human activity. Animals shift between diurnal and nocturnal patterns, disrupting predator-prey dynamics, foraging efficiency, and survival outcomes, necessitating conservation interventions such as migration corridors and dark sky initiatives."
-nemetic: "Φ(Human Impact Animal Patterns) = σ(natural_rhythm|human_altered_rhythm) ∘ ρ(predator_prey_disruption|human_wildlife_conflict) ∘ λ(behavioral_shift_catalysis|ecosystem_cascade_disruption) ∘ β(conservation_strategy_development|community_awareness_growth) ∘ δγ(diurnal_nocturnal_oscillation|urbanization_adaptation_cycle) ∘ μ(camera_trap_monitoring_framework|conservation_policy_structure) + ε | :chronobiological_displacement"
-siml_encoding: "⟨natural_activity_pattern, altered_activity_pattern⟩ ⊳ ⟨human_presence, wildlife_avoidance⟩ → ⟨behavioral_shift, survival_risk⟩ ⊗ ⟨nocturnal_adaptation, diurnal_displacement⟩ ⇄ ⟨urban_expansion, habitat_preservation⟩"
+term: Human Impact Animal Patterns
+hex_tag: G009
+series: G
+source_file: 9 - Human Impact on Animal Activity Patterns.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A global study revealing that human presence significantly alters the daily activity patterns of over 60% of studied mammals, with 74% of 400 analyzed species modifying their behavior in response to human activity. Animals shift between diurnal and nocturnal patterns, disrupting predator-prey dynamics, foraging efficiency, and survival outcomes, necessitating conservation interventions such as migration corridors and dark sky initiatives.
+nemetic: Φ(Human Impact Animal Patterns) = σ(natural_rhythm|human_altered_rhythm) ∘ ρ(predator_prey_disruption|human_wildlife_conflict) ∘ λ(behavioral_shift_catalysis|ecosystem_cascade_disruption) ∘ β(conservation_strategy_development|community_awareness_growth) ∘ δγ(diurnal_nocturnal_oscillation|urbanization_adaptation_cycle) ∘ μ(camera_trap_monitoring_framework|conservation_policy_structure) + ε | :chronobiological_displacement
+siml_encoding: ⟨natural_activity_pattern, altered_activity_pattern⟩ ⊳ ⟨human_presence, wildlife_avoidance⟩ → ⟨behavioral_shift, survival_risk⟩ ⊗ ⟨nocturnal_adaptation, diurnal_displacement⟩ ⇄ ⟨urban_expansion, habitat_preservation⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: natural_rhythm / human_altered_rhythm
+      S: conservation_strategy_development / community_awareness_growth
+      R: predator_prey_disruption / human_wildlife_conflict
+      P: behavioral_shift_catalysis / ecosystem_cascade_disruption
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ distinguishes natural circadian activity patterns from human-altered behavioral schedules across mammalian species"
-    - "∂Φ/∂ρ maps the disrupted relational dynamics between predators and prey and the conflict interfaces between humans and displaced wildlife"
-    - "∂Φ/∂λ captures the catalytic disruption where human presence triggers behavioral shifts that cascade through ecosystem dynamics"
-    - "∂Φ/∂β tracks the development of conservation strategies and the growth of community awareness regarding human-wildlife coexistence"
-    - "∂Φ/∂δγ describes the oscillation between diurnal and nocturnal activity as animals cycle between avoidance and adaptation to human presence"
-    - "∂Φ/∂μ defines the camera trap monitoring framework across 38 countries and the conservation policy structures proposed to mitigate behavioral disruption"
-  Z_state: "chronobiological_displacement — the emergent state where human activity pressure systematically shifts wildlife temporal niches, creating a planet-wide reorganization of when animals are active"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ distinguishes natural circadian activity patterns from human-altered behavioral schedules across mammalian species
+  - ∂Φ/∂ρ maps the disrupted relational dynamics between predators and prey and the conflict interfaces between humans and displaced wildlife
+  - ∂Φ/∂λ captures the catalytic disruption where human presence triggers behavioral shifts that cascade through ecosystem dynamics
+  - ∂Φ/∂β tracks the development of conservation strategies and the growth of community awareness regarding human-wildlife coexistence
+  - ∂Φ/∂δγ describes the oscillation between diurnal and nocturnal activity as animals cycle between avoidance and adaptation to human presence
+  - ∂Φ/∂μ defines the camera trap monitoring framework across 38 countries and the conservation policy structures proposed to mitigate behavioral disruption
+  Z_state: permeable
+  z_note: chronobiological_displacement — the emergent state where human activity pressure systematically shifts wildlife temporal niches, creating a planet-wide reorganization of when animals are active
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["natural_vs_altered_rhythm_distinction", "expected_vs_observed_behavior_gap"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["predator_prey_disruption", "human_wildlife_conflict_interface"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["behavioral_shift_catalysis", "ecosystem_cascade_triggering"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["conservation_strategy_growth", "community_awareness_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["diurnal_nocturnal_oscillation", "urbanization_adaptation_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["camera_trap_monitoring_structure", "conservation_policy_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G00A", "G001", "G00B"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - natural_vs_altered_rhythm_distinction
+    - expected_vs_observed_behavior_gap
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - predator_prey_disruption
+    - human_wildlife_conflict_interface
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - behavioral_shift_catalysis
+    - ecosystem_cascade_triggering
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - conservation_strategy_growth
+    - community_awareness_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - diurnal_nocturnal_oscillation
+    - urbanization_adaptation_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - camera_trap_monitoring_structure
+    - conservation_policy_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- G00A
+- G001
+- G00B
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.9
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "9 - Human Impact on Animal Activity Patterns.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

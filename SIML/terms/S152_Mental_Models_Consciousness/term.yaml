@@ -1,32 +1,151 @@
 ---
-term: "Mental Models Consciousness"
-hex_tag: "S152"
-series: "S"
-source_file: "1771907213475_2412264_The+Role+of+Mental+Models+in+Consciousness.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Mental models as internal representations of reality shaping cognition and consciousness. Guide perception, reasoning, and understanding like the mind's eye. Enable simulation, prediction, and navigation through multilayered dynamic frameworks. Contribute to consciousness by providing structured viewpoints and self-awareness. Flexible and evolving with new information, enabling imagination and problem-solving."
-nemetic: "Φ(Mental Models Consciousness) = σ(raw_stimulus|model_mediated_perception) ∘ ρ(isolated_representation|interacting_model_ecology) ∘ λ(rigid_fixed_model|adaptive_model_revision) ∘ β(simple_schema|multilayered_dynamic_framework) ∘ δγ(model_reality_oscillation|prediction_correction_cycling) ∘ μ(representational_architecture|structured_viewpoint_framework) + ε | :model_mediated_conscious_awareness"
-siml_encoding: "⟨raw_mediated_distinction, stimulus_model_discernment⟩ ⊳ ⟨isolated_ecological_relating, model_interaction_flow⟩ → ⟨rigid_adaptive_catalysis, model_revision_transformation⟩ ⊗ ⟨simple_multilayered_growth, framework_complexity_expansion⟩ ⇄ ⟨model_reality_cycling, prediction_correction_rhythm⟩"
+term: Mental Models Consciousness
+hex_tag: S152
+series: S
+source_file: 1771907213475_2412264_The+Role+of+Mental+Models+in+Consciousness.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Mental models as internal representations of reality shaping cognition and consciousness. Guide perception, reasoning, and understanding like the mind's eye. Enable simulation, prediction, and navigation through multilayered dynamic frameworks. Contribute to consciousness by providing structured viewpoints and self-awareness. Flexible and evolving with new information, enabling imagination and problem-solving.
+nemetic: Φ(Mental Models Consciousness) = σ(raw_stimulus|model_mediated_perception) ∘ ρ(isolated_representation|interacting_model_ecology) ∘ λ(rigid_fixed_model|adaptive_model_revision) ∘ β(simple_schema|multilayered_dynamic_framework) ∘ δγ(model_reality_oscillation|prediction_correction_cycling) ∘ μ(representational_architecture|structured_viewpoint_framework) + ε | :model_mediated_conscious_awareness
+siml_encoding: ⟨raw_mediated_distinction, stimulus_model_discernment⟩ ⊳ ⟨isolated_ecological_relating, model_interaction_flow⟩ → ⟨rigid_adaptive_catalysis, model_revision_transformation⟩ ⊗ ⟨simple_multilayered_growth, framework_complexity_expansion⟩ ⇄ ⟨model_reality_cycling, prediction_correction_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: raw_stimulus / model_mediated_perception
+      S: simple_schema / multilayered_dynamic_framework
+      R: isolated_representation / interacting_model_ecology
+      P: rigid_fixed_model / adaptive_model_revision
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing raw stimulus from model-mediated perception — the discernment between unprocessed sensory input and the mental models that shape, filter, and organize perception into meaningful experience, recognizing that consciousness never encounters raw reality but always model-mediated reality)"
-    - "∂Φ/∂ρ (relating isolated representations to interacting model ecology — the relational web where mental models do not operate in isolation but form an ecology of interacting frameworks, with each model informing, constraining, and enriching others in a dynamic relational system)"
-    - "∂Φ/∂λ (transforming rigid fixed models into adaptive revised frameworks — the catalytic process where encounters with new information, prediction failures, and novel situations trigger model revision, maintaining cognitive flexibility and preventing crystallization into outdated representations)"
-    - "∂Φ/∂β (growth from simple schemas to multilayered dynamic frameworks — the developmental expansion where mental models increase in complexity, nuance, and interconnection over time, evolving from basic perceptual schemas to sophisticated multilayered frameworks capable of simulation and imagination)"
-    - "∂Φ/∂δγ (cycling between model-based prediction and reality-based correction — the grounding oscillation where consciousness projects model-based expectations onto experience and then corrects those models through feedback from reality, creating the prediction-correction loop that drives cognitive development)"
-    - "∂Φ/∂μ (structural framework of representational architecture — the framework encoding how mental models provide structured viewpoints that organize consciousness, enabling self-awareness, simulation, and navigation through the provision of stable yet flexible internal representational structures)"
-  Z_state: "model_mediated_conscious_awareness — consciousness is fundamentally model-mediated, with mental models serving as internal representations that shape perception, guide reasoning, and enable understanding; these models function as the mind's eye, providing structured viewpoints through which reality is navigated; they contribute to consciousness by enabling simulation, prediction, imagination, and self-awareness; flexible and evolving with new information, mental models form multilayered dynamic frameworks that develop from simple schemas to sophisticated representational ecologies"
-  tendency: "δγ → 0.85"
+  - ∂Φ/∂σ (distinguishing raw stimulus from model-mediated perception — the discernment between unprocessed sensory input and the mental models that shape, filter, and organize perception into meaningful experience, recognizing that consciousness never encounters raw reality but always model-mediated reality)
+  - ∂Φ/∂ρ (relating isolated representations to interacting model ecology — the relational web where mental models do not operate in isolation but form an ecology of interacting frameworks, with each model informing, constraining, and enriching others in a dynamic relational system)
+  - ∂Φ/∂λ (transforming rigid fixed models into adaptive revised frameworks — the catalytic process where encounters with new information, prediction failures, and novel situations trigger model revision, maintaining cognitive flexibility and preventing crystallization into outdated representations)
+  - ∂Φ/∂β (growth from simple schemas to multilayered dynamic frameworks — the developmental expansion where mental models increase in complexity, nuance, and interconnection over time, evolving from basic perceptual schemas to sophisticated multilayered frameworks capable of simulation and imagination)
+  - ∂Φ/∂δγ (cycling between model-based prediction and reality-based correction — the grounding oscillation where consciousness projects model-based expectations onto experience and then corrects those models through feedback from reality, creating the prediction-correction loop that drives cognitive development)
+  - ∂Φ/∂μ (structural framework of representational architecture — the framework encoding how mental models provide structured viewpoints that organize consciousness, enabling self-awareness, simulation, and navigation through the provision of stable yet flexible internal representational structures)
+  Z_state: semi
+  z_note: model_mediated_conscious_awareness — consciousness is fundamentally model-mediated, with mental models serving as internal representations that shape perception, guide reasoning, and enable understanding; these models function as the mind's eye, providing structured viewpoints through which reality is navigated; they contribute to consciousness by enabling simulation, prediction, imagination, and self-awareness; flexible and evolving with new information, mental models form multilayered dynamic frameworks that develop from simple schemas to sophisticated representational ecologies
+  tendency: δγ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["model_mediated_perception", "raw_stimulus_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["interacting_model_ecology", "representational_relational_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["adaptive_model_revision", "cognitive_flexibility_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["multilayered_framework_development", "schema_complexity_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["prediction_correction_oscillation", "model_reality_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["representational_architecture", "structured_viewpoint_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - model_mediated_perception
+    - raw_stimulus_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - interacting_model_ecology
+    - representational_relational_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - adaptive_model_revision
+    - cognitive_flexibility_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - multilayered_framework_development
+    - schema_complexity_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - prediction_correction_oscillation
+    - model_reality_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - representational_architecture
+    - structured_viewpoint_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.85
+    earth_delta_gamma: 0.9
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213475_2412264_The+Role+of+Mental+Models+in+Consciousness.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

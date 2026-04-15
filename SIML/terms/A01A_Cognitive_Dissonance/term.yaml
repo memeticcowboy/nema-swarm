@@ -2,94 +2,146 @@ term_id: A01A
 hex_tag: '#A01A'
 name: Cognitive_Dissonance
 term: Cognitive Dissonance
-nemetic: >-
-  Φ(CognitiveDissonance) = σ(belief-conflict|incompatible-cognitions)
-  ∘ ρ(discomfort-resonance|psychological-tension)
-  ∘ λ(reduction-drive|equilibrium-seeking) ∘ β(feedback-loop|dissonance-signal)
-  ∘ δγ(effort-expenditure|cognitive-work) + ε | :tension
-siml_encoding: >-
-  ⟨Observer|self⟩ ⊳ ⟨Belief|held⟩ ⊗ ⟨Evidence|contradictory⟩
-  → ⟨Tension|dissonant⟩ ⇄ ⟨Drive|resolution⟩ → ⟨Outcome|belief-change-or-rationalization⟩
+nemetic: Φ(CognitiveDissonance) = σ(belief-conflict|incompatible-cognitions) ∘ ρ(discomfort-resonance|psychological-tension) ∘ λ(reduction-drive|equilibrium-seeking) ∘ β(feedback-loop|dissonance-signal) ∘ δγ(effort-expenditure|cognitive-work) + ε | :tension
+siml_encoding: ⟨Observer|self⟩ ⊳ ⟨Belief|held⟩ ⊗ ⟨Evidence|contradictory⟩ → ⟨Tension|dissonant⟩ ⇄ ⟨Drive|resolution⟩ → ⟨Outcome|belief-change-or-rationalization⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between compatible and incompatible cognitions)"
-    - "∂Φ/∂ρ (resonance of psychological discomfort)"
-    - "∂Φ/∂λ (direction toward dissonance reduction)"
-    - "∂Φ/∂β (feedback signaling cognitive conflict)"
-    - "∂Φ/∂δγ (cognitive effort expended in resolution)"
-  Z_state: "permeable (tension creates opening for change)"
-  tendency: "Consistency/Growth → 0.5 (dynamic equilibrium)"
+  - ∂Φ/∂σ (distinction between compatible and incompatible cognitions)
+  - ∂Φ/∂ρ (resonance of psychological discomfort)
+  - ∂Φ/∂λ (direction toward dissonance reduction)
+  - ∂Φ/∂β (feedback signaling cognitive conflict)
+  - ∂Φ/∂δγ (cognitive effort expended in resolution)
+  Z_state: permeable
+  z_note: permeable (tension creates opening for change)
+  tendency: Consistency/Growth → 0.5 (dynamic equilibrium)
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
 coords:
   ontology:
     primary: I
   epistemics:
     dsrp:
-      D: "Compatible vs incompatible cognitions; belief vs behavior; consistency vs contradiction"
-      S: "Belief maintenance ecology — identity, social reinforcement, sunk cost, group membership"
-      R: "Belief ⇄ evidence; comfort ⇄ truth; identity ⇄ revision; rationalization ⇄ growth"
-      P: "Social psychologist, cult researcher, political analyst, self-reflective practitioner"
+      D: Compatible vs incompatible cognitions; belief vs behavior; consistency vs contradiction
+      S: Belief maintenance ecology — identity, social reinforcement, sunk cost, group membership
+      R: Belief ⇄ evidence; comfort ⇄ truth; identity ⇄ revision; rationalization ⇄ growth
+      P: Social psychologist, cult researcher, political analyst, self-reflective practitioner
     learning: L1
   agency:
     type: ego
     power_mode: Against
   time:
     mode: event
-    phase: "tension-onset — dissonance activates when contradictory cognitions become salient"
+    phase: tension-onset — dissonance activates when contradictory cognitions become salient
   qualia:
     affect:
-      - uneasy
-      - defensive
-      - anxious
-      - driven
+    - uneasy
+    - defensive
+    - anxious
+    - driven
     aesthetic:
-      - dissonant
-      - grinding
-      - pressured
+    - dissonant
+    - grinding
+    - pressured
     symbolic:
-      - tug of war
-      - cognitive earthquake
-      - house divided
+    - tug of war
+    - cognitive earthquake
+    - house divided
     energetic:
-      - tense
-      - effortful
-      - seeking-equilibrium
+    - tense
+    - effortful
+    - seeking-equilibrium
   coherence:
     state: dissonant
     loop: double
     transcontext: med
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_emphasis:
-  ∴: "What conflicting beliefs are you holding simultaneously? Where is the cut between them?"
-  ≈: "What does the discomfort feel like? Where in your body does the tension live?"
-  ▲: "Which belief is pulling stronger? Where does the resolution want to go?"
-  𐂷: "What third option exists beyond change vs rationalization? What integration is possible?"
-  ☷: "What's the metabolic cost of holding this tension? What energy sustains the conflict?"
-  ⛨: "What structure would hold both beliefs without collapse? What container allows paradox?"
-context_note: >-
-  Cognitive Dissonance is the psychological tension that occurs when an individual holds two
-  or more contradictory beliefs, values, or attitudes simultaneously, or when behavior
-  conflicts with beliefs. Developed by Leon Festinger in 1957, the theory describes the
-  uncomfortable state of mental inconsistency and the powerful drive to reduce this discomfort
-  through belief change, rationalization, or behavior modification. The classic case of Dorothy
-  Martin's doomsday cult illustrates how believers doubled down when prophecy failed — the
-  social and psychological investment had become too great to permit belief revision.
+  ∴: What conflicting beliefs are you holding simultaneously? Where is the cut between them?
+  ≈: What does the discomfort feel like? Where in your body does the tension live?
+  ▲: Which belief is pulling stronger? Where does the resolution want to go?
+  𐂷: What third option exists beyond change vs rationalization? What integration is possible?
+  ☷: What's the metabolic cost of holding this tension? What energy sustains the conflict?
+  ⛨: What structure would hold both beliefs without collapse? What container allows paradox?
+context_note: Cognitive Dissonance is the psychological tension that occurs when an individual holds two or more contradictory beliefs, values, or attitudes simultaneously, or when behavior conflicts with beliefs. Developed by Leon Festinger in 1957, the theory describes the uncomfortable state of mental inconsistency and the powerful drive to reduce this discomfort through belief change, rationalization, or behavior modification. The classic case of Dorothy Martin's doomsday cult illustrates how believers doubled down when prophecy failed — the social and psychological investment had become too great to permit belief revision.
 source: Consolidated from 3 insight(s)
-source_file: "The Power of Belief and Cognitive Dissonance"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+source_file: The Power of Belief and Cognitive Dissonance
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  author: "Leon Festinger"
+  work: "The Power of Belief and Cognitive Dissonance"
+  source_domain: "cognitive bias & epistemic fragmentation"
+  source_file: "The Power of Belief and Cognitive Dissonance"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Metal
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.3
+    Meta: 0.3

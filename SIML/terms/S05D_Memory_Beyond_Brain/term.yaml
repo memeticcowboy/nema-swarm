@@ -1,32 +1,154 @@
 ---
-term: "Memory Beyond Brain"
-hex_tag: "S05D"
-series: "S"
-source_file: "1771907212682_925005_Memory+Functions+Beyond+the+Brain.md"
-encoded_at: "2026-03-05T22:30:00Z"
-description: "Non-neural human cells exhibit memory-like behavior, with kidney and nerve tissue cells activating memory genes similar to neurons when exposed to chemical signals mimicking neurotransmitters. Memory functions are not exclusive to brain cells."
-nemetic: "Φ(Memory Beyond Brain) = σ(neural_memory|non_neural_memory) ∘ ρ(cell|chemical_signal) ∘ λ(inert_tissue|memory_capable_tissue) ∘ β(localized_memory|distributed_memory) ∘ δγ(signal|response_cycling) ∘ μ(gene_expression_machinery|cellular_architecture) + ε | :distributed_encoding"
-siml_encoding: "⟨non_neural_cells, memory_gene_activation⟩ ⊳ ⟨neurotransmitter_mimics, chemical_signaling⟩ → ⟨memory_like_behavior, gene_expression_shift⟩ ⊗ ⟨brain_exclusivity_challenged, distributed_memory_model⟩ ⇄ ⟨cellular_memory_paradigm, embodied_cognition⟩"
+term: Memory Beyond Brain
+hex_tag: S05D
+series: S
+source_file: 1771907212682_925005_Memory+Functions+Beyond+the+Brain.md
+encoded_at: '2026-03-05T22:30:00Z'
+description: Non-neural human cells exhibit memory-like behavior, with kidney and nerve tissue cells activating memory genes similar to neurons when exposed to chemical signals mimicking neurotransmitters. Memory functions are not exclusive to brain cells.
+nemetic: Φ(Memory Beyond Brain) = σ(neural_memory|non_neural_memory) ∘ ρ(cell|chemical_signal) ∘ λ(inert_tissue|memory_capable_tissue) ∘ β(localized_memory|distributed_memory) ∘ δγ(signal|response_cycling) ∘ μ(gene_expression_machinery|cellular_architecture) + ε | :distributed_encoding
+siml_encoding: ⟨non_neural_cells, memory_gene_activation⟩ ⊳ ⟨neurotransmitter_mimics, chemical_signaling⟩ → ⟨memory_like_behavior, gene_expression_shift⟩ ⊗ ⟨brain_exclusivity_challenged, distributed_memory_model⟩ ⇄ ⟨cellular_memory_paradigm, embodied_cognition⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: neural_memory / non_neural_memory
+      S: localized_memory / distributed_memory
+      R: cell / chemical_signal
+      P: inert_tissue / memory_capable_tissue
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing neural from non-neural memory capabilities)"
-    - "∂Φ/∂ρ (relational coupling between cells and chemical signals)"
-    - "∂Φ/∂λ (transformation of inert tissue into memory-capable tissue)"
-    - "∂Φ/∂β (growth from localized brain-memory model to distributed memory)"
-    - "∂Φ/∂δγ (signal-response cycling in cellular memory activation)"
-    - "∂Φ/∂μ (gene expression machinery as structural basis for memory)"
-  Z_state: "distributed_encoding — memory as a distributed cellular capability rather than exclusive brain function"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing neural from non-neural memory capabilities)
+  - ∂Φ/∂ρ (relational coupling between cells and chemical signals)
+  - ∂Φ/∂λ (transformation of inert tissue into memory-capable tissue)
+  - ∂Φ/∂β (growth from localized brain-memory model to distributed memory)
+  - ∂Φ/∂δγ (signal-response cycling in cellular memory activation)
+  - ∂Φ/∂μ (gene expression machinery as structural basis for memory)
+  Z_state: semi
+  z_note: distributed_encoding — memory as a distributed cellular capability rather than exclusive brain function
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["neural_non_neural_distinction", "memory_boundary_redefinition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["cell_signal_coupling", "chemical_communication_networks"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["tissue_capability_transformation", "memory_gene_activation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["paradigm_expansion", "distributed_memory_model_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.65, aspects: ["signal_response_cycling", "activation_decay_oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["gene_expression_machinery", "cellular_structural_basis"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S05E", "S03A", "S059"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - neural_non_neural_distinction
+    - memory_boundary_redefinition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - cell_signal_coupling
+    - chemical_communication_networks
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - tissue_capability_transformation
+    - memory_gene_activation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - paradigm_expansion
+    - distributed_memory_model_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+    - signal_response_cycling
+    - activation_decay_oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - gene_expression_machinery
+    - cellular_structural_basis
+    daemon_correspondence: Ferrosid
+related_terms:
+- S05E
+- S03A
+- S059
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.75
+    fire_lambda: 0.8
+    wood_beta: 0.7
+    earth_delta_gamma: 0.65
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212682_925005_Memory+Functions+Beyond+the+Brain.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

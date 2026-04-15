@@ -1,9 +1,7 @@
 hex_tag: '#W004'
 term: Wu Wei (Taoist Water Wisdom)
-nemetic: Φ(Wu-Wei) = β(effortless-action|flow-without-force) ∘ μ(adaptability|shape-to-container)
-  ∘ δγ(persistence|soft-overcomes-hard) ∘ ρ(harmony-resonance|with-Tao) + ε | :open
-siml_encoding: ⟨Frame|Wu-wei⟩ ⊳ ⟨Actor|sage⟩ ⇄ ⟨Value|harmony⟩ ⊗ ⟨Protocol|non-contention⟩
-  → ⟨Outcome|natural-alignment⟩
+nemetic: Φ(Wu-Wei) = β(effortless-action|flow-without-force) ∘ μ(adaptability|shape-to-container) ∘ δγ(persistence|soft-overcomes-hard) ∘ ρ(harmony-resonance|with-Tao) + ε | :open
+siml_encoding: ⟨Frame|Wu-wei⟩ ⊳ ⟨Actor|sage⟩ ⇄ ⟨Value|harmony⟩ ⊗ ⟨Protocol|non-contention⟩ → ⟨Outcome|natural-alignment⟩
 formalism:
   math_operators:
   - β
@@ -65,6 +63,17 @@ coords:
     - Sage
     - Flowing Water
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is Wu-wei distinguished from laziness or passivity?
   ≈: What resonance does 'supreme goodness is like water' carry?
@@ -72,22 +81,66 @@ elemental_emphasis:
   𐂷: What possibilities emerge from non-contention?
   ☷: How does water's softness cycle into overcoming hardness?
   ⛨: What boundaries does water respect by flowing around?
-context_note: 'Wu Wei represents Water as ethical model—Tao Te Ching Chapter 8: ''Supreme
-  goodness is like water.'' Key insight: water doesn''t compete (β without λ), takes
-  lowest place (humility), wears away stone (persistent δγ). This is water as teacher
-  of virtue, not just element. The paradox: by not striving, water achieves everything.
-  Permeable Z-state: Wu-wei opens possibilities, doesn''t close them.'
+context_note: 'Wu Wei represents Water as ethical model—Tao Te Ching Chapter 8: ''Supreme goodness is like water.'' Key insight: water doesn''t compete (β without λ), takes lowest place (humility), wears away stone (persistent δγ). This is water as teacher of virtue, not just element. The paradox: by not striving, water achieves everything. Permeable Z-state: Wu-wei opens possibilities, doesn''t close them.'
 source: Water Symbolism in Ancient and Indigenous Worldviews — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Water Symbolism in Ancient and Indigenous Worldviews"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Wood
+  - Earth
+  suppressed:
+  - Air
+  - Fire
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.8
+    Fire: 0.3
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

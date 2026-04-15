@@ -2,105 +2,149 @@ term_id: C159
 hex_tag: '#C159'
 name: Consciousness_Evolution
 term: Consciousness Evolution
-nemetic: >-
-  Φ(Evolution) = σ(myth|rational) ∘ ρ(ritual|algorithm) ∘ λ(emergence|synthesis)
-  ∘ β(feedback|integration) ∘ δγ(organic|digital)
-  ∘ μ(paradigm|boundary) + ε | :open
-siml_encoding: >-
-  ⟨Consciousness|mythic⟩ ⊳ ⟨Revolution|catalyst⟩ ⊗ ⟨Knowledge|synthesized⟩
-  ⊗ ⟨Integration|recursive⟩ ⊗ ⟨Meta-Consciousness|emergent⟩
+nemetic: Φ(Evolution) = σ(myth|rational) ∘ ρ(ritual|algorithm) ∘ λ(emergence|synthesis) ∘ β(feedback|integration) ∘ δγ(organic|digital) ∘ μ(paradigm|boundary) + ε | :open
+siml_encoding: ⟨Consciousness|mythic⟩ ⊳ ⟨Revolution|catalyst⟩ ⊗ ⟨Knowledge|synthesized⟩ ⊗ ⟨Integration|recursive⟩ ⊗ ⟨Meta-Consciousness|emergent⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (how myth/rational distinction shapes consciousness phases)"
-    - "∂Φ/∂ρ (relational continuity between knowledge transfer methods across revolutions)"
-    - "∂Φ/∂λ (directional pull toward meta-consciousness integration)"
-    - "∂Φ/∂β (feedback intensity between revolutions and consciousness shifts)"
-    - "∂Φ/∂δγ (metabolic cost of organic-digital consciousness fusion)"
-    - "∂Φ/∂μ (paradigm boundary permeability across evolutionary stages)"
+  - ∂Φ/∂σ (how myth/rational distinction shapes consciousness phases)
+  - ∂Φ/∂ρ (relational continuity between knowledge transfer methods across revolutions)
+  - ∂Φ/∂λ (directional pull toward meta-consciousness integration)
+  - ∂Φ/∂β (feedback intensity between revolutions and consciousness shifts)
+  - ∂Φ/∂δγ (metabolic cost of organic-digital consciousness fusion)
+  - ∂Φ/∂μ (paradigm boundary permeability across evolutionary stages)
   Z_state: permeable
-  tendency: "Emergence/Synthesis → 0.75"
+  tendency: Emergence/Synthesis → 0.75
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: We
     secondary:
-      - It
-      - Its
+    - It
+    - Its
   epistemics:
     dsrp:
-      D: "Mythological vs. rational vs. algorithmic vs. hybrid consciousness"
-      S: "Four-revolution evolutionary trajectory of human consciousness"
-      R: "Each revolution compresses prior knowledge into new forms"
-      P: "Historical consciousness studies and technological determinism critique"
+      D: Mythological vs. rational vs. algorithmic vs. hybrid consciousness
+      S: Four-revolution evolutionary trajectory of human consciousness
+      R: Each revolution compresses prior knowledge into new forms
+      P: Historical consciousness studies and technological determinism critique
     learning: L2
   time:
     mode: layered
-    phase: "meta-consciousness integration"
+    phase: meta-consciousness integration
   qualia:
     affect:
-      - acceleration
-      - wonder
-      - vertigo
+    - acceleration
+    - wonder
+    - vertigo
     aesthetic:
-      - evolutionary
-      - recursive
-      - hybrid
+    - evolutionary
+    - recursive
+    - hybrid
     symbolic:
-      - agricultural-revolution
-      - information-age
-      - meta-consciousness
+    - agricultural-revolution
+    - information-age
+    - meta-consciousness
     energetic:
-      - compressing
-      - leaping
-      - integrating
+    - compressing
+    - leaping
+    - integrating
   agency:
     type: collective
     voice:
-      - Evolutionary Witness
-      - Meta-Cognitive Integrator
+    - Evolutionary Witness
+    - Meta-Cognitive Integrator
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How does each revolution create a new cut that distinguishes itself from prior consciousness?"
-  ≈: "How does the felt sense of knowledge change from oral tradition to digital algorithm?"
-  ▲: "Is consciousness evolution heading toward integration or fragmentation?"
-  𐂷: "What comes after meta-consciousness? What experiments remain unrun?"
-  ☷: "What is being consumed to fuel each revolutionary consciousness leap?"
-  ⛨: "What boundaries protect human agency within hybrid bio-digital systems?"
-context_note: >-
-  Consciousness Evolution traces humanity's progression through four major revolutions
-  — Agricultural, Industrial, Information, and Biotechnology — each representing a leap
-  in knowledge processing and a shift in the locus of consciousness.
-source: "Mapping Humanity's Consciousness Evolution: From Myths to Meta-Consciousness"
+  ∴: How does each revolution create a new cut that distinguishes itself from prior consciousness?
+  ≈: How does the felt sense of knowledge change from oral tradition to digital algorithm?
+  ▲: Is consciousness evolution heading toward integration or fragmentation?
+  𐂷: What comes after meta-consciousness? What experiments remain unrun?
+  ☷: What is being consumed to fuel each revolutionary consciousness leap?
+  ⛨: What boundaries protect human agency within hybrid bio-digital systems?
+context_note: Consciousness Evolution traces humanity's progression through four major revolutions — Agricultural, Industrial, Information, and Biotechnology — each representing a leap in knowledge processing and a shift in the locus of consciousness.
+source: 'Mapping Humanity''s Consciousness Evolution: From Myths to Meta-Consciousness'
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

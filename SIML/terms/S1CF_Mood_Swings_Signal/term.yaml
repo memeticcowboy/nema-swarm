@@ -1,32 +1,151 @@
 ---
-term: "Mood Swings: Signal of Upstream Instability"
-hex_tag: "S1CF"
-series: "S"
-source_file: "1771907213808_2714813_Mood+Swings%3A+Signal+of+Underlying+Instability.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Mood swings are almost never the origin of instability. They are downstream signals that can masquerade as upstream causes. They indicate regulatory instability where the system cannot carry experience smoothly across time. They become dangerous when emotional state is treated as truth and intensity substitutes for timing."
-nemetic: "Φ(Mood Swings Signal) = σ(origin|signal) ∘ ρ(weather|terrain) ∘ λ(symptom|secondary_driver) ∘ β(metabolic_volatility|regulatory_stability) ∘ δγ(upstream_cause|downstream_effect) ∘ μ(containment|escalation) + ε | :regulatory_instability"
-siml_encoding: "⟨origin, signal⟩ ⊳ ⟨weather, terrain⟩ → ⟨symptom, secondary_driver⟩ ⊗ ⟨metabolic_volatility, regulatory_stability⟩ ⇄ ⟨containment, escalation⟩"
+term: 'Mood Swings: Signal of Upstream Instability'
+hex_tag: S1CF
+series: S
+source_file: 1771907213808_2714813_Mood+Swings%3A+Signal+of+Underlying+Instability.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Mood swings are almost never the origin of instability. They are downstream signals that can masquerade as upstream causes. They indicate regulatory instability where the system cannot carry experience smoothly across time. They become dangerous when emotional state is treated as truth and intensity substitutes for timing.
+nemetic: Φ(Mood Swings Signal) = σ(origin|signal) ∘ ρ(weather|terrain) ∘ λ(symptom|secondary_driver) ∘ β(metabolic_volatility|regulatory_stability) ∘ δγ(upstream_cause|downstream_effect) ∘ μ(containment|escalation) + ε | :regulatory_instability
+siml_encoding: ⟨origin, signal⟩ ⊳ ⟨weather, terrain⟩ → ⟨symptom, secondary_driver⟩ ⊗ ⟨metabolic_volatility, regulatory_stability⟩ ⇄ ⟨containment, escalation⟩
+coords:
+  ontology:
+    primary: It
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: origin / signal
+      S: metabolic_volatility / regulatory_stability
+      R: weather / terrain
+      P: symptom / secondary_driver
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes mood swings as signal from mood swings as origin. The core diagnostic: they indicate load-path failure somewhere upstream, not the failure itself."
-    - "∂Φ/∂ρ — Water maps mood as weather, not terrain. Wind, not direction. Signal, not source. They tell you something upstream is misrouting energy."
-    - "∂Φ/∂λ — Fire identifies the transformation from informational downstream symptom to secondary driver when emotional state is treated as truth and intensity substitutes for timing."
-    - "∂Φ/∂β — Wood tracks the upstream causes: metabolic volatility (sleep, glucose, hormones), boundary erosion, signal interference, structural injury, contextual compression."
-    - "∂Φ/∂δγ — Earth cycles between upstream causes and downstream effects. Mood swings become dangerous when they start driving distinction and binding rather than passing through flow."
-    - "∂Φ/∂μ — Metal structures the diagnostic rule: are mood shifts changing what can be seen, chosen, or revised? If no, informational. If yes, needs containment. If treated as identity, high-risk escalation."
-  Z_state: "regulatory_instability — the systemic condition where the system cannot carry experience smoothly across time, producing mood oscillation as downstream signal"
-  tendency: "σ → 0.82"
+  - '∂Φ/∂σ — Air distinguishes mood swings as signal from mood swings as origin. The core diagnostic: they indicate load-path failure somewhere upstream, not the failure itself.'
+  - ∂Φ/∂ρ — Water maps mood as weather, not terrain. Wind, not direction. Signal, not source. They tell you something upstream is misrouting energy.
+  - ∂Φ/∂λ — Fire identifies the transformation from informational downstream symptom to secondary driver when emotional state is treated as truth and intensity substitutes for timing.
+  - '∂Φ/∂β — Wood tracks the upstream causes: metabolic volatility (sleep, glucose, hormones), boundary erosion, signal interference, structural injury, contextual compression.'
+  - ∂Φ/∂δγ — Earth cycles between upstream causes and downstream effects. Mood swings become dangerous when they start driving distinction and binding rather than passing through flow.
+  - '∂Φ/∂μ — Metal structures the diagnostic rule: are mood shifts changing what can be seen, chosen, or revised? If no, informational. If yes, needs containment. If treated as identity, high-risk escalation.'
+  Z_state: semi
+  z_note: regulatory_instability — the systemic condition where the system cannot carry experience smoothly across time, producing mood oscillation as downstream signal
+  tendency: σ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.82, aspects: ["origin-signal distinction", "diagnostic classification"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["weather metaphor", "flow dynamics"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.68, aspects: ["symptom-to-driver transformation", "escalation detection"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["upstream cause tracking", "metabolic volatility"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["upstream-downstream cycling", "load-path analysis"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.78, aspects: ["diagnostic rule structure", "containment protocol"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.82
+    aspects:
+    - origin-signal distinction
+    - diagnostic classification
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - weather metaphor
+    - flow dynamics
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.68
+    aspects:
+    - symptom-to-driver transformation
+    - escalation detection
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - upstream cause tracking
+    - metabolic volatility
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - upstream-downstream cycling
+    - load-path analysis
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.78
+    aspects:
+    - diagnostic rule structure
+    - containment protocol
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.82
+    water_rho: 0.72
+    fire_lambda: 0.68
+    wood_beta: 0.65
+    earth_delta_gamma: 0.75
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213808_2714813_Mood+Swings%3A+Signal+of+Underlying+Instability.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

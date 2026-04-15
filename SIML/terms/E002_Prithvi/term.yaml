@@ -1,9 +1,7 @@
 hex_tag: '#E002'
 term: Prithvi (Ayurvedic Earth)
-nemetic: Φ(Prithvi) = μ(solidity|bones-teeth-muscles) ∘ δγ(structure|Kapha-dosha)
-  ∘ ρ(sense-of-smell|grounding) ∘ χ(distinction|from-other-elements) + ε | :open
-siml_encoding: ⟨Resource|prithvi⟩ ⊳ ⟨Actor|body⟩ ⇄ ⟨Value|stability⟩ ⊗ ⟨Protocol|Ayurvedic-balance⟩
-  → ⟨Outcome|health-coherence⟩
+nemetic: Φ(Prithvi) = μ(solidity|bones-teeth-muscles) ∘ δγ(structure|Kapha-dosha) ∘ ρ(sense-of-smell|grounding) ∘ σ(distinction|from-other-elements) + ε | :open
+siml_encoding: ⟨Resource|prithvi⟩ ⊳ ⟨Actor|body⟩ ⇄ ⟨Value|stability⟩ ⊗ ⟨Protocol|Ayurvedic-balance⟩ → ⟨Outcome|health-coherence⟩
 formalism:
   math_operators:
   - μ
@@ -15,11 +13,6 @@ formalism:
   - Ψ_regenerative
   - Q_inward
   - χ
-  partials:
-  - ∂Φ/∂μ (physical structure)
-  - ∂Φ/∂δγ (metabolic cycling)
-  - ∂Φ/∂ρ (sensory grounding)
-  - ∂Φ/∂σ (elemental distinction)
   Z_state: permeable
   tendency: Structure/Resonance → 1
   hex:
@@ -27,6 +20,11 @@ formalism:
   - '0x05'
   - '0x02'
   - '0x01'
+  partials:
+  - ∂Φ/∂μ (solidity|bones-teeth-muscles)
+  - ∂Φ/∂δγ (structure|Kapha-dosha)
+  - ∂Φ/∂ρ (sense-of-smell|grounding)
+  - ∂Φ/∂σ (distinction|from-other-elements)
 coords:
   ontology:
     primary: It
@@ -64,6 +62,17 @@ coords:
     - Bodily Structure
     - Elemental Balance
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is Prithvi distinguished from Vayu (Air) or Agni (Fire)?
   ≈: What is the felt sense of 'grounding' in the body?
@@ -71,22 +80,79 @@ elemental_emphasis:
   𐂷: What dietary possibilities emerge from Earth-element foods?
   ☷: How does the Earth element cycle through consumption and elimination?
   ⛨: What boundaries does physical structure provide against imbalance?
-context_note: 'Prithvi represents Earth as embodied structure—literally the bones
-  and muscles that hold us. Unlike Gaia''s cosmic creativity, Prithvi is intimate
-  and physiological. The key insight: Earth element is regulated through food and
-  defecation, making it metabolically controllable. Imbalance (excess/deficiency)
-  manifests physically and emotionally.'
+context_note: 'Prithvi represents Earth as embodied structure—literally the bones and muscles that hold us. Unlike Gaia''s cosmic creativity, Prithvi is intimate and physiological. The key insight: Earth element is regulated through food and defecation, making it metabolically controllable. Imbalance (excess/deficiency) manifests physically and emotionally.'
 source: The Elemental and the Ethereal — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "The Elemental and the Ethereal"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T18:30:02Z'
+  actions:
+  - phi_correction:chi_to_sigma
+  audit: E002_CHI_SIGMA_REPAIR
+  rationale: χ is the dimensional operator; distinction belongs to σ. Repair reflects canonical operator-to-meaning mapping.
+- date: '2026-04-15'
+  utc: '2026-04-15T18:30:02Z'
+  actions:
+  - formalism+['partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.3
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Earth
+  - Metal
+  suppressed:
+  - Air
+  - Fire
+  - Wood
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.8
+    Fire: 0.3
+    Wood: 0.3
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

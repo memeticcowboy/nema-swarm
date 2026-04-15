@@ -1,32 +1,151 @@
 ---
-term: "Schmachtenberger Superstructure"
-hex_tag: "S131"
-series: "S"
-source_file: "1771907213398_2365739_Understanding+Daniel+Schmachtenberger%27s+Superstructure+Concept.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Daniel Schmachtenberger's concept of superstructure — the layered network of societal constructs, cultural norms, institutions, and belief systems that emerge atop the economic and material base. Superstructure both reflects and shapes material conditions. Systems thinking applied to identify leverage points for systemic change."
-nemetic: "Φ(Schmachtenberger Superstructure) = σ(material_base|superstructure) ∘ ρ(individual_agency|structural_constraint) ∘ λ(stability|transformation) ∘ β(institutional_inertia|systemic_change) ∘ δγ(economic_foundation|cultural_emergence) ∘ μ(societal_construct|systems_architecture) + ε | :leverage_point_systemic_intervention"
-siml_encoding: "⟨base_superstructure_distinction, systemic_scope⟩ ⊳ ⟨agency_constraint_relating, structural_web⟩ → ⟨stability_transformation_catalysis, change_ignition⟩ ⊗ ⟨inertia_change_growth, systemic_expansion⟩ ⇄ ⟨economic_cultural_cycling, base_emergence_rhythm⟩"
+term: Schmachtenberger Superstructure
+hex_tag: S131
+series: S
+source_file: 1771907213398_2365739_Understanding+Daniel+Schmachtenberger%27s+Superstructure+Concept.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Daniel Schmachtenberger's concept of superstructure — the layered network of societal constructs, cultural norms, institutions, and belief systems that emerge atop the economic and material base. Superstructure both reflects and shapes material conditions. Systems thinking applied to identify leverage points for systemic change.
+nemetic: Φ(Schmachtenberger Superstructure) = σ(material_base|superstructure) ∘ ρ(individual_agency|structural_constraint) ∘ λ(stability|transformation) ∘ β(institutional_inertia|systemic_change) ∘ δγ(economic_foundation|cultural_emergence) ∘ μ(societal_construct|systems_architecture) + ε | :leverage_point_systemic_intervention
+siml_encoding: ⟨base_superstructure_distinction, systemic_scope⟩ ⊳ ⟨agency_constraint_relating, structural_web⟩ → ⟨stability_transformation_catalysis, change_ignition⟩ ⊗ ⟨inertia_change_growth, systemic_expansion⟩ ⇄ ⟨economic_cultural_cycling, base_emergence_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: material_base / superstructure
+      S: institutional_inertia / systemic_change
+      R: individual_agency / structural_constraint
+      P: stability / transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing material base from superstructure — the foundational discernment between economic and material conditions and the layered network of institutions, norms, beliefs, and cultural constructs that emerge from and reciprocally shape those conditions)"
-    - "∂Φ/∂ρ (relating individual agency to structural constraint — the relational tension between the capacity of individuals to act and the structural constraints imposed by superstructural systems including legal, educational, media, and political frameworks)"
-    - "∂Φ/∂λ (transforming stability into systemic change — the catalytic identification of leverage points where intervention in the superstructure can produce cascading transformation rather than mere surface adjustment)"
-    - "∂Φ/∂β (growth from institutional inertia to systemic change — the developmental expansion from recognizing how institutions resist transformation to identifying pathways for genuine systemic evolution through strategic leverage)"
-    - "∂Φ/∂δγ (cycling between economic foundation and cultural emergence — the grounding oscillation between material conditions that generate superstructural forms and the superstructural dynamics that recursively reshape material conditions)"
-    - "∂Φ/∂μ (structural architecture of societal constructs and systems thinking — the formal mapping of how legal systems, political entities, educational frameworks, and media narratives form an interconnected architecture amenable to systems-level analysis and intervention)"
-  Z_state: "leverage_point_systemic_intervention — the superstructure is revealed as a layered, recursive, systems-level architecture where societal constructs, institutions, cultural norms, and belief systems both emerge from and shape the material base; systems thinking enables identification of leverage points where strategic intervention can cascade through the superstructure to produce genuine transformation rather than surface adjustment; individual agency operates within and against structural constraints in a dynamic that admits of systemic change"
-  tendency: "μ → 0.90"
+  - ∂Φ/∂σ (distinguishing material base from superstructure — the foundational discernment between economic and material conditions and the layered network of institutions, norms, beliefs, and cultural constructs that emerge from and reciprocally shape those conditions)
+  - ∂Φ/∂ρ (relating individual agency to structural constraint — the relational tension between the capacity of individuals to act and the structural constraints imposed by superstructural systems including legal, educational, media, and political frameworks)
+  - ∂Φ/∂λ (transforming stability into systemic change — the catalytic identification of leverage points where intervention in the superstructure can produce cascading transformation rather than mere surface adjustment)
+  - ∂Φ/∂β (growth from institutional inertia to systemic change — the developmental expansion from recognizing how institutions resist transformation to identifying pathways for genuine systemic evolution through strategic leverage)
+  - ∂Φ/∂δγ (cycling between economic foundation and cultural emergence — the grounding oscillation between material conditions that generate superstructural forms and the superstructural dynamics that recursively reshape material conditions)
+  - ∂Φ/∂μ (structural architecture of societal constructs and systems thinking — the formal mapping of how legal systems, political entities, educational frameworks, and media narratives form an interconnected architecture amenable to systems-level analysis and intervention)
+  Z_state: semi
+  z_note: leverage_point_systemic_intervention — the superstructure is revealed as a layered, recursive, systems-level architecture where societal constructs, institutions, cultural norms, and belief systems both emerge from and shape the material base; systems thinking enables identification of leverage points where strategic intervention can cascade through the superstructure to produce genuine transformation rather than surface adjustment; individual agency operates within and against structural constraints in a dynamic that admits of systemic change
+  tendency: μ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["base_superstructure_discernment", "systemic_layer_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["agency_constraint_relating", "individual_structural_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["stability_transformation_catalysis", "leverage_point_ignition"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["inertia_to_change_growth", "systemic_evolution_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["economic_cultural_grounding", "base_emergence_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["systems_architecture", "institutional_framework_structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - base_superstructure_discernment
+    - systemic_layer_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - agency_constraint_relating
+    - individual_structural_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - stability_transformation_catalysis
+    - leverage_point_ignition
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - inertia_to_change_growth
+    - systemic_evolution_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - economic_cultural_grounding
+    - base_emergence_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - systems_architecture
+    - institutional_framework_structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213398_2365739_Understanding+Daniel+Schmachtenberger%27s+Superstructure+Concept.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

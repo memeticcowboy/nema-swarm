@@ -5,47 +5,155 @@ family: Cowboy_Canonical
 status: active
 created: 2026-03-19
 author: Bert, the Memetic Cowboy
+etymology: 'Acronym for "Six Degrees of Freedom"—the standard mechanical engineering  term for the freedom of movement of a rigid body in three-dimensional space:  three translations (X, Y, Z) and three rotations (Yaw, Pitch, Roll). Adapted  by SelfMesh framework to describe the elemental physics of perceiver attitude  as control weightings on coupling geometry.
 
-etymology: >
-  Acronym for "Six Degrees of Freedom"—the standard mechanical engineering 
-  term for the freedom of movement of a rigid body in three-dimensional space: 
-  three translations (X, Y, Z) and three rotations (Yaw, Pitch, Roll). Adapted 
-  by SelfMesh framework to describe the elemental physics of perceiver attitude 
-  as control weightings on coupling geometry.
+  '
+definition: 'The six degrees of freedom operationalized as elemental control surfaces  regulating NEMA flow through the bow-tie bottleneck. Each DOF manifests  specific elemental biases: X (Intake/Expression) as λ-gating with Fire/Air;  Y (We/Other) as ρ-permeability with Water/Metal; Z (Surface/Depth) as  δγ-velocity with Earth/Wood; Yaw (Attentional Heading) as σ-steering with  Air/Aether; Pitch (Temporal Tilt) as λ↔️δγ tension between Fire and Earth;  Roll (Boundary Stance) as μ-coherence with Metal/Water. The 6DOF attitude  is the Ψ-pose—the instantaneous geometry of the bow-tie throat.
 
-definition: >
-  The six degrees of freedom operationalized as elemental control surfaces 
-  regulating NEMA flow through the bow-tie bottleneck. Each DOF manifests 
-  specific elemental biases: X (Intake/Expression) as λ-gating with Fire/Air; 
-  Y (We/Other) as ρ-permeability with Water/Metal; Z (Surface/Depth) as 
-  δγ-velocity with Earth/Wood; Yaw (Attentional Heading) as σ-steering with 
-  Air/Aether; Pitch (Temporal Tilt) as λ↔️δγ tension between Fire and Earth; 
-  Roll (Boundary Stance) as μ-coherence with Metal/Water. The 6DOF attitude 
-  is the Ψ-pose—the instantaneous geometry of the bow-tie throat.
-
+  '
 elemental_signature:
-  Air: 0.80
+  Air: 0.8
   Fire: 0.75
-  Water: 0.70
+  Water: 0.7
   Metal: 0.65
-  Earth: 0.60
+  Earth: 0.6
   Wood: 0.55
-  Meta: 0.50
-
+  Meta: 0.5
 aliases:
-  - six degrees of freedom
-  - elemental control surfaces
-  - DOF axes
-  - Ψ-pose dimensions
-
+- six degrees of freedom
+- elemental control surfaces
+- DOF axes
+- Ψ-pose dimensions
 see_also:
-  - selfmesh
-  - bow-tie
-  - sigma
-  - rho
-  - lambda
-  - delta-gamma
-  - mu
-
+- selfmesh
+- bow-tie
+- sigma
+- rho
+- lambda
+- delta-gamma
+- mu
 cross_references:
-  - papers/selfmesh_v1.1_nematic_integration.md
+- papers/selfmesh_v1.1_nematic_integration.md
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_mapping:
+  Air: 0.3
+  Water: 0.3
+  Fire: 0.3
+  Wood: 0.3
+  Earth: 0.3
+  Metal: 0.3
+  Meta: 0.3
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - μ
+  partials:
+  - ∂Φ/∂σ (freedom|constraint)
+  - ∂Φ/∂ρ (coupling|orientation)
+  - ∂Φ/∂λ (trajectory|attitude)
+  - ∂Φ/∂β (geometry|motion)
+  - ∂Φ/∂μ (axis|boundary)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: pre_siml_sketch
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_mapping
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  - hex_tag_from_hex
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - context_note_from_definition
+  - source_framework_internal
+  - lifecycle_pre_siml_sketch
+  - nemetic_placeholder_stub
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:48:33Z'
+  actions:
+  - stub_expand
+  - phi_sync
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:48:33Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+hex_tag: CB014
+context_note: 'The six degrees of freedom operationalized as elemental control surfaces  regulating NEMA flow through the bow-tie bottleneck. Each DOF manifests  specific elemental biases: X (Intake/Expression) as λ-gating with Fire/Air;  Y (We/Other) as ρ-permeability with Water/Metal; Z (Surface/Depth) as  δγ-velocity with Earth/Wood; Yaw (Attentional Heading) as σ-steering with  Air/Aether; Pitch (Temporal Ti'
+source: Memetic Cowboy — framework-internal sketch (pre-SIML-encoding)
+nemetic_string: Φ(6DOF) = σ(freedom|constraint) ∘ ρ(coupling|orientation) ∘ λ(trajectory|attitude) ∘ β(geometry|motion) ∘ μ(axis|boundary) + ε | :pre_siml_sketch
+provenance:
+  author: "Memetic Cowboy"
+  work: "Memetic Cowboy — framework-internal sketch (pre-SIML-encoding)"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

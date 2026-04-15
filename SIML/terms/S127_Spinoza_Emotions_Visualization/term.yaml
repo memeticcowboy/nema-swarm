@@ -1,50 +1,156 @@
 ---
-term: "Spinoza's Emotions Visualization"
-hex_tag: "S127"
-series: "S"
-source_file: "1771907213380_2354426_Exploring+Spinoza%27s+Emotions+Through+Data+Visualization.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Spinoza's Ethics proposes that every emotion composes from three foundational affects: joy (laetitia), sadness (tristitia), and desire (cupiditas). Using geometric proof methodology where each proposition is rigorously derived from prior propositions, the Ethics builds a complete emotional taxonomy. Data visualization on the Observable platform maps these relationships spatially, revealing structural patterns invisible in text. Neuroscientist Antonio Damasio confirms that modern emotion science substantially aligns with Spinoza's 1677 framework, validating the triadic model as a durable foundation for understanding affective complexity."
-nemetic: "Φ(Spinoza_Emotions) = σ(mapping|obscuring) ∘ ρ(joy|sadness) ∘ λ(desire|aversion) ∘ β(composition|reduction) ∘ δγ(proof|experience) ∘ μ(geometry|fluidity) + ε | :triadic_foundation"
-siml_encoding: "⟨joy:laetitia_increase⟩ ⊳ ⟨sadness:tristitia_decrease⟩ → ⟨desire:cupiditas_drive⟩ ⊗ ⟨geometric_proof:structural_rigor⟩ ⇄ ⟨visualization:felt_complexity⟩"
+term: Spinoza's Emotions Visualization
+hex_tag: S127
+series: S
+source_file: 1771907213380_2354426_Exploring+Spinoza%27s+Emotions+Through+Data+Visualization.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Spinoza''s Ethics proposes that every emotion composes from three foundational affects: joy (laetitia), sadness (tristitia), and desire (cupiditas). Using geometric proof methodology where each proposition is rigorously derived from prior propositions, the Ethics builds a complete emotional taxonomy. Data visualization on the Observable platform maps these relationships spatially, revealing structural patterns invisible in text. Neuroscientist Antonio Damasio confirms that modern emotion science substantially aligns with Spinoza''s 1677 framework, validating the triadic model as a durable foundation for understanding affective complexity.'
+nemetic: Φ(Spinoza_Emotions) = σ(mapping|obscuring) ∘ ρ(joy|sadness) ∘ λ(desire|aversion) ∘ β(composition|reduction) ∘ δγ(proof|experience) ∘ μ(geometry|fluidity) + ε | :triadic_foundation
+siml_encoding: ⟨joy:laetitia_increase⟩ ⊳ ⟨sadness:tristitia_decrease⟩ → ⟨desire:cupiditas_drive⟩ ⊗ ⟨geometric_proof:structural_rigor⟩ ⇄ ⟨visualization:felt_complexity⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: mapping / obscuring
+      S: composition / reduction
+      R: joy / sadness
+      P: desire / aversion
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (visualization maps emotional structure, making hidden compositions visible)"
-    - "∂Φ/∂ρ (joy-sadness axis as primary affective gradient shaping all emotional life)"
-    - "∂Φ/∂λ (desire as transformative drive that energizes the entire affective system)"
-    - "∂Φ/∂β (emotional composition from three roots generates full taxonomic branching)"
-    - "∂Φ/∂δγ (geometric proof as ground vs lived experience as ground — epistemic tension)"
-    - "∂Φ/∂μ (geometric structure imposes formal order on inherently fluid affect)"
-  Z_state: "triadic_foundation"
-  tendency: "ρ → 0.84"
+  - ∂Φ/∂σ (visualization maps emotional structure, making hidden compositions visible)
+  - ∂Φ/∂ρ (joy-sadness axis as primary affective gradient shaping all emotional life)
+  - ∂Φ/∂λ (desire as transformative drive that energizes the entire affective system)
+  - ∂Φ/∂β (emotional composition from three roots generates full taxonomic branching)
+  - ∂Φ/∂δγ (geometric proof as ground vs lived experience as ground — epistemic tension)
+  - ∂Φ/∂μ (geometric structure imposes formal order on inherently fluid affect)
+  Z_state: semi
+  tendency: ρ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.76
-    aspects: [data_visualization, structural_mapping, pattern_revelation]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - data_visualization
+    - structural_mapping
+    - pattern_revelation
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.88
-    aspects: [joy_sadness_gradient, affective_immersion, emotional_depth]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - joy_sadness_gradient
+    - affective_immersion
+    - emotional_depth
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.72
-    aspects: [desire_as_drive, cupiditas_energy, transformative_wanting]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - desire_as_drive
+    - cupiditas_energy
+    - transformative_wanting
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.67
-    aspects: [taxonomic_branching, emotional_composition, affective_ecology]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - taxonomic_branching
+    - emotional_composition
+    - affective_ecology
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.74
-    aspects: [geometric_proof_ground, empirical_validation, philosophical_bedrock]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - geometric_proof_ground
+    - empirical_validation
+    - philosophical_bedrock
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.82
-    aspects: [geometric_method, propositional_structure, formal_rigor]
-    daemon_correspondence: "Ferrosid"
+    aspects:
+    - geometric_method
+    - propositional_structure
+    - formal_rigor
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - metal_mu
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.76
+    water_rho: 0.88
+    fire_lambda: 0.72
+    wood_beta: 0.67
+    earth_delta_gamma: 0.74
+    metal_mu: 0.82
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213380_2354426_Exploring+Spinoza%27s+Emotions+Through+Data+Visualization.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

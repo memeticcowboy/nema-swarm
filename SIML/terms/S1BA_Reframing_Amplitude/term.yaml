@@ -1,32 +1,151 @@
 ---
-term: "Reframing Amplitude: From Shame to Insight"
-hex_tag: "S1BA"
-series: "S"
-source_file: "1771907213761_2650897_Reframing+Amplitude%3A+From+Shame+to+Insight.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Human systems suppress amplitude by moralizing it as danger. When something breaks, it is evidence of an undersized container, not a flawed motion. Amplitude is reclassified from moral risk to structural signal, detaching intensity from guilt and reattaching it to design."
-nemetic: "Φ(Reframing Amplitude) = σ(moral_risk|structural_signal) ∘ ρ(shame|validation) ∘ λ(fall_narrative|ceiling_analysis) ∘ β(constrained_motion|degrees_of_freedom) ∘ δγ(punishment|feedback) ∘ μ(moralism|kinematics) + ε | :forbidden_variable"
-siml_encoding: "⟨moral_risk, structural_signal⟩ ⊳ ⟨shame, validation⟩ → ⟨fall_narrative, ceiling_analysis⟩ ⊗ ⟨constrained_motion, degrees_of_freedom⟩ ⇄ ⟨moralism, kinematics⟩"
+term: 'Reframing Amplitude: From Shame to Insight'
+hex_tag: S1BA
+series: S
+source_file: 1771907213761_2650897_Reframing+Amplitude%3A+From+Shame+to+Insight.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Human systems suppress amplitude by moralizing it as danger. When something breaks, it is evidence of an undersized container, not a flawed motion. Amplitude is reclassified from moral risk to structural signal, detaching intensity from guilt and reattaching it to design.
+nemetic: Φ(Reframing Amplitude) = σ(moral_risk|structural_signal) ∘ ρ(shame|validation) ∘ λ(fall_narrative|ceiling_analysis) ∘ β(constrained_motion|degrees_of_freedom) ∘ δγ(punishment|feedback) ∘ μ(moralism|kinematics) + ε | :forbidden_variable
+siml_encoding: ⟨moral_risk, structural_signal⟩ ⊳ ⟨shame, validation⟩ → ⟨fall_narrative, ceiling_analysis⟩ ⊗ ⟨constrained_motion, degrees_of_freedom⟩ ⇄ ⟨moralism, kinematics⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: moral_risk / structural_signal
+      S: constrained_motion / degrees_of_freedom
+      R: shame / validation
+      P: fall_narrative / ceiling_analysis
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes moral risk from structural signal. Amplitude is not arrogance; it is information. The distinction strips morality from intensity and replaces it with measurement."
-    - "∂Φ/∂ρ — Water shifts the relational field from shame to somatic validation. Bruises become feedback, not debt. Intensity is decoupled from defect."
-    - "∂Φ/∂λ — Fire transforms the fall narrative (Icarus, hubris) into ceiling analysis. If something breaks, resize the container. The transformation converts fear into inquiry about capacity."
-    - "∂Φ/∂β — Wood tracks the degrees of freedom available for growth. Six degrees: pitch, yaw, roll, surge, heave, sway. Growth is a physics problem, not an ethical one."
-    - "∂Φ/∂δγ — Earth cycles between punishment (moralizing amplitude) and feedback (learning from breakage). Low ceilings become skylights when the container is redesigned."
-    - "∂Φ/∂μ — Metal structures the anti-moralist framework: kinematics replaces ethics, measurement replaces judgment, design replaces blame."
-  Z_state: "forbidden_variable — amplitude as the suppressed dimension of human motion, moralized into danger rather than read as structural information"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ — Air distinguishes moral risk from structural signal. Amplitude is not arrogance; it is information. The distinction strips morality from intensity and replaces it with measurement.
+  - ∂Φ/∂ρ — Water shifts the relational field from shame to somatic validation. Bruises become feedback, not debt. Intensity is decoupled from defect.
+  - ∂Φ/∂λ — Fire transforms the fall narrative (Icarus, hubris) into ceiling analysis. If something breaks, resize the container. The transformation converts fear into inquiry about capacity.
+  - '∂Φ/∂β — Wood tracks the degrees of freedom available for growth. Six degrees: pitch, yaw, roll, surge, heave, sway. Growth is a physics problem, not an ethical one.'
+  - ∂Φ/∂δγ — Earth cycles between punishment (moralizing amplitude) and feedback (learning from breakage). Low ceilings become skylights when the container is redesigned.
+  - '∂Φ/∂μ — Metal structures the anti-moralist framework: kinematics replaces ethics, measurement replaces judgment, design replaces blame.'
+  Z_state: semi
+  z_note: forbidden_variable — amplitude as the suppressed dimension of human motion, moralized into danger rather than read as structural information
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["moral-structural distinction", "amplitude as information"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["shame dissolution", "somatic validation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["hubris reversal", "ceiling analysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["degrees of freedom", "growth physics"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.60, aspects: ["punishment-feedback cycling", "ceiling-skylight"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["kinematic vocabulary", "anti-moralism structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - moral-structural distinction
+    - amplitude as information
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - shame dissolution
+    - somatic validation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - hubris reversal
+    - ceiling analysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - degrees of freedom
+    - growth physics
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.6
+    aspects:
+    - punishment-feedback cycling
+    - ceiling-skylight
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - kinematic vocabulary
+    - anti-moralism structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.7
+    fire_lambda: 0.78
+    wood_beta: 0.65
+    earth_delta_gamma: 0.6
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213761_2650897_Reframing+Amplitude%3A+From+Shame+to+Insight.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

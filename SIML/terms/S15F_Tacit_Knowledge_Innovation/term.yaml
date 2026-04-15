@@ -1,32 +1,151 @@
 ---
-term: "Tacit Knowledge Innovation"
-hex_tag: "S15F"
-series: "S"
-source_file: "1771907213503_2433953_Harnessing+Tacit+Knowledge+for+Innovation.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The process of harnessing unspoken insights, intuitions, and experiential wisdom — knowledge that is personal, context-dependent, and difficult to articulate — as a primary driver of innovation, decision-making, and organizational learning."
-nemetic: "Φ(TacitKnowledge) = σ(intuitive_insight|explicit_documentation) ∘ ρ(mentorship_transfer|formal_instruction) ∘ λ(creative_application|routine_procedure) ∘ β(experiential_accumulation|textbook_learning) ∘ δγ(embodied_expertise|codified_protocol) ∘ μ(knowledge_architecture|informal_diffusion) + ε | :tacit_resonance"
-siml_encoding: "⟨intuitive_perception⟩ ⊳ ⟨relational_transfer⟩ → ⟨innovative_application⟩ ⊗ ⟨experiential_growth⟩ ⇄ ⟨cultural_embedding⟩"
+term: Tacit Knowledge Innovation
+hex_tag: S15F
+series: S
+source_file: 1771907213503_2433953_Harnessing+Tacit+Knowledge+for+Innovation.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The process of harnessing unspoken insights, intuitions, and experiential wisdom — knowledge that is personal, context-dependent, and difficult to articulate — as a primary driver of innovation, decision-making, and organizational learning.
+nemetic: Φ(TacitKnowledge) = σ(intuitive_insight|explicit_documentation) ∘ ρ(mentorship_transfer|formal_instruction) ∘ λ(creative_application|routine_procedure) ∘ β(experiential_accumulation|textbook_learning) ∘ δγ(embodied_expertise|codified_protocol) ∘ μ(knowledge_architecture|informal_diffusion) + ε | :tacit_resonance
+siml_encoding: ⟨intuitive_perception⟩ ⊳ ⟨relational_transfer⟩ → ⟨innovative_application⟩ ⊗ ⟨experiential_growth⟩ ⇄ ⟨cultural_embedding⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: intuitive_insight / explicit_documentation
+      S: experiential_accumulation / textbook_learning
+      R: mentorship_transfer / formal_instruction
+      P: creative_application / routine_procedure
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (intuitive insight perceives what cannot be explicitly stated)"
-    - "∂Φ/∂ρ (mentorship transfer conveys knowledge through relational proximity)"
-    - "∂Φ/∂λ (creative application transforms tacit wisdom into novel solutions)"
-    - "∂Φ/∂β (experiential accumulation grows personal knowledge reservoirs over time)"
-    - "∂Φ/∂δγ (embodied expertise grounds knowing in practiced physical and cognitive routines)"
-    - "∂Φ/∂μ (knowledge architecture structures environments for tacit knowledge flow)"
-  Z_state: "tacit resonance — the state where unspoken knowledge circulates through shared practice and relational trust"
-  tendency: "β → 0.85"
+  - ∂Φ/∂σ (intuitive insight perceives what cannot be explicitly stated)
+  - ∂Φ/∂ρ (mentorship transfer conveys knowledge through relational proximity)
+  - ∂Φ/∂λ (creative application transforms tacit wisdom into novel solutions)
+  - ∂Φ/∂β (experiential accumulation grows personal knowledge reservoirs over time)
+  - ∂Φ/∂δγ (embodied expertise grounds knowing in practiced physical and cognitive routines)
+  - ∂Φ/∂μ (knowledge architecture structures environments for tacit knowledge flow)
+  Z_state: semi
+  z_note: tacit resonance — the state where unspoken knowledge circulates through shared practice and relational trust
+  tendency: β → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["intuitive_insight", "pattern_sensing"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["mentorship_transfer", "storytelling_exchange"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["creative_application", "innovative_spark"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["experiential_accumulation", "wisdom_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["embodied_expertise", "practiced_skill"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.50, aspects: ["knowledge_architecture", "organizational_scaffolding"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - intuitive_insight
+    - pattern_sensing
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - mentorship_transfer
+    - storytelling_exchange
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - creative_application
+    - innovative_spark
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - experiential_accumulation
+    - wisdom_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - embodied_expertise
+    - practiced_skill
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.5
+    aspects:
+    - knowledge_architecture
+    - organizational_scaffolding
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - water_rho
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.8
+    fire_lambda: 0.7
+    wood_beta: 0.85
+    earth_delta_gamma: 0.75
+    metal_mu: 0.5
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213503_2433953_Harnessing+Tacit+Knowledge+for+Innovation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

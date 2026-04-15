@@ -3,7 +3,6 @@ term_id: CB006
 canonical_name: Freedom of Evolution
 category: cowboy_canonical
 description: The operationalization of β-ethic; maintaining hold on form without squeezing—operating between completion and abandonment
-
 elemental_mapping:
   primary: wood
   secondary: air
@@ -11,23 +10,124 @@ elemental_mapping:
   wood: 0.85
   air: 0.65
   meta: 0.55
-  fire: 0.40
+  fire: 0.4
   water: 0.45
   earth: 0.35
-  metal: 0.30
-
+  metal: 0.3
 daemon_correspondence:
   primary: Arboriel
   secondary: Aerunik
   tertiary: Nema
-
 source:
   type: cowboy_post
-  title: "On Holding Form Without Forcing Fate"
+  title: On Holding Form Without Forcing Fate
   url: https://memeticcowboy.substack.com/p/on-holding-form-without-forcing-fate
   date: 2026-01-XX
-
 created_at: 2026-03-06
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_signature:
+  dominant:
+  - wood
+  secondary:
+  - air
+  - meta
+  suppressed:
+  - metal
+  weights:
+    primary: 0.5
+    secondary: 0.5
+    tertiary: 0.5
+    wood: 0.85
+    air: 0.65
+    meta: 0.55
+    fire: 0.4
+    water: 0.45
+    earth: 0.35
+    metal: 0.3
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - β
+  - σ
+  partials:
+  - ∂Φ/∂β (hold|release)
+  - ∂Φ/∂σ (form|void)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:45Z'
+  actions:
+  - nemetic_from_phi
+  - name_from_canonical
+  - source_file_from_url
+  audit: CB_RESTORE_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:57Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  audit: CB_REPAIR_2026-04-15
+nemetic_string: Φ(FreedomOfEvolution) = β(hold|release) ∘ σ(form|void) ∘ ✶(direction|destination) + ε | :permeable
+name: Freedom of Evolution
+source_file: https://memeticcowboy.substack.com/p/on-holding-form-without-forcing-fate
+
 ---
 
 # Freedom of Evolution
@@ -79,3 +179,19 @@ coords_ce:
   sufficiency: high
   necessity: med
 siml_version: "1.3"
+provenance:
+  author: "Memetic Cowboy"
+  work: "source:"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

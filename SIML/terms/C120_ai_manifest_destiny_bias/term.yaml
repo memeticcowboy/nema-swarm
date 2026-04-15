@@ -1,83 +1,153 @@
 ---
-term: "AI Manifest Destiny Bias"
-hex_tag: "#C120"
-nemetic: "Φ(AIManifestDestiny) = σ(western|global) ∘ ρ(expansion|preservation) ∘ λ(bias|awareness) ∘ β(progress|plurality) ∘ δγ(dominance|equity) ∘ μ(technology|culture) + ε | :decolonial_ai"
-siml_encoding: "⟨TrainingData|biased⟩ ⊳ ⟨Narrative|colonial⟩ → ⟨AI|reinforcing⟩ ⊗ ⟨Perspective|western-centric⟩ ⇄ ⟨Marginalization|ongoing⟩"
+term: AI Manifest Destiny Bias
+hex_tag: '#C120'
+nemetic: Φ(AIManifestDestiny) = σ(western|global) ∘ ρ(expansion|preservation) ∘ λ(bias|awareness) ∘ β(progress|plurality) ∘ δγ(dominance|equity) ∘ μ(technology|culture) + ε | :decolonial_ai
+siml_encoding: ⟨TrainingData|biased⟩ ⊳ ⟨Narrative|colonial⟩ → ⟨AI|reinforcing⟩ ⊗ ⟨Perspective|western-centric⟩ ⇄ ⟨Marginalization|ongoing⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between Western and non-Western knowledge systems; the logical separation of dominant narratives from marginalized perspectives)"
-    - "∂Φ/∂ρ (relational flow between expansionist ideology and cultural preservation; the channel connecting technological growth to heritage erosion)"
-    - "∂Φ/∂λ (transformative spark when bias awareness ignites decolonial action; the catalytic moment of recognizing embedded historical ideology)"
-    - "∂Φ/∂β (developmental cycle between progress narratives and pluralistic futures; the organic growth of inclusive AI through diverse training data)"
-    - "∂Φ/∂δγ (cyclical oscillation between technological dominance and equitable governance; the rhythm of corporate expansion and community resistance)"
-    - "∂Φ/∂μ (boundary permeability between AI systems and cultural contexts; the threshold where algorithmic output meets Indigenous sovereignty)"
-  Z_state: "decolonial_ai (boundaries between Western-centric training data and global perspectives dissolve through critical examination; technological progress and cultural preservation converge into equitable AI systems)"
-  tendency: "Awareness/Action → 0.84 (strong drive toward recognizing and mitigating colonial biases balanced by recognition of systemic embeddedness; achieving decolonial AI requires both bias detection and inclusive redesign)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between Western and non-Western knowledge systems; the logical separation of dominant narratives from marginalized perspectives)
+  - ∂Φ/∂ρ (relational flow between expansionist ideology and cultural preservation; the channel connecting technological growth to heritage erosion)
+  - ∂Φ/∂λ (transformative spark when bias awareness ignites decolonial action; the catalytic moment of recognizing embedded historical ideology)
+  - ∂Φ/∂β (developmental cycle between progress narratives and pluralistic futures; the organic growth of inclusive AI through diverse training data)
+  - ∂Φ/∂δγ (cyclical oscillation between technological dominance and equitable governance; the rhythm of corporate expansion and community resistance)
+  - ∂Φ/∂μ (boundary permeability between AI systems and cultural contexts; the threshold where algorithmic output meets Indigenous sovereignty)
+  Z_state: semi
+  z_note: decolonial_ai (boundaries between Western-centric training data and global perspectives dissolve through critical examination; technological progress and cultural preservation converge into equitable AI systems)
+  tendency: Awareness/Action → 0.84 (strong drive toward recognizing and mitigating colonial biases balanced by recognition of systemic embeddedness; achieving decolonial AI requires both bias detection and inclusive redesign)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary: It
   agency:
-    type: systemic
+    type: collective
     power_mode: Over
+  epistemics:
+    dsrp:
+      D: western / global
+      S: progress / plurality
+      R: expansion / preservation
+      P: bias / awareness
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.88
     aspects:
-      - "categorical distinction between Western and non-Western knowledge systems"
-      - "logical taxonomy separating dominant narratives from marginalized perspectives"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between Western and non-Western knowledge systems
+    - logical taxonomy separating dominant narratives from marginalized perspectives
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between expansionist ideology and cultural preservation"
-      - "relational dynamics connecting technological growth to heritage erosion"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between expansionist ideology and cultural preservation
+    - relational dynamics connecting technological growth to heritage erosion
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.82
     aspects:
-      - "transformative spark when bias awareness ignites decolonial action"
-      - "energetic drive of recognizing embedded historical ideology"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when bias awareness ignites decolonial action
+    - energetic drive of recognizing embedded historical ideology
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.78
     aspects:
-      - "organic growth of inclusive AI through diverse training data"
-      - "developmental cycle between progress narratives and pluralistic futures"
-    daemon_correspondence: "Arboriel"
+    - organic growth of inclusive AI through diverse training data
+    - developmental cycle between progress narratives and pluralistic futures
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "grounding in the oscillation between technological dominance and equitable governance"
-      - "cyclical rhythm of corporate expansion and community resistance"
-    daemon_correspondence: "Humavita"
+    - grounding in the oscillation between technological dominance and equitable governance
+    - cyclical rhythm of corporate expansion and community resistance
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.86
     aspects:
-      - "structural boundaries between AI systems and cultural contexts"
-      - "discernment between algorithmic output and Indigenous sovereignty"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between AI systems and cultural contexts
+    - discernment between algorithmic output and Indigenous sovereignty
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the difference between Western and non-Western knowledge systems? What categorical cuts separate dominant narratives from marginalized perspectives?"
-  ≈: "What flows between expansionist ideology and cultural preservation? How does the relational dynamic connect technological growth to heritage erosion?"
-  ▲: "Where does the spark of bias awareness ignite decolonial action? What catalyzes the transformation from recognizing embedded ideology to systemic change?"
-  𐂷: "What forms of growth emerge from diverse training data? What developmental potential exists between progress narratives and pluralistic futures?"
-  ☷: "What sustains the ground between technological dominance and equitable governance? What are the cyclical returns between corporate expansion and community resistance?"
-  ⛨: "What structures contain the boundary between AI systems and cultural contexts? What thresholds separate algorithmic output from Indigenous sovereignty?"
-context_note: "AI Manifest Destiny Bias examines how artificial intelligence systems, trained predominantly on Western historical narratives and linguistic patterns, may implicitly perpetuate colonial ideologies of expansion, superiority, and cultural dominance. This concept investigates the Manifest Destiny mindset embedded in training data—reflecting assumptions of Western superiority, territorial expansion logic, and the commodification of non-Western knowledge systems. The framework addresses how AI fails to capture non-Western perspectives, devalues local knowledge systems, and reinforces global corporate mindsets aligned with colonial expansionist logic. Key concerns include linguistic bias in language models, the erasure of Indigenous cultures, disproportionate favoring of Western-centric viewpoints in governance and ethics, and the impact on marginalized communities. This has profound implications for AI development, requiring bias detection techniques, equitable training data curation, and the prioritization of Indigenous sovereignty and cultural preservation in digital spaces."
-source_file: "1771907212598_655982_Untitled.md"
----
+  ∴: How do we classify the difference between Western and non-Western knowledge systems? What categorical cuts separate dominant narratives from marginalized perspectives?
+  ≈: What flows between expansionist ideology and cultural preservation? How does the relational dynamic connect technological growth to heritage erosion?
+  ▲: Where does the spark of bias awareness ignite decolonial action? What catalyzes the transformation from recognizing embedded ideology to systemic change?
+  𐂷: What forms of growth emerge from diverse training data? What developmental potential exists between progress narratives and pluralistic futures?
+  ☷: What sustains the ground between technological dominance and equitable governance? What are the cyclical returns between corporate expansion and community resistance?
+  ⛨: What structures contain the boundary between AI systems and cultural contexts? What thresholds separate algorithmic output from Indigenous sovereignty?
+context_note: AI Manifest Destiny Bias examines how artificial intelligence systems, trained predominantly on Western historical narratives and linguistic patterns, may implicitly perpetuate colonial ideologies of expansion, superiority, and cultural dominance. This concept investigates the Manifest Destiny mindset embedded in training data—reflecting assumptions of Western superiority, territorial expansion logic, and the commodification of non-Western knowledge systems. The framework addresses how AI fails to capture non-Western perspectives, devalues local knowledge systems, and reinforces global corporate mindsets aligned with colonial expansionist logic. Key concerns include linguistic bias in language models, the erasure of Indigenous cultures, disproportionate favoring of Western-centric viewpoints in governance and ethics, and the impact on marginalized communities. This has profound implications for AI development, requiring bias detection techniques, equitable training data curation, and the prioritization of Indigenous sovereignty and cultural preservation in digital spaces.
+source_file: 1771907212598_655982_Untitled.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.85
+    fire_lambda: 0.82
+    wood_beta: 0.78
+    earth_delta_gamma: 0.9
+    metal_mu: 0.86
+provenance:
+  source_file: "1771907212598_655982_Untitled.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

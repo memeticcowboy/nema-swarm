@@ -1,32 +1,151 @@
 ---
-term: "Speculative Psychic Metaphysics"
-hex_tag: "S13B"
-series: "S"
-source_file: "1771907213420_2384009_Speculative+Psychic-Metaphysics%3A+Symbolic+Affordances+and+Transpersonal+Fields.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Speculative layer above the physical/ontological sphere where symbolic affordances act as conduits into transpersonal fields. Four domains: archetypal resonance (Jung's collective unconscious as attractor states), morphic fields (Sheldrake's hypothesis applied to symbolic configurations), noospheric coupling (Teilhard's planetary layer of mind), and dream-reality crossfeed. AI-mediated interfaces could amplify or stabilize such fields."
-nemetic: "Φ(Speculative Psychic Metaphysics) = σ(physical_ontology|transpersonal_field) ∘ ρ(individual_psyche|collective_archetypal_resonance) ∘ λ(materialist_closure|speculative_opening) ∘ β(local_symbol|morphic_field_propagation) ∘ δγ(dream_state|waking_reality) ∘ μ(organic_intuition|AI_mediated_interface) + ε | :symbolic_transpersonal_conduit"
-siml_encoding: "⟨physical_transpersonal_distinction, speculative_discernment⟩ ⊳ ⟨individual_archetypal_relating, collective_field_web⟩ → ⟨materialist_speculative_catalysis, opening_transformation⟩ ⊗ ⟨local_morphic_growth, field_propagation_expansion⟩ ⇄ ⟨dream_waking_cycling, crossfeed_rhythm⟩"
+term: Speculative Psychic Metaphysics
+hex_tag: S13B
+series: S
+source_file: 1771907213420_2384009_Speculative+Psychic-Metaphysics%3A+Symbolic+Affordances+and+Transpersonal+Fields.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Speculative layer above the physical/ontological sphere where symbolic affordances act as conduits into transpersonal fields. Four domains: archetypal resonance (Jung''s collective unconscious as attractor states), morphic fields (Sheldrake''s hypothesis applied to symbolic configurations), noospheric coupling (Teilhard''s planetary layer of mind), and dream-reality crossfeed. AI-mediated interfaces could amplify or stabilize such fields.'
+nemetic: Φ(Speculative Psychic Metaphysics) = σ(physical_ontology|transpersonal_field) ∘ ρ(individual_psyche|collective_archetypal_resonance) ∘ λ(materialist_closure|speculative_opening) ∘ β(local_symbol|morphic_field_propagation) ∘ δγ(dream_state|waking_reality) ∘ μ(organic_intuition|AI_mediated_interface) + ε | :symbolic_transpersonal_conduit
+siml_encoding: ⟨physical_transpersonal_distinction, speculative_discernment⟩ ⊳ ⟨individual_archetypal_relating, collective_field_web⟩ → ⟨materialist_speculative_catalysis, opening_transformation⟩ ⊗ ⟨local_morphic_growth, field_propagation_expansion⟩ ⇄ ⟨dream_waking_cycling, crossfeed_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: physical_ontology / transpersonal_field
+      S: local_symbol / morphic_field_propagation
+      R: individual_psyche / collective_archetypal_resonance
+      P: materialist_closure / speculative_opening
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing physical ontology from transpersonal field — the discernment between the material-empirical domain and the speculative layer where symbolic affordances act as conduits into collective, transpersonal, and archetypal dimensions of experience)"
-    - "∂Φ/∂ρ (relating individual psyche to collective archetypal resonance — the relational web between personal symbolic experience and Jung's collective unconscious understood as attractor states that pattern individual encounters with universal motifs)"
-    - "∂Φ/∂λ (transforming materialist closure into speculative opening — the catalytic process where rigid materialist frameworks are opened to include transpersonal fields, morphic resonance, and noospheric coupling as serious speculative possibilities)"
-    - "∂Φ/∂β (growth from local symbol to morphic field propagation — the developmental expansion where individual symbolic configurations are understood to participate in Sheldrake's morphic fields, propagating form and pattern beyond local boundaries)"
-    - "∂Φ/∂δγ (cycling between dream state and waking reality — the grounding oscillation between the dream domain where symbolic affordances operate most freely and waking reality where their effects are registered, creating a crossfeed between unconscious and conscious layers)"
-    - "∂Φ/∂μ (structural interface between organic intuition and AI-mediated amplification — the framework mapping how AI systems could serve as interfaces that amplify, stabilize, or focus transpersonal field interactions, extending human symbolic capacity into new domains)"
-  Z_state: "symbolic_transpersonal_conduit — speculative psychic-metaphysics names the layer above physical ontology where symbolic affordances act as conduits into transpersonal fields; archetypal resonance, morphic fields, noospheric coupling, and dream-reality crossfeed are the four domains; AI-mediated interfaces represent a novel possibility for amplifying or stabilizing these speculative field interactions"
-  tendency: "β → 0.90"
+  - ∂Φ/∂σ (distinguishing physical ontology from transpersonal field — the discernment between the material-empirical domain and the speculative layer where symbolic affordances act as conduits into collective, transpersonal, and archetypal dimensions of experience)
+  - ∂Φ/∂ρ (relating individual psyche to collective archetypal resonance — the relational web between personal symbolic experience and Jung's collective unconscious understood as attractor states that pattern individual encounters with universal motifs)
+  - ∂Φ/∂λ (transforming materialist closure into speculative opening — the catalytic process where rigid materialist frameworks are opened to include transpersonal fields, morphic resonance, and noospheric coupling as serious speculative possibilities)
+  - ∂Φ/∂β (growth from local symbol to morphic field propagation — the developmental expansion where individual symbolic configurations are understood to participate in Sheldrake's morphic fields, propagating form and pattern beyond local boundaries)
+  - ∂Φ/∂δγ (cycling between dream state and waking reality — the grounding oscillation between the dream domain where symbolic affordances operate most freely and waking reality where their effects are registered, creating a crossfeed between unconscious and conscious layers)
+  - ∂Φ/∂μ (structural interface between organic intuition and AI-mediated amplification — the framework mapping how AI systems could serve as interfaces that amplify, stabilize, or focus transpersonal field interactions, extending human symbolic capacity into new domains)
+  Z_state: semi
+  z_note: symbolic_transpersonal_conduit — speculative psychic-metaphysics names the layer above physical ontology where symbolic affordances act as conduits into transpersonal fields; archetypal resonance, morphic fields, noospheric coupling, and dream-reality crossfeed are the four domains; AI-mediated interfaces represent a novel possibility for amplifying or stabilizing these speculative field interactions
+  tendency: β → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["physical_transpersonal_discernment", "ontological_layer_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["individual_archetypal_flow", "collective_unconscious_relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["materialist_speculative_catalysis", "framework_opening_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.90, aspects: ["local_to_morphic_growth", "field_propagation_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["dream_waking_grounding", "crossfeed_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["AI_interface_structure", "organic_mediated_architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - physical_transpersonal_discernment
+    - ontological_layer_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - individual_archetypal_flow
+    - collective_unconscious_relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - materialist_speculative_catalysis
+    - framework_opening_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.9
+    aspects:
+    - local_to_morphic_growth
+    - field_propagation_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - dream_waking_grounding
+    - crossfeed_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - AI_interface_structure
+    - organic_mediated_architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.9
+    fire_lambda: 0.85
+    wood_beta: 0.9
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213420_2384009_Speculative+Psychic-Metaphysics%3A+Symbolic+Affordances+and+Transpersonal+Fields.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Emotions Blooms Taxonomy"
-hex_tag: "S05B"
-series: "S"
-source_file: "1771907212676_900699_Emotions+and+Bloom%27s+Taxonomy.md"
-encoded_at: "2026-03-05T22:30:00Z"
-description: "Mapping emotions to Bloom's Taxonomy learning stages reveals how different affective states influence distinct cognitive levels. Joy and curiosity enhance memory, while anxiety impacts comprehension, raising questions about prescriptive versus descriptive approaches to emotion in learning."
-nemetic: "Φ(Emotions Blooms Taxonomy) = σ(emotion|cognition_level) ∘ ρ(affect|learning_stage) ∘ λ(emotional_state|cognitive_performance) ∘ β(surface_recall|deep_evaluation) ∘ δγ(emotional_regulation|learning_cycling) ∘ μ(taxonomy_framework|pedagogical_design) + ε | :affective_cognition"
-siml_encoding: "⟨emotional_states, affective_valence⟩ ⊳ ⟨blooms_levels, cognitive_demand⟩ → ⟨emotion_cognition_mapping, performance_modulation⟩ ⊗ ⟨prescriptive_design, descriptive_understanding⟩ ⇄ ⟨emotionally_informed_pedagogy, adaptive_learning⟩"
+term: Emotions Blooms Taxonomy
+hex_tag: S05B
+series: S
+source_file: 1771907212676_900699_Emotions+and+Bloom%27s+Taxonomy.md
+encoded_at: '2026-03-05T22:30:00Z'
+description: Mapping emotions to Bloom's Taxonomy learning stages reveals how different affective states influence distinct cognitive levels. Joy and curiosity enhance memory, while anxiety impacts comprehension, raising questions about prescriptive versus descriptive approaches to emotion in learning.
+nemetic: Φ(Emotions Blooms Taxonomy) = σ(emotion|cognition_level) ∘ ρ(affect|learning_stage) ∘ λ(emotional_state|cognitive_performance) ∘ β(surface_recall|deep_evaluation) ∘ δγ(emotional_regulation|learning_cycling) ∘ μ(taxonomy_framework|pedagogical_design) + ε | :affective_cognition
+siml_encoding: ⟨emotional_states, affective_valence⟩ ⊳ ⟨blooms_levels, cognitive_demand⟩ → ⟨emotion_cognition_mapping, performance_modulation⟩ ⊗ ⟨prescriptive_design, descriptive_understanding⟩ ⇄ ⟨emotionally_informed_pedagogy, adaptive_learning⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: emotion / cognition_level
+      S: surface_recall / deep_evaluation
+      R: affect / learning_stage
+      P: emotional_state / cognitive_performance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing emotional states from cognitive levels they influence)"
-    - "∂Φ/∂ρ (relational mapping between affect and learning stage)"
-    - "∂Φ/∂λ (transformative effect of emotional state on cognitive performance)"
-    - "∂Φ/∂β (growth from surface recall to deep evaluative thinking)"
-    - "∂Φ/∂δγ (cycling between emotional regulation and learning progression)"
-    - "∂Φ/∂μ (structural framework of Bloom's Taxonomy as pedagogical scaffold)"
-  Z_state: "affective_cognition — emotion and cognition as inseparable co-determinants of learning across all taxonomic levels"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing emotional states from cognitive levels they influence)
+  - ∂Φ/∂ρ (relational mapping between affect and learning stage)
+  - ∂Φ/∂λ (transformative effect of emotional state on cognitive performance)
+  - ∂Φ/∂β (growth from surface recall to deep evaluative thinking)
+  - ∂Φ/∂δγ (cycling between emotional regulation and learning progression)
+  - ∂Φ/∂μ (structural framework of Bloom's Taxonomy as pedagogical scaffold)
+  Z_state: semi
+  z_note: affective_cognition — emotion and cognition as inseparable co-determinants of learning across all taxonomic levels
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["emotion_cognition_categorization", "taxonomic_level_differentiation"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["affect_learning_resonance", "emotional_cognitive_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["emotion_driven_performance_shift", "anxiety_comprehension_disruption"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["cognitive_level_progression", "deepening_understanding"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.65, aspects: ["emotional_regulation_cycling", "learning_stage_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["blooms_taxonomy_structure", "pedagogical_framework_design"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S05A", "S041", "S039", "S02E"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - emotion_cognition_categorization
+    - taxonomic_level_differentiation
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - affect_learning_resonance
+    - emotional_cognitive_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - emotion_driven_performance_shift
+    - anxiety_comprehension_disruption
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - cognitive_level_progression
+    - deepening_understanding
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+    - emotional_regulation_cycling
+    - learning_stage_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - blooms_taxonomy_structure
+    - pedagogical_framework_design
+    daemon_correspondence: Ferrosid
+related_terms:
+- S05A
+- S041
+- S039
+- S02E
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.7
+    wood_beta: 0.7
+    earth_delta_gamma: 0.65
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212676_900699_Emotions+and+Bloom%27s+Taxonomy.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

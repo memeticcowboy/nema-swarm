@@ -1,50 +1,156 @@
 ---
-term: "Control vs Coherence"
-hex_tag: "S125"
-series: "S"
-source_file: "1771907213368_2336957_Control+vs.+Coherence%3A+Architecture+of+Order.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Foundational memetic polarity between two architectures of order. Control achieves order through imposition — enforcement, hierarchy, fear of chaos, grids and locks. Coherence achieves order through alignment — weaving, connection, longing for wholeness, spirals and mandalas. Both orientations contain defense reflexes and exit costs, revealing that the choice between them shapes governance, spirituality, and systems design at every scale."
-nemetic: "Φ(Control_vs_Coherence) = σ(command|attunement) ∘ ρ(enforcement|weaving) ∘ λ(imposition|emergence) ∘ β(hierarchy|network) ∘ δγ(rigidity|flow) ∘ μ(lock|spiral) + ε | :polar_architecture"
-siml_encoding: "⟨control:grid_enforcer⟩ ⊳ ⟨coherence:web_weaver⟩ → ⟨order_by_command:fear_of_chaos⟩ ⊗ ⟨order_by_alignment:longing_for_connection⟩ ⇄ ⟨architecture_of_order:dual_logic⟩"
+term: Control vs Coherence
+hex_tag: S125
+series: S
+source_file: 1771907213368_2336957_Control+vs.+Coherence%3A+Architecture+of+Order.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Foundational memetic polarity between two architectures of order. Control achieves order through imposition — enforcement, hierarchy, fear of chaos, grids and locks. Coherence achieves order through alignment — weaving, connection, longing for wholeness, spirals and mandalas. Both orientations contain defense reflexes and exit costs, revealing that the choice between them shapes governance, spirituality, and systems design at every scale.
+nemetic: Φ(Control_vs_Coherence) = σ(command|attunement) ∘ ρ(enforcement|weaving) ∘ λ(imposition|emergence) ∘ β(hierarchy|network) ∘ δγ(rigidity|flow) ∘ μ(lock|spiral) + ε | :polar_architecture
+siml_encoding: ⟨control:grid_enforcer⟩ ⊳ ⟨coherence:web_weaver⟩ → ⟨order_by_command:fear_of_chaos⟩ ⊗ ⟨order_by_alignment:longing_for_connection⟩ ⇄ ⟨architecture_of_order:dual_logic⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: command / attunement
+      S: hierarchy / network
+      R: enforcement / weaving
+      P: imposition / emergence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (command signals vs attunement signals determine system communication style)"
-    - "∂Φ/∂ρ (enforcement-based vs weaving-based relational logic shapes social bonds)"
-    - "∂Φ/∂λ (imposition energy vs emergent energy as competing ordering forces)"
-    - "∂Φ/∂β (hierarchical branching vs networked growth as organizational form)"
-    - "∂Φ/∂δγ (rigidity of control vs flow of coherence as ground-state dynamics)"
-    - "∂Φ/∂μ (lock-structures vs spiral-structures as material expressions of order)"
-  Z_state: "polar_architecture"
-  tendency: "λ → 0.79"
+  - ∂Φ/∂σ (command signals vs attunement signals determine system communication style)
+  - ∂Φ/∂ρ (enforcement-based vs weaving-based relational logic shapes social bonds)
+  - ∂Φ/∂λ (imposition energy vs emergent energy as competing ordering forces)
+  - ∂Φ/∂β (hierarchical branching vs networked growth as organizational form)
+  - ∂Φ/∂δγ (rigidity of control vs flow of coherence as ground-state dynamics)
+  - ∂Φ/∂μ (lock-structures vs spiral-structures as material expressions of order)
+  Z_state: semi
+  tendency: λ → 0.79
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.65
-    aspects: [command_signals, attunement_frequencies, propaganda_vs_poetry]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - command_signals
+    - attunement_frequencies
+    - propaganda_vs_poetry
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.72
-    aspects: [enforcement_bonds, weaving_connections, relational_order]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - enforcement_bonds
+    - weaving_connections
+    - relational_order
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.88
-    aspects: [imposition_force, emergent_spark, transformative_tension]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - imposition_force
+    - emergent_spark
+    - transformative_tension
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.68
-    aspects: [hierarchical_branching, organic_networks, governance_forms]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - hierarchical_branching
+    - organic_networks
+    - governance_forms
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.75
-    aspects: [institutional_rigidity, flowing_terrain, ground_of_order]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - institutional_rigidity
+    - flowing_terrain
+    - ground_of_order
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
-    aspects: [lock_mechanisms, spiral_frameworks, structural_expression]
-    daemon_correspondence: "Ferrosid"
+    emphasis: 0.8
+    aspects:
+    - lock_mechanisms
+    - spiral_frameworks
+    - structural_expression
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - metal_mu
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.72
+    fire_lambda: 0.88
+    wood_beta: 0.68
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213368_2336957_Control+vs.+Coherence%3A+Architecture+of+Order.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,82 +1,155 @@
 ---
-term: "Ignorance Map"
-hex_tag: "#C056"
-nemetic: "Φ(IgnoranceMap) = σ(known|unknown) ∘ ρ(awareness|blindness) ∘ λ(revelation|concealment) ∘ β(learning|stagnation) ∘ δγ(recognition|denial) ∘ μ(taboo|access) + ε | :illuminating"
-siml_encoding: "⟨Ignorance|categorized⟩ ⊳ ⟨Knowledge|bounded⟩ → ⟨Awareness|expanding⟩ ⊗ ⟨Unknown|mapped⟩ ⇄ ⟨Understanding|deep⟩"
+term: Ignorance Map
+hex_tag: '#C056'
+nemetic: Φ(IgnoranceMap) = σ(known|unknown) ∘ ρ(awareness|blindness) ∘ λ(revelation|concealment) ∘ β(learning|stagnation) ∘ δγ(recognition|denial) ∘ μ(taboo|access) + ε | :illuminating
+siml_encoding: ⟨Ignorance|categorized⟩ ⊳ ⟨Knowledge|bounded⟩ → ⟨Awareness|expanding⟩ ⊗ ⟨Unknown|mapped⟩ ⇄ ⟨Understanding|deep⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between known unknowns and unknown unknowns; the logical separation of recognized gaps from blind spots)"
-    - "∂Φ/∂ρ (relational flow between awareness and denial; the channel connecting conscious recognition to unconscious avoidance)"
-    - "∂Φ/∂λ (transformative spark when errors are revealed as false knowledge; the ignition of correction through critical examination)"
-    - "∂Φ/∂β (developmental cycle between learning and stagnation; the organic growth that occurs when unknown knowns are brought to consciousness)"
-    - "∂Φ/∂δγ (cyclical oscillation between recognition and denial; the rhythm of confronting taboo knowledge versus avoiding painful truths)"
-    - "∂Φ/∂μ (boundary permeability between accessible and forbidden knowledge; the threshold where taboos and denials constrain understanding)"
-  Z_state: "illuminating (boundaries between known and unknown dissolve through systematic mapping; ignorance becomes a navigable terrain rather than a void)"
-  tendency: "Awareness/Blindness → 0.75 (strong drive toward epistemic clarity; achieving comprehensive understanding requires confronting all six categories of ignorance)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between known unknowns and unknown unknowns; the logical separation of recognized gaps from blind spots)
+  - ∂Φ/∂ρ (relational flow between awareness and denial; the channel connecting conscious recognition to unconscious avoidance)
+  - ∂Φ/∂λ (transformative spark when errors are revealed as false knowledge; the ignition of correction through critical examination)
+  - ∂Φ/∂β (developmental cycle between learning and stagnation; the organic growth that occurs when unknown knowns are brought to consciousness)
+  - ∂Φ/∂δγ (cyclical oscillation between recognition and denial; the rhythm of confronting taboo knowledge versus avoiding painful truths)
+  - ∂Φ/∂μ (boundary permeability between accessible and forbidden knowledge; the threshold where taboos and denials constrain understanding)
+  Z_state: semi
+  z_note: illuminating (boundaries between known and unknown dissolve through systematic mapping; ignorance becomes a navigable terrain rather than a void)
+  tendency: Awareness/Blindness → 0.75 (strong drive toward epistemic clarity; achieving comprehensive understanding requires confronting all six categories of ignorance)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: known / unknown
+      S: learning / stagnation
+      R: awareness / blindness
+      P: revelation / concealment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "categorical distinction between known unknowns, unknown unknowns, errors, unknown knowns, taboos, and denials"
-      - "logical analysis of epistemic states; the intellectual clarity of mapping what we do and do not know"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between known unknowns, unknown unknowns, errors, unknown knowns, taboos, and denials
+    - logical analysis of epistemic states; the intellectual clarity of mapping what we do and do not know
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between awareness and blindness; the channeling of attention toward unrecognized knowledge"
-      - "relational dynamics between what we acknowledge and what we avoid; the waters of recognition versus denial"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between awareness and blindness; the channeling of attention toward unrecognized knowledge
+    - relational dynamics between what we acknowledge and what we avoid; the waters of recognition versus denial
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when errors are exposed as false certainties; the ignition of correction"
-      - "energetic drive to reveal unknown knowns and bring tacit knowledge into consciousness"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when errors are exposed as false certainties; the ignition of correction
+    - energetic drive to reveal unknown knowns and bring tacit knowledge into consciousness
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of understanding through acknowledging known unknowns; the unfolding of learning potential"
-      - "developmental progression from ignorance to awareness; the cultivation of epistemic humility"
-    daemon_correspondence: "Arboriel"
+    - organic growth of understanding through acknowledging known unknowns; the unfolding of learning potential
+    - developmental progression from ignorance to awareness; the cultivation of epistemic humility
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in the cyclical nature of knowing and not-knowing; the recognition that all knowledge has boundaries"
-      - "embodied reality of cognitive limitations; acceptance of permanent unknown unknowns"
-    daemon_correspondence: "Humavita"
+    - grounding in the cyclical nature of knowing and not-knowing; the recognition that all knowledge has boundaries
+    - embodied reality of cognitive limitations; acceptance of permanent unknown unknowns
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural boundaries between taboo knowledge and accessible knowledge; the architecture of permissible inquiry"
-      - "discernment between healthy epistemic humility and restrictive self-censorship; the threshold of denial"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between taboo knowledge and accessible knowledge; the architecture of permissible inquiry
+    - discernment between healthy epistemic humility and restrictive self-censorship; the threshold of denial
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we distinguish between known unknowns and unknown unknowns? What categorical cuts separate errors from genuine knowledge?"
-  ≈: "What flows between awareness and denial? How do we channel recognition toward taboo subjects without being blocked by pain?"
-  ▲: "Where does the spark of revelation ignite? What transforms comfortable errors into corrected understanding?"
-  𐂷: "What forms of knowledge remain dormant as unknown knowns? What developmental potential lies in tacit understanding?"
-  ☷: "What sustains the ground of epistemic humility? What are the cyclical returns between knowing and acknowledging our limits?"
-  ⛨: "What structures contain taboo knowledge? What boundaries separate healthy curiosity from dangerous inquiry?"
-context_note: "The Ignorance Map categorizes six types of ignorance: Known Unknowns (conscious gaps in knowledge), Unknown Unknowns (blind spots we cannot perceive), Errors (false beliefs we hold as true), Unknown Knowns (tacit knowledge we possess but cannot articulate), Taboos (forbidden or dangerous knowledge), and Denials (truths too painful to acknowledge). This framework, building on Donald Rumsfeld's famous formulation, provides a comprehensive taxonomy for understanding the boundaries of knowledge and the obstacles to learning. By mapping ignorance, we transform it from a void into a navigable terrain, enabling targeted strategies for epistemic growth."
-source_file: "1771907212351_232807_Understanding+the+Ignorance+Map.md"
+  ∴: How do we distinguish between known unknowns and unknown unknowns? What categorical cuts separate errors from genuine knowledge?
+  ≈: What flows between awareness and denial? How do we channel recognition toward taboo subjects without being blocked by pain?
+  ▲: Where does the spark of revelation ignite? What transforms comfortable errors into corrected understanding?
+  𐂷: What forms of knowledge remain dormant as unknown knowns? What developmental potential lies in tacit understanding?
+  ☷: What sustains the ground of epistemic humility? What are the cyclical returns between knowing and acknowledging our limits?
+  ⛨: What structures contain taboo knowledge? What boundaries separate healthy curiosity from dangerous inquiry?
+context_note: 'The Ignorance Map categorizes six types of ignorance: Known Unknowns (conscious gaps in knowledge), Unknown Unknowns (blind spots we cannot perceive), Errors (false beliefs we hold as true), Unknown Knowns (tacit knowledge we possess but cannot articulate), Taboos (forbidden or dangerous knowledge), and Denials (truths too painful to acknowledge). This framework, building on Donald Rumsfeld''s famous formulation, provides a comprehensive taxonomy for understanding the boundaries of knowledge and the obstacles to learning. By mapping ignorance, we transform it from a void into a navigable terrain, enabling targeted strategies for epistemic growth.'
+source_file: 1771907212351_232807_Understanding+the+Ignorance+Map.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212351_232807_Understanding+the+Ignorance+Map.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

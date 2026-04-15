@@ -1,67 +1,156 @@
 ---
-term: "Brain Constructive Perception"
-hex_tag: "S020"
-series: "S"
-source_file: "1771907212438_276333_How+the+Brain+Fills+in+the+Blanks.md"
-encoded_at: "2026-03-05T18:55:00Z"
-description: "The brain actively constructs perceptual experience rather than passively receiving sensory input, filling gaps, generating illusory contours, and building coherent models of reality from incomplete data."
-nemetic: "Φ(ConstructPerception) = σ(signal|gap) ∘ ρ(model|sensation) ∘ λ(raw|constructed) ∘ β(schema|adaptation) ∘ δγ(perceive|revise) ∘ μ(body_map|neural_architecture) + ε | :constructive_synthesis"
-siml_encoding: "⟨signal, gap⟩ ⊳ ⟨model, sensation⟩ → ⟨raw, constructed⟩ ⊗ ⟨schema, adaptation⟩ ⇄ ⟨perceive, revise⟩"
+term: Brain Constructive Perception
+hex_tag: S020
+series: S
+source_file: 1771907212438_276333_How+the+Brain+Fills+in+the+Blanks.md
+encoded_at: '2026-03-05T18:55:00Z'
+description: The brain actively constructs perceptual experience rather than passively receiving sensory input, filling gaps, generating illusory contours, and building coherent models of reality from incomplete data.
+nemetic: Φ(ConstructPerception) = σ(signal|gap) ∘ ρ(model|sensation) ∘ λ(raw|constructed) ∘ β(schema|adaptation) ∘ δγ(perceive|revise) ∘ μ(body_map|neural_architecture) + ε | :constructive_synthesis
+siml_encoding: ⟨signal, gap⟩ ⊳ ⟨model, sensation⟩ → ⟨raw, constructed⟩ ⊗ ⟨schema, adaptation⟩ ⇄ ⟨perceive, revise⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: signal / gap
+      S: schema / adaptation
+      R: model / sensation
+      P: raw / constructed
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing actual sensory signal from brain-generated fill-in)"
-    - "∂Φ/∂ρ (relating internal body model to incoming sensation)"
-    - "∂Φ/∂λ (transforming raw stimuli into constructed perceptual experience)"
-    - "∂Φ/∂β (growing and adapting perceptual schemas over time)"
-    - "∂Φ/∂δγ (cycling between perception and revision of internal models)"
-    - "∂Φ/∂μ (structuring neural architecture and persistent body maps)"
-  Z_state: "constructive_synthesis (the brain synthesizes coherent experience from fragmentary input)"
-  tendency: "λ/σ → 0.82"
+  - ∂Φ/∂σ (distinguishing actual sensory signal from brain-generated fill-in)
+  - ∂Φ/∂ρ (relating internal body model to incoming sensation)
+  - ∂Φ/∂λ (transforming raw stimuli into constructed perceptual experience)
+  - ∂Φ/∂β (growing and adapting perceptual schemas over time)
+  - ∂Φ/∂δγ (cycling between perception and revision of internal models)
+  - ∂Φ/∂μ (structuring neural architecture and persistent body maps)
+  Z_state: semi
+  z_note: constructive_synthesis (the brain synthesizes coherent experience from fragmentary input)
+  tendency: λ/σ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Distinguishing between what is actually sensed and what the brain fills in"
-      - "Recognizing blind spots, illusory contours, and phantom perceptions"
-    daemon_correspondence: "Aerunik"
+    - Distinguishing between what is actually sensed and what the brain fills in
+    - Recognizing blind spots, illusory contours, and phantom perceptions
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Relationship between brain's internal model and external reality"
-      - "Connection between body schema and sensory feedback (phantom limb)"
-    daemon_correspondence: "Sentaria"
+    - Relationship between brain's internal model and external reality
+    - Connection between body schema and sensory feedback (phantom limb)
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
     aspects:
-      - "Transformation of incomplete retinal data into full-field illusion of sharpness"
-      - "Mirror box therapy transforming phantom pain through visual illusion"
-    daemon_correspondence: "Jvalion"
+    - Transformation of incomplete retinal data into full-field illusion of sharpness
+    - Mirror box therapy transforming phantom pain through visual illusion
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.55
     aspects:
-      - "Adaptation of perceptual schemas through experience"
-      - "Growth of pattern-recognition capabilities over developmental lifespan"
-    daemon_correspondence: "Arboriel"
+    - Adaptation of perceptual schemas through experience
+    - Growth of pattern-recognition capabilities over developmental lifespan
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.65
     aspects:
-      - "Continuous cycle of sensory input, construction, and model revision"
-      - "Recycling of neural predictions through feedback loops"
-    daemon_correspondence: "Humavita"
+    - Continuous cycle of sensory input, construction, and model revision
+    - Recycling of neural predictions through feedback loops
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "Persistent structural body map that outlives amputation"
-      - "Neural architecture that enforces constructive perception"
-    daemon_correspondence: "Ferrosid"
+    - Persistent structural body map that outlives amputation
+    - Neural architecture that enforces constructive perception
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S007_Understanding_Human_Mind"
-  - "S002_System_1_System_2_Thinking"
-  - "S00B_Metaphors_Consciousness_Behavior"
-  - "S011_Understanding_Reality_Through_Science"
-  - "S016_Lacan_Imaginary_Symbolic_Real"
+- S007_Understanding_Human_Mind
+- S002_System_1_System_2_Thinking
+- S00B_Metaphors_Consciousness_Behavior
+- S011_Understanding_Reality_Through_Science
+- S016_Lacan_Imaginary_Symbolic_Real
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.7
+    fire_lambda: 0.85
+    wood_beta: 0.55
+    earth_delta_gamma: 0.65
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212438_276333_How+the+Brain+Fills+in+the+Blanks.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

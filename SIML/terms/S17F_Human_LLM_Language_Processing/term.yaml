@@ -1,32 +1,151 @@
 ---
-term: "Human LLM Language Processing"
-hex_tag: "S17F"
-series: "S"
-source_file: "1771907213675_2572046_Humans+and+LLMs+Share+Language+Processing+Insights.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Zhejiang University research published in Nature Human Behaviour reveals that humans and LLMs represent sentences similarly, deleting the same words when shortening sentences. This convergence between biological and artificial language systems suggests shared processing strategies across radically different substrates."
-nemetic: "Φ(HumanLLM) = σ(biological_cognition|artificial_processing) ∘ ρ(sentence_representation|compression_strategy) ∘ λ(convergent_insight|reductive_analogy) ∘ β(cognitive_science|AI_research) ∘ δγ(embodied_language|statistical_pattern) ∘ μ(shared_structure|substrate_difference) + ε | :convergent_processing"
-siml_encoding: "⟨Human_language⟩ ⊳ ⟨LLM_language⟩ → ⟨shared_representation⟩ ⊗ ⟨deletion_convergence⟩ ⇄ ⟨cross_substrate_insight⟩"
+term: Human LLM Language Processing
+hex_tag: S17F
+series: S
+source_file: 1771907213675_2572046_Humans+and+LLMs+Share+Language+Processing+Insights.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Zhejiang University research published in Nature Human Behaviour reveals that humans and LLMs represent sentences similarly, deleting the same words when shortening sentences. This convergence between biological and artificial language systems suggests shared processing strategies across radically different substrates.
+nemetic: Φ(HumanLLM) = σ(biological_cognition|artificial_processing) ∘ ρ(sentence_representation|compression_strategy) ∘ λ(convergent_insight|reductive_analogy) ∘ β(cognitive_science|AI_research) ∘ δγ(embodied_language|statistical_pattern) ∘ μ(shared_structure|substrate_difference) + ε | :convergent_processing
+siml_encoding: ⟨Human_language⟩ ⊳ ⟨LLM_language⟩ → ⟨shared_representation⟩ ⊗ ⟨deletion_convergence⟩ ⇄ ⟨cross_substrate_insight⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: biological_cognition / artificial_processing
+      S: cognitive_science / AI_research
+      R: sentence_representation / compression_strategy
+      P: convergent_insight / reductive_analogy
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (categorical distinction between biological cognition and artificial processing; the taxonomic cut between neural wetware and silicon computation that the convergence findings destabilize)"
-    - "∂Φ/∂ρ (relational flow between sentence representation strategies; the channel connecting how humans and LLMs both compress meaning through similar deletion patterns)"
-    - "∂Φ/∂λ (transformative spark when convergent findings ignite new understanding vs reductive analogy that collapses genuine differences between substrates)"
-    - "∂Φ/∂β (developmental growth bridging cognitive science and AI research; organic cross-pollination between disciplines that traditionally study mind and machine separately)"
-    - "∂Φ/∂δγ (cyclical grounding between embodied language experience and statistical pattern extraction; the rhythm connecting lived linguistic meaning to computational regularity)"
-    - "∂Φ/∂μ (structural boundary between shared processing architecture and irreducible substrate differences; the threshold where convergence meets the hard limits of analogy)"
-  Z_state: "convergent_processing — the state where biological and artificial language systems are recognized as arriving at similar representational strategies through different developmental paths, forcing reconsideration of what is universal about language processing versus what is substrate-specific"
-  tendency: "ρ → 0.88"
+  - ∂Φ/∂σ (categorical distinction between biological cognition and artificial processing; the taxonomic cut between neural wetware and silicon computation that the convergence findings destabilize)
+  - ∂Φ/∂ρ (relational flow between sentence representation strategies; the channel connecting how humans and LLMs both compress meaning through similar deletion patterns)
+  - ∂Φ/∂λ (transformative spark when convergent findings ignite new understanding vs reductive analogy that collapses genuine differences between substrates)
+  - ∂Φ/∂β (developmental growth bridging cognitive science and AI research; organic cross-pollination between disciplines that traditionally study mind and machine separately)
+  - ∂Φ/∂δγ (cyclical grounding between embodied language experience and statistical pattern extraction; the rhythm connecting lived linguistic meaning to computational regularity)
+  - ∂Φ/∂μ (structural boundary between shared processing architecture and irreducible substrate differences; the threshold where convergence meets the hard limits of analogy)
+  Z_state: semi
+  z_note: convergent_processing — the state where biological and artificial language systems are recognized as arriving at similar representational strategies through different developmental paths, forcing reconsideration of what is universal about language processing versus what is substrate-specific
+  tendency: ρ → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["biological_cognition", "artificial_processing"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.88, aspects: ["sentence_representation", "compression_strategy"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.76, aspects: ["convergent_insight", "reductive_analogy"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.82, aspects: ["cognitive_science", "AI_research"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["embodied_language", "statistical_pattern"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["shared_structure", "substrate_difference"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - biological_cognition
+    - artificial_processing
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.88
+    aspects:
+    - sentence_representation
+    - compression_strategy
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.76
+    aspects:
+    - convergent_insight
+    - reductive_analogy
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.82
+    aspects:
+    - cognitive_science
+    - AI_research
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - embodied_language
+    - statistical_pattern
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - shared_structure
+    - substrate_difference
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.88
+    fire_lambda: 0.76
+    wood_beta: 0.82
+    earth_delta_gamma: 0.72
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213675_2572046_Humans+and+LLMs+Share+Language+Processing+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,65 +1,154 @@
 ---
-term: "Understanding Reality Through Science"
-hex_tag: "S011"
-series: "S"
-source_file: "1771907212395_257810_Understanding+Reality+Through+Science.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Science as a democratic, everyday tool for understanding reality through the IO Loop (Information-Organization Loop)—a cyclical process of observation, questioning, and experimentation that refines mental models. Reality is always communicating; our task is to listen. Warns against confirmation bias as the primary obstacle to genuine inquiry."
-nemetic: "Φ(ScienceReality) = σ(observe|question) ∘ ρ(reality|model) ∘ λ(hypothesis|test) ∘ β(refine|adapt) ∘ δγ(information|organization) ∘ μ(method|bias) + ε | :aligning"
-siml_encoding: "⟨Observation|made⟩ ⊳ ⟨Question|asked⟩ → ⟨Hypothesis|tested⟩ ⊗ ⟨Model|refined⟩ ⇄ ⟨Reality|aligned⟩"
+term: Understanding Reality Through Science
+hex_tag: S011
+series: S
+source_file: 1771907212395_257810_Understanding+Reality+Through+Science.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Science as a democratic, everyday tool for understanding reality through the IO Loop (Information-Organization Loop)—a cyclical process of observation, questioning, and experimentation that refines mental models. Reality is always communicating; our task is to listen. Warns against confirmation bias as the primary obstacle to genuine inquiry.
+nemetic: Φ(ScienceReality) = σ(observe|question) ∘ ρ(reality|model) ∘ λ(hypothesis|test) ∘ β(refine|adapt) ∘ δγ(information|organization) ∘ μ(method|bias) + ε | :aligning
+siml_encoding: ⟨Observation|made⟩ ⊳ ⟨Question|asked⟩ → ⟨Hypothesis|tested⟩ ⊗ ⟨Model|refined⟩ ⇄ ⟨Reality|aligned⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: observe / question
+      S: refine / adapt
+      R: reality / model
+      P: hypothesis / test
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction through observation and questioning of perceived phenomena)"
-    - "∂Φ/∂ρ (relational alignment between reality's communications and mental models)"
-    - "∂Φ/∂λ (transformative hypothesis testing through experimentation)"
-    - "∂Φ/∂β (developmental refinement and adaptation of models through iterative cycles)"
-    - "∂Φ/∂δγ (cyclical IO Loop grounding information intake in organizational structure)"
-    - "∂Φ/∂μ (structural scientific method as discipline against confirmation bias)"
-  Z_state: "aligning (mental models progressively aligned with reality through iterative inquiry)"
-  tendency: "Alignment/Refinement → 0.75"
+  - ∂Φ/∂σ (distinction through observation and questioning of perceived phenomena)
+  - ∂Φ/∂ρ (relational alignment between reality's communications and mental models)
+  - ∂Φ/∂λ (transformative hypothesis testing through experimentation)
+  - ∂Φ/∂β (developmental refinement and adaptation of models through iterative cycles)
+  - ∂Φ/∂δγ (cyclical IO Loop grounding information intake in organizational structure)
+  - ∂Φ/∂μ (structural scientific method as discipline against confirmation bias)
+  Z_state: semi
+  z_note: aligning (mental models progressively aligned with reality through iterative inquiry)
+  tendency: Alignment/Refinement → 0.75
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Observation as the primary act of distinction"
-      - "Questioning as the sharpening of what has been observed"
-    daemon_correspondence: "Aerunik"
+    - Observation as the primary act of distinction
+    - Questioning as the sharpening of what has been observed
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.65
     aspects:
-      - "Reality-mind relationship as ongoing communication"
-      - "Listening to what reality is telling us through phenomena"
-    daemon_correspondence: "Sentaria"
+    - Reality-mind relationship as ongoing communication
+    - Listening to what reality is telling us through phenomena
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "Hypothesis testing as transformative experimentation"
-      - "Directed inquiry that changes understanding"
-    daemon_correspondence: "Jvalion"
+    - Hypothesis testing as transformative experimentation
+    - Directed inquiry that changes understanding
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Iterative refinement and adaptation of mental models"
-      - "Growth through cycles of error correction"
-    daemon_correspondence: "Arboriel"
+    - Iterative refinement and adaptation of mental models
+    - Growth through cycles of error correction
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "The IO Loop as cyclical grounding process: information in, organization out"
-      - "Metabolic rhythm of observation, hypothesis, test, refine"
-    daemon_correspondence: "Humavita"
+    - 'The IO Loop as cyclical grounding process: information in, organization out'
+    - Metabolic rhythm of observation, hypothesis, test, refine
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Scientific method as structural discipline against confirmation bias"
-      - "Procedural rigor preventing self-deception"
-    daemon_correspondence: "Ferrosid"
+    - Scientific method as structural discipline against confirmation bias
+    - Procedural rigor preventing self-deception
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S004_Mental_Models_Integrative_Thinking"
-  - "A057_Confirmation_Bias"
-  - "S005_DSRP_Theory_of_Thinking"
+- S004_Mental_Models_Integrative_Thinking
+- A057_Confirmation_Bias
+- S005_DSRP_Theory_of_Thinking
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.65
+    fire_lambda: 0.65
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212395_257810_Understanding+Reality+Through+Science.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

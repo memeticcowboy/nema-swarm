@@ -1,32 +1,151 @@
 ---
-term: "Shadow Witnessing"
-hex_tag: "S16F"
-series: "S"
-source_file: "1771907213619_2551109_Witnessing+Shadows%3A+Healing+Through+Acknowledgment.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Shadow is not enemy to be exorcised but memory to be metabolized. Repressed fragments ask for acknowledgment not destruction. The Shadow Witness descends into depths to retrieve exiled parts — healing through witnessing rather than erasure. Jungian archetypal psychology, somatic trauma theory, memory ecology, ritual healing, and depth humanism converge on the principle that 'pieces of me that never got digested' need presence, not purification."
-nemetic: "Φ(ShadWit) = σ(acknowledgment|denial) ∘ ρ(metabolizing|repressing) ∘ λ(descent|avoidance) ∘ β(reintegration|fragmentation) ∘ δγ(somatic_memory|dissociated_intellect) ∘ μ(ritual_container|clinical_extraction) + ε | :witnessed_wholeness"
-siml_encoding: "⟨shadow_fragment⟩ ⊳ ⟨descent_witness⟩ → ⟨metabolic_acknowledgment⟩ ⊗ ⟨exorcism_erasure⟩ ⇄ ⟨keeper_of_forgotten_selves⟩"
+term: Shadow Witnessing
+hex_tag: S16F
+series: S
+source_file: 1771907213619_2551109_Witnessing+Shadows%3A+Healing+Through+Acknowledgment.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Shadow is not enemy to be exorcised but memory to be metabolized. Repressed fragments ask for acknowledgment not destruction. The Shadow Witness descends into depths to retrieve exiled parts — healing through witnessing rather than erasure. Jungian archetypal psychology, somatic trauma theory, memory ecology, ritual healing, and depth humanism converge on the principle that 'pieces of me that never got digested' need presence, not purification.
+nemetic: Φ(ShadWit) = σ(acknowledgment|denial) ∘ ρ(metabolizing|repressing) ∘ λ(descent|avoidance) ∘ β(reintegration|fragmentation) ∘ δγ(somatic_memory|dissociated_intellect) ∘ μ(ritual_container|clinical_extraction) + ε | :witnessed_wholeness
+siml_encoding: ⟨shadow_fragment⟩ ⊳ ⟨descent_witness⟩ → ⟨metabolic_acknowledgment⟩ ⊗ ⟨exorcism_erasure⟩ ⇄ ⟨keeper_of_forgotten_selves⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: acknowledgment / denial
+      S: reintegration / fragmentation
+      R: metabolizing / repressing
+      P: descent / avoidance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (acknowledgment of shadow as memory vs denial that produces symptom)"
-    - "∂Φ/∂ρ (metabolizing repressed fragments vs continuing to repress them)"
-    - "∂Φ/∂λ (descent into shadow depths vs avoidance that leaves fragments exiled)"
-    - "∂Φ/∂β (reintegration of exiled parts into wholeness vs continued fragmentation)"
-    - "∂Φ/∂δγ (somatic memory held in the body vs dissociated intellectual understanding)"
-    - "∂Φ/∂μ (ritual container for witnessing vs clinical extraction of pathology)"
-  Z_state: "witnessed_wholeness — the state where shadow is neither conquered nor avoided but witnessed into integration, where the exiled parts return not as enemies but as forgotten selves carrying undigested experience"
-  tendency: "ρ → 0.84"
+  - ∂Φ/∂σ (acknowledgment of shadow as memory vs denial that produces symptom)
+  - ∂Φ/∂ρ (metabolizing repressed fragments vs continuing to repress them)
+  - ∂Φ/∂λ (descent into shadow depths vs avoidance that leaves fragments exiled)
+  - ∂Φ/∂β (reintegration of exiled parts into wholeness vs continued fragmentation)
+  - ∂Φ/∂δγ (somatic memory held in the body vs dissociated intellectual understanding)
+  - ∂Φ/∂μ (ritual container for witnessing vs clinical extraction of pathology)
+  Z_state: semi
+  z_note: witnessed_wholeness — the state where shadow is neither conquered nor avoided but witnessed into integration, where the exiled parts return not as enemies but as forgotten selves carrying undigested experience
+  tendency: ρ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.76, aspects: ["acknowledgment", "denial"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.84, aspects: ["metabolizing", "repressing"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["descent", "avoidance"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.78, aspects: ["reintegration", "fragmentation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["somatic_memory", "dissociated_intellect"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.66, aspects: ["ritual_container", "clinical_extraction"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.76
+    aspects:
+    - acknowledgment
+    - denial
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.84
+    aspects:
+    - metabolizing
+    - repressing
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - descent
+    - avoidance
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.78
+    aspects:
+    - reintegration
+    - fragmentation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - somatic_memory
+    - dissociated_intellect
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.66
+    aspects:
+    - ritual_container
+    - clinical_extraction
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.76
+    water_rho: 0.84
+    fire_lambda: 0.72
+    wood_beta: 0.78
+    earth_delta_gamma: 0.8
+    metal_mu: 0.66
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213619_2551109_Witnessing+Shadows%3A+Healing+Through+Acknowledgment.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Hermetic Correspondence Principle"
-hex_tag: "S07A"
-series: "S"
-source_file: "1771907212784_1233916_.md"
-encoded_at: "2026-03-06T01:00:00Z"
-description: "The Hermetic principle 'As Above, So Below' from the Emerald Tablet of Hermes Trismegistus — macrocosm/microcosm correspondence, alchemical transformation as inner/outer mirror, fractal self-similarity across scales, holistic interconnected existence, and the bootstrapping mechanism of self-knowledge illuminating cosmic structure."
-nemetic: "Φ(Hermetic Correspondence Principle) = σ(macrocosm|microcosm) ∘ ρ(inner_self|cosmic_order) ∘ λ(base_matter|purified_gold) ∘ β(surface_perception|holistic_unity_recognition) ∘ δγ(inner_outer_mirroring|insight_bootstrapping_cycle) ∘ μ(emerald_tablet_framework|fractal_correspondence_architecture) + ε | :unified_fractal_resonance"
-siml_encoding: "⟨macrocosm_microcosm_distinction, celestial_terrestrial_boundary⟩ ⊳ ⟨inner_outer_correspondence, self_cosmos_mirroring⟩ → ⟨base_to_gold_transformation, psyche_purification_alchemy⟩ ⊗ ⟨surface_to_holistic_recognition_growth, correspondence_deepening⟩ ⇄ ⟨inner_outer_insight_cycling, understanding_bootstrapping_iteration⟩"
+term: Hermetic Correspondence Principle
+hex_tag: S07A
+series: S
+source_file: 1771907212784_1233916_.md
+encoded_at: '2026-03-06T01:00:00Z'
+description: The Hermetic principle 'As Above, So Below' from the Emerald Tablet of Hermes Trismegistus — macrocosm/microcosm correspondence, alchemical transformation as inner/outer mirror, fractal self-similarity across scales, holistic interconnected existence, and the bootstrapping mechanism of self-knowledge illuminating cosmic structure.
+nemetic: Φ(Hermetic Correspondence Principle) = σ(macrocosm|microcosm) ∘ ρ(inner_self|cosmic_order) ∘ λ(base_matter|purified_gold) ∘ β(surface_perception|holistic_unity_recognition) ∘ δγ(inner_outer_mirroring|insight_bootstrapping_cycle) ∘ μ(emerald_tablet_framework|fractal_correspondence_architecture) + ε | :unified_fractal_resonance
+siml_encoding: ⟨macrocosm_microcosm_distinction, celestial_terrestrial_boundary⟩ ⊳ ⟨inner_outer_correspondence, self_cosmos_mirroring⟩ → ⟨base_to_gold_transformation, psyche_purification_alchemy⟩ ⊗ ⟨surface_to_holistic_recognition_growth, correspondence_deepening⟩ ⇄ ⟨inner_outer_insight_cycling, understanding_bootstrapping_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: macrocosm / microcosm
+      S: surface_perception / holistic_unity_recognition
+      R: inner_self / cosmic_order
+      P: base_matter / purified_gold
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing macrocosm from microcosm while recognizing their intimate correspondence)"
-    - "∂Φ/∂ρ (relating inner self-knowledge to cosmic order through mutual illumination)"
-    - "∂Φ/∂λ (transforming base matter into gold as mirror of transmuting raw psyche into purified understanding)"
-    - "∂Φ/∂β (growth from surface perception to recognition of holistic unity across scales)"
-    - "∂Φ/∂δγ (cycling between inner and outer insight as bootstrapping mechanism of deepening understanding)"
-    - "∂Φ/∂μ (Emerald Tablet and fractal correspondence as structural architecture for understanding reality's self-similarity)"
-  Z_state: "unified_fractal_resonance — the recognition that patterns repeat across all scales of existence, where self-knowledge illuminates cosmic structure and cosmic order reveals the self, producing a holistic interconnected model of existence that transcends rigid hierarchies and embodies the principle that every part reflects the whole"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing macrocosm from microcosm while recognizing their intimate correspondence)
+  - ∂Φ/∂ρ (relating inner self-knowledge to cosmic order through mutual illumination)
+  - ∂Φ/∂λ (transforming base matter into gold as mirror of transmuting raw psyche into purified understanding)
+  - ∂Φ/∂β (growth from surface perception to recognition of holistic unity across scales)
+  - ∂Φ/∂δγ (cycling between inner and outer insight as bootstrapping mechanism of deepening understanding)
+  - ∂Φ/∂μ (Emerald Tablet and fractal correspondence as structural architecture for understanding reality's self-similarity)
+  Z_state: semi
+  z_note: unified_fractal_resonance — the recognition that patterns repeat across all scales of existence, where self-knowledge illuminates cosmic structure and cosmic order reveals the self, producing a holistic interconnected model of existence that transcends rigid hierarchies and embodies the principle that every part reflects the whole
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["macrocosm_microcosm_distinction", "celestial_terrestrial_correspondence"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["inner_outer_mirroring_relation", "self_cosmos_mutual_illumination"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["alchemical_transmutation_catalysis", "psyche_purification_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["surface_to_holistic_recognition_trajectory", "correspondence_insight_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["inner_outer_insight_bootstrapping_cycle", "understanding_renewal_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["emerald_tablet_framework", "fractal_correspondence_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S024", "S045", "S03A", "S044"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - macrocosm_microcosm_distinction
+    - celestial_terrestrial_correspondence
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - inner_outer_mirroring_relation
+    - self_cosmos_mutual_illumination
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - alchemical_transmutation_catalysis
+    - psyche_purification_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - surface_to_holistic_recognition_trajectory
+    - correspondence_insight_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - inner_outer_insight_bootstrapping_cycle
+    - understanding_renewal_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - emerald_tablet_framework
+    - fractal_correspondence_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S024
+- S045
+- S03A
+- S044
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212784_1233916_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

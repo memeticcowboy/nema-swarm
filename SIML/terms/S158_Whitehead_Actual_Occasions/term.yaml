@@ -1,32 +1,151 @@
 ---
-term: "Whitehead Actual Occasions"
-hex_tag: "S158"
-series: "S"
-source_file: "1771907213483_2419365_Understanding+Whitehead%27s+Actual+Occasions%3A+A+New+Perspective.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Whitehead's actual occasions — one indivisible pulse of becoming: receives influence from whole past, decides how to unify it into unique character, becomes new influence for everything following. No enduring thing underlying the act. Experience as central to actuality. Reality as series of interconnected moments of creative advance. Quantum events also actual occasions. Process replaces substance as fundamental ontological category."
-nemetic: "Φ(Whitehead Actual Occasions) = σ(enduring_substance|momentary_pulse_of_becoming) ∘ ρ(isolated_entity|prehensive_relational_inheritance) ∘ λ(static_being|creative_advance_transformation) ∘ β(simple_occasion|expanding_experiential_complexity) ∘ δγ(perishing_becoming_oscillation|concrescence_transition_cycling) ∘ μ(process_ontology_architecture|occasion_nexus_framework) + ε | :reality_as_creative_becoming"
-siml_encoding: "⟨substance_process_distinction, enduring_momentary_discernment⟩ ⊳ ⟨isolated_prehensive_relating, entity_inheritance_flow⟩ → ⟨static_creative_catalysis, being_becoming_transformation⟩ ⊗ ⟨simple_complex_growth, occasion_experiential_expansion⟩ ⇄ ⟨perishing_becoming_cycling, concrescence_transition_rhythm⟩"
+term: Whitehead Actual Occasions
+hex_tag: S158
+series: S
+source_file: 1771907213483_2419365_Understanding+Whitehead%27s+Actual+Occasions%3A+A+New+Perspective.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Whitehead''s actual occasions — one indivisible pulse of becoming: receives influence from whole past, decides how to unify it into unique character, becomes new influence for everything following. No enduring thing underlying the act. Experience as central to actuality. Reality as series of interconnected moments of creative advance. Quantum events also actual occasions. Process replaces substance as fundamental ontological category.'
+nemetic: Φ(Whitehead Actual Occasions) = σ(enduring_substance|momentary_pulse_of_becoming) ∘ ρ(isolated_entity|prehensive_relational_inheritance) ∘ λ(static_being|creative_advance_transformation) ∘ β(simple_occasion|expanding_experiential_complexity) ∘ δγ(perishing_becoming_oscillation|concrescence_transition_cycling) ∘ μ(process_ontology_architecture|occasion_nexus_framework) + ε | :reality_as_creative_becoming
+siml_encoding: ⟨substance_process_distinction, enduring_momentary_discernment⟩ ⊳ ⟨isolated_prehensive_relating, entity_inheritance_flow⟩ → ⟨static_creative_catalysis, being_becoming_transformation⟩ ⊗ ⟨simple_complex_growth, occasion_experiential_expansion⟩ ⇄ ⟨perishing_becoming_cycling, concrescence_transition_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: enduring_substance / momentary_pulse_of_becoming
+      S: simple_occasion / expanding_experiential_complexity
+      R: isolated_entity / prehensive_relational_inheritance
+      P: static_being / creative_advance_transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing enduring substance from momentary pulses of becoming — the discernment between the traditional assumption of permanent substances underlying change and Whitehead's recognition that actual occasions are indivisible pulses of becoming with no enduring thing underlying the act, where process replaces substance as the fundamental ontological category)"
-    - "∂Φ/∂ρ (relating isolated entities to prehensive relational inheritance — the relational dynamic where each actual occasion receives influence from the whole past through prehension, inheriting the achieved character of all prior occasions and weaving them into a new unity of experience, with no occasion existing in isolation)"
-    - "∂Φ/∂λ (transforming static being into creative advance — the catalytic shift where reality is understood not as static being but as creative advance into novelty, with each actual occasion deciding how to unify inherited influences into a unique character that becomes new influence for everything following)"
-    - "∂Φ/∂β (growth from simple occasions to expanding experiential complexity — the developmental trajectory where actual occasions build in complexity from quantum events to conscious experience, with experience as central to all actuality, not exclusive to minds, and each level adding dimensions of experiential richness)"
-    - "∂Φ/∂δγ (cycling between perishing and becoming in concrescence and transition — the grounding oscillation where each actual occasion undergoes concrescence — the process of becoming unified — then perishes as subjective immediacy, transitioning into objective immortality as datum for subsequent occasions, creating the rhythm of reality's creative advance)"
-    - "∂Φ/∂μ (structural framework of process ontology — the architecture encoding how actual occasions relate through nexus and societies, how prehension weaves past into present, and how the categoreal scheme provides structural coherence for understanding reality as interconnected moments of creative advance)"
-  Z_state: "reality_as_creative_becoming — actual occasions are indivisible pulses of becoming, each receiving influence from the whole past, deciding how to unify inherited data into unique character, then becoming new influence for everything following; no enduring substance underlies the act — process replaces substance as fundamental ontological category; experience is central to all actuality, not exclusive to conscious minds; reality is a series of interconnected moments of creative advance into novelty; quantum events are also actual occasions; each occasion undergoes concrescence then perishes into objective immortality as datum for the future"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ (distinguishing enduring substance from momentary pulses of becoming — the discernment between the traditional assumption of permanent substances underlying change and Whitehead's recognition that actual occasions are indivisible pulses of becoming with no enduring thing underlying the act, where process replaces substance as the fundamental ontological category)
+  - ∂Φ/∂ρ (relating isolated entities to prehensive relational inheritance — the relational dynamic where each actual occasion receives influence from the whole past through prehension, inheriting the achieved character of all prior occasions and weaving them into a new unity of experience, with no occasion existing in isolation)
+  - ∂Φ/∂λ (transforming static being into creative advance — the catalytic shift where reality is understood not as static being but as creative advance into novelty, with each actual occasion deciding how to unify inherited influences into a unique character that becomes new influence for everything following)
+  - ∂Φ/∂β (growth from simple occasions to expanding experiential complexity — the developmental trajectory where actual occasions build in complexity from quantum events to conscious experience, with experience as central to all actuality, not exclusive to minds, and each level adding dimensions of experiential richness)
+  - ∂Φ/∂δγ (cycling between perishing and becoming in concrescence and transition — the grounding oscillation where each actual occasion undergoes concrescence — the process of becoming unified — then perishes as subjective immediacy, transitioning into objective immortality as datum for subsequent occasions, creating the rhythm of reality's creative advance)
+  - ∂Φ/∂μ (structural framework of process ontology — the architecture encoding how actual occasions relate through nexus and societies, how prehension weaves past into present, and how the categoreal scheme provides structural coherence for understanding reality as interconnected moments of creative advance)
+  Z_state: semi
+  z_note: reality_as_creative_becoming — actual occasions are indivisible pulses of becoming, each receiving influence from the whole past, deciding how to unify inherited data into unique character, then becoming new influence for everything following; no enduring substance underlies the act — process replaces substance as fundamental ontological category; experience is central to all actuality, not exclusive to conscious minds; reality is a series of interconnected moments of creative advance into novelty; quantum events are also actual occasions; each occasion undergoes concrescence then perishes into objective immortality as datum for the future
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.95, aspects: ["momentary_pulse_recognition", "substance_ontology_dissolution"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["prehensive_relational_inheritance", "past_present_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["creative_advance_transformation", "novelty_emergence_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["expanding_experiential_complexity", "occasion_richness_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["perishing_becoming_oscillation", "concrescence_transition_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["process_ontology_architecture", "occasion_nexus_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.95
+    aspects:
+    - momentary_pulse_recognition
+    - substance_ontology_dissolution
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - prehensive_relational_inheritance
+    - past_present_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - creative_advance_transformation
+    - novelty_emergence_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - expanding_experiential_complexity
+    - occasion_richness_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - perishing_becoming_oscillation
+    - concrescence_transition_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - process_ontology_architecture
+    - occasion_nexus_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.95
+    water_rho: 0.9
+    fire_lambda: 0.9
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213483_2419365_Understanding+Whitehead%27s+Actual+Occasions%3A+A+New+Perspective.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

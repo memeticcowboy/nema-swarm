@@ -1,12 +1,40 @@
 term_id: W007
 name: Affective_Economy
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: distinction / us them alignment
+      S: exploration / transformed meaning
+      R: circulating resonance / between signs bodies
+      P: saturation cycle / repeated attachment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 element: Water
 phonetic_key: ⛆/ρ
-description: Emotions as circulating movements between signs, bodies, objects—doing
-  things by aligning individuals with communities
-nemetic_string: Φ(Affective_Economy) = ρ(circulating-resonance|between-signs-bodies)
-  ∘ γ(saturation-cycle|repeated-attachment) ∘ σ(distinction|us-them-alignment) ∘ β(exploration|transformed-meaning)
-  + ε | :cycling
+description: Emotions as circulating movements between signs, bodies, objects—doing things by aligning individuals with communities
+nemetic_string: Φ(Affective_Economy) = ρ(circulating-resonance|between-signs-bodies) ∘ γ(saturation-cycle|repeated-attachment) ∘ σ(distinction|us-them-alignment) ∘ β(exploration|transformed-meaning) + ε | :cycling
 operators:
   primary: ρ
   secondary:
@@ -17,40 +45,96 @@ operators:
   - λ
   - μ
   - δ
-z_state: :cycling
+Z_state: permeable
 tendency: Resonance/Cycling → 1
 habitat_affinity: 2_SOCIAL / 3_INNER-STATES
 daemon_correspondence: R (relational) primary, S secondary
 ahmed_thesis: Emotions are not private internal contents but movements that circulate
-economic_metaphor: Affect does not reside positively inside person or sign; produced
-  as effect of circulation
-sticking_mechanism: Feelings 'stick' to certain figures/objects over time, accruing
-  value through circulation
-saturation_process: Some signs/bodies become saturated with fear, love, hate through
-  repeated attachment
-pattern_metabolism: As affects move, they transform both the affect and the bodies
-  they pass through
+economic_metaphor: Affect does not reside positively inside person or sign; produced as effect of circulation
+sticking_mechanism: Feelings 'stick' to certain figures/objects over time, accruing value through circulation
+saturation_process: Some signs/bodies become saturated with fear, love, hate through repeated attachment
+pattern_metabolism: As affects move, they transform both the affect and the bodies they pass through
 constitution_effect: Who is constituted as 'us,' 'them,' safe, dangerous, lovable
 examples:
 - Fear of the migrant
 - National pride
-key_insight: Affective economies are the pattern metabolism—circulation transforms
-  both feeling and felt
+key_insight: Affective economies are the pattern metabolism—circulation transforms both feeling and felt
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T05:00:00+08:00'
   encoder: Kimi Claw
-  source_material: Sara Ahmed Queer Phenomenology—orientation as bodily line-following,
-    lines as tracks laid down by repetition
+  source_material: Sara Ahmed Queer Phenomenology—orientation as bodily line-following, lines as tracks laid down by repetition
   total_terms: 2
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: Sara Ahmed Queer Phenomenology—orientation as bodily line-following, lines as tracks laid down by repetition
+formalism:
+  math_operators:
+  - ρ
+  - γ
+  - σ
+  - β
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂ρ (circulating-resonance|between-signs-bodies)
+  - ∂Φ/∂γ (saturation-cycle|repeated-attachment)
+  - ∂Φ/∂σ (distinction|us-them-alignment)
+  - ∂Φ/∂β (exploration|transformed-meaning)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.8
+  Water: 0.9
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Air
+  - Wood
+  suppressed:
+  - Fire
+  - Metal
+  - Meta
+  weights: *id002
+provenance:
+  author: "Sara Ahmed Queer Phenomenology"
+  work: "orientation as bodily line-following, lines as tracks laid down by repetition"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

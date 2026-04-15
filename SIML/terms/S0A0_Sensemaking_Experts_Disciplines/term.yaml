@@ -1,32 +1,156 @@
 ---
-term: "Sensemaking Experts Across Disciplines"
-hex_tag: "S0A0"
-series: "S"
-source_file: "1771907212948_1827321_Key+Experts+and+Concepts+in+Sensemaking+Across+Disciplines.md"
-encoded_at: "2026-03-06T03:00:00Z"
-description: "Survey of key experts and concepts in sensemaking across disciplines — Weick (organizational theory, retrospective meaning-making), Dervin (information science, cognitive gap-bridging methodology), Madsbjerg (business and humanities, human intuition over algorithmic approaches), Snowden (Cynefin framework, complex systems sensemaking, SenseMaker tool), Klein (naturalistic decision-making, high-stakes cognitive processes), Russell (human-computer interaction, interactive system design); interdisciplinary nature spanning psychology, sociology, computer science; foundational vs contemporary contributions; debate on expert qualification given field's breadth; practical implications for organizational strategy, crisis management, and technology design."
-nemetic: "Φ(Sensemaking Experts Across Disciplines) = σ(disciplinary_boundary|cross_domain_sensemaking_unity) ∘ ρ(expert_framework_coupling|theoretical_tradition_practitioner_network) ∘ λ(isolated_domain_knowledge|integrated_interdisciplinary_synthesis) ∘ β(foundational_theorists|contemporary_applied_practitioners) ∘ δγ(theory_application_refinement_cycle|expert_contribution_accumulation_iteration) ∘ μ(disciplinary_framework_architecture|methodological_tool_infrastructure) + ε | :sensemaking_as_interdisciplinary_convergence"
-siml_encoding: "⟨disciplinary_boundary_distinction, domain_sensemaking_unity⟩ ⊳ ⟨expert_framework_coupling, tradition_practitioner_network⟩ → ⟨isolated_to_integrated_transformation, interdisciplinary_synthesis_catalysis⟩ ⊗ ⟨foundational_to_contemporary_growth, practitioner_development_trajectory⟩ ⇄ ⟨theory_application_cycling, expert_contribution_iteration⟩"
+term: Sensemaking Experts Across Disciplines
+hex_tag: S0A0
+series: S
+source_file: 1771907212948_1827321_Key+Experts+and+Concepts+in+Sensemaking+Across+Disciplines.md
+encoded_at: '2026-03-06T03:00:00Z'
+description: Survey of key experts and concepts in sensemaking across disciplines — Weick (organizational theory, retrospective meaning-making), Dervin (information science, cognitive gap-bridging methodology), Madsbjerg (business and humanities, human intuition over algorithmic approaches), Snowden (Cynefin framework, complex systems sensemaking, SenseMaker tool), Klein (naturalistic decision-making, high-stakes cognitive processes), Russell (human-computer interaction, interactive system design); interdisciplinary nature spanning psychology, sociology, computer science; foundational vs contemporary contributions; debate on expert qualification given field's breadth; practical implications for organizational strategy, crisis management, and technology design.
+nemetic: Φ(Sensemaking Experts Across Disciplines) = σ(disciplinary_boundary|cross_domain_sensemaking_unity) ∘ ρ(expert_framework_coupling|theoretical_tradition_practitioner_network) ∘ λ(isolated_domain_knowledge|integrated_interdisciplinary_synthesis) ∘ β(foundational_theorists|contemporary_applied_practitioners) ∘ δγ(theory_application_refinement_cycle|expert_contribution_accumulation_iteration) ∘ μ(disciplinary_framework_architecture|methodological_tool_infrastructure) + ε | :sensemaking_as_interdisciplinary_convergence
+siml_encoding: ⟨disciplinary_boundary_distinction, domain_sensemaking_unity⟩ ⊳ ⟨expert_framework_coupling, tradition_practitioner_network⟩ → ⟨isolated_to_integrated_transformation, interdisciplinary_synthesis_catalysis⟩ ⊗ ⟨foundational_to_contemporary_growth, practitioner_development_trajectory⟩ ⇄ ⟨theory_application_cycling, expert_contribution_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: disciplinary_boundary / cross_domain_sensemaking_unity
+      S: foundational_theorists / contemporary_applied_practitioners
+      R: expert_framework_coupling / theoretical_tradition_practitioner_network
+      P: isolated_domain_knowledge / integrated_interdisciplinary_synthesis
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the boundaries between disciplines — organizational theory, information science, HCI, cognitive psychology, complex systems — from the underlying unity of sensemaking as a shared concern across all these domains)"
-    - "∂Φ/∂ρ (relating each expert's framework to their theoretical tradition and coupling academic contributions with practitioner networks — Weick to organizational behavior, Dervin to library science, Snowden to public sector innovation)"
-    - "∂Φ/∂λ (transforming isolated domain knowledge into integrated interdisciplinary synthesis, catalyzed by cross-pollination between experts who draw on each other's work to advance sensemaking theory and practice)"
-    - "∂Φ/∂β (growth from foundational theorists like Weick and Dervin who established the field to contemporary applied practitioners like Madsbjerg, Snowden, and Cordes who extend sensemaking into business strategy, complex systems, and memetic warfare)"
-    - "∂Φ/∂δγ (cycling between theory development and practical application — each expert's framework being tested, refined, and reintegrated through empirical studies, organizational interventions, and tool development like SenseMaker)"
-    - "∂Φ/∂μ (disciplinary frameworks as structural architecture — Weick's seven properties, Dervin's gap-bridging methodology, Snowden's Cynefin domains — alongside methodological tools and instruments as infrastructure for applied sensemaking)"
-  Z_state: "sensemaking_as_interdisciplinary_convergence — sensemaking is not owned by any single discipline but emerges as a convergence point where organizational theory, information science, cognitive psychology, complex systems, and HCI meet; each expert contributes a facet of a larger pattern; the Z-state emerges when the field is recognized as inherently interdisciplinary, with each tradition offering essential perspectives that no single framework can encompass; the practical power of sensemaking lies precisely in this convergence, enabling practitioners to draw from multiple traditions to navigate ambiguity"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing the boundaries between disciplines — organizational theory, information science, HCI, cognitive psychology, complex systems — from the underlying unity of sensemaking as a shared concern across all these domains)
+  - ∂Φ/∂ρ (relating each expert's framework to their theoretical tradition and coupling academic contributions with practitioner networks — Weick to organizational behavior, Dervin to library science, Snowden to public sector innovation)
+  - ∂Φ/∂λ (transforming isolated domain knowledge into integrated interdisciplinary synthesis, catalyzed by cross-pollination between experts who draw on each other's work to advance sensemaking theory and practice)
+  - ∂Φ/∂β (growth from foundational theorists like Weick and Dervin who established the field to contemporary applied practitioners like Madsbjerg, Snowden, and Cordes who extend sensemaking into business strategy, complex systems, and memetic warfare)
+  - ∂Φ/∂δγ (cycling between theory development and practical application — each expert's framework being tested, refined, and reintegrated through empirical studies, organizational interventions, and tool development like SenseMaker)
+  - ∂Φ/∂μ (disciplinary frameworks as structural architecture — Weick's seven properties, Dervin's gap-bridging methodology, Snowden's Cynefin domains — alongside methodological tools and instruments as infrastructure for applied sensemaking)
+  Z_state: permeable
+  z_note: sensemaking_as_interdisciplinary_convergence — sensemaking is not owned by any single discipline but emerges as a convergence point where organizational theory, information science, cognitive psychology, complex systems, and HCI meet; each expert contributes a facet of a larger pattern; the Z-state emerges when the field is recognized as inherently interdisciplinary, with each tradition offering essential perspectives that no single framework can encompass; the practical power of sensemaking lies precisely in this convergence, enabling practitioners to draw from multiple traditions to navigate ambiguity
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["disciplinary_boundary_distinction", "domain_unity_recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["expert_framework_coupling", "tradition_practitioner_network"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["isolated_to_integrated_transformation", "interdisciplinary_synthesis_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["foundational_to_contemporary_growth", "practitioner_development_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["theory_application_cycling", "expert_contribution_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["disciplinary_framework_architecture", "methodological_tool_infrastructure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S00D", "S00E", "S02E", "S026", "S09F"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - disciplinary_boundary_distinction
+    - domain_unity_recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - expert_framework_coupling
+    - tradition_practitioner_network
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - isolated_to_integrated_transformation
+    - interdisciplinary_synthesis_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - foundational_to_contemporary_growth
+    - practitioner_development_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - theory_application_cycling
+    - expert_contribution_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - disciplinary_framework_architecture
+    - methodological_tool_infrastructure
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00D
+- S00E
+- S02E
+- S026
+- S09F
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - metal_mu
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212948_1827321_Key+Experts+and+Concepts+in+Sensemaking+Across+Disciplines.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

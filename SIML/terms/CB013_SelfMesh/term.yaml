@@ -5,48 +5,157 @@ family: Cowboy_Canonical
 status: active
 created: 2026-03-19
 author: Bert, the Memetic Cowboy
+etymology: 'Portmanteau of "Self" (the perceiver as control surface) and "Mesh"  (the toroidal coordinate system defining 6DOF attitude). The term  operationalizes the I-Tube/My-Stream interface as a steerable object  within the Threadplex—valve geometry regulating NEMA flow.
 
-etymology: >
-  Portmanteau of "Self" (the perceiver as control surface) and "Mesh" 
-  (the toroidal coordinate system defining 6DOF attitude). The term 
-  operationalizes the I-Tube/My-Stream interface as a steerable object 
-  within the Threadplex—valve geometry regulating NEMA flow.
+  '
+definition: 'The 6DOF attitude of the perceiver as valve geometry regulating NEMA  flow through the bow-tie bottleneck. SelfMesh does not replace the NEMA  habitat ecology—it operationalizes the I-Tube/My-Stream interface as a  steerable object. Where Φ(t) describes field descent across the dimensional  stack, SelfMesh describes how the subject-vehicle is oriented to receive it  (the aerodynamics of attention). The six degrees of freedom manifest  elemental biases as control weightings on coupling geometry: X (λ/Fire),  Y (ρ/Water), Z (δγ/Earth), Yaw (σ/Air), Pitch (λ↔️δγ), Roll (μ/Metal).
 
-definition: >
-  The 6DOF attitude of the perceiver as valve geometry regulating NEMA 
-  flow through the bow-tie bottleneck. SelfMesh does not replace the NEMA 
-  habitat ecology—it operationalizes the I-Tube/My-Stream interface as a 
-  steerable object. Where Φ(t) describes field descent across the dimensional 
-  stack, SelfMesh describes how the subject-vehicle is oriented to receive it 
-  (the aerodynamics of attention). The six degrees of freedom manifest 
-  elemental biases as control weightings on coupling geometry: X (λ/Fire), 
-  Y (ρ/Water), Z (δγ/Earth), Yaw (σ/Air), Pitch (λ↔️δγ), Roll (μ/Metal).
-
+  '
 elemental_signature:
-  Meta: 0.90
+  Meta: 0.9
   Air: 0.75
-  Water: 0.70
+  Water: 0.7
   Fire: 0.65
-  Metal: 0.60
+  Metal: 0.6
   Earth: 0.55
-  Wood: 0.50
-
+  Wood: 0.5
 aliases:
-  - poseable coordinate system
-  - valve geometry
-  - control surface
-  - perceiver attitude
-  - I-Tube interface
-
+- poseable coordinate system
+- valve geometry
+- control surface
+- perceiver attitude
+- I-Tube interface
 see_also:
-  - 6dof
-  - bow-tie
-  - i-tube
-  - my-stream
-  - nema
-  - selfplex
-  - installation-vector
-
+- 6dof
+- bow-tie
+- i-tube
+- my-stream
+- nema
+- selfplex
+- installation-vector
 cross_references:
-  - papers/selfmesh_v1.1_nematic_integration.md
-  - knowledge/cybernetics_information_theory.md
+- papers/selfmesh_v1.1_nematic_integration.md
+- knowledge/cybernetics_information_theory.md
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_mapping:
+  Air: 0.3
+  Water: 0.3
+  Fire: 0.3
+  Wood: 0.3
+  Earth: 0.3
+  Metal: 0.3
+  Meta: 0.3
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - μ
+  partials:
+  - ∂Φ/∂σ (perceiver|observed)
+  - ∂Φ/∂ρ (pose|field)
+  - ∂Φ/∂λ (descent|receiving)
+  - ∂Φ/∂β (6DOF|flow)
+  - ∂Φ/∂μ (valve|boundary)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: pre_siml_sketch
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_mapping
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  - hex_tag_from_hex
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - context_note_from_definition
+  - source_framework_internal
+  - lifecycle_pre_siml_sketch
+  - nemetic_placeholder_stub
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:48:33Z'
+  actions:
+  - stub_expand
+  - phi_sync
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:48:33Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+hex_tag: CB013
+context_note: The 6DOF attitude of the perceiver as valve geometry regulating NEMA  flow through the bow-tie bottleneck. SelfMesh does not replace the NEMA  habitat ecology—it operationalizes the I-Tube/My-Stream interface as a  steerable object. Where Φ(t) describes field descent across the dimensional  stack, SelfMesh describes how the subject-vehicle is oriented to receive it  (the aerodynamics of attention)
+source: Memetic Cowboy — framework-internal sketch (pre-SIML-encoding)
+nemetic_string: Φ(SelfMesh) = σ(perceiver|observed) ∘ ρ(pose|field) ∘ λ(descent|receiving) ∘ β(6DOF|flow) ∘ μ(valve|boundary) + ε | :pre_siml_sketch
+provenance:
+  author: "Memetic Cowboy"
+  work: "Memetic Cowboy — framework-internal sketch (pre-SIML-encoding)"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

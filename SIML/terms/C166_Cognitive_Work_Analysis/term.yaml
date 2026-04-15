@@ -2,108 +2,152 @@ term_id: C166
 hex_tag: '#C166'
 name: cognitive_work_analysis
 term: Cognitive Work Analysis
-nemetic: >-
-  Φ(CognitiveWork) = σ(abstraction|concretion) ∘ ρ(constraint|freedom) ∘
-  λ(optimal|suboptimal) ∘ β(individual|collective) ∘
-  δγ(structure|adaptation) ∘ μ(boundary|competency) + ε | :open
-siml_encoding: >-
-  ⟨WorkDomain|analyzed⟩ ⊳ ⟨ControlTask|structured⟩ ⇄
-  ⟨Strategy|adaptive⟩ ⊗ ⟨SocialOrganization|distributed⟩ ⊳
-  ⟨WorkerCompetency|assessed⟩
+nemetic: Φ(CognitiveWork) = σ(abstraction|concretion) ∘ ρ(constraint|freedom) ∘ λ(optimal|suboptimal) ∘ β(individual|collective) ∘ δγ(structure|adaptation) ∘ μ(boundary|competency) + ε | :open
+siml_encoding: ⟨WorkDomain|analyzed⟩ ⊳ ⟨ControlTask|structured⟩ ⇄ ⟨Strategy|adaptive⟩ ⊗ ⟨SocialOrganization|distributed⟩ ⊳ ⟨WorkerCompetency|assessed⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (abstraction hierarchy across system levels)"
-    - "∂Φ/∂ρ (constraint-freedom dynamics in worker action)"
-    - "∂Φ/∂λ (optimal vs suboptimal strategy selection)"
-    - "∂Φ/∂β (individual-collective cognition distribution)"
-    - "∂Φ/∂δγ (structural stability supporting adaptive response)"
-    - "∂Φ/∂μ (boundary between system scope and worker competency)"
+  - ∂Φ/∂σ (abstraction hierarchy across system levels)
+  - ∂Φ/∂ρ (constraint-freedom dynamics in worker action)
+  - ∂Φ/∂λ (optimal vs suboptimal strategy selection)
+  - ∂Φ/∂β (individual-collective cognition distribution)
+  - ∂Φ/∂δγ (structural stability supporting adaptive response)
+  - ∂Φ/∂μ (boundary between system scope and worker competency)
   Z_state: semi
-  tendency: "Abstraction/Concretion → 0.65"
+  tendency: Abstraction/Concretion → 0.65
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: Its
     secondary:
-      - We
-      - I
+    - We
+    - I
   epistemics:
     dsrp:
-      D: "Cognitive work analysis vs traditional task analysis"
-      S: "Five-phase CWA framework (domain, task, strategy, social, competency)"
-      R: "Constraint → strategy → adaptation → performance"
-      P: "Systems engineer, cognitive ergonomist, worker"
+      D: Cognitive work analysis vs traditional task analysis
+      S: Five-phase CWA framework (domain, task, strategy, social, competency)
+      R: Constraint → strategy → adaptation → performance
+      P: Systems engineer, cognitive ergonomist, worker
     learning: L2
   time:
     mode: layered
-    phase: "multi-level analysis across abstraction hierarchy"
+    phase: multi-level analysis across abstraction hierarchy
   qualia:
     affect:
-      - systematic
-      - clarity
-      - rigor
+    - systematic
+    - clarity
+    - rigor
     aesthetic:
-      - structured
-      - layered
-      - functional
+    - structured
+    - layered
+    - functional
     symbolic:
-      - abstraction-hierarchy
-      - constraint-envelope
-      - decision-ladder
+    - abstraction-hierarchy
+    - constraint-envelope
+    - decision-ladder
     energetic:
-      - analytical
-      - adaptive
-      - integrative
+    - analytical
+    - adaptive
+    - integrative
   agency:
     type: collective
     voice:
-      - Systems Analyst
-      - Adaptive Worker
+    - Systems Analyst
+    - Adaptive Worker
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How do abstraction levels reveal hidden system purposes?"
-  ≈: "What constraints flow between system boundaries and worker freedom?"
-  ▲: "What transforms a suboptimal strategy into an adaptive response?"
-  𐂷: "How does collective cognition branch across team structures?"
-  ☷: "What stable structures ground adaptive worker performance?"
-  ⛨: "Where do competency boundaries define system safety margins?"
-context_note: >-
-  Cognitive Work Analysis (CWA), developed by Jens Rasmussen in the 1980s, is a
-  comprehensive framework for analyzing complex sociotechnical systems. Unlike
-  traditional task analysis, CWA examines the entire work system including
-  constraints, strategies, social organization, and worker competencies across
-  multiple abstraction levels.
-source: "Rasmussen, J. (1986). Information Processing and Human-Machine Interaction — via Grok"
+  ∴: How do abstraction levels reveal hidden system purposes?
+  ≈: What constraints flow between system boundaries and worker freedom?
+  ▲: What transforms a suboptimal strategy into an adaptive response?
+  𐂷: How does collective cognition branch across team structures?
+  ☷: What stable structures ground adaptive worker performance?
+  ⛨: Where do competency boundaries define system safety margins?
+context_note: Cognitive Work Analysis (CWA), developed by Jens Rasmussen in the 1980s, is a comprehensive framework for analyzing complex sociotechnical systems. Unlike traditional task analysis, CWA examines the entire work system including constraints, strategies, social organization, and worker competencies across multiple abstraction levels.
+source: Rasmussen, J. (1986). Information Processing and Human-Machine Interaction — via Grok
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Jens Rasmussen"
+  work: "Information Processing and Human-Machine Interaction (1986)"
+  source_domain: "cognitive-science/HCI"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

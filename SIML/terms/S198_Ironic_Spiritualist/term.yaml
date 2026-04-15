@@ -1,32 +1,151 @@
 ---
-term: "Ironic Spiritualist"
-hex_tag: "S198"
-series: "S"
-source_file: "1771907213701_2607352_Embracing+Paradox%3A+The+Ironic+Spiritualist.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A paradox-embracing stance that treats spirituality as the art of holding contradiction without collapsing into cynicism or certainty. The Ironic Spiritualist navigates doubt and devotion simultaneously, treating paradox as portal rather than problem."
-nemetic: "Φ(Ironic Spiritualist) = σ(doubt|devotion) ∘ ρ(humor|depth) ∘ λ(certainty|paradox) ∘ β(engagement|withdrawal) ∘ δγ(suspicion|celebration) ∘ μ(dogma|openness) + ε | :paradox_holding"
-siml_encoding: "⟨doubt, devotion⟩ ⊳ ⟨humor, depth⟩ → ⟨certainty, paradox⟩ ⊗ ⟨engagement, withdrawal⟩ ⇄ ⟨dogma, openness⟩"
+term: Ironic Spiritualist
+hex_tag: S198
+series: S
+source_file: 1771907213701_2607352_Embracing+Paradox%3A+The+Ironic+Spiritualist.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A paradox-embracing stance that treats spirituality as the art of holding contradiction without collapsing into cynicism or certainty. The Ironic Spiritualist navigates doubt and devotion simultaneously, treating paradox as portal rather than problem.
+nemetic: Φ(Ironic Spiritualist) = σ(doubt|devotion) ∘ ρ(humor|depth) ∘ λ(certainty|paradox) ∘ β(engagement|withdrawal) ∘ δγ(suspicion|celebration) ∘ μ(dogma|openness) + ε | :paradox_holding
+siml_encoding: ⟨doubt, devotion⟩ ⊳ ⟨humor, depth⟩ → ⟨certainty, paradox⟩ ⊗ ⟨engagement, withdrawal⟩ ⇄ ⟨dogma, openness⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: doubt / devotion
+      S: engagement / withdrawal
+      R: humor / depth
+      P: certainty / paradox
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between doubt and devotion as co-present rather than contradictory, enabling a spiritual stance that holds both without forcing resolution."
-    - "∂Φ/∂ρ — Maps the relational dynamic between humor and depth, where lightness of touch enables access to profound questions without becoming heavy or dogmatic."
-    - "∂Φ/∂λ — Transforms the quest for certainty into navigation of paradox, reframing contradiction as portal rather than obstacle to spiritual understanding."
-    - "∂Φ/∂β — Tracks the growth between engagement and withdrawal, where the paradox-holder engages without dogma, questions without retreating, and laughs without losing depth."
-    - "∂Φ/∂δγ — Cycles between suspicion and celebration as complementary spiritual postures, loosening rigid belief structures while preventing nihilistic collapse."
-    - "∂Φ/∂μ — Structures the stance against dogma through radical openness, making it resistant to attack because opposites are pre-admitted and self-irony dissolves critique."
-  Z_state: "paradox_holding — the capacity to sustain contradiction as generative tension rather than cognitive failure"
-  tendency: "δγ → 0.85"
+  - ∂Φ/∂σ — Distinguishes between doubt and devotion as co-present rather than contradictory, enabling a spiritual stance that holds both without forcing resolution.
+  - ∂Φ/∂ρ — Maps the relational dynamic between humor and depth, where lightness of touch enables access to profound questions without becoming heavy or dogmatic.
+  - ∂Φ/∂λ — Transforms the quest for certainty into navigation of paradox, reframing contradiction as portal rather than obstacle to spiritual understanding.
+  - ∂Φ/∂β — Tracks the growth between engagement and withdrawal, where the paradox-holder engages without dogma, questions without retreating, and laughs without losing depth.
+  - ∂Φ/∂δγ — Cycles between suspicion and celebration as complementary spiritual postures, loosening rigid belief structures while preventing nihilistic collapse.
+  - ∂Φ/∂μ — Structures the stance against dogma through radical openness, making it resistant to attack because opposites are pre-admitted and self-irony dissolves critique.
+  Z_state: semi
+  z_note: paradox_holding — the capacity to sustain contradiction as generative tension rather than cognitive failure
+  tendency: δγ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["doubt-devotion distinction", "paradox recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: ["humor-depth relation", "koan-like engagement"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["certainty to paradox", "truth as navigation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.60, aspects: ["engagement without dogma", "questioning without withdrawal"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["suspicion-celebration cycling", "irony-commitment oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["anti-dogma structure", "paradox as defense"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - doubt-devotion distinction
+    - paradox recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - humor-depth relation
+    - koan-like engagement
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - certainty to paradox
+    - truth as navigation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.6
+    aspects:
+    - engagement without dogma
+    - questioning without withdrawal
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - suspicion-celebration cycling
+    - irony-commitment oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - anti-dogma structure
+    - paradox as defense
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.65
+    fire_lambda: 0.7
+    wood_beta: 0.6
+    earth_delta_gamma: 0.85
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213701_2607352_Embracing+Paradox%3A+The+Ironic+Spiritualist.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

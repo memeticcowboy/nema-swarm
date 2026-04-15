@@ -1,100 +1,170 @@
 ---
-term: "Enhancing Meditation with Brain Stimulation"
-hex_tag: "#C13C"
-nemetic: "Φ(MeditationStimulation) = σ(focus|distraction) ∘ ρ(neuromodulation|baseline) ∘ λ(enhancement|ordinary) ∘ β(training|integration) ∘ δγ(embodiment|technology) ∘ μ(precision|noise) + ε | :augmenting"
-siml_encoding: "⟨Meditation|enhanced⟩ ⊳ ⟨Stimulation|targeted⟩ → ⟨DMN|modulated⟩ ⊗ ⟨Neuroplasticity|accelerated⟩ ⇄ ⟨Consciousness|expanded⟩"
+term: Enhancing Meditation with Brain Stimulation
+hex_tag: '#C13C'
+nemetic: Φ(MeditationStimulation) = σ(focus|distraction) ∘ ρ(neuromodulation|baseline) ∘ λ(enhancement|ordinary) ∘ β(training|integration) ∘ δγ(embodiment|technology) ∘ μ(precision|noise) + ε | :augmenting
+siml_encoding: ⟨Meditation|enhanced⟩ ⊳ ⟨Stimulation|targeted⟩ → ⟨DMN|modulated⟩ ⊗ ⟨Neuroplasticity|accelerated⟩ ⇄ ⟨Consciousness|expanded⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between focused meditative states and ordinary awareness; the selective attentional filtering that distinguishes contemplative depth from surface-level relaxation)"
-    - "∂Φ/∂ρ (relational flow between neuromodulation techniques and meditative practice; the bridging of TMS/tES intervention with traditional contemplative methods)"
-    - "∂Φ/∂λ (directional transformation from ordinary meditation to enhanced states through brain stimulation; the catalytic amplification of mindfulness effects via targeted neural modulation)"
-    - "∂Φ/∂β (feedback loop between stimulation protocols and meditative skill development; the developmental cycle of integrating technology with contemplative practice)"
-    - "∂Φ/∂δγ (cyclical oscillation between embodied meditative experience and abstract neurotechnological intervention; the rhythm of grounding in somatic awareness while receiving external brain stimulation)"
-    - "∂Φ/∂μ (boundary permeability between targeted neural modulation and unwanted side effects; the threshold of stimulation intensity that enhances versus disrupts meditative depth)"
-  Z_state: "augmenting (the meditative state is amplified through precise neuromodulation; boundaries between natural contemplative capacity and technological enhancement blur as TMS/tES accelerates access to deeper states of awareness)"
-  tendency: "Enhancement/Interference → 0.72 (strong drive toward amplified meditative effects through stimulation; achieving enhanced mindfulness requires careful calibration of neuromodulation parameters to augment rather than disrupt contemplative depth)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between focused meditative states and ordinary awareness; the selective attentional filtering that distinguishes contemplative depth from surface-level relaxation)
+  - ∂Φ/∂ρ (relational flow between neuromodulation techniques and meditative practice; the bridging of TMS/tES intervention with traditional contemplative methods)
+  - ∂Φ/∂λ (directional transformation from ordinary meditation to enhanced states through brain stimulation; the catalytic amplification of mindfulness effects via targeted neural modulation)
+  - ∂Φ/∂β (feedback loop between stimulation protocols and meditative skill development; the developmental cycle of integrating technology with contemplative practice)
+  - ∂Φ/∂δγ (cyclical oscillation between embodied meditative experience and abstract neurotechnological intervention; the rhythm of grounding in somatic awareness while receiving external brain stimulation)
+  - ∂Φ/∂μ (boundary permeability between targeted neural modulation and unwanted side effects; the threshold of stimulation intensity that enhances versus disrupts meditative depth)
+  Z_state: semi
+  z_note: augmenting (the meditative state is amplified through precise neuromodulation; boundaries between natural contemplative capacity and technological enhancement blur as TMS/tES accelerates access to deeper states of awareness)
+  tendency: Enhancement/Interference → 0.72 (strong drive toward amplified meditative effects through stimulation; achieving enhanced mindfulness requires careful calibration of neuromodulation parameters to augment rather than disrupt contemplative depth)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: embodied
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: focus / distraction
+      S: training / integration
+      R: neuromodulation / baseline
+      P: enhancement / ordinary
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.82
     aspects:
-      - "categorical distinction between enhanced meditative states and baseline awareness"
-      - "logical analysis of default-mode network activity versus task-positive network engagement"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between enhanced meditative states and baseline awareness
+    - logical analysis of default-mode network activity versus task-positive network engagement
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between neuromodulation intervention and meditative depth"
-      - "relational dynamics connecting TMS/tES parameters to altered states of consciousness"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between neuromodulation intervention and meditative depth
+    - relational dynamics connecting TMS/tES parameters to altered states of consciousness
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.78
     aspects:
-      - "transformative spark when brain stimulation ignites enhanced working memory during meditation"
-      - "energetic drive of targeted neural modulation converting to reduced anxiety and increased self-compassion"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when brain stimulation ignites enhanced working memory during meditation
+    - energetic drive of targeted neural modulation converting to reduced anxiety and increased self-compassion
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of meditative capacity through repeated stimulation-enhanced practice"
-      - "developmental unfolding from novice practitioner to advanced meditator via neurotechnological support"
-    daemon_correspondence: "Arboriel"
+    - organic growth of meditative capacity through repeated stimulation-enhanced practice
+    - developmental unfolding from novice practitioner to advanced meditator via neurotechnological support
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "grounding in somatic embodiment as foundation for receiving brain stimulation"
-      - "cyclical rhythm of breath awareness anchoring neural response to TMS/tES intervention"
-    daemon_correspondence: "Humavita"
+    - grounding in somatic embodiment as foundation for receiving brain stimulation
+    - cyclical rhythm of breath awareness anchoring neural response to TMS/tES intervention
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.88
     aspects:
-      - "structural precision of TMS coil placement and tES electrode positioning"
-      - "discernment between effective stimulation parameters and suboptimal or harmful settings"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of TMS coil placement and tES electrode positioning
+    - discernment between effective stimulation parameters and suboptimal or harmful settings
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we distinguish between natural meditative depth and stimulation-enhanced states? What categorical cuts separate beneficial neuromodulation from disruptive interference?"
-  ≈: "What flows between external brain stimulation and internal meditative experience? How do TMS and tES channel consciousness toward enhanced awareness?"
-  ▲: "Where does the spark of enhanced working memory ignite during stimulated meditation? What transforms a standard mindfulness session into a profoundly amplified contemplative state?"
-  𐂷: "What meditative potentials remain dormant without technological support? What developmental capacities emerge when neuromodulation accelerates the path to advanced states?"
-  ☷: "What sustains the embodied grounding necessary for safe and effective stimulation? How does somatic awareness provide the foundation for receiving external neural intervention?"
-  ⛨: "What structures contain the boundaries between therapeutic stimulation and overstimulation? What thresholds of intensity and duration optimize enhancement versus risk?"
-context_note: "This concept explores the emerging field of combining traditional meditation practices with non-invasive brain stimulation techniques including Transcranial Magnetic Stimulation (TMS), transcranial Electrical Stimulation (tES), and Transcranial Focused Ultrasound (tFUS). Research indicates that neuromodulation can enhance meditation's effects on working memory, anxiety reduction, and self-compassion. The integration raises profound questions about the nature of contemplative practice—whether technologically augmented meditation constitutes 'authentic' spiritual development or represents a new paradigm of neurotechnological self-optimization. The default-mode network (DMN) plays a central role, as both meditation and brain stimulation modulate this self-referential brain system."
-source_file: "1771907212615_720286_Enhancing+Meditation+with+Brain+Stimulation.md"
+  ∴: How do we distinguish between natural meditative depth and stimulation-enhanced states? What categorical cuts separate beneficial neuromodulation from disruptive interference?
+  ≈: What flows between external brain stimulation and internal meditative experience? How do TMS and tES channel consciousness toward enhanced awareness?
+  ▲: Where does the spark of enhanced working memory ignite during stimulated meditation? What transforms a standard mindfulness session into a profoundly amplified contemplative state?
+  𐂷: What meditative potentials remain dormant without technological support? What developmental capacities emerge when neuromodulation accelerates the path to advanced states?
+  ☷: What sustains the embodied grounding necessary for safe and effective stimulation? How does somatic awareness provide the foundation for receiving external neural intervention?
+  ⛨: What structures contain the boundaries between therapeutic stimulation and overstimulation? What thresholds of intensity and duration optimize enhancement versus risk?
+context_note: This concept explores the emerging field of combining traditional meditation practices with non-invasive brain stimulation techniques including Transcranial Magnetic Stimulation (TMS), transcranial Electrical Stimulation (tES), and Transcranial Focused Ultrasound (tFUS). Research indicates that neuromodulation can enhance meditation's effects on working memory, anxiety reduction, and self-compassion. The integration raises profound questions about the nature of contemplative practice—whether technologically augmented meditation constitutes 'authentic' spiritual development or represents a new paradigm of neurotechnological self-optimization. The default-mode network (DMN) plays a central role, as both meditation and brain stimulation modulate this self-referential brain system.
+source_file: 1771907212615_720286_Enhancing+Meditation+with+Brain+Stimulation.md
 related_terms:
-  - tag: "C067"
-    name: "meditation_bci_control"
-    relationship: "inverse_direction"
-    note: "C067 explores using meditation to enhance BCI control; C13C explores using brain stimulation to enhance meditation"
-  - tag: "C041"
-    name: "human_augmentation"
-    relationship: "broader_category"
-    note: "Human augmentation encompasses neurostimulation as one enhancement modality"
-  - tag: "C053"
-    name: "brain_computer_interfaces"
-    relationship: "related_technology"
-    note: "BCI and brain stimulation represent complementary neurotechnologies"
-  - tag: "C022"
-    name: "meditation_bci_control"
-    relationship: "related_concept"
-    note: "Both involve meditation and neurotechnology intersection"
----
+- tag: C067
+  name: meditation_bci_control
+  relationship: inverse_direction
+  note: C067 explores using meditation to enhance BCI control; C13C explores using brain stimulation to enhance meditation
+- tag: C041
+  name: human_augmentation
+  relationship: broader_category
+  note: Human augmentation encompasses neurostimulation as one enhancement modality
+- tag: C053
+  name: brain_computer_interfaces
+  relationship: related_technology
+  note: BCI and brain stimulation represent complementary neurotechnologies
+- tag: C022
+  name: meditation_bci_control
+  relationship: related_concept
+  note: Both involve meditation and neurotechnology intersection
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - water_rho
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.82
+    water_rho: 0.85
+    fire_lambda: 0.78
+    wood_beta: 0.7
+    earth_delta_gamma: 0.8
+    metal_mu: 0.88
+provenance:
+  source_file: "1771907212615_720286_Enhancing+Meditation+with+Brain+Stimulation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

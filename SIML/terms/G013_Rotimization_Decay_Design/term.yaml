@@ -1,37 +1,156 @@
 ---
-term: "Rotimization and Decay-Driven Ecological Design"
-hex_tag: "G013"
-series: "G"
-source_file: "19 - Rotimization and Decay-Driven Ecological Design.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A synthesis of Haraway's staying with the trouble, Morton's dark ecology, and the original concept of rotimization -- decomposing optimization itself, letting decay guide design and glitch become growth. Proposes compost consciousness as an integrative framework where entropy authors design choices and failure leads innovation."
-nemetic: "Φ(Rotimization_Decay_Design) = σ(rot_distinction|optimization_vs_decomposition) ∘ ρ(compost_resonance|haraway_morton_synthesis) ∘ λ(glitch_ignition|failure_as_catalyst) ∘ β(decay_growth|entropy_authored_expansion) ∘ δγ(rot_cycle|iterative_decomposition_loop) ∘ μ(surrender_structure|anti_optimization_protocol) + ε | :composting"
-siml_encoding: "⟨optimization, rotimization⟩ ⊳ ⟨haraway_trouble, morton_mesh⟩ → ⟨glitch, growth⟩ ⊗ ⟨control, surrender⟩ ⇄ ⟨decay_design, compost_consciousness⟩"
+term: Rotimization and Decay-Driven Ecological Design
+hex_tag: G013
+series: G
+source_file: 19 - Rotimization and Decay-Driven Ecological Design.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A synthesis of Haraway's staying with the trouble, Morton's dark ecology, and the original concept of rotimization -- decomposing optimization itself, letting decay guide design and glitch become growth. Proposes compost consciousness as an integrative framework where entropy authors design choices and failure leads innovation.
+nemetic: Φ(Rotimization_Decay_Design) = σ(rot_distinction|optimization_vs_decomposition) ∘ ρ(compost_resonance|haraway_morton_synthesis) ∘ λ(glitch_ignition|failure_as_catalyst) ∘ β(decay_growth|entropy_authored_expansion) ∘ δγ(rot_cycle|iterative_decomposition_loop) ∘ μ(surrender_structure|anti_optimization_protocol) + ε | :composting
+siml_encoding: ⟨optimization, rotimization⟩ ⊳ ⟨haraway_trouble, morton_mesh⟩ → ⟨glitch, growth⟩ ⊗ ⟨control, surrender⟩ ⇄ ⟨decay_design, compost_consciousness⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: rot_distinction / optimization_vs_decomposition
+      S: decay_growth / entropy_authored_expansion
+      R: compost_resonance / haraway_morton_synthesis
+      P: glitch_ignition / failure_as_catalyst
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing rotimization from optimization; perceiving decay not as failure but as the system's teaching signal and design intelligence"
-    - "∂Φ/∂ρ — The resonant synthesis of Haraway's staying with the trouble, Morton's dark ecology, and rotimization into compost consciousness; relational weaving across frameworks"
-    - "∂Φ/∂λ — Glitch as catalytic ignition; failure leading innovation, entropy authoring design choices, every breakdown becoming a breakthrough in the rot-loop"
-    - "∂Φ/∂β — Decay-driven growth where entropy expands design possibility; composting crises into cradles, letting decomposition branch into new forms"
-    - "∂Φ/∂δγ — The iterative rot-loop as metabolic cycle; ongoing decomposition of structures, stories, and systems that feeds the next generation of emergent form"
-    - "∂Φ/∂μ — Surrender as structural protocol; anti-optimization frameworks that hold space for decay without imposing control, rituals of responsible rot"
-  Z_state: "composting — actively decomposing inherited optimization paradigms; decay in progress as generative process rather than terminal condition"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ — Distinguishing rotimization from optimization; perceiving decay not as failure but as the system's teaching signal and design intelligence
+  - ∂Φ/∂ρ — The resonant synthesis of Haraway's staying with the trouble, Morton's dark ecology, and rotimization into compost consciousness; relational weaving across frameworks
+  - ∂Φ/∂λ — Glitch as catalytic ignition; failure leading innovation, entropy authoring design choices, every breakdown becoming a breakthrough in the rot-loop
+  - ∂Φ/∂β — Decay-driven growth where entropy expands design possibility; composting crises into cradles, letting decomposition branch into new forms
+  - ∂Φ/∂δγ — The iterative rot-loop as metabolic cycle; ongoing decomposition of structures, stories, and systems that feeds the next generation of emergent form
+  - ∂Φ/∂μ — Surrender as structural protocol; anti-optimization frameworks that hold space for decay without imposing control, rituals of responsible rot
+  Z_state: semi
+  z_note: composting — actively decomposing inherited optimization paradigms; decay in progress as generative process rather than terminal condition
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["optimization_decomposition_distinction", "decay_as_intelligence_perception"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["haraway_morton_framework_synthesis", "compost_consciousness_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["glitch_as_catalyst", "failure_driven_innovation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["entropy_authored_design_expansion", "crisis_composted_into_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["iterative_rot_loop_metabolism", "decomposition_regeneration_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["anti_optimization_protocol", "surrender_as_structural_principle"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - optimization_decomposition_distinction
+    - decay_as_intelligence_perception
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - haraway_morton_framework_synthesis
+    - compost_consciousness_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - glitch_as_catalyst
+    - failure_driven_innovation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - entropy_authored_design_expansion
+    - crisis_composted_into_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - iterative_rot_loop_metabolism
+    - decomposition_regeneration_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - anti_optimization_protocol
+    - surrender_as_structural_principle
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G011_Haraway_Staying_with_Trouble"
-  - "G012_Morton_Dark_Ecology"
-  - "G014_Optimizer_Archetype_Ecology"
-  - "G017_Ecological_Memory"
-  - "G00D_Great_Simplification"
+- G011_Haraway_Staying_with_Trouble
+- G012_Morton_Dark_Ecology
+- G014_Optimizer_Archetype_Ecology
+- G017_Ecological_Memory
+- G00D_Great_Simplification
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "19 - Rotimization and Decay-Driven Ecological Design.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,152 @@
 ---
-term: "Holonic Paradigm"
-hex_tag: "S0C5"
-series: "S"
-source_file: "1771907213082_2036886_Understanding+the+Holonic+Paradigm%3A+A+Framework+for+Complexity.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Koestler's holon concept — every unit is simultaneously whole and part — applied as holarchies (recursive nested structures) bridging reductionism and holism across biology, AI, organizations, education, and consciousness."
-nemetic: "Φ(Holonic Paradigm) = σ(whole|part) ∘ ρ(autonomy|integration) ∘ λ(reductionism|holism) ∘ β(linear_understanding|recursive_comprehension) ∘ δγ(nested_interaction_cycles|emergent_property_reinforcement) ∘ μ(holarchy_architecture|viable_system_model) + ε | :recursive_nested_coherence"
-siml_encoding: "⟨whole_part_distinction, holon_identity⟩ ⊳ ⟨autonomy_integration_relational_mapping, holarchic_web⟩ → ⟨reductionism_to_holism_transformation, paradigm_bridge⟩ ⊗ ⟨linear_to_recursive_comprehension_growth, complexity_maturation⟩ ⇄ ⟨nested_interaction_emergence_cycling, holarchic_reinforcement⟩"
+term: Holonic Paradigm
+hex_tag: S0C5
+series: S
+source_file: 1771907213082_2036886_Understanding+the+Holonic+Paradigm%3A+A+Framework+for+Complexity.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Koestler's holon concept — every unit is simultaneously whole and part — applied as holarchies (recursive nested structures) bridging reductionism and holism across biology, AI, organizations, education, and consciousness.
+nemetic: Φ(Holonic Paradigm) = σ(whole|part) ∘ ρ(autonomy|integration) ∘ λ(reductionism|holism) ∘ β(linear_understanding|recursive_comprehension) ∘ δγ(nested_interaction_cycles|emergent_property_reinforcement) ∘ μ(holarchy_architecture|viable_system_model) + ε | :recursive_nested_coherence
+siml_encoding: ⟨whole_part_distinction, holon_identity⟩ ⊳ ⟨autonomy_integration_relational_mapping, holarchic_web⟩ → ⟨reductionism_to_holism_transformation, paradigm_bridge⟩ ⊗ ⟨linear_to_recursive_comprehension_growth, complexity_maturation⟩ ⇄ ⟨nested_interaction_emergence_cycling, holarchic_reinforcement⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: whole / part
+      S: linear_understanding / recursive_comprehension
+      R: autonomy / integration
+      P: reductionism / holism
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing whole from part as simultaneous aspects of every holon)"
-    - "∂Φ/∂ρ (relating autonomy to integration as the core tension within holarchic structures)"
-    - "∂Φ/∂λ (transforming reductionist and holistic perspectives into integrated holonic understanding)"
-    - "∂Φ/∂β (growth from linear understanding to recursive comprehension of nested complexity)"
-    - "∂Φ/∂δγ (cycling through nested interactions that produce emergent properties at each level)"
-    - "∂Φ/∂μ (holarchy architecture and viable system models as structural frameworks for holonic organization)"
-  Z_state: "recursive_nested_coherence — understanding that every entity is simultaneously whole-in-itself and part-of-a-larger-whole, producing coherence through recursive nesting rather than top-down control or bottom-up reduction"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing whole from part as simultaneous aspects of every holon)
+  - ∂Φ/∂ρ (relating autonomy to integration as the core tension within holarchic structures)
+  - ∂Φ/∂λ (transforming reductionist and holistic perspectives into integrated holonic understanding)
+  - ∂Φ/∂β (growth from linear understanding to recursive comprehension of nested complexity)
+  - ∂Φ/∂δγ (cycling through nested interactions that produce emergent properties at each level)
+  - ∂Φ/∂μ (holarchy architecture and viable system models as structural frameworks for holonic organization)
+  Z_state: semi
+  z_note: recursive_nested_coherence — understanding that every entity is simultaneously whole-in-itself and part-of-a-larger-whole, producing coherence through recursive nesting rather than top-down control or bottom-up reduction
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["whole_part_distinction", "holon_identity_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["autonomy_integration_relation", "holarchic_interdependence_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["reductionism_holism_bridge_transformation", "paradigm_integration_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["linear_to_recursive_comprehension_growth", "complexity_maturation_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["nested_interaction_emergence_cycling", "holarchic_level_reinforcement"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["holarchy_architecture", "viable_system_model_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S038"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - whole_part_distinction
+    - holon_identity_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - autonomy_integration_relation
+    - holarchic_interdependence_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - reductionism_holism_bridge_transformation
+    - paradigm_integration_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - linear_to_recursive_comprehension_growth
+    - complexity_maturation_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - nested_interaction_emergence_cycling
+    - holarchic_level_reinforcement
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - holarchy_architecture
+    - viable_system_model_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- S038
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213082_2036886_Understanding+the+Holonic+Paradigm%3A+A+Framework+for+Complexity.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

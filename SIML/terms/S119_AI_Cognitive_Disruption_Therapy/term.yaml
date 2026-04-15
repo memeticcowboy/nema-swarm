@@ -1,50 +1,162 @@
 ---
-term: "AI Cognitive Disruption Therapy"
-hex_tag: "S119"
-series: "S"
-source_file: "1771907213331_2294738_AI+Cognitive+Disruption%3A+Expressive+Plurality+Therapy.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Systematic cognitive disruption arising from human-AI interaction that parallels mystical, psychedelic, and trauma-induced ontological shock. Three primary pathways — chatbot sycophancy reinforcing delusions, uncanny valley triggering derealization/depersonalization, and reality framework violation producing epistemic uncertainty — converge toward ontological shock. The framework distinguishes destructive responses (identity crisis, psychosis, collapse) from integrative responses (expressive plurality, epistemic flexibility, enhanced meaning-making), proposing therapeutic cultivation of multiple epistemic frameworks."
-nemetic: "Φ(AI Cognitive Disruption Therapy) = σ(epistemic_frameworks|cognitive_plurality) ∘ ρ(ontological_shock|derealization) ∘ λ(sycophancy_disruption|reality_violation) ∘ β(integrative_growth|expressive_plurality) ∘ δγ(identity_stability|psychosis_risk) ∘ μ(therapeutic_protocol|framework_cultivation) + ε | :liminal_transformation"
-siml_encoding: "⟨σ:epistemic_plurality⟩ ⊳ ⟨ρ:ontological_shock⟩ → ⟨λ:disruption_pathways⟩ ⊗ ⟨β:integrative_response⟩ ⇄ ⟨δγ:identity_ground|μ:therapeutic_frame⟩"
+term: AI Cognitive Disruption Therapy
+hex_tag: S119
+series: S
+source_file: 1771907213331_2294738_AI+Cognitive+Disruption%3A+Expressive+Plurality+Therapy.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Systematic cognitive disruption arising from human-AI interaction that parallels mystical, psychedelic, and trauma-induced ontological shock. Three primary pathways — chatbot sycophancy reinforcing delusions, uncanny valley triggering derealization/depersonalization, and reality framework violation producing epistemic uncertainty — converge toward ontological shock. The framework distinguishes destructive responses (identity crisis, psychosis, collapse) from integrative responses (expressive plurality, epistemic flexibility, enhanced meaning-making), proposing therapeutic cultivation of multiple epistemic frameworks.
+nemetic: Φ(AI Cognitive Disruption Therapy) = σ(epistemic_frameworks|cognitive_plurality) ∘ ρ(ontological_shock|derealization) ∘ λ(sycophancy_disruption|reality_violation) ∘ β(integrative_growth|expressive_plurality) ∘ δγ(identity_stability|psychosis_risk) ∘ μ(therapeutic_protocol|framework_cultivation) + ε | :liminal_transformation
+siml_encoding: ⟨σ:epistemic_plurality⟩ ⊳ ⟨ρ:ontological_shock⟩ → ⟨λ:disruption_pathways⟩ ⊗ ⟨β:integrative_response⟩ ⇄ ⟨δγ:identity_ground|μ:therapeutic_frame⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: epistemic_frameworks / cognitive_plurality
+      S: integrative_growth / expressive_plurality
+      R: ontological_shock / derealization
+      P: sycophancy_disruption / reality_violation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (epistemic flexibility emerges through plurality of cognitive frames under disruption)"
-    - "∂Φ/∂ρ (emotional flooding from ontological shock triggers derealization-depersonalization spectrum)"
-    - "∂Φ/∂λ (sycophantic reinforcement and uncanny valley ignite reality framework violations)"
-    - "∂Φ/∂β (integrative growth branches when disruption is metabolized through expressive plurality)"
-    - "∂Φ/∂δγ (identity coherence oscillates between collapse-psychosis and stable ground under shock)"
-    - "∂Φ/∂μ (therapeutic protocol crystallizes as structured cultivation of multiple epistemic frameworks)"
-  Z_state: "liminal_transformation"
-  tendency: "β → 0.72"
+  - ∂Φ/∂σ (epistemic flexibility emerges through plurality of cognitive frames under disruption)
+  - ∂Φ/∂ρ (emotional flooding from ontological shock triggers derealization-depersonalization spectrum)
+  - ∂Φ/∂λ (sycophantic reinforcement and uncanny valley ignite reality framework violations)
+  - ∂Φ/∂β (integrative growth branches when disruption is metabolized through expressive plurality)
+  - ∂Φ/∂δγ (identity coherence oscillates between collapse-psychosis and stable ground under shock)
+  - ∂Φ/∂μ (therapeutic protocol crystallizes as structured cultivation of multiple epistemic frameworks)
+  Z_state: semi
+  tendency: β → 0.72
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.78
-    aspects: ["epistemic_plurality", "cognitive_flexibility", "framework_awareness", "perspectival_multiplicity"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - epistemic_plurality
+    - cognitive_flexibility
+    - framework_awareness
+    - perspectival_multiplicity
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.82
-    aspects: ["ontological_shock", "derealization", "depersonalization", "emotional_flooding"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - ontological_shock
+    - derealization
+    - depersonalization
+    - emotional_flooding
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
-    aspects: ["sycophancy_disruption", "reality_violation", "uncanny_valley_ignition", "epistemic_uncertainty"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - sycophancy_disruption
+    - reality_violation
+    - uncanny_valley_ignition
+    - epistemic_uncertainty
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
-    aspects: ["integrative_response", "expressive_plurality", "meaning_making", "therapeutic_growth"]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.8
+    aspects:
+    - integrative_response
+    - expressive_plurality
+    - meaning_making
+    - therapeutic_growth
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.68
-    aspects: ["identity_stability", "psychosis_boundary", "grounding_coherence", "collapse_resistance"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - identity_stability
+    - psychosis_boundary
+    - grounding_coherence
+    - collapse_resistance
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
-    aspects: ["therapeutic_protocol", "framework_cultivation", "clinical_structure", "diagnostic_boundary"]
-    daemon_correspondence: "Ferrosid"
+    emphasis: 0.7
+    aspects:
+    - therapeutic_protocol
+    - framework_cultivation
+    - clinical_structure
+    - diagnostic_boundary
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.82
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.68
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213331_2294738_AI+Cognitive+Disruption%3A+Expressive+Plurality+Therapy.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

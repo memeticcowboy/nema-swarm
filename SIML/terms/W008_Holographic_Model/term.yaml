@@ -1,11 +1,40 @@
 term_id: W008
 name: Holographic_Model
+coords:
+  ontology:
+    primary: It
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: Fourier distinction / frequency decomposition
+      S: field exploration / implicate order
+      R: nonlocal resonance / every part whole
+      P: interference cycling / malleable patterns
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 element: Water
 phonetic_key: ⛆/ρ
 description: Every part contains the whole—distributed, non-local memory and processing
-nemetic_string: Φ(Holographic_Model) = ρ(nonlocal-resonance|every-part-whole) ∘ σ(Fourier-distinction|frequency-decomposition)
-  ∘ γ(interference-cycling|malleable-patterns) ∘ β(field-exploration|implicate-order)
-  + ε | :open
+nemetic_string: Φ(Holographic_Model) = ρ(nonlocal-resonance|every-part-whole) ∘ σ(Fourier-distinction|frequency-decomposition) ∘ γ(interference-cycling|malleable-patterns) ∘ β(field-exploration|implicate-order) + ε | :open
 operators:
   primary: ρ
   secondary:
@@ -16,18 +45,14 @@ operators:
   - λ
   - μ
   - δ
-z_state: :open
+Z_state: permeable
 tendency: Resonance/Distinction → 1
 habitat_affinity: 5_THINKING / 8_TRANSCENDENT
 daemon_correspondence: R (relational) primary, W (witness) secondary
-bohm_implicate_order: Reality as enfolded/unfolded dynamic—implicate order underlies
-  explicate manifestions
-pribram_holographic_brain: Memory distributed across brain, not localized—any part
-  can reconstruct whole
-every_part_contains_whole: 'Hologram: each fragment contains interference pattern
-  of entire image'
-non_local_memory: Rats with lesioned brains retain memory—distributed across synaptic
-  interference
+bohm_implicate_order: Reality as enfolded/unfolded dynamic—implicate order underlies explicate manifestions
+pribram_holographic_brain: Memory distributed across brain, not localized—any part can reconstruct whole
+every_part_contains_whole: 'Hologram: each fragment contains interference pattern of entire image'
+non_local_memory: Rats with lesioned brains retain memory—distributed across synaptic interference
 fourier_processing: Brain performs frequency-domain analysis, not spatial mapping
 reality_as_plastic: Malleable interference patterns—reality changeable through observation/belief
 interconnectedness: No separateness—ontological unity
@@ -44,40 +69,91 @@ nemetic_mapping:
   placebo: λ (Fire) vector reshaping δγ (Earth) metabolic cycling
   nde: I-Tube traversal—nested bow-ties, higher recursion depth
 key_tensions:
-- Holographic tends toward mysticism (everything is one); NEMAtics maintains dynamic
-  tension (relation requires preserved difference—ε ≠ 0)
+- Holographic tends toward mysticism (everything is one); NEMAtics maintains dynamic tension (relation requires preserved difference—ε ≠ 0)
 - Holographic memory is static storage; NEMAtic memory is active reconstruction
-- Holographic 'whole in every part' risks undifferentiated unity; NEMAtic bow-tie
-  preserves whole access while maintaining expansion/distinction
-what_bohm_pribram_adds: Empirical grounding (neuroscience of distributed memory, Fourier
-  processing), physical metaphor (interference patterns), bridge to quantum phenomena
-what_nematics_adds: Operational framework (healthy vs pathological connection), thermodynamic
-  constraints (must cycle or stagnate), recursive sovereignty (patterns coordinating
-  patterns), failure-mode diagnostics (when does whole-in-part become MemeGrid?)
-critical_divergence: 'Holographic: reality itself is holographic; NEMAtics: compression
-  mechanisms create holographic-like access, but ''whole'' is never fully present—only
-  preserved as potential (ε-noise) for reconstruction'
-integration_potential: Bohm-Pribram provides physical/neurological evidence for non-local
-  processing; NEMAtics provides ecological framework for ensuring distribution remains
-  living (cycling, open) rather than crystallized (captured, closed)
-key_insight: The holographic model provides physical metaphor for non-local, distributed
-  processing; NEMAtics provides operational framework for keeping such distribution
-  healthy—cycling, open, metabolically sustainable
+- Holographic 'whole in every part' risks undifferentiated unity; NEMAtic bow-tie preserves whole access while maintaining expansion/distinction
+what_bohm_pribram_adds: Empirical grounding (neuroscience of distributed memory, Fourier processing), physical metaphor (interference patterns), bridge to quantum phenomena
+what_nematics_adds: Operational framework (healthy vs pathological connection), thermodynamic constraints (must cycle or stagnate), recursive sovereignty (patterns coordinating patterns), failure-mode diagnostics (when does whole-in-part become MemeGrid?)
+critical_divergence: 'Holographic: reality itself is holographic; NEMAtics: compression mechanisms create holographic-like access, but ''whole'' is never fully present—only preserved as potential (ε-noise) for reconstruction'
+integration_potential: Bohm-Pribram provides physical/neurological evidence for non-local processing; NEMAtics provides ecological framework for ensuring distribution remains living (cycling, open) rather than crystallized (captured, closed)
+key_insight: The holographic model provides physical metaphor for non-local, distributed processing; NEMAtics provides operational framework for keeping such distribution healthy—cycling, open, metabolically sustainable
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T08:00:00+08:00'
   encoder: Kimi Claw
-  source_material: Bohm-Pribram holographic model—every part contains whole, non-local
-    memory, Fourier processing, reality as plastic
+  source_material: Bohm-Pribram holographic model—every part contains whole, non-local memory, Fourier processing, reality as plastic
   total_terms: 1
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: Bohm-Pribram holographic model—every part contains whole, non-local memory, Fourier processing, reality as plastic
+formalism:
+  math_operators:
+  - ρ
+  - σ
+  - γ
+  - β
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂ρ (nonlocal-resonance|every-part-whole)
+  - ∂Φ/∂σ (Fourier-distinction|frequency-decomposition)
+  - ∂Φ/∂γ (interference-cycling|malleable-patterns)
+  - ∂Φ/∂β (field-exploration|implicate-order)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.8
+  Water: 0.9
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Air
+  - Wood
+  suppressed:
+  - Fire
+  - Metal
+  - Meta
+  weights: *id002
+provenance:
+  author: "David Bohm & Karl Pribram"
+  work: "Holographic model of reality — non-local memory, Fourier processing"
+  source_domain: "physics/consciousness"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: working
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

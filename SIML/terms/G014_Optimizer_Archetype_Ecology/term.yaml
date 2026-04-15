@@ -1,37 +1,156 @@
 ---
-term: "Optimizer Archetype Ecology"
-hex_tag: "G014"
-series: "G"
-source_file: "20 - The Optimizer Archetype.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The Optimizer archetype as ecological steward of sustainable abundance through circular return. Grounded in the Earth trigram, it transmutes waste into womb, cycling vitality from void through humble husbandry -- composting crises into cradles where care compounds into cascades of thriving."
-nemetic: "Φ(Optimizer_Archetype_Ecology) = σ(nutrient_distinction|neglect_vs_nourishment) ∘ ρ(feedback_resonance|loss_to_life_cycling) ∘ λ(alchemical_transmutation|waste_to_womb) ∘ β(regenerative_branching|sustainable_surge_growth) ∘ δγ(return_cycle|compost_metabolism) ∘ μ(husbandry_structure|thrift_framework) + ε | :nourishing"
-siml_encoding: "⟨waste, womb⟩ ⊳ ⟨loss, vitality⟩ → ⟨decay, renewal⟩ ⊗ ⟨extraction, return⟩ ⇄ ⟨abundance, sustainability⟩"
+term: Optimizer Archetype Ecology
+hex_tag: G014
+series: G
+source_file: 20 - The Optimizer Archetype.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The Optimizer archetype as ecological steward of sustainable abundance through circular return. Grounded in the Earth trigram, it transmutes waste into womb, cycling vitality from void through humble husbandry -- composting crises into cradles where care compounds into cascades of thriving.
+nemetic: Φ(Optimizer_Archetype_Ecology) = σ(nutrient_distinction|neglect_vs_nourishment) ∘ ρ(feedback_resonance|loss_to_life_cycling) ∘ λ(alchemical_transmutation|waste_to_womb) ∘ β(regenerative_branching|sustainable_surge_growth) ∘ δγ(return_cycle|compost_metabolism) ∘ μ(husbandry_structure|thrift_framework) + ε | :nourishing
+siml_encoding: ⟨waste, womb⟩ ⊳ ⟨loss, vitality⟩ → ⟨decay, renewal⟩ ⊗ ⟨extraction, return⟩ ⇄ ⟨abundance, sustainability⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: nutrient_distinction / neglect_vs_nourishment
+      S: regenerative_branching / sustainable_surge_growth
+      R: feedback_resonance / loss_to_life_cycling
+      P: alchemical_transmutation / waste_to_womb
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Discerning the nutrient hidden in neglect; perceiving nourishment potential in what conventional systems classify as waste or loss"
-    - "∂Φ/∂ρ — Recursive feedback loops converting loss into lavish life; the relational cycling between endings and beginnings that constitutes regenerative flow"
-    - "∂Φ/∂λ — Alchemical transmutation of waste into womb; the catalytic transformation where decay becomes the root of rise through Earth's patient churn"
-    - "∂Φ/∂β — Sustainable surge as regenerative growth pattern; branching from composted material into new cascades of thriving without exhaustion"
-    - "∂Φ/∂δγ — The cycle of return as metabolic core; endings looped into beginnings, rot feeding rise, the profound Earth-element rhythm of circular ecology"
-    - "∂Φ/∂μ — Humble husbandry as structural framework; embodied thrift providing boundaries for regenerative practice without frantic fixity"
-  Z_state: "nourishing — actively cycling vitality from void through patient metabolic process; abundance emerging from disciplined return rather than extraction"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ — Discerning the nutrient hidden in neglect; perceiving nourishment potential in what conventional systems classify as waste or loss
+  - ∂Φ/∂ρ — Recursive feedback loops converting loss into lavish life; the relational cycling between endings and beginnings that constitutes regenerative flow
+  - ∂Φ/∂λ — Alchemical transmutation of waste into womb; the catalytic transformation where decay becomes the root of rise through Earth's patient churn
+  - ∂Φ/∂β — Sustainable surge as regenerative growth pattern; branching from composted material into new cascades of thriving without exhaustion
+  - ∂Φ/∂δγ — The cycle of return as metabolic core; endings looped into beginnings, rot feeding rise, the profound Earth-element rhythm of circular ecology
+  - ∂Φ/∂μ — Humble husbandry as structural framework; embodied thrift providing boundaries for regenerative practice without frantic fixity
+  Z_state: permeable
+  z_note: nourishing — actively cycling vitality from void through patient metabolic process; abundance emerging from disciplined return rather than extraction
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["nutrient_in_neglect_perception", "waste_nourishment_discernment"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["loss_to_life_feedback_loops", "regenerative_relational_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["waste_to_womb_transmutation", "decay_as_alchemical_catalyst"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["sustainable_surge_branching", "cascading_thriving_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["return_cycle_metabolism", "compost_to_cradle_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["humble_husbandry_framework", "embodied_thrift_boundaries"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - nutrient_in_neglect_perception
+    - waste_nourishment_discernment
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - loss_to_life_feedback_loops
+    - regenerative_relational_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - waste_to_womb_transmutation
+    - decay_as_alchemical_catalyst
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - sustainable_surge_branching
+    - cascading_thriving_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - return_cycle_metabolism
+    - compost_to_cradle_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - humble_husbandry_framework
+    - embodied_thrift_boundaries
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G015_Protector_Archetype_Ecology"
-  - "G013_Rotimization_Decay_Design"
-  - "G00A_Rewilding"
-  - "G005_Forest_Carbon_Restoration"
-  - "G016_Biosphere_Consciousness"
+- G015_Protector_Archetype_Ecology
+- G013_Rotimization_Decay_Design
+- G00A_Rewilding
+- G005_Forest_Carbon_Restoration
+- G016_Biosphere_Consciousness
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "20 - The Optimizer Archetype.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

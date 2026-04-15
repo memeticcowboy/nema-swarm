@@ -1,50 +1,155 @@
 ---
-term: "Face Name Self-Fulfilling Prophecy"
-hex_tag: "S02C"
-series: "S"
-source_file: "1771907212468_338736_Faces+Evolve+to+Match+Names.md"
-encoded_at: "2026-03-05T19:30:00Z"
-description: "Research published in PNAS demonstrating that adults' facial appearances tend to evolve to match their given names over time through social expectation and stereotype internalization, a self-fulfilling prophecy effect confirmed by both human judges and machine learning, notably absent in children."
-nemetic: "Φ(FaceName) = σ(name|face) ∘ ρ(expectation|appearance) ∘ λ(stereotype|embodiment) ∘ β(child|adult) ∘ δγ(social|physical) ∘ μ(ml|empirical) + ε | :prophecy"
-siml_encoding: "⟨name∣face⟩ ⊳ ⟨expectation∣appearance⟩ → ⟨stereotype∣embodiment⟩ ⊗ ⟨child∣adult⟩ ⇄ ⟨social∣physical⟩"
+term: Face Name Self-Fulfilling Prophecy
+hex_tag: S02C
+series: S
+source_file: 1771907212468_338736_Faces+Evolve+to+Match+Names.md
+encoded_at: '2026-03-05T19:30:00Z'
+description: Research published in PNAS demonstrating that adults' facial appearances tend to evolve to match their given names over time through social expectation and stereotype internalization, a self-fulfilling prophecy effect confirmed by both human judges and machine learning, notably absent in children.
+nemetic: Φ(FaceName) = σ(name|face) ∘ ρ(expectation|appearance) ∘ λ(stereotype|embodiment) ∘ β(child|adult) ∘ δγ(social|physical) ∘ μ(ml|empirical) + ε | :prophecy
+siml_encoding: ⟨name∣face⟩ ⊳ ⟨expectation∣appearance⟩ → ⟨stereotype∣embodiment⟩ ⊗ ⟨child∣adult⟩ ⇄ ⟨social∣physical⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: name / face
+      S: child / adult
+      R: expectation / appearance
+      P: stereotype / embodiment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the name as social label from the face as physical form)"
-    - "∂Φ/∂ρ (relating social expectations to changes in physical appearance over time)"
-    - "∂Φ/∂λ (transforming cultural stereotypes into embodied facial characteristics)"
-    - "∂Φ/∂β (growing the effect from absent in childhood to manifest in adulthood)"
-    - "∂Φ/∂δγ (cycling between social construct reinforcement and physical expression)"
-    - "∂Φ/∂μ (structuring empirical validation through machine learning and human participant studies)"
-  Z_state: "prophecy (the self-fulfilling loop where naming creates expectation, expectation shapes behavior, behavior sculpts appearance)"
-  tendency: "ρ/λ → 0.84"
+  - ∂Φ/∂σ (distinguishing the name as social label from the face as physical form)
+  - ∂Φ/∂ρ (relating social expectations to changes in physical appearance over time)
+  - ∂Φ/∂λ (transforming cultural stereotypes into embodied facial characteristics)
+  - ∂Φ/∂β (growing the effect from absent in childhood to manifest in adulthood)
+  - ∂Φ/∂δγ (cycling between social construct reinforcement and physical expression)
+  - ∂Φ/∂μ (structuring empirical validation through machine learning and human participant studies)
+  Z_state: permeable
+  z_note: prophecy (the self-fulfilling loop where naming creates expectation, expectation shapes behavior, behavior sculpts appearance)
+  tendency: ρ/λ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
-    aspects: ["distinguishing name as abstract label from face as physical manifestation", "separating social construct from biological form"]
-    daemon_correspondence: "Aerunik"
+    emphasis: 0.8
+    aspects:
+    - distinguishing name as abstract label from face as physical manifestation
+    - separating social construct from biological form
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.90
-    aspects: ["social expectations flowing into physical appearance over developmental time", "relational dynamics between cultural naming conventions and facial development"]
-    daemon_correspondence: "Sentaria"
+    emphasis: 0.9
+    aspects:
+    - social expectations flowing into physical appearance over developmental time
+    - relational dynamics between cultural naming conventions and facial development
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
-    aspects: ["stereotypes transmuting into embodied physical characteristics", "cultural connotations of names transforming facial muscle patterns and expressions"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - stereotypes transmuting into embodied physical characteristics
+    - cultural connotations of names transforming facial muscle patterns and expressions
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
-    aspects: ["developmental trajectory from no effect in childhood to full manifestation in adulthood", "gradual growth of name-face congruence over lifespan"]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.8
+    aspects:
+    - developmental trajectory from no effect in childhood to full manifestation in adulthood
+    - gradual growth of name-face congruence over lifespan
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.75
-    aspects: ["cycling feedback loop between social perception and physical expression", "iterative reinforcement of name stereotypes through daily social interactions"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - cycling feedback loop between social perception and physical expression
+    - iterative reinforcement of name stereotypes through daily social interactions
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
-    aspects: ["machine learning validation providing structural empirical framework", "PNAS publication methodology with controlled experimental design"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S02B_Learning_Hardwired_Brain", "S029_Social_Evolution_Consciousness", "S020_Brain_Constructive_Perception", "A010_Virtual_Machine_Consciousness"]
+    emphasis: 0.7
+    aspects:
+    - machine learning validation providing structural empirical framework
+    - PNAS publication methodology with controlled experimental design
+    daemon_correspondence: Ferrosid
+related_terms:
+- S02B_Learning_Hardwired_Brain
+- S029_Social_Evolution_Consciousness
+- S020_Brain_Constructive_Perception
+- A010_Virtual_Machine_Consciousness
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.9
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212468_338736_Faces+Evolve+to+Match+Names.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

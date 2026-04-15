@@ -1,32 +1,152 @@
 ---
-term: "Reimagining Social Contracts"
-hex_tag: "S0C3"
-series: "S"
-source_file: "1771907213080_2031305_Reimagining+Social+Contracts%3A+From+Extraction+to+Stewardship+and+Participatory+Governance.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Shift from extractive ownership-based social contracts to stewardship, mutuality, and participatory governance — reframing value, power, land, and data through cultural rituals, data sovereignty, regenerative reciprocity, and intergenerational accountability."
-nemetic: "Φ(Reimagining Social Contracts) = σ(extraction|stewardship) ∘ ρ(individual_ownership|commons_mutuality) ∘ λ(elite_governance|participatory_sensemaking) ∘ β(growth_metrics|well_being_metrics) ∘ δγ(cultural_ritual_cycles|governance_renewal) ∘ μ(code_of_law|culture_of_care) + ε | :regenerative_social_covenant"
-siml_encoding: "⟨extraction_stewardship_distinction, paradigm_reframing⟩ ⊳ ⟨ownership_commons_relational_mapping, mutuality_web⟩ → ⟨elite_to_participatory_transformation, governance_catalysis⟩ ⊗ ⟨growth_to_wellbeing_maturation, metric_evolution⟩ ⇄ ⟨cultural_ritual_governance_cycling, renewal_reinforcement⟩"
+term: Reimagining Social Contracts
+hex_tag: S0C3
+series: S
+source_file: 1771907213080_2031305_Reimagining+Social+Contracts%3A+From+Extraction+to+Stewardship+and+Participatory+Governance.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Shift from extractive ownership-based social contracts to stewardship, mutuality, and participatory governance — reframing value, power, land, and data through cultural rituals, data sovereignty, regenerative reciprocity, and intergenerational accountability.
+nemetic: Φ(Reimagining Social Contracts) = σ(extraction|stewardship) ∘ ρ(individual_ownership|commons_mutuality) ∘ λ(elite_governance|participatory_sensemaking) ∘ β(growth_metrics|well_being_metrics) ∘ δγ(cultural_ritual_cycles|governance_renewal) ∘ μ(code_of_law|culture_of_care) + ε | :regenerative_social_covenant
+siml_encoding: ⟨extraction_stewardship_distinction, paradigm_reframing⟩ ⊳ ⟨ownership_commons_relational_mapping, mutuality_web⟩ → ⟨elite_to_participatory_transformation, governance_catalysis⟩ ⊗ ⟨growth_to_wellbeing_maturation, metric_evolution⟩ ⇄ ⟨cultural_ritual_governance_cycling, renewal_reinforcement⟩
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: extraction / stewardship
+      S: growth_metrics / well_being_metrics
+      R: individual_ownership / commons_mutuality
+      P: elite_governance / participatory_sensemaking
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing extractive ownership from stewardship as foundational social contract orientations)"
-    - "∂Φ/∂ρ (relating individual ownership to commons mutuality and systemic interdependence)"
-    - "∂Φ/∂λ (transforming elite governance into participatory sensemaking and distributed power)"
-    - "∂Φ/∂β (growth from growth-metric dependency to well-being and regenerative reciprocity metrics)"
-    - "∂Φ/∂δγ (cycling through cultural rituals that renew governance and intergenerational accountability)"
-    - "∂Φ/∂μ (structural contrast between codified law and emergent culture-of-care governance frameworks)"
-  Z_state: "regenerative_social_covenant — society transitions from extractive contracts to regenerative covenants grounded in stewardship, data sovereignty, and participatory governance, where cultural myth-making and ritual sustain intergenerational accountability"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing extractive ownership from stewardship as foundational social contract orientations)
+  - ∂Φ/∂ρ (relating individual ownership to commons mutuality and systemic interdependence)
+  - ∂Φ/∂λ (transforming elite governance into participatory sensemaking and distributed power)
+  - ∂Φ/∂β (growth from growth-metric dependency to well-being and regenerative reciprocity metrics)
+  - ∂Φ/∂δγ (cycling through cultural rituals that renew governance and intergenerational accountability)
+  - ∂Φ/∂μ (structural contrast between codified law and emergent culture-of-care governance frameworks)
+  Z_state: semi
+  z_note: regenerative_social_covenant — society transitions from extractive contracts to regenerative covenants grounded in stewardship, data sovereignty, and participatory governance, where cultural myth-making and ritual sustain intergenerational accountability
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["extraction_stewardship_distinction", "paradigm_reframing_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["ownership_commons_mutuality", "systemic_interdependence_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["elite_to_participatory_transformation", "governance_power_redistribution"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["growth_to_wellbeing_metric_evolution", "regenerative_reciprocity_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["cultural_ritual_governance_cycling", "intergenerational_accountability_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["code_vs_culture_governance_structure", "data_sovereignty_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S038"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - extraction_stewardship_distinction
+    - paradigm_reframing_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - ownership_commons_mutuality
+    - systemic_interdependence_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - elite_to_participatory_transformation
+    - governance_power_redistribution
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - growth_to_wellbeing_metric_evolution
+    - regenerative_reciprocity_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - cultural_ritual_governance_cycling
+    - intergenerational_accountability_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - code_vs_culture_governance_structure
+    - data_sovereignty_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S038
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213080_2031305_Reimagining+Social+Contracts%3A+From+Extraction+to+Stewardship+and+Participatory+Governance.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

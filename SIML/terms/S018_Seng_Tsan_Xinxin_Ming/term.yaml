@@ -1,63 +1,152 @@
 ---
-term: "Seng-ts'an's Xinxin Ming (Faith in Mind)"
-hex_tag: "S018"
-series: "S"
-source_file: "1771907212419_265588_Teachings+of+Seng-ts%27an.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Core teachings of Seng-ts'an, third patriarch of Chan Buddhism, from the poem Xinxin Ming (Faith in Mind). Non-duality as the dissolution of dualistic thinking (good/bad, self/other) that creates suffering. Non-attachment and release from clinging. Emptiness and interconnectedness as the nature of reality. Trust in mind/true nature. Present moment awareness and equanimity. Ceasing conceptual thinking in favor of direct experience. Harmony with the Tao through transcending preference."
-nemetic: "Φ(XinxinMing) = σ(dual|nondual) ∘ ρ(attachment|release) ∘ λ(conceptual|direct) ∘ β(empty|interconnected) ∘ δγ(present|eternal) ∘ μ(preference|equanimity) + ε | :trusting"
-siml_encoding: "⟨Dual|distinguished⟩ ⊳ ⟨Attachment|released⟩ → ⟨Conceptual|transformed⟩ ⊗ ⟨Empty|growing⟩ ⇄ ⟨Present|trusting⟩"
+term: Seng-ts'an's Xinxin Ming (Faith in Mind)
+hex_tag: S018
+series: S
+source_file: 1771907212419_265588_Teachings+of+Seng-ts%27an.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Core teachings of Seng-ts'an, third patriarch of Chan Buddhism, from the poem Xinxin Ming (Faith in Mind). Non-duality as the dissolution of dualistic thinking (good/bad, self/other) that creates suffering. Non-attachment and release from clinging. Emptiness and interconnectedness as the nature of reality. Trust in mind/true nature. Present moment awareness and equanimity. Ceasing conceptual thinking in favor of direct experience. Harmony with the Tao through transcending preference.
+nemetic: Φ(XinxinMing) = σ(dual|nondual) ∘ ρ(attachment|release) ∘ λ(conceptual|direct) ∘ β(empty|interconnected) ∘ δγ(present|eternal) ∘ μ(preference|equanimity) + ε | :trusting
+siml_encoding: ⟨Dual|distinguished⟩ ⊳ ⟨Attachment|released⟩ → ⟨Conceptual|transformed⟩ ⊗ ⟨Empty|growing⟩ ⇄ ⟨Present|trusting⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: dual / nondual
+      S: empty / interconnected
+      R: attachment / release
+      P: conceptual / direct
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between dualistic and non-dualistic modes of perception)"
-    - "∂Φ/∂ρ (relational movement from attachment and clinging toward release and non-grasping)"
-    - "∂Φ/∂λ (transformation from conceptual elaboration to direct unmediated experience)"
-    - "∂Φ/∂β (growth through emptiness as the ground of interconnectedness)"
-    - "∂Φ/∂δγ (grounding in present moment awareness cycling against the eternal)"
-    - "∂Φ/∂μ (structural dissolution of preference into equanimity)"
-  Z_state: "trusting (mind resting in its own nature beyond dualistic fabrication)"
-  tendency: "Integration/Dissolving → 0.90"
+  - ∂Φ/∂σ (distinction between dualistic and non-dualistic modes of perception)
+  - ∂Φ/∂ρ (relational movement from attachment and clinging toward release and non-grasping)
+  - ∂Φ/∂λ (transformation from conceptual elaboration to direct unmediated experience)
+  - ∂Φ/∂β (growth through emptiness as the ground of interconnectedness)
+  - ∂Φ/∂δγ (grounding in present moment awareness cycling against the eternal)
+  - ∂Φ/∂μ (structural dissolution of preference into equanimity)
+  Z_state: semi
+  z_note: trusting (mind resting in its own nature beyond dualistic fabrication)
+  tendency: Integration/Dissolving → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   water_rho:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Non-attachment as the central relational teaching — releasing clinging to restore natural flow"
-      - "Relational dissolution: self/other boundary dissolves in non-dual awareness"
-    daemon_correspondence: "Sentaria"
+    - Non-attachment as the central relational teaching — releasing clinging to restore natural flow
+    - 'Relational dissolution: self/other boundary dissolves in non-dual awareness'
+    daemon_correspondence: Sentaria
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "Transcendence of dualistic distinction (good/bad, self/other, right/wrong) as the root of suffering"
-      - "Non-duality as the collapse of all conceptual oppositions into the Great Way"
-    daemon_correspondence: "Aerunik"
+    - Transcendence of dualistic distinction (good/bad, self/other, right/wrong) as the root of suffering
+    - Non-duality as the collapse of all conceptual oppositions into the Great Way
+    daemon_correspondence: Aerunik
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "Present moment awareness as the grounding of practice — neither grasping nor rejecting"
-      - "Eternal and present cycling: timeless nature of mind realized in each moment"
-    daemon_correspondence: "Humavita"
+    - Present moment awareness as the grounding of practice — neither grasping nor rejecting
+    - 'Eternal and present cycling: timeless nature of mind realized in each moment'
+    daemon_correspondence: Humavita
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "Transformation from conceptual thinking to direct experience of reality"
-      - "Catalytic shift from discursive mind to immediate awareness without mediation"
-    daemon_correspondence: "Jvalion"
+    - Transformation from conceptual thinking to direct experience of reality
+    - Catalytic shift from discursive mind to immediate awareness without mediation
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Growth through emptiness: emptiness not as void but as the fertile ground of interconnectedness"
-      - "Organic unfolding of insight when conceptual obstruction ceases"
-    daemon_correspondence: "Arboriel"
+    - 'Growth through emptiness: emptiness not as void but as the fertile ground of interconnectedness'
+    - Organic unfolding of insight when conceptual obstruction ceases
+    daemon_correspondence: Arboriel
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Dissolving the structural boundary of preference — equanimity as the absence of choosing"
-      - "Harmony with the Tao through relinquishing the framework of like and dislike"
-    daemon_correspondence: "Ferrosid"
+    - Dissolving the structural boundary of preference — equanimity as the absence of choosing
+    - Harmony with the Tao through relinquishing the framework of like and dislike
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "C13A_Neiye_Chinese_Cognition"
+- C13A_Neiye_Chinese_Cognition
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    water_rho: 0.9
+    air_sigma: 0.85
+    earth_delta_gamma: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212419_265588_Teachings+of+Seng-ts%27an.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

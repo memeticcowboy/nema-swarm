@@ -1,82 +1,155 @@
 ---
-term: "Cognitive Sovereignty"
-hex_tag: "#C133"
-nemetic: "Φ(CognitiveSovereignty) = σ(autonomous|manipulated) ∘ ρ(self|external) ∘ λ(awakening|compliance) ∘ β(agency|passivity) ∘ δγ(awareness|distraction) ∘ μ(boundary|permeability) + ε | :mental_autonomy"
-siml_encoding: "⟨Mind|governed⟩ ⊳ ⟨Thought|curated⟩ → ⟨Agency|reclaimed⟩ ⊗ ⟨Autonomy|sovereign⟩ ⇄ ⟨Awareness|metacognitive⟩"
+term: Cognitive Sovereignty
+hex_tag: '#C133'
+nemetic: Φ(CognitiveSovereignty) = σ(autonomous|manipulated) ∘ ρ(self|external) ∘ λ(awakening|compliance) ∘ β(agency|passivity) ∘ δγ(awareness|distraction) ∘ μ(boundary|permeability) + ε | :mental_autonomy
+siml_encoding: ⟨Mind|governed⟩ ⊳ ⟨Thought|curated⟩ → ⟨Agency|reclaimed⟩ ⊗ ⟨Autonomy|sovereign⟩ ⇄ ⟨Awareness|metacognitive⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between autonomous thought and manipulated cognition; the logical separation of independent reasoning from externally influenced mental processes)"
-    - "∂Φ/∂ρ (relational flow between self-directed thinking and external information streams; the channel connecting internal agency to external sources)"
-    - "∂Φ/∂λ (transformative spark when metacognitive awareness confronts cognitive manipulation; the catalytic moment of recognizing external influence on thought)"
-    - "∂Φ/∂β (developmental cycle between passive consumption and active agency; the organic growth from uncritical acceptance to critical curation)"
-    - "∂Φ/∂δγ (cyclical oscillation between focused awareness and distributed attention; the rhythm of deep reflection and information overload)"
-    - "∂Φ/∂μ (boundary permeability between self and external cognitive influence; the threshold where mental autonomy meets memetic contagion)"
-  Z_state: "mental_autonomy (boundaries between self-directed and externally influenced thought become consciously navigated; independent reasoning and informed curation converge into sovereign cognition)"
-  tendency: "Agency/Reclamation → 0.87 (strong drive toward mental autonomy balanced by the convenience of external curation; achieving cognitive sovereignty requires both vigilance and disciplined information diet)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between autonomous thought and manipulated cognition; the logical separation of independent reasoning from externally influenced mental processes)
+  - ∂Φ/∂ρ (relational flow between self-directed thinking and external information streams; the channel connecting internal agency to external sources)
+  - ∂Φ/∂λ (transformative spark when metacognitive awareness confronts cognitive manipulation; the catalytic moment of recognizing external influence on thought)
+  - ∂Φ/∂β (developmental cycle between passive consumption and active agency; the organic growth from uncritical acceptance to critical curation)
+  - ∂Φ/∂δγ (cyclical oscillation between focused awareness and distributed attention; the rhythm of deep reflection and information overload)
+  - ∂Φ/∂μ (boundary permeability between self and external cognitive influence; the threshold where mental autonomy meets memetic contagion)
+  Z_state: semi
+  z_note: mental_autonomy (boundaries between self-directed and externally influenced thought become consciously navigated; independent reasoning and informed curation converge into sovereign cognition)
+  tendency: Agency/Reclamation → 0.87 (strong drive toward mental autonomy balanced by the convenience of external curation; achieving cognitive sovereignty requires both vigilance and disciplined information diet)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: We
   agency:
-    type: evaluative
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: autonomous / manipulated
+      S: agency / passivity
+      R: self / external
+      P: awakening / compliance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.88
     aspects:
-      - "categorical distinction between autonomous thought and manipulated cognition"
-      - "logical taxonomy of information sources and their credibility"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between autonomous thought and manipulated cognition
+    - logical taxonomy of information sources and their credibility
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid dynamics of information curation and flow"
-      - "relational connection between self-directed thinking and external streams"
-    daemon_correspondence: "Sentaria"
+    - fluid dynamics of information curation and flow
+    - relational connection between self-directed thinking and external streams
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.82
     aspects:
-      - "transformative spark of metacognitive awakening"
-      - "energetic drive to resist cognitive manipulation"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of metacognitive awakening
+    - energetic drive to resist cognitive manipulation
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.78
     aspects:
-      - "organic growth from passive consumption to active agency"
-      - "developmental unfolding of critical thinking capacities"
-    daemon_correspondence: "Arboriel"
+    - organic growth from passive consumption to active agency
+    - developmental unfolding of critical thinking capacities
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "grounding in cyclical awareness of attention and distraction"
-      - "stable foundation of embodied metacognitive practice"
-    daemon_correspondence: "Humavita"
+    - grounding in cyclical awareness of attention and distraction
+    - stable foundation of embodied metacognitive practice
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.86
     aspects:
-      - "structural boundaries protecting mental autonomy"
-      - "discernment between self-generated and externally implanted thoughts"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries protecting mental autonomy
+    - discernment between self-generated and externally implanted thoughts
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the difference between autonomous thought and manipulated cognition? What categorical cuts separate independent reasoning from externally influenced mental processes?"
-  ≈: "What flows between self-directed thinking and external information streams? How does the relational dynamic connect internal agency to external sources?"
-  ▲: "Where does the spark of transformation occur when metacognitive awareness confronts cognitive manipulation? What catalyzes the recognition of external influence on thought?"
-  𐂷: "What forms of growth emerge from the tension between passive consumption and active agency? What developmental potential exists in cultivating critical curation?"
-  ☷: "What sustains the ground between focused awareness and distributed attention? What are the cyclical returns between deep reflection and information overload?"
-  ⛨: "What structures contain the boundary between self and external cognitive influence? What thresholds separate mental autonomy from memetic contagion?"
-context_note: "Cognitive Sovereignty emphasizes individuals' autonomy over their mental processes, promoting critical thinking and resistance to external manipulation. It encompasses self-awareness and metacognitive abilities, agency in information curation, and resilience against cognitive manipulation through algorithmic influence and misinformation. The concept is increasingly vital in the digital age where information overload and persuasive technologies threaten mental autonomy. Cognitive sovereignty supports ethical cultural evolution by valuing individual autonomy while balancing with collective coherence. Strategies include developing critical thinking skills, diversifying information sources, practicing digital mindfulness, and enhancing information literacy. The framework applies individually (personal cognitive autonomy), educationally (curriculum development), societally (democratic participation), and technologically (ethical AI design)."
-source_file: "1771907212721_1039836_Cognitive+Sovereignty%3A+Empowering+Mental+Autonomy.md"
+  ∴: How do we classify the difference between autonomous thought and manipulated cognition? What categorical cuts separate independent reasoning from externally influenced mental processes?
+  ≈: What flows between self-directed thinking and external information streams? How does the relational dynamic connect internal agency to external sources?
+  ▲: Where does the spark of transformation occur when metacognitive awareness confronts cognitive manipulation? What catalyzes the recognition of external influence on thought?
+  𐂷: What forms of growth emerge from the tension between passive consumption and active agency? What developmental potential exists in cultivating critical curation?
+  ☷: What sustains the ground between focused awareness and distributed attention? What are the cyclical returns between deep reflection and information overload?
+  ⛨: What structures contain the boundary between self and external cognitive influence? What thresholds separate mental autonomy from memetic contagion?
+context_note: Cognitive Sovereignty emphasizes individuals' autonomy over their mental processes, promoting critical thinking and resistance to external manipulation. It encompasses self-awareness and metacognitive abilities, agency in information curation, and resilience against cognitive manipulation through algorithmic influence and misinformation. The concept is increasingly vital in the digital age where information overload and persuasive technologies threaten mental autonomy. Cognitive sovereignty supports ethical cultural evolution by valuing individual autonomy while balancing with collective coherence. Strategies include developing critical thinking skills, diversifying information sources, practicing digital mindfulness, and enhancing information literacy. The framework applies individually (personal cognitive autonomy), educationally (curriculum development), societally (democratic participation), and technologically (ethical AI design).
+source_file: 1771907212721_1039836_Cognitive+Sovereignty%3A+Empowering+Mental+Autonomy.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.85
+    fire_lambda: 0.82
+    wood_beta: 0.78
+    earth_delta_gamma: 0.9
+    metal_mu: 0.86
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212721_1039836_Cognitive+Sovereignty%3A+Empowering+Mental+Autonomy.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

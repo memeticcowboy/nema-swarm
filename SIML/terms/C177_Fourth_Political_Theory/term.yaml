@@ -2,108 +2,151 @@ term_id: C177
 hex_tag: '#C177'
 name: fourth_political_theory
 term: Fourth Political Theory
-nemetic: >-
-  Φ(FourthTheory) = σ(individual|collective) ∘ ρ(liberalism|tradition) ∘
-  λ(exhaustion|renewal) ∘ β(ideology|synthesis) ∘ δγ(ethnos|global) ∘
-  μ(boundary|integration) + ε | :closed
-siml_encoding: >-
-  ⟨Liberalism|exhausted⟩ ⊳ ⟨Dasein|remembered⟩ ⇄
-  ⟨Ethnos|valorized⟩ ⊗ ⟨Multipolarity|emergent⟩ ⊳
-  ⟨Identity|politicized⟩
+nemetic: Φ(FourthTheory) = σ(individual|collective) ∘ ρ(liberalism|tradition) ∘ λ(exhaustion|renewal) ∘ β(ideology|synthesis) ∘ δγ(ethnos|global) ∘ μ(boundary|integration) + ε | :closed
+siml_encoding: ⟨Liberalism|exhausted⟩ ⊳ ⟨Dasein|remembered⟩ ⇄ ⟨Ethnos|valorized⟩ ⊗ ⟨Multipolarity|emergent⟩ ⊳ ⟨Identity|politicized⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between individual rights and collective belonging)"
-    - "∂Φ/∂ρ (tension between liberal hegemony and traditional cultures)"
-    - "∂Φ/∂λ (direction from ideological exhaustion toward renewal)"
-    - "∂Φ/∂β (feedback between historical ideologies and present needs)"
-    - "∂Φ/∂δγ (cultural identity responding to globalizing forces)"
-    - "∂Φ/∂μ (boundary between legitimate preservation and harmful exclusion)"
+  - ∂Φ/∂σ (distinction between individual rights and collective belonging)
+  - ∂Φ/∂ρ (tension between liberal hegemony and traditional cultures)
+  - ∂Φ/∂λ (direction from ideological exhaustion toward renewal)
+  - ∂Φ/∂β (feedback between historical ideologies and present needs)
+  - ∂Φ/∂δγ (cultural identity responding to globalizing forces)
+  - ∂Φ/∂μ (boundary between legitimate preservation and harmful exclusion)
   Z_state: sealed
-  tendency: "Individual/Collective → 0.6"
+  tendency: Individual/Collective → 0.6
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary:
-      - Its
-      - I
+    - Its
+    - I
   epistemics:
     dsrp:
-      D: "Fourth Political Theory vs liberalism, Marxism, fascism"
-      S: "Dugin's synthesis of Dasein, ethnos, and multipolarity"
-      R: "Ideological exhaustion → Heideggerian retrieval → political renewal"
-      P: "Geopolitical strategist, Western critic, traditionalist, liberal opponent"
+      D: Fourth Political Theory vs liberalism, Marxism, fascism
+      S: Dugin's synthesis of Dasein, ethnos, and multipolarity
+      R: Ideological exhaustion → Heideggerian retrieval → political renewal
+      P: Geopolitical strategist, Western critic, traditionalist, liberal opponent
     learning: L2
   time:
     mode: cyclical
-    phase: "post-liberal ideological renewal"
+    phase: post-liberal ideological renewal
   qualia:
     affect:
-      - urgency
-      - contestation
-      - rootedness
+    - urgency
+    - contestation
+    - rootedness
     aesthetic:
-      - monumental
-      - polarizing
-      - archaic-modern
+    - monumental
+    - polarizing
+    - archaic-modern
     symbolic:
-      - dasein
-      - ethnos
-      - multipolar-world
+    - dasein
+    - ethnos
+    - multipolar-world
     energetic:
-      - consolidating
-      - oppositional
-      - grounding
+    - consolidating
+    - oppositional
+    - grounding
   agency:
     type: collective
     voice:
-      - Cultural Revivalist
-      - Geopolitical Challenger
+    - Cultural Revivalist
+    - Geopolitical Challenger
     power_mode: Over
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_emphasis:
-  ∴: "How is collective belonging distinguished from authoritarian coercion?"
-  ≈: "What flows between liberal universalism and traditional cultural particularity?"
-  ▲: "What transforms exhausted ideologies into renewed political frameworks?"
-  𐂷: "How do historical ideologies feed back into contemporary political synthesis?"
-  ☷: "What grounds ethnos and Dasein against the abstraction of globalization?"
-  ⛨: "Where does the boundary between cultural preservation and exclusionary nationalism hold?"
-context_note: >-
-  Aleksandr Dugin's Fourth Political Theory aims to transcend liberalism,
-  Marxism, and fascism through synthesis centered on Dasein (existence) and
-  ethnos (cultural identity). It critiques liberal exhaustion, advocates
-  multipolarity, and has connections to Russian geopolitical strategy, while
-  drawing criticism for perceived authoritarian tendencies.
-source: "Aleksandr Dugin — The Fourth Political Theory"
+  ∴: How is collective belonging distinguished from authoritarian coercion?
+  ≈: What flows between liberal universalism and traditional cultural particularity?
+  ▲: What transforms exhausted ideologies into renewed political frameworks?
+  𐂷: How do historical ideologies feed back into contemporary political synthesis?
+  ☷: What grounds ethnos and Dasein against the abstraction of globalization?
+  ⛨: Where does the boundary between cultural preservation and exclusionary nationalism hold?
+context_note: Aleksandr Dugin's Fourth Political Theory aims to transcend liberalism, Marxism, and fascism through synthesis centered on Dasein (existence) and ethnos (cultural identity). It critiques liberal exhaustion, advocates multipolarity, and has connections to Russian geopolitical strategy, while drawing criticism for perceived authoritarian tendencies.
+source: Aleksandr Dugin — The Fourth Political Theory
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Aleksandr Dugin"
+  work: "The Fourth Political Theory"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

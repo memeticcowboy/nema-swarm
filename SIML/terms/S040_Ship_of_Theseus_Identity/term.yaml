@@ -1,32 +1,155 @@
 ---
-term: "Ship of Theseus Identity"
-hex_tag: "S040"
-series: "S"
-source_file: "1771907212620_743661_Exploring+Identity+Through+the+Ship+of+Theseus+Thought+Experiment.md"
-encoded_at: "2026-03-05T21:00:00Z"
-description: "Application of the ancient Ship of Theseus paradox to personal, biological, and cultural identity. Reframes identity as a continuous process of replacement and renewal rather than a fixed essential state, revealing how continuity persists through change."
-nemetic: "Φ(ShipOfTheseusIdentity) = σ(same|different) ∘ ρ(continuity|rupture) ∘ λ(replacement|preservation) ∘ β(evolution|persistence) ∘ δγ(renewal|decay) ∘ μ(form|substrate) + ε | :processual_continuity"
-siml_encoding: "⟨original identity⟩ ⊳ ⟨gradual replacement⟩ → ⟨continuity paradox⟩ ⊗ ⟨identity as process⟩ ⇄ ⟨emergent persistence⟩"
+term: Ship of Theseus Identity
+hex_tag: S040
+series: S
+source_file: 1771907212620_743661_Exploring+Identity+Through+the+Ship+of+Theseus+Thought+Experiment.md
+encoded_at: '2026-03-05T21:00:00Z'
+description: Application of the ancient Ship of Theseus paradox to personal, biological, and cultural identity. Reframes identity as a continuous process of replacement and renewal rather than a fixed essential state, revealing how continuity persists through change.
+nemetic: Φ(ShipOfTheseusIdentity) = σ(same|different) ∘ ρ(continuity|rupture) ∘ λ(replacement|preservation) ∘ β(evolution|persistence) ∘ δγ(renewal|decay) ∘ μ(form|substrate) + ε | :processual_continuity
+siml_encoding: ⟨original identity⟩ ⊳ ⟨gradual replacement⟩ → ⟨continuity paradox⟩ ⊗ ⟨identity as process⟩ ⇄ ⟨emergent persistence⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: same / different
+      S: evolution / persistence
+      R: continuity / rupture
+      P: replacement / preservation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing sameness from difference across temporal change)"
-    - "∂Φ/∂ρ (relational continuity between past and present states)"
-    - "∂Φ/∂λ (transformative replacement of constituent parts)"
-    - "∂Φ/∂β (evolutionary growth through gradual genetic and experiential change)"
-    - "∂Φ/∂δγ (cyclical renewal and decay of biological and cultural components)"
-    - "∂Φ/∂μ (structural form that persists despite substrate replacement)"
-  Z_state: "processual_continuity — identity maintained as ongoing process rather than fixed essence"
-  tendency: "δγ → 0.80"
+  - ∂Φ/∂σ (distinguishing sameness from difference across temporal change)
+  - ∂Φ/∂ρ (relational continuity between past and present states)
+  - ∂Φ/∂λ (transformative replacement of constituent parts)
+  - ∂Φ/∂β (evolutionary growth through gradual genetic and experiential change)
+  - ∂Φ/∂δγ (cyclical renewal and decay of biological and cultural components)
+  - ∂Φ/∂μ (structural form that persists despite substrate replacement)
+  Z_state: sealed
+  z_note: processual_continuity — identity maintained as ongoing process rather than fixed essence
+  tendency: δγ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["same vs different distinction", "identity boundary recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["continuity of narrative", "relational persistence through change"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.68, aspects: ["transformative replacement", "experiential change"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["biological evolution", "cultural development over time"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["cyclical renewal of parts", "decay and regeneration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["structural form persistence", "pattern identity beyond material"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03E_Subjective_Idealism_Memes_Reality", "S029_Social_Evolution_Consciousness", "S024_Fractal_Geometry_Hidden_Dimension", "A011_Conscious_Realism"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - same vs different distinction
+    - identity boundary recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - continuity of narrative
+    - relational persistence through change
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.68
+    aspects:
+    - transformative replacement
+    - experiential change
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - biological evolution
+    - cultural development over time
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - cyclical renewal of parts
+    - decay and regeneration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - structural form persistence
+    - pattern identity beyond material
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03E_Subjective_Idealism_Memes_Reality
+- S029_Social_Evolution_Consciousness
+- S024_Fractal_Geometry_Hidden_Dimension
+- A011_Conscious_Realism
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.72
+    fire_lambda: 0.68
+    wood_beta: 0.7
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212620_743661_Exploring+Identity+Through+the+Ship+of+Theseus+Thought+Experiment.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,151 @@
 ---
-term: "FOOLPLAY Learning"
-hex_tag: "S0C9"
-series: "S"
-source_file: "1771907213091_2053630_Embracing+Uncertainty%3A+The+Journey+of+Learning+Through+FOOLPLAY.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "FOOLPLAY framework mapping learning stages onto the Dunning-Kruger curve: Loosen (Mount Stupid), Observe (descent), Feel (Valley of Despair), Play (Slope of Enlightenment), Amplify & Yield (Plateau) — befriending the learning curve through presence, curiosity, and paradox."
-nemetic: "Φ(FOOLPLAY Learning) = σ(certainty|uncertainty) ∘ ρ(knowing|not_knowing) ∘ λ(performance|presence) ∘ β(confidence|curiosity) ∘ δγ(Dunning_Kruger_phases|learning_curve_cycling) ∘ μ(FOOLPLAY_sequence|stage_architecture) + ε | :adaptive_grace_through_learning"
-siml_encoding: "⟨certainty_uncertainty_distinction, learning_awareness⟩ ⊳ ⟨knowing_not_knowing_relational_mapping, humility_web⟩ → ⟨performance_to_presence_transformation, learning_catalysis⟩ ⊗ ⟨confidence_to_curiosity_growth, adaptive_maturation⟩ ⇄ ⟨Dunning_Kruger_phase_cycling, learning_curve_reinforcement⟩"
+term: FOOLPLAY Learning
+hex_tag: S0C9
+series: S
+source_file: 1771907213091_2053630_Embracing+Uncertainty%3A+The+Journey+of+Learning+Through+FOOLPLAY.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'FOOLPLAY framework mapping learning stages onto the Dunning-Kruger curve: Loosen (Mount Stupid), Observe (descent), Feel (Valley of Despair), Play (Slope of Enlightenment), Amplify & Yield (Plateau) — befriending the learning curve through presence, curiosity, and paradox.'
+nemetic: Φ(FOOLPLAY Learning) = σ(certainty|uncertainty) ∘ ρ(knowing|not_knowing) ∘ λ(performance|presence) ∘ β(confidence|curiosity) ∘ δγ(Dunning_Kruger_phases|learning_curve_cycling) ∘ μ(FOOLPLAY_sequence|stage_architecture) + ε | :adaptive_grace_through_learning
+siml_encoding: ⟨certainty_uncertainty_distinction, learning_awareness⟩ ⊳ ⟨knowing_not_knowing_relational_mapping, humility_web⟩ → ⟨performance_to_presence_transformation, learning_catalysis⟩ ⊗ ⟨confidence_to_curiosity_growth, adaptive_maturation⟩ ⇄ ⟨Dunning_Kruger_phase_cycling, learning_curve_reinforcement⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: certainty / uncertainty
+      S: confidence / curiosity
+      R: knowing / not_knowing
+      P: performance / presence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: dyadic
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing certainty from uncertainty as the first loosening move)"
-    - "∂Φ/∂ρ (relating knowing to not-knowing through the humility of the descent phase)"
-    - "∂Φ/∂λ (transforming performance orientation into presence orientation — the core FOOLPLAY shift)"
-    - "∂Φ/∂β (growth from false confidence through curiosity to adaptive grace at the plateau)"
-    - "∂Φ/∂δγ (cycling through Dunning-Kruger phases as mapped by FOOLPLAY learning stages)"
-    - "∂Φ/∂μ (FOOLPLAY stage sequence as structural architecture for navigating learning curves)"
-  Z_state: "adaptive_grace_through_learning — the capacity to navigate learning curves with presence and curiosity rather than anxiety and performance, befriending uncertainty as the medium of genuine understanding and emerging as a guide through adaptive grace"
-  tendency: "δγ → 0.85"
+  - ∂Φ/∂σ (distinguishing certainty from uncertainty as the first loosening move)
+  - ∂Φ/∂ρ (relating knowing to not-knowing through the humility of the descent phase)
+  - ∂Φ/∂λ (transforming performance orientation into presence orientation — the core FOOLPLAY shift)
+  - ∂Φ/∂β (growth from false confidence through curiosity to adaptive grace at the plateau)
+  - ∂Φ/∂δγ (cycling through Dunning-Kruger phases as mapped by FOOLPLAY learning stages)
+  - ∂Φ/∂μ (FOOLPLAY stage sequence as structural architecture for navigating learning curves)
+  Z_state: permeable
+  z_note: adaptive_grace_through_learning — the capacity to navigate learning curves with presence and curiosity rather than anxiety and performance, befriending uncertainty as the medium of genuine understanding and emerging as a guide through adaptive grace
+  tendency: δγ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["certainty_uncertainty_distinction", "loosening_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["knowing_not_knowing_relation", "humility_descent_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["performance_to_presence_transformation", "learning_orientation_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["confidence_to_curiosity_growth", "adaptive_grace_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["Dunning_Kruger_phase_cycling", "FOOLPLAY_stage_progression"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["FOOLPLAY_sequence_architecture", "learning_stage_structural_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - certainty_uncertainty_distinction
+    - loosening_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - knowing_not_knowing_relation
+    - humility_descent_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - performance_to_presence_transformation
+    - learning_orientation_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - confidence_to_curiosity_growth
+    - adaptive_grace_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - Dunning_Kruger_phase_cycling
+    - FOOLPLAY_stage_progression
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - FOOLPLAY_sequence_architecture
+    - learning_stage_structural_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213091_2053630_Embracing+Uncertainty%3A+The+Journey+of+Learning+Through+FOOLPLAY.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

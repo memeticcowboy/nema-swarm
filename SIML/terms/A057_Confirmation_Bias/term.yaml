@@ -2,104 +2,148 @@ term_id: A057
 hex_tag: '#A057'
 name: Confirmation_Bias
 term: Confirmation Bias
-nemetic: >-
-  Φ(Confirm) = σ(confirming|disconfirming) ∘ ρ(belief|evidence) ∘ λ(validation|truth)
-  ∘ β(reinforcement|feedback) ∘ δγ(comfort|certainty)
-  ∘ μ(boundary|selective) + ε | :closed
-siml_encoding: >-
-  ⟨Belief|held⟩ ⊳ ⟨Evidence|selected⟩ ⊗ ⟨Validation|experienced⟩ ⊗ ⟨Disconfirm|ignored⟩
-  ⊗ ⟨Certainty|reinforced⟩
+nemetic: Φ(Confirm) = σ(confirming|disconfirming) ∘ ρ(belief|evidence) ∘ λ(validation|truth) ∘ β(reinforcement|feedback) ∘ δγ(comfort|certainty) ∘ μ(boundary|selective) + ε | :closed
+siml_encoding: ⟨Belief|held⟩ ⊳ ⟨Evidence|selected⟩ ⊗ ⟨Validation|experienced⟩ ⊗ ⟨Disconfirm|ignored⟩ ⊗ ⟨Certainty|reinforced⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (how the distinction operator filters evidence by confirmation value)"
-    - "∂Φ/∂ρ (relational asymmetry between belief-holding and evidence-considering)"
-    - "∂Φ/∂λ (directional pull toward validation over truth)"
-    - "∂Φ/∂β (feedback loop intensity — how belief reinforces itself)"
-    - "∂Φ/∂δγ (metabolic cost/benefit of certainty vs ambiguity tolerance)"
-    - "∂Φ/∂μ (boundary permeability — what can challenge the belief)"
+  - ∂Φ/∂σ (how the distinction operator filters evidence by confirmation value)
+  - ∂Φ/∂ρ (relational asymmetry between belief-holding and evidence-considering)
+  - ∂Φ/∂λ (directional pull toward validation over truth)
+  - ∂Φ/∂β (feedback loop intensity — how belief reinforces itself)
+  - ∂Φ/∂δγ (metabolic cost/benefit of certainty vs ambiguity tolerance)
+  - ∂Φ/∂μ (boundary permeability — what can challenge the belief)
   Z_state: sealed
-  tendency: "Validation/Truth → 0.85"
+  tendency: Validation/Truth → 0.85
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
+    - We
   epistemics:
     dsrp:
-      D: "Confirming evidence vs. disconfirming evidence"
-      S: "Self-reinforcing belief-evidence filtering system"
-      R: "Belief shapes what evidence is admitted; evidence reinforces belief"
-      P: "Individual cognition scaling to collective echo chambers"
+      D: Confirming evidence vs. disconfirming evidence
+      S: Self-reinforcing belief-evidence filtering system
+      R: Belief shapes what evidence is admitted; evidence reinforces belief
+      P: Individual cognition scaling to collective echo chambers
     learning: L1
   time:
     mode: cyclical
-    phase: "self-reinforcing loop"
+    phase: self-reinforcing loop
   qualia:
     affect:
-      - certainty
-      - comfort
-      - righteous
+    - certainty
+    - comfort
+    - righteous
     aesthetic:
-      - selective
-      - filtering
-      - one-directional
+    - selective
+    - filtering
+    - one-directional
     symbolic:
-      - echo-chamber
-      - filter-bubble
-      - epistemic-closure
+    - echo-chamber
+    - filter-bubble
+    - epistemic-closure
     energetic:
-      - self-reinforcing
-      - sealing
-      - constricting
+    - self-reinforcing
+    - sealing
+    - constricting
   agency:
     type: ego
     voice:
-      - Belief Defender
-      - Selective Perceiver
+    - Belief Defender
+    - Selective Perceiver
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is confirming evidence distinguished from disconfirming evidence pre-consciously?"
-  ≈: "What is the felt sense when encountering confirming vs. disconfirming information?"
-  ▲: "Does the search serve truth or comfort? Who benefits from belief maintenance?"
-  𐂷: "What experiments have been refused? What narratives remain ungrown?"
-  ☷: "What is the true cost of wrong certainty compounding over time?"
-  ⛨: "What structures would make disconfirmation welcome rather than threatening?"
-context_note: >-
-  Confirmation Bias describes the tendency to favor information that confirms existing
-  beliefs while ignoring contradictory evidence. Operates through selective exposure,
-  selective interpretation, and selective memory.
-source: "Navigating the Quirky World of Cognitive Biases"
+  ∴: How is confirming evidence distinguished from disconfirming evidence pre-consciously?
+  ≈: What is the felt sense when encountering confirming vs. disconfirming information?
+  ▲: Does the search serve truth or comfort? Who benefits from belief maintenance?
+  𐂷: What experiments have been refused? What narratives remain ungrown?
+  ☷: What is the true cost of wrong certainty compounding over time?
+  ⛨: What structures would make disconfirmation welcome rather than threatening?
+context_note: Confirmation Bias describes the tendency to favor information that confirms existing beliefs while ignoring contradictory evidence. Operates through selective exposure, selective interpretation, and selective memory.
+source: Navigating the Quirky World of Cognitive Biases
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

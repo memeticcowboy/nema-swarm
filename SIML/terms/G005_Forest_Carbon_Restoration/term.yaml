@@ -1,32 +1,155 @@
 ---
-term: "Forest Carbon Restoration"
-hex_tag: "G005"
-series: "G"
-source_file: "5 - Forest Restoration for Carbon Sequestration.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The carbon sequestration potential of restoring 350 million hectares of forest by 2030, as targeted by the Bonn Challenge. Evaluates natural regeneration, mixed restoration, and plantation pathways across tropical and sub-tropical regions, using climate models and biomass data to estimate carbon stocks under different restoration and climate scenarios."
-nemetic: "Φ(Forest Carbon Restoration) = σ(restoration_pathway|deforestation_baseline) ∘ ρ(carbon_cycle_linkage|community_livelihood_connection) ∘ λ(sequestration_acceleration|climate_mitigation_impact) ∘ β(forest_cover_expansion|biodiversity_recovery) ∘ δγ(carbon_stock_monitoring_cycle|restoration_policy_feedback) ∘ μ(bonn_challenge_framework|climate_model_structure) + ε | :regenerative_carbon_equilibrium"
-siml_encoding: "⟨deforested_land, restored_forest⟩ ⊳ ⟨natural_regeneration, plantation_approach⟩ → ⟨carbon_sequestration, climate_mitigation⟩ ⊗ ⟨biodiversity_gain, monoculture_risk⟩ ⇄ ⟨ecological_restoration, economic_development⟩"
+term: Forest Carbon Restoration
+hex_tag: G005
+series: G
+source_file: 5 - Forest Restoration for Carbon Sequestration.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The carbon sequestration potential of restoring 350 million hectares of forest by 2030, as targeted by the Bonn Challenge. Evaluates natural regeneration, mixed restoration, and plantation pathways across tropical and sub-tropical regions, using climate models and biomass data to estimate carbon stocks under different restoration and climate scenarios.
+nemetic: Φ(Forest Carbon Restoration) = σ(restoration_pathway|deforestation_baseline) ∘ ρ(carbon_cycle_linkage|community_livelihood_connection) ∘ λ(sequestration_acceleration|climate_mitigation_impact) ∘ β(forest_cover_expansion|biodiversity_recovery) ∘ δγ(carbon_stock_monitoring_cycle|restoration_policy_feedback) ∘ μ(bonn_challenge_framework|climate_model_structure) + ε | :regenerative_carbon_equilibrium
+siml_encoding: ⟨deforested_land, restored_forest⟩ ⊳ ⟨natural_regeneration, plantation_approach⟩ → ⟨carbon_sequestration, climate_mitigation⟩ ⊗ ⟨biodiversity_gain, monoculture_risk⟩ ⇄ ⟨ecological_restoration, economic_development⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: restoration_pathway / deforestation_baseline
+      S: forest_cover_expansion / biodiversity_recovery
+      R: carbon_cycle_linkage / community_livelihood_connection
+      P: sequestration_acceleration / climate_mitigation_impact
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ distinguishes between restoration pathways (natural regeneration, mixed, plantation) and the deforestation baseline they aim to reverse"
-    - "∂Φ/∂ρ maps the relational connections between carbon cycling, ecosystem services, and community livelihoods supported by restored forests"
-    - "∂Φ/∂λ captures the catalytic acceleration of carbon sequestration and its aggregate climate mitigation impact at the 350-million-hectare scale"
-    - "∂Φ/∂β tracks the expansion of forest cover, biodiversity recovery, and ecosystem service growth under different restoration methods"
-    - "∂Φ/∂δγ describes the monitoring cycle for carbon stocks and the policy feedback loop between restoration outcomes and strategy adjustment"
-    - "∂Φ/∂μ defines the institutional framework of the Bonn Challenge and the structural role of climate models in guiding restoration decisions"
-  Z_state: "regenerative_carbon_equilibrium — the emergent state where large-scale forest restoration achieves a dynamic balance between carbon sequestration, biodiversity support, and community livelihood across tropical and sub-tropical landscapes"
-  tendency: "β → 0.85"
+  - ∂Φ/∂σ distinguishes between restoration pathways (natural regeneration, mixed, plantation) and the deforestation baseline they aim to reverse
+  - ∂Φ/∂ρ maps the relational connections between carbon cycling, ecosystem services, and community livelihoods supported by restored forests
+  - ∂Φ/∂λ captures the catalytic acceleration of carbon sequestration and its aggregate climate mitigation impact at the 350-million-hectare scale
+  - ∂Φ/∂β tracks the expansion of forest cover, biodiversity recovery, and ecosystem service growth under different restoration methods
+  - ∂Φ/∂δγ describes the monitoring cycle for carbon stocks and the policy feedback loop between restoration outcomes and strategy adjustment
+  - ∂Φ/∂μ defines the institutional framework of the Bonn Challenge and the structural role of climate models in guiding restoration decisions
+  Z_state: permeable
+  z_note: regenerative_carbon_equilibrium — the emergent state where large-scale forest restoration achieves a dynamic balance between carbon sequestration, biodiversity support, and community livelihood across tropical and sub-tropical landscapes
+  tendency: β → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["restoration_pathway_distinction", "method_effectiveness_comparison"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["carbon_cycle_ecosystem_linkage", "community_livelihood_connection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["sequestration_acceleration", "climate_mitigation_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["forest_cover_expansion", "biodiversity_recovery_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["carbon_stock_monitoring", "restoration_policy_feedback_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["bonn_challenge_institutional_framework", "climate_model_predictive_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G001", "G002", "G00A", "G00D"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - restoration_pathway_distinction
+    - method_effectiveness_comparison
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - carbon_cycle_ecosystem_linkage
+    - community_livelihood_connection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - sequestration_acceleration
+    - climate_mitigation_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - forest_cover_expansion
+    - biodiversity_recovery_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - carbon_stock_monitoring
+    - restoration_policy_feedback_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - bonn_challenge_institutional_framework
+    - climate_model_predictive_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- G001
+- G002
+- G00A
+- G00D
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "5 - Forest Restoration for Carbon Sequestration.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,154 @@
 ---
-term: "Time Expansion Experiences"
-hex_tag: "S087"
-series: "S"
-source_file: "1771907212845_1514491_Understanding+Time+Expansion+Experiences%3A+Evolutionary+Insights.md"
-encoded_at: "2026-03-06T01:30:00Z"
-description: "Time expansion experiences (TEEs) — the phenomenon of perceived time slowing down during extreme situations such as accidents or intense physical activities, analogous to 'bullet time'; examined as a possible evolutionary adaptation enhancing survival through heightened awareness and decision-making, distinguished from mere adrenaline response or memory distortion, involving hyper-awareness, complex thought processing, and subjective temporal perception alterations."
-nemetic: "Φ(Time Expansion Experiences) = σ(normal_time_perception|expanded_temporal_awareness) ∘ ρ(extreme_situation|survival_response_system) ∘ λ(ordinary_processing|hyper_aware_slow_motion_state) ∘ β(reactive_response|complex_decision_capacity) ∘ δγ(threat_activation_cycling|awareness_calibration_iteration) ∘ μ(evolutionary_adaptation_framework|temporal_perception_architecture) + ε | :adaptive_temporal_expansion"
-siml_encoding: "⟨normal_expanded_time_distinction, temporal_perception_boundary⟩ ⊳ ⟨extreme_situation_survival_relation, threat_response_coupling⟩ → ⟨ordinary_to_hyperaware_transformation, temporal_expansion_catalysis⟩ ⊗ ⟨reactive_to_complex_decision_growth, survival_capacity_deepening⟩ ⇄ ⟨threat_activation_cycling, awareness_calibration_iteration⟩"
+term: Time Expansion Experiences
+hex_tag: S087
+series: S
+source_file: 1771907212845_1514491_Understanding+Time+Expansion+Experiences%3A+Evolutionary+Insights.md
+encoded_at: '2026-03-06T01:30:00Z'
+description: Time expansion experiences (TEEs) — the phenomenon of perceived time slowing down during extreme situations such as accidents or intense physical activities, analogous to 'bullet time'; examined as a possible evolutionary adaptation enhancing survival through heightened awareness and decision-making, distinguished from mere adrenaline response or memory distortion, involving hyper-awareness, complex thought processing, and subjective temporal perception alterations.
+nemetic: Φ(Time Expansion Experiences) = σ(normal_time_perception|expanded_temporal_awareness) ∘ ρ(extreme_situation|survival_response_system) ∘ λ(ordinary_processing|hyper_aware_slow_motion_state) ∘ β(reactive_response|complex_decision_capacity) ∘ δγ(threat_activation_cycling|awareness_calibration_iteration) ∘ μ(evolutionary_adaptation_framework|temporal_perception_architecture) + ε | :adaptive_temporal_expansion
+siml_encoding: ⟨normal_expanded_time_distinction, temporal_perception_boundary⟩ ⊳ ⟨extreme_situation_survival_relation, threat_response_coupling⟩ → ⟨ordinary_to_hyperaware_transformation, temporal_expansion_catalysis⟩ ⊗ ⟨reactive_to_complex_decision_growth, survival_capacity_deepening⟩ ⇄ ⟨threat_activation_cycling, awareness_calibration_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: normal_time_perception / expanded_temporal_awareness
+      S: reactive_response / complex_decision_capacity
+      R: extreme_situation / survival_response_system
+      P: ordinary_processing / hyper_aware_slow_motion_state
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing normal time perception from expanded temporal awareness during extreme situations)"
-    - "∂Φ/∂ρ (relating extreme situations to the survival response system that triggers temporal expansion)"
-    - "∂Φ/∂λ (transforming ordinary cognitive processing into hyper-aware slow-motion perceptual state)"
-    - "∂Φ/∂β (growth from reactive response toward complex decision-making capacity under temporal expansion)"
-    - "∂Φ/∂δγ (cycling through threat activation and awareness calibration across survival episodes)"
-    - "∂Φ/∂μ (evolutionary adaptation as framework and temporal perception as architectural substrate)"
-  Z_state: "adaptive_temporal_expansion — in extreme situations the perceptual system expands subjective time, creating a slow-motion experience that enables heightened awareness, detailed observation, and complex decision-making that would be impossible under normal temporal perception; this is not merely adrenaline or memory distortion but a genuine alteration of temporal experience serving evolutionary survival functions; the Z-state is achieved when threat triggers the expansion of subjective time, enabling calm clarity and enhanced agency in moments where survival depends on rapid yet precise action"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing normal time perception from expanded temporal awareness during extreme situations)
+  - ∂Φ/∂ρ (relating extreme situations to the survival response system that triggers temporal expansion)
+  - ∂Φ/∂λ (transforming ordinary cognitive processing into hyper-aware slow-motion perceptual state)
+  - ∂Φ/∂β (growth from reactive response toward complex decision-making capacity under temporal expansion)
+  - ∂Φ/∂δγ (cycling through threat activation and awareness calibration across survival episodes)
+  - ∂Φ/∂μ (evolutionary adaptation as framework and temporal perception as architectural substrate)
+  Z_state: permeable
+  z_note: adaptive_temporal_expansion — in extreme situations the perceptual system expands subjective time, creating a slow-motion experience that enables heightened awareness, detailed observation, and complex decision-making that would be impossible under normal temporal perception; this is not merely adrenaline or memory distortion but a genuine alteration of temporal experience serving evolutionary survival functions; the Z-state is achieved when threat triggers the expansion of subjective time, enabling calm clarity and enhanced agency in moments where survival depends on rapid yet precise action
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["normal_expanded_time_distinction", "temporal_perception_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["extreme_situation_survival_coupling", "threat_response_relation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["ordinary_to_hyperaware_transformation", "temporal_expansion_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["reactive_to_complex_decision_growth", "survival_capacity_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["threat_activation_cycling", "awareness_calibration_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["evolutionary_adaptation_framework", "temporal_perception_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S078", "S034", "S020"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - normal_expanded_time_distinction
+    - temporal_perception_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - extreme_situation_survival_coupling
+    - threat_response_relation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - ordinary_to_hyperaware_transformation
+    - temporal_expansion_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - reactive_to_complex_decision_growth
+    - survival_capacity_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - threat_activation_cycling
+    - awareness_calibration_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - evolutionary_adaptation_framework
+    - temporal_perception_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S078
+- S034
+- S020
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.9
+    wood_beta: 0.85
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212845_1514491_Understanding+Time+Expansion+Experiences%3A+Evolutionary+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

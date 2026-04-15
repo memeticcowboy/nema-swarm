@@ -1,50 +1,156 @@
 ---
-term: "Sensemaking Mastery Framework"
-hex_tag: "S02E"
-series: "S"
-source_file: "1771907212489_469466_Mastering+Sensemaking+for+Success.md"
-encoded_at: "2026-03-05T19:30:00Z"
-description: "A comprehensive sensemaking framework encompassing six modalities — Sensemaking, Sense-Giving, Sense-Breaking, Sense-Demanding, Sense-Hiding, and Sense-Taking — examining how leaders and teams interpret complexity, guide interpretation, challenge frames, seek clarity, withhold information, and integrate perspectives within discourse and power dynamics."
-nemetic: "Φ(SenseMastery) = σ(making|breaking) ∘ ρ(giving|taking) ∘ λ(demanding|hiding) ∘ β(individual|team) ∘ δγ(frame|reframe) ∘ μ(discourse|power) + ε | :strategist"
-siml_encoding: "⟨making∣breaking⟩ ⊳ ⟨giving∣taking⟩ → ⟨demanding∣hiding⟩ ⊗ ⟨individual∣team⟩ ⇄ ⟨frame∣reframe⟩"
+term: Sensemaking Mastery Framework
+hex_tag: S02E
+series: S
+source_file: 1771907212489_469466_Mastering+Sensemaking+for+Success.md
+encoded_at: '2026-03-05T19:30:00Z'
+description: A comprehensive sensemaking framework encompassing six modalities — Sensemaking, Sense-Giving, Sense-Breaking, Sense-Demanding, Sense-Hiding, and Sense-Taking — examining how leaders and teams interpret complexity, guide interpretation, challenge frames, seek clarity, withhold information, and integrate perspectives within discourse and power dynamics.
+nemetic: Φ(SenseMastery) = σ(making|breaking) ∘ ρ(giving|taking) ∘ λ(demanding|hiding) ∘ β(individual|team) ∘ δγ(frame|reframe) ∘ μ(discourse|power) + ε | :strategist
+siml_encoding: ⟨making∣breaking⟩ ⊳ ⟨giving∣taking⟩ → ⟨demanding∣hiding⟩ ⊗ ⟨individual∣team⟩ ⇄ ⟨frame∣reframe⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: making / breaking
+      S: individual / team
+      R: giving / taking
+      P: demanding / hiding
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing sensemaking as meaning creation from sense-breaking as frame disruption)"
-    - "∂Φ/∂ρ (relating sense-giving as leadership guidance to sense-taking as perspective integration)"
-    - "∂Φ/∂λ (transforming ambiguity through sense-demanding and navigating information asymmetry through sense-hiding)"
-    - "∂Φ/∂β (growing from individual sensemaking capacity to coordinated team sensemaking)"
-    - "∂Φ/∂δγ (cycling between established frames and innovative reframes through sense-breaking loops)"
-    - "∂Φ/∂μ (structuring sensemaking within discourse patterns and power dynamics)"
-  Z_state: "strategist (the Strategist Cyborg archetype who integrates all six sensemaking modalities into adaptive leadership and personal growth)"
-  tendency: "σ/ρ → 0.83"
+  - ∂Φ/∂σ (distinguishing sensemaking as meaning creation from sense-breaking as frame disruption)
+  - ∂Φ/∂ρ (relating sense-giving as leadership guidance to sense-taking as perspective integration)
+  - ∂Φ/∂λ (transforming ambiguity through sense-demanding and navigating information asymmetry through sense-hiding)
+  - ∂Φ/∂β (growing from individual sensemaking capacity to coordinated team sensemaking)
+  - ∂Φ/∂δγ (cycling between established frames and innovative reframes through sense-breaking loops)
+  - ∂Φ/∂μ (structuring sensemaking within discourse patterns and power dynamics)
+  Z_state: permeable
+  z_note: strategist (the Strategist Cyborg archetype who integrates all six sensemaking modalities into adaptive leadership and personal growth)
+  tendency: σ/ρ → 0.83
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.88
-    aspects: ["distinguishing six distinct sensemaking modalities as separate cognitive operations", "separating meaning creation from meaning destruction as complementary processes"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - distinguishing six distinct sensemaking modalities as separate cognitive operations
+    - separating meaning creation from meaning destruction as complementary processes
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
-    aspects: ["relational flow between sense-giving leaders and sense-taking followers", "empathy and perspective integration as connective sensemaking practices"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - relational flow between sense-giving leaders and sense-taking followers
+    - empathy and perspective integration as connective sensemaking practices
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.82
-    aspects: ["sense-breaking as transformative disruption of existing interpretive frames", "sense-demanding as catalytic force compelling clarity from ambiguity"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - sense-breaking as transformative disruption of existing interpretive frames
+    - sense-demanding as catalytic force compelling clarity from ambiguity
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.78
-    aspects: ["personal growth through self-awareness and adaptability", "team sensemaking capacity growing through coordination and practice"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - personal growth through self-awareness and adaptability
+    - team sensemaking capacity growing through coordination and practice
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
-    aspects: ["cycling between frame construction and frame disruption as iterative sensemaking metabolism", "identity formation through repeated sensemaking cycles"]
-    daemon_correspondence: "Humavita"
+    emphasis: 0.8
+    aspects:
+    - cycling between frame construction and frame disruption as iterative sensemaking metabolism
+    - identity formation through repeated sensemaking cycles
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
-    aspects: ["discourse structures and power dynamics as the formal architecture of sensemaking", "sense-hiding as strategic structural control of information flow"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S00D_Sense_Making_Complex_Environments", "S00E_Sense_Making_Distorted_Information", "S026_MO4Matrix_Sensemaking_Framework", "S004_Mental_Models_Integrative_Thinking", "C003_km_cognitive_pyramid"]
+    aspects:
+    - discourse structures and power dynamics as the formal architecture of sensemaking
+    - sense-hiding as strategic structural control of information flow
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00D_Sense_Making_Complex_Environments
+- S00E_Sense_Making_Distorted_Information
+- S026_MO4Matrix_Sensemaking_Framework
+- S004_Mental_Models_Integrative_Thinking
+- C003_km_cognitive_pyramid
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.85
+    fire_lambda: 0.82
+    wood_beta: 0.78
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212489_469466_Mastering+Sensemaking+for+Success.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

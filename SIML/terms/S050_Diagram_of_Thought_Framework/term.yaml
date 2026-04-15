@@ -1,32 +1,155 @@
 ---
-term: "Diagram of Thought Framework"
-hex_tag: "S050"
-series: "S"
-source_file: "1771907212642_819621_Navigating+the+Mind%3A+Insights+on+the+Diagram-of-Thought+Framework.md"
-encoded_at: "2026-03-05T22:00:00Z"
-description: "The Diagram-of-Thought (DoT) framework models iterative reasoning in LLMs through directed acyclic graphs (DAGs), structuring propositions, critiques, refinements, and verifications into agentic architectures that mirror scientific reasoning and ensure logical consistency across complex inferential pathways."
-nemetic: "Φ(DoT) = σ(DAG_reasoning|linear_chain) ∘ ρ(critique_refinement_links|isolated_inference) ∘ λ(iterative_verification|single_pass) ∘ β(reasoning_depth_expansion|shallow_completion) ∘ δγ(propose_critique_refine_verify|static_output) ∘ μ(DAG_architecture|unstructured_generation) + ε | :verified_coherence"
-siml_encoding: "⟨proposition_node⟩ ⊳ ⟨critique_edge⟩ → ⟨refinement_iteration⟩ ⊗ ⟨verification_gate⟩ ⇄ ⟨coherent_reasoning_graph⟩"
+term: Diagram of Thought Framework
+hex_tag: S050
+series: S
+source_file: 1771907212642_819621_Navigating+the+Mind%3A+Insights+on+the+Diagram-of-Thought+Framework.md
+encoded_at: '2026-03-05T22:00:00Z'
+description: The Diagram-of-Thought (DoT) framework models iterative reasoning in LLMs through directed acyclic graphs (DAGs), structuring propositions, critiques, refinements, and verifications into agentic architectures that mirror scientific reasoning and ensure logical consistency across complex inferential pathways.
+nemetic: Φ(DoT) = σ(DAG_reasoning|linear_chain) ∘ ρ(critique_refinement_links|isolated_inference) ∘ λ(iterative_verification|single_pass) ∘ β(reasoning_depth_expansion|shallow_completion) ∘ δγ(propose_critique_refine_verify|static_output) ∘ μ(DAG_architecture|unstructured_generation) + ε | :verified_coherence
+siml_encoding: ⟨proposition_node⟩ ⊳ ⟨critique_edge⟩ → ⟨refinement_iteration⟩ ⊗ ⟨verification_gate⟩ ⇄ ⟨coherent_reasoning_graph⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: DAG_reasoning / linear_chain
+      S: reasoning_depth_expansion / shallow_completion
+      R: critique_refinement_links / isolated_inference
+      P: iterative_verification / single_pass
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing DAG-structured reasoning from linear chain-of-thought)"
-    - "∂Φ/∂ρ (critique-refinement linkages vs isolated inferential steps)"
-    - "∂Φ/∂λ (iterative verification transforming single-pass generation)"
-    - "∂Φ/∂β (reasoning depth expanding through successive refinement)"
-    - "∂Φ/∂δγ (cyclical propose-critique-refine-verify loops vs static output)"
-    - "∂Φ/∂μ (DAG architectural constraints ensuring structural coherence)"
-  Z_state: "verified_coherence — reasoning graph achieves stable logical consistency through completed verification cycles"
-  tendency: "μ → 0.85"
+  - ∂Φ/∂σ (distinguishing DAG-structured reasoning from linear chain-of-thought)
+  - ∂Φ/∂ρ (critique-refinement linkages vs isolated inferential steps)
+  - ∂Φ/∂λ (iterative verification transforming single-pass generation)
+  - ∂Φ/∂β (reasoning depth expanding through successive refinement)
+  - ∂Φ/∂δγ (cyclical propose-critique-refine-verify loops vs static output)
+  - ∂Φ/∂μ (DAG architectural constraints ensuring structural coherence)
+  Z_state: semi
+  z_note: verified_coherence — reasoning graph achieves stable logical consistency through completed verification cycles
+  tendency: μ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["DAG_vs_linear_distinction", "structured_reasoning_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["critique_refinement_links", "proposition_interdependency"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.76, aspects: ["iterative_verification", "reasoning_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.68, aspects: ["reasoning_depth_growth", "inferential_elaboration"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: ["propose_critique_refine_cycles", "verification_loops"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["DAG_architecture", "logical_consistency_scaffolding"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S041", "S039", "S04A", "S045"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - DAG_vs_linear_distinction
+    - structured_reasoning_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - critique_refinement_links
+    - proposition_interdependency
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.76
+    aspects:
+    - iterative_verification
+    - reasoning_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.68
+    aspects:
+    - reasoning_depth_growth
+    - inferential_elaboration
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - propose_critique_refine_cycles
+    - verification_loops
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - DAG_architecture
+    - logical_consistency_scaffolding
+    daemon_correspondence: Ferrosid
+related_terms:
+- S041
+- S039
+- S04A
+- S045
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.72
+    fire_lambda: 0.76
+    wood_beta: 0.68
+    earth_delta_gamma: 0.78
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212642_819621_Navigating+the+Mind%3A+Insights+on+the+Diagram-of-Thought+Framework.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

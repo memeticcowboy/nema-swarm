@@ -1,32 +1,151 @@
 ---
-term: "Experimental Unit Ontology"
-hex_tag: "S16C"
-series: "S"
-source_file: "1771907213606_2542839_Exploring+the+Experimental+Unit%3A+Ontology%2C+Feedback%2C+and+Evolution+in+Digital+and+Conceptual+Systems.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The Experimental Unit as living ontology — an ARG framework for conscious design that re-enchants attention. Simulation as governance, the golem-state as self-pacified system trading vitality for control, drift as built-in self-destruct preventing fossilization, and seduction as epistemic transformation where participant becomes God."
-nemetic: "Φ(ExpUnitOnt) = σ(re_enchantment|disenchantment) ∘ ρ(seduction|coercion) ∘ λ(drift|fossilization) ∘ β(recursive_feedback|static_hierarchy) ∘ δγ(embodied_participant|passive_observer) ∘ μ(simulation_governance|lawfare_control) + ε | :meta_game"
-siml_encoding: "⟨ARG_ontology⟩ ⊳ ⟨golem_state⟩ → ⟨drift_self_destruct⟩ ⊗ ⟨seduction_transformation⟩ ⇄ ⟨participant_becomes_God⟩"
+term: Experimental Unit Ontology
+hex_tag: S16C
+series: S
+source_file: 1771907213606_2542839_Exploring+the+Experimental+Unit%3A+Ontology%2C+Feedback%2C+and+Evolution+in+Digital+and+Conceptual+Systems.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The Experimental Unit as living ontology — an ARG framework for conscious design that re-enchants attention. Simulation as governance, the golem-state as self-pacified system trading vitality for control, drift as built-in self-destruct preventing fossilization, and seduction as epistemic transformation where participant becomes God.
+nemetic: Φ(ExpUnitOnt) = σ(re_enchantment|disenchantment) ∘ ρ(seduction|coercion) ∘ λ(drift|fossilization) ∘ β(recursive_feedback|static_hierarchy) ∘ δγ(embodied_participant|passive_observer) ∘ μ(simulation_governance|lawfare_control) + ε | :meta_game
+siml_encoding: ⟨ARG_ontology⟩ ⊳ ⟨golem_state⟩ → ⟨drift_self_destruct⟩ ⊗ ⟨seduction_transformation⟩ ⇄ ⟨participant_becomes_God⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: re_enchantment / disenchantment
+      S: recursive_feedback / static_hierarchy
+      R: seduction / coercion
+      P: drift / fossilization
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (re-enchantment of attention vs disenchantment through bureaucratic capture)"
-    - "∂Φ/∂ρ (seduction as epistemic pull vs coercion as compliance enforcement)"
-    - "∂Φ/∂λ (drift as creative self-destruct vs fossilization of fixed systems)"
-    - "∂Φ/∂β (recursive feedback between teaching and learning vs static hierarchy)"
-    - "∂Φ/∂δγ (embodied participant who reads and therefore plays vs passive observer)"
-    - "∂Φ/∂μ (simulation as governance architecture vs lawfare as weaponized legality)"
-  Z_state: "meta_game — the state where the experimental unit becomes self-aware as a game, the participant realizes they are playing by reading, and the boundary between designer and player dissolves into recursive co-creation"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (re-enchantment of attention vs disenchantment through bureaucratic capture)
+  - ∂Φ/∂ρ (seduction as epistemic pull vs coercion as compliance enforcement)
+  - ∂Φ/∂λ (drift as creative self-destruct vs fossilization of fixed systems)
+  - ∂Φ/∂β (recursive feedback between teaching and learning vs static hierarchy)
+  - ∂Φ/∂δγ (embodied participant who reads and therefore plays vs passive observer)
+  - ∂Φ/∂μ (simulation as governance architecture vs lawfare as weaponized legality)
+  Z_state: semi
+  z_note: meta_game — the state where the experimental unit becomes self-aware as a game, the participant realizes they are playing by reading, and the boundary between designer and player dissolves into recursive co-creation
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["re_enchantment", "disenchantment"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.78, aspects: ["seduction", "coercion"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["drift", "fossilization"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["recursive_feedback", "static_hierarchy"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["embodied_participant", "passive_observer"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["simulation_governance", "lawfare_control"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - re_enchantment
+    - disenchantment
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.78
+    aspects:
+    - seduction
+    - coercion
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - drift
+    - fossilization
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - recursive_feedback
+    - static_hierarchy
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - embodied_participant
+    - passive_observer
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - simulation_governance
+    - lawfare_control
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.78
+    fire_lambda: 0.8
+    wood_beta: 0.72
+    earth_delta_gamma: 0.68
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213606_2542839_Exploring+the+Experimental+Unit%3A+Ontology%2C+Feedback%2C+and+Evolution+in+Digital+and+Conceptual+Systems.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

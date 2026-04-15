@@ -1,37 +1,156 @@
 ---
-term: "Ecological Memory"
-hex_tag: "G017"
-series: "G"
-source_file: "23 - Ecological Memory.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The concept of a memory-bearing world where the environment stores cultural, spiritual, and ecological information in soil, stone, and living tissue. People forget but the world does not -- spiritcodes persist in landscape, recoverable through ritual anchoring and ecological listening."
-nemetic: "Φ(Ecological_Memory) = σ(memory_distinction|forgetting_vs_remembering_world) ∘ ρ(land_listener_resonance|reciprocal_environment_knowing) ∘ λ(recovery_ignition|ritual_anchoring_catalyst) ∘ β(archive_growth|persistent_memory_expansion) ∘ δγ(soil_stone_cycling|substrate_memory_metabolism) ∘ μ(spiritcode_structure|encoded_landscape_framework) + ε | :remembering"
-siml_encoding: "⟨human_amnesia, world_memory⟩ ⊳ ⟨forgetting, landscape_archive⟩ → ⟨disconnection, ritual_anchoring⟩ ⊗ ⟨erasure, persistence⟩ ⇄ ⟨ecological_listening, memory_recovery⟩"
+term: Ecological Memory
+hex_tag: G017
+series: G
+source_file: 23 - Ecological Memory.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The concept of a memory-bearing world where the environment stores cultural, spiritual, and ecological information in soil, stone, and living tissue. People forget but the world does not -- spiritcodes persist in landscape, recoverable through ritual anchoring and ecological listening.
+nemetic: Φ(Ecological_Memory) = σ(memory_distinction|forgetting_vs_remembering_world) ∘ ρ(land_listener_resonance|reciprocal_environment_knowing) ∘ λ(recovery_ignition|ritual_anchoring_catalyst) ∘ β(archive_growth|persistent_memory_expansion) ∘ δγ(soil_stone_cycling|substrate_memory_metabolism) ∘ μ(spiritcode_structure|encoded_landscape_framework) + ε | :remembering
+siml_encoding: ⟨human_amnesia, world_memory⟩ ⊳ ⟨forgetting, landscape_archive⟩ → ⟨disconnection, ritual_anchoring⟩ ⊗ ⟨erasure, persistence⟩ ⇄ ⟨ecological_listening, memory_recovery⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: memory_distinction / forgetting_vs_remembering_world
+      S: archive_growth / persistent_memory_expansion
+      R: land_listener_resonance / reciprocal_environment_knowing
+      P: recovery_ignition / ritual_anchoring_catalyst
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing the world that remembers from the humans who forget; perceiving the environment as active memory-bearer rather than passive backdrop"
-    - "∂Φ/∂ρ — Reciprocal knowing between listener and land; the environment knows more about us than we know about ourselves, creating a relational flow of ecological self-knowledge"
-    - "∂Φ/∂λ — Ritual anchoring as catalytic recovery protocol; the transformative practice that reconnects human awareness to the memory already stored in landscape"
-    - "∂Φ/∂β — The world-as-archive expanding its memory record continuously; persistent storage of spiritcodes, histories, and ecological information accumulating across deep time"
-    - "∂Φ/∂δγ — Soil, stone, cambium, and brine as memory substrates cycling information through geological and biological time; the metabolic ground of landscape memory"
-    - "∂Φ/∂μ — Spiritcodes as structured information encoded in landscape; the formal patterns through which the world preserves and transmits memory across generations"
-  Z_state: "remembering — the world continuously remembers what humans have forgotten; memory persists in landscape awaiting recovery through ecological listening and ritual anchoring"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ — Distinguishing the world that remembers from the humans who forget; perceiving the environment as active memory-bearer rather than passive backdrop
+  - ∂Φ/∂ρ — Reciprocal knowing between listener and land; the environment knows more about us than we know about ourselves, creating a relational flow of ecological self-knowledge
+  - ∂Φ/∂λ — Ritual anchoring as catalytic recovery protocol; the transformative practice that reconnects human awareness to the memory already stored in landscape
+  - ∂Φ/∂β — The world-as-archive expanding its memory record continuously; persistent storage of spiritcodes, histories, and ecological information accumulating across deep time
+  - ∂Φ/∂δγ — Soil, stone, cambium, and brine as memory substrates cycling information through geological and biological time; the metabolic ground of landscape memory
+  - ∂Φ/∂μ — Spiritcodes as structured information encoded in landscape; the formal patterns through which the world preserves and transmits memory across generations
+  Z_state: semi
+  z_note: remembering — the world continuously remembers what humans have forgotten; memory persists in landscape awaiting recovery through ecological listening and ritual anchoring
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["forgetting_remembering_distinction", "environment_as_active_archive"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["reciprocal_land_listener_knowing", "ecological_self_knowledge_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["ritual_anchoring_catalyst", "memory_recovery_ignition"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["world_archive_accumulation", "deep_time_memory_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["soil_stone_memory_substrate", "geological_biological_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["spiritcode_encoding_structure", "landscape_information_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - forgetting_remembering_distinction
+    - environment_as_active_archive
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - reciprocal_land_listener_knowing
+    - ecological_self_knowledge_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - ritual_anchoring_catalyst
+    - memory_recovery_ignition
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - world_archive_accumulation
+    - deep_time_memory_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - soil_stone_memory_substrate
+    - geological_biological_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - spiritcode_encoding_structure
+    - landscape_information_framework
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G00F_Myth_of_River_Control"
-  - "G015_Protector_Archetype_Ecology"
-  - "G016_Biosphere_Consciousness"
-  - "G012_Morton_Dark_Ecology"
-  - "G018_Agency_Detection_Ecological_Wisdom"
+- G00F_Myth_of_River_Control
+- G015_Protector_Archetype_Ecology
+- G016_Biosphere_Consciousness
+- G012_Morton_Dark_Ecology
+- G018_Agency_Detection_Ecological_Wisdom
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "23 - Ecological Memory.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

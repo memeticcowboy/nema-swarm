@@ -1,32 +1,151 @@
 ---
-term: "Brain Timing and Cognitive Ability"
-hex_tag: "S1C0"
-series: "S"
-source_file: "1771907213772_2662152_How+Brain+Timing+Influences+Cognitive+Ability.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Brain regions operate on different internal clocks (intrinsic neural timescales) reflecting how long a region holds information before moving on. People whose brain wiring better matches how different regions handle fast and slow information tend to show higher cognitive capacity. Effective cognition requires coordinating across multiple temporal scales."
-nemetic: "Φ(Brain Timing) = σ(fast_signal|slow_signal) ∘ ρ(region_coupling|white_matter_connectivity) ∘ λ(temporal_integration|cognitive_flexibility) ∘ β(neural_timescale_variation|capacity_growth) ∘ δγ(signal_holding|signal_release) ∘ μ(connectome_architecture|timescale_alignment) + ε | :temporal_coordination"
-siml_encoding: "⟨fast_signal, slow_signal⟩ ⊳ ⟨region_coupling, white_matter_connectivity⟩ → ⟨temporal_integration, cognitive_flexibility⟩ ⊗ ⟨neural_timescale_variation, capacity_growth⟩ ⇄ ⟨connectome_architecture, timescale_alignment⟩"
+term: Brain Timing and Cognitive Ability
+hex_tag: S1C0
+series: S
+source_file: 1771907213772_2662152_How+Brain+Timing+Influences+Cognitive+Ability.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Brain regions operate on different internal clocks (intrinsic neural timescales) reflecting how long a region holds information before moving on. People whose brain wiring better matches how different regions handle fast and slow information tend to show higher cognitive capacity. Effective cognition requires coordinating across multiple temporal scales.
+nemetic: Φ(Brain Timing) = σ(fast_signal|slow_signal) ∘ ρ(region_coupling|white_matter_connectivity) ∘ λ(temporal_integration|cognitive_flexibility) ∘ β(neural_timescale_variation|capacity_growth) ∘ δγ(signal_holding|signal_release) ∘ μ(connectome_architecture|timescale_alignment) + ε | :temporal_coordination
+siml_encoding: ⟨fast_signal, slow_signal⟩ ⊳ ⟨region_coupling, white_matter_connectivity⟩ → ⟨temporal_integration, cognitive_flexibility⟩ ⊗ ⟨neural_timescale_variation, capacity_growth⟩ ⇄ ⟨connectome_architecture, timescale_alignment⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: fast_signal / slow_signal
+      S: neural_timescale_variation / capacity_growth
+      R: region_coupling / white_matter_connectivity
+      P: temporal_integration / cognitive_flexibility
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes fast processing signals (immediate environmental response) from slow signals (deliberative reflection), revealing the temporal architecture of cognition."
-    - "∂Φ/∂ρ — Water maps the coupling between brain regions through white matter connectivity, enabling communication across different temporal scales."
-    - "∂Φ/∂λ — Fire transforms raw temporal variation into integrated cognitive flexibility, enabling swift transitions between tasks and adaptive behaviors."
-    - "∂Φ/∂β — Wood tracks how variation in intrinsic neural timescales correlates with cognitive capacity growth. Better alignment yields higher ability."
-    - "∂Φ/∂δγ — Earth cycles between holding information (maintaining signal) and releasing it (moving to next signal), the fundamental rhythm of intrinsic neural timescales."
-    - "∂Φ/∂μ — Metal structures the connectome architecture that aligns fast and slow processing regions, providing the wiring substrate for temporal coordination."
-  Z_state: "temporal_coordination — the successful synchronization of fast and slow neural timescales enabling effective cognitive processing across multiple temporal scales"
-  tendency: "μ → 0.78"
+  - ∂Φ/∂σ — Air distinguishes fast processing signals (immediate environmental response) from slow signals (deliberative reflection), revealing the temporal architecture of cognition.
+  - ∂Φ/∂ρ — Water maps the coupling between brain regions through white matter connectivity, enabling communication across different temporal scales.
+  - ∂Φ/∂λ — Fire transforms raw temporal variation into integrated cognitive flexibility, enabling swift transitions between tasks and adaptive behaviors.
+  - ∂Φ/∂β — Wood tracks how variation in intrinsic neural timescales correlates with cognitive capacity growth. Better alignment yields higher ability.
+  - ∂Φ/∂δγ — Earth cycles between holding information (maintaining signal) and releasing it (moving to next signal), the fundamental rhythm of intrinsic neural timescales.
+  - ∂Φ/∂μ — Metal structures the connectome architecture that aligns fast and slow processing regions, providing the wiring substrate for temporal coordination.
+  Z_state: semi
+  z_note: temporal_coordination — the successful synchronization of fast and slow neural timescales enabling effective cognitive processing across multiple temporal scales
+  tendency: μ → 0.78
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.72, aspects: ["fast-slow distinction", "temporal architecture"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.68, aspects: ["regional coupling", "white matter communication"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.62, aspects: ["temporal integration", "cognitive flexibility"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["timescale variation", "capacity correlation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["signal holding-release", "intrinsic rhythm"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.78, aspects: ["connectome structure", "wiring alignment"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.72
+    aspects:
+    - fast-slow distinction
+    - temporal architecture
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.68
+    aspects:
+    - regional coupling
+    - white matter communication
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.62
+    aspects:
+    - temporal integration
+    - cognitive flexibility
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - timescale variation
+    - capacity correlation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - signal holding-release
+    - intrinsic rhythm
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.78
+    aspects:
+    - connectome structure
+    - wiring alignment
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.72
+    water_rho: 0.68
+    fire_lambda: 0.62
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213772_2662152_How+Brain+Timing+Influences+Cognitive+Ability.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

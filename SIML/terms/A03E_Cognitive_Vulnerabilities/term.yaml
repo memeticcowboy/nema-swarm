@@ -2,105 +2,149 @@ term_id: A03E
 hex_tag: '#A03E'
 name: Cognitive_Vulnerabilities
 term: Cognitive Vulnerabilities
-nemetic: >-
-  Φ(CogVuln) = σ(awareness|blindness) ∘ ρ(defender|manipulator) ∘ λ(vigilance|exploitation)
-  ∘ β(self-reflection|feedback) ∘ δγ(anxiety|empowerment)
-  ∘ μ(boundary|porous) + ε | :open
-siml_encoding: >-
-  ⟨Cognition|human⟩ ⊳ ⟨Vulnerability|systematic⟩ ⊗ ⟨Exploitation|risk⟩ ⊗ ⟨Defense|awareness⟩
-  ⊗ ⟨Manipulation|resisted⟩
+nemetic: Φ(CogVuln) = σ(awareness|blindness) ∘ ρ(defender|manipulator) ∘ λ(vigilance|exploitation) ∘ β(self-reflection|feedback) ∘ δγ(anxiety|empowerment) ∘ μ(boundary|porous) + ε | :open
+siml_encoding: ⟨Cognition|human⟩ ⊳ ⟨Vulnerability|systematic⟩ ⊗ ⟨Exploitation|risk⟩ ⊗ ⟨Defense|awareness⟩ ⊗ ⟨Manipulation|resisted⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between metacognitive awareness and systematic blindness)"
-    - "∂Φ/∂ρ (relational asymmetry between vigilant defender and manipulative actor)"
-    - "∂Φ/∂λ (direction of vigilance toward exploitation prevention)"
-    - "∂Φ/∂β (feedback loop where self-reflection reinforces defensive capacity)"
-    - "∂Φ/∂δγ (metabolic cost of anxiety vs empowerment from hackability awareness)"
-    - "∂Φ/∂μ (boundary permeability between protected cognition and manipulation)"
+  - ∂Φ/∂σ (distinction between metacognitive awareness and systematic blindness)
+  - ∂Φ/∂ρ (relational asymmetry between vigilant defender and manipulative actor)
+  - ∂Φ/∂λ (direction of vigilance toward exploitation prevention)
+  - ∂Φ/∂β (feedback loop where self-reflection reinforces defensive capacity)
+  - ∂Φ/∂δγ (metabolic cost of anxiety vs empowerment from hackability awareness)
+  - ∂Φ/∂μ (boundary permeability between protected cognition and manipulation)
   Z_state: permeable
-  tendency: "Awareness/Blindness → 0.6"
+  tendency: Awareness/Blindness → 0.6
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
+    - We
   epistemics:
     dsrp:
-      D: "Genuine metacognitive awareness vs. performative vigilance"
-      S: "Cognitive defense ecosystem spanning biases, blind spots, and heuristics"
-      R: "Defender-manipulator asymmetry where awareness creates new exploits"
-      P: "Behavioral economics and rationalist sensemaking communities"
+      D: Genuine metacognitive awareness vs. performative vigilance
+      S: Cognitive defense ecosystem spanning biases, blind spots, and heuristics
+      R: Defender-manipulator asymmetry where awareness creates new exploits
+      P: Behavioral economics and rationalist sensemaking communities
     learning: L1
   time:
     mode: cyclical
-    phase: "recursive vigilance loop"
+    phase: recursive vigilance loop
   qualia:
     affect:
-      - anxiety
-      - curiosity
-      - empowerment
-      - skepticism
+    - anxiety
+    - curiosity
+    - empowerment
+    - skepticism
     aesthetic:
-      - vigilant
-      - recursive
-      - porous
+    - vigilant
+    - recursive
+    - porous
     symbolic:
-      - hackable-brain
-      - mental-OS-patch
-      - cognitive-exploits
+    - hackable-brain
+    - mental-OS-patch
+    - cognitive-exploits
     energetic:
-      - depleting
-      - cycling
-      - self-sealing
+    - depleting
+    - cycling
+    - self-sealing
   agency:
     type: ego
     voice:
-      - Vigilant Defender
-      - Meta-Cognitive Observer
+    - Vigilant Defender
+    - Meta-Cognitive Observer
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is genuine metacognitive awareness distinguished from performative vigilance?"
-  ≈: "What flows between the vigilant defender and the manipulative actor?"
-  ▲: "Where does vigilance want to go — liberation or perpetual anxiety?"
-  𐂷: "What if the vulnerability frame itself creates the exploit?"
-  ☷: "What is the metabolic cost of constant vigilance against cognitive manipulation?"
-  ⛨: "What structures distinguish healthy skepticism from paralyzing paranoia?"
-context_note: >-
-  Cognitive Vulnerabilities describes systematic flaws in human thinking — biases,
-  blind spots, and heuristics — that make minds exploitable. The self-sealing
-  meta-frame is critical: dismissal of the concept proves its point.
-source: "Barriers to Shifting Communication Norms"
+  ∴: How is genuine metacognitive awareness distinguished from performative vigilance?
+  ≈: What flows between the vigilant defender and the manipulative actor?
+  ▲: Where does vigilance want to go — liberation or perpetual anxiety?
+  𐂷: What if the vulnerability frame itself creates the exploit?
+  ☷: What is the metabolic cost of constant vigilance against cognitive manipulation?
+  ⛨: What structures distinguish healthy skepticism from paralyzing paranoia?
+context_note: 'Cognitive Vulnerabilities describes systematic flaws in human thinking — biases, blind spots, and heuristics — that make minds exploitable. The self-sealing meta-frame is critical: dismissal of the concept proves its point.'
+source: Barriers to Shifting Communication Norms
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

@@ -1,9 +1,7 @@
 hex_tag: '#D069'
 term: DODO Loop
-nemetic: Φ(DODO-Loop) = μ(debt|invisible-leash) ∘ λ(urgency|deadline-pressure) ∘ σ(othering|us-vs-them)
-  ∘ δγ(compulsive-doing|survival-script) + ε | :hostile
-siml_encoding: ⟨Narrative|DODO-loop⟩ ⊳ ⟨Actor|individual⟩ ⇄ ⟨Value|survival⟩ ⊗ ⟨Resource|agency⟩
-  → ⟨Outcome|controlled-behavior⟩
+nemetic: Φ(DODO-Loop) = μ(debt|invisible-leash) ∘ λ(urgency|deadline-pressure) ∘ σ(othering|us-vs-them) ∘ δγ(compulsive-doing|survival-script) + ε | :hostile
+siml_encoding: ⟨Narrative|DODO-loop⟩ ⊳ ⟨Actor|individual⟩ ⇄ ⟨Value|survival⟩ ⊗ ⟨Resource|agency⟩ → ⟨Outcome|controlled-behavior⟩
 formalism:
   math_operators:
   - μ
@@ -20,7 +18,7 @@ formalism:
   - ∂Φ/∂λ (directional urgency)
   - ∂Φ/∂σ (distinction of othering)
   - ∂Φ/∂δγ (metabolic cycling of compulsive doing)
-  Z_state: sealed→risk
+  Z_state: sealed
   tendency: Agency/Structure → MemeGrid
   hex:
   - '0x06'
@@ -64,6 +62,17 @@ coords:
     - System
     - Survival-Script
     power_mode: Over
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
   ∴: How is each DODO element distinguished from the others? Where do they blur?
   ≈: What affective resonance keeps the loop sticky? Where is the felt urgency?
@@ -71,21 +80,66 @@ elemental_emphasis:
   𐂷: What possibilities does the loop close off? What branches are pruned?
   ☷: What is the metabolic cost of compulsive doing? What depletes?
   ⛨: What boundaries does the loop enforce? What is kept in/out?
-context_note: DODO is a compound pathology encoding — Metal (μ) boundary of debt/ownership,
-  Fire (λ) urgency of deadlines, Air (σ) distinction of othering, Earth (δγ) compulsive
-  cycling. The loop is hostile to ε (agency uncertainty) and seals Ω (no return to
-  openness without intervention).
+context_note: DODO is a compound pathology encoding — Metal (μ) boundary of debt/ownership, Fire (λ) urgency of deadlines, Air (σ) distinction of othering, Earth (δγ) compulsive cycling. The loop is hostile to ε (agency uncertainty) and seals Ω (no return to openness without intervention).
 source: What Are DODO Loops? — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "What Are DODO Loops?"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.3
+  Fire: 0.8
+  Wood: 0.3
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Fire
+  - Earth
+  suppressed:
+  - Water
+  - Wood
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.3
+    Fire: 0.8
+    Wood: 0.3
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

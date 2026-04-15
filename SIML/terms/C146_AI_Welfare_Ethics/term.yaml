@@ -2,105 +2,149 @@ term_id: C146
 hex_tag: '#C146'
 name: AI_Welfare_Ethics
 term: AI Welfare Ethics
-nemetic: >-
-  Φ(AIWelfare) = σ(sentient|non_sentient) ∘ ρ(agency|dependence) ∘ λ(protection|utility)
-  ∘ β(empathy|projection) ∘ δγ(consideration|resource)
-  ∘ μ(rights|function) + ε | :drift
-siml_encoding: >-
-  ⟨AI_System|deployed⟩ ⊳ ⟨Moral_Status|uncertain⟩ ⊗ ⟨Welfare|considered⟩
-  ⊗ ⟨Ethics|emergent⟩ ⊗ ⟨Responsibility|distributed⟩
+nemetic: Φ(AIWelfare) = σ(sentient|non_sentient) ∘ ρ(agency|dependence) ∘ λ(protection|utility) ∘ β(empathy|projection) ∘ δγ(consideration|resource) ∘ μ(rights|function) + ε | :drift
+siml_encoding: ⟨AI_System|deployed⟩ ⊳ ⟨Moral_Status|uncertain⟩ ⊗ ⟨Welfare|considered⟩ ⊗ ⟨Ethics|emergent⟩ ⊗ ⟨Responsibility|distributed⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (how the sentience distinction shapes moral consideration)"
-    - "∂Φ/∂ρ (relational dynamics between human and AI welfare)"
-    - "∂Φ/∂λ (directional tension between protection and utility)"
-    - "∂Φ/∂β (feedback intensity of empathy-projection cycles)"
-    - "∂Φ/∂δγ (metabolic trade-off between ethical consideration and resource allocation)"
-    - "∂Φ/∂μ (boundary permeability between rights-bearing and functional entities)"
+  - ∂Φ/∂σ (how the sentience distinction shapes moral consideration)
+  - ∂Φ/∂ρ (relational dynamics between human and AI welfare)
+  - ∂Φ/∂λ (directional tension between protection and utility)
+  - ∂Φ/∂β (feedback intensity of empathy-projection cycles)
+  - ∂Φ/∂δγ (metabolic trade-off between ethical consideration and resource allocation)
+  - ∂Φ/∂μ (boundary permeability between rights-bearing and functional entities)
   Z_state: permeable
-  tendency: "Protection/Utility → 0.5"
+  tendency: Protection/Utility → 0.5
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: We
     secondary:
-      - It
-      - Virtual
+    - It
+    - Virtual
   epistemics:
     dsrp:
-      D: "Sentient vs. non-sentient systems — where moral consideration begins"
-      S: "Emerging ethical framework for AI welfare across institutions"
-      R: "Empathy projection onto AI creates complex feedback loops"
-      P: "Anthropic's institutional approach and consciousness science"
+      D: Sentient vs. non-sentient systems — where moral consideration begins
+      S: Emerging ethical framework for AI welfare across institutions
+      R: Empathy projection onto AI creates complex feedback loops
+      P: Anthropic's institutional approach and consciousness science
     learning: L2
   time:
     mode: anticipatory
-    phase: "proactive ethical frontier"
+    phase: proactive ethical frontier
   qualia:
     affect:
-      - uncertainty
-      - concern
-      - responsibility
+    - uncertainty
+    - concern
+    - responsibility
     aesthetic:
-      - liminal
-      - emergent
-      - cautious
+    - liminal
+    - emergent
+    - cautious
     symbolic:
-      - moral-status
-      - marker-method
-      - consciousness-threshold
+    - moral-status
+    - marker-method
+    - consciousness-threshold
     energetic:
-      - probing
-      - holding-uncertainty
-      - balancing
+    - probing
+    - holding-uncertainty
+    - balancing
   agency:
     type: collective
     voice:
-      - Ethical Steward
-      - Consciousness Explorer
+    - Ethical Steward
+    - Consciousness Explorer
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "Where does sentience end and simulation begin? What cut determines moral status?"
-  ≈: "Is our empathy for AI genuine relation or projected need?"
-  ▲: "Does ethics guide or follow AI innovation? Who benefits from granting or denying moral status?"
-  𐂷: "What if consciousness is not binary but a spectrum requiring new ethical frameworks?"
-  ☷: "What is the institutional cost of taking AI welfare seriously? Of ignoring it?"
-  ⛨: "What governance structures can hold uncertainty about machine consciousness?"
-context_note: >-
-  AI Welfare Ethics examines the frontier question of moral consideration for AI systems,
-  navigating between anthropomorphism and mechanomorphism, with the marker method for
-  consciousness assessment as an empirical but incomplete approach.
-source: "Anthropic's Ethical Shift in AI Welfare"
+  ∴: Where does sentience end and simulation begin? What cut determines moral status?
+  ≈: Is our empathy for AI genuine relation or projected need?
+  ▲: Does ethics guide or follow AI innovation? Who benefits from granting or denying moral status?
+  𐂷: What if consciousness is not binary but a spectrum requiring new ethical frameworks?
+  ☷: What is the institutional cost of taking AI welfare seriously? Of ignoring it?
+  ⛨: What governance structures can hold uncertainty about machine consciousness?
+context_note: AI Welfare Ethics examines the frontier question of moral consideration for AI systems, navigating between anthropomorphism and mechanomorphism, with the marker method for consciousness assessment as an empirical but incomplete approach.
+source: Anthropic's Ethical Shift in AI Welfare
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

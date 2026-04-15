@@ -1,12 +1,40 @@
 term_id: A011
 name: Conscious_Realism
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: perceptual distinction / adaptive cut
+      S: interface exploration / fitness payoff
+      R: agent resonance / conscious interaction
+      P: dynamics cycling / Markov evolution
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 element: Air
 phonetic_key: ☁/β
-description: Consciousness is fundamental reality; space-time and physical objects
-  are emergent interface, not ontological bedrock
-nemetic_string: Φ(Conscious_Realism) = β(interface-exploration|fitness-payoff) ∘ σ(perceptual-distinction|adaptive-cut)
-  ∘ ρ(agent-resonance|conscious-interaction) ∘ γ(dynamics-cycling|Markov-evolution)
-  + ε | :open
+description: Consciousness is fundamental reality; space-time and physical objects are emergent interface, not ontological bedrock
+nemetic_string: Φ(Conscious_Realism) = β(interface-exploration|fitness-payoff) ∘ σ(perceptual-distinction|adaptive-cut) ∘ ρ(agent-resonance|conscious-interaction) ∘ γ(dynamics-cycling|Markov-evolution) + ε | :open
 operators:
   primary: β
   secondary:
@@ -17,45 +45,97 @@ operators:
   - λ
   - μ
   - δ
-z_state: :open
+Z_state: permeable
 tendency: Exploration/Distinction → 1
 habitat_affinity: 8_TRANSCENDENT / 5_THINKING
 daemon_correspondence: W (witness) primary, β secondary
-core_claim: Space-time and physical objects are not fundamental; change, information,
-  consciousness are more basic
-physical_world_as: User interface for deeper informational and conscious dynamics,
-  not ontological bedrock
-interface_theory: Evolution selects for fitness-payoff interfaces, not veridical depictions
-  of reality
+core_claim: Space-time and physical objects are not fundamental; change, information, consciousness are more basic
+physical_world_as: User interface for deeper informational and conscious dynamics, not ontological bedrock
+interface_theory: Evolution selects for fitness-payoff interfaces, not veridical depictions of reality
 what_we_see: Adaptive 'desktop,' not underlying structure
 brain_as: Part of the interface, not the thing doing the 'seeing'
-conscious_agents: Interact; what we call 'brains' and 'perceptions' are rendered symbols
-  in that interface
-mathematical_framework: Markovian systems whose states and interactions evolve over
-  time
-fusion_combination: Agents form higher-order agents integrating multiple streams of
-  experience
-polytopes: Set of stochastic matrices forms geometric objects encoding possible evolutions
-  of conscious agents over 'time'
-nemetic_translation: Perception as compression—fitness-payoff interface rather than
-  veridical representation; space-time as bow-tie bottleneck geometry
-key_insight: We don't see reality as it is; we see what evolution shaped us to see—an
-  interface, not the truth
+conscious_agents: Interact; what we call 'brains' and 'perceptions' are rendered symbols in that interface
+mathematical_framework: Markovian systems whose states and interactions evolve over time
+fusion_combination: Agents form higher-order agents integrating multiple streams of experience
+polytopes: Set of stochastic matrices forms geometric objects encoding possible evolutions of conscious agents over 'time'
+nemetic_translation: Perception as compression—fitness-payoff interface rather than veridical representation; space-time as bow-tie bottleneck geometry
+key_insight: We don't see reality as it is; we see what evolution shaped us to see—an interface, not the truth
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T07:45:00+08:00'
   encoder: Kimi Claw
-  source_material: Donald Hoffman—conscious realism, interface theory of perception,
-    conscious agents, space-time as user interface
+  source_material: Donald Hoffman—conscious realism, interface theory of perception, conscious agents, space-time as user interface
   total_terms: 2
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: Donald Hoffman—conscious realism, interface theory of perception, conscious agents, space-time as user interface
+formalism:
+  math_operators:
+  - β
+  - σ
+  - ρ
+  - γ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂β (interface-exploration|fitness-payoff)
+  - ∂Φ/∂σ (perceptual-distinction|adaptive-cut)
+  - ∂Φ/∂ρ (agent-resonance|conscious-interaction)
+  - ∂Φ/∂γ (dynamics-cycling|Markov-evolution)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.9
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Wood
+  suppressed:
+  - Fire
+  - Metal
+  - Meta
+  weights: *id002
+provenance:
+  author: "Donald Hoffman"
+  work: "conscious realism, interface theory of perception, conscious agents, space-time as user interface"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

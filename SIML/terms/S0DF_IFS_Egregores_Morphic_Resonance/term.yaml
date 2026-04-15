@@ -1,32 +1,155 @@
 ---
-term: "IFS, Egregores & Morphic Resonance"
-hex_tag: "S0DF"
-series: "S"
-source_file: "1771907213158_2155175_IFS%2C+Egregores%2C+and+Morphic+Resonance%3A+A+Pattern+Language+for+Understanding+Psychic+Systems.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Pattern language connecting IFS parts, egregores, and morphic resonance. IFS parts as morphic echoes — personal psychological constructs that resonate with broader transpersonal archetypes. Egregores as social morphic fields — psychic attractors strengthened by belief and repetition. Self in IFS as 'field coherence stabilizer' attuned to healing fields. Healing = shifting from fragmented resonance to coherent Self-energy resonance."
-nemetic: "Φ(IFS, Egregores & Morphic Resonance) = σ(personal_construct|transpersonal_archetype) ∘ ρ(individual_psyche|collective_field) ∘ λ(fragmented_resonance|coherent_resonance) ∘ β(egregoric_pull|Self_leadership) ∘ δγ(material_psychology|subtle_energy) ∘ μ(IFS_framework|morphic_field_framework) + ε | :coherent_Self_resonance"
-siml_encoding: "⟨personal_transpersonal_distinction, psychic_epistemics⟩ ⊳ ⟨individual_collective_field_mapping, resonance_web⟩ → ⟨fragmented_to_coherent_resonance_transformation, healing_catalysis⟩ ⊗ ⟨egregoric_to_Self_leadership_maturation, field_coherence_growth⟩ ⇄ ⟨material_subtle_energy_cycling, psychic_renewal⟩"
+term: IFS, Egregores & Morphic Resonance
+hex_tag: S0DF
+series: S
+source_file: 1771907213158_2155175_IFS%2C+Egregores%2C+and+Morphic+Resonance%3A+A+Pattern+Language+for+Understanding+Psychic+Systems.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Pattern language connecting IFS parts, egregores, and morphic resonance. IFS parts as morphic echoes — personal psychological constructs that resonate with broader transpersonal archetypes. Egregores as social morphic fields — psychic attractors strengthened by belief and repetition. Self in IFS as 'field coherence stabilizer' attuned to healing fields. Healing = shifting from fragmented resonance to coherent Self-energy resonance.
+nemetic: Φ(IFS, Egregores & Morphic Resonance) = σ(personal_construct|transpersonal_archetype) ∘ ρ(individual_psyche|collective_field) ∘ λ(fragmented_resonance|coherent_resonance) ∘ β(egregoric_pull|Self_leadership) ∘ δγ(material_psychology|subtle_energy) ∘ μ(IFS_framework|morphic_field_framework) + ε | :coherent_Self_resonance
+siml_encoding: ⟨personal_transpersonal_distinction, psychic_epistemics⟩ ⊳ ⟨individual_collective_field_mapping, resonance_web⟩ → ⟨fragmented_to_coherent_resonance_transformation, healing_catalysis⟩ ⊗ ⟨egregoric_to_Self_leadership_maturation, field_coherence_growth⟩ ⇄ ⟨material_subtle_energy_cycling, psychic_renewal⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: personal_construct / transpersonal_archetype
+      S: egregoric_pull / Self_leadership
+      R: individual_psyche / collective_field
+      P: fragmented_resonance / coherent_resonance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing personal psychological constructs from transpersonal archetypal resonances)"
-    - "∂Φ/∂ρ (relating individual psyche dynamics to collective morphic field influences)"
-    - "∂Φ/∂λ (transforming fragmented resonance patterns into coherent Self-energy resonance)"
-    - "∂Φ/∂β (growth from egregoric pull and capture to Self-leadership as field coherence stabilizer)"
-    - "∂Φ/∂δγ (cycling between material psychological understanding and subtle energy field dynamics)"
-    - "∂Φ/∂μ (structural integration of IFS therapeutic framework with morphic field theory)"
-  Z_state: "coherent_Self_resonance — healing understood as shifting from fragmented resonance (parts captured by egregoric morphic fields) to coherent Self-energy resonance; the Self functions as field coherence stabilizer attuned to healing fields beyond personal history"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing personal psychological constructs from transpersonal archetypal resonances)
+  - ∂Φ/∂ρ (relating individual psyche dynamics to collective morphic field influences)
+  - ∂Φ/∂λ (transforming fragmented resonance patterns into coherent Self-energy resonance)
+  - ∂Φ/∂β (growth from egregoric pull and capture to Self-leadership as field coherence stabilizer)
+  - ∂Φ/∂δγ (cycling between material psychological understanding and subtle energy field dynamics)
+  - ∂Φ/∂μ (structural integration of IFS therapeutic framework with morphic field theory)
+  Z_state: semi
+  z_note: coherent_Self_resonance — healing understood as shifting from fragmented resonance (parts captured by egregoric morphic fields) to coherent Self-energy resonance; the Self functions as field coherence stabilizer attuned to healing fields beyond personal history
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["personal_vs_transpersonal_distinction", "construct_archetype_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["individual_collective_field_mapping", "psychic_resonance_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["fragmented_to_coherent_resonance_transformation", "healing_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["egregoric_to_Self_leadership_growth", "field_coherence_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["material_subtle_energy_cycling", "psychological_field_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["IFS_morphic_field_structural_integration", "pattern_language_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0D5", "S0DD", "S0DE", "S044"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - personal_vs_transpersonal_distinction
+    - construct_archetype_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - individual_collective_field_mapping
+    - psychic_resonance_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - fragmented_to_coherent_resonance_transformation
+    - healing_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - egregoric_to_Self_leadership_growth
+    - field_coherence_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - material_subtle_energy_cycling
+    - psychological_field_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - IFS_morphic_field_structural_integration
+    - pattern_language_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0D5
+- S0DD
+- S0DE
+- S044
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213158_2155175_IFS%2C+Egregores%2C+and+Morphic+Resonance%3A+A+Pattern+Language+for+Understanding+Psychic+Systems.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

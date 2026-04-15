@@ -1,32 +1,151 @@
 ---
-term: "Knowmad's Journey: Embracing Ambiguity"
-hex_tag: "S1B7"
-series: "S"
-source_file: "1771907213754_2644836_Embracing+Ambiguity+and+Tension+in+the+Knowmad%27s+Journey+of+Progress.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The tension between honoring ambiguity and delivering clear outcomes reflects two operating systems running in the same body. The instrumental system measures safety in progress and utility; the post-instrumental system measures safety in aliveness and relational depth. The knowmad-to-unknowmad threshold is crossed when non-productive time is no longer treated as dangerous."
-nemetic: "Φ(Knowmad Journey) = σ(productivity|aliveness) ∘ ρ(utility|relational_depth) ∘ λ(optimization|drift) ∘ β(measurable_progress|spacious_becoming) ∘ δγ(delivery_pressure|protected_space) ∘ μ(agenda|open_ended) + ε | :unknowmad_threshold"
-siml_encoding: "⟨productivity, aliveness⟩ ⊳ ⟨utility, relational_depth⟩ → ⟨optimization, drift⟩ ⊗ ⟨measurable_progress, spacious_becoming⟩ ⇄ ⟨agenda, open_ended⟩"
+term: 'Knowmad''s Journey: Embracing Ambiguity'
+hex_tag: S1B7
+series: S
+source_file: 1771907213754_2644836_Embracing+Ambiguity+and+Tension+in+the+Knowmad%27s+Journey+of+Progress.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The tension between honoring ambiguity and delivering clear outcomes reflects two operating systems running in the same body. The instrumental system measures safety in progress and utility; the post-instrumental system measures safety in aliveness and relational depth. The knowmad-to-unknowmad threshold is crossed when non-productive time is no longer treated as dangerous.
+nemetic: Φ(Knowmad Journey) = σ(productivity|aliveness) ∘ ρ(utility|relational_depth) ∘ λ(optimization|drift) ∘ β(measurable_progress|spacious_becoming) ∘ δγ(delivery_pressure|protected_space) ∘ μ(agenda|open_ended) + ε | :unknowmad_threshold
+siml_encoding: ⟨productivity, aliveness⟩ ⊳ ⟨utility, relational_depth⟩ → ⟨optimization, drift⟩ ⊗ ⟨measurable_progress, spacious_becoming⟩ ⇄ ⟨agenda, open_ended⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: productivity / aliveness
+      S: measurable_progress / spacious_becoming
+      R: utility / relational_depth
+      P: optimization / drift
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes the instrumental operating system (safety through progress, visibility, utility) from the post-instrumental one (safety through aliveness, relational depth, protected space for the unknowable)."
-    - "∂Φ/∂ρ — Water maps the relational shift from value-adding utility to depth-seeking presence. Conversations where one deliberately does not try to add value become the practice ground."
-    - "∂Φ/∂λ — Fire transforms anxiety from evidence of failure into evidence of proximity to the threshold. The unease is the hand cramping as it learns to hold more lightly."
-    - "∂Φ/∂β — Wood grows through rhythmic oscillation between focused delivery and deliberate non-delivery, neither phase claiming exclusive validity."
-    - "∂Φ/∂δγ — Earth cycles between delivery pressure and protected space. Progress is redistributed toward knowing that cannot be measured, captured, or rushed."
-    - "∂Φ/∂μ — Metal structures the reframe of progress itself: from skill/network/impact accumulation to richer relating, deeper reverence, less colonized interiority."
-  Z_state: "unknowmad_threshold — the transition point where non-productive time is no longer experienced as dangerous and ambiguity becomes a feature rather than a bug"
-  tendency: "λ → 0.80"
+  - ∂Φ/∂σ — Air distinguishes the instrumental operating system (safety through progress, visibility, utility) from the post-instrumental one (safety through aliveness, relational depth, protected space for the unknowable).
+  - ∂Φ/∂ρ — Water maps the relational shift from value-adding utility to depth-seeking presence. Conversations where one deliberately does not try to add value become the practice ground.
+  - ∂Φ/∂λ — Fire transforms anxiety from evidence of failure into evidence of proximity to the threshold. The unease is the hand cramping as it learns to hold more lightly.
+  - ∂Φ/∂β — Wood grows through rhythmic oscillation between focused delivery and deliberate non-delivery, neither phase claiming exclusive validity.
+  - ∂Φ/∂δγ — Earth cycles between delivery pressure and protected space. Progress is redistributed toward knowing that cannot be measured, captured, or rushed.
+  - '∂Φ/∂μ — Metal structures the reframe of progress itself: from skill/network/impact accumulation to richer relating, deeper reverence, less colonized interiority.'
+  Z_state: semi
+  z_note: unknowmad_threshold — the transition point where non-productive time is no longer experienced as dangerous and ambiguity becomes a feature rather than a bug
+  tendency: λ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["two operating systems", "instrumental vs post-instrumental"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["relational depth", "presence over utility"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["anxiety reframe", "threshold crossing"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.68, aspects: ["rhythmic oscillation", "spacious becoming"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.65, aspects: ["delivery-drift cycling", "protected space"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.60, aspects: ["progress redefinition", "decolonized interiority"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - two operating systems
+    - instrumental vs post-instrumental
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - relational depth
+    - presence over utility
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - anxiety reframe
+    - threshold crossing
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.68
+    aspects:
+    - rhythmic oscillation
+    - spacious becoming
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+    - delivery-drift cycling
+    - protected space
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.6
+    aspects:
+    - progress redefinition
+    - decolonized interiority
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.72
+    fire_lambda: 0.8
+    wood_beta: 0.68
+    earth_delta_gamma: 0.65
+    metal_mu: 0.6
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213754_2644836_Embracing+Ambiguity+and+Tension+in+the+Knowmad%27s+Journey+of+Progress.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

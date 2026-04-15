@@ -1,50 +1,156 @@
 ---
-term: "WEIRDO Curiosity Framework"
-hex_tag: "S030"
-series: "S"
-source_file: "1771907212526_532261_WEIRDO+Backronym.md"
-encoded_at: "2026-03-05T19:30:00Z"
-description: "A backronym framework for personal development through six dimensions of engaged curiosity: Wonder (curiosity/fascination), Explore (investigate/discover), Innovate (create/originate), Reflect (contemplate/ponder), Dare (risk/venture), and Optimize (enhance/refine), each with dual sub-aspects driving systematic growth."
-nemetic: "Φ(WEIRDO) = σ(wonder|routine) ∘ ρ(explore|ignore) ∘ λ(innovate|replicate) ∘ β(reflect|react) ∘ δγ(dare|retreat) ∘ μ(optimize|stagnate) + ε | :curiosity"
-siml_encoding: "⟨wonder∣routine⟩ ⊳ ⟨explore∣ignore⟩ → ⟨innovate∣replicate⟩ ⊗ ⟨reflect∣react⟩ ⇄ ⟨dare∣retreat⟩"
+term: WEIRDO Curiosity Framework
+hex_tag: S030
+series: S
+source_file: 1771907212526_532261_WEIRDO+Backronym.md
+encoded_at: '2026-03-05T19:30:00Z'
+description: 'A backronym framework for personal development through six dimensions of engaged curiosity: Wonder (curiosity/fascination), Explore (investigate/discover), Innovate (create/originate), Reflect (contemplate/ponder), Dare (risk/venture), and Optimize (enhance/refine), each with dual sub-aspects driving systematic growth.'
+nemetic: Φ(WEIRDO) = σ(wonder|routine) ∘ ρ(explore|ignore) ∘ λ(innovate|replicate) ∘ β(reflect|react) ∘ δγ(dare|retreat) ∘ μ(optimize|stagnate) + ε | :curiosity
+siml_encoding: ⟨wonder∣routine⟩ ⊳ ⟨explore∣ignore⟩ → ⟨innovate∣replicate⟩ ⊗ ⟨reflect∣react⟩ ⇄ ⟨dare∣retreat⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: wonder / routine
+      S: reflect / react
+      R: explore / ignore
+      P: innovate / replicate
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing wonder and fascination from routine disengagement)"
-    - "∂Φ/∂ρ (relating exploration and discovery to the world through investigation)"
-    - "∂Φ/∂λ (transforming existing patterns through innovation and origination)"
-    - "∂Φ/∂β (growing through contemplation and reflective pondering)"
-    - "∂Φ/∂δγ (cycling between daring risk-taking and ventures into the unknown)"
-    - "∂Φ/∂μ (structuring enhancement and refinement through systematic optimization)"
-  Z_state: "curiosity (the animating force that drives all six WEIRDO dimensions, the fundamental orientation toward engagement rather than indifference)"
-  tendency: "σ/λ → 0.82"
+  - ∂Φ/∂σ (distinguishing wonder and fascination from routine disengagement)
+  - ∂Φ/∂ρ (relating exploration and discovery to the world through investigation)
+  - ∂Φ/∂λ (transforming existing patterns through innovation and origination)
+  - ∂Φ/∂β (growing through contemplation and reflective pondering)
+  - ∂Φ/∂δγ (cycling between daring risk-taking and ventures into the unknown)
+  - ∂Φ/∂μ (structuring enhancement and refinement through systematic optimization)
+  Z_state: semi
+  z_note: curiosity (the animating force that drives all six WEIRDO dimensions, the fundamental orientation toward engagement rather than indifference)
+  tendency: σ/λ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.88
-    aspects: ["Wonder as the initial distinction that separates the curious from the indifferent", "Curiosity and Fascination as dual sub-aspects of perceptual awakening"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - Wonder as the initial distinction that separates the curious from the indifferent
+    - Curiosity and Fascination as dual sub-aspects of perceptual awakening
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.82
-    aspects: ["Explore as relational engagement with the world through investigation and discovery", "Investigate and Discover as dual sub-aspects of connective inquiry"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - Explore as relational engagement with the world through investigation and discovery
+    - Investigate and Discover as dual sub-aspects of connective inquiry
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
-    aspects: ["Innovate as transformative creation and origination of the new", "Create and Originate as dual sub-aspects of generative fire"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - Innovate as transformative creation and origination of the new
+    - Create and Originate as dual sub-aspects of generative fire
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
-    aspects: ["Reflect as contemplative growth through pondering and self-examination", "Contemplate and Ponder as dual sub-aspects of organic intellectual development"]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.8
+    aspects:
+    - Reflect as contemplative growth through pondering and self-examination
+    - Contemplate and Ponder as dual sub-aspects of organic intellectual development
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.78
-    aspects: ["Dare as the cycling between risk and safety that drives experiential learning", "Risk and Venture as dual sub-aspects of courageous engagement with uncertainty"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - Dare as the cycling between risk and safety that drives experiential learning
+    - Risk and Venture as dual sub-aspects of courageous engagement with uncertainty
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
-    aspects: ["Optimize as structural refinement and systematic enhancement of practice", "Enhance and Refine as dual sub-aspects of disciplined improvement"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S001_SCAMPER", "S008_Metacognitive_Strategies", "S00A_Slow_Practices_Flow_State", "S023_Student_Learning_Cycle_NEME", "S02E_Sensemaking_Mastery_Framework"]
+    emphasis: 0.8
+    aspects:
+    - Optimize as structural refinement and systematic enhancement of practice
+    - Enhance and Refine as dual sub-aspects of disciplined improvement
+    daemon_correspondence: Ferrosid
+related_terms:
+- S001_SCAMPER
+- S008_Metacognitive_Strategies
+- S00A_Slow_Practices_Flow_State
+- S023_Student_Learning_Cycle_NEME
+- S02E_Sensemaking_Mastery_Framework
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.82
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.78
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212526_532261_WEIRDO+Backronym.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

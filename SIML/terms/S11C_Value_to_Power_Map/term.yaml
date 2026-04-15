@@ -1,50 +1,162 @@
 ---
-term: "Value-to-Power Map"
-hex_tag: "S11C"
-series: "S"
-source_file: "1771907213345_2314230_Exploring+the+Value-to-Power+Map%3A+Emotional+Dynamics+and+Relational+Empowerment.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Maps value-to-power dynamics for the Freedom to Connect archetype (Empath Cyborg), identifying eight distinct power modalities: Power For (compassionate service), Power Within (relational self-sovereignty), Power Through (relational emergence), Power To (emotional initiative), Power Against (defensive empathy), Power As (affective performance), Pseudo Power (simulated empathy without risk), and Null Power (emotional disconnection/collapse). Each modality specifies activated values, conversion mechanisms, expression patterns, and use-cases, creating a comprehensive taxonomy of how relational values convert into actionable power."
-nemetic: "Φ(Value-to-Power Map) = σ(relational_awareness|empathic_perception) ∘ ρ(emotional_current|compassionate_flow) ∘ λ(power_activation|initiative_will) ∘ β(relational_emergence|connective_growth) ∘ δγ(self_sovereignty|grounded_autonomy) ∘ μ(modality_structure|taxonomic_precision) + ε | :empathic_sovereignty"
-siml_encoding: "⟨σ:relational_perception⟩ ⊳ ⟨ρ:compassionate_flow⟩ → ⟨λ:power_activation⟩ ⊗ ⟨β:relational_emergence⟩ ⇄ ⟨δγ:self_sovereignty|μ:modality_taxonomy⟩"
+term: Value-to-Power Map
+hex_tag: S11C
+series: S
+source_file: 1771907213345_2314230_Exploring+the+Value-to-Power+Map%3A+Emotional+Dynamics+and+Relational+Empowerment.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Maps value-to-power dynamics for the Freedom to Connect archetype (Empath Cyborg), identifying eight distinct power modalities: Power For (compassionate service), Power Within (relational self-sovereignty), Power Through (relational emergence), Power To (emotional initiative), Power Against (defensive empathy), Power As (affective performance), Pseudo Power (simulated empathy without risk), and Null Power (emotional disconnection/collapse). Each modality specifies activated values, conversion mechanisms, expression patterns, and use-cases, creating a comprehensive taxonomy of how relational values convert into actionable power.'
+nemetic: Φ(Value-to-Power Map) = σ(relational_awareness|empathic_perception) ∘ ρ(emotional_current|compassionate_flow) ∘ λ(power_activation|initiative_will) ∘ β(relational_emergence|connective_growth) ∘ δγ(self_sovereignty|grounded_autonomy) ∘ μ(modality_structure|taxonomic_precision) + ε | :empathic_sovereignty
+siml_encoding: ⟨σ:relational_perception⟩ ⊳ ⟨ρ:compassionate_flow⟩ → ⟨λ:power_activation⟩ ⊗ ⟨β:relational_emergence⟩ ⇄ ⟨δγ:self_sovereignty|μ:modality_taxonomy⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: relational_awareness / empathic_perception
+      S: relational_emergence / connective_growth
+      R: emotional_current / compassionate_flow
+      P: power_activation / initiative_will
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (relational awareness perceives emotional fields and empathic signals across connective space)"
-    - "∂Φ/∂ρ (emotional current flows through compassionate channels converting felt-sense into relational action)"
-    - "∂Φ/∂λ (power activation ignites when values convert into initiative — emotional agency becomes willful engagement)"
-    - "∂Φ/∂β (relational emergence grows as connection itself becomes a source of power irreducible to individual capacity)"
-    - "∂Φ/∂δγ (self-sovereignty grounds relational power in autonomous selfhood preventing codependent collapse)"
-    - "∂Φ/∂μ (modality structure provides taxonomic precision across eight power forms from genuine to null)"
-  Z_state: "empathic_sovereignty"
-  tendency: "ρ → 0.81"
+  - ∂Φ/∂σ (relational awareness perceives emotional fields and empathic signals across connective space)
+  - ∂Φ/∂ρ (emotional current flows through compassionate channels converting felt-sense into relational action)
+  - ∂Φ/∂λ (power activation ignites when values convert into initiative — emotional agency becomes willful engagement)
+  - ∂Φ/∂β (relational emergence grows as connection itself becomes a source of power irreducible to individual capacity)
+  - ∂Φ/∂δγ (self-sovereignty grounds relational power in autonomous selfhood preventing codependent collapse)
+  - ∂Φ/∂μ (modality structure provides taxonomic precision across eight power forms from genuine to null)
+  Z_state: semi
+  tendency: ρ → 0.81
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.76
-    aspects: ["relational_awareness", "empathic_perception", "emotional_field_reading", "connective_intelligence"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - relational_awareness
+    - empathic_perception
+    - emotional_field_reading
+    - connective_intelligence
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.88
-    aspects: ["emotional_current", "compassionate_flow", "empathic_resonance", "relational_feeling"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - emotional_current
+    - compassionate_flow
+    - empathic_resonance
+    - relational_feeling
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.72
-    aspects: ["power_activation", "emotional_initiative", "assertive_empathy", "defensive_boundary"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - power_activation
+    - emotional_initiative
+    - assertive_empathy
+    - defensive_boundary
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.77
-    aspects: ["relational_emergence", "connective_growth", "co_creative_development", "mutual_flourishing"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - relational_emergence
+    - connective_growth
+    - co_creative_development
+    - mutual_flourishing
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
-    aspects: ["self_sovereignty", "grounded_autonomy", "identity_coherence", "codependency_resistance"]
-    daemon_correspondence: "Humavita"
+    emphasis: 0.8
+    aspects:
+    - self_sovereignty
+    - grounded_autonomy
+    - identity_coherence
+    - codependency_resistance
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.74
-    aspects: ["modality_taxonomy", "power_classification", "diagnostic_precision", "structural_differentiation"]
-    daemon_correspondence: "Ferrosid"
+    aspects:
+    - modality_taxonomy
+    - power_classification
+    - diagnostic_precision
+    - structural_differentiation
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.76
+    water_rho: 0.88
+    fire_lambda: 0.72
+    wood_beta: 0.77
+    earth_delta_gamma: 0.8
+    metal_mu: 0.74
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213345_2314230_Exploring+the+Value-to-Power+Map%3A+Emotional+Dynamics+and+Relational+Empowerment.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

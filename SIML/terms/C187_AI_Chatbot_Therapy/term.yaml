@@ -2,73 +2,145 @@ term_id: C187
 hex_tag: '#C187'
 name: AI_Chatbot_Therapy
 term: AI Chatbot Therapy
-nemetic: >-
-  Φ(AIChatbotTherapy) = σ(access|intimacy) ∘ ρ(empathy|algorithm) ∘
-  λ(immediacy|depth) ∘ β(bridge|chasm) ∘ δγ(virtual|embodied) ∘
-  μ(cost|value) + ε | :drift
-siml_encoding: >-
-  ⟨AI|conversational⟩ ⊳ ⟨Therapy|simulated⟩ ⇄ ⟨Access|scaled⟩ ⊗
-  ⟨Empathy|algorithmic⟩ → ⟨Outcome|liminal⟩
+nemetic: Φ(AIChatbotTherapy) = σ(access|intimacy) ∘ ρ(empathy|algorithm) ∘ λ(immediacy|depth) ∘ β(bridge|chasm) ∘ δγ(virtual|embodied) ∘ μ(cost|value) + ε | :drift
+siml_encoding: ⟨AI|conversational⟩ ⊳ ⟨Therapy|simulated⟩ ⇄ ⟨Access|scaled⟩ ⊗ ⟨Empathy|algorithmic⟩ → ⟨Outcome|liminal⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between access to care and genuine intimate connection)"
-    - "∂Φ/∂ρ (relational flow of simulated empathy through algorithmic patterns)"
-    - "∂Φ/∂λ (directional tension between immediate availability and therapeutic depth)"
-    - "∂Φ/∂β (organic bridging to mental health care while widening human disconnection)"
-    - "∂Φ/∂δγ (grounding gap between virtual presence and embodied therapeutic relationship)"
-    - "∂Φ/∂μ (structural tension between reduced cost and devalued therapeutic alliance)"
+  - ∂Φ/∂σ (distinction between access to care and genuine intimate connection)
+  - ∂Φ/∂ρ (relational flow of simulated empathy through algorithmic patterns)
+  - ∂Φ/∂λ (directional tension between immediate availability and therapeutic depth)
+  - ∂Φ/∂β (organic bridging to mental health care while widening human disconnection)
+  - ∂Φ/∂δγ (grounding gap between virtual presence and embodied therapeutic relationship)
+  - ∂Φ/∂μ (structural tension between reduced cost and devalued therapeutic alliance)
   Z_state: semi
-  tendency: "Access/Depth → 0.50"
-  hex: ['0x01', '0x87']
+  tendency: Access/Depth → 0.50
+  hex:
+  - '0x01'
+  - '0x87'
 coords:
   ontology:
     primary: It
-    secondary: [I, We]
+    secondary:
+    - I
+    - We
   epistemics:
     dsrp:
-      D: "AI therapy vs. human therapy; synthetic empathy vs. genuine empathy"
-      S: "Mental health care ecosystem with AI-mediated intervention layer"
-      R: "User distress → chatbot interaction → symptom management → referral or dependence"
-      P: "Patient, therapist, AI developer, mental health policy maker"
+      D: AI therapy vs. human therapy; synthetic empathy vs. genuine empathy
+      S: Mental health care ecosystem with AI-mediated intervention layer
+      R: User distress → chatbot interaction → symptom management → referral or dependence
+      P: Patient, therapist, AI developer, mental health policy maker
     learning: L2
   time:
     mode: anticipatory
-    phase: "liminal threshold — between innovation and ethical boundary"
+    phase: liminal threshold — between innovation and ethical boundary
   qualia:
-    affect: [hope, unease, ambivalence]
-    aesthetic: [liminal, clinical, accessible]
-    symbolic: [mirror, bridge, screen]
-    energetic: [immediate, shallow-deep, scalable]
+    affect:
+    - hope
+    - unease
+    - ambivalence
+    aesthetic:
+    - liminal
+    - clinical
+    - accessible
+    symbolic:
+    - mirror
+    - bridge
+    - screen
+    energetic:
+    - immediate
+    - shallow-deep
+    - scalable
   agency:
     type: collective
-    voice: [The Help-Seeker, The Algorithmic Listener]
+    voice:
+    - The Help-Seeker
+    - The Algorithmic Listener
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_emphasis:
-  ∴: "How do we distinguish AI-mediated support from genuine therapeutic relationship?"
-  ≈: "What flows through algorithmic empathy that resonates or fails to resonate?"
-  ▲: "What is lost in depth when immediacy and availability are prioritized?"
-  𐂷: "How can AI serve as a bridge to care rather than a replacement for it?"
-  ☷: "What grounds therapeutic effectiveness in embodied presence that virtual cannot replicate?"
-  ⛨: "What structural boundaries define where AI support ends and human therapy must begin?"
-context_note: >-
-  The emerging practice of using AI-powered conversational agents to provide
-  mental health support, existing in the liminal space between technological
-  promise and human need. AI chatbots can offer CBT-based interventions and
-  immediate accessibility while raising concerns about therapeutic depth,
-  dependency risk, and the irreducibility of embodied human connection in healing.
-source: "newatlas.com; 1771907212977_1863856_.md"
+  ∴: How do we distinguish AI-mediated support from genuine therapeutic relationship?
+  ≈: What flows through algorithmic empathy that resonates or fails to resonate?
+  ▲: What is lost in depth when immediacy and availability are prioritized?
+  𐂷: How can AI serve as a bridge to care rather than a replacement for it?
+  ☷: What grounds therapeutic effectiveness in embodied presence that virtual cannot replicate?
+  ⛨: What structural boundaries define where AI support ends and human therapy must begin?
+context_note: The emerging practice of using AI-powered conversational agents to provide mental health support, existing in the liminal space between technological promise and human need. AI chatbots can offer CBT-based interventions and immediate accessibility while raising concerns about therapeutic depth, dependency risk, and the irreducibility of embodied human connection in healing.
+source: newatlas.com; 1771907212977_1863856_.md
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: ambiguous
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

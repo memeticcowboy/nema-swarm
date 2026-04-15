@@ -2,93 +2,145 @@ term_id: A028
 hex_tag: '#A028'
 name: Source_Monitoring_Error
 term: Source Monitoring Error
-nemetic: >-
-  Φ(SourceMonitor) = σ(internal|external) ∘ ρ(memory-origin|confused)
-  ∘ λ(attribution|misdirected) ∘ β(belief|reinforced)
-  ∘ δγ(absorption|heightened) ∘ μ(reality-boundary|permeable) + ε | :open
-siml_encoding: >-
-  ⟨Memory|formed⟩ ⊳ ⟨Source|ambiguous⟩ → ⟨Origin|misattributed⟩
-  ⊗ ⟨Experience|internal⟩ ⇄ ⟨Content|external⟩ → ⟨Belief|false⟩
+nemetic: Φ(SourceMonitor) = σ(internal|external) ∘ ρ(memory-origin|confused) ∘ λ(attribution|misdirected) ∘ β(belief|reinforced) ∘ δγ(absorption|heightened) ∘ μ(reality-boundary|permeable) + ε | :open
+siml_encoding: ⟨Memory|formed⟩ ⊳ ⟨Source|ambiguous⟩ → ⟨Origin|misattributed⟩ ⊗ ⟨Experience|internal⟩ ⇄ ⟨Content|external⟩ → ⟨Belief|false⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between internally and externally generated content)"
-    - "∂Φ/∂ρ (confusion about the relational origin of memories)"
-    - "∂Φ/∂λ (direction of attribution toward personal experience)"
-    - "∂Φ/∂β (feedback loop reinforcing false beliefs)"
-    - "∂Φ/∂δγ (heightened absorption enabling vivid imagination)"
-    - "∂Φ/∂μ (permeable boundary between reality and imagination)"
-  Z_state: "permeable (can be corrected through source verification)"
-  tendency: "Imagination/Reality → 0.6 (strong imagination, weaker reality monitoring)"
+  - ∂Φ/∂σ (distinction between internally and externally generated content)
+  - ∂Φ/∂ρ (confusion about the relational origin of memories)
+  - ∂Φ/∂λ (direction of attribution toward personal experience)
+  - ∂Φ/∂β (feedback loop reinforcing false beliefs)
+  - ∂Φ/∂δγ (heightened absorption enabling vivid imagination)
+  - ∂Φ/∂μ (permeable boundary between reality and imagination)
+  Z_state: permeable
+  z_note: permeable (can be corrected through source verification)
+  tendency: Imagination/Reality → 0.6 (strong imagination, weaker reality monitoring)
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
   epistemics:
     dsrp:
-      D: "Internally generated content vs externally derived information; imagination vs perception"
-      S: "Memory encoding and retrieval ecology — sleep, trauma, suggestion, media saturation"
-      R: "Source ⇄ content; imagination ⇄ perception; personal experience ⇄ cultural narrative"
-      P: "Cognitive psychologist, eyewitness researcher, trauma therapist, AI safety researcher"
+      D: Internally generated content vs externally derived information; imagination vs perception
+      S: Memory encoding and retrieval ecology — sleep, trauma, suggestion, media saturation
+      R: Source ⇄ content; imagination ⇄ perception; personal experience ⇄ cultural narrative
+      P: Cognitive psychologist, eyewitness researcher, trauma therapist, AI safety researcher
     learning: L1
   agency:
     type: ego
     power_mode: Against
   time:
     mode: layered
-    phase: "retrospective — errors emerge during memory retrieval, not encoding"
+    phase: retrospective — errors emerge during memory retrieval, not encoding
   qualia:
     affect:
-      - confused
-      - convinced
-      - vulnerable
+    - confused
+    - convinced
+    - vulnerable
     aesthetic:
-      - blurred
-      - dreamlike
-      - overlapping
+    - blurred
+    - dreamlike
+    - overlapping
     symbolic:
-      - hall of mirrors
-      - palimpsest
-      - ghost trace
+    - hall of mirrors
+    - palimpsest
+    - ghost trace
     energetic:
-      - permeable
-      - absorptive
+    - permeable
+    - absorptive
   coherence:
     state: fragmented
     loop: single
     transcontext: med
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Micro-level mechanisms (absorption, dissociation, suggestion) carry more causal information than macro-level descriptions
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How is a genuine memory distinguished from an imagined one? What cut reveals the true source?"
-  ≈: "What flows between internal imagination and external media? What resonance blurs their boundaries?"
-  ▲: "Where does the drive for meaning direct memory attribution? What direction does the need for explanation take?"
-  𐂷: "What if source confusion reveals creative capacity rather than deficit? What narratives might be consciously constructed?"
-  ☷: "What's the metabolic cost of maintaining vigilance against memory distortion? What sustains reality monitoring?"
-  ⛨: "What structures enable accurate source monitoring? What boundaries protect memory integrity?"
-context_note: >-
-  Source Monitoring Error is a cognitive failure in which the origin of a memory is incorrectly
-  identified — confusing internally generated content (imagination, dreams, thoughts) with
-  externally derived information (perception, media, others' narratives). This error underlies
-  phenomena from alien abduction beliefs to false eyewitness testimony. The error follows
-  predictable patterns shaped by absorption, dissociation, emotional needs, and cultural
-  narrative availability. In AI contexts, source monitoring errors become increasingly
-  dangerous as AI-generated content becomes indistinguishable from human creation.
+  ∴: How is a genuine memory distinguished from an imagined one? What cut reveals the true source?
+  ≈: What flows between internal imagination and external media? What resonance blurs their boundaries?
+  ▲: Where does the drive for meaning direct memory attribution? What direction does the need for explanation take?
+  𐂷: What if source confusion reveals creative capacity rather than deficit? What narratives might be consciously constructed?
+  ☷: What's the metabolic cost of maintaining vigilance against memory distortion? What sustains reality monitoring?
+  ⛨: What structures enable accurate source monitoring? What boundaries protect memory integrity?
+context_note: Source Monitoring Error is a cognitive failure in which the origin of a memory is incorrectly identified — confusing internally generated content (imagination, dreams, thoughts) with externally derived information (perception, media, others' narratives). This error underlies phenomena from alien abduction beliefs to false eyewitness testimony. The error follows predictable patterns shaped by absorption, dissociation, emotional needs, and cultural narrative availability. In AI contexts, source monitoring errors become increasingly dangerous as AI-generated content becomes indistinguishable from human creation.
 source: Consolidated from 1 insight(s)
-source_file: "Psychology+Behind+Alien+Abduction+Beliefs.md"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Micro-level mechanisms (absorption, dissociation, suggestion) carry more causal information than macro-level descriptions"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+source_file: Psychology+Behind+Alien+Abduction+Beliefs.md
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  author: "Source Monitoring Error"
+  work: "Psychology+Behind+Alien+Abduction+Beliefs.md"
+  source_file: "Psychology+Behind+Alien+Abduction+Beliefs.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

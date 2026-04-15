@@ -1,10 +1,7 @@
 hex_tag: '#WO005'
 term: Bodhi Tree (Buddhist Enlightenment)
-nemetic: Φ(Bodhi-Tree) = μ(sacred-site|enlightenment-structure) ∘ ρ(spiritual-resonance|Buddha's-awakening)
-  ∘ β(inner-possibility|liberation-path) ∘ δγ(cyclical-continuity|sacred-groves) +
-  ε | :pure
-siml_encoding: ⟨Site|Bodhi-tree⟩ ⊳ ⟨Actor|seeker⟩ ⇄ ⟨Value|enlightenment⟩ ⊗ ⟨Narrative|Buddha's-awakening⟩
-  → ⟨Outcome|liberation⟩
+nemetic: Φ(Bodhi-Tree) = μ(sacred-site|enlightenment-structure) ∘ ρ(spiritual-resonance|Buddha's-awakening) ∘ β(inner-possibility|liberation-path) ∘ δγ(cyclical-continuity|sacred-groves) + ε | :pure
+siml_encoding: ⟨Site|Bodhi-tree⟩ ⊳ ⟨Actor|seeker⟩ ⇄ ⟨Value|enlightenment⟩ ⊗ ⟨Narrative|Buddha's-awakening⟩ → ⟨Outcome|liberation⟩
 formalism:
   math_operators:
   - μ
@@ -67,6 +64,17 @@ coords:
     - Site of Awakening
     - Enlightenment Witness
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is the Bodhi tree distinguished from ordinary peepul trees?
   ≈: What resonance does Buddha's awakening carry?
@@ -74,23 +82,66 @@ elemental_emphasis:
   𐂷: What possibilities open under the Bodhi tree?
   ☷: How does the Bodhi site's sacredness cycle through pilgrimage?
   ⛨: What boundaries separate the sacred site from ordinary space?
-context_note: 'The Bodhi Tree represents Wood as enlightenment site—not just any tree
-  but THE tree where Siddhartha became Buddha. Key insight: Ficus religiosa is common,
-  but THIS tree is sacred through event (Buddha''s awakening), not essence. This is
-  μ (structure) as historical specificity—place matters. The resonance (ρ) draws seekers
-  across centuries. Other sacred Indian trees (Banyan, Panchavati) show Wood as distributed
-  sacred network, not single site.'
+context_note: 'The Bodhi Tree represents Wood as enlightenment site—not just any tree but THE tree where Siddhartha became Buddha. Key insight: Ficus religiosa is common, but THIS tree is sacred through event (Buddha''s awakening), not essence. This is μ (structure) as historical specificity—place matters. The resonance (ρ) draws seekers across centuries. Other sacred Indian trees (Banyan, Panchavati) show Wood as distributed sacred network, not single site.'
 source: Wood in Ancient Philosophical and Indigenous Worldviews — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Wood in Ancient Philosophical and Indigenous Worldviews"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Wood
+  - Earth
+  suppressed:
+  - Air
+  - Fire
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.8
+    Fire: 0.3
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

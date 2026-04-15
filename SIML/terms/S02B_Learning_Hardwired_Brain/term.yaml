@@ -1,50 +1,156 @@
 ---
-term: "Learning Hardwired in Human Brain"
-hex_tag: "S02B"
-series: "S"
-source_file: "1771907212461_303123_Learning+Hardwired+in+Human+Brain.md"
-encoded_at: "2026-03-05T19:10:00Z"
-description: "The concept that learning is a hardwired function of the human brain, exploring the interplay between genetic and memetic evolution where memes act as brain 'viruses' spreading through neural networks, with implications for education, therapy, early childhood development, and lifelong learning culture."
-nemetic: "Φ(LearnHardwire) = σ(hardwired|learned) ∘ ρ(genetic|memetic) ∘ λ(instinct|culture) ∘ β(childhood|lifelong) ∘ δγ(meme|brain) ∘ μ(neural|highway) + ε | :ecosystem"
-siml_encoding: "⟨hardwired∣learned⟩ ⊳ ⟨genetic∣memetic⟩ → ⟨instinct∣culture⟩ ⊗ ⟨childhood∣lifelong⟩ ⇄ ⟨meme∣brain⟩"
+term: Learning Hardwired in Human Brain
+hex_tag: S02B
+series: S
+source_file: 1771907212461_303123_Learning+Hardwired+in+Human+Brain.md
+encoded_at: '2026-03-05T19:10:00Z'
+description: The concept that learning is a hardwired function of the human brain, exploring the interplay between genetic and memetic evolution where memes act as brain 'viruses' spreading through neural networks, with implications for education, therapy, early childhood development, and lifelong learning culture.
+nemetic: Φ(LearnHardwire) = σ(hardwired|learned) ∘ ρ(genetic|memetic) ∘ λ(instinct|culture) ∘ β(childhood|lifelong) ∘ δγ(meme|brain) ∘ μ(neural|highway) + ε | :ecosystem
+siml_encoding: ⟨hardwired∣learned⟩ ⊳ ⟨genetic∣memetic⟩ → ⟨instinct∣culture⟩ ⊗ ⟨childhood∣lifelong⟩ ⇄ ⟨meme∣brain⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: hardwired / learned
+      S: childhood / lifelong
+      R: genetic / memetic
+      P: instinct / culture
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing hardwired innate behaviors from learned acquired behaviors)"
-    - "∂Φ/∂ρ (relating genetic evolution to memetic evolution as intertwined selection systems)"
-    - "∂Φ/∂λ (transforming instinctual responses through cultural meme acquisition)"
-    - "∂Φ/∂β (growing cognitive capacity from early childhood critical periods through lifelong learning)"
-    - "∂Φ/∂δγ (cycling memes through brains like introduced species in an ecosystem)"
-    - "∂Φ/∂μ (structuring neural connections as highway systems carrying memetic traffic)"
-  Z_state: "ecosystem (the brain as ecosystem where memes act like introduced species, neural connections as highway systems, memes as cultural currency)"
-  tendency: "β/δγ → 0.81"
+  - ∂Φ/∂σ (distinguishing hardwired innate behaviors from learned acquired behaviors)
+  - ∂Φ/∂ρ (relating genetic evolution to memetic evolution as intertwined selection systems)
+  - ∂Φ/∂λ (transforming instinctual responses through cultural meme acquisition)
+  - ∂Φ/∂β (growing cognitive capacity from early childhood critical periods through lifelong learning)
+  - ∂Φ/∂δγ (cycling memes through brains like introduced species in an ecosystem)
+  - ∂Φ/∂μ (structuring neural connections as highway systems carrying memetic traffic)
+  Z_state: semi
+  z_note: ecosystem (the brain as ecosystem where memes act like introduced species, neural connections as highway systems, memes as cultural currency)
+  tendency: β/δγ → 0.81
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
-    aspects: ["distinguishing hardwired behaviors from learned behaviors", "Darwin's dog example illustrating innate vs acquired responses"]
-    daemon_correspondence: "Aerunik"
+    emphasis: 0.8
+    aspects:
+    - distinguishing hardwired behaviors from learned behaviors
+    - Darwin's dog example illustrating innate vs acquired responses
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
-    aspects: ["genetic-memetic evolution interplay as co-evolving systems", "memes spreading through brain like viruses through relational transmission"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - genetic-memetic evolution interplay as co-evolving systems
+    - memes spreading through brain like viruses through relational transmission
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
-    aspects: ["educational revolution through customized learning approaches", "memetic engineering designing memes for public health transformation"]
-    daemon_correspondence: "Jvalion"
+    emphasis: 0.8
+    aspects:
+    - educational revolution through customized learning approaches
+    - memetic engineering designing memes for public health transformation
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.90
-    aspects: ["early childhood brain gardening during critical periods", "lifelong learning culture as continuous cognitive growth"]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.9
+    aspects:
+    - early childhood brain gardening during critical periods
+    - lifelong learning culture as continuous cognitive growth
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
-    aspects: ["memes cycling through brain ecosystems like introduced species", "memes as cultural currency circulating through neural economies"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - memes cycling through brain ecosystems like introduced species
+    - memes as cultural currency circulating through neural economies
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
-    aspects: ["neural connections structured as highway systems", "cognitive-behavioral therapeutic frameworks updated through memetic understanding"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S025_Systemic_Divergence_Neural_Adaptation", "S028_Cognitive_Fractals", "S029_Social_Evolution_Consciousness", "S02A_Minds_As_Relationships", "C003_km_cognitive_pyramid"]
+    emphasis: 0.7
+    aspects:
+    - neural connections structured as highway systems
+    - cognitive-behavioral therapeutic frameworks updated through memetic understanding
+    daemon_correspondence: Ferrosid
+related_terms:
+- S025_Systemic_Divergence_Neural_Adaptation
+- S028_Cognitive_Fractals
+- S029_Social_Evolution_Consciousness
+- S02A_Minds_As_Relationships
+- C003_km_cognitive_pyramid
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.8
+    wood_beta: 0.9
+    earth_delta_gamma: 0.85
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212461_303123_Learning+Hardwired+in+Human+Brain.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Awe and the Sublime"
-hex_tag: "S055"
-series: "S"
-source_file: "1771907212653_849746_Exploring+Awe+and+the+Sublime.md"
-encoded_at: "2026-03-05T22:00:00Z"
-description: "The relationship between awe and the sublime as interconnected psychological-philosophical phenomena sharing qualities of profound vastness and complexity, with distinct characteristics in their emotional and cognitive effects, providing a framework for interdisciplinary study of experiences that exceed ordinary comprehension."
-nemetic: "Φ(AweSublime) = σ(sublime_transcendence|ordinary_experience) ∘ ρ(awe_wonder_connection|detached_analysis) ∘ λ(perceptual_overwhelm|bounded_cognition) ∘ β(expanded_consciousness|habitual_perception) ∘ δγ(encounter_overwhelm_integrate|static_worldview) ∘ μ(interdisciplinary_framework|single_discipline_lens) + ε | :luminous_vastness"
-siml_encoding: "⟨vastness_encounter⟩ ⊳ ⟨cognitive_overwhelm⟩ → ⟨awe_response⟩ ⊗ ⟨sublime_transcendence⟩ ⇄ ⟨expanded_comprehension⟩"
+term: Awe and the Sublime
+hex_tag: S055
+series: S
+source_file: 1771907212653_849746_Exploring+Awe+and+the+Sublime.md
+encoded_at: '2026-03-05T22:00:00Z'
+description: The relationship between awe and the sublime as interconnected psychological-philosophical phenomena sharing qualities of profound vastness and complexity, with distinct characteristics in their emotional and cognitive effects, providing a framework for interdisciplinary study of experiences that exceed ordinary comprehension.
+nemetic: Φ(AweSublime) = σ(sublime_transcendence|ordinary_experience) ∘ ρ(awe_wonder_connection|detached_analysis) ∘ λ(perceptual_overwhelm|bounded_cognition) ∘ β(expanded_consciousness|habitual_perception) ∘ δγ(encounter_overwhelm_integrate|static_worldview) ∘ μ(interdisciplinary_framework|single_discipline_lens) + ε | :luminous_vastness
+siml_encoding: ⟨vastness_encounter⟩ ⊳ ⟨cognitive_overwhelm⟩ → ⟨awe_response⟩ ⊗ ⟨sublime_transcendence⟩ ⇄ ⟨expanded_comprehension⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: sublime_transcendence / ordinary_experience
+      S: expanded_consciousness / habitual_perception
+      R: awe_wonder_connection / detached_analysis
+      P: perceptual_overwhelm / bounded_cognition
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing sublime transcendence from ordinary experience)"
-    - "∂Φ/∂ρ (awe-wonder connective response vs detached analysis)"
-    - "∂Φ/∂λ (perceptual overwhelm transforming bounded cognition)"
-    - "∂Φ/∂β (consciousness expanding beyond habitual perception)"
-    - "∂Φ/∂δγ (encounter-overwhelm-integrate cycles vs static worldview)"
-    - "∂Φ/∂μ (interdisciplinary framework vs single-discipline lens)"
-  Z_state: "luminous_vastness — consciousness rests in sustained apprehension of that which exceeds comprehension"
-  tendency: "λ → 0.84"
+  - ∂Φ/∂σ (distinguishing sublime transcendence from ordinary experience)
+  - ∂Φ/∂ρ (awe-wonder connective response vs detached analysis)
+  - ∂Φ/∂λ (perceptual overwhelm transforming bounded cognition)
+  - ∂Φ/∂β (consciousness expanding beyond habitual perception)
+  - ∂Φ/∂δγ (encounter-overwhelm-integrate cycles vs static worldview)
+  - ∂Φ/∂μ (interdisciplinary framework vs single-discipline lens)
+  Z_state: semi
+  z_note: luminous_vastness — consciousness rests in sustained apprehension of that which exceeds comprehension
+  tendency: λ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["sublime_ordinary_distinction", "vastness_recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.76, aspects: ["awe_wonder_connection", "emotional_resonance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.84, aspects: ["perceptual_overwhelm", "cognitive_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["consciousness_expansion", "perceptual_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.66, aspects: ["encounter_integration_cycles", "experiential_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.72, aspects: ["interdisciplinary_framework", "analytical_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S028", "S047", "S039", "S053"]
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - sublime_ordinary_distinction
+    - vastness_recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.76
+    aspects:
+    - awe_wonder_connection
+    - emotional_resonance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.84
+    aspects:
+    - perceptual_overwhelm
+    - cognitive_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - consciousness_expansion
+    - perceptual_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.66
+    aspects:
+    - encounter_integration_cycles
+    - experiential_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.72
+    aspects:
+    - interdisciplinary_framework
+    - analytical_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- S028
+- S047
+- S039
+- S053
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.76
+    fire_lambda: 0.84
+    wood_beta: 0.7
+    earth_delta_gamma: 0.66
+    metal_mu: 0.72
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212653_849746_Exploring+Awe+and+the+Sublime.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

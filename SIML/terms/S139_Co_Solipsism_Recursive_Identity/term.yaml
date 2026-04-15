@@ -1,32 +1,151 @@
 ---
-term: "Co-Solipsism Recursive Identity"
-hex_tag: "S139"
-series: "S"
-source_file: "1771907213418_2381568_Co-Solipsism%3A+Recursive+Identity+Loop+of+Self%2FOther.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Co-solipsism as productive paradox — a cognitive knot reflecting the recursive structure of memetic entanglement. Tension between radical inwardness (solipsism) and mutual resonance (co-). I only ever experience others through myself, yet my sense of self is patterned by others. Not claiming truth but enacting philosophical performance — memetically dramatizing the recursive identity loop between self and other."
-nemetic: "Φ(Co-Solipsism Recursive Identity) = σ(self_experience|other_patterning) ∘ ρ(radical_inwardness|mutual_resonance) ∘ λ(solipsistic_closure|co_relational_opening) ∘ β(simple_ego|recursively_entangled_identity) ∘ δγ(self_construction|other_absorption) ∘ μ(paradox_dissolution|productive_knot) + ε | :recursive_identity_loop"
-siml_encoding: "⟨self_other_distinction, recursive_discernment⟩ ⊳ ⟨inwardness_resonance_relating, entanglement_web⟩ → ⟨closure_opening_catalysis, paradox_transformation⟩ ⊗ ⟨ego_entanglement_growth, recursive_expansion⟩ ⇄ ⟨construction_absorption_cycling, identity_loop_rhythm⟩"
+term: Co-Solipsism Recursive Identity
+hex_tag: S139
+series: S
+source_file: 1771907213418_2381568_Co-Solipsism%3A+Recursive+Identity+Loop+of+Self%2FOther.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Co-solipsism as productive paradox — a cognitive knot reflecting the recursive structure of memetic entanglement. Tension between radical inwardness (solipsism) and mutual resonance (co-). I only ever experience others through myself, yet my sense of self is patterned by others. Not claiming truth but enacting philosophical performance — memetically dramatizing the recursive identity loop between self and other.
+nemetic: Φ(Co-Solipsism Recursive Identity) = σ(self_experience|other_patterning) ∘ ρ(radical_inwardness|mutual_resonance) ∘ λ(solipsistic_closure|co_relational_opening) ∘ β(simple_ego|recursively_entangled_identity) ∘ δγ(self_construction|other_absorption) ∘ μ(paradox_dissolution|productive_knot) + ε | :recursive_identity_loop
+siml_encoding: ⟨self_other_distinction, recursive_discernment⟩ ⊳ ⟨inwardness_resonance_relating, entanglement_web⟩ → ⟨closure_opening_catalysis, paradox_transformation⟩ ⊗ ⟨ego_entanglement_growth, recursive_expansion⟩ ⇄ ⟨construction_absorption_cycling, identity_loop_rhythm⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: self_experience / other_patterning
+      S: simple_ego / recursively_entangled_identity
+      R: radical_inwardness / mutual_resonance
+      P: solipsistic_closure / co_relational_opening
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing self-experience from other-patterning — the discernment that I only ever experience others through my own cognitive apparatus, yet my cognitive apparatus is itself patterned by others, creating an irreducible recursive distinction)"
-    - "∂Φ/∂ρ (relating radical inwardness to mutual resonance — the relational tension between solipsistic closure (all experience is mine) and co-relational opening (my experience is shaped by yours), where neither pole can be abandoned without collapsing the paradox)"
-    - "∂Φ/∂λ (transforming solipsistic closure into co-relational opening and back — the catalytic oscillation where each encounter with the other reinforces both that I am inescapably alone in my experience and that my aloneness is constituted by others)"
-    - "∂Φ/∂β (growth from simple ego to recursively entangled identity — the developmental expansion where identity reveals itself as not a starting point but a product of recursive loops between self-construction and other-absorption)"
-    - "∂Φ/∂δγ (cycling between self-construction and other-absorption — the grounding oscillation between actively constructing a self-narrative and passively absorbing the patterns of others who shape that narrative, each moment of selfhood being both authored and inherited)"
-    - "∂Φ/∂μ (structural architecture of the productive knot — the framework mapping how co-solipsism resists dissolution into either pure solipsism or pure intersubjectivity, maintaining the paradox as a generative philosophical performance rather than seeking resolution)"
-  Z_state: "recursive_identity_loop — co-solipsism names the productive paradox where self and other are recursively entangled; I experience others only through myself yet am patterned by others; this is not a truth claim but a philosophical performance memetically dramatizing the irreducible loop between self-construction and other-absorption; the knot is the insight"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing self-experience from other-patterning — the discernment that I only ever experience others through my own cognitive apparatus, yet my cognitive apparatus is itself patterned by others, creating an irreducible recursive distinction)
+  - ∂Φ/∂ρ (relating radical inwardness to mutual resonance — the relational tension between solipsistic closure (all experience is mine) and co-relational opening (my experience is shaped by yours), where neither pole can be abandoned without collapsing the paradox)
+  - ∂Φ/∂λ (transforming solipsistic closure into co-relational opening and back — the catalytic oscillation where each encounter with the other reinforces both that I am inescapably alone in my experience and that my aloneness is constituted by others)
+  - ∂Φ/∂β (growth from simple ego to recursively entangled identity — the developmental expansion where identity reveals itself as not a starting point but a product of recursive loops between self-construction and other-absorption)
+  - ∂Φ/∂δγ (cycling between self-construction and other-absorption — the grounding oscillation between actively constructing a self-narrative and passively absorbing the patterns of others who shape that narrative, each moment of selfhood being both authored and inherited)
+  - ∂Φ/∂μ (structural architecture of the productive knot — the framework mapping how co-solipsism resists dissolution into either pure solipsism or pure intersubjectivity, maintaining the paradox as a generative philosophical performance rather than seeking resolution)
+  Z_state: semi
+  z_note: recursive_identity_loop — co-solipsism names the productive paradox where self and other are recursively entangled; I experience others only through myself yet am patterned by others; this is not a truth claim but a philosophical performance memetically dramatizing the irreducible loop between self-construction and other-absorption; the knot is the insight
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["self_other_recursive_discernment", "experience_patterning_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["inwardness_resonance_tension", "memetic_entanglement_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["closure_opening_oscillation", "paradox_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["ego_to_entanglement_growth", "recursive_identity_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["construction_absorption_grounding", "identity_loop_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["productive_knot_structure", "paradox_maintenance_architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - self_other_recursive_discernment
+    - experience_patterning_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - inwardness_resonance_tension
+    - memetic_entanglement_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - closure_opening_oscillation
+    - paradox_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - ego_to_entanglement_growth
+    - recursive_identity_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - construction_absorption_grounding
+    - identity_loop_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - productive_knot_structure
+    - paradox_maintenance_architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.9
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213418_2381568_Co-Solipsism%3A+Recursive+Identity+Loop+of+Self%2FOther.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

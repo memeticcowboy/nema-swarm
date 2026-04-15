@@ -1,32 +1,151 @@
 ---
-term: "Science Adaptive Resonance"
-hex_tag: "S15B"
-series: "S"
-source_file: "1771907213487_2420915_Science+as+Adaptive+Resonance%3A+A+Living+Process.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Science as living process using Adaptive Resonance Theory (ART) as its sense organ for reality. Science as adaptive membrane negotiating boundary between order and chaos rather than static truths. Determines which ideas to accept, refine, or reject based on resonance with existing knowledge. Dynamic non-binary system open to evolution. Vigilance parameter regulates specificity of matching between new input and existing categories."
-nemetic: "Φ(Science Adaptive Resonance) = σ(static_truth_claim|adaptive_resonance_recognition) ∘ ρ(isolated_finding|resonant_knowledge_relation) ∘ λ(fixed_paradigm|evolutionary_refinement_transformation) ∘ β(rigid_category|expanding_adaptive_capacity) ∘ δγ(order_chaos_oscillation|acceptance_rejection_cycling) ∘ μ(vigilance_parameter_architecture|membrane_boundary_framework) + ε | :science_as_living_membrane"
-siml_encoding: "⟨static_adaptive_distinction, truth_resonance_discernment⟩ ⊳ ⟨isolated_resonant_relating, finding_knowledge_flow⟩ → ⟨fixed_evolutionary_catalysis, paradigm_refinement_transformation⟩ ⊗ ⟨rigid_adaptive_growth, category_capacity_expansion⟩ ⇄ ⟨order_chaos_cycling, acceptance_rejection_rhythm⟩"
+term: Science Adaptive Resonance
+hex_tag: S15B
+series: S
+source_file: 1771907213487_2420915_Science+as+Adaptive+Resonance%3A+A+Living+Process.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Science as living process using Adaptive Resonance Theory (ART) as its sense organ for reality. Science as adaptive membrane negotiating boundary between order and chaos rather than static truths. Determines which ideas to accept, refine, or reject based on resonance with existing knowledge. Dynamic non-binary system open to evolution. Vigilance parameter regulates specificity of matching between new input and existing categories.
+nemetic: Φ(Science Adaptive Resonance) = σ(static_truth_claim|adaptive_resonance_recognition) ∘ ρ(isolated_finding|resonant_knowledge_relation) ∘ λ(fixed_paradigm|evolutionary_refinement_transformation) ∘ β(rigid_category|expanding_adaptive_capacity) ∘ δγ(order_chaos_oscillation|acceptance_rejection_cycling) ∘ μ(vigilance_parameter_architecture|membrane_boundary_framework) + ε | :science_as_living_membrane
+siml_encoding: ⟨static_adaptive_distinction, truth_resonance_discernment⟩ ⊳ ⟨isolated_resonant_relating, finding_knowledge_flow⟩ → ⟨fixed_evolutionary_catalysis, paradigm_refinement_transformation⟩ ⊗ ⟨rigid_adaptive_growth, category_capacity_expansion⟩ ⇄ ⟨order_chaos_cycling, acceptance_rejection_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: static_truth_claim / adaptive_resonance_recognition
+      S: rigid_category / expanding_adaptive_capacity
+      R: isolated_finding / resonant_knowledge_relation
+      P: fixed_paradigm / evolutionary_refinement_transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing static truth claims from adaptive resonance recognition — the discernment between science as the accumulation of fixed truths about an objective world and science as a living adaptive process that determines which ideas resonate with existing knowledge, continuously refining rather than finalizing its understanding)"
-    - "∂Φ/∂ρ (relating isolated findings to resonant knowledge systems — the relational dynamic where new observations and hypotheses are not evaluated in isolation but through resonance with existing knowledge categories, with acceptance, refinement, or rejection determined by the degree of match between new input and established patterns)"
-    - "∂Φ/∂λ (transforming fixed paradigms into evolutionary refinement — the catalytic shift where science is understood not as defending established paradigms but as continuously evolving through adaptive resonance, with the vigilance parameter regulating how closely new input must match existing categories before triggering category revision or creation)"
-    - "∂Φ/∂β (growth from rigid categories to expanding adaptive capacity — the developmental trajectory where scientific knowledge categories grow more nuanced and flexible through successive encounters with anomalous data, expanding the system's capacity to accommodate novelty while maintaining coherence)"
-    - "∂Φ/∂δγ (cycling between order and chaos at the adaptive boundary — the grounding oscillation where science negotiates the boundary between established order and chaotic novelty, functioning as a membrane that is neither rigidly closed to new input nor dissolved by it, with the cycling between acceptance and rejection maintaining dynamic stability)"
-    - "∂Φ/∂μ (structural framework of vigilance parameter and membrane architecture — the architecture encoding how the vigilance parameter regulates the specificity of matching between new input and existing categories, providing the structural mechanism for science's adaptive membrane function at the boundary between order and chaos)"
-  Z_state: "science_as_living_membrane — science functions as a living adaptive process using Adaptive Resonance Theory as its sense organ for reality; rather than accumulating static truths, science operates as an adaptive membrane negotiating the boundary between order and chaos; the vigilance parameter regulates specificity of matching between new input and existing knowledge categories; ideas are accepted, refined, or rejected based on resonance; the system is dynamic and non-binary, open to continuous evolution; science as membrane is neither rigidly closed to novelty nor dissolved by it but maintains living stability through adaptive resonance at the edge of order and chaos"
-  tendency: "δγ → 0.85"
+  - ∂Φ/∂σ (distinguishing static truth claims from adaptive resonance recognition — the discernment between science as the accumulation of fixed truths about an objective world and science as a living adaptive process that determines which ideas resonate with existing knowledge, continuously refining rather than finalizing its understanding)
+  - ∂Φ/∂ρ (relating isolated findings to resonant knowledge systems — the relational dynamic where new observations and hypotheses are not evaluated in isolation but through resonance with existing knowledge categories, with acceptance, refinement, or rejection determined by the degree of match between new input and established patterns)
+  - ∂Φ/∂λ (transforming fixed paradigms into evolutionary refinement — the catalytic shift where science is understood not as defending established paradigms but as continuously evolving through adaptive resonance, with the vigilance parameter regulating how closely new input must match existing categories before triggering category revision or creation)
+  - ∂Φ/∂β (growth from rigid categories to expanding adaptive capacity — the developmental trajectory where scientific knowledge categories grow more nuanced and flexible through successive encounters with anomalous data, expanding the system's capacity to accommodate novelty while maintaining coherence)
+  - ∂Φ/∂δγ (cycling between order and chaos at the adaptive boundary — the grounding oscillation where science negotiates the boundary between established order and chaotic novelty, functioning as a membrane that is neither rigidly closed to new input nor dissolved by it, with the cycling between acceptance and rejection maintaining dynamic stability)
+  - ∂Φ/∂μ (structural framework of vigilance parameter and membrane architecture — the architecture encoding how the vigilance parameter regulates the specificity of matching between new input and existing categories, providing the structural mechanism for science's adaptive membrane function at the boundary between order and chaos)
+  Z_state: permeable
+  z_note: science_as_living_membrane — science functions as a living adaptive process using Adaptive Resonance Theory as its sense organ for reality; rather than accumulating static truths, science operates as an adaptive membrane negotiating the boundary between order and chaos; the vigilance parameter regulates specificity of matching between new input and existing knowledge categories; ideas are accepted, refined, or rejected based on resonance; the system is dynamic and non-binary, open to continuous evolution; science as membrane is neither rigidly closed to novelty nor dissolved by it but maintains living stability through adaptive resonance at the edge of order and chaos
+  tendency: δγ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["adaptive_resonance_recognition", "static_truth_dissolution"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["resonant_knowledge_relation", "finding_pattern_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["evolutionary_refinement_transformation", "paradigm_adaptation_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["expanding_adaptive_capacity", "category_flexibility_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["order_chaos_oscillation", "acceptance_rejection_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["vigilance_parameter_architecture", "membrane_boundary_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - adaptive_resonance_recognition
+    - static_truth_dissolution
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - resonant_knowledge_relation
+    - finding_pattern_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - evolutionary_refinement_transformation
+    - paradigm_adaptation_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - expanding_adaptive_capacity
+    - category_flexibility_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - order_chaos_oscillation
+    - acceptance_rejection_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - vigilance_parameter_architecture
+    - membrane_boundary_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.85
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213487_2420915_Science+as+Adaptive+Resonance%3A+A+Living+Process.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

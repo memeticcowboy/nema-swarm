@@ -1,92 +1,149 @@
+---
 term_id: A030
 hex_tag: '#A030'
 name: deja_vu
 term: Déjà Vu
-nemetic: >-
-  Φ(DejaVu) = σ(familiar|novel)
-            ∘ ρ(memory|perception)
-            ∘ λ(recognition|error)
-            ∘ β(confidence|false)
-            ∘ δγ(comfort|disturbance)
-            ∘ μ(boundary|blurred)
-            + ε | :misattributing
-siml_encoding: >-
-  ⟨Experience|current⟩
-      ⊳ ⟨Familiarity|false⟩
-      → ⟨Recognition|erroneous⟩
-      ⊗ ⟨Memory|muddled⟩
-      ⇄ ⟨Reality|questioned⟩
+nemetic: "Φ(DejaVu) = σ(familiar|novel)\n          ∘ ρ(memory|perception)\n          ∘ λ(recognition|error)\n          ∘ β(confidence|false)\n          ∘ δγ(comfort|disturbance)\n          ∘ μ(boundary|blurred)\n          + ε | :misattributing"
+siml_encoding: "⟨Experience|current⟩\n    ⊳ ⟨Familiarity|false⟩\n    → ⟨Recognition|erroneous⟩\n    ⊗ ⟨Memory|muddled⟩\n    ⇄ ⟨Reality|questioned⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between genuine familiarity and false recognition — the entorhinal cortex normally makes this cut by tagging experiences as familiar or novel; in déjà vu the familiarity signal fires without the corresponding memory content, and the cut fails invisibly)"
-    - "∂Φ/∂ρ (relational confusion between memory retrieval and perceptual processing — present perception is misattributed as past experience; what flows between now and then is not information but a misfired familiarity tag that feels indistinguishable from genuine recall)"
-    - "∂Φ/∂λ (direction of recognition toward erroneous certainty — System 1 constructs a coherent narrative from the familiarity signal: 'I have been here before'; the arrow points toward pattern-completion and comfort, not toward truth-verification)"
-    - "∂Φ/∂β (familiarity-confidence feedback loop — the more the experience feels familiar, the more certain the experiencer becomes, despite the impossibility; confidence reinforces the false recognition rather than triggering doubt)"
-    - "∂Φ/∂δγ (metabolic disturbance from temporal dislocation — for most, déjà vu is a brief uncanny cost; in pathological cases the sensation persists and debilitates, as constant reality-questioning becomes metabolically unsustainable)"
-    - "∂Φ/∂μ (boundary permeability between present experience and memory traces — the normally well-policed threshold between perception and recall fails; now bleeds into then, and the experiencer cannot locate the boundary between what is happening and what is being remembered)"
-  Z_state: "Tendency toward permeable — familiarity bleeds across temporal boundaries without verification. Z-Closure Risk: HIGH in pathological cases — when the sensation persists, doubt fails and reality itself becomes unstable; in normal cases, the experiencer maintains awareness that the experience is impossible, preventing full Z-sealing."
-  tendency: "certainty/doubt → 0.7 :misattributing"
-  hex: ['#A030', '#A019', '#A040', '#A050']
+  - ∂Φ/∂σ (distinction between genuine familiarity and false recognition — the entorhinal cortex normally makes this cut by tagging experiences as familiar or novel; in déjà vu the familiarity signal fires without the corresponding memory content, and the cut fails invisibly)
+  - ∂Φ/∂ρ (relational confusion between memory retrieval and perceptual processing — present perception is misattributed as past experience; what flows between now and then is not information but a misfired familiarity tag that feels indistinguishable from genuine recall)
+  - '∂Φ/∂λ (direction of recognition toward erroneous certainty — System 1 constructs a coherent narrative from the familiarity signal: ''I have been here before''; the arrow points toward pattern-completion and comfort, not toward truth-verification)'
+  - ∂Φ/∂β (familiarity-confidence feedback loop — the more the experience feels familiar, the more certain the experiencer becomes, despite the impossibility; confidence reinforces the false recognition rather than triggering doubt)
+  - ∂Φ/∂δγ (metabolic disturbance from temporal dislocation — for most, déjà vu is a brief uncanny cost; in pathological cases the sensation persists and debilitates, as constant reality-questioning becomes metabolically unsustainable)
+  - ∂Φ/∂μ (boundary permeability between present experience and memory traces — the normally well-policed threshold between perception and recall fails; now bleeds into then, and the experiencer cannot locate the boundary between what is happening and what is being remembered)
+  Z_state: permeable
+  z_note: 'Tendency toward permeable — familiarity bleeds across temporal boundaries without verification. Z-Closure Risk: HIGH in pathological cases — when the sensation persists, doubt fails and reality itself becomes unstable; in normal cases, the experiencer maintains awareness that the experience is impossible, preventing full Z-sealing.'
+  tendency: certainty/doubt → 0.7 :misattributing
+  hex:
+  - '#A030'
+  - '#A019'
+  - '#A040'
+  - '#A050'
 coords:
   ontology:
     primary: I
     secondary: It
   epistemics:
     dsrp:
-      D: "The distinction between genuine memory and false familiarity cannot be made from inside the experience — the familiarity signal feels identical whether triggered by actual recall or misfired tagging; this is the distinction apparatus itself glitching, not merely failing to use it"
-      S: "The cognitive apparatus is the primary system, revealing its own constructed nature — déjà vu is not an error added to normal processing but a glimpse of the mechanism by which all familiarity is normally generated and tagged"
-      R: "The relation between memory and perception is normally sequential and distinct; déjà vu reveals that this separation is actively maintained by neural architecture and can fail — the hippocampus-entorhinal-amygdala circuit holds the boundary that the experience has dissolved"
-      P: "The perspective of the experiencer is split — simultaneously inhabiting the present moment and the impossible certainty of having been there before; the uncanny affect arises from this dual occupancy: present experience wearing memory's face"
+      D: The distinction between genuine memory and false familiarity cannot be made from inside the experience — the familiarity signal feels identical whether triggered by actual recall or misfired tagging; this is the distinction apparatus itself glitching, not merely failing to use it
+      S: The cognitive apparatus is the primary system, revealing its own constructed nature — déjà vu is not an error added to normal processing but a glimpse of the mechanism by which all familiarity is normally generated and tagged
+      R: The relation between memory and perception is normally sequential and distinct; déjà vu reveals that this separation is actively maintained by neural architecture and can fail — the hippocampus-entorhinal-amygdala circuit holds the boundary that the experience has dissolved
+      P: 'The perspective of the experiencer is split — simultaneously inhabiting the present moment and the impossible certainty of having been there before; the uncanny affect arises from this dual occupancy: present experience wearing memory''s face'
     learning: L1
   agency:
-    type: individual
+    type: ego
     power_mode: Against
   time:
     mode: event
-    phase: "Stage 1: Novel Input (Q_in) → Stage 2: Familiarity Tag Misfire (σ-failure) → Stage 3: Narrative Construction (λ-capture) → Stage 4: Confidence Loop (β-reinforcement) or Doubt Recovery"
+    phase: 'Stage 1: Novel Input (Q_in) → Stage 2: Familiarity Tag Misfire (σ-failure) → Stage 3: Narrative Construction (λ-capture) → Stage 4: Confidence Loop (β-reinforcement) or Doubt Recovery'
   qualia:
-    affect: [uncanny, eerie, temporal-dislocation, reality-questioning]
-    aesthetic: [doubled, impossible, intimate, unstable]
-    symbolic: [The Memory That Never Was, the present moment wearing the past's face, the glitch in the simulation]
-    energetic: [brief-disorienting in normal cases, metabolically costly in pathological persistence, affective charge from amygdala involvement]
+    affect:
+    - uncanny
+    - eerie
+    - temporal-dislocation
+    - reality-questioning
+    aesthetic:
+    - doubled
+    - impossible
+    - intimate
+    - unstable
+    symbolic:
+    - The Memory That Never Was
+    - the present moment wearing the past's face
+    - the glitch in the simulation
+    energetic:
+    - brief-disorienting in normal cases
+    - metabolically costly in pathological persistence
+    - affective charge from amygdala involvement
   coherence:
     state: fragmented
     loop: open
     transcontext: med
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "The distinction apparatus itself glitches — the entorhinal cortex applies the 'familiar' tag to genuinely novel input, and no downstream process can detect the error because the tag and its absence are indistinguishable from inside experience. Air asks: How do you distinguish the felt sense of familiarity from the fact of having been here before?"
-  ≈: "What flows between present experience and memory is not information but the affective charge of recognition — the uncanny sensation is real even when the memory is not. Those with temporal lobe epilepsy, ADHD, and anxiety feel this flow more often, not because they remember more but because their entorhinal threshold is lower. Water asks: Is this resonance between now and then, or an echo from a moment that never was?"
-  ▲: "The brain wants coherence and will construct a story from the familiarity signal — 'I have been here before' emerges not from evidence but from the comfort of pattern-completion. The arrow points toward narrative closure, not truth-verification. Fire asks: Does this recognition serve your understanding of reality, or your mind's need to always already know?"
-  𐂷: "Déjà vu reveals that linear time is a construction, not a given — jamais vu (familiar things suddenly feeling strange) shows the frame can fail in both directions. If the brain can generate false familiarity this convincingly, the possibility space of temporal experience is wider than materialist neuroscience comfortably maps. Wood asks: What other forms of temporal experience await recognition beyond the glitch-as-error frame?"
-  ☷: "For most people déjà vu is momentary and harmless; for some it becomes pathological, the sensation persisting until reality itself destabilizes. The metabolic load of constant temporal dislocation is unsustainable — the ground requires coherent time to function. Earth asks: When does the brief uncanny become the sustained cost, and what sustains its persistence?"
-  ⛨: "The entorhinal cortex-hippocampus-amygdala circuit is the structural architecture that normally holds the boundary between memory and perception; déjà vu reveals that this boundary requires active maintenance and can fail locally without global cognitive collapse. Metal asks: What structures — neural, phenomenological, contemplative — would sharpen the boundary between what is remembered and what merely feels remembered?"
-context_note: >-
-  Déjà vu names the experience of false familiarity — the vivid sense of having
-  encountered a genuinely novel situation before, arising from a misfired familiarity
-  signal in the entorhinal cortex rather than from actual prior experience. The core
-  paradox is that the sensation is phenomenologically indistinguishable from genuine
-  recall: the familiarity feels real because it is produced by the same neural
-  mechanism that normally produces accurate familiarity. Proposed mechanisms include
-  dual-processing delays between hemispheres, unconscious encoding creating false
-  recognition on conscious attention, and memory system errors where familiarity
-  assessment fires without corresponding retrieval. The cultural history of the
-  phenomenon — from Augustine's falsae memoriae through Victorian paranormal
-  interpretation to contemporary neuroscience — tracks the shift from mystical to
-  mechanistic explanation without dissolving the experiential strangeness. What
-  déjà vu ultimately reveals is that our sense of temporal continuity, our confidence
-  in distinguishing now from then, depends on neural architecture that can locally
-  fail — making it a window into the constructed nature of all memory and recognition.
+  ∴: 'The distinction apparatus itself glitches — the entorhinal cortex applies the ''familiar'' tag to genuinely novel input, and no downstream process can detect the error because the tag and its absence are indistinguishable from inside experience. Air asks: How do you distinguish the felt sense of familiarity from the fact of having been here before?'
+  ≈: 'What flows between present experience and memory is not information but the affective charge of recognition — the uncanny sensation is real even when the memory is not. Those with temporal lobe epilepsy, ADHD, and anxiety feel this flow more often, not because they remember more but because their entorhinal threshold is lower. Water asks: Is this resonance between now and then, or an echo from a moment that never was?'
+  ▲: 'The brain wants coherence and will construct a story from the familiarity signal — ''I have been here before'' emerges not from evidence but from the comfort of pattern-completion. The arrow points toward narrative closure, not truth-verification. Fire asks: Does this recognition serve your understanding of reality, or your mind''s need to always already know?'
+  𐂷: 'Déjà vu reveals that linear time is a construction, not a given — jamais vu (familiar things suddenly feeling strange) shows the frame can fail in both directions. If the brain can generate false familiarity this convincingly, the possibility space of temporal experience is wider than materialist neuroscience comfortably maps. Wood asks: What other forms of temporal experience await recognition beyond the glitch-as-error frame?'
+  ☷: 'For most people déjà vu is momentary and harmless; for some it becomes pathological, the sensation persisting until reality itself destabilizes. The metabolic load of constant temporal dislocation is unsustainable — the ground requires coherent time to function. Earth asks: When does the brief uncanny become the sustained cost, and what sustains its persistence?'
+  ⛨: 'The entorhinal cortex-hippocampus-amygdala circuit is the structural architecture that normally holds the boundary between memory and perception; déjà vu reveals that this boundary requires active maintenance and can fail locally without global cognitive collapse. Metal asks: What structures — neural, phenomenological, contemplative — would sharpen the boundary between what is remembered and what merely feels remembered?'
+context_note: 'Déjà vu names the experience of false familiarity — the vivid sense of having encountered a genuinely novel situation before, arising from a misfired familiarity signal in the entorhinal cortex rather than from actual prior experience. The core paradox is that the sensation is phenomenologically indistinguishable from genuine recall: the familiarity feels real because it is produced by the same neural mechanism that normally produces accurate familiarity. Proposed mechanisms include dual-processing delays between hemispheres, unconscious encoding creating false recognition on conscious attention, and memory system errors where familiarity assessment fires without corresponding retrieval. The cultural history of the phenomenon — from Augustine''s falsae memoriae through Victorian paranormal interpretation to contemporary neuroscience — tracks the shift from mystical to mechanistic explanation without dissolving the experiential strangeness. What déjà vu ultimately reveals is that our sense of temporal continuity, our confidence in distinguishing now from then, depends on neural architecture that can locally fail — making it a window into the constructed nature of all memory and recognition.'
 source: Consolidated from 3 insight(s)
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

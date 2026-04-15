@@ -1,32 +1,154 @@
 ---
-term: "Negative Time Quantum"
-hex_tag: "S08D"
-series: "S"
-source_file: "1771907212884_1677717_University+of+Toronto%27s+Breakthrough+on+Measurable+Negative+Time.md"
-encoded_at: "2026-03-06T01:30:00Z"
-description: "University of Toronto's measurement of negative time through quantum mechanics — photon-atom interactions where time intervals appear shorter than zero, challenging classical linear notions of time, the probabilistic nature of quantum phenomena where particles exist in multiple states simultaneously, scientific debate between genuine quantum property and misleading terminology, led by Aephraim Steinberg and Daniela Angulo, with implications for quantum computing and telecommunications."
-nemetic: "Φ(Negative Time Quantum) = σ(classical_linear_time|quantum_negative_time_interval) ∘ ρ(photon|atom_absorption_emission_system) ∘ λ(classical_temporal_expectation|negative_time_measurement) ∘ β(conventional_time_understanding|expanded_quantum_temporal_framework) ∘ δγ(absorption_emission_cycling|measurement_verification_iteration) ∘ μ(quantum_mechanics_framework|photon_atom_interaction_architecture) + ε | :quantum_temporal_anomaly"
-siml_encoding: "⟨classical_quantum_time_distinction, temporal_framework_boundary⟩ ⊳ ⟨photon_atom_relation, absorption_emission_coupling⟩ → ⟨classical_to_negative_transformation, temporal_anomaly_catalysis⟩ ⊗ ⟨conventional_to_expanded_growth, quantum_temporal_understanding_trajectory⟩ ⇄ ⟨absorption_emission_cycling, measurement_verification_iteration⟩"
+term: Negative Time Quantum
+hex_tag: S08D
+series: S
+source_file: 1771907212884_1677717_University+of+Toronto%27s+Breakthrough+on+Measurable+Negative+Time.md
+encoded_at: '2026-03-06T01:30:00Z'
+description: University of Toronto's measurement of negative time through quantum mechanics — photon-atom interactions where time intervals appear shorter than zero, challenging classical linear notions of time, the probabilistic nature of quantum phenomena where particles exist in multiple states simultaneously, scientific debate between genuine quantum property and misleading terminology, led by Aephraim Steinberg and Daniela Angulo, with implications for quantum computing and telecommunications.
+nemetic: Φ(Negative Time Quantum) = σ(classical_linear_time|quantum_negative_time_interval) ∘ ρ(photon|atom_absorption_emission_system) ∘ λ(classical_temporal_expectation|negative_time_measurement) ∘ β(conventional_time_understanding|expanded_quantum_temporal_framework) ∘ δγ(absorption_emission_cycling|measurement_verification_iteration) ∘ μ(quantum_mechanics_framework|photon_atom_interaction_architecture) + ε | :quantum_temporal_anomaly
+siml_encoding: ⟨classical_quantum_time_distinction, temporal_framework_boundary⟩ ⊳ ⟨photon_atom_relation, absorption_emission_coupling⟩ → ⟨classical_to_negative_transformation, temporal_anomaly_catalysis⟩ ⊗ ⟨conventional_to_expanded_growth, quantum_temporal_understanding_trajectory⟩ ⇄ ⟨absorption_emission_cycling, measurement_verification_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: classical_linear_time / quantum_negative_time_interval
+      S: conventional_time_understanding / expanded_quantum_temporal_framework
+      R: photon / atom_absorption_emission_system
+      P: classical_temporal_expectation / negative_time_measurement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing classical linear time from quantum negative time intervals that defy conventional temporal order)"
-    - "∂Φ/∂ρ (relating photons to atom absorption-emission systems where negative time intervals are observed)"
-    - "∂Φ/∂λ (transforming classical temporal expectations through the measurement of negative time in quantum interactions)"
-    - "∂Φ/∂β (growth from conventional time understanding toward an expanded quantum temporal framework)"
-    - "∂Φ/∂δγ (cycling through photon absorption-emission events and iterating measurement verification protocols)"
-    - "∂Φ/∂μ (quantum mechanics as theoretical framework and photon-atom interaction as experimental architecture)"
-  Z_state: "quantum_temporal_anomaly — measurement of photon-atom interactions reveals time intervals that appear shorter than zero, challenging the classical assumption that time flows linearly and positively; this does not imply time travel or violation of physical laws but rather reveals the probabilistic nature of quantum phenomena where particles can exist in multiple states simultaneously and where conventional temporal frameworks may not apply; the Z-state is achieved when the measurement of negative time forces a fundamental reconsideration of what time means at quantum scales, opening conceptual space for understanding temporal phenomena beyond classical constraints"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing classical linear time from quantum negative time intervals that defy conventional temporal order)
+  - ∂Φ/∂ρ (relating photons to atom absorption-emission systems where negative time intervals are observed)
+  - ∂Φ/∂λ (transforming classical temporal expectations through the measurement of negative time in quantum interactions)
+  - ∂Φ/∂β (growth from conventional time understanding toward an expanded quantum temporal framework)
+  - ∂Φ/∂δγ (cycling through photon absorption-emission events and iterating measurement verification protocols)
+  - ∂Φ/∂μ (quantum mechanics as theoretical framework and photon-atom interaction as experimental architecture)
+  Z_state: permeable
+  z_note: quantum_temporal_anomaly — measurement of photon-atom interactions reveals time intervals that appear shorter than zero, challenging the classical assumption that time flows linearly and positively; this does not imply time travel or violation of physical laws but rather reveals the probabilistic nature of quantum phenomena where particles can exist in multiple states simultaneously and where conventional temporal frameworks may not apply; the Z-state is achieved when the measurement of negative time forces a fundamental reconsideration of what time means at quantum scales, opening conceptual space for understanding temporal phenomena beyond classical constraints
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["classical_quantum_time_distinction", "temporal_framework_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["photon_atom_interaction_relation", "absorption_emission_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["classical_to_negative_transformation", "temporal_anomaly_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["conventional_to_expanded_growth", "quantum_temporal_understanding_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["absorption_emission_cycling", "measurement_verification_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["quantum_mechanics_framework", "photon_atom_interaction_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S011", "S024", "S07C"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - classical_quantum_time_distinction
+    - temporal_framework_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - photon_atom_interaction_relation
+    - absorption_emission_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - classical_to_negative_transformation
+    - temporal_anomaly_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - conventional_to_expanded_growth
+    - quantum_temporal_understanding_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - absorption_emission_cycling
+    - measurement_verification_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - quantum_mechanics_framework
+    - photon_atom_interaction_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S011
+- S024
+- S07C
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212884_1677717_University+of+Toronto%27s+Breakthrough+on+Measurable+Negative+Time.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

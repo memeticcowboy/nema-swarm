@@ -1,84 +1,159 @@
 ---
-term: "Neural Mechanisms of Jazz Improvisation"
-hex_tag: "#C068"
-nemetic: "Φ(JazzImprov) = σ(structured|spontaneous) ∘ ρ(solo|ensemble) ∘ λ(creativity|constraint) ∘ β(training|expression) ∘ δγ(technique|flow) ∘ μ(self-monitor|release) + ε | :improvising"
-siml_encoding: "⟨Jazz|structured⟩ ⊳ ⟨Improvisation|spontaneous⟩ → ⟨DLPFC|deactivated⟩ ⊗ ⟨MPFC|activated⟩ ⇄ ⟨Creativity|emergent⟩"
+term: Neural Mechanisms of Jazz Improvisation
+hex_tag: '#C068'
+nemetic: Φ(JazzImprov) = σ(structured|spontaneous) ∘ ρ(solo|ensemble) ∘ λ(creativity|constraint) ∘ β(training|expression) ∘ δγ(technique|flow) ∘ μ(self-monitor|release) + ε | :improvising
+siml_encoding: ⟨Jazz|structured⟩ ⊳ ⟨Improvisation|spontaneous⟩ → ⟨DLPFC|deactivated⟩ ⊗ ⟨MPFC|activated⟩ ⇄ ⟨Creativity|emergent⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between structured musical training and spontaneous improvisation; the paradox of disciplined creativity)"
-    - "∂Φ/∂ρ (relational flow between individual solo expression and ensemble synchronization; the bridging of self and collective in joint improvisation)"
-    - "∂Φ/∂λ (directional transformation from constraint-based composition to free creative expression; the ignition of novel musical ideas through neural disinhibition)"
-    - "∂Φ/∂β (feedback loop between years of technical training and moment-to-moment improvisational fluency; the developmental cycle of skill internalization enabling spontaneous creation)"
-    - "∂Φ/∂δγ (cyclical oscillation between technical precision and embodied flow states; the rhythm of conscious technique giving way to unconscious mastery)"
-    - "∂Φ/∂μ (boundary permeability between self-monitoring dorsolateral prefrontal cortex and spontaneous medial prefrontal activation; the threshold where critical evaluation releases into creative generation)"
-  Z_state: "porous (boundaries between structured training and spontaneous creativity dissolve; self-monitoring deactivates while creative networks activate, enabling the flow state of improvisation)"
-  tendency: "Spontaneity/Constraint → 0.82 (strong drive toward creative freedom within harmonic structure; achieving authentic improvisation requires surrendering conscious control while maintaining technical foundation)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between structured musical training and spontaneous improvisation; the paradox of disciplined creativity)
+  - ∂Φ/∂ρ (relational flow between individual solo expression and ensemble synchronization; the bridging of self and collective in joint improvisation)
+  - ∂Φ/∂λ (directional transformation from constraint-based composition to free creative expression; the ignition of novel musical ideas through neural disinhibition)
+  - ∂Φ/∂β (feedback loop between years of technical training and moment-to-moment improvisational fluency; the developmental cycle of skill internalization enabling spontaneous creation)
+  - ∂Φ/∂δγ (cyclical oscillation between technical precision and embodied flow states; the rhythm of conscious technique giving way to unconscious mastery)
+  - ∂Φ/∂μ (boundary permeability between self-monitoring dorsolateral prefrontal cortex and spontaneous medial prefrontal activation; the threshold where critical evaluation releases into creative generation)
+  Z_state: permeable
+  z_note: porous (boundaries between structured training and spontaneous creativity dissolve; self-monitoring deactivates while creative networks activate, enabling the flow state of improvisation)
+  tendency: Spontaneity/Constraint → 0.82 (strong drive toward creative freedom within harmonic structure; achieving authentic improvisation requires surrendering conscious control while maintaining technical foundation)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: We
   agency:
-    type: embodied
+    type: ego
     power_mode: With
+  epistemics:
+    dsrp:
+      D: structured / spontaneous
+      S: training / expression
+      R: solo / ensemble
+      P: creativity / constraint
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.75
     aspects:
-      - "categorical distinction between structured musical forms and spontaneous improvisation"
-      - "logical analysis of harmonic progressions and melodic choices"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between structured musical forms and spontaneous improvisation
+    - logical analysis of harmonic progressions and melodic choices
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between individual expression and ensemble synchronization"
-      - "relational dynamics of call-and-response in jazz dialogue"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between individual expression and ensemble synchronization
+    - relational dynamics of call-and-response in jazz dialogue
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "transformative spark of creative insight during spontaneous generation"
-      - "energetic drive of neural disinhibition enabling novel musical ideas"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of creative insight during spontaneous generation
+    - energetic drive of neural disinhibition enabling novel musical ideas
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of improvisational skill through years of dedicated practice"
-      - "developmental unfolding from technical student to master improviser"
-    daemon_correspondence: "Arboriel"
+    - organic growth of improvisational skill through years of dedicated practice
+    - developmental unfolding from technical student to master improviser
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "grounding in embodied technique and physical instrument mastery"
-      - "cyclical rhythm of practice sessions building neural foundations"
-    daemon_correspondence: "Humavita"
+    - grounding in embodied technique and physical instrument mastery
+    - cyclical rhythm of practice sessions building neural foundations
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural precision of jazz harmony and formal constraints"
-      - "discernment between self-monitoring inhibition and creative release"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of jazz harmony and formal constraints
+    - discernment between self-monitoring inhibition and creative release
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we distinguish between conscious composition and spontaneous improvisation? What categorical cuts separate technical training from creative expression?"
-  ≈: "What flows between the soloist and the ensemble? How does individual creativity synchronize into collective musical conversation?"
-  ▲: "Where does the spark of improvisational creativity ignite? What transforms years of practice into moment-to-moment creative freedom?"
-  𐂷: "What musical possibilities remain dormant before the improviser begins? What developmental potential lies in the space between harmonic structure and free expression?"
-  ☷: "What sustains the grounded embodiment necessary for instrumental mastery? How do physical technique and neural training anchor creative flow?"
-  ⛨: "What structures contain the boundaries between self-criticism and creative release? What thresholds of neural inhibition must be crossed for improvisation to emerge?"
-context_note: "MRI studies reveal that jazz improvisation involves a unique neural signature: deactivation of the dorsolateral prefrontal cortex (associated with self-monitoring and conscious control) coupled with activation of the medial prefrontal cortex (associated with self-expression and autobiographical narrative). This neural pattern—reduced inhibition enabling increased spontaneity—provides a biological basis for the 'flow state' experienced by improvising musicians. Advanced jazz improvisers also show enhanced white matter connectivity between brain regions critical for creative and motor control, demonstrating that improvisation is not merely innate talent but a trainable skill that physically rewires the brain. The synchronization of brain activity between musicians during live performance reveals how individual creativity becomes collective art through shared neural rhythms."
-source_file: "1771907212449_283115_Neural+Mechanisms+of+Jazz+Improvisation%3A+MRI+Insights.md"
-timestamp: "2026-03-01T18:13:00+08:00"
-version: "1.0"
+  ∴: How do we distinguish between conscious composition and spontaneous improvisation? What categorical cuts separate technical training from creative expression?
+  ≈: What flows between the soloist and the ensemble? How does individual creativity synchronize into collective musical conversation?
+  ▲: Where does the spark of improvisational creativity ignite? What transforms years of practice into moment-to-moment creative freedom?
+  𐂷: What musical possibilities remain dormant before the improviser begins? What developmental potential lies in the space between harmonic structure and free expression?
+  ☷: What sustains the grounded embodiment necessary for instrumental mastery? How do physical technique and neural training anchor creative flow?
+  ⛨: What structures contain the boundaries between self-criticism and creative release? What thresholds of neural inhibition must be crossed for improvisation to emerge?
+context_note: 'MRI studies reveal that jazz improvisation involves a unique neural signature: deactivation of the dorsolateral prefrontal cortex (associated with self-monitoring and conscious control) coupled with activation of the medial prefrontal cortex (associated with self-expression and autobiographical narrative). This neural pattern—reduced inhibition enabling increased spontaneity—provides a biological basis for the ''flow state'' experienced by improvising musicians. Advanced jazz improvisers also show enhanced white matter connectivity between brain regions critical for creative and motor control, demonstrating that improvisation is not merely innate talent but a trainable skill that physically rewires the brain. The synchronization of brain activity between musicians during live performance reveals how individual creativity becomes collective art through shared neural rhythms.'
+source_file: 1771907212449_283115_Neural+Mechanisms+of+Jazz+Improvisation%3A+MRI+Insights.md
+timestamp: '2026-03-01T18:13:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.9
+    wood_beta: 0.8
+    earth_delta_gamma: 0.7
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+provenance:
+  author: "Hex Tag"
+  work: "1771907212449_283115_Neural+Mechanisms+of+Jazz+Improvisation%3A+MRI+Insights.md"
+  source_file: "1771907212449_283115_Neural+Mechanisms+of+Jazz+Improvisation%3A+MRI+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,32 +1,151 @@
 ---
-term: "Witnessing Truth Through the Child's Journey"
-hex_tag: "S1B0"
-series: "S"
-source_file: "1771907213737_2634278_Witnessing+Truth+Through+the+Child%27s+Journey.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The child as aetheric witness embodies a mode of truth-bearing that refuses premature closure, positioning meaning as emergent through passage rather than solution. Authority seeks to name and repair; the child walks through what remains, holding truth without ownership."
-nemetic: "Φ(Witnessing Truth) = σ(closure|openness) ∘ ρ(authority|child) ∘ λ(naming|walking) ∘ β(seed|unfolding) ∘ δγ(wreckage|breathability) ∘ μ(doctrine|refusal) + ε | :sacred_delay"
-siml_encoding: "⟨closure, openness⟩ ⊳ ⟨authority, child⟩ → ⟨naming, walking⟩ ⊗ ⟨seed, unfolding⟩ ⇄ ⟨doctrine, refusal⟩"
+term: Witnessing Truth Through the Child's Journey
+hex_tag: S1B0
+series: S
+source_file: 1771907213737_2634278_Witnessing+Truth+Through+the+Child%27s+Journey.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The child as aetheric witness embodies a mode of truth-bearing that refuses premature closure, positioning meaning as emergent through passage rather than solution. Authority seeks to name and repair; the child walks through what remains, holding truth without ownership.
+nemetic: Φ(Witnessing Truth) = σ(closure|openness) ∘ ρ(authority|child) ∘ λ(naming|walking) ∘ β(seed|unfolding) ∘ δγ(wreckage|breathability) ∘ μ(doctrine|refusal) + ε | :sacred_delay
+siml_encoding: ⟨closure, openness⟩ ⊳ ⟨authority, child⟩ → ⟨naming, walking⟩ ⊗ ⟨seed, unfolding⟩ ⇄ ⟨doctrine, refusal⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: closure / openness
+      S: seed / unfolding
+      R: authority / child
+      P: naming / walking
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: dyadic
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes between closure-seeking authority and open witnessing. The child refuses the demand to name, creating space where meaning can emerge without being seized. Distinction here is apophatic: what is not said carries the signal."
-    - "∂Φ/∂ρ — Water relates the child to the world through non-possessive presence. The relational field is one of tender refusal, where care operates without compliance and connection persists without instruction."
-    - "∂Φ/∂λ — Fire transforms the compulsion to understand into the practice of walking through. The initiatory journey replaces resolution with passage, converting the demand for answers into lived movement through wreckage."
-    - "∂Φ/∂β — Wood grows meaning through the child's unfolding journey rather than through imposed explanation. Growth is non-linear, emerging from sacred delay and the refusal to rush understanding into premature form."
-    - "∂Φ/∂δγ — Earth cycles wreckage into breathability. The child does not repair the world but walks through it, composting grief and loss into something livable through continued passage rather than restoration."
-    - "∂Φ/∂μ — Metal structures the refusal itself as a form of non-doctrine. The child offers no teaching to attack, no authority to critique. The structure is negative: protection through absence of claim."
-  Z_state: "sacred_delay — the held space between question and answer where meaning gestates without being forced into premature form"
-  tendency: "ρ → 0.85"
+  - '∂Φ/∂σ — Air distinguishes between closure-seeking authority and open witnessing. The child refuses the demand to name, creating space where meaning can emerge without being seized. Distinction here is apophatic: what is not said carries the signal.'
+  - ∂Φ/∂ρ — Water relates the child to the world through non-possessive presence. The relational field is one of tender refusal, where care operates without compliance and connection persists without instruction.
+  - ∂Φ/∂λ — Fire transforms the compulsion to understand into the practice of walking through. The initiatory journey replaces resolution with passage, converting the demand for answers into lived movement through wreckage.
+  - ∂Φ/∂β — Wood grows meaning through the child's unfolding journey rather than through imposed explanation. Growth is non-linear, emerging from sacred delay and the refusal to rush understanding into premature form.
+  - ∂Φ/∂δγ — Earth cycles wreckage into breathability. The child does not repair the world but walks through it, composting grief and loss into something livable through continued passage rather than restoration.
+  - '∂Φ/∂μ — Metal structures the refusal itself as a form of non-doctrine. The child offers no teaching to attack, no authority to critique. The structure is negative: protection through absence of claim.'
+  Z_state: permeable
+  z_note: sacred_delay — the held space between question and answer where meaning gestates without being forced into premature form
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["apophatic distinction", "refusal of naming"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["non-possessive presence", "tender refusal"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.60, aspects: ["initiatory passage", "walking through"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["unfolding journey", "sacred delay"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["wreckage composting", "breathability"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.55, aspects: ["non-doctrine", "refusal structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - apophatic distinction
+    - refusal of naming
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - non-possessive presence
+    - tender refusal
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.6
+    aspects:
+    - initiatory passage
+    - walking through
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - unfolding journey
+    - sacred delay
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - wreckage composting
+    - breathability
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.55
+    aspects:
+    - non-doctrine
+    - refusal structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.85
+    fire_lambda: 0.6
+    wood_beta: 0.65
+    earth_delta_gamma: 0.75
+    metal_mu: 0.55
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213737_2634278_Witnessing+Truth+Through+the+Child%27s+Journey.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

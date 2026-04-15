@@ -2,104 +2,148 @@ term_id: A053
 hex_tag: '#A053'
 name: Status_Quo_Bias
 term: Status Quo Bias
-nemetic: >-
-  Φ(StatusQuo) = σ(familiar|novel) ∘ ρ(comfort|anxiety) ∘ λ(stability|change)
-  ∘ β(reinforcement|feedback) ∘ δγ(ease|effort)
-  ∘ μ(boundary|guarded) + ε | :closed
-siml_encoding: >-
-  ⟨Change|proposed⟩ ⊳ ⟨Familiar|preferred⟩ ⊗ ⟨Inertia|maintained⟩ ⊗ ⟨Novelty|rejected⟩
-  ⊗ ⟨Status|preserved⟩
+nemetic: Φ(StatusQuo) = σ(familiar|novel) ∘ ρ(comfort|anxiety) ∘ λ(stability|change) ∘ β(reinforcement|feedback) ∘ δγ(ease|effort) ∘ μ(boundary|guarded) + ε | :closed
+siml_encoding: ⟨Change|proposed⟩ ⊳ ⟨Familiar|preferred⟩ ⊗ ⟨Inertia|maintained⟩ ⊗ ⟨Novelty|rejected⟩ ⊗ ⟨Status|preserved⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between familiar current state and novel alternatives)"
-    - "∂Φ/∂ρ (relational comfort with existing conditions vs anxiety toward change)"
-    - "∂Φ/∂λ (direction of preference toward stability over transformation)"
-    - "∂Φ/∂β (feedback loop where current practice reinforces itself)"
-    - "∂Φ/∂δγ (metabolic ease of continuing vs effort of changing)"
-    - "∂Φ/∂μ (boundary guarding that protects existing structures)"
+  - ∂Φ/∂σ (distinction between familiar current state and novel alternatives)
+  - ∂Φ/∂ρ (relational comfort with existing conditions vs anxiety toward change)
+  - ∂Φ/∂λ (direction of preference toward stability over transformation)
+  - ∂Φ/∂β (feedback loop where current practice reinforces itself)
+  - ∂Φ/∂δγ (metabolic ease of continuing vs effort of changing)
+  - ∂Φ/∂μ (boundary guarding that protects existing structures)
   Z_state: sealed
-  tendency: "Stability/Change → 0.8"
+  tendency: Stability/Change → 0.8
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: We
     secondary:
-      - It
+    - It
   epistemics:
     dsrp:
-      D: "The way things are vs. the way things could be"
-      S: "Cognitive-economic-social inertia system"
-      R: "Familiarity breeds preference; change breeds anxiety"
-      P: "Behavioral economics and regenerative farming transitions"
+      D: The way things are vs. the way things could be
+      S: Cognitive-economic-social inertia system
+      R: Familiarity breeds preference; change breeds anxiety
+      P: Behavioral economics and regenerative farming transitions
     learning: L1
   time:
     mode: linear
-    phase: "inertial maintenance"
+    phase: inertial maintenance
   qualia:
     affect:
-      - comfort
-      - anxiety
-      - resistance
+    - comfort
+    - anxiety
+    - resistance
     aesthetic:
-      - invisible
-      - entrenched
-      - guarded
+    - invisible
+    - entrenched
+    - guarded
     symbolic:
-      - anchoring
-      - loss-aversion
-      - regret-avoidance
+    - anchoring
+    - loss-aversion
+    - regret-avoidance
     energetic:
-      - conserving
-      - blocking
-      - reinforcing
+    - conserving
+    - blocking
+    - reinforcing
   agency:
     type: collective
     voice:
-      - Tradition Keeper
-      - Cautious Pragmatist
+    - Tradition Keeper
+    - Cautious Pragmatist
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "What would it take to make the status quo visible as a constructed choice?"
-  ≈: "Is the comfort of the familiar genuine contentment or avoidance of uncertainty?"
-  ▲: "Does maintaining current practices serve long-term flourishing or court collapse?"
-  𐂷: "What possibilities exist beyond the change-vs-stability dichotomy?"
-  ☷: "What is the true cost accounting when we include the cost of not changing?"
-  ⛨: "What structures could create containers for safe experimentation with change?"
-context_note: >-
-  Status Quo Bias describes the preference for the current state of affairs, where
-  individuals and systems resist change even when alternatives offer clear benefits.
-  Rooted in cognitive ease, loss aversion, and regret avoidance.
-source: "Overcoming Barriers to Regenerative Farming: A Psychological Perspective"
+  ∴: What would it take to make the status quo visible as a constructed choice?
+  ≈: Is the comfort of the familiar genuine contentment or avoidance of uncertainty?
+  ▲: Does maintaining current practices serve long-term flourishing or court collapse?
+  𐂷: What possibilities exist beyond the change-vs-stability dichotomy?
+  ☷: What is the true cost accounting when we include the cost of not changing?
+  ⛨: What structures could create containers for safe experimentation with change?
+context_note: Status Quo Bias describes the preference for the current state of affairs, where individuals and systems resist change even when alternatives offer clear benefits. Rooted in cognitive ease, loss aversion, and regret avoidance.
+source: 'Overcoming Barriers to Regenerative Farming: A Psychological Perspective'
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

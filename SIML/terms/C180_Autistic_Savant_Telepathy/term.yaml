@@ -2,109 +2,149 @@ term_id: C180
 hex_tag: '#C180'
 name: autistic_savant_telepathy
 term: Autistic Savant Telepathy
-nemetic: >-
-  Φ(SavantTelepathy) = σ(hidden|manifest) ∘ ρ(intuition|analysis) ∘
-  λ(filter|access) ∘ β(potential|expression) ∘ δγ(local|nonlocal) ∘
-  μ(boundary|permeable) + ε | :open
-siml_encoding: >-
-  ⟨PsiAbility|latent⟩ ⊳ ⟨AutisticCognition|unfiltered⟩ ⇄
-  ⟨Telepathy|evidenced⟩ ⊗ ⟨Materialism|challenged⟩ ⊳
-  ⟨Consciousness|nonlocal⟩
+nemetic: Φ(SavantTelepathy) = σ(hidden|manifest) ∘ ρ(intuition|analysis) ∘ λ(filter|access) ∘ β(potential|expression) ∘ δγ(local|nonlocal) ∘ μ(boundary|permeable) + ε | :open
+siml_encoding: ⟨PsiAbility|latent⟩ ⊳ ⟨AutisticCognition|unfiltered⟩ ⇄ ⟨Telepathy|evidenced⟩ ⊗ ⟨Materialism|challenged⟩ ⊳ ⟨Consciousness|nonlocal⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (hidden abilities becoming manifest under conditions)"
-    - "∂Φ/∂ρ (intuitive knowing vs analytical cognition)"
-    - "∂Φ/∂λ (brain as filter limiting vs granting access to awareness)"
-    - "∂Φ/∂β (potential abilities growing into expressed capabilities)"
-    - "∂Φ/∂δγ (local brain processes vs nonlocal consciousness)"
-    - "∂Φ/∂μ (permeable boundary between individual minds)"
+  - ∂Φ/∂σ (hidden abilities becoming manifest under conditions)
+  - ∂Φ/∂ρ (intuitive knowing vs analytical cognition)
+  - ∂Φ/∂λ (brain as filter limiting vs granting access to awareness)
+  - ∂Φ/∂β (potential abilities growing into expressed capabilities)
+  - ∂Φ/∂δγ (local brain processes vs nonlocal consciousness)
+  - ∂Φ/∂μ (permeable boundary between individual minds)
   Z_state: permeable
-  tendency: "Hidden/Manifest → 0.7"
+  tendency: Hidden/Manifest → 0.7
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - MoreThanHuman
-      - It
+    - MoreThanHuman
+    - It
   epistemics:
     dsrp:
-      D: "Telepathic psi phenomena vs conventional cognitive models"
-      S: "Autistic savant research within parapsychology and consciousness studies"
-      R: "Reduced filtering → expanded access → nonlocal information → telepathic expression"
-      P: "Psi researcher, skeptic, autistic subject, caregiver"
+      D: Telepathic psi phenomena vs conventional cognitive models
+      S: Autistic savant research within parapsychology and consciousness studies
+      R: Reduced filtering → expanded access → nonlocal information → telepathic expression
+      P: Psi researcher, skeptic, autistic subject, caregiver
     learning: L2
   time:
     mode: event
-    phase: "spontaneous psi events under experimental conditions"
+    phase: spontaneous psi events under experimental conditions
   qualia:
     affect:
-      - wonder
-      - skepticism
-      - possibility
+    - wonder
+    - skepticism
+    - possibility
     aesthetic:
-      - anomalous
-      - liminal
-      - paradigm-shifting
+    - anomalous
+    - liminal
+    - paradigm-shifting
     symbolic:
-      - filter
-      - receiver
-      - telepathy-tapes
+    - filter
+    - receiver
+    - telepathy-tapes
     energetic:
-      - receptive
-      - nonlocal
-      - revelatory
+    - receptive
+    - nonlocal
+    - revelatory
   agency:
     type: more_than_human
     voice:
-      - Nonverbal Communicator
-      - Consciousness Receiver
+    - Nonverbal Communicator
+    - Consciousness Receiver
     power_mode: Through
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How are hidden psi abilities distinguished from confirmation bias?"
-  ≈: "What flows between intuitive knowing and analytical verification?"
-  ▲: "What transforms the brain from filter to gateway for nonlocal awareness?"
-  𐂷: "How does latent potential grow into expressed telepathic ability?"
-  ☷: "What grounds the local-nonlocal paradox of mind-to-mind communication?"
-  ⛨: "Where does the boundary between individual minds become permeable?"
-context_note: >-
-  Dr. Diane Powell's research, highlighted in The Telepathy Tapes, explores
-  claims that nonverbal autistic savants exhibit telepathic abilities. The work
-  challenges materialist consciousness models by proposing the brain acts as
-  filter/receiver, with autism potentially involving different modes of
-  cognitive access to nonlocal information. Methodological rigor remains
-  contested.
-source: "Powell, D.H. — Telepathy research in autistic savants — via IFLScience"
+  ∴: How are hidden psi abilities distinguished from confirmation bias?
+  ≈: What flows between intuitive knowing and analytical verification?
+  ▲: What transforms the brain from filter to gateway for nonlocal awareness?
+  𐂷: How does latent potential grow into expressed telepathic ability?
+  ☷: What grounds the local-nonlocal paradox of mind-to-mind communication?
+  ⛨: Where does the boundary between individual minds become permeable?
+context_note: Dr. Diane Powell's research, highlighted in The Telepathy Tapes, explores claims that nonverbal autistic savants exhibit telepathic abilities. The work challenges materialist consciousness models by proposing the brain acts as filter/receiver, with autism potentially involving different modes of cognitive access to nonlocal information. Methodological rigor remains contested.
+source: Powell, D.H. — Telepathy research in autistic savants — via IFLScience
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: ambiguous
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

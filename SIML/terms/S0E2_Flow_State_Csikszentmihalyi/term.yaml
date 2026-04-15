@@ -1,32 +1,154 @@
 ---
-term: "Flow State Csikszentmihalyi"
-hex_tag: "S0E2"
-series: "S"
-source_file: "1771907213163_2168179_Unlocking+the+Flow+State%3A+Insights+from+Mihaly+Csikszentmihalyi.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Csikszentmihalyi's flow state — peak performance zone of complete immersion and effortless engagement. Eight characteristics including laser-sharp focus, effortless action, distorted time sense, merger of action and awareness. Conditions: clear goals, immediate feedback, intense concentration, challenge-skill balance. Intrinsic motivation key. Applicable across physical, creative, and cognitive activities."
-nemetic: "Φ(Flow State Csikszentmihalyi) = σ(boredom|anxiety) ∘ ρ(effort|effortlessness) ∘ λ(self_consciousness|absorption) ∘ β(skill_development|challenge_escalation) ∘ δγ(external_motivation|intrinsic_motivation) ∘ μ(control|surrender) + ε | :optimal_experience_immersion"
-siml_encoding: "⟨boredom_anxiety_balance_distinction, challenge_skill_awareness⟩ ⊳ ⟨effort_effortlessness_relational_web, action_flow_network⟩ → ⟨self_to_absorption_transformation, consciousness_catalysis⟩ ⊗ ⟨skill_challenge_co_maturation, developmental_escalation⟩ ⇄ ⟨extrinsic_intrinsic_cycling, motivation_renewal⟩"
+term: Flow State Csikszentmihalyi
+hex_tag: S0E2
+series: S
+source_file: 1771907213163_2168179_Unlocking+the+Flow+State%3A+Insights+from+Mihaly+Csikszentmihalyi.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Csikszentmihalyi''s flow state — peak performance zone of complete immersion and effortless engagement. Eight characteristics including laser-sharp focus, effortless action, distorted time sense, merger of action and awareness. Conditions: clear goals, immediate feedback, intense concentration, challenge-skill balance. Intrinsic motivation key. Applicable across physical, creative, and cognitive activities.'
+nemetic: Φ(Flow State Csikszentmihalyi) = σ(boredom|anxiety) ∘ ρ(effort|effortlessness) ∘ λ(self_consciousness|absorption) ∘ β(skill_development|challenge_escalation) ∘ δγ(external_motivation|intrinsic_motivation) ∘ μ(control|surrender) + ε | :optimal_experience_immersion
+siml_encoding: ⟨boredom_anxiety_balance_distinction, challenge_skill_awareness⟩ ⊳ ⟨effort_effortlessness_relational_web, action_flow_network⟩ → ⟨self_to_absorption_transformation, consciousness_catalysis⟩ ⊗ ⟨skill_challenge_co_maturation, developmental_escalation⟩ ⇄ ⟨extrinsic_intrinsic_cycling, motivation_renewal⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: boredom / anxiety
+      S: skill_development / challenge_escalation
+      R: effort / effortlessness
+      P: self_consciousness / absorption
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing boredom from anxiety as boundary states flanking the optimal flow channel)"
-    - "∂Φ/∂ρ (relating effortful practice to effortless performance in the flow state paradox)"
-    - "∂Φ/∂λ (transforming self-conscious awareness into complete absorption where action and awareness merge)"
-    - "∂Φ/∂β (growth through co-escalation of skill development and challenge complexity maintaining flow channel)"
-    - "∂Φ/∂δγ (cycling between external reward motivation and intrinsic autotelic experience)"
-    - "∂Φ/∂μ (structural tension between deliberate control and surrendered engagement in peak performance)"
-  Z_state: "optimal_experience_immersion — flow emerges in the narrow channel between boredom and anxiety where challenge matches skill, self-consciousness dissolves into absorption, effort becomes effortless, and time distorts through complete immersion in intrinsically motivated activity"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing boredom from anxiety as boundary states flanking the optimal flow channel)
+  - ∂Φ/∂ρ (relating effortful practice to effortless performance in the flow state paradox)
+  - ∂Φ/∂λ (transforming self-conscious awareness into complete absorption where action and awareness merge)
+  - ∂Φ/∂β (growth through co-escalation of skill development and challenge complexity maintaining flow channel)
+  - ∂Φ/∂δγ (cycling between external reward motivation and intrinsic autotelic experience)
+  - ∂Φ/∂μ (structural tension between deliberate control and surrendered engagement in peak performance)
+  Z_state: permeable
+  z_note: optimal_experience_immersion — flow emerges in the narrow channel between boredom and anxiety where challenge matches skill, self-consciousness dissolves into absorption, effort becomes effortless, and time distorts through complete immersion in intrinsically motivated activity
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["boredom_anxiety_flow_channel_distinction", "challenge_skill_balance_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["effort_effortlessness_relational_paradox", "action_awareness_merger_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["self_consciousness_to_absorption_transformation", "peak_experience_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["skill_challenge_co_development", "progressive_mastery_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["extrinsic_intrinsic_motivation_cycling", "autotelic_experience_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["control_surrender_structural_tension", "clear_goals_feedback_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S00A", "S021", "S0C7"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - boredom_anxiety_flow_channel_distinction
+    - challenge_skill_balance_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - effort_effortlessness_relational_paradox
+    - action_awareness_merger_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - self_consciousness_to_absorption_transformation
+    - peak_experience_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - skill_challenge_co_development
+    - progressive_mastery_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - extrinsic_intrinsic_motivation_cycling
+    - autotelic_experience_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - control_surrender_structural_tension
+    - clear_goals_feedback_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00A
+- S021
+- S0C7
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213163_2168179_Unlocking+the+Flow+State%3A+Insights+from+Mihaly+Csikszentmihalyi.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

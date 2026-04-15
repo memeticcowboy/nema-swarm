@@ -1,65 +1,154 @@
 ---
-term: "Sense-Making in Distorted Information Ecology"
-hex_tag: "S00E"
-series: "S"
-source_file: "1771907212384_252371_Improving+Sense-Making+in+Distorted+Information+Ecology.md"
-encoded_at: "2026-03-05T18:35:00Z"
-description: "The war on sensemaking in distorted information ecologies. Examines propaganda, biased sources, and the distinction between truthful, true, and representative. Introduces the IO Loop concept, game theory of disinformation, information pollution analogy, and hormesis applied to cognitive development."
-nemetic: "Φ(InfoEcology) = σ(true|truthful) ∘ ρ(propaganda|inquiry) ∘ λ(distortion|correction) ∘ β(naive|critical) ∘ δγ(polluted|clean) ∘ μ(signal|noise) + ε | :discerning"
-siml_encoding: "⟨Ecology|distorted⟩ ⊳ ⟨Truth|layered⟩ → ⟨Analysis|critical⟩ ⊗ ⟨Resilience|hormetic⟩ ⇄ ⟨Discernment|emergent⟩"
+term: Sense-Making in Distorted Information Ecology
+hex_tag: S00E
+series: S
+source_file: 1771907212384_252371_Improving+Sense-Making+in+Distorted+Information+Ecology.md
+encoded_at: '2026-03-05T18:35:00Z'
+description: The war on sensemaking in distorted information ecologies. Examines propaganda, biased sources, and the distinction between truthful, true, and representative. Introduces the IO Loop concept, game theory of disinformation, information pollution analogy, and hormesis applied to cognitive development.
+nemetic: Φ(InfoEcology) = σ(true|truthful) ∘ ρ(propaganda|inquiry) ∘ λ(distortion|correction) ∘ β(naive|critical) ∘ δγ(polluted|clean) ∘ μ(signal|noise) + ε | :discerning
+siml_encoding: ⟨Ecology|distorted⟩ ⊳ ⟨Truth|layered⟩ → ⟨Analysis|critical⟩ ⊗ ⟨Resilience|hormetic⟩ ⇄ ⟨Discernment|emergent⟩
+coords:
+  ontology:
+    primary: It
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: true / truthful
+      S: naive / critical
+      R: propaganda / inquiry
+      P: distortion / correction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (fine-grained distinction between truthful, true, and representative; the multi-layered diagnostic of information quality)"
-    - "∂Φ/∂ρ (relational dynamics between propaganda and genuine inquiry; the contested channel of collective intelligence)"
-    - "∂Φ/∂λ (transformative critical analysis correcting distortion; the directed application of discernment against manipulation)"
-    - "∂Φ/∂β (developmental growth from naive consumption to critical cognitive skill; hormetic strengthening through exposure)"
-    - "∂Φ/∂δγ (grounding beyond manipulation in clean information environments; the ecological foundation of epistemic health)"
-    - "∂Φ/∂μ (structural integrity of information systems; the boundary between signal and noise at institutional scale)"
-  Z_state: "discerning (active critical evaluation within polluted information ecology)"
-  tendency: "Discernment/Resilience → 0.80"
+  - ∂Φ/∂σ (fine-grained distinction between truthful, true, and representative; the multi-layered diagnostic of information quality)
+  - ∂Φ/∂ρ (relational dynamics between propaganda and genuine inquiry; the contested channel of collective intelligence)
+  - ∂Φ/∂λ (transformative critical analysis correcting distortion; the directed application of discernment against manipulation)
+  - ∂Φ/∂β (developmental growth from naive consumption to critical cognitive skill; hormetic strengthening through exposure)
+  - ∂Φ/∂δγ (grounding beyond manipulation in clean information environments; the ecological foundation of epistemic health)
+  - ∂Φ/∂μ (structural integrity of information systems; the boundary between signal and noise at institutional scale)
+  Z_state: semi
+  z_note: discerning (active critical evaluation within polluted information ecology)
+  tendency: Discernment/Resilience → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.95
     aspects:
-      - "Fine-grained distinction between truthful, true, and representative information"
-      - "Multi-layered diagnostic of source quality, bias, and epistemic status"
-    daemon_correspondence: "Aerunik"
+    - Fine-grained distinction between truthful, true, and representative information
+    - Multi-layered diagnostic of source quality, bias, and epistemic status
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.65
     aspects:
-      - "Collective intelligence navigating between propaganda and genuine inquiry"
-      - "Relational dynamics of trust and verification in social information flows"
-    daemon_correspondence: "Sentaria"
+    - Collective intelligence navigating between propaganda and genuine inquiry
+    - Relational dynamics of trust and verification in social information flows
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
     aspects:
-      - "Transformative critical analysis correcting distortion and manipulation"
-      - "Directed application of discernment against disinformation campaigns"
-    daemon_correspondence: "Jvalion"
+    - Transformative critical analysis correcting distortion and manipulation
+    - Directed application of discernment against disinformation campaigns
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.65
     aspects:
-      - "Developmental growth from naive information consumption to critical skill"
-      - "Hormetic strengthening of cognitive resilience through calibrated exposure"
-    daemon_correspondence: "Arboriel"
+    - Developmental growth from naive information consumption to critical skill
+    - Hormetic strengthening of cognitive resilience through calibrated exposure
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.65
     aspects:
-      - "Grounding in clean information environments beyond manipulation"
-      - "Ecological health of epistemic commons as foundation for sense-making"
-    daemon_correspondence: "Humavita"
+    - Grounding in clean information environments beyond manipulation
+    - Ecological health of epistemic commons as foundation for sense-making
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.85
     aspects:
-      - "Structural integrity of information systems and institutional safeguards"
-      - "Boundary between signal and noise at the scale of information ecology"
-    daemon_correspondence: "Ferrosid"
+    - Structural integrity of information systems and institutional safeguards
+    - Boundary between signal and noise at the scale of information ecology
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S00D_Sense_Making_Complex_Environments"
-  - "C071_information_overload_freedom_discern"
-  - "A057_Confirmation_Bias"
+- S00D_Sense_Making_Complex_Environments
+- C071_information_overload_freedom_discern
+- A057_Confirmation_Bias
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.95
+    water_rho: 0.65
+    fire_lambda: 0.85
+    wood_beta: 0.65
+    earth_delta_gamma: 0.65
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212384_252371_Improving+Sense-Making+in+Distorted+Information+Ecology.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

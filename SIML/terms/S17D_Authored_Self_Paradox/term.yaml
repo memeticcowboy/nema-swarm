@@ -1,32 +1,151 @@
 ---
-term: "Authored Self Paradox"
-hex_tag: "S17D"
-series: "S"
-source_file: "1771907213670_2569310_Navigating+the+Authored-Self+Paradox.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Identity is co-authorship. The self senses itself being written by forces beyond its boundaries. The Meta-Protagonist: fragmented author, walk-between-worlds storyteller. Existential vertigo, bittersweet awe, meta-intimacy, creative disorientation. Tension between authoring self and being authored. Agency within structures that exceed individual control."
-nemetic: "Φ(AuthSelf) = σ(co_authorship|sole_authorship) ∘ ρ(being_written|writing_self) ∘ λ(creative_disorientation|stable_narrative) ∘ β(fragmented_authorship|unified_voice) ∘ δγ(embodied_vertigo|conceptual_agency) ∘ μ(paradox_as_structure|paradox_as_problem) + ε | :meta_protagonist"
-siml_encoding: "⟨authored_self⟩ ⊳ ⟨meta_protagonist⟩ → ⟨co_authorship⟩ ⊗ ⟨sole_authorship⟩ ⇄ ⟨creative_disorientation⟩"
+term: Authored Self Paradox
+hex_tag: S17D
+series: S
+source_file: 1771907213670_2569310_Navigating+the+Authored-Self+Paradox.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Identity is co-authorship. The self senses itself being written by forces beyond its boundaries. The Meta-Protagonist: fragmented author, walk-between-worlds storyteller. Existential vertigo, bittersweet awe, meta-intimacy, creative disorientation. Tension between authoring self and being authored. Agency within structures that exceed individual control.'
+nemetic: Φ(AuthSelf) = σ(co_authorship|sole_authorship) ∘ ρ(being_written|writing_self) ∘ λ(creative_disorientation|stable_narrative) ∘ β(fragmented_authorship|unified_voice) ∘ δγ(embodied_vertigo|conceptual_agency) ∘ μ(paradox_as_structure|paradox_as_problem) + ε | :meta_protagonist
+siml_encoding: ⟨authored_self⟩ ⊳ ⟨meta_protagonist⟩ → ⟨co_authorship⟩ ⊗ ⟨sole_authorship⟩ ⇄ ⟨creative_disorientation⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: co_authorship / sole_authorship
+      S: fragmented_authorship / unified_voice
+      R: being_written / writing_self
+      P: creative_disorientation / stable_narrative
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (co-authorship where the self is written by multiple forces vs sole authorship where the self claims complete creative control)"
-    - "∂Φ/∂ρ (being written by forces beyond one's boundaries vs writing oneself through deliberate narrative construction)"
-    - "∂Φ/∂λ (creative disorientation that opens new possibilities vs stable narrative that maintains familiar ground)"
-    - "∂Φ/∂β (fragmented authorship across multiple agencies vs unified voice that speaks from a single center)"
-    - "∂Φ/∂δγ (embodied vertigo as the felt experience of the paradox vs conceptual agency as the theoretical resolution of it)"
-    - "∂Φ/∂μ (paradox as structure that enables creative navigation vs paradox as problem that demands resolution)"
-  Z_state: "meta_protagonist — the state where the self recognizes itself as both author and character, both writer and written, and inhabits this paradox not as confusion but as the generative condition of creative identity"
-  tendency: "ρ → 0.84"
+  - ∂Φ/∂σ (co-authorship where the self is written by multiple forces vs sole authorship where the self claims complete creative control)
+  - ∂Φ/∂ρ (being written by forces beyond one's boundaries vs writing oneself through deliberate narrative construction)
+  - ∂Φ/∂λ (creative disorientation that opens new possibilities vs stable narrative that maintains familiar ground)
+  - ∂Φ/∂β (fragmented authorship across multiple agencies vs unified voice that speaks from a single center)
+  - ∂Φ/∂δγ (embodied vertigo as the felt experience of the paradox vs conceptual agency as the theoretical resolution of it)
+  - ∂Φ/∂μ (paradox as structure that enables creative navigation vs paradox as problem that demands resolution)
+  Z_state: semi
+  z_note: meta_protagonist — the state where the self recognizes itself as both author and character, both writer and written, and inhabits this paradox not as confusion but as the generative condition of creative identity
+  tendency: ρ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.82, aspects: ["co_authorship", "sole_authorship"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.84, aspects: ["being_written", "writing_self"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["creative_disorientation", "stable_narrative"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.76, aspects: ["fragmented_authorship", "unified_voice"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["embodied_vertigo", "conceptual_agency"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.74, aspects: ["paradox_as_structure", "paradox_as_problem"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.82
+    aspects:
+    - co_authorship
+    - sole_authorship
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.84
+    aspects:
+    - being_written
+    - writing_self
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - creative_disorientation
+    - stable_narrative
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.76
+    aspects:
+    - fragmented_authorship
+    - unified_voice
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - embodied_vertigo
+    - conceptual_agency
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.74
+    aspects:
+    - paradox_as_structure
+    - paradox_as_problem
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.82
+    water_rho: 0.84
+    fire_lambda: 0.78
+    wood_beta: 0.76
+    earth_delta_gamma: 0.8
+    metal_mu: 0.74
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213670_2569310_Navigating+the+Authored-Self+Paradox.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

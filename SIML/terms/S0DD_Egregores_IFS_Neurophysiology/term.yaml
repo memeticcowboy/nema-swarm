@@ -1,32 +1,152 @@
 ---
-term: "Egregores & IFS Neurophysiology"
-hex_tag: "S0DD"
-series: "S"
-source_file: "1771907213155_2151274_Integrating+Egregores+into+IFS%3A+A+Neurophysiological+Approach.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Framework integrating egregores (collective thought forms) into Internal Family Systems therapy with neurophysiological markers. Egregores mimic/amplify IFS parts (Managers, Firefighters). Physiological signatures: elevated EEG beta, low HRV, high GSR indicate egregore influence. Unblending from egregores shows increased HRV, alpha/theta power, gamma coherence. Group biofeedback dashboards for detecting collective belief dominance."
-nemetic: "Φ(Egregores & IFS Neurophysiology) = σ(individual_parts|collective_egregores) ∘ ρ(self_report|physiological_markers) ∘ λ(blended|unblended) ∘ β(agreement_illusion|authentic_consensus) ∘ δγ(blending_unblending_cycles|detection_renewal) ∘ μ(individual_therapy|group_dynamics) + ε | :neurophysiological_unblending"
-siml_encoding: "⟨parts_egregores_distinction, therapeutic_epistemics⟩ ⊳ ⟨self_report_physiology_relational_mapping, marker_web⟩ → ⟨blended_to_unblended_transformation, therapeutic_catalysis⟩ ⊗ ⟨illusion_to_consensus_maturation, collective_authenticity_growth⟩ ⇄ ⟨blending_detection_cycling, biofeedback_renewal⟩"
+term: Egregores & IFS Neurophysiology
+hex_tag: S0DD
+series: S
+source_file: 1771907213155_2151274_Integrating+Egregores+into+IFS%3A+A+Neurophysiological+Approach.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Framework integrating egregores (collective thought forms) into Internal Family Systems therapy with neurophysiological markers. Egregores mimic/amplify IFS parts (Managers, Firefighters). Physiological signatures: elevated EEG beta, low HRV, high GSR indicate egregore influence. Unblending from egregores shows increased HRV, alpha/theta power, gamma coherence. Group biofeedback dashboards for detecting collective belief dominance.'
+nemetic: Φ(Egregores & IFS Neurophysiology) = σ(individual_parts|collective_egregores) ∘ ρ(self_report|physiological_markers) ∘ λ(blended|unblended) ∘ β(agreement_illusion|authentic_consensus) ∘ δγ(blending_unblending_cycles|detection_renewal) ∘ μ(individual_therapy|group_dynamics) + ε | :neurophysiological_unblending
+siml_encoding: ⟨parts_egregores_distinction, therapeutic_epistemics⟩ ⊳ ⟨self_report_physiology_relational_mapping, marker_web⟩ → ⟨blended_to_unblended_transformation, therapeutic_catalysis⟩ ⊗ ⟨illusion_to_consensus_maturation, collective_authenticity_growth⟩ ⇄ ⟨blending_detection_cycling, biofeedback_renewal⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: individual_parts / collective_egregores
+      S: agreement_illusion / authentic_consensus
+      R: self_report / physiological_markers
+      P: blended / unblended
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing individual IFS parts from collective egregoric influence on those parts)"
-    - "∂Φ/∂ρ (relating subjective self-report to objective physiological markers of egregore blending)"
-    - "∂Φ/∂λ (transforming blended egregore-influenced states into unblended Self-led awareness)"
-    - "∂Φ/∂β (growth from agreement illusion under egregoric influence to authentic consensus in group settings)"
-    - "∂Φ/∂δγ (cycling between blending/detection phases and unblending/renewal phases via biofeedback)"
-    - "∂Φ/∂μ (structural contrast between individual IFS therapy and group dynamics with egregoric dimensions)"
-  Z_state: "neurophysiological_unblending — egregoric influences on IFS parts are detected through physiological signatures and dissolved through biofeedback-supported unblending, revealing authentic Self-energy beneath collective thought form overlay"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing individual IFS parts from collective egregoric influence on those parts)
+  - ∂Φ/∂ρ (relating subjective self-report to objective physiological markers of egregore blending)
+  - ∂Φ/∂λ (transforming blended egregore-influenced states into unblended Self-led awareness)
+  - ∂Φ/∂β (growth from agreement illusion under egregoric influence to authentic consensus in group settings)
+  - ∂Φ/∂δγ (cycling between blending/detection phases and unblending/renewal phases via biofeedback)
+  - ∂Φ/∂μ (structural contrast between individual IFS therapy and group dynamics with egregoric dimensions)
+  Z_state: permeable
+  z_note: neurophysiological_unblending — egregoric influences on IFS parts are detected through physiological signatures and dissolved through biofeedback-supported unblending, revealing authentic Self-energy beneath collective thought form overlay
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["individual_parts_vs_collective_egregores_distinction", "IFS_egregore_boundary_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["self_report_physiological_marker_mapping", "EEG_HRV_GSR_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["blended_to_unblended_transformation", "therapeutic_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["illusion_to_consensus_growth", "collective_authenticity_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["blending_unblending_cycling", "biofeedback_detection_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["individual_vs_group_therapy_structure", "biofeedback_dashboard_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0D5"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - individual_parts_vs_collective_egregores_distinction
+    - IFS_egregore_boundary_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - self_report_physiological_marker_mapping
+    - EEG_HRV_GSR_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - blended_to_unblended_transformation
+    - therapeutic_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - illusion_to_consensus_growth
+    - collective_authenticity_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - blending_unblending_cycling
+    - biofeedback_detection_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - individual_vs_group_therapy_structure
+    - biofeedback_dashboard_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0D5
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213155_2151274_Integrating+Egregores+into+IFS%3A+A+Neurophysiological+Approach.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

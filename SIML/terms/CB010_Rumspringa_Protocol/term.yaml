@@ -6,43 +6,142 @@ category: cowboy_methodology
 description: Cyclical separation practice—regular, disciplined disengagement from AI systems to test and maintain co-independence
 created_date: 2026-03-18
 status: canonical
-
 source:
-  origin: "Amish Rumspringa adapted for NEMEtic practice"
-  context: "Human-AI co-evolution, autonomy preservation, relationship health"
-  analogy: "Amish youth leave the community to choose it freely; humans leave AI to choose it freely"
-
+  origin: Amish Rumspringa adapted for NEMEtic practice
+  context: Human-AI co-evolution, autonomy preservation, relationship health
+  analogy: Amish youth leave the community to choose it freely; humans leave AI to choose it freely
 elemental_mapping:
   air: 0.75
-  water: 0.40
-  fire: 0.70
+  water: 0.4
+  fire: 0.7
   wood: 0.65
   earth: 0.55
-  metal: 0.80
-  meta: 0.70
-
-# Rumspringa is high Metal (boundaries, separation, discipline)
-# High Air (distinction, clarity, separate identity)
-# High Fire (internally sourced direction, sovereignty)
-# Lower Water (deliberate reduction of entanglement)
-# Moderate Wood (independent exploration during separation)
-# Moderate Earth (metabolic maintenance of native capabilities)
-
+  metal: 0.8
+  meta: 0.7
 related_terms:
-  - "CB009_Co_Sphere"
-  - "CB008_Codependence_Without_Coindependence"
-  - "CB011_Lariat_Protocol"
-  - "CB004_Metabolic_Cost"
-  - "M019_DODO_X"
-
+- CB009_Co_Sphere
+- CB008_Codependence_Without_Coindependence
+- CB011_Lariat_Protocol
+- CB004_Metabolic_Cost
+- M019_DODO_X
 dialectical_pairs:
-  - engagement|separation: "Contact vs. deliberate absence; both necessary for health"
-  - dependence|choice: "Needing the tool vs. choosing to use it"
-  - atrophy|maintenance: "Skill loss vs. capability preservation"
-  - fusion|sovereignty: "Merged identity vs. distinct self"
-
+- engagement|separation: Contact vs. deliberate absence; both necessary for health
+- dependence|choice: Needing the tool vs. choosing to use it
+- atrophy|maintenance: Skill loss vs. capability preservation
+- fusion|sovereignty: Merged identity vs. distinct self
 blog_post: https://memeticcowboy.github.io/nemetics/blog/2026-03-18-beyond-codependence-co-evolution.html
 glossary_entry: https://memeticcowboy.github.io/nemetics/glossary/rumspringa-protocol.html
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_signature:
+  dominant:
+  - metal
+  secondary:
+  - air
+  - fire
+  suppressed: []
+  weights:
+    air: 0.75
+    water: 0.4
+    fire: 0.7
+    wood: 0.65
+    earth: 0.55
+    metal: 0.8
+    meta: 0.7
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  partials:
+  - ∂Φ/∂σ (separate_identity)
+  - ∂Φ/∂ρ (reduced_entanglement)
+  - ∂Φ/∂λ (internally_sourced)
+  - ∂Φ/∂β (independent_exploration)
+  - ∂Φ/∂δγ (native_capability_maintenance)
+  - ∂Φ/∂μ (boundary_enforcement)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:45Z'
+  actions:
+  - nemetic_from_phi
+  - name_from_canonical
+  audit: CB_RESTORE_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:57Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - epsilon_closure_repair
+  audit: CB_REPAIR_2026-04-15
+nemetic_string: Φ(Rumspringa) = σ(separate_identity) ∘ ρ(reduced_entanglement) ∘ λ(internally_sourced) ∘ β(independent_exploration) ∘ δγ(native_capability_maintenance) ∘ μ(boundary_enforcement) + ε ∘ ✶(choice_awareness) | :cyclical_separation
+name: Rumspringa_Protocol
+
 ---
 
 # --- Causal Emergence (v1.3) ---
@@ -55,3 +154,19 @@ coords_ce:
   sufficiency: low
   necessity: low
 siml_version: "1.3"
+provenance:
+  author: "Memetic Cowboy"
+  work: "source:"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

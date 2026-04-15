@@ -1,32 +1,151 @@
 ---
-term: "James C. Scott: Agrarian Studies Legacy"
-hex_tag: "S1CA"
-series: "S"
-source_file: "1771907213799_2688006_Remembering+James+C.+Scott%3A+Legacy+in+Agrarian+Studies.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "James C. Scott challenged state legibility through works like 'Seeing Like a State' and 'Weapons of the Weak,' demonstrating how peasant resistance, moral economy, and local knowledge defy centralized planning. His legacy emphasizes inclusive interdisciplinary community, mentorship over status, and the political power of illegibility."
-nemetic: "Φ(James C Scott) = σ(legibility|illegibility) ∘ ρ(state|peasant) ∘ λ(centralized_planning|local_knowledge) ∘ β(mentorship|institutional_hierarchy) ∘ δγ(resistance|accommodation) ∘ μ(state_simplification|metis_complexity) + ε | :moral_economy"
-siml_encoding: "⟨legibility, illegibility⟩ ⊳ ⟨state, peasant⟩ → ⟨centralized_planning, local_knowledge⟩ ⊗ ⟨mentorship, institutional_hierarchy⟩ ⇄ ⟨state_simplification, metis_complexity⟩"
+term: 'James C. Scott: Agrarian Studies Legacy'
+hex_tag: S1CA
+series: S
+source_file: 1771907213799_2688006_Remembering+James+C.+Scott%3A+Legacy+in+Agrarian+Studies.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: James C. Scott challenged state legibility through works like 'Seeing Like a State' and 'Weapons of the Weak,' demonstrating how peasant resistance, moral economy, and local knowledge defy centralized planning. His legacy emphasizes inclusive interdisciplinary community, mentorship over status, and the political power of illegibility.
+nemetic: Φ(James C Scott) = σ(legibility|illegibility) ∘ ρ(state|peasant) ∘ λ(centralized_planning|local_knowledge) ∘ β(mentorship|institutional_hierarchy) ∘ δγ(resistance|accommodation) ∘ μ(state_simplification|metis_complexity) + ε | :moral_economy
+siml_encoding: ⟨legibility, illegibility⟩ ⊳ ⟨state, peasant⟩ → ⟨centralized_planning, local_knowledge⟩ ⊗ ⟨mentorship, institutional_hierarchy⟩ ⇄ ⟨state_simplification, metis_complexity⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: legibility / illegibility
+      S: mentorship / institutional_hierarchy
+      R: state / peasant
+      P: centralized_planning / local_knowledge
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes state legibility (simplification for control) from local illegibility (complexity that resists administrative capture). The core distinction powers Scott's entire oeuvre."
-    - "∂Φ/∂ρ — Water maps the relational dynamics between state power and peasant resistance, showing how 'weapons of the weak' operate through everyday acts rather than organized revolt."
-    - "∂Φ/∂λ — Fire transforms the understanding of centralized planning from progressive modernization to state overreach, revealing how high-modernist schemes fail against local knowledge (metis)."
-    - "∂Φ/∂β — Wood grows through mentorship, inclusive community, and interdisciplinary crossing. Scott's Program in Agrarian Studies at Yale created collaborative intellectual environments across boundaries."
-    - "∂Φ/∂δγ — Earth cycles between resistance and accommodation as complementary strategies within moral economy. The peasant's moral economy sets boundaries on exploitation through tacit reciprocity."
-    - "∂Φ/∂μ — Metal exposes state simplification as governance mechanism: making populations legible through standardization, cadastral maps, and administrative categories that destroy local complexity."
-  Z_state: "moral_economy — the tacit reciprocal framework within which exploitation is bounded by communal norms and resistance operates through everyday acts"
-  tendency: "σ → 0.82"
+  - ∂Φ/∂σ — Air distinguishes state legibility (simplification for control) from local illegibility (complexity that resists administrative capture). The core distinction powers Scott's entire oeuvre.
+  - ∂Φ/∂ρ — Water maps the relational dynamics between state power and peasant resistance, showing how 'weapons of the weak' operate through everyday acts rather than organized revolt.
+  - ∂Φ/∂λ — Fire transforms the understanding of centralized planning from progressive modernization to state overreach, revealing how high-modernist schemes fail against local knowledge (metis).
+  - ∂Φ/∂β — Wood grows through mentorship, inclusive community, and interdisciplinary crossing. Scott's Program in Agrarian Studies at Yale created collaborative intellectual environments across boundaries.
+  - ∂Φ/∂δγ — Earth cycles between resistance and accommodation as complementary strategies within moral economy. The peasant's moral economy sets boundaries on exploitation through tacit reciprocity.
+  - '∂Φ/∂μ — Metal exposes state simplification as governance mechanism: making populations legible through standardization, cadastral maps, and administrative categories that destroy local complexity.'
+  Z_state: semi
+  z_note: moral_economy — the tacit reciprocal framework within which exploitation is bounded by communal norms and resistance operates through everyday acts
+  tendency: σ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.82, aspects: ["legibility-illegibility", "state simplification critique"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.68, aspects: ["state-peasant dynamics", "everyday resistance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.65, aspects: ["planning-knowledge transformation", "high-modernist critique"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["mentorship community", "interdisciplinary growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["resistance-accommodation cycling", "moral economy"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["state simplification structure", "administrative categories"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.82
+    aspects:
+    - legibility-illegibility
+    - state simplification critique
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.68
+    aspects:
+    - state-peasant dynamics
+    - everyday resistance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+    - planning-knowledge transformation
+    - high-modernist critique
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - mentorship community
+    - interdisciplinary growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - resistance-accommodation cycling
+    - moral economy
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - state simplification structure
+    - administrative categories
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.82
+    water_rho: 0.68
+    fire_lambda: 0.65
+    wood_beta: 0.72
+    earth_delta_gamma: 0.7
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213799_2688006_Remembering+James+C.+Scott%3A+Legacy+in+Agrarian+Studies.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

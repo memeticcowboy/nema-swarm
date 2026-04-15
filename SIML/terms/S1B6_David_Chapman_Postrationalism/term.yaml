@@ -1,32 +1,151 @@
 ---
-term: "David Chapman: Postrationalist Meaning-Making"
-hex_tag: "S1B6"
-series: "S"
-source_file: "1771907213752_2643036_David+Chapman%3A+Postrationalist+Theorist+Merging+Buddhism%2C+Cognitive+Science%2C+and+Modern+Meaning-Making.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "David Chapman synthesizes Buddhist philosophy, cognitive science, and critiques of rationalism through his Meaningness project. He proposes that meaning operates as fluid process rather than fixed property, with people adopting stances toward meaning that can be constructive or confused, aiming for a dynamic complete stance that acknowledges uncertainty while remaining participatory."
-nemetic: "Φ(Chapman Postrationalism) = σ(rationalism|postrationalism) ∘ ρ(nihilism|eternalism) ∘ λ(fixed_meaning|fluid_meaning) ∘ β(stance_evolution|meta_systematicity) ∘ δγ(confusion|constructive_engagement) ∘ μ(algorithmic_reduction|phenomenological_depth) + ε | :complete_stance"
-siml_encoding: "⟨rationalism, postrationalism⟩ ⊳ ⟨nihilism, eternalism⟩ → ⟨fixed_meaning, fluid_meaning⟩ ⊗ ⟨stance_evolution, meta_systematicity⟩ ⇄ ⟨algorithmic_reduction, phenomenological_depth⟩"
+term: 'David Chapman: Postrationalist Meaning-Making'
+hex_tag: S1B6
+series: S
+source_file: 1771907213752_2643036_David+Chapman%3A+Postrationalist+Theorist+Merging+Buddhism%2C+Cognitive+Science%2C+and+Modern+Meaning-Making.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: David Chapman synthesizes Buddhist philosophy, cognitive science, and critiques of rationalism through his Meaningness project. He proposes that meaning operates as fluid process rather than fixed property, with people adopting stances toward meaning that can be constructive or confused, aiming for a dynamic complete stance that acknowledges uncertainty while remaining participatory.
+nemetic: Φ(Chapman Postrationalism) = σ(rationalism|postrationalism) ∘ ρ(nihilism|eternalism) ∘ λ(fixed_meaning|fluid_meaning) ∘ β(stance_evolution|meta_systematicity) ∘ δγ(confusion|constructive_engagement) ∘ μ(algorithmic_reduction|phenomenological_depth) + ε | :complete_stance
+siml_encoding: ⟨rationalism, postrationalism⟩ ⊳ ⟨nihilism, eternalism⟩ → ⟨fixed_meaning, fluid_meaning⟩ ⊗ ⟨stance_evolution, meta_systematicity⟩ ⇄ ⟨algorithmic_reduction, phenomenological_depth⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: rationalism / postrationalism
+      S: stance_evolution / meta_systematicity
+      R: nihilism / eternalism
+      P: fixed_meaning / fluid_meaning
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes rationalist frameworks that reduce meaning to algorithmic reasoning from postrationalist approaches that embrace meaning as fluid process. The core distinction is between fixed and dynamic engagement with meaning."
-    - "∂Φ/∂ρ — Water navigates the relational space between nihilism and eternalism. Chapman critiques both poles, seeking a dynamic middle that maintains connection to meaning without hardening it into dogma."
-    - "∂Φ/∂λ — Fire transforms fixed meaning into fluid meaning through the practice of stance-shifting. Meaning-making is processual, not propositional."
-    - "∂Φ/∂β — Wood grows through stance evolution and meta-systematicity. Chapman's developmental arc moves from confused stances through systematic understanding toward meta-systematic fluency."
-    - "∂Φ/∂δγ — Earth cycles between confused engagement and constructive participation. The complete stance acknowledges uncertainty while remaining participatory in life's meaning-making."
-    - "∂Φ/∂μ — Metal structures the interdisciplinary synthesis: AI and cognitive science training informing phenomenological and cultural analysis. Technical precision applied to existential questions."
-  Z_state: "complete_stance — dynamic engagement that acknowledges uncertainty while remaining participatory in meaning-making, avoiding both nihilism and eternalism"
-  tendency: "σ → 0.78"
+  - ∂Φ/∂σ — Air distinguishes rationalist frameworks that reduce meaning to algorithmic reasoning from postrationalist approaches that embrace meaning as fluid process. The core distinction is between fixed and dynamic engagement with meaning.
+  - ∂Φ/∂ρ — Water navigates the relational space between nihilism and eternalism. Chapman critiques both poles, seeking a dynamic middle that maintains connection to meaning without hardening it into dogma.
+  - ∂Φ/∂λ — Fire transforms fixed meaning into fluid meaning through the practice of stance-shifting. Meaning-making is processual, not propositional.
+  - ∂Φ/∂β — Wood grows through stance evolution and meta-systematicity. Chapman's developmental arc moves from confused stances through systematic understanding toward meta-systematic fluency.
+  - ∂Φ/∂δγ — Earth cycles between confused engagement and constructive participation. The complete stance acknowledges uncertainty while remaining participatory in life's meaning-making.
+  - '∂Φ/∂μ — Metal structures the interdisciplinary synthesis: AI and cognitive science training informing phenomenological and cultural analysis. Technical precision applied to existential questions.'
+  Z_state: semi
+  z_note: complete_stance — dynamic engagement that acknowledges uncertainty while remaining participatory in meaning-making, avoiding both nihilism and eternalism
+  tendency: σ → 0.78
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["rationalism critique", "category distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["nihilism-eternalism navigation", "fluid relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.65, aspects: ["meaning fluidity", "stance transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["meta-systematicity", "developmental arc"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.62, aspects: ["confusion cycling", "constructive return"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.68, aspects: ["interdisciplinary structure", "analytical clarity"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - rationalism critique
+    - category distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - nihilism-eternalism navigation
+    - fluid relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+    - meaning fluidity
+    - stance transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - meta-systematicity
+    - developmental arc
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.62
+    aspects:
+    - confusion cycling
+    - constructive return
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.68
+    aspects:
+    - interdisciplinary structure
+    - analytical clarity
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.72
+    fire_lambda: 0.65
+    wood_beta: 0.7
+    earth_delta_gamma: 0.62
+    metal_mu: 0.68
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213752_2643036_David+Chapman%3A+Postrationalist+Theorist+Merging+Buddhism%2C+Cognitive+Science%2C+and+Modern+Meaning-Making.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

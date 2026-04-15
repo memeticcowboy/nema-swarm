@@ -1,32 +1,154 @@
 ---
-term: "Synthetic Biology Architecture"
-hex_tag: "G007"
-series: "G"
-source_file: "7 - Synthetic Biology Architecture.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "An investigation into how synthetic biology, including living materials, protocell systems, and self-organizing structures, can transform architecture into a sustainable, adaptive, and regenerative discipline. Buildings are reimagined as dynamic systems with biological capabilities such as self-healing, environmental sensing, and carbon capture, reducing the 40% urban carbon footprint of traditional construction."
-nemetic: "Φ(Synthetic Biology Architecture) = σ(living_material|inert_material) ∘ ρ(building_environment_symbiosis|microbiome_occupant_interaction) ∘ λ(biological_integration_catalysis|carbon_negative_transformation) ∘ β(adaptive_building_evolution|protocell_self_organization) ∘ δγ(metabolic_building_cycle|repair_regeneration_cycle) ∘ μ(bioarchitecture_framework|ethical_regulatory_structure) + ε | :living_built_environment"
-siml_encoding: "⟨living_material, inert_material⟩ ⊳ ⟨protocell_system, engineered_organism⟩ → ⟨self_healing_structure, carbon_negative_building⟩ ⊗ ⟨biological_function, architectural_form⟩ ⇄ ⟨process_orientation, permanence_orientation⟩"
+term: Synthetic Biology Architecture
+hex_tag: G007
+series: G
+source_file: 7 - Synthetic Biology Architecture.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: An investigation into how synthetic biology, including living materials, protocell systems, and self-organizing structures, can transform architecture into a sustainable, adaptive, and regenerative discipline. Buildings are reimagined as dynamic systems with biological capabilities such as self-healing, environmental sensing, and carbon capture, reducing the 40% urban carbon footprint of traditional construction.
+nemetic: Φ(Synthetic Biology Architecture) = σ(living_material|inert_material) ∘ ρ(building_environment_symbiosis|microbiome_occupant_interaction) ∘ λ(biological_integration_catalysis|carbon_negative_transformation) ∘ β(adaptive_building_evolution|protocell_self_organization) ∘ δγ(metabolic_building_cycle|repair_regeneration_cycle) ∘ μ(bioarchitecture_framework|ethical_regulatory_structure) + ε | :living_built_environment
+siml_encoding: ⟨living_material, inert_material⟩ ⊳ ⟨protocell_system, engineered_organism⟩ → ⟨self_healing_structure, carbon_negative_building⟩ ⊗ ⟨biological_function, architectural_form⟩ ⇄ ⟨process_orientation, permanence_orientation⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: living_material / inert_material
+      S: adaptive_building_evolution / protocell_self_organization
+      R: building_environment_symbiosis / microbiome_occupant_interaction
+      P: biological_integration_catalysis / carbon_negative_transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ distinguishes living and responsive building materials from traditional inert construction materials, defining a new material category"
-    - "∂Φ/∂ρ maps the symbiotic relationship between buildings and their environments, including microbiome interactions with occupants"
-    - "∂Φ/∂λ captures the catalytic integration of biology into architecture and the transformation toward carbon-negative construction"
-    - "∂Φ/∂β tracks the evolution of adaptive building envelopes and the self-organizing growth of protocell-based structures"
-    - "∂Φ/∂δγ describes the metabolic cycling of living buildings that process inputs and outputs, and the self-repair regeneration cycle"
-    - "∂Φ/∂μ defines the bioarchitecture design framework and the ethical and regulatory structures required for bio-integrated environments"
-  Z_state: "living_built_environment — the emergent state where architecture transcends static form to become a living, metabolizing, evolving system that integrates biology, computation, and human habitation"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ distinguishes living and responsive building materials from traditional inert construction materials, defining a new material category
+  - ∂Φ/∂ρ maps the symbiotic relationship between buildings and their environments, including microbiome interactions with occupants
+  - ∂Φ/∂λ captures the catalytic integration of biology into architecture and the transformation toward carbon-negative construction
+  - ∂Φ/∂β tracks the evolution of adaptive building envelopes and the self-organizing growth of protocell-based structures
+  - ∂Φ/∂δγ describes the metabolic cycling of living buildings that process inputs and outputs, and the self-repair regeneration cycle
+  - ∂Φ/∂μ defines the bioarchitecture design framework and the ethical and regulatory structures required for bio-integrated environments
+  Z_state: permeable
+  z_note: living_built_environment — the emergent state where architecture transcends static form to become a living, metabolizing, evolving system that integrates biology, computation, and human habitation
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["living_vs_inert_material_distinction", "biological_vs_mechanical_function"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["building_environment_symbiosis", "microbiome_occupant_health_relation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["biological_integration_catalysis", "carbon_negative_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["adaptive_building_evolution", "protocell_self_organization_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["metabolic_building_cycling", "self_repair_regeneration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["bioarchitecture_design_framework", "ethical_regulatory_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G008", "G003", "G004"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - living_vs_inert_material_distinction
+    - biological_vs_mechanical_function
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - building_environment_symbiosis
+    - microbiome_occupant_health_relation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - biological_integration_catalysis
+    - carbon_negative_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - adaptive_building_evolution
+    - protocell_self_organization_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - metabolic_building_cycling
+    - self_repair_regeneration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - bioarchitecture_design_framework
+    - ethical_regulatory_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- G008
+- G003
+- G004
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "7 - Synthetic Biology Architecture.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

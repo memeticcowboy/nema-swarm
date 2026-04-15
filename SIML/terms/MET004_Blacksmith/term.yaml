@@ -1,10 +1,7 @@
 hex_tag: '#MET004'
 term: Blacksmith (Metal Transformer)
-nemetic: Φ(Blacksmith) = β(transformation|raw-to-refined) ∘ μ(ritual-structure|power-objects)
-  ∘ ρ(ancestral-resonance|lineage-wisdom) ∘ λ(directed-skill|creative-destruction)
-  + ε | :open
-siml_encoding: ⟨Actor|blacksmith⟩ ⊳ ⟨Resource|raw-metal⟩ ⇄ ⟨Value|transformation⟩
-  ⊗ ⟨Protocol|ritual-craft⟩ → ⟨Outcome|power-object⟩
+nemetic: Φ(Blacksmith) = β(transformation|raw-to-refined) ∘ μ(ritual-structure|power-objects) ∘ ρ(ancestral-resonance|lineage-wisdom) ∘ λ(directed-skill|creative-destruction) + ε | :open
+siml_encoding: ⟨Actor|blacksmith⟩ ⊳ ⟨Resource|raw-metal⟩ ⇄ ⟨Value|transformation⟩ ⊗ ⟨Protocol|ritual-craft⟩ → ⟨Outcome|power-object⟩
 formalism:
   math_operators:
   - β
@@ -67,6 +64,17 @@ coords:
     - Transformer
     - Ritual Leader
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is the smith distinguished from other makers?
   ≈: What resonance flows between smith, metal, and ancestor?
@@ -74,23 +82,66 @@ elemental_emphasis:
   𐂷: What possibilities emerge from fire meeting ore?
   ☷: How does smithing wisdom cycle through generations?
   ⛨: What boundaries protect the sacred craft?
-context_note: 'The blacksmith is not merely a technician but a ritual transformer—exploration
-  (β) of metal''s possibilities, structure (μ) of power-objects (Fon asen, Kongo bocio),
-  resonance (ρ) with ancestral lineage, direction (λ) of creative-destructive skill.
-  Cross-cultural: African Ògún, Kongo royal smiths, Pre-Columbian sacred artisans.
-  The smith bridges raw earth and spiritual world.'
-source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions
-  — Memetic Cowboy
+context_note: 'The blacksmith is not merely a technician but a ritual transformer—exploration (β) of metal''s possibilities, structure (μ) of power-objects (Fon asen, Kongo bocio), resonance (ρ) with ancestral lineage, direction (λ) of creative-destructive skill. Cross-cultural: African Ògún, Kongo royal smiths, Pre-Columbian sacred artisans. The smith bridges raw earth and spiritual world.'
+source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.3
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Fire
+  - Wood
+  suppressed:
+  - Air
+  - Earth
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.3
+    Metal: 0.8
+    Meta: 0.3

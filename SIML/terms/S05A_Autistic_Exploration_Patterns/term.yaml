@@ -1,32 +1,154 @@
 ---
-term: "Autistic Exploration Patterns"
-hex_tag: "S05A"
-series: "S"
-source_file: "1771907212670_881629_Exploration+Patterns+in+Autistic+Traits.md"
-encoded_at: "2026-03-05T22:30:00Z"
-description: "Individuals with higher autistic traits exhibit distinct and effective exploration patterns, persisting longer in curiosity-driven tasks with superior learning outcomes. Implications for personalized education and understanding neurodivergent cognitive strategies."
-nemetic: "Φ(Autistic Exploration Patterns) = σ(neurotypical_exploration|autistic_exploration) ∘ ρ(learner|environment_complexity) ∘ λ(challenge|persistent_engagement) ∘ β(initial_curiosity|superior_learning) ∘ δγ(exploration|exploitation_cycle) ∘ μ(cognitive_strategy|educational_structure) + ε | :sustained_depth"
-siml_encoding: "⟨autistic_traits, curiosity_drive⟩ ⊳ ⟨task_complexity, environmental_challenge⟩ → ⟨persistent_exploration, consistent_strategy⟩ ⊗ ⟨superior_learning, performance_advantage⟩ ⇄ ⟨personalized_education, neurodivergent_recognition⟩"
+term: Autistic Exploration Patterns
+hex_tag: S05A
+series: S
+source_file: 1771907212670_881629_Exploration+Patterns+in+Autistic+Traits.md
+encoded_at: '2026-03-05T22:30:00Z'
+description: Individuals with higher autistic traits exhibit distinct and effective exploration patterns, persisting longer in curiosity-driven tasks with superior learning outcomes. Implications for personalized education and understanding neurodivergent cognitive strategies.
+nemetic: Φ(Autistic Exploration Patterns) = σ(neurotypical_exploration|autistic_exploration) ∘ ρ(learner|environment_complexity) ∘ λ(challenge|persistent_engagement) ∘ β(initial_curiosity|superior_learning) ∘ δγ(exploration|exploitation_cycle) ∘ μ(cognitive_strategy|educational_structure) + ε | :sustained_depth
+siml_encoding: ⟨autistic_traits, curiosity_drive⟩ ⊳ ⟨task_complexity, environmental_challenge⟩ → ⟨persistent_exploration, consistent_strategy⟩ ⊗ ⟨superior_learning, performance_advantage⟩ ⇄ ⟨personalized_education, neurodivergent_recognition⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: neurotypical_exploration / autistic_exploration
+      S: initial_curiosity / superior_learning
+      R: learner / environment_complexity
+      P: challenge / persistent_engagement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing neurotypical from autistic exploration strategies)"
-    - "∂Φ/∂ρ (relationship between learner traits and environmental complexity)"
-    - "∂Φ/∂λ (transforming challenge into sustained engagement)"
-    - "∂Φ/∂β (growth from initial curiosity to superior learning outcomes)"
-    - "∂Φ/∂δγ (exploration-exploitation cycling in learning tasks)"
-    - "∂Φ/∂μ (structural cognitive strategies and educational frameworks)"
-  Z_state: "sustained_depth — persistent deep exploration produces superior learning through consistency rather than breadth"
-  tendency: "β → 0.85"
+  - ∂Φ/∂σ (distinguishing neurotypical from autistic exploration strategies)
+  - ∂Φ/∂ρ (relationship between learner traits and environmental complexity)
+  - ∂Φ/∂λ (transforming challenge into sustained engagement)
+  - ∂Φ/∂β (growth from initial curiosity to superior learning outcomes)
+  - ∂Φ/∂δγ (exploration-exploitation cycling in learning tasks)
+  - ∂Φ/∂μ (structural cognitive strategies and educational frameworks)
+  Z_state: semi
+  z_note: sustained_depth — persistent deep exploration produces superior learning through consistency rather than breadth
+  tendency: β → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["neurotypical_autistic_distinction", "exploration_pattern_categorization"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["learner_environment_interaction", "curiosity_task_resonance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["challenge_to_engagement_transformation", "persistence_under_difficulty"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["curiosity_driven_growth", "learning_outcome_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["exploration_exploitation_cycling", "iterative_learning_passes"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["cognitive_strategy_structure", "educational_framework_design"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S05B", "S041", "S039"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - neurotypical_autistic_distinction
+    - exploration_pattern_categorization
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - learner_environment_interaction
+    - curiosity_task_resonance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - challenge_to_engagement_transformation
+    - persistence_under_difficulty
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - curiosity_driven_growth
+    - learning_outcome_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - exploration_exploitation_cycling
+    - iterative_learning_passes
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - cognitive_strategy_structure
+    - educational_framework_design
+    daemon_correspondence: Ferrosid
+related_terms:
+- S05B
+- S041
+- S039
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.7
+    fire_lambda: 0.75
+    wood_beta: 0.85
+    earth_delta_gamma: 0.7
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212670_881629_Exploration+Patterns+in+Autistic+Traits.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

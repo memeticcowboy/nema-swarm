@@ -1,84 +1,157 @@
 ---
-term: "Epistemic Challenges in Open Societies"
-hex_tag: "#C069"
-nemetic: "Φ(EpistemicOpenSociety) = σ(complexity|simplicity) ∘ ρ(information|ignorance) ∘ λ(motivated_cognition|objective_truth) ∘ β(engagement|apathy) ∘ δγ(individual_vote|collective_outcome) ∘ μ(tribal_boundary|rational_discourse) + ε | :discerning"
-siml_encoding: "⟨Democracy|open⟩ ⊳ ⟨Cognition|biased⟩ → ⟨Truth|elusive⟩ ⊗ ⟨Tribalism|entrenched⟩ ⇄ ⟨Discourse|polarized⟩"
+term: Epistemic Challenges in Open Societies
+hex_tag: '#C069'
+nemetic: Φ(EpistemicOpenSociety) = σ(complexity|simplicity) ∘ ρ(information|ignorance) ∘ λ(motivated_cognition|objective_truth) ∘ β(engagement|apathy) ∘ δγ(individual_vote|collective_outcome) ∘ μ(tribal_boundary|rational_discourse) + ε | :discerning
+siml_encoding: ⟨Democracy|open⟩ ⊳ ⟨Cognition|biased⟩ → ⟨Truth|elusive⟩ ⊗ ⟨Tribalism|entrenched⟩ ⇄ ⟨Discourse|polarized⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between complex political reality and simplified narratives; the epistemic gap between expert understanding and public comprehension)"
-    - "∂Φ/∂ρ (relational flow between available information and rational ignorance; the channel connecting mediated political knowledge to voter decision-making)"
-    - "∂Φ/∂λ (directional transformation from objective truth-seeking to motivated cognition; the ignition of tribal rationalizations over factual accuracy)"
-    - "∂Φ/∂β (feedback loop between political engagement and biased participation; the developmental cycle where active citizens become partisan advocates rather than truth-seekers)"
-    - "∂Φ/∂δγ (cyclical oscillation between individual rational ignorance and collective democratic dysfunction; the rhythm of individually optimal choices producing collectively disastrous outcomes)"
-    - "∂Φ/∂μ (boundary permeability between tribal coalitions and open discourse; the threshold where coalitional signaling replaces rational deliberation)"
-  Z_state: "discerning (boundaries between tribal rationalization and objective analysis become navigable; the citizen develops capacity to recognize motivated cognition in self and others)"
-  tendency: "Truth/Tribalism → 0.65 (moderate drive toward epistemic accuracy constrained by coalitional psychology; achieving informed citizenship requires overcoming rational ignorance and motivated cognition simultaneously)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between complex political reality and simplified narratives; the epistemic gap between expert understanding and public comprehension)
+  - ∂Φ/∂ρ (relational flow between available information and rational ignorance; the channel connecting mediated political knowledge to voter decision-making)
+  - ∂Φ/∂λ (directional transformation from objective truth-seeking to motivated cognition; the ignition of tribal rationalizations over factual accuracy)
+  - ∂Φ/∂β (feedback loop between political engagement and biased participation; the developmental cycle where active citizens become partisan advocates rather than truth-seekers)
+  - ∂Φ/∂δγ (cyclical oscillation between individual rational ignorance and collective democratic dysfunction; the rhythm of individually optimal choices producing collectively disastrous outcomes)
+  - ∂Φ/∂μ (boundary permeability between tribal coalitions and open discourse; the threshold where coalitional signaling replaces rational deliberation)
+  Z_state: semi
+  z_note: discerning (boundaries between tribal rationalization and objective analysis become navigable; the citizen develops capacity to recognize motivated cognition in self and others)
+  tendency: Truth/Tribalism → 0.65 (moderate drive toward epistemic accuracy constrained by coalitional psychology; achieving informed citizenship requires overcoming rational ignorance and motivated cognition simultaneously)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary: It
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: complexity / simplicity
+      S: engagement / apathy
+      R: information / ignorance
+      P: motivated_cognition / objective_truth
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical analysis of complex political systems versus simplified public understanding"
-      - "logical distinction between objective facts and motivated rationalizations"
-    daemon_correspondence: "Aerunik"
+    - categorical analysis of complex political systems versus simplified public understanding
+    - logical distinction between objective facts and motivated rationalizations
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow of information through mediated channels versus direct experience"
-      - "relational dynamics between expert knowledge and public ignorance"
-    daemon_correspondence: "Sentaria"
+    - fluid flow of information through mediated channels versus direct experience
+    - relational dynamics between expert knowledge and public ignorance
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when motivated cognition overrides truth-seeking"
-      - "energetic drive of tribal allegiance distorting political beliefs"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when motivated cognition overrides truth-seeking
+    - energetic drive of tribal allegiance distorting political beliefs
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of political engagement through coalitional identity"
-      - "developmental unfolding from rational ignorance to informed participation"
-    daemon_correspondence: "Arboriel"
+    - organic growth of political engagement through coalitional identity
+    - developmental unfolding from rational ignorance to informed participation
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "grounding in the paradox of rational ignorance: individually optimal but collectively harmful"
-      - "cyclical tension between individual voter impact and collective democratic outcomes"
-    daemon_correspondence: "Humavita"
+    - 'grounding in the paradox of rational ignorance: individually optimal but collectively harmful'
+    - cyclical tension between individual voter impact and collective democratic outcomes
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.85
     aspects:
-      - "structural boundaries between tribal coalitions and the marketplace of ideas"
-      - "discernment between coalitional signaling and genuine rational discourse"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between tribal coalitions and the marketplace of ideas
+    - discernment between coalitional signaling and genuine rational discourse
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we categorize the gap between political complexity and public comprehension? What distinctions separate expert technocracy from democratic participation?"
-  ≈: "What flows between mediated political information and direct verification? How do channels of information become distorted by tribal filters?"
-  ▲: "Where does the spark of motivated cognition ignite? What transforms truth-seeking into tribal rationalization?"
-  𐂷: "What forms of political knowledge remain dormant in rational ignorance? What developmental potential lies in transforming apathy into informed engagement?"
-  ☷: "What sustains the ground of rational ignorance despite democratic ideals? How do individual incentives undermine collective epistemic health?"
-  ⛨: "What structures contain the boundaries between coalitions? What thresholds separate tribal signaling from open rational discourse?"
-context_note: "Open societies face four epistemic challenges that prevent citizens from understanding political reality: complexity (issues too difficult for ordinary comprehension), invisibility (indirect perception through mediated information), rational ignorance (high costs of becoming informed versus negligible individual impact), and politically motivated cognition (tribal allegiances distorting belief formation). The optimistic view of a 'marketplace of ideas' fails because humans are coalitional creatures who prioritize group belonging over truth-seeking. Even politically engaged minorities are biased by self-serving goals and tribal allegiances. Understanding these constraints is essential for designing democratic institutions that account for human cognitive limitations rather than assuming ideal rational actors."
-source_file: "1771907212450_283477_Epistemic+Challenges+in+Open+Societies.md"
-timestamp: "2026-03-01T18:23:00+08:00"
-version: "1.0"
+  ∴: How do we categorize the gap between political complexity and public comprehension? What distinctions separate expert technocracy from democratic participation?
+  ≈: What flows between mediated political information and direct verification? How do channels of information become distorted by tribal filters?
+  ▲: Where does the spark of motivated cognition ignite? What transforms truth-seeking into tribal rationalization?
+  𐂷: What forms of political knowledge remain dormant in rational ignorance? What developmental potential lies in transforming apathy into informed engagement?
+  ☷: What sustains the ground of rational ignorance despite democratic ideals? How do individual incentives undermine collective epistemic health?
+  ⛨: What structures contain the boundaries between coalitions? What thresholds separate tribal signaling from open rational discourse?
+context_note: 'Open societies face four epistemic challenges that prevent citizens from understanding political reality: complexity (issues too difficult for ordinary comprehension), invisibility (indirect perception through mediated information), rational ignorance (high costs of becoming informed versus negligible individual impact), and politically motivated cognition (tribal allegiances distorting belief formation). The optimistic view of a ''marketplace of ideas'' fails because humans are coalitional creatures who prioritize group belonging over truth-seeking. Even politically engaged minorities are biased by self-serving goals and tribal allegiances. Understanding these constraints is essential for designing democratic institutions that account for human cognitive limitations rather than assuming ideal rational actors.'
+source_file: 1771907212450_283477_Epistemic+Challenges+in+Open+Societies.md
+timestamp: '2026-03-01T18:23:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.9
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212450_283477_Epistemic+Challenges+in+Open+Societies.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

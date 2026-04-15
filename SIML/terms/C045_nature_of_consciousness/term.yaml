@@ -1,104 +1,165 @@
 ---
-term: "Nature of Consciousness"
-hex_tag: "#C045"
-source_term: "Exploring the Nature of Consciousness"
-source_file: "1771907212479_418676_Exploring+the+Nature+of+Consciousness.md"
-category: "critical_thinking"
-description: "An exploration of consciousness as a complex phenomenon emerging from neural integration, examining how individual awareness connects to the broader world through 86 billion neurons integrating sensory, emotional, and cognitive information. Investigates Integrated Information Theory (IIT) as a framework for understanding consciousness beyond traditional software-hardware dualities."
-
-nemetic: "Φ(NatureOfConsciousness) = σ(subjective|objective) ∘ ρ(neural|experiential) ∘ λ(integration|awareness) ∘ β(complexity|consciousness) ∘ δγ(individual|universal) ∘ μ(self|world) + ε | :integrating"
-
-siml_encoding: "⟨Neural|complex⟩ ⊳ ⟨Integration|information⟩ → ⟨Consciousness|emergent⟩ ⊗ ⟨Self|world⟩ ⇄ ⟨Awareness|unified⟩"
-
+term: Nature of Consciousness
+hex_tag: '#C045'
+source_term: Exploring the Nature of Consciousness
+source_file: 1771907212479_418676_Exploring+the+Nature+of+Consciousness.md
+category: critical_thinking
+description: An exploration of consciousness as a complex phenomenon emerging from neural integration, examining how individual awareness connects to the broader world through 86 billion neurons integrating sensory, emotional, and cognitive information. Investigates Integrated Information Theory (IIT) as a framework for understanding consciousness beyond traditional software-hardware dualities.
+nemetic: Φ(NatureOfConsciousness) = σ(subjective|objective) ∘ ρ(neural|experiential) ∘ λ(integration|awareness) ∘ β(complexity|consciousness) ∘ δγ(individual|universal) ∘ μ(self|world) + ε | :integrating
+siml_encoding: ⟨Neural|complex⟩ ⊳ ⟨Integration|information⟩ → ⟨Consciousness|emergent⟩ ⊗ ⟨Self|world⟩ ⇄ ⟨Awareness|unified⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between subjective experience and objective neural processes; categorical separation of qualia from electrochemical activity dissolves through IIT)"
-    - "∂Φ/∂ρ (relational flow between neural complexity and conscious experience; the bridge between 86 billion neurons and unified awareness)"
-    - "∂Φ/∂λ (directional transformation from information integration toward conscious awareness; the spark when sufficient complexity yields subjective experience)"
-    - "∂Φ/∂β (feedback loop between increasing neural complexity and emergent consciousness; the developmental cycle of evolving awareness across species)"
-    - "∂Φ/∂δγ (cyclical oscillation between individual self-awareness and universal consciousness; the rhythm of 'Then I am myself the world')"
-    - "∂Φ/∂μ (boundary permeability between self and world; the threshold where individual consciousness recognizes itself in the broader universe)"
-  Z_state: "integrated (boundaries between self and world dissolve; individual consciousness emerges as particular expression of universal awareness through neural integration)"
-  tendency: "Integration/Separation → 0.72 (strong drive toward unified awareness; achieving conscious experience requires sufficient information integration across neural networks)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between subjective experience and objective neural processes; categorical separation of qualia from electrochemical activity dissolves through IIT)
+  - ∂Φ/∂ρ (relational flow between neural complexity and conscious experience; the bridge between 86 billion neurons and unified awareness)
+  - ∂Φ/∂λ (directional transformation from information integration toward conscious awareness; the spark when sufficient complexity yields subjective experience)
+  - ∂Φ/∂β (feedback loop between increasing neural complexity and emergent consciousness; the developmental cycle of evolving awareness across species)
+  - ∂Φ/∂δγ (cyclical oscillation between individual self-awareness and universal consciousness; the rhythm of 'Then I am myself the world')
+  - ∂Φ/∂μ (boundary permeability between self and world; the threshold where individual consciousness recognizes itself in the broader universe)
+  Z_state: permeable
+  z_note: integrated (boundaries between self and world dissolve; individual consciousness emerges as particular expression of universal awareness through neural integration)
+  tendency: Integration/Separation → 0.72 (strong drive toward unified awareness; achieving conscious experience requires sufficient information integration across neural networks)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: emergent
+    type: more_than_human
     power_mode: Within
-
+  epistemics:
+    dsrp:
+      D: subjective / objective
+      S: complexity / consciousness
+      R: neural / experiential
+      P: integration / awareness
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical distinction between conscious and non-conscious systems; logical analysis of IIT's phi metric"
-      - "conceptual clarity in distinguishing subjective experience from information processing"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between conscious and non-conscious systems; logical analysis of IIT's phi metric
+    - conceptual clarity in distinguishing subjective experience from information processing
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between neural activation patterns and conscious states"
-      - "relational dynamics connecting individual awareness to universal consciousness"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between neural activation patterns and conscious states
+    - relational dynamics connecting individual awareness to universal consciousness
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when neural complexity crosses threshold into consciousness"
-      - "energetic drive of awareness seeking to understand itself"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when neural complexity crosses threshold into consciousness
+    - energetic drive of awareness seeking to understand itself
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of consciousness through evolutionary development of neural complexity"
-      - "developmental unfolding from simple awareness to self-reflective consciousness"
-    daemon_correspondence: "Arboriel"
+    - organic growth of consciousness through evolutionary development of neural complexity
+    - developmental unfolding from simple awareness to self-reflective consciousness
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "grounding in the 86 billion neurons and their electrochemical activity"
-      - "cyclical relationship between brain states and conscious experiences"
-    daemon_correspondence: "Humavita"
+    - grounding in the 86 billion neurons and their electrochemical activity
+    - cyclical relationship between brain states and conscious experiences
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural precision of integrated information theory's mathematical framework"
-      - "boundary discernment between levels of consciousness across species"
-    daemon_correspondence: "Ferrosid"
-
+    - structural precision of integrated information theory's mathematical framework
+    - boundary discernment between levels of consciousness across species
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How is conscious experience distinguished from unconscious processing? What cuts separate subjective awareness from neural activity?"
-  ≈: "What flows between neural complexity and conscious experience? How does information integration bridge matter and mind?"
-  ▲: "Where does consciousness want to go? Does awareness serve survival, understanding, or self-transcendence?"
-  𐂷: "What forms of consciousness haven't been recognized? What if machines, ecosystems, or the universe itself possess awareness?"
-  ☷: "What sustains the ground of conscious experience? What are the metabolic costs of maintaining integrated awareness?"
-  ⛨: "What structures contain or enable consciousness? What boundaries separate self from world, human from non-human awareness?"
-
+  ∴: How is conscious experience distinguished from unconscious processing? What cuts separate subjective awareness from neural activity?
+  ≈: What flows between neural complexity and conscious experience? How does information integration bridge matter and mind?
+  ▲: Where does consciousness want to go? Does awareness serve survival, understanding, or self-transcendence?
+  𐂷: What forms of consciousness haven't been recognized? What if machines, ecosystems, or the universe itself possess awareness?
+  ☷: What sustains the ground of conscious experience? What are the metabolic costs of maintaining integrated awareness?
+  ⛨: What structures contain or enable consciousness? What boundaries separate self from world, human from non-human awareness?
 related_terms:
-  - "Integrated Information Theory"
-  - "Consciousness Beyond Materialism"
-  - "Neural Complexity"
-  - "Self-Awareness"
-  - "Qualia"
-  - "Panpsychism"
+- Integrated Information Theory
+- Consciousness Beyond Materialism
+- Neural Complexity
+- Self-Awareness
+- Qualia
+- Panpsychism
+context_note: The Nature of Consciousness explores how subjective experience emerges from objective neural processes, drawing on Christof Koch's work and Integrated Information Theory (IIT). The article 'Then I Am Myself the World' challenges the software-hardware metaphor of consciousness, proposing instead that consciousness arises from the brain's capacity to integrate information. With 86 billion neurons forming complex networks, the brain generates causal power that manifests as conscious experience. The concept bridges individual self-awareness (I) with the objective study of neural mechanisms (It), suggesting consciousness exists on a spectrum across species and potentially in non-biological systems.
+timestamp: '2026-03-01T13:23:00+08:00'
+version: '1.0'
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.9
+    metal_mu: 0.8
+provenance:
+  source_file: "1771907212479_418676_Exploring+the+Nature+of+Consciousness.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-context_note: "The Nature of Consciousness explores how subjective experience emerges from objective neural processes, drawing on Christof Koch's work and Integrated Information Theory (IIT). The article 'Then I Am Myself the World' challenges the software-hardware metaphor of consciousness, proposing instead that consciousness arises from the brain's capacity to integrate information. With 86 billion neurons forming complex networks, the brain generates causal power that manifests as conscious experience. The concept bridges individual self-awareness (I) with the objective study of neural mechanisms (It), suggesting consciousness exists on a spectrum across species and potentially in non-biological systems."
-
-timestamp: "2026-03-01T13:23:00+08:00"
-version: "1.0"
 ---
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"

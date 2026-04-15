@@ -1,32 +1,151 @@
 ---
-term: "Chronosystem vs Context Engineering"
-hex_tag: "S1C2"
-series: "S"
-source_file: "1771907213779_2668906_Chronosystem+vs.+Context+Engineering+Conflicts.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The Chronosystem describes how effects accumulate over time through irreversible perturbations. Context engineering assumes contexts can be designed, tuned, or controlled. These are incompatible operations: treating time-propagation as a tunable environment, turning historical events into knobs, and mistaking retrospective explanation for design capacity."
-nemetic: "Φ(Chronosystem vs Context) = σ(temporal_regime|manipulable_context) ∘ ρ(irreversible_perturbation|adjustable_variable) ∘ λ(retrospective_causality|forward_control) ∘ β(generational_drift|boundary_containment) ∘ δγ(cumulative_path|optimization_loop) ∘ μ(historical_momentum|design_rollback) + ε | :incompatibility"
-siml_encoding: "⟨temporal_regime, manipulable_context⟩ ⊳ ⟨irreversible_perturbation, adjustable_variable⟩ → ⟨retrospective_causality, forward_control⟩ ⊗ ⟨generational_drift, boundary_containment⟩ ⇄ ⟨historical_momentum, design_rollback⟩"
+term: Chronosystem vs Context Engineering
+hex_tag: S1C2
+series: S
+source_file: 1771907213779_2668906_Chronosystem+vs.+Context+Engineering+Conflicts.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'The Chronosystem describes how effects accumulate over time through irreversible perturbations. Context engineering assumes contexts can be designed, tuned, or controlled. These are incompatible operations: treating time-propagation as a tunable environment, turning historical events into knobs, and mistaking retrospective explanation for design capacity.'
+nemetic: Φ(Chronosystem vs Context) = σ(temporal_regime|manipulable_context) ∘ ρ(irreversible_perturbation|adjustable_variable) ∘ λ(retrospective_causality|forward_control) ∘ β(generational_drift|boundary_containment) ∘ δγ(cumulative_path|optimization_loop) ∘ μ(historical_momentum|design_rollback) + ε | :incompatibility
+siml_encoding: ⟨temporal_regime, manipulable_context⟩ ⊳ ⟨irreversible_perturbation, adjustable_variable⟩ → ⟨retrospective_causality, forward_control⟩ ⊗ ⟨generational_drift, boundary_containment⟩ ⇄ ⟨historical_momentum, design_rollback⟩
+coords:
+  ontology:
+    primary: It
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: temporal_regime / manipulable_context
+      S: generational_drift / boundary_containment
+      R: irreversible_perturbation / adjustable_variable
+      P: retrospective_causality / forward_control
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes temporal regimes (non-manipulable time-accumulation) from manipulable contexts (adjustable parameters). The core conflict: chronosystem is not a tunable environment."
-    - "∂Φ/∂ρ — Water maps the relational mismatch between irreversible historical perturbations (war, migration, technology) and context engineering's treatment of these as adjustable variables."
-    - "∂Φ/∂λ — Fire exposes the retrospective causality trap: chronosystem effects identified decades later cannot ground forward control or predictive leverage."
-    - "∂Φ/∂β — Wood tracks generational drift that crosses institutions, lifetimes, and cultures, defying context engineering's need for clear boundaries and scoped influence."
-    - "∂Φ/∂δγ — Earth cycles between cumulative, path-dependent processes and optimization loops that assume rollback and iteration. Irreversibility violates reversible logic."
-    - "∂Φ/∂μ — Metal structures the governance illusion: treating chronosystem as engineerable context invites generational policy myths and authority leakage disguised as systems thinking."
-  Z_state: "incompatibility — the fundamental mismatch between temporal regime dynamics and context engineering assumptions"
-  tendency: "σ → 0.85"
+  - '∂Φ/∂σ — Air distinguishes temporal regimes (non-manipulable time-accumulation) from manipulable contexts (adjustable parameters). The core conflict: chronosystem is not a tunable environment.'
+  - ∂Φ/∂ρ — Water maps the relational mismatch between irreversible historical perturbations (war, migration, technology) and context engineering's treatment of these as adjustable variables.
+  - '∂Φ/∂λ — Fire exposes the retrospective causality trap: chronosystem effects identified decades later cannot ground forward control or predictive leverage.'
+  - ∂Φ/∂β — Wood tracks generational drift that crosses institutions, lifetimes, and cultures, defying context engineering's need for clear boundaries and scoped influence.
+  - ∂Φ/∂δγ — Earth cycles between cumulative, path-dependent processes and optimization loops that assume rollback and iteration. Irreversibility violates reversible logic.
+  - '∂Φ/∂μ — Metal structures the governance illusion: treating chronosystem as engineerable context invites generational policy myths and authority leakage disguised as systems thinking.'
+  Z_state: semi
+  z_note: incompatibility — the fundamental mismatch between temporal regime dynamics and context engineering assumptions
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["regime-context distinction", "incompatibility analysis"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.62, aspects: ["perturbation-variable mismatch", "relational incompatibility"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["retrospective causality trap", "forward control illusion"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["generational drift", "boundary indeterminacy"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: ["path dependence", "irreversibility"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["governance illusion", "authority leakage"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - regime-context distinction
+    - incompatibility analysis
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.62
+    aspects:
+    - perturbation-variable mismatch
+    - relational incompatibility
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - retrospective causality trap
+    - forward control illusion
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - generational drift
+    - boundary indeterminacy
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - path dependence
+    - irreversibility
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - governance illusion
+    - authority leakage
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.62
+    fire_lambda: 0.72
+    wood_beta: 0.65
+    earth_delta_gamma: 0.78
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213779_2668906_Chronosystem+vs.+Context+Engineering+Conflicts.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

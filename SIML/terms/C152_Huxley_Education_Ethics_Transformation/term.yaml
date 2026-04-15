@@ -1,14 +1,9 @@
 term_id: C152
 hex_tag: '#C152'
 name: Huxley_Education_Ethics_Transformation
-term: "Huxley's Education and Ethics Transformation"
-nemetic: >-
-  Φ(EducationEthics) = σ(conformity|individuality) ∘ ρ(dogma|spirituality)
-  ∘ λ(materialism|transformation) ∘ β(belief|evidence) ∘ δγ(means|ends)
-  ∘ μ(ethics|action) + ε | :open
-siml_encoding: >-
-  ⟨Education|conformity⟩ ⊳ ⟨Spirituality|dogma⟩ ⇄ ⟨Beliefs|flexible⟩ ⊗
-  ⟨Ethics|holistic⟩ ⊳ ⟨Transformation|individual⟩
+term: Huxley's Education and Ethics Transformation
+nemetic: Φ(EducationEthics) = σ(conformity|individuality) ∘ ρ(dogma|spirituality) ∘ λ(materialism|transformation) ∘ β(belief|evidence) ∘ δγ(means|ends) ∘ μ(ethics|action) + ε | :open
+siml_encoding: ⟨Education|conformity⟩ ⊳ ⟨Spirituality|dogma⟩ ⇄ ⟨Beliefs|flexible⟩ ⊗ ⟨Ethics|holistic⟩ ⊳ ⟨Transformation|individual⟩
 formalism:
   math_operators:
   - σ
@@ -23,14 +18,14 @@ formalism:
   - Ψ_exp
   - Ψ_str
   partials:
-  - "∂Φ/∂σ (distinction between conformity and individuality in education)"
-  - "∂Φ/∂ρ (relational tension between dogmatic religion and genuine spirituality)"
-  - "∂Φ/∂λ (directional transformation from materialism to moral development)"
-  - "∂Φ/∂β (branching between rigid beliefs and evidence-based flexibility)"
-  - "∂Φ/∂δγ (metabolic cycle of means becoming ends in ethical action)"
-  - "∂Φ/∂μ (boundary enforcement between professed ethics and actual behavior)"
+  - ∂Φ/∂σ (distinction between conformity and individuality in education)
+  - ∂Φ/∂ρ (relational tension between dogmatic religion and genuine spirituality)
+  - ∂Φ/∂λ (directional transformation from materialism to moral development)
+  - ∂Φ/∂β (branching between rigid beliefs and evidence-based flexibility)
+  - ∂Φ/∂δγ (metabolic cycle of means becoming ends in ethical action)
+  - ∂Φ/∂μ (boundary enforcement between professed ethics and actual behavior)
   Z_state: permeable
-  tendency: "Individuality/Conformity → 0.6"
+  tendency: Individuality/Conformity → 0.6
   hex:
   - '0x03'
   - '0x07'
@@ -45,14 +40,14 @@ coords:
     - I
   epistemics:
     dsrp:
-      D: "Conformist education vs transformative education vs indoctrination"
-      S: "Education, religion, belief, and ethics integration system"
-      R: "Method → formation → character → ethics → society"
-      P: "Educator, student, spiritual practitioner, ethicist"
+      D: Conformist education vs transformative education vs indoctrination
+      S: Education, religion, belief, and ethics integration system
+      R: Method → formation → character → ethics → society
+      P: Educator, student, spiritual practitioner, ethicist
     learning: L2
   time:
     mode: cyclical
-    phase: "formation-practice-transformation loop"
+    phase: formation-practice-transformation loop
   qualia:
     affect:
     - aspiration
@@ -76,30 +71,80 @@ coords:
     - Holistic Educator
     - Ethical Practitioner
     power_mode: With
+  coherence:
+    state: integrated
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "What separates conformity from genuine individuality in education? How do we distinguish dogma from authentic spirituality?"
-  ≈: "What flows between religious practices and ethical living? How do beliefs transform into moral behavior?"
-  ▲: "Where does transformative education lead? What change is possible when means align with ethical ends?"
-  𐂷: "What forms of moral education have not been tried? What escapes institutionalized religious structures?"
-  ☷: "What is the metabolic cost of sustained ethical development? What sustains moral action without external validation?"
-  ⛨: "What structures contain human potential for goodness? What boundaries separate authentic ethics from performative morality?"
-context_note: "This term captures Huxley's exploration of education, religious practices,
-  beliefs, and ethics from Ends and Means (1937), Chapters 12-16. Huxley argues that
-  education should foster critical thinking, moral development, and individuality
-  rather than conformity. He critiques institutionalized religion for prioritizing
-  dogma over genuine spiritual growth, advocates for flexible evidence-based beliefs,
-  and insists on holistic ethics that integrate reason, compassion, and spirituality."
-source: "Aldous Huxley, Ends and Means (1937), Chapters 12-16"
+  ∴: What separates conformity from genuine individuality in education? How do we distinguish dogma from authentic spirituality?
+  ≈: What flows between religious practices and ethical living? How do beliefs transform into moral behavior?
+  ▲: Where does transformative education lead? What change is possible when means align with ethical ends?
+  𐂷: What forms of moral education have not been tried? What escapes institutionalized religious structures?
+  ☷: What is the metabolic cost of sustained ethical development? What sustains moral action without external validation?
+  ⛨: What structures contain human potential for goodness? What boundaries separate authentic ethics from performative morality?
+context_note: This term captures Huxley's exploration of education, religious practices, beliefs, and ethics from Ends and Means (1937), Chapters 12-16. Huxley argues that education should foster critical thinking, moral development, and individuality rather than conformity. He critiques institutionalized religion for prioritizing dogma over genuine spiritual growth, advocates for flexible evidence-based beliefs, and insists on holistic ethics that integrate reason, compassion, and spirituality.
+source: Aldous Huxley, Ends and Means (1937), Chapters 12-16
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Aldous Huxley"
+  work: "Ends and Means (1937), Chapters 12-16"
+  source_domain: "philosophy/ethics"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

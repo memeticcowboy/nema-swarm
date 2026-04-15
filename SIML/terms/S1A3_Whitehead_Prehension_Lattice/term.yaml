@@ -1,32 +1,151 @@
 ---
-term: "Whitehead Prehension and Lattice"
-hex_tag: "S1A3"
-series: "S"
-source_file: "1771907213721_2618645_Exploring+Whitehead%27s+Prehension+and+Lattice+Dynamics.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The relationship between Whitehead's prehension (the relational grasping by which actual entities take account of each other) and the Lattice (the dynamic relational matrix co-ordered by all entities). Unlike God's unilateral ordering, the Lattice is bottom-up and emergent."
-nemetic: "Φ(Prehension Lattice) = σ(entity|relation) ∘ ρ(prehension|concrescence) ∘ λ(potential|actual) ∘ β(process|form) ∘ δγ(creation|perishing) ∘ μ(lattice|god) + ε | :co_ordered_emergence"
-siml_encoding: "⟨entity, relation⟩ ⊳ ⟨prehension, concrescence⟩ → ⟨potential, actual⟩ ⊗ ⟨process, form⟩ ⇄ ⟨lattice, god⟩"
+term: Whitehead Prehension and Lattice
+hex_tag: S1A3
+series: S
+source_file: 1771907213721_2618645_Exploring+Whitehead%27s+Prehension+and+Lattice+Dynamics.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The relationship between Whitehead's prehension (the relational grasping by which actual entities take account of each other) and the Lattice (the dynamic relational matrix co-ordered by all entities). Unlike God's unilateral ordering, the Lattice is bottom-up and emergent.
+nemetic: Φ(Prehension Lattice) = σ(entity|relation) ∘ ρ(prehension|concrescence) ∘ λ(potential|actual) ∘ β(process|form) ∘ δγ(creation|perishing) ∘ μ(lattice|god) + ε | :co_ordered_emergence
+siml_encoding: ⟨entity, relation⟩ ⊳ ⟨prehension, concrescence⟩ → ⟨potential, actual⟩ ⊗ ⟨process, form⟩ ⇄ ⟨lattice, god⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: entity / relation
+      S: process / form
+      R: prehension / concrescence
+      P: potential / actual
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between discrete entities and their relational connections, showing that actual occasions are constituted by their prehensions rather than existing independently."
-    - "∂Φ/∂ρ — Maps prehension as the fundamental relational act by which entities grasp and integrate one another in the process of concrescence (becoming)."
-    - "∂Φ/∂λ — Transforms pure potential (eternal objects) into actual occasions through the process of realization, where God offers possibilities and entities select among them."
-    - "∂Φ/∂β — Tracks process-made-form: the Lattice is not a static backdrop but a living, evolving pattern continuously re-enacted through ongoing concrescence."
-    - "∂Φ/∂δγ — Cycles through creation and perishing as actual occasions come into being, achieve satisfaction, and become data for subsequent occasions."
-    - "∂Φ/∂μ — Structures the critical distinction between the Lattice (co-ordered by all entities, bottom-up) and God (unilateral persuader of potentials, top-down)."
-  Z_state: "co_ordered_emergence — the relational fabric actively woven by mutual prehension among all actual entities"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ — Distinguishes between discrete entities and their relational connections, showing that actual occasions are constituted by their prehensions rather than existing independently.
+  - ∂Φ/∂ρ — Maps prehension as the fundamental relational act by which entities grasp and integrate one another in the process of concrescence (becoming).
+  - ∂Φ/∂λ — Transforms pure potential (eternal objects) into actual occasions through the process of realization, where God offers possibilities and entities select among them.
+  - '∂Φ/∂β — Tracks process-made-form: the Lattice is not a static backdrop but a living, evolving pattern continuously re-enacted through ongoing concrescence.'
+  - ∂Φ/∂δγ — Cycles through creation and perishing as actual occasions come into being, achieve satisfaction, and become data for subsequent occasions.
+  - ∂Φ/∂μ — Structures the critical distinction between the Lattice (co-ordered by all entities, bottom-up) and God (unilateral persuader of potentials, top-down).
+  Z_state: permeable
+  z_note: co_ordered_emergence — the relational fabric actively woven by mutual prehension among all actual entities
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["entity-relation distinction", "actual occasion identity"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["prehension-concrescence coupling", "relational constitution"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.65, aspects: ["potential-actual transformation", "realization process"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["process-made-form", "evolving pattern"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["creation-perishing cycling", "occasion sequence"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["lattice-god structural distinction", "ordering principles"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - entity-relation distinction
+    - actual occasion identity
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - prehension-concrescence coupling
+    - relational constitution
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+    - potential-actual transformation
+    - realization process
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - process-made-form
+    - evolving pattern
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - creation-perishing cycling
+    - occasion sequence
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - lattice-god structural distinction
+    - ordering principles
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - metal_mu
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.85
+    fire_lambda: 0.65
+    wood_beta: 0.7
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213721_2618645_Exploring+Whitehead%27s+Prehension+and+Lattice+Dynamics.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

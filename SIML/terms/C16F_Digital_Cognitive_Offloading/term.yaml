@@ -2,108 +2,149 @@ term_id: C16F
 hex_tag: '#C16F'
 name: digital_cognitive_offloading
 term: Digital Cognitive Offloading
-nemetic: >-
-  Φ(DigitalOffload) = σ(recall|access) ∘ ρ(memory|tool) ∘
-  λ(retrieval|storage) ∘ β(dependence|convenience) ∘
-  δγ(effort|retention) ∘ μ(internal|external) + ε | :drift
-siml_encoding: >-
-  ⟨InternalMemory|offloaded⟩ ⊳ ⟨DigitalTool|accessed⟩ ⇄
-  ⟨TransactiveMemory|distributed⟩ ⊗ ⟨GoogleEffect|reinforced⟩ ⊳
-  ⟨Metacognition|disrupted⟩
+nemetic: Φ(DigitalOffload) = σ(recall|access) ∘ ρ(memory|tool) ∘ λ(retrieval|storage) ∘ β(dependence|convenience) ∘ δγ(effort|retention) ∘ μ(internal|external) + ε | :drift
+siml_encoding: ⟨InternalMemory|offloaded⟩ ⊳ ⟨DigitalTool|accessed⟩ ⇄ ⟨TransactiveMemory|distributed⟩ ⊗ ⟨GoogleEffect|reinforced⟩ ⊳ ⟨Metacognition|disrupted⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (information worth remembering vs merely accessing)"
-    - "∂Φ/∂ρ (cognitive resources flowing outward to external storage)"
-    - "∂Φ/∂λ (retrieval pathway orientation over retention)"
-    - "∂Φ/∂β (self-reinforcing offloading-weakness-offloading loop)"
-    - "∂Φ/∂δγ (energy trade-off between effortful encoding and convenience)"
-    - "∂Φ/∂μ (permeable membrane between internal knowledge and cloud)"
+  - ∂Φ/∂σ (information worth remembering vs merely accessing)
+  - ∂Φ/∂ρ (cognitive resources flowing outward to external storage)
+  - ∂Φ/∂λ (retrieval pathway orientation over retention)
+  - ∂Φ/∂β (self-reinforcing offloading-weakness-offloading loop)
+  - ∂Φ/∂δγ (energy trade-off between effortful encoding and convenience)
+  - ∂Φ/∂μ (permeable membrane between internal knowledge and cloud)
   Z_state: semi
-  tendency: "Recall/Access → 0.6"
+  tendency: Recall/Access → 0.6
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - Virtual
-      - Its
+    - Virtual
+    - Its
   epistemics:
     dsrp:
-      D: "Internal memory vs externally accessible information"
-      S: "Transactive memory system (biological + digital substrates)"
-      R: "Offloading → reduced practice → weaker memory → greater offloading"
-      P: "Cognitive scientist, educator, technology user, AI designer"
+      D: Internal memory vs externally accessible information
+      S: Transactive memory system (biological + digital substrates)
+      R: Offloading → reduced practice → weaker memory → greater offloading
+      P: Cognitive scientist, educator, technology user, AI designer
     learning: L1
   time:
     mode: linear
-    phase: "progressive redistribution of memory to digital systems"
+    phase: progressive redistribution of memory to digital systems
   qualia:
     affect:
-      - convenience
-      - vulnerability
-      - unease
+    - convenience
+    - vulnerability
+    - unease
     aesthetic:
-      - frictionless
-      - shallow
-      - distributed
+    - frictionless
+    - shallow
+    - distributed
     symbolic:
-      - cloud
-      - google-effect
-      - external-brain
+    - cloud
+    - google-effect
+    - external-brain
     energetic:
-      - efficient
-      - atrophying
-      - redistributed
+    - efficient
+    - atrophying
+    - redistributed
   agency:
     type: ego
     voice:
-      - Offloaded Thinker
-      - Distributed Mind
+    - Offloaded Thinker
+    - Distributed Mind
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is genuine knowledge distinguished from mere access to information?"
-  ≈: "What flows between human memory and digital storage systems?"
-  ▲: "What transforms convenient access into cognitive dependency?"
-  𐂷: "How does the offloading-atrophy loop reinforce itself over time?"
-  ☷: "What grounds the effort of encoding against the ease of searching?"
-  ⛨: "Where does the boundary between internal knowledge and external data hold?"
-context_note: >-
-  Digital Cognitive Offloading describes the tendency to rely on digital tools
-  for information storage and retrieval rather than internal memory. The Google
-  Effect shows that knowing information is externally available reduces
-  motivation to remember it. AI may further alter memory formation by reducing
-  depth of processing and fostering false confidence in understanding.
-source: "Nature — How the Internet and AI Are Changing Memory (2025)"
+  ∴: How is genuine knowledge distinguished from mere access to information?
+  ≈: What flows between human memory and digital storage systems?
+  ▲: What transforms convenient access into cognitive dependency?
+  𐂷: How does the offloading-atrophy loop reinforce itself over time?
+  ☷: What grounds the effort of encoding against the ease of searching?
+  ⛨: Where does the boundary between internal knowledge and external data hold?
+context_note: Digital Cognitive Offloading describes the tendency to rely on digital tools for information storage and retrieval rather than internal memory. The Google Effect shows that knowing information is externally available reduces motivation to remember it. AI may further alter memory formation by reducing depth of processing and fostering false confidence in understanding.
+source: Nature — How the Internet and AI Are Changing Memory (2025)
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

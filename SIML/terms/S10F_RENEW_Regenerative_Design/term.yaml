@@ -1,32 +1,161 @@
 ---
-term: "RENEW Regenerative Design"
-hex_tag: "S10F"
-series: "S"
-source_file: "1771907213283_2261774_RENEW+Manifesto%3A+Principles+for+Regenerative+Design.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "University of Bath's Regenerative Design Guidebook articulating six principles that move beyond sustainability toward net-positive outcomes. Holistic integration of environmental, social, and economic factors. Nature-aligned design mimicking ecological patterns and cycles. Resilience through adaptive capacity and regenerative rather than merely sustaining processes. Reflective governance with continuous evaluation loops. Emphasis on interconnectivity across systems, knowledge transmission across generations, and circular economy principles that restore rather than extract."
-nemetic: "Φ(RegenerativeDesign) = σ(systems_integration|holistic_mapping) ∘ ρ(community_wellbeing|relational_regeneration) ∘ λ(beyond_sustainability|paradigm_elevation) ∘ β(nature_alignment|biomimetic_cycling) ∘ δγ(material_circularity|ecological_substrate) ∘ μ(reflective_governance|continuous_evaluation) + ε | :net_positive"
-siml_encoding: "⟨sustainability_baseline⟩ ⊳ ⟨regenerative_aspiration⟩ → ⟨nature_aligned_design⟩ ⊗ ⟨circular_material_flow⟩ ⇄ ⟨net_positive_outcome⟩"
+term: RENEW Regenerative Design
+hex_tag: S10F
+series: S
+source_file: 1771907213283_2261774_RENEW+Manifesto%3A+Principles+for+Regenerative+Design.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: University of Bath's Regenerative Design Guidebook articulating six principles that move beyond sustainability toward net-positive outcomes. Holistic integration of environmental, social, and economic factors. Nature-aligned design mimicking ecological patterns and cycles. Resilience through adaptive capacity and regenerative rather than merely sustaining processes. Reflective governance with continuous evaluation loops. Emphasis on interconnectivity across systems, knowledge transmission across generations, and circular economy principles that restore rather than extract.
+nemetic: Φ(RegenerativeDesign) = σ(systems_integration|holistic_mapping) ∘ ρ(community_wellbeing|relational_regeneration) ∘ λ(beyond_sustainability|paradigm_elevation) ∘ β(nature_alignment|biomimetic_cycling) ∘ δγ(material_circularity|ecological_substrate) ∘ μ(reflective_governance|continuous_evaluation) + ε | :net_positive
+siml_encoding: ⟨sustainability_baseline⟩ ⊳ ⟨regenerative_aspiration⟩ → ⟨nature_aligned_design⟩ ⊗ ⟨circular_material_flow⟩ ⇄ ⟨net_positive_outcome⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: systems_integration / holistic_mapping
+      S: nature_alignment / biomimetic_cycling
+      R: community_wellbeing / relational_regeneration
+      P: beyond_sustainability / paradigm_elevation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ → systems integration maps environmental, social, and economic dimensions as interdependent rather than competing domains"
-    - "∂Φ/∂ρ → community wellbeing and relational regeneration extend design goals beyond material outcomes to social fabric restoration"
-    - "∂Φ/∂λ → the shift beyond sustainability to regeneration represents a paradigm elevation from 'do less harm' to 'actively restore'"
-    - "∂Φ/∂β → nature-aligned design mimics ecological patterns: cycles, cascades, symbioses, and succession dynamics"
-    - "∂Φ/∂δγ → material circularity and ecological substrate ground regenerative design in physical resource flows and ecosystem health"
-    - "∂Φ/∂μ → reflective governance with continuous evaluation provides structural accountability for regenerative outcomes"
-  Z_state: "net_positive — design outcomes actively restore and enhance the systems they operate within, producing more ecological, social, and economic value than they consume"
-  tendency: "β → 0.81"
+  - ∂Φ/∂σ → systems integration maps environmental, social, and economic dimensions as interdependent rather than competing domains
+  - ∂Φ/∂ρ → community wellbeing and relational regeneration extend design goals beyond material outcomes to social fabric restoration
+  - ∂Φ/∂λ → the shift beyond sustainability to regeneration represents a paradigm elevation from 'do less harm' to 'actively restore'
+  - '∂Φ/∂β → nature-aligned design mimics ecological patterns: cycles, cascades, symbioses, and succession dynamics'
+  - ∂Φ/∂δγ → material circularity and ecological substrate ground regenerative design in physical resource flows and ecosystem health
+  - ∂Φ/∂μ → reflective governance with continuous evaluation provides structural accountability for regenerative outcomes
+  Z_state: permeable
+  z_note: net_positive — design outcomes actively restore and enhance the systems they operate within, producing more ecological, social, and economic value than they consume
+  tendency: β → 0.81
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.68, aspects: [systems_thinking, holistic_integration, cross-domain_analysis], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: [community_wellbeing, social_fabric, relational_restoration, intergenerational_care], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: [paradigm_elevation, sustainability_transcendence, visionary_aspiration], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.81, aspects: [biomimicry, ecological_cycling, nature_alignment, organic_succession], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.79, aspects: [material_circularity, resource_flow, soil_health, ecosystem_restoration], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.67, aspects: [reflective_governance, evaluation_frameworks, accountability_structures, design_standards], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.68
+    aspects:
+    - systems_thinking
+    - holistic_integration
+    - cross-domain_analysis
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - community_wellbeing
+    - social_fabric
+    - relational_restoration
+    - intergenerational_care
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - paradigm_elevation
+    - sustainability_transcendence
+    - visionary_aspiration
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.81
+    aspects:
+    - biomimicry
+    - ecological_cycling
+    - nature_alignment
+    - organic_succession
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.79
+    aspects:
+    - material_circularity
+    - resource_flow
+    - soil_health
+    - ecosystem_restoration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.67
+    aspects:
+    - reflective_governance
+    - evaluation_frameworks
+    - accountability_structures
+    - design_standards
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - earth_delta_gamma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.68
+    water_rho: 0.65
+    fire_lambda: 0.72
+    wood_beta: 0.81
+    earth_delta_gamma: 0.79
+    metal_mu: 0.67
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213283_2261774_RENEW+Manifesto%3A+Principles+for+Regenerative+Design.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

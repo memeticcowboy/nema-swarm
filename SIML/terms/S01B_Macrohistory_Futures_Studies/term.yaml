@@ -1,64 +1,153 @@
 ---
-term: "Integrating Macrohistory and Futures Studies"
-hex_tag: "S01B"
-series: "S"
-source_file: "1771907212426_271976_Integrating+Macrohistory+and+Futures+Studies.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Integration of macrohistory with futures studies — using large-scale historical patterns to inform future predictions and adaptive strategy. Balances agency and structure in shaping outcomes. Examines cyclical, linear, and spiral models of time across cultures. Draws on predictive frameworks from Ibn Khaldun, Sorokin, Sarkar, and Toynbee. Explores metaphors of time and their cultural functions. Adaptive leadership within historical constraints as the practical outcome."
-nemetic: "Φ(MacroFutures) = σ(past|future) ∘ ρ(agency|structure) ∘ λ(cyclical|linear) ∘ β(pattern|prediction) ∘ δγ(historical|emergent) ∘ μ(framework|adaptation) + ε | :forecasting"
-siml_encoding: "⟨Past|distinguished⟩ ⊳ ⟨Agency|related⟩ → ⟨Cyclical|transformed⟩ ⊗ ⟨Pattern|growing⟩ ⇄ ⟨Framework|forecasting⟩"
+term: Integrating Macrohistory and Futures Studies
+hex_tag: S01B
+series: S
+source_file: 1771907212426_271976_Integrating+Macrohistory+and+Futures+Studies.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Integration of macrohistory with futures studies — using large-scale historical patterns to inform future predictions and adaptive strategy. Balances agency and structure in shaping outcomes. Examines cyclical, linear, and spiral models of time across cultures. Draws on predictive frameworks from Ibn Khaldun, Sorokin, Sarkar, and Toynbee. Explores metaphors of time and their cultural functions. Adaptive leadership within historical constraints as the practical outcome.
+nemetic: Φ(MacroFutures) = σ(past|future) ∘ ρ(agency|structure) ∘ λ(cyclical|linear) ∘ β(pattern|prediction) ∘ δγ(historical|emergent) ∘ μ(framework|adaptation) + ε | :forecasting
+siml_encoding: ⟨Past|distinguished⟩ ⊳ ⟨Agency|related⟩ → ⟨Cyclical|transformed⟩ ⊗ ⟨Pattern|growing⟩ ⇄ ⟨Framework|forecasting⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: past / future
+      S: pattern / prediction
+      R: agency / structure
+      P: cyclical / linear
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between past and future as the foundational temporal axis)"
-    - "∂Φ/∂ρ (relational balance between human agency and structural-historical constraint)"
-    - "∂Φ/∂λ (transformation between cyclical and linear models of temporal change)"
-    - "∂Φ/∂β (growth from historical pattern recognition to predictive modeling)"
-    - "∂Φ/∂δγ (cycling between established historical ground and emergent possibilities)"
-    - "∂Φ/∂μ (structural tension between fixed analytical frameworks and adaptive flexibility)"
-  Z_state: "forecasting (informed anticipation grounded in macrohistorical pattern recognition)"
-  tendency: "Pattern/Prediction → 0.85"
+  - ∂Φ/∂σ (distinction between past and future as the foundational temporal axis)
+  - ∂Φ/∂ρ (relational balance between human agency and structural-historical constraint)
+  - ∂Φ/∂λ (transformation between cyclical and linear models of temporal change)
+  - ∂Φ/∂β (growth from historical pattern recognition to predictive modeling)
+  - ∂Φ/∂δγ (cycling between established historical ground and emergent possibilities)
+  - ∂Φ/∂μ (structural tension between fixed analytical frameworks and adaptive flexibility)
+  Z_state: semi
+  z_note: forecasting (informed anticipation grounded in macrohistorical pattern recognition)
+  tendency: Pattern/Prediction → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   earth_delta_gamma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Historical-emergent cycling as the central grounding dynamic — the past as ground for future emergence"
-      - "Macrohistory as the deep temporal earth from which futures studies grows its projections"
-    daemon_correspondence: "Humavita"
+    - Historical-emergent cycling as the central grounding dynamic — the past as ground for future emergence
+    - Macrohistory as the deep temporal earth from which futures studies grows its projections
+    daemon_correspondence: Humavita
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Past/future distinction as the foundational temporal axis of the entire enterprise"
-      - "Analytical separation of what has been from what may be as the precondition for forecasting"
-    daemon_correspondence: "Aerunik"
+    - Past/future distinction as the foundational temporal axis of the entire enterprise
+    - Analytical separation of what has been from what may be as the precondition for forecasting
+    daemon_correspondence: Aerunik
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Pattern recognition growing into predictive modeling — from historical regularity to future projection"
-      - "Organic development of forecasting capacity rooted in accumulated macrohistorical knowledge"
-    daemon_correspondence: "Arboriel"
+    - Pattern recognition growing into predictive modeling — from historical regularity to future projection
+    - Organic development of forecasting capacity rooted in accumulated macrohistorical knowledge
+    daemon_correspondence: Arboriel
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "Transformation between cyclical, linear, and spiral models of temporal change"
-      - "Catalytic reframing of time itself — how different temporal metaphors generate different futures"
-    daemon_correspondence: "Jvalion"
+    - Transformation between cyclical, linear, and spiral models of temporal change
+    - Catalytic reframing of time itself — how different temporal metaphors generate different futures
+    daemon_correspondence: Jvalion
   water_rho:
     emphasis: 0.75
     aspects:
-      - "Agency-structure balance as the relational dynamic between human choice and historical constraint"
-      - "Flow between what individuals and collectives can shape and what history imposes"
-    daemon_correspondence: "Sentaria"
+    - Agency-structure balance as the relational dynamic between human choice and historical constraint
+    - Flow between what individuals and collectives can shape and what history imposes
+    daemon_correspondence: Sentaria
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "Predictive frameworks (Ibn Khaldun, Sorokin, Sarkar, Toynbee) as structural analytical tools"
-      - "Tension between fixed frameworks and the adaptive flexibility required by novel conditions"
-    daemon_correspondence: "Ferrosid"
+    - Predictive frameworks (Ibn Khaldun, Sorokin, Sarkar, Toynbee) as structural analytical tools
+    - Tension between fixed frameworks and the adaptive flexibility required by novel conditions
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S00B_Metaphors_Consciousness_Behavior"
-  - "S00D_Sense_Making_Complex_Environments"
+- S00B_Metaphors_Consciousness_Behavior
+- S00D_Sense_Making_Complex_Environments
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    earth_delta_gamma: 0.9
+    air_sigma: 0.8
+    wood_beta: 0.8
+    fire_lambda: 0.75
+    water_rho: 0.75
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212426_271976_Integrating+Macrohistory+and+Futures+Studies.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,65 +1,154 @@
 ---
-term: "Animal Learning and Memetics"
-hex_tag: "S013"
-series: "S"
-source_file: "1771907212400_259972_Animal+Learning+and+Memetics.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Relationship between hardwired behaviors and learning in animals and humans. Memes as 'hardwired software' implanted in the brain and triggered by conditions. Precepts (genes) vs concepts (memes) as co-evolutionary forces. Memes evolved approximately 200K years ago alongside ancient neural connections, with Darwin's dog memory test illustrating the intersection of instinct and learned behavior."
-nemetic: "Φ(AnimalMemes) = σ(hardwired|learned) ∘ ρ(gene|meme) ∘ λ(trigger|activation) ∘ β(precept|concept) ∘ δγ(ancient|recent) ∘ μ(neural|memetic) + ε | :co-evolving"
-siml_encoding: "⟨Behavior|distinguished⟩ ⊳ ⟨Gene|related⟩ → ⟨Trigger|activated⟩ ⊗ ⟨Precept|growing⟩ ⇄ ⟨Meme|co-evolving⟩"
+term: Animal Learning and Memetics
+hex_tag: S013
+series: S
+source_file: 1771907212400_259972_Animal+Learning+and+Memetics.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Relationship between hardwired behaviors and learning in animals and humans. Memes as 'hardwired software' implanted in the brain and triggered by conditions. Precepts (genes) vs concepts (memes) as co-evolutionary forces. Memes evolved approximately 200K years ago alongside ancient neural connections, with Darwin's dog memory test illustrating the intersection of instinct and learned behavior.
+nemetic: Φ(AnimalMemes) = σ(hardwired|learned) ∘ ρ(gene|meme) ∘ λ(trigger|activation) ∘ β(precept|concept) ∘ δγ(ancient|recent) ∘ μ(neural|memetic) + ε | :co-evolving
+siml_encoding: ⟨Behavior|distinguished⟩ ⊳ ⟨Gene|related⟩ → ⟨Trigger|activated⟩ ⊗ ⟨Precept|growing⟩ ⇄ ⟨Meme|co-evolving⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: hardwired / learned
+      S: precept / concept
+      R: gene / meme
+      P: trigger / activation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between hardwired instinctual behaviors and learned memetic behaviors)"
-    - "∂Φ/∂ρ (relational interplay between genetic inheritance and memetic transmission)"
-    - "∂Φ/∂λ (transformative activation of memes triggered by environmental conditions)"
-    - "∂Φ/∂β (developmental growth from precepts to concepts through evolutionary learning)"
-    - "∂Φ/∂δγ (grounding in ancient neural connections vs. recent memetic evolution ~200K years)"
-    - "∂Φ/∂μ (structural mapping between neural architecture and memetic encoding)"
-  Z_state: "co-evolving (genes and memes in continuous co-evolutionary feedback)"
-  tendency: "Co-evolution/Integration → 0.80"
+  - ∂Φ/∂σ (distinction between hardwired instinctual behaviors and learned memetic behaviors)
+  - ∂Φ/∂ρ (relational interplay between genetic inheritance and memetic transmission)
+  - ∂Φ/∂λ (transformative activation of memes triggered by environmental conditions)
+  - ∂Φ/∂β (developmental growth from precepts to concepts through evolutionary learning)
+  - ∂Φ/∂δγ (grounding in ancient neural connections vs. recent memetic evolution ~200K years)
+  - ∂Φ/∂μ (structural mapping between neural architecture and memetic encoding)
+  Z_state: semi
+  z_note: co-evolving (genes and memes in continuous co-evolutionary feedback)
+  tendency: Co-evolution/Integration → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "Critical distinction between hardwired instinctual behavior and learned memetic behavior"
-      - "Analytical separation of innate responses from culturally transmitted patterns"
-    daemon_correspondence: "Aerunik"
+    - Critical distinction between hardwired instinctual behavior and learned memetic behavior
+    - Analytical separation of innate responses from culturally transmitted patterns
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
     aspects:
-      - "Gene-meme relational interplay as co-evolutionary feedback loop"
-      - "Flow between genetic inheritance and memetic transmission across generations"
-    daemon_correspondence: "Sentaria"
+    - Gene-meme relational interplay as co-evolutionary feedback loop
+    - Flow between genetic inheritance and memetic transmission across generations
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Trigger-activation mechanism as transformative catalyst for memetic expression"
-      - "Environmental conditions igniting dormant memetic patterns in neural substrate"
-    daemon_correspondence: "Jvalion"
+    - Trigger-activation mechanism as transformative catalyst for memetic expression
+    - Environmental conditions igniting dormant memetic patterns in neural substrate
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Evolutionary growth from precepts (genetic templates) to concepts (memetic constructs)"
-      - "Developmental trajectory of learning capacity across species"
-    daemon_correspondence: "Arboriel"
+    - Evolutionary growth from precepts (genetic templates) to concepts (memetic constructs)
+    - Developmental trajectory of learning capacity across species
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Ancient neural connections (~millions of years) cycling against recent memetic evolution (~200K years)"
-      - "Biological grounding of deep-time instinct layered with shallow-time cultural learning"
-    daemon_correspondence: "Humavita"
+    - Ancient neural connections (~millions of years) cycling against recent memetic evolution (~200K years)
+    - Biological grounding of deep-time instinct layered with shallow-time cultural learning
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Structural correspondence between neural architecture and memetic encoding"
-      - "Memes as 'hardwired software' — structurally implanted in brain circuitry"
-    daemon_correspondence: "Ferrosid"
+    - Structural correspondence between neural architecture and memetic encoding
+    - Memes as 'hardwired software' — structurally implanted in brain circuitry
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S012_Crow_Intelligence_Alien_Minds"
-  - "S00F_Hard_Question_of_Memetics"
-  - "C119_animal_consciousness_evolution"
+- S012_Crow_Intelligence_Alien_Minds
+- S00F_Hard_Question_of_Memetics
+- C119_animal_consciousness_evolution
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - wood_beta
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.75
+    fire_lambda: 0.7
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212400_259972_Animal+Learning+and+Memetics.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

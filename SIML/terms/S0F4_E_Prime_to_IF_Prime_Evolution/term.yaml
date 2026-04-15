@@ -1,32 +1,155 @@
 ---
-term: "E-Prime to IF-Prime Evolution"
-hex_tag: "S0F4"
-series: "S"
-source_file: "1771907213204_2197932_The+Evolution+from+E-Prime+to+IF-Prime%3A+Symbolic+and+Recursive+Language+Systems.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Evolution from E-Prime (eliminating 'to be' for linguistic clarity) to IF-Prime (also minimizing 'I/my/me', adding elemental symbols and recursive structures). E-Prime provides linguistic clarity through verb constraint; IF-Prime extends this into a cognitive and symbolic framework. Contributing sources include Chinese Wu Xing, Western Alchemy, Zen Buddhism, and cybernetics. Key thinkers: Korzybski (general semantics), Peirce (semiotics), Lakoff (cognitive linguistics). IF-Prime adds elemental mapping (Air, Water, Fire, Wood, Metal, Earth, Aether) and spiral grammars for self-reflection and recursive sense-making."
-nemetic: "Φ(E-Prime to IF-Prime Evolution) = σ(linguistic_clarity|symbolic_depth) ∘ ρ(ego_reference|non_egoic_expression) ∘ λ(linear_language|recursive_structure) ∘ β(western_semantics|eastern_elemental_systems) ∘ δγ(description|transformation) ∘ μ(verb_constraint|elemental_grammar) + ε | :recursive_symbolic_language"
-siml_encoding: "⟨linguistic_symbolic_distinction, clarity_depth⟩ ⊳ ⟨ego_nonegoic_relational_web, expression_selflessness⟩ → ⟨linear_recursive_transformation, structural_catalysis⟩ ⊗ ⟨western_eastern_growth, cross_tradition_expansion⟩ ⇄ ⟨description_transformation_cycling, language_praxis⟩"
+term: E-Prime to IF-Prime Evolution
+hex_tag: S0F4
+series: S
+source_file: 1771907213204_2197932_The+Evolution+from+E-Prime+to+IF-Prime%3A+Symbolic+and+Recursive+Language+Systems.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Evolution from E-Prime (eliminating ''to be'' for linguistic clarity) to IF-Prime (also minimizing ''I/my/me'', adding elemental symbols and recursive structures). E-Prime provides linguistic clarity through verb constraint; IF-Prime extends this into a cognitive and symbolic framework. Contributing sources include Chinese Wu Xing, Western Alchemy, Zen Buddhism, and cybernetics. Key thinkers: Korzybski (general semantics), Peirce (semiotics), Lakoff (cognitive linguistics). IF-Prime adds elemental mapping (Air, Water, Fire, Wood, Metal, Earth, Aether) and spiral grammars for self-reflection and recursive sense-making.'
+nemetic: Φ(E-Prime to IF-Prime Evolution) = σ(linguistic_clarity|symbolic_depth) ∘ ρ(ego_reference|non_egoic_expression) ∘ λ(linear_language|recursive_structure) ∘ β(western_semantics|eastern_elemental_systems) ∘ δγ(description|transformation) ∘ μ(verb_constraint|elemental_grammar) + ε | :recursive_symbolic_language
+siml_encoding: ⟨linguistic_symbolic_distinction, clarity_depth⟩ ⊳ ⟨ego_nonegoic_relational_web, expression_selflessness⟩ → ⟨linear_recursive_transformation, structural_catalysis⟩ ⊗ ⟨western_eastern_growth, cross_tradition_expansion⟩ ⇄ ⟨description_transformation_cycling, language_praxis⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: linguistic_clarity / symbolic_depth
+      S: western_semantics / eastern_elemental_systems
+      R: ego_reference / non_egoic_expression
+      P: linear_language / recursive_structure
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing linguistic clarity from symbolic depth — E-Prime's verb constraint producing clear description versus IF-Prime's elemental mapping producing multi-layered symbolic engagement)"
-    - "∂Φ/∂ρ (relating ego-reference to non-egoic expression — E-Prime removes 'to be' for clarity; IF-Prime also minimizes 'I/my/me' for relational, non-egoic communication)"
-    - "∂Φ/∂λ (transforming linear language into recursive structure — the evolutionary leap from sequential sentence construction to spiral grammars enabling self-referential sense-making)"
-    - "∂Φ/∂β (growth from Western semantics to Eastern elemental systems — Korzybski and Peirce integrated with Wu Xing, Alchemy, and Zen into a cross-traditional framework)"
-    - "∂Φ/∂δγ (cycling between description and transformation — language as tool for describing reality versus language as instrument for transforming perception and cognition)"
-    - "∂Φ/∂μ (structural correspondence between verb constraint and elemental grammar — E-Prime's single grammatical rule evolving into IF-Prime's multi-elemental symbolic architecture)"
-  Z_state: "recursive_symbolic_language — IF-Prime emerges as the recursive evolution of E-Prime, extending linguistic constraint into a full symbolic and cognitive framework; where E-Prime clarifies by removing 'to be', IF-Prime transforms by adding elemental mapping, minimizing ego-reference, and introducing spiral grammars that enable language to reflect on its own structure and generate new modes of perception"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing linguistic clarity from symbolic depth — E-Prime's verb constraint producing clear description versus IF-Prime's elemental mapping producing multi-layered symbolic engagement)
+  - ∂Φ/∂ρ (relating ego-reference to non-egoic expression — E-Prime removes 'to be' for clarity; IF-Prime also minimizes 'I/my/me' for relational, non-egoic communication)
+  - ∂Φ/∂λ (transforming linear language into recursive structure — the evolutionary leap from sequential sentence construction to spiral grammars enabling self-referential sense-making)
+  - ∂Φ/∂β (growth from Western semantics to Eastern elemental systems — Korzybski and Peirce integrated with Wu Xing, Alchemy, and Zen into a cross-traditional framework)
+  - ∂Φ/∂δγ (cycling between description and transformation — language as tool for describing reality versus language as instrument for transforming perception and cognition)
+  - ∂Φ/∂μ (structural correspondence between verb constraint and elemental grammar — E-Prime's single grammatical rule evolving into IF-Prime's multi-elemental symbolic architecture)
+  Z_state: semi
+  z_note: recursive_symbolic_language — IF-Prime emerges as the recursive evolution of E-Prime, extending linguistic constraint into a full symbolic and cognitive framework; where E-Prime clarifies by removing 'to be', IF-Prime transforms by adding elemental mapping, minimizing ego-reference, and introducing spiral grammars that enable language to reflect on its own structure and generate new modes of perception
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["linguistic_clarity_discernment", "e_prime_observational_precision"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["ego_nonegoic_relational_expression", "selfless_communication_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["linear_to_recursive_transformation", "spiral_grammar_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["cross_tradition_integration_growth", "western_eastern_synthesis"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["description_transformation_cycling", "language_praxis_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["verb_constraint_elemental_grammar_structure", "symbolic_architecture_mapping"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0DB", "S0D4", "S031", "S03A"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - linguistic_clarity_discernment
+    - e_prime_observational_precision
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - ego_nonegoic_relational_expression
+    - selfless_communication_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - linear_to_recursive_transformation
+    - spiral_grammar_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - cross_tradition_integration_growth
+    - western_eastern_synthesis
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - description_transformation_cycling
+    - language_praxis_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - verb_constraint_elemental_grammar_structure
+    - symbolic_architecture_mapping
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0DB
+- S0D4
+- S031
+- S03A
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213204_2197932_The+Evolution+from+E-Prime+to+IF-Prime%3A+Symbolic+and+Recursive+Language+Systems.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

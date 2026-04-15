@@ -1,32 +1,152 @@
 ---
-term: "Distributed Cognition Citadel Model"
-hex_tag: "S0C8"
-series: "S"
-source_file: "1771907213090_2049840_Exploring+Distributed+Cognition+and+the+Citadel+Model+of+Mind+in+Western+Culture.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Contrast between distributed cognition (intelligence spread across systems) and the Western 'citadel model' of mind (mind as private isolated fortress), with Luhrmann's research showing how cultural models of mind shape mental health across Western, Ghanaian, and Indian contexts."
-nemetic: "Φ(Distributed Cognition Citadel Model) = σ(distributed_mind|isolated_mind) ∘ ρ(systemic_intelligence|private_cognition) ∘ λ(citadel_model|cosmocentric_sociocentric_model) ∘ β(cultural_alienation|relational_wellbeing) ∘ δγ(historical_export_cycles|global_model_propagation) ∘ μ(Western_materialist_framework|alternative_cultural_architectures) + ε | :culturally_situated_cognitive_ecology"
-siml_encoding: "⟨distributed_isolated_mind_distinction, cognitive_model_awareness⟩ ⊳ ⟨systemic_private_cognition_relational_mapping, intelligence_web⟩ → ⟨citadel_to_relational_model_transformation, worldview_catalysis⟩ ⊗ ⟨alienation_to_wellbeing_growth, relational_maturation⟩ ⇄ ⟨historical_cultural_export_cycling, model_propagation_reinforcement⟩"
+term: Distributed Cognition Citadel Model
+hex_tag: S0C8
+series: S
+source_file: 1771907213090_2049840_Exploring+Distributed+Cognition+and+the+Citadel+Model+of+Mind+in+Western+Culture.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Contrast between distributed cognition (intelligence spread across systems) and the Western 'citadel model' of mind (mind as private isolated fortress), with Luhrmann's research showing how cultural models of mind shape mental health across Western, Ghanaian, and Indian contexts.
+nemetic: Φ(Distributed Cognition Citadel Model) = σ(distributed_mind|isolated_mind) ∘ ρ(systemic_intelligence|private_cognition) ∘ λ(citadel_model|cosmocentric_sociocentric_model) ∘ β(cultural_alienation|relational_wellbeing) ∘ δγ(historical_export_cycles|global_model_propagation) ∘ μ(Western_materialist_framework|alternative_cultural_architectures) + ε | :culturally_situated_cognitive_ecology
+siml_encoding: ⟨distributed_isolated_mind_distinction, cognitive_model_awareness⟩ ⊳ ⟨systemic_private_cognition_relational_mapping, intelligence_web⟩ → ⟨citadel_to_relational_model_transformation, worldview_catalysis⟩ ⊗ ⟨alienation_to_wellbeing_growth, relational_maturation⟩ ⇄ ⟨historical_cultural_export_cycling, model_propagation_reinforcement⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: distributed_mind / isolated_mind
+      S: cultural_alienation / relational_wellbeing
+      R: systemic_intelligence / private_cognition
+      P: citadel_model / cosmocentric_sociocentric_model
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing distributed cognition from the isolated citadel model of mind)"
-    - "∂Φ/∂ρ (relating systemic intelligence across teams and tools to private individual cognition)"
-    - "∂Φ/∂λ (transforming the citadel model through encounter with cosmocentric and sociocentric alternatives)"
-    - "∂Φ/∂β (growth from cultural alienation produced by citadel model to relational well-being)"
-    - "∂Φ/∂δγ (cycling through historical export of Western materialist worldview and its global propagation)"
-    - "∂Φ/∂μ (Western materialist framework contrasted with alternative cultural architectures for understanding mind)"
-  Z_state: "culturally_situated_cognitive_ecology — recognizing that models of mind are culturally constructed and consequential, where distributed cognition offers healthier alternatives to the citadel model by situating intelligence within relational, systemic, and cultural ecologies rather than isolated individual fortresses"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing distributed cognition from the isolated citadel model of mind)
+  - ∂Φ/∂ρ (relating systemic intelligence across teams and tools to private individual cognition)
+  - ∂Φ/∂λ (transforming the citadel model through encounter with cosmocentric and sociocentric alternatives)
+  - ∂Φ/∂β (growth from cultural alienation produced by citadel model to relational well-being)
+  - ∂Φ/∂δγ (cycling through historical export of Western materialist worldview and its global propagation)
+  - ∂Φ/∂μ (Western materialist framework contrasted with alternative cultural architectures for understanding mind)
+  Z_state: semi
+  z_note: culturally_situated_cognitive_ecology — recognizing that models of mind are culturally constructed and consequential, where distributed cognition offers healthier alternatives to the citadel model by situating intelligence within relational, systemic, and cultural ecologies rather than isolated individual fortresses
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["distributed_isolated_mind_distinction", "cognitive_model_recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["systemic_private_cognition_relation", "intelligence_distribution_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["citadel_to_relational_model_transformation", "worldview_shift_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["alienation_to_wellbeing_growth", "relational_cognitive_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["historical_cultural_export_cycling", "Western_model_global_propagation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["Western_materialist_framework", "alternative_cultural_cognitive_architectures"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S038"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - distributed_isolated_mind_distinction
+    - cognitive_model_recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - systemic_private_cognition_relation
+    - intelligence_distribution_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - citadel_to_relational_model_transformation
+    - worldview_shift_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - alienation_to_wellbeing_growth
+    - relational_cognitive_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - historical_cultural_export_cycling
+    - Western_model_global_propagation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - Western_materialist_framework
+    - alternative_cultural_cognitive_architectures
+    daemon_correspondence: Ferrosid
+related_terms:
+- S038
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213090_2049840_Exploring+Distributed+Cognition+and+the+Citadel+Model+of+Mind+in+Western+Culture.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -2,105 +2,149 @@ term_id: A01F
 hex_tag: '#A01F'
 name: AI_Cognition_Impacts
 term: AI Cognition Impacts
-nemetic: >-
-  Φ(AI_Cognition_Impacts) = σ(memory|external) ∘ ρ(agency|delegated) ∘ λ(effort|minimized)
-  ∘ β(dependency|reinforced) ∘ δγ(metabolic|conserved)
-  ∘ μ(boundary|permeable) + ε | :open
-siml_encoding: >-
-  ⟨Cognition|human⟩ ⊳ ⟨Technology|AI⟩ ⊗ ⟨Capacity|transformed⟩ ⊗ ⟨Agency|negotiated⟩
-  ⊗ ⟨Dependency|emergent⟩
+nemetic: Φ(AI_Cognition_Impacts) = σ(memory|external) ∘ ρ(agency|delegated) ∘ λ(effort|minimized) ∘ β(dependency|reinforced) ∘ δγ(metabolic|conserved) ∘ μ(boundary|permeable) + ε | :open
+siml_encoding: ⟨Cognition|human⟩ ⊳ ⟨Technology|AI⟩ ⊗ ⟨Capacity|transformed⟩ ⊗ ⟨Agency|negotiated⟩ ⊗ ⟨Dependency|emergent⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between cognitive augmentation and cognitive replacement)"
-    - "∂Φ/∂ρ (relational shift from internal agency to delegated processing)"
-    - "∂Φ/∂λ (directional pull toward convenience and minimized effort)"
-    - "∂Φ/∂β (dependency feedback loop reinforcing reliance on AI)"
-    - "∂Φ/∂δγ (metabolic conservation through cognitive offloading)"
-    - "∂Φ/∂μ (boundary permeability between human cognition and AI mediation)"
+  - ∂Φ/∂σ (distinction between cognitive augmentation and cognitive replacement)
+  - ∂Φ/∂ρ (relational shift from internal agency to delegated processing)
+  - ∂Φ/∂λ (directional pull toward convenience and minimized effort)
+  - ∂Φ/∂β (dependency feedback loop reinforcing reliance on AI)
+  - ∂Φ/∂δγ (metabolic conservation through cognitive offloading)
+  - ∂Φ/∂μ (boundary permeability between human cognition and AI mediation)
   Z_state: permeable
-  tendency: "Convenience/Capacity → 0.7"
+  tendency: Convenience/Capacity → 0.7
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
-      - Its
+    - We
+    - Its
   epistemics:
     dsrp:
-      D: "Cognitive augmentation vs. cognitive replacement"
-      S: "Human-AI cognitive ecosystem with six impact vectors"
-      R: "AI mediation transforms attention, memory, creativity, emotion, trust"
-      P: "Cautionary diagnostic from cognitive science"
+      D: Cognitive augmentation vs. cognitive replacement
+      S: Human-AI cognitive ecosystem with six impact vectors
+      R: AI mediation transforms attention, memory, creativity, emotion, trust
+      P: Cautionary diagnostic from cognitive science
     learning: L1
   time:
     mode: linear
-    phase: "acceleration toward dependency"
+    phase: acceleration toward dependency
   qualia:
     affect:
-      - anxiety
-      - convenience
-      - dependency
+    - anxiety
+    - convenience
+    - dependency
     aesthetic:
-      - fragmented
-      - frictionless
-      - atrophied
+    - fragmented
+    - frictionless
+    - atrophied
     symbolic:
-      - offloading
-      - echo-chamber
-      - trust-erosion
+    - offloading
+    - echo-chamber
+    - trust-erosion
     energetic:
-      - conserved
-      - depleted
-      - redirected
+    - conserved
+    - depleted
+    - redirected
   agency:
     type: ego
     voice:
-      - Cautious Observer
-      - Cognitive Ecologist
+    - Cautious Observer
+    - Cognitive Ecologist
     power_mode: Within
+  coherence:
+    state: fragmented
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "Where is the line between tool and crutch in AI-assisted cognition?"
-  ≈: "What emotional resonance is lost when empathy is algorithmically simulated?"
-  ▲: "Does the trajectory of convenience lead toward atrophy or liberation?"
-  𐂷: "What hybrid cognitive forms might emerge from human-AI integration?"
-  ☷: "What is the true metabolic cost of offloading cognition to machines?"
-  ⛨: "What structures would protect human agency from dependency spirals?"
-context_note: >-
-  Six cognitive impacts of AI use identified: offloading, fragmentation, numbing,
-  echo chambers, creative dependency, and trust erosion. Each reveals a tension
-  between convenience and capacity, between assistance and agency.
-source: "Negative Impacts of AI Use on Cognition"
+  ∴: Where is the line between tool and crutch in AI-assisted cognition?
+  ≈: What emotional resonance is lost when empathy is algorithmically simulated?
+  ▲: Does the trajectory of convenience lead toward atrophy or liberation?
+  𐂷: What hybrid cognitive forms might emerge from human-AI integration?
+  ☷: What is the true metabolic cost of offloading cognition to machines?
+  ⛨: What structures would protect human agency from dependency spirals?
+context_note: 'Six cognitive impacts of AI use identified: offloading, fragmentation, numbing, echo chambers, creative dependency, and trust erosion. Each reveals a tension between convenience and capacity, between assistance and agency.'
+source: Negative Impacts of AI Use on Cognition
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

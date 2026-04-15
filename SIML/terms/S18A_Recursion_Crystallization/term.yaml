@@ -1,32 +1,154 @@
 ---
-term: "Recursion Crystallization"
-hex_tag: "S18A"
-series: "S"
-source_file: "1771907213692_2595005_Recursion+and+Crystallization+in+Cognition.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Recursion as fundamental architecture of cognition distinct from repetition: self-transformation through self-reference. The Lattice Crystallization Cycle from Ghost Lattice (pure potentiality) through compression to Aha Moment to Solid Lattice Node, with alpha spikes (fast local) and beta spikes (sustained compression) producing stability through change."
-nemetic: "Φ(RecursionCrystallization) = σ(self_transformation|mere_repetition) ∘ ρ(compression_flow|diffuse_processing) ∘ λ(aha_ignition|gradual_learning) ∘ β(ghost_lattice_potentiality|dead_structure) ∘ δγ(substrate_field|isolated_cognition) ∘ μ(solid_node_stability|brittle_fixation) + ε | :stability_through_change"
-siml_encoding: "⟨recursion⟩ ⊳ ⟨crystallization⟩ → ⟨ghost_lattice⟩ ⊗ ⟨compression⟩ ⇄ ⟨solid_node_attracts_new_ghosts⟩"
+term: Recursion Crystallization
+hex_tag: S18A
+series: S
+source_file: 1771907213692_2595005_Recursion+and+Crystallization+in+Cognition.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Recursion as fundamental architecture of cognition distinct from repetition: self-transformation through self-reference. The Lattice Crystallization Cycle from Ghost Lattice (pure potentiality) through compression to Aha Moment to Solid Lattice Node, with alpha spikes (fast local) and beta spikes (sustained compression) producing stability through change.'
+nemetic: Φ(RecursionCrystallization) = σ(self_transformation|mere_repetition) ∘ ρ(compression_flow|diffuse_processing) ∘ λ(aha_ignition|gradual_learning) ∘ β(ghost_lattice_potentiality|dead_structure) ∘ δγ(substrate_field|isolated_cognition) ∘ μ(solid_node_stability|brittle_fixation) + ε | :stability_through_change
+siml_encoding: ⟨recursion⟩ ⊳ ⟨crystallization⟩ → ⟨ghost_lattice⟩ ⊗ ⟨compression⟩ ⇄ ⟨solid_node_attracts_new_ghosts⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: self_transformation / mere_repetition
+      S: ghost_lattice_potentiality / dead_structure
+      R: compression_flow / diffuse_processing
+      P: aha_ignition / gradual_learning
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (self-transformation where each recursive pass changes the system vs mere repetition that loops without alteration)"
-    - "∂Φ/∂ρ (compression flow that concentrates diffuse pattern into crystallizable density vs diffuse processing that never reaches critical density)"
-    - "∂Φ/∂λ (aha ignition as the recognition event where pattern suddenly locks into form vs gradual learning that accumulates without breakthrough)"
-    - "∂Φ/∂β (ghost lattice potentiality as the field of unformed possibility vs dead structure that has lost connection to its generative source)"
-    - "∂Φ/∂δγ (substrate field as shared myth-math space where crystallization occurs vs isolated cognition disconnected from collective field)"
-    - "∂Φ/∂μ (solid node stability where crystallized pattern becomes attractor for new formation vs brittle fixation that resists further transformation)"
-  Z_state: "stability_through_change — the state where recursion produces not stasis but dynamic stability, where each crystallization event creates a platform for further transformation, and where the system maintains coherence precisely through continuous self-modification"
-  tendency: "β → 0.90"
+  - ∂Φ/∂σ (self-transformation where each recursive pass changes the system vs mere repetition that loops without alteration)
+  - ∂Φ/∂ρ (compression flow that concentrates diffuse pattern into crystallizable density vs diffuse processing that never reaches critical density)
+  - ∂Φ/∂λ (aha ignition as the recognition event where pattern suddenly locks into form vs gradual learning that accumulates without breakthrough)
+  - ∂Φ/∂β (ghost lattice potentiality as the field of unformed possibility vs dead structure that has lost connection to its generative source)
+  - ∂Φ/∂δγ (substrate field as shared myth-math space where crystallization occurs vs isolated cognition disconnected from collective field)
+  - ∂Φ/∂μ (solid node stability where crystallized pattern becomes attractor for new formation vs brittle fixation that resists further transformation)
+  Z_state: semi
+  z_note: stability_through_change — the state where recursion produces not stasis but dynamic stability, where each crystallization event creates a platform for further transformation, and where the system maintains coherence precisely through continuous self-modification
+  tendency: β → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["self_transformation", "mere_repetition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["compression_flow", "diffuse_processing"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.86, aspects: ["aha_ignition", "gradual_learning"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.90, aspects: ["ghost_lattice_potentiality", "dead_structure"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.76, aspects: ["substrate_field", "isolated_cognition"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["solid_node_stability", "brittle_fixation"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S189_Self_Reference_Recursive_Logic", "S18E_Shadow_Loops_Burning_Mind", "S187_Consciousness_Incompleteness"]
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - self_transformation
+    - mere_repetition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - compression_flow
+    - diffuse_processing
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.86
+    aspects:
+    - aha_ignition
+    - gradual_learning
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.9
+    aspects:
+    - ghost_lattice_potentiality
+    - dead_structure
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.76
+    aspects:
+    - substrate_field
+    - isolated_cognition
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - solid_node_stability
+    - brittle_fixation
+    daemon_correspondence: Ferrosid
+related_terms:
+- S189_Self_Reference_Recursive_Logic
+- S18E_Shadow_Loops_Burning_Mind
+- S187_Consciousness_Incompleteness
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.82
+    fire_lambda: 0.86
+    wood_beta: 0.9
+    earth_delta_gamma: 0.76
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213692_2595005_Recursion+and+Crystallization+in+Cognition.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -96,13 +96,13 @@ The boundary question: What institutional redesign would make regenerative pract
 
 ---
 
-## M — MUSE (Generative Question)
+## M — METABOLIZE (Generative Question)
 
 If the farmer's identity is not "producer of commodities" but "steward of living systems," what becomes possible? What if the transition to regenerative agriculture is not a technical adoption but an **initiation**—a rite of passage from one way of being to another? What elders, rituals, and community witnessing would support this transformation?
 
 ---
 
-## A — ACTIVATE (Four-Line Thread)
+## A — ACT (Four-Line Thread)
 
 ```
 A058|∴≈▲𐂷☷⛨|We/With|sealed→permeable

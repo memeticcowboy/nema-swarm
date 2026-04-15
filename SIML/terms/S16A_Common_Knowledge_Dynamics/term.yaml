@@ -1,32 +1,151 @@
 ---
-term: "Common Knowledge Dynamics"
-hex_tag: "S16A"
-series: "S"
-source_file: "1771907213604_2540799_Understanding+Common+Knowledge+with+Steven+Pinker.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Common knowledge as recursive shared understanding — I know that you know that I know. Foundation for social coordination, coordination games, and aligned decision-making. Public signals and direct communication establish shared knowledge. Social conventions persist through common knowledge rather than intrinsic justification. Failures lead to social, economic, and political repercussions."
-nemetic: "Φ(CommonKnow) = σ(public_signal|private_belief) ∘ ρ(social_trust|strategic_doubt) ∘ λ(coordination_spark|misalignment) ∘ β(convention_growth|convention_erosion) ∘ δγ(embodied_norms|abstract_game_theory) ∘ μ(institutional_structure|informal_agreement) + ε | :recursive_alignment"
-siml_encoding: "⟨private_knowledge⟩ ⊳ ⟨public_signal⟩ → ⟨common_knowledge⟩ ⊗ ⟨coordination_failure⟩ ⇄ ⟨social_equilibrium⟩"
+term: Common Knowledge Dynamics
+hex_tag: S16A
+series: S
+source_file: 1771907213604_2540799_Understanding+Common+Knowledge+with+Steven+Pinker.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Common knowledge as recursive shared understanding — I know that you know that I know. Foundation for social coordination, coordination games, and aligned decision-making. Public signals and direct communication establish shared knowledge. Social conventions persist through common knowledge rather than intrinsic justification. Failures lead to social, economic, and political repercussions.
+nemetic: Φ(CommonKnow) = σ(public_signal|private_belief) ∘ ρ(social_trust|strategic_doubt) ∘ λ(coordination_spark|misalignment) ∘ β(convention_growth|convention_erosion) ∘ δγ(embodied_norms|abstract_game_theory) ∘ μ(institutional_structure|informal_agreement) + ε | :recursive_alignment
+siml_encoding: ⟨private_knowledge⟩ ⊳ ⟨public_signal⟩ → ⟨common_knowledge⟩ ⊗ ⟨coordination_failure⟩ ⇄ ⟨social_equilibrium⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: public_signal / private_belief
+      S: convention_growth / convention_erosion
+      R: social_trust / strategic_doubt
+      P: coordination_spark / misalignment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (shift between public signals that create common knowledge and private beliefs that remain unshared)"
-    - "∂Φ/∂ρ (tension between social trust enabling coordination and strategic doubt undermining it)"
-    - "∂Φ/∂λ (the spark of coordination when common knowledge aligns actors vs misalignment when it fails)"
-    - "∂Φ/∂β (growth and maintenance of social conventions vs their erosion when common knowledge breaks down)"
-    - "∂Φ/∂δγ (embodied social norms enacted through practice vs abstract game-theoretic models)"
-    - "∂Φ/∂μ (formal institutional structures that encode common knowledge vs informal tacit agreements)"
-  Z_state: "recursive_alignment — the state where mutual knowledge of mutual knowledge enables coordinated action without explicit negotiation"
-  tendency: "σ → 0.80"
+  - ∂Φ/∂σ (shift between public signals that create common knowledge and private beliefs that remain unshared)
+  - ∂Φ/∂ρ (tension between social trust enabling coordination and strategic doubt undermining it)
+  - ∂Φ/∂λ (the spark of coordination when common knowledge aligns actors vs misalignment when it fails)
+  - ∂Φ/∂β (growth and maintenance of social conventions vs their erosion when common knowledge breaks down)
+  - ∂Φ/∂δγ (embodied social norms enacted through practice vs abstract game-theoretic models)
+  - ∂Φ/∂μ (formal institutional structures that encode common knowledge vs informal tacit agreements)
+  Z_state: semi
+  z_note: recursive_alignment — the state where mutual knowledge of mutual knowledge enables coordinated action without explicit negotiation
+  tendency: σ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["public_signal", "private_belief"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.68, aspects: ["social_trust", "strategic_doubt"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["coordination_spark", "misalignment"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["convention_growth", "convention_erosion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["embodied_norms", "abstract_game_theory"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.78, aspects: ["institutional_structure", "informal_agreement"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - public_signal
+    - private_belief
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.68
+    aspects:
+    - social_trust
+    - strategic_doubt
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - coordination_spark
+    - misalignment
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - convention_growth
+    - convention_erosion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - embodied_norms
+    - abstract_game_theory
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.78
+    aspects:
+    - institutional_structure
+    - informal_agreement
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.68
+    fire_lambda: 0.72
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213604_2540799_Understanding+Common+Knowledge+with+Steven+Pinker.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

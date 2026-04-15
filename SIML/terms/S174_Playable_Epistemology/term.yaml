@@ -1,32 +1,151 @@
 ---
-term: "Playable Epistemology"
-hex_tag: "S174"
-series: "S"
-source_file: "1771907213627_2554275_Playmaking+Packs+for+Project+Engine%3A+Enhancing+Epistemology+Through+Interactive+Mini-Games.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "PEPE — Peter's Playable Epistemology for Project Engine. Making the process of knowing visible through game mechanics. 4 phases: Idea Roulette (surfacing AI scoring scaffolding), Value Check, collaborative filtering, competitive validation. Low-code add-ons using React, Discord bots, on-chain attestations. Turns epistemic processes into interactive mini-games where knowing is playable."
-nemetic: "Φ(PlayEpist) = σ(visible_knowing|hidden_cognition) ∘ ρ(collaborative_filtering|isolated_judgment) ∘ λ(competitive_validation|passive_consensus) ∘ β(emergent_scoring|predetermined_metrics) ∘ δγ(embodied_gameplay|abstract_evaluation) ∘ μ(on_chain_attestation|ephemeral_assessment) + ε | :ludic_epistemics"
-siml_encoding: "⟨playable_knowing⟩ ⊳ ⟨game_mechanics⟩ → ⟨idea_roulette⟩ ⊗ ⟨hidden_cognition⟩ ⇄ ⟨epistemic_play⟩"
+term: Playable Epistemology
+hex_tag: S174
+series: S
+source_file: 1771907213627_2554275_Playmaking+Packs+for+Project+Engine%3A+Enhancing+Epistemology+Through+Interactive+Mini-Games.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'PEPE — Peter''s Playable Epistemology for Project Engine. Making the process of knowing visible through game mechanics. 4 phases: Idea Roulette (surfacing AI scoring scaffolding), Value Check, collaborative filtering, competitive validation. Low-code add-ons using React, Discord bots, on-chain attestations. Turns epistemic processes into interactive mini-games where knowing is playable.'
+nemetic: Φ(PlayEpist) = σ(visible_knowing|hidden_cognition) ∘ ρ(collaborative_filtering|isolated_judgment) ∘ λ(competitive_validation|passive_consensus) ∘ β(emergent_scoring|predetermined_metrics) ∘ δγ(embodied_gameplay|abstract_evaluation) ∘ μ(on_chain_attestation|ephemeral_assessment) + ε | :ludic_epistemics
+siml_encoding: ⟨playable_knowing⟩ ⊳ ⟨game_mechanics⟩ → ⟨idea_roulette⟩ ⊗ ⟨hidden_cognition⟩ ⇄ ⟨epistemic_play⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: visible_knowing / hidden_cognition
+      S: emergent_scoring / predetermined_metrics
+      R: collaborative_filtering / isolated_judgment
+      P: competitive_validation / passive_consensus
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (visible knowing through game mechanics vs hidden cognition in black-box evaluation)"
-    - "∂Φ/∂ρ (collaborative filtering through shared play vs isolated judgment in siloed review)"
-    - "∂Φ/∂λ (competitive validation that stress-tests ideas vs passive consensus that avoids friction)"
-    - "∂Φ/∂β (emergent scoring from gameplay interaction vs predetermined metrics imposed from above)"
-    - "∂Φ/∂δγ (embodied gameplay where knowing is enacted vs abstract evaluation where knowing is declared)"
-    - "∂Φ/∂μ (on-chain attestation that crystallizes epistemic outcomes vs ephemeral assessment that leaves no trace)"
-  Z_state: "ludic_epistemics — the state where the process of knowing becomes playable, where epistemic acts (scoring, filtering, validating, attesting) are experienced as game moves rather than bureaucratic procedures"
-  tendency: "σ → 0.84"
+  - ∂Φ/∂σ (visible knowing through game mechanics vs hidden cognition in black-box evaluation)
+  - ∂Φ/∂ρ (collaborative filtering through shared play vs isolated judgment in siloed review)
+  - ∂Φ/∂λ (competitive validation that stress-tests ideas vs passive consensus that avoids friction)
+  - ∂Φ/∂β (emergent scoring from gameplay interaction vs predetermined metrics imposed from above)
+  - ∂Φ/∂δγ (embodied gameplay where knowing is enacted vs abstract evaluation where knowing is declared)
+  - ∂Φ/∂μ (on-chain attestation that crystallizes epistemic outcomes vs ephemeral assessment that leaves no trace)
+  Z_state: semi
+  z_note: ludic_epistemics — the state where the process of knowing becomes playable, where epistemic acts (scoring, filtering, validating, attesting) are experienced as game moves rather than bureaucratic procedures
+  tendency: σ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["visible_knowing", "hidden_cognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["collaborative_filtering", "isolated_judgment"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["competitive_validation", "passive_consensus"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.74, aspects: ["emergent_scoring", "predetermined_metrics"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["embodied_gameplay", "abstract_evaluation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["on_chain_attestation", "ephemeral_assessment"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - visible_knowing
+    - hidden_cognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - collaborative_filtering
+    - isolated_judgment
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - competitive_validation
+    - passive_consensus
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.74
+    aspects:
+    - emergent_scoring
+    - predetermined_metrics
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - embodied_gameplay
+    - abstract_evaluation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - on_chain_attestation
+    - ephemeral_assessment
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.8
+    fire_lambda: 0.78
+    wood_beta: 0.74
+    earth_delta_gamma: 0.72
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213627_2554275_Playmaking+Packs+for+Project+Engine%3A+Enhancing+Epistemology+Through+Interactive+Mini-Games.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

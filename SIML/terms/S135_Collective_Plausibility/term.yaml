@@ -1,32 +1,151 @@
 ---
-term: "Collective Plausibility"
-hex_tag: "S135"
-series: "S"
-source_file: "1771907213405_2368851_.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Shared perception among a group that a narrative or idea is believable enough to be entertained, acted upon, or propagated, regardless of objective truth. Emerges from social cognition, memetic resonance, and contextual framing. Ideas with collective plausibility spread faster due to low social friction."
-nemetic: "Φ(Collective Plausibility) = σ(objective_truth|perceived_believability) ∘ ρ(individual_judgment|group_consensus) ∘ λ(critical_scrutiny|narrative_acceptance) ∘ β(isolated_idea|memetic_contagion) ∘ δγ(contextual_framing|belief_threshold) ∘ μ(open_discourse|plausibility_architecture) + ε | :shared_belief_propagation"
-siml_encoding: "⟨truth_believability_distinction, plausibility_perception⟩ ⊳ ⟨individual_group_consensus_relating, social_amplification⟩ → ⟨scrutiny_acceptance_catalysis, narrative_transformation⟩ ⊗ ⟨isolated_contagion_growth, memetic_spread⟩ ⇄ ⟨contextual_threshold_cycling, plausibility_field_rhythm⟩"
+term: Collective Plausibility
+hex_tag: S135
+series: S
+source_file: 1771907213405_2368851_.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Shared perception among a group that a narrative or idea is believable enough to be entertained, acted upon, or propagated, regardless of objective truth. Emerges from social cognition, memetic resonance, and contextual framing. Ideas with collective plausibility spread faster due to low social friction.
+nemetic: Φ(Collective Plausibility) = σ(objective_truth|perceived_believability) ∘ ρ(individual_judgment|group_consensus) ∘ λ(critical_scrutiny|narrative_acceptance) ∘ β(isolated_idea|memetic_contagion) ∘ δγ(contextual_framing|belief_threshold) ∘ μ(open_discourse|plausibility_architecture) + ε | :shared_belief_propagation
+siml_encoding: ⟨truth_believability_distinction, plausibility_perception⟩ ⊳ ⟨individual_group_consensus_relating, social_amplification⟩ → ⟨scrutiny_acceptance_catalysis, narrative_transformation⟩ ⊗ ⟨isolated_contagion_growth, memetic_spread⟩ ⇄ ⟨contextual_threshold_cycling, plausibility_field_rhythm⟩
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: objective_truth / perceived_believability
+      S: isolated_idea / memetic_contagion
+      R: individual_judgment / group_consensus
+      P: critical_scrutiny / narrative_acceptance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing objective truth from perceived believability — the discernment gap between what is factually grounded and what a group perceives as plausible enough to entertain, where narrative coherence can substitute for evidential rigor)"
-    - "∂Φ/∂ρ (relating individual judgment to group consensus — the relational dynamics where personal assessment is modulated by social signals, bandwagon effects, and the felt sense of collective agreement)"
-    - "∂Φ/∂λ (transforming critical scrutiny into narrative acceptance — the catalytic process where social amplification and memetic contagion convert skepticism into provisional belief through repeated exposure and social validation)"
-    - "∂Φ/∂β (growth from isolated idea to memetic contagion — the developmental expansion where a narrative gains collective plausibility through social sharing, accumulating believers, and crossing the shared belief threshold)"
-    - "∂Φ/∂δγ (cycling between contextual framing and belief threshold — the grounding oscillation between the environmental conditions that make ideas plausible and the tipping points at which collective belief solidifies or dissolves)"
-    - "∂Φ/∂μ (structural architecture of plausibility fields — the framework mapping how open discourse can be shaped into plausibility architectures through narrative coherence, social proof, and contextual reinforcement)"
-  Z_state: "shared_belief_propagation — collective plausibility reveals that ideas need not be true to spread; they need only cross a shared believability threshold shaped by narrative coherence, social amplification, and contextual framing; the plausibility field acts as a memetic medium where social friction determines propagation speed"
-  tendency: "ρ → 0.90"
+  - ∂Φ/∂σ (distinguishing objective truth from perceived believability — the discernment gap between what is factually grounded and what a group perceives as plausible enough to entertain, where narrative coherence can substitute for evidential rigor)
+  - ∂Φ/∂ρ (relating individual judgment to group consensus — the relational dynamics where personal assessment is modulated by social signals, bandwagon effects, and the felt sense of collective agreement)
+  - ∂Φ/∂λ (transforming critical scrutiny into narrative acceptance — the catalytic process where social amplification and memetic contagion convert skepticism into provisional belief through repeated exposure and social validation)
+  - ∂Φ/∂β (growth from isolated idea to memetic contagion — the developmental expansion where a narrative gains collective plausibility through social sharing, accumulating believers, and crossing the shared belief threshold)
+  - ∂Φ/∂δγ (cycling between contextual framing and belief threshold — the grounding oscillation between the environmental conditions that make ideas plausible and the tipping points at which collective belief solidifies or dissolves)
+  - ∂Φ/∂μ (structural architecture of plausibility fields — the framework mapping how open discourse can be shaped into plausibility architectures through narrative coherence, social proof, and contextual reinforcement)
+  Z_state: semi
+  z_note: shared_belief_propagation — collective plausibility reveals that ideas need not be true to spread; they need only cross a shared believability threshold shaped by narrative coherence, social amplification, and contextual framing; the plausibility field acts as a memetic medium where social friction determines propagation speed
+  tendency: ρ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["truth_believability_discernment", "plausibility_perception_gap"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["individual_group_consensus_flow", "social_amplification_dynamics"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["scrutiny_acceptance_catalysis", "narrative_transformation_force"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["idea_to_contagion_growth", "memetic_spread_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["contextual_framing_ground", "belief_threshold_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["plausibility_architecture", "narrative_coherence_structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - truth_believability_discernment
+    - plausibility_perception_gap
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - individual_group_consensus_flow
+    - social_amplification_dynamics
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - scrutiny_acceptance_catalysis
+    - narrative_transformation_force
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - idea_to_contagion_growth
+    - memetic_spread_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - contextual_framing_ground
+    - belief_threshold_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - plausibility_architecture
+    - narrative_coherence_structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213405_2368851_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

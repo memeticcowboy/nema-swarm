@@ -1,32 +1,158 @@
 ---
-term: "Resonant Cognitive Architecture"
-hex_tag: "S10E"
-series: "S"
-source_file: "1771907213279_2257481_Resonant+Cognitive+Architecture%3A+Reframing+the+Self+through+Embodied+Transformation.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Reframes the self as a dynamic patterned system shaped by environment, culture, and somatic experience rather than a fixed entity. Proposes a recursive transformation framework — recognize, rupture, reweave — for revising internalized structures. Introduces memeforms as units of cultural meaning that structurally encode behavior. The body stores patterns through breath, posture, and voice (somatic manifestation). Volitional clarity emerges as structural alignment rather than willpower. Power within is the capacity to consciously revise one's own internal architecture."
-nemetic: "Φ(ResonantArchitecture) = σ(pattern_recognition|structural_mapping) ∘ ρ(somatic_memory|embodied_transformation) ∘ λ(rupture|deliberate_destabilization) ∘ β(reweaving|cultural_memeform_integration) ∘ δγ(body_substrate|breath_posture_voice) ∘ μ(volitional_clarity|structural_alignment) + ε | :architectural_self"
-siml_encoding: "⟨internalized_structure⟩ ⊳ ⟨recognition⟩ → ⟨rupture⟩ ⊗ ⟨reweaving⟩ ⇄ ⟨architectural_self⟩"
+term: Resonant Cognitive Architecture
+hex_tag: S10E
+series: S
+source_file: 1771907213279_2257481_Resonant+Cognitive+Architecture%3A+Reframing+the+Self+through+Embodied+Transformation.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Reframes the self as a dynamic patterned system shaped by environment, culture, and somatic experience rather than a fixed entity. Proposes a recursive transformation framework — recognize, rupture, reweave — for revising internalized structures. Introduces memeforms as units of cultural meaning that structurally encode behavior. The body stores patterns through breath, posture, and voice (somatic manifestation). Volitional clarity emerges as structural alignment rather than willpower. Power within is the capacity to consciously revise one's own internal architecture.
+nemetic: Φ(ResonantArchitecture) = σ(pattern_recognition|structural_mapping) ∘ ρ(somatic_memory|embodied_transformation) ∘ λ(rupture|deliberate_destabilization) ∘ β(reweaving|cultural_memeform_integration) ∘ δγ(body_substrate|breath_posture_voice) ∘ μ(volitional_clarity|structural_alignment) + ε | :architectural_self
+siml_encoding: ⟨internalized_structure⟩ ⊳ ⟨recognition⟩ → ⟨rupture⟩ ⊗ ⟨reweaving⟩ ⇄ ⟨architectural_self⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: pattern_recognition / structural_mapping
+      S: reweaving / cultural_memeform_integration
+      R: somatic_memory / embodied_transformation
+      P: rupture / deliberate_destabilization
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ → pattern recognition reveals internalized structures operating below conscious awareness as cognitive-behavioral architecture"
-    - "∂Φ/∂ρ → somatic memory stores cultural and personal patterns in breath, posture, tension, and voice — the body as archive"
-    - "∂Φ/∂λ → deliberate rupture destabilizes entrenched patterns to create space for conscious revision"
-    - "∂Φ/∂β → reweaving integrates new cultural memeforms into the structural fabric of self through sustained practice"
-    - "∂Φ/∂δγ → the body serves as the primary substrate where cognitive architecture manifests and can be accessed"
-    - "∂Φ/∂μ → volitional clarity emerges from structural alignment rather than effortful willpower"
-  Z_state: "architectural_self — the self is understood as a revisable architecture of internalized patterns, not a fixed essence, enabling continuous conscious transformation through recognition, rupture, and reweaving"
-  tendency: "ρ → 0.83"
+  - ∂Φ/∂σ → pattern recognition reveals internalized structures operating below conscious awareness as cognitive-behavioral architecture
+  - ∂Φ/∂ρ → somatic memory stores cultural and personal patterns in breath, posture, tension, and voice — the body as archive
+  - ∂Φ/∂λ → deliberate rupture destabilizes entrenched patterns to create space for conscious revision
+  - ∂Φ/∂β → reweaving integrates new cultural memeforms into the structural fabric of self through sustained practice
+  - ∂Φ/∂δγ → the body serves as the primary substrate where cognitive architecture manifests and can be accessed
+  - ∂Φ/∂μ → volitional clarity emerges from structural alignment rather than effortful willpower
+  Z_state: semi
+  z_note: architectural_self — the self is understood as a revisable architecture of internalized patterns, not a fixed essence, enabling continuous conscious transformation through recognition, rupture, and reweaving
+  tendency: ρ → 0.83
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.69, aspects: [pattern_mapping, structural_analysis, metacognitive_recognition], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.83, aspects: [somatic_memory, embodied_felt_sense, breath_and_tension_patterns, emotional_depth], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: [pattern_rupture, deliberate_destabilization, transformative_crisis], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: [memeform_cultivation, cultural_reweaving, organic_pattern_integration], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: [body_as_substrate, postural_grounding, physical_manifestation_of_pattern], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.66, aspects: [volitional_structure, alignment_precision, architectural_integrity], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.69
+    aspects:
+    - pattern_mapping
+    - structural_analysis
+    - metacognitive_recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.83
+    aspects:
+    - somatic_memory
+    - embodied_felt_sense
+    - breath_and_tension_patterns
+    - emotional_depth
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - pattern_rupture
+    - deliberate_destabilization
+    - transformative_crisis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - memeform_cultivation
+    - cultural_reweaving
+    - organic_pattern_integration
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - body_as_substrate
+    - postural_grounding
+    - physical_manifestation_of_pattern
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.66
+    aspects:
+    - volitional_structure
+    - alignment_precision
+    - architectural_integrity
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.69
+    water_rho: 0.83
+    fire_lambda: 0.75
+    wood_beta: 0.72
+    earth_delta_gamma: 0.78
+    metal_mu: 0.66
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213279_2257481_Resonant+Cognitive+Architecture%3A+Reframing+the+Self+through+Embodied+Transformation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

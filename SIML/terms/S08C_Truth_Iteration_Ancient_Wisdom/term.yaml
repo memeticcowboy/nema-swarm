@@ -1,32 +1,154 @@
 ---
-term: "Truth Iteration Ancient Wisdom"
-hex_tag: "S08C"
-series: "S"
-source_file: "1771907212883_1675602_Navigating+Truth%3A+Iteration+vs.+Ancient+Wisdom.md"
-encoded_at: "2026-03-06T01:30:00Z"
-description: "The tension between iteration and ancient wisdom in navigating truth — sensory perception versus deeper reality, personal experimentation versus time-tested insights, the integration of body, mind, and soul for holistic well-being, iterative learning as adaptable and innovative versus ancient wisdom as foundational and enduring, consciousness and heightened awareness as pathways to discerning truth beyond appearances."
-nemetic: "Φ(Truth Iteration Ancient Wisdom) = σ(sensory_perception|deeper_truth) ∘ ρ(personal_experimentation|ancestral_knowledge_tradition) ∘ λ(surface_appearance|revealed_deeper_reality) ∘ β(fragmented_understanding|integrated_body_mind_soul_wisdom) ∘ δγ(iterative_experimentation_cycling|wisdom_tradition_transmission_iteration) ∘ μ(epistemological_discernment_framework|holistic_wellbeing_architecture) + ε | :integrated_truth_through_iteration_and_wisdom"
-siml_encoding: "⟨sensory_deeper_distinction, perception_reality_boundary⟩ ⊳ ⟨experimentation_tradition_relation, personal_ancestral_coupling⟩ → ⟨surface_to_depth_transformation, truth_revelation_catalysis⟩ ⊗ ⟨fragmented_to_integrated_growth, holistic_understanding_trajectory⟩ ⇄ ⟨iterative_experimentation_cycling, wisdom_transmission_iteration⟩"
+term: Truth Iteration Ancient Wisdom
+hex_tag: S08C
+series: S
+source_file: 1771907212883_1675602_Navigating+Truth%3A+Iteration+vs.+Ancient+Wisdom.md
+encoded_at: '2026-03-06T01:30:00Z'
+description: The tension between iteration and ancient wisdom in navigating truth — sensory perception versus deeper reality, personal experimentation versus time-tested insights, the integration of body, mind, and soul for holistic well-being, iterative learning as adaptable and innovative versus ancient wisdom as foundational and enduring, consciousness and heightened awareness as pathways to discerning truth beyond appearances.
+nemetic: Φ(Truth Iteration Ancient Wisdom) = σ(sensory_perception|deeper_truth) ∘ ρ(personal_experimentation|ancestral_knowledge_tradition) ∘ λ(surface_appearance|revealed_deeper_reality) ∘ β(fragmented_understanding|integrated_body_mind_soul_wisdom) ∘ δγ(iterative_experimentation_cycling|wisdom_tradition_transmission_iteration) ∘ μ(epistemological_discernment_framework|holistic_wellbeing_architecture) + ε | :integrated_truth_through_iteration_and_wisdom
+siml_encoding: ⟨sensory_deeper_distinction, perception_reality_boundary⟩ ⊳ ⟨experimentation_tradition_relation, personal_ancestral_coupling⟩ → ⟨surface_to_depth_transformation, truth_revelation_catalysis⟩ ⊗ ⟨fragmented_to_integrated_growth, holistic_understanding_trajectory⟩ ⇄ ⟨iterative_experimentation_cycling, wisdom_transmission_iteration⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: sensory_perception / deeper_truth
+      S: fragmented_understanding / integrated_body_mind_soul_wisdom
+      R: personal_experimentation / ancestral_knowledge_tradition
+      P: surface_appearance / revealed_deeper_reality
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing immediate sensory perception from deeper truth that may contradict surface appearance)"
-    - "∂Φ/∂ρ (relating personal experimentation to ancestral knowledge traditions as complementary truth-seeking methods)"
-    - "∂Φ/∂λ (transforming surface appearance into revealed deeper reality through critical discernment)"
-    - "∂Φ/∂β (growth from fragmented understanding toward integrated body-mind-soul wisdom)"
-    - "∂Φ/∂δγ (cycling through iterative experimentation and wisdom tradition transmission across generations)"
-    - "∂Φ/∂μ (epistemological discernment as framework and holistic well-being as architectural goal)"
-  Z_state: "integrated_truth_through_iteration_and_wisdom — truth is navigated through the dynamic integration of personal iterative experimentation (adaptable, innovative, body-tested) and ancient wisdom (foundational, enduring, time-tested); sensory perception can mislead when taken at face value, yet provides essential data when critically evaluated; the Z-state is achieved when the practitioner neither relies solely on personal experimentation nor defers entirely to tradition, but integrates both into a holistic approach that harmonizes body, mind, and soul — recognizing that sugar may taste sweet but neem may heal, and that discernment between immediate sensation and lasting truth requires both experimental verification and inherited wisdom"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing immediate sensory perception from deeper truth that may contradict surface appearance)
+  - ∂Φ/∂ρ (relating personal experimentation to ancestral knowledge traditions as complementary truth-seeking methods)
+  - ∂Φ/∂λ (transforming surface appearance into revealed deeper reality through critical discernment)
+  - ∂Φ/∂β (growth from fragmented understanding toward integrated body-mind-soul wisdom)
+  - ∂Φ/∂δγ (cycling through iterative experimentation and wisdom tradition transmission across generations)
+  - ∂Φ/∂μ (epistemological discernment as framework and holistic well-being as architectural goal)
+  Z_state: semi
+  z_note: integrated_truth_through_iteration_and_wisdom — truth is navigated through the dynamic integration of personal iterative experimentation (adaptable, innovative, body-tested) and ancient wisdom (foundational, enduring, time-tested); sensory perception can mislead when taken at face value, yet provides essential data when critically evaluated; the Z-state is achieved when the practitioner neither relies solely on personal experimentation nor defers entirely to tradition, but integrates both into a holistic approach that harmonizes body, mind, and soul — recognizing that sugar may taste sweet but neem may heal, and that discernment between immediate sensation and lasting truth requires both experimental verification and inherited wisdom
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["sensory_deeper_truth_distinction", "perception_reality_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["experimentation_tradition_relation", "personal_ancestral_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["surface_to_depth_transformation", "truth_revelation_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["fragmented_to_integrated_growth", "holistic_understanding_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["iterative_experimentation_cycling", "wisdom_transmission_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["epistemological_discernment_framework", "holistic_wellbeing_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S018", "S036", "S011"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - sensory_deeper_truth_distinction
+    - perception_reality_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - experimentation_tradition_relation
+    - personal_ancestral_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - surface_to_depth_transformation
+    - truth_revelation_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - fragmented_to_integrated_growth
+    - holistic_understanding_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - iterative_experimentation_cycling
+    - wisdom_transmission_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - epistemological_discernment_framework
+    - holistic_wellbeing_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S018
+- S036
+- S011
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212883_1675602_Navigating+Truth%3A+Iteration+vs.+Ancient+Wisdom.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

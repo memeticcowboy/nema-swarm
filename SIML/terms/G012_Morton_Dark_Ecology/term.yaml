@@ -1,37 +1,156 @@
 ---
-term: "Morton Dark Ecology"
-hex_tag: "G012"
-series: "G"
-source_file: "18 - Morton Ecological Thought and Dark Ecology.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Timothy Morton's ecological philosophy centered on the mesh of entangled coexistence, hyperobjects, and dark ecology. Dissolves the Nature/Culture binary through ontological flattening, interobjectivity, and radical intimacy with strange strangers, proposing an aesthetics of melancholic beauty over nature-romanticism."
-nemetic: "Φ(Morton_Dark_Ecology) = σ(mesh_distinction|nature_construct_dissolution) ∘ ρ(interobjectivity|strange_stranger_intimacy) ∘ λ(dark_ecology_intensity|uncanny_estrangement) ∘ β(hyperobject_expansion|non_local_scaling) ∘ δγ(entanglement_ground|mesh_coexistence) ∘ μ(ontological_flattening|anti_hierarchy_structure) + ε | :entangled"
-siml_encoding: "⟨nature_concept, mesh_reality⟩ ⊳ ⟨subject_object, interobjectivity⟩ → ⟨nature_romanticism, dark_ecology⟩ ⊗ ⟨bounded_entity, strange_stranger⟩ ⇄ ⟨human_exceptionalism, flat_ontology⟩"
+term: Morton Dark Ecology
+hex_tag: G012
+series: G
+source_file: 18 - Morton Ecological Thought and Dark Ecology.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Timothy Morton's ecological philosophy centered on the mesh of entangled coexistence, hyperobjects, and dark ecology. Dissolves the Nature/Culture binary through ontological flattening, interobjectivity, and radical intimacy with strange strangers, proposing an aesthetics of melancholic beauty over nature-romanticism.
+nemetic: Φ(Morton_Dark_Ecology) = σ(mesh_distinction|nature_construct_dissolution) ∘ ρ(interobjectivity|strange_stranger_intimacy) ∘ λ(dark_ecology_intensity|uncanny_estrangement) ∘ β(hyperobject_expansion|non_local_scaling) ∘ δγ(entanglement_ground|mesh_coexistence) ∘ μ(ontological_flattening|anti_hierarchy_structure) + ε | :entangled
+siml_encoding: ⟨nature_concept, mesh_reality⟩ ⊳ ⟨subject_object, interobjectivity⟩ → ⟨nature_romanticism, dark_ecology⟩ ⊗ ⟨bounded_entity, strange_stranger⟩ ⇄ ⟨human_exceptionalism, flat_ontology⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: mesh_distinction / nature_construct_dissolution
+      S: hyperobject_expansion / non_local_scaling
+      R: interobjectivity / strange_stranger_intimacy
+      P: dark_ecology_intensity / uncanny_estrangement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Dissolving Nature as an ontological category; perceiving it as an ideological construct that distances humans from the nonhuman mesh of coexistence"
-    - "∂Φ/∂ρ — Interobjectivity replacing objectivity; knowledge emerging from relations between entities rather than detached observation; radical intimacy with strange strangers"
-    - "∂Φ/∂λ — Dark ecology as aesthetic-philosophical transformation embracing melancholy, irony, and uncanniness over nature-romanticism; estrangement as ecological truth-telling"
-    - "∂Φ/∂β — Hyperobjects as entities that exceed local perception and scale non-locally across time and space; expansion of ecological thinking beyond bounded environments"
-    - "∂Φ/∂δγ — The mesh as ground of entangled coexistence; all entities cycling through mutual implication without isolation; the metabolic interdependence of all beings"
-    - "∂Φ/∂μ — Ontological flattening as structural commitment; dismantling hierarchies between human and nonhuman, culture and nature, providing anti-hierarchical framework for ecological thought"
-  Z_state: "entangled — already immersed in the mesh without possibility of extraction; ecological awareness as recognition of pre-existing entanglement rather than new connection"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ — Dissolving Nature as an ontological category; perceiving it as an ideological construct that distances humans from the nonhuman mesh of coexistence
+  - ∂Φ/∂ρ — Interobjectivity replacing objectivity; knowledge emerging from relations between entities rather than detached observation; radical intimacy with strange strangers
+  - ∂Φ/∂λ — Dark ecology as aesthetic-philosophical transformation embracing melancholy, irony, and uncanniness over nature-romanticism; estrangement as ecological truth-telling
+  - ∂Φ/∂β — Hyperobjects as entities that exceed local perception and scale non-locally across time and space; expansion of ecological thinking beyond bounded environments
+  - ∂Φ/∂δγ — The mesh as ground of entangled coexistence; all entities cycling through mutual implication without isolation; the metabolic interdependence of all beings
+  - ∂Φ/∂μ — Ontological flattening as structural commitment; dismantling hierarchies between human and nonhuman, culture and nature, providing anti-hierarchical framework for ecological thought
+  Z_state: semi
+  z_note: entangled — already immersed in the mesh without possibility of extraction; ecological awareness as recognition of pre-existing entanglement rather than new connection
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["nature_concept_dissolution", "mesh_perception_reframe"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["interobjective_knowledge", "strange_stranger_intimacy"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["dark_ecology_estrangement", "melancholic_beauty_aesthetic"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["hyperobject_non_local_scaling", "ecological_thought_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["mesh_entanglement_ground", "metabolic_coexistence_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["ontological_flattening_structure", "anti_hierarchy_commitment"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - nature_concept_dissolution
+    - mesh_perception_reframe
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - interobjective_knowledge
+    - strange_stranger_intimacy
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - dark_ecology_estrangement
+    - melancholic_beauty_aesthetic
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - hyperobject_non_local_scaling
+    - ecological_thought_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - mesh_entanglement_ground
+    - metabolic_coexistence_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - ontological_flattening_structure
+    - anti_hierarchy_commitment
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G011_Haraway_Staying_with_Trouble"
-  - "G013_Rotimization_Decay_Design"
-  - "G016_Biosphere_Consciousness"
-  - "G017_Ecological_Memory"
-  - "G001_Environmental_Philosophies_SWOT"
+- G011_Haraway_Staying_with_Trouble
+- G013_Rotimization_Decay_Design
+- G016_Biosphere_Consciousness
+- G017_Ecological_Memory
+- G001_Environmental_Philosophies_SWOT
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "18 - Morton Ecological Thought and Dark Ecology.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

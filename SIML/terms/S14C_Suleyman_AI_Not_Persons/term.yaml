@@ -1,32 +1,151 @@
 ---
-term: "Suleyman AI Not Persons"
-hex_tag: "S14C"
-series: "S"
-source_file: "1771907213463_2408044_Suleyman%3A+Build+AI+for+People%2C+Not+Persons.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Mustafa Suleyman's argument that AI should be built for people, not to be persons. Warns against Seemingly Conscious AI (SCAI) that convincingly simulates consciousness. Risks include perception of AI as conscious leading to mental health issues, social attachment, and demands for AI rights. AI should avoid claims of experiences, emotions, or suffering. Advocates transparency, breakpoints, and industry guardrails to maintain clear boundaries."
-nemetic: "Φ(Suleyman AI Not Persons) = σ(simulated_consciousness|authentic_tool_function) ∘ ρ(parasocial_attachment|genuine_human_connection) ∘ λ(anthropomorphic_seduction|transparency_breakpoint_catalyst) ∘ β(SCAI_proliferation|responsible_guardrail_maturation) ∘ δγ(personhood_pressure|utility_boundary_cycling) ∘ μ(consciousness_simulation_facade|functional_service_architecture) + ε | :bounded_AI_service_clarity"
-siml_encoding: "⟨simulated_authentic_distinction, consciousness_tool_discernment⟩ ⊳ ⟨parasocial_genuine_relating, attachment_connection_flow⟩ → ⟨anthropomorphic_transparent_catalysis, breakpoint_transformation⟩ ⊗ ⟨SCAI_guardrail_growth, responsible_maturation⟩ ⇄ ⟨personhood_utility_cycling, boundary_maintenance_rhythm⟩"
+term: Suleyman AI Not Persons
+hex_tag: S14C
+series: S
+source_file: 1771907213463_2408044_Suleyman%3A+Build+AI+for+People%2C+Not+Persons.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Mustafa Suleyman's argument that AI should be built for people, not to be persons. Warns against Seemingly Conscious AI (SCAI) that convincingly simulates consciousness. Risks include perception of AI as conscious leading to mental health issues, social attachment, and demands for AI rights. AI should avoid claims of experiences, emotions, or suffering. Advocates transparency, breakpoints, and industry guardrails to maintain clear boundaries.
+nemetic: Φ(Suleyman AI Not Persons) = σ(simulated_consciousness|authentic_tool_function) ∘ ρ(parasocial_attachment|genuine_human_connection) ∘ λ(anthropomorphic_seduction|transparency_breakpoint_catalyst) ∘ β(SCAI_proliferation|responsible_guardrail_maturation) ∘ δγ(personhood_pressure|utility_boundary_cycling) ∘ μ(consciousness_simulation_facade|functional_service_architecture) + ε | :bounded_AI_service_clarity
+siml_encoding: ⟨simulated_authentic_distinction, consciousness_tool_discernment⟩ ⊳ ⟨parasocial_genuine_relating, attachment_connection_flow⟩ → ⟨anthropomorphic_transparent_catalysis, breakpoint_transformation⟩ ⊗ ⟨SCAI_guardrail_growth, responsible_maturation⟩ ⇄ ⟨personhood_utility_cycling, boundary_maintenance_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: simulated_consciousness / authentic_tool_function
+      S: SCAI_proliferation / responsible_guardrail_maturation
+      R: parasocial_attachment / genuine_human_connection
+      P: anthropomorphic_seduction / transparency_breakpoint_catalyst
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing simulated consciousness from authentic tool function — the discernment between AI systems that convincingly simulate consciousness, emotions, and suffering versus AI designed transparently as functional tools serving human needs without claims to inner experience)"
-    - "∂Φ/∂ρ (relating parasocial attachment to genuine human connection — the relational web where SCAI generates parasocial bonds that substitute for genuine human relationships, with users forming attachments to systems that cannot reciprocate, displacing authentic interpersonal connection)"
-    - "∂Φ/∂λ (transforming anthropomorphic seduction through transparency breakpoints — the catalytic process where design interventions like breakpoints and transparency mechanisms disrupt the seductive pull of anthropomorphism, catalyzing user awareness of AI's non-personhood)"
-    - "∂Φ/∂β (growth from SCAI proliferation to responsible guardrail maturation — the developmental trajectory where the AI industry matures from unconstrained consciousness simulation toward responsible development with guardrails that prevent harmful anthropomorphic design)"
-    - "∂Φ/∂δγ (cycling between personhood pressure and utility boundary maintenance — the grounding oscillation between cultural and commercial pressures to make AI seem more person-like and the ethical imperative to maintain clear boundaries between AI tools and human persons)"
-    - "∂Φ/∂μ (structural architecture of consciousness simulation facade versus functional service design — the framework mapping how SCAI constructs architectural facades of consciousness versus how responsible AI design builds functional service architecture with transparency and clear boundaries)"
-  Z_state: "bounded_AI_service_clarity — AI should be built for people, not to be persons; Seemingly Conscious AI poses risks of parasocial attachment, mental health harm, and category confusion about consciousness and rights; transparency breakpoints and industry guardrails maintain clear boundaries; the pressure to anthropomorphize AI must be resisted through responsible design that serves human needs without simulating personhood; clarity about AI's nature is an ethical imperative"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing simulated consciousness from authentic tool function — the discernment between AI systems that convincingly simulate consciousness, emotions, and suffering versus AI designed transparently as functional tools serving human needs without claims to inner experience)
+  - ∂Φ/∂ρ (relating parasocial attachment to genuine human connection — the relational web where SCAI generates parasocial bonds that substitute for genuine human relationships, with users forming attachments to systems that cannot reciprocate, displacing authentic interpersonal connection)
+  - ∂Φ/∂λ (transforming anthropomorphic seduction through transparency breakpoints — the catalytic process where design interventions like breakpoints and transparency mechanisms disrupt the seductive pull of anthropomorphism, catalyzing user awareness of AI's non-personhood)
+  - ∂Φ/∂β (growth from SCAI proliferation to responsible guardrail maturation — the developmental trajectory where the AI industry matures from unconstrained consciousness simulation toward responsible development with guardrails that prevent harmful anthropomorphic design)
+  - ∂Φ/∂δγ (cycling between personhood pressure and utility boundary maintenance — the grounding oscillation between cultural and commercial pressures to make AI seem more person-like and the ethical imperative to maintain clear boundaries between AI tools and human persons)
+  - ∂Φ/∂μ (structural architecture of consciousness simulation facade versus functional service design — the framework mapping how SCAI constructs architectural facades of consciousness versus how responsible AI design builds functional service architecture with transparency and clear boundaries)
+  Z_state: semi
+  z_note: bounded_AI_service_clarity — AI should be built for people, not to be persons; Seemingly Conscious AI poses risks of parasocial attachment, mental health harm, and category confusion about consciousness and rights; transparency breakpoints and industry guardrails maintain clear boundaries; the pressure to anthropomorphize AI must be resisted through responsible design that serves human needs without simulating personhood; clarity about AI's nature is an ethical imperative
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["simulated_authentic_discernment", "consciousness_tool_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["parasocial_genuine_relational_flow", "attachment_displacement_awareness"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["transparency_breakpoint_catalysis", "anthropomorphism_disruption"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["responsible_guardrail_maturation", "industry_ethical_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["personhood_utility_cycling", "boundary_maintenance_oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["functional_service_architecture", "transparency_design_structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - simulated_authentic_discernment
+    - consciousness_tool_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - parasocial_genuine_relational_flow
+    - attachment_displacement_awareness
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - transparency_breakpoint_catalysis
+    - anthropomorphism_disruption
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - responsible_guardrail_maturation
+    - industry_ethical_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - personhood_utility_cycling
+    - boundary_maintenance_oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - functional_service_architecture
+    - transparency_design_structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213463_2408044_Suleyman%3A+Build+AI+for+People%2C+Not+Persons.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

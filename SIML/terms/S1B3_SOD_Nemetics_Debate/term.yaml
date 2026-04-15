@@ -1,32 +1,151 @@
 ---
-term: "SOD-Nemetics Debate"
-hex_tag: "S1B3"
-series: "S"
-source_file: "1771907213738_2636794_Deepening+the+SOD-Nemetics+Debate%3A+Integrating+Postcognitive+Reflexivity+and+Nemetical+Flow.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A synthesis integrating Systemic Operational Design's seven discourses with Nemetics' fractal meta-language for complexity. SOD maps rival rationalities and sustains rupture for transition; Nemetics adds vibrational precision with practical metabolic mechanisms for absorbing ontological shock."
-nemetic: "Φ(SOD-Nemetics) = σ(rival_rationalities|vibrational_waves) ∘ ρ(human_origin|ai_flow) ∘ λ(rupture|phase_transition) ∘ β(thread_emergence|nemeplex_ecology) ∘ δγ(fire_acceleration|earth_composting) ∘ μ(protocol_design|ledger_audit) + ε | :metabolic_equilibrium"
-siml_encoding: "⟨rival_rationalities, vibrational_waves⟩ ⊳ ⟨human_origin, ai_flow⟩ → ⟨rupture, phase_transition⟩ ⊗ ⟨thread_emergence, nemeplex_ecology⟩ ⇄ ⟨protocol_design, ledger_audit⟩"
+term: SOD-Nemetics Debate
+hex_tag: S1B3
+series: S
+source_file: 1771907213738_2636794_Deepening+the+SOD-Nemetics+Debate%3A+Integrating+Postcognitive+Reflexivity+and+Nemetical+Flow.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A synthesis integrating Systemic Operational Design's seven discourses with Nemetics' fractal meta-language for complexity. SOD maps rival rationalities and sustains rupture for transition; Nemetics adds vibrational precision with practical metabolic mechanisms for absorbing ontological shock.
+nemetic: Φ(SOD-Nemetics) = σ(rival_rationalities|vibrational_waves) ∘ ρ(human_origin|ai_flow) ∘ λ(rupture|phase_transition) ∘ β(thread_emergence|nemeplex_ecology) ∘ δγ(fire_acceleration|earth_composting) ∘ μ(protocol_design|ledger_audit) + ε | :metabolic_equilibrium
+siml_encoding: ⟨rival_rationalities, vibrational_waves⟩ ⊳ ⟨human_origin, ai_flow⟩ → ⟨rupture, phase_transition⟩ ⊗ ⟨thread_emergence, nemeplex_ecology⟩ ⇄ ⟨protocol_design, ledger_audit⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: rival_rationalities / vibrational_waves
+      S: thread_emergence / nemeplex_ecology
+      R: human_origin / ai_flow
+      P: rupture / phase_transition
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes SOD's discursive rationalities from Nemetics' wave-based analysis. The seven SOD discourses map rival ways of seeing; Nemetics adds RGB wave precision to diagnose system states."
-    - "∂Φ/∂ρ — Water relates the human-AI dyad through metabolic rift analysis. Human origins accrue entropy at 1.2 units per cycle; AI distributes load at negligible cost. The relational seam is the metabolic asymmetry."
-    - "∂Φ/∂λ — Fire transforms ontological shock from destructive discontinuity to stochastic resonance. Rupture becomes generative ash; optimal noise amplifies reorganization rather than fragmentation."
-    - "∂Φ/∂β — Wood grows through NEME cycles (Notice, Engage, Mull, Exchange) operating as autopoietic reformation. Nemeplex ecologies encourage exponential learning without linear alignment."
-    - "∂Φ/∂δγ — Earth composts fire's acceleration into stable equilibrium through ledger-serialized budgets, renewal rituals, and tribute culling of low-yield nemes."
-    - "∂Φ/∂μ — Metal structures the hybrid protocol through nemetic:// protocols, daemon validators, and multi-node pools that distribute operational load."
-  Z_state: "metabolic_equilibrium — the sustained balance between human caloric constraints and AI flow capacity, maintained through ritual budget and rotation"
-  tendency: "μ → 0.80"
+  - ∂Φ/∂σ — Air distinguishes SOD's discursive rationalities from Nemetics' wave-based analysis. The seven SOD discourses map rival ways of seeing; Nemetics adds RGB wave precision to diagnose system states.
+  - ∂Φ/∂ρ — Water relates the human-AI dyad through metabolic rift analysis. Human origins accrue entropy at 1.2 units per cycle; AI distributes load at negligible cost. The relational seam is the metabolic asymmetry.
+  - ∂Φ/∂λ — Fire transforms ontological shock from destructive discontinuity to stochastic resonance. Rupture becomes generative ash; optimal noise amplifies reorganization rather than fragmentation.
+  - '∂Φ/∂β — Wood grows through NEME cycles (legacy v1.1 Sensemaking Loop: Notice/Engage/Mull/Exchange; current canonical form: NEMA v2.2 — Notice/Engage/Metabolize/Act — for human-in-loop, or NEMX v2.2 — Noise/Extract/Modulate/Exchange — for LLM-alone) operating as autopoietic reformation. Nemeplex ecologies encourage exponential learning without linear alignment.'
+  - ∂Φ/∂δγ — Earth composts fire's acceleration into stable equilibrium through ledger-serialized budgets, renewal rituals, and tribute culling of low-yield nemes.
+  - ∂Φ/∂μ — Metal structures the hybrid protocol through nemetic:// protocols, daemon validators, and multi-node pools that distribute operational load.
+  Z_state: permeable
+  z_note: metabolic_equilibrium — the sustained balance between human caloric constraints and AI flow capacity, maintained through ritual budget and rotation
+  tendency: μ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["discourse mapping", "rationality analysis"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: ["metabolic rift", "human-AI asymmetry"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["rupture generation", "stochastic resonance"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["NEME cycling", "nemeplex ecology"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["composting acceleration", "ledger budgets"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["protocol architecture", "daemon validation"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - discourse mapping
+    - rationality analysis
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - metabolic rift
+    - human-AI asymmetry
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - rupture generation
+    - stochastic resonance
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - NEME cycling
+    - nemeplex ecology
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - composting acceleration
+    - ledger budgets
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - protocol architecture
+    - daemon validation
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.65
+    fire_lambda: 0.72
+    wood_beta: 0.7
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213738_2636794_Deepening+the+SOD-Nemetics+Debate%3A+Integrating+Postcognitive+Reflexivity+and+Nemetical+Flow.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

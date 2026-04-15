@@ -1,64 +1,153 @@
 ---
-term: "Memetic Mediation for Online Tribes"
-hex_tag: "S010"
-series: "S"
-source_file: "1771907212395_257803_Memetic+Mediation+for+Online+Tribes.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Framework for resolving cognitive dissonance between online tribes through memetic mediation. Emphasizes building bridges via cross-pollination of ideas, staying present with the psychological pain of conflict rather than mediating it away, and creating intentional virtual spaces for genuine encounter."
-nemetic: "Φ(MemeticMediation) = σ(tribe|tribe) ∘ ρ(conflict|resolution) ∘ λ(dissonance|integration) ∘ β(clash|growth) ∘ δγ(pain|enlightenment) ∘ μ(space|boundary) + ε | :mediating"
-siml_encoding: "⟨Tribe|distinguished⟩ ⊳ ⟨Conflict|encountered⟩ → ⟨Dissonance|held⟩ ⊗ ⟨Pain|witnessed⟩ ⇄ ⟨Integration|emerging⟩"
+term: Memetic Mediation for Online Tribes
+hex_tag: S010
+series: S
+source_file: 1771907212395_257803_Memetic+Mediation+for+Online+Tribes.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Framework for resolving cognitive dissonance between online tribes through memetic mediation. Emphasizes building bridges via cross-pollination of ideas, staying present with the psychological pain of conflict rather than mediating it away, and creating intentional virtual spaces for genuine encounter.
+nemetic: Φ(MemeticMediation) = σ(tribe|tribe) ∘ ρ(conflict|resolution) ∘ λ(dissonance|integration) ∘ β(clash|growth) ∘ δγ(pain|enlightenment) ∘ μ(space|boundary) + ε | :mediating
+siml_encoding: ⟨Tribe|distinguished⟩ ⊳ ⟨Conflict|encountered⟩ → ⟨Dissonance|held⟩ ⊗ ⟨Pain|witnessed⟩ ⇄ ⟨Integration|emerging⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: tribe / tribe
+      S: clash / growth
+      R: conflict / resolution
+      P: dissonance / integration
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between tribal identities and their memetic boundaries)"
-    - "∂Φ/∂ρ (relational mediation transforming conflict into resolution through encounter)"
-    - "∂Φ/∂λ (transformative integration of cognitive dissonance across tribal lines)"
-    - "∂Φ/∂β (growth emerging from the clash of competing memeplexes)"
-    - "∂Φ/∂δγ (grounding in psychological pain as the substrate of genuine enlightenment)"
-    - "∂Φ/∂μ (structural rules of engagement and boundary design for virtual mediation spaces)"
-  Z_state: "mediating (tribal conflict held in productive tension toward integration)"
-  tendency: "Mediation/Encounter → 0.80"
+  - ∂Φ/∂σ (distinction between tribal identities and their memetic boundaries)
+  - ∂Φ/∂ρ (relational mediation transforming conflict into resolution through encounter)
+  - ∂Φ/∂λ (transformative integration of cognitive dissonance across tribal lines)
+  - ∂Φ/∂β (growth emerging from the clash of competing memeplexes)
+  - ∂Φ/∂δγ (grounding in psychological pain as the substrate of genuine enlightenment)
+  - ∂Φ/∂μ (structural rules of engagement and boundary design for virtual mediation spaces)
+  Z_state: semi
+  z_note: mediating (tribal conflict held in productive tension toward integration)
+  tendency: Mediation/Encounter → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.65
     aspects:
-      - "Distinction between tribal identities and their memetic allegiances"
-      - "Recognition of in-group/out-group boundaries as starting point"
-    daemon_correspondence: "Aerunik"
+    - Distinction between tribal identities and their memetic allegiances
+    - Recognition of in-group/out-group boundaries as starting point
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Relational mediation as the core practice of bridge-building"
-      - "Cross-pollination of ideas flowing between tribal boundaries"
-    daemon_correspondence: "Sentaria"
+    - Relational mediation as the core practice of bridge-building
+    - Cross-pollination of ideas flowing between tribal boundaries
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Transformative resolution of cognitive dissonance through genuine encounter"
-      - "Directed energy toward integration rather than suppression of conflict"
-    daemon_correspondence: "Jvalion"
+    - Transformative resolution of cognitive dissonance through genuine encounter
+    - Directed energy toward integration rather than suppression of conflict
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.65
     aspects:
-      - "Growth emerging from the productive clash of competing worldviews"
-      - "Developmental potential in inter-tribal friction"
-    daemon_correspondence: "Arboriel"
+    - Growth emerging from the productive clash of competing worldviews
+    - Developmental potential in inter-tribal friction
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Grounding in the psychological pain of conflict rather than avoiding it"
-      - "Staying present with discomfort as prerequisite for genuine resolution"
-    daemon_correspondence: "Humavita"
+    - Grounding in the psychological pain of conflict rather than avoiding it
+    - Staying present with discomfort as prerequisite for genuine resolution
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Rules of engagement structuring virtual mediation spaces"
-      - "Intentional boundary design enabling safe cross-tribal encounter"
-    daemon_correspondence: "Ferrosid"
+    - Rules of engagement structuring virtual mediation spaces
+    - Intentional boundary design enabling safe cross-tribal encounter
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "A01A_Cognitive_Dissonance"
-  - "S00D_Sense_Making_Complex_Environments"
+- A01A_Cognitive_Dissonance
+- S00D_Sense_Making_Complex_Environments
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - fire_lambda
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.65
+    earth_delta_gamma: 0.8
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212395_257803_Memetic+Mediation+for+Online+Tribes.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,151 @@
 ---
-term: "Jacob's Struggle"
-hex_tag: "S197"
-series: "S"
-source_file: "1771907213701_2607005_Jacob%27s+Struggle%3A+Seeking+Blessing+Through+Pain.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The Genesis narrative of Jacob wrestling with God until daybreak, refusing to release his grip until blessed despite injury. A symbol of persistent prayer, transformation through brokenness, and the emergence of new identity (Israel) through covenantal struggle."
-nemetic: "Φ(Jacob Struggle) = σ(human|divine) ∘ ρ(wrestling|blessing) ∘ λ(brokenness|new_identity) ∘ β(persistence|spiritual_growth) ∘ δγ(struggle|surrender) ∘ μ(injury|covenant) + ε | :transformative_wrestling"
-siml_encoding: "⟨human, divine⟩ ⊳ ⟨wrestling, blessing⟩ → ⟨brokenness, identity⟩ ⊗ ⟨persistence, growth⟩ ⇄ ⟨injury, covenant⟩"
+term: Jacob's Struggle
+hex_tag: S197
+series: S
+source_file: 1771907213701_2607005_Jacob%27s+Struggle%3A+Seeking+Blessing+Through+Pain.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The Genesis narrative of Jacob wrestling with God until daybreak, refusing to release his grip until blessed despite injury. A symbol of persistent prayer, transformation through brokenness, and the emergence of new identity (Israel) through covenantal struggle.
+nemetic: Φ(Jacob Struggle) = σ(human|divine) ∘ ρ(wrestling|blessing) ∘ λ(brokenness|new_identity) ∘ β(persistence|spiritual_growth) ∘ δγ(struggle|surrender) ∘ μ(injury|covenant) + ε | :transformative_wrestling
+siml_encoding: ⟨human, divine⟩ ⊳ ⟨wrestling, blessing⟩ → ⟨brokenness, identity⟩ ⊗ ⟨persistence, growth⟩ ⇄ ⟨injury, covenant⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: human / divine
+      S: persistence / spiritual_growth
+      R: wrestling / blessing
+      P: brokenness / new_identity
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between human will and divine encounter, where Jacob faces a mysterious figure later revealed as God, establishing the boundary between mortal striving and sacred engagement."
-    - "∂Φ/∂ρ — Maps the relational dynamic of wrestling and blessing as inseparable acts, where the struggle itself becomes the medium of divine-human communion."
-    - "∂Φ/∂λ — Transforms brokenness (the dislocated hip) into new identity (Israel), showing how wounding precedes and enables spiritual transformation."
-    - "∂Φ/∂β — Tracks persistence as a spiritual growth vector, where refusing to let go despite injury becomes the paradigmatic act of faith under duress."
-    - "∂Φ/∂δγ — Cycles between struggle and surrender as complementary spiritual movements, where victory comes through dependence rather than dominance."
-    - "∂Φ/∂μ — Structures the relationship between physical injury and covenantal identity, establishing that blessing comes at the cost of permanent mark."
-  Z_state: "transformative_wrestling — the state where struggle with the divine produces new identity rather than defeat"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ — Distinguishes between human will and divine encounter, where Jacob faces a mysterious figure later revealed as God, establishing the boundary between mortal striving and sacred engagement.
+  - ∂Φ/∂ρ — Maps the relational dynamic of wrestling and blessing as inseparable acts, where the struggle itself becomes the medium of divine-human communion.
+  - ∂Φ/∂λ — Transforms brokenness (the dislocated hip) into new identity (Israel), showing how wounding precedes and enables spiritual transformation.
+  - ∂Φ/∂β — Tracks persistence as a spiritual growth vector, where refusing to let go despite injury becomes the paradigmatic act of faith under duress.
+  - ∂Φ/∂δγ — Cycles between struggle and surrender as complementary spiritual movements, where victory comes through dependence rather than dominance.
+  - ∂Φ/∂μ — Structures the relationship between physical injury and covenantal identity, establishing that blessing comes at the cost of permanent mark.
+  Z_state: semi
+  z_note: transformative_wrestling — the state where struggle with the divine produces new identity rather than defeat
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.65, aspects: ["human-divine distinction", "mortal-sacred boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["wrestling-blessing coupling", "divine-human communion"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["brokenness to new identity", "wounding as transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["persistent faith", "spiritual endurance"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.65, aspects: ["struggle-surrender cycling", "victory through dependence"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.60, aspects: ["injury-covenant structure", "permanent marking"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.65
+    aspects:
+    - human-divine distinction
+    - mortal-sacred boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - wrestling-blessing coupling
+    - divine-human communion
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - brokenness to new identity
+    - wounding as transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - persistent faith
+    - spiritual endurance
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+    - struggle-surrender cycling
+    - victory through dependence
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.6
+    aspects:
+    - injury-covenant structure
+    - permanent marking
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - wood_beta
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.7
+    fire_lambda: 0.85
+    wood_beta: 0.75
+    earth_delta_gamma: 0.65
+    metal_mu: 0.6
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213701_2607005_Jacob%27s+Struggle%3A+Seeking+Blessing+Through+Pain.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

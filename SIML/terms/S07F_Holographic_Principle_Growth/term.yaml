@@ -1,32 +1,155 @@
 ---
-term: "Holographic Principle Growth"
-hex_tag: "S07F"
-series: "S"
-source_file: "1771907212810_1324464_.md"
-encoded_at: "2026-03-06T01:00:00Z"
-description: "The Holographic Principle applied to personal growth — the universe as a projection with information encoded on a two-dimensional surface, consciousness connected to a deeper informational field rather than merely emergent, personal growth as aligning with encoded deeper structure, meaning as inherent and unfolding through interaction, and self-awareness as gateway to interconnected discovery."
-nemetic: "Φ(Holographic Principle Growth) = σ(surface_appearance|deeper_encoded_structure) ∘ ρ(individual_consciousness|informational_field) ∘ λ(linear_progress|dynamic_resonance_alignment) ∘ β(surface_self|deeper_structure_alignment) ∘ δγ(action_thought_significance_cycling|insight_unfolding_iteration) ∘ μ(holographic_projection_framework|neoplatonic_simulation_architecture) + ε | :holographic_self_alignment"
-siml_encoding: "⟨surface_deeper_structure_distinction, appearance_encoded_truth_boundary⟩ ⊳ ⟨consciousness_informational_field_relation, self_reality_interconnection⟩ → ⟨linear_to_dynamic_transformation, growth_resonance_catalysis⟩ ⊗ ⟨surface_to_deep_alignment_growth, self_awareness_discovery_trajectory⟩ ⇄ ⟨action_insight_cycling, meaning_unfolding_iteration⟩"
+term: Holographic Principle Growth
+hex_tag: S07F
+series: S
+source_file: 1771907212810_1324464_.md
+encoded_at: '2026-03-06T01:00:00Z'
+description: The Holographic Principle applied to personal growth — the universe as a projection with information encoded on a two-dimensional surface, consciousness connected to a deeper informational field rather than merely emergent, personal growth as aligning with encoded deeper structure, meaning as inherent and unfolding through interaction, and self-awareness as gateway to interconnected discovery.
+nemetic: Φ(Holographic Principle Growth) = σ(surface_appearance|deeper_encoded_structure) ∘ ρ(individual_consciousness|informational_field) ∘ λ(linear_progress|dynamic_resonance_alignment) ∘ β(surface_self|deeper_structure_alignment) ∘ δγ(action_thought_significance_cycling|insight_unfolding_iteration) ∘ μ(holographic_projection_framework|neoplatonic_simulation_architecture) + ε | :holographic_self_alignment
+siml_encoding: ⟨surface_deeper_structure_distinction, appearance_encoded_truth_boundary⟩ ⊳ ⟨consciousness_informational_field_relation, self_reality_interconnection⟩ → ⟨linear_to_dynamic_transformation, growth_resonance_catalysis⟩ ⊗ ⟨surface_to_deep_alignment_growth, self_awareness_discovery_trajectory⟩ ⇄ ⟨action_insight_cycling, meaning_unfolding_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: surface_appearance / deeper_encoded_structure
+      S: surface_self / deeper_structure_alignment
+      R: individual_consciousness / informational_field
+      P: linear_progress / dynamic_resonance_alignment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing surface appearances from the deeper encoded structure of reality)"
-    - "∂Φ/∂ρ (relating individual consciousness to the deeper informational field of the holographic universe)"
-    - "∂Φ/∂λ (transforming linear progress models into dynamic resonance alignment with deeper structure)"
-    - "∂Φ/∂β (growth from surface self-perception to alignment with the deeper holographic structure)"
-    - "∂Φ/∂δγ (cycling through actions and thoughts that hold greater significance, unfolding insight iteratively)"
-    - "∂Φ/∂μ (holographic projection framework and Neoplatonic/simulation theory as structural architectures)"
-  Z_state: "holographic_self_alignment — personal growth becomes an act of aligning with the deeper encoded structure of a holographic universe, where consciousness connects to a deeper informational field, meaning is inherent and unfolds through interaction rather than being found externally, self-awareness reveals interconnectedness, and even the smallest moments hold potential for profound insight as surface expressions of a more profound reality"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing surface appearances from the deeper encoded structure of reality)
+  - ∂Φ/∂ρ (relating individual consciousness to the deeper informational field of the holographic universe)
+  - ∂Φ/∂λ (transforming linear progress models into dynamic resonance alignment with deeper structure)
+  - ∂Φ/∂β (growth from surface self-perception to alignment with the deeper holographic structure)
+  - ∂Φ/∂δγ (cycling through actions and thoughts that hold greater significance, unfolding insight iteratively)
+  - ∂Φ/∂μ (holographic projection framework and Neoplatonic/simulation theory as structural architectures)
+  Z_state: semi
+  z_note: holographic_self_alignment — personal growth becomes an act of aligning with the deeper encoded structure of a holographic universe, where consciousness connects to a deeper informational field, meaning is inherent and unfolds through interaction rather than being found externally, self-awareness reveals interconnectedness, and even the smallest moments hold potential for profound insight as surface expressions of a more profound reality
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["surface_deeper_structure_distinction", "appearance_encoded_truth_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["consciousness_informational_field_relation", "self_reality_interconnection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["linear_to_dynamic_resonance_transformation", "growth_alignment_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["surface_to_deep_alignment_trajectory", "self_awareness_discovery_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["action_thought_significance_cycling", "insight_meaning_unfolding_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["holographic_projection_framework", "neoplatonic_simulation_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S024", "S027", "S045", "S011"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - surface_deeper_structure_distinction
+    - appearance_encoded_truth_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - consciousness_informational_field_relation
+    - self_reality_interconnection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - linear_to_dynamic_resonance_transformation
+    - growth_alignment_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - surface_to_deep_alignment_trajectory
+    - self_awareness_discovery_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - action_thought_significance_cycling
+    - insight_meaning_unfolding_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - holographic_projection_framework
+    - neoplatonic_simulation_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S024
+- S027
+- S045
+- S011
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212810_1324464_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

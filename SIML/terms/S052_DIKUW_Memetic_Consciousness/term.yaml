@@ -1,32 +1,156 @@
 ---
-term: "DIKUW Memetic Consciousness"
-hex_tag: "S052"
-series: "S"
-source_file: "1771907212644_823800_DIKUW+Pyramid+and+Memetic+Consciousness.md"
-encoded_at: "2026-03-05T22:00:00Z"
-description: "The DIKUW (Data-Information-Knowledge-Understanding-Wisdom) pyramid mapped to memetic consciousness evolution, tracing how raw data evolves through successive transformations into wisdom that guides cultural evolution through human-AI collaborative processing and collective intelligence."
-nemetic: "Φ(DIKUW_MC) = σ(wisdom_integration|raw_data) ∘ ρ(memetic_transmission|individual_cognition) ∘ λ(data_to_wisdom_ascent|static_accumulation) ∘ β(collective_intelligence_growth|isolated_processing) ∘ δγ(cultural_evolution_cycles|one_way_transmission) ∘ μ(pyramid_hierarchy|flat_information_field) + ε | :wisdom_guided_evolution"
-siml_encoding: "⟨data_base⟩ ⊳ ⟨information_context⟩ → ⟨knowledge_integration⟩ ⊗ ⟨understanding_synthesis⟩ ⇄ ⟨wisdom_memetic_consciousness⟩"
+term: DIKUW Memetic Consciousness
+hex_tag: S052
+series: S
+source_file: 1771907212644_823800_DIKUW+Pyramid+and+Memetic+Consciousness.md
+encoded_at: '2026-03-05T22:00:00Z'
+description: The DIKUW (Data-Information-Knowledge-Understanding-Wisdom) pyramid mapped to memetic consciousness evolution, tracing how raw data evolves through successive transformations into wisdom that guides cultural evolution through human-AI collaborative processing and collective intelligence.
+nemetic: Φ(DIKUW_MC) = σ(wisdom_integration|raw_data) ∘ ρ(memetic_transmission|individual_cognition) ∘ λ(data_to_wisdom_ascent|static_accumulation) ∘ β(collective_intelligence_growth|isolated_processing) ∘ δγ(cultural_evolution_cycles|one_way_transmission) ∘ μ(pyramid_hierarchy|flat_information_field) + ε | :wisdom_guided_evolution
+siml_encoding: ⟨data_base⟩ ⊳ ⟨information_context⟩ → ⟨knowledge_integration⟩ ⊗ ⟨understanding_synthesis⟩ ⇄ ⟨wisdom_memetic_consciousness⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: wisdom_integration / raw_data
+      S: collective_intelligence_growth / isolated_processing
+      R: memetic_transmission / individual_cognition
+      P: data_to_wisdom_ascent / static_accumulation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing wisdom-level integration from raw data)"
-    - "∂Φ/∂ρ (memetic transmission across collective vs individual cognition)"
-    - "∂Φ/∂λ (transformative ascent from data to wisdom vs static accumulation)"
-    - "∂Φ/∂β (collective intelligence growing beyond isolated processing)"
-    - "∂Φ/∂δγ (cultural evolution cycles vs one-way memetic transmission)"
-    - "∂Φ/∂μ (pyramidal hierarchy structuring the information field)"
-  Z_state: "wisdom_guided_evolution — memetic consciousness reaches the wisdom tier, guiding cultural evolution reflexively"
-  tendency: "λ → 0.83"
+  - ∂Φ/∂σ (distinguishing wisdom-level integration from raw data)
+  - ∂Φ/∂ρ (memetic transmission across collective vs individual cognition)
+  - ∂Φ/∂λ (transformative ascent from data to wisdom vs static accumulation)
+  - ∂Φ/∂β (collective intelligence growing beyond isolated processing)
+  - ∂Φ/∂δγ (cultural evolution cycles vs one-way memetic transmission)
+  - ∂Φ/∂μ (pyramidal hierarchy structuring the information field)
+  Z_state: semi
+  z_note: wisdom_guided_evolution — memetic consciousness reaches the wisdom tier, guiding cultural evolution reflexively
+  tendency: λ → 0.83
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["data_wisdom_distinction", "tier_differentiation"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.78, aspects: ["memetic_transmission", "collective_information_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.83, aspects: ["data_to_wisdom_transformation", "consciousness_ascent"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["collective_intelligence_growth", "meme_evolution"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.76, aspects: ["cultural_evolution_cycles", "generational_transmission"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["pyramid_hierarchy", "tier_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S039", "S024", "S03A", "S040", "C041"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - data_wisdom_distinction
+    - tier_differentiation
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.78
+    aspects:
+    - memetic_transmission
+    - collective_information_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.83
+    aspects:
+    - data_to_wisdom_transformation
+    - consciousness_ascent
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - collective_intelligence_growth
+    - meme_evolution
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.76
+    aspects:
+    - cultural_evolution_cycles
+    - generational_transmission
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - pyramid_hierarchy
+    - tier_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- S039
+- S024
+- S03A
+- S040
+- C041
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.78
+    fire_lambda: 0.83
+    wood_beta: 0.72
+    earth_delta_gamma: 0.76
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212644_823800_DIKUW+Pyramid+and+Memetic+Consciousness.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

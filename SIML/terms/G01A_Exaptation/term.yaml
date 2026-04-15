@@ -1,37 +1,156 @@
 ---
-term: "Exaptation"
-hex_tag: "G01A"
-series: "G"
-source_file: "26 - Exaptation.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "An evolutionary process where a trait evolved for one purpose is co-opted for a new, different function. Coined by Gould and Vrba in 1982, exaptation explains how complex novelty arises from repurposing existing structures -- feathers evolved for insulation becoming instruments of flight, wine press mechanics becoming printing press technology."
-nemetic: "Φ(Exaptation) = σ(function_distinction|original_vs_co_opted_purpose) ∘ ρ(cross_domain_resonance|substrate_to_new_function_flow) ∘ λ(co_option_catalyst|repurposing_transformation) ∘ β(novelty_branching|innovation_through_reuse) ∘ δγ(evolutionary_cycling|selection_repurposing_rhythm) ∘ μ(existing_structure|pre_adaptation_scaffold) + ε | :repurposed"
-siml_encoding: "⟨original_function, new_function⟩ ⊳ ⟨adaptation, exaptation⟩ → ⟨insulation, flight⟩ ⊗ ⟨wine_press, printing_press⟩ ⇄ ⟨existing_structure, emergent_novelty⟩"
+term: Exaptation
+hex_tag: G01A
+series: G
+source_file: 26 - Exaptation.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: An evolutionary process where a trait evolved for one purpose is co-opted for a new, different function. Coined by Gould and Vrba in 1982, exaptation explains how complex novelty arises from repurposing existing structures -- feathers evolved for insulation becoming instruments of flight, wine press mechanics becoming printing press technology.
+nemetic: Φ(Exaptation) = σ(function_distinction|original_vs_co_opted_purpose) ∘ ρ(cross_domain_resonance|substrate_to_new_function_flow) ∘ λ(co_option_catalyst|repurposing_transformation) ∘ β(novelty_branching|innovation_through_reuse) ∘ δγ(evolutionary_cycling|selection_repurposing_rhythm) ∘ μ(existing_structure|pre_adaptation_scaffold) + ε | :repurposed
+siml_encoding: ⟨original_function, new_function⟩ ⊳ ⟨adaptation, exaptation⟩ → ⟨insulation, flight⟩ ⊗ ⟨wine_press, printing_press⟩ ⇄ ⟨existing_structure, emergent_novelty⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: function_distinction / original_vs_co_opted_purpose
+      S: novelty_branching / innovation_through_reuse
+      R: cross_domain_resonance / substrate_to_new_function_flow
+      P: co_option_catalyst / repurposing_transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing exaptation from adaptation; perceiving the difference between traits shaped for current use and traits co-opted from prior function"
-    - "∂Φ/∂ρ — Cross-domain resonance between original substrate and new function; the relational flow through which existing structures become available for novel purposes"
-    - "∂Φ/∂λ — Co-option as catalytic transformation; the moment when a trait's function shifts from original purpose to new role, creating genuine evolutionary or technological novelty"
-    - "∂Φ/∂β — Innovation through reuse as branching growth pattern; complex novelty arising from repurposing available structures rather than creating entirely new ones"
-    - "∂Φ/∂δγ — The evolutionary rhythm of selection and repurposing; metabolic cycling between adaptation and exaptation that drives biological and cultural innovation"
-    - "∂Φ/∂μ — Existing structures as scaffold for new function; the pre-adaptation framework that makes co-option possible by providing material already shaped by prior selection"
-  Z_state: "repurposed — the trait has shifted from original function to new role; the system occupies a state where historical origin and current function diverge"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ — Distinguishing exaptation from adaptation; perceiving the difference between traits shaped for current use and traits co-opted from prior function
+  - ∂Φ/∂ρ — Cross-domain resonance between original substrate and new function; the relational flow through which existing structures become available for novel purposes
+  - ∂Φ/∂λ — Co-option as catalytic transformation; the moment when a trait's function shifts from original purpose to new role, creating genuine evolutionary or technological novelty
+  - ∂Φ/∂β — Innovation through reuse as branching growth pattern; complex novelty arising from repurposing available structures rather than creating entirely new ones
+  - ∂Φ/∂δγ — The evolutionary rhythm of selection and repurposing; metabolic cycling between adaptation and exaptation that drives biological and cultural innovation
+  - ∂Φ/∂μ — Existing structures as scaffold for new function; the pre-adaptation framework that makes co-option possible by providing material already shaped by prior selection
+  Z_state: semi
+  z_note: repurposed — the trait has shifted from original function to new role; the system occupies a state where historical origin and current function diverge
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["adaptation_exaptation_distinction", "original_vs_co_opted_function"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["cross_domain_functional_resonance", "substrate_availability_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["co_option_transformation_catalyst", "functional_shift_moment"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["innovation_through_reuse", "novelty_branching_from_existing"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["selection_repurposing_rhythm", "evolutionary_metabolic_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["pre_adaptation_scaffold", "existing_structure_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - adaptation_exaptation_distinction
+    - original_vs_co_opted_function
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - cross_domain_functional_resonance
+    - substrate_availability_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - co_option_transformation_catalyst
+    - functional_shift_moment
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - innovation_through_reuse
+    - novelty_branching_from_existing
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - selection_repurposing_rhythm
+    - evolutionary_metabolic_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - pre_adaptation_scaffold
+    - existing_structure_framework
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G003_Turtle_Genomics_Evolution"
-  - "G004_Comb_Jelly_Reverse_Aging"
-  - "G013_Rotimization_Decay_Design"
-  - "G007_Synthetic_Biology_Architecture"
-  - "G011_Haraway_Staying_with_Trouble"
+- G003_Turtle_Genomics_Evolution
+- G004_Comb_Jelly_Reverse_Aging
+- G013_Rotimization_Decay_Design
+- G007_Synthetic_Biology_Architecture
+- G011_Haraway_Staying_with_Trouble
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.9
+    wood_beta: 0.85
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "26 - Exaptation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,50 +1,162 @@
 ---
-term: "Neurodivergence Memetic Framework"
-hex_tag: "S11D"
-series: "S"
-source_file: "1771907213352_2317302_Exploring+Sher+Griffin%E2%80%99s+Neurodivergence+Framework+Through+Memetic+Analysis.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Sher Griffin's poststructural and ecological reframing of neurodivergence through memetic analysis. The core meme — 'Cognition is an Ecosystem' — positions neurodivergent minds as ecological variations rather than deficits, challenging the medical model with an ecological alternative. Identifies emotional hooks, adjacent memeplexes, and frames neurodivergence as cognitive biodiversity essential for collective adaptation."
-nemetic: "Φ(Neurodivergence_Memetic_Framework) = σ(ecological_framing|deficit_model) ∘ ρ(cognitive_empathy|systemic_variation) ∘ λ(memetic_propagation|normalcy_enforcement) ∘ β(biodiversity_growth|monoculture_pressure) ∘ δγ(cultural_substrate|medical_institution) ∘ μ(structural_reframing|diagnostic_rigidity) + ε | :ecological_cognition"
-siml_encoding: "⟨ecology∣cognition⟩ ⊳ ⟨memeplex∣neurodivergence⟩ → ⟨biodiversity∣adaptation⟩ ⊗ ⟨poststructural∣medical⟩ ⇄ ⟨ecosystem∣deficit⟩"
+term: Neurodivergence Memetic Framework
+hex_tag: S11D
+series: S
+source_file: 1771907213352_2317302_Exploring+Sher+Griffin%E2%80%99s+Neurodivergence+Framework+Through+Memetic+Analysis.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Sher Griffin's poststructural and ecological reframing of neurodivergence through memetic analysis. The core meme — 'Cognition is an Ecosystem' — positions neurodivergent minds as ecological variations rather than deficits, challenging the medical model with an ecological alternative. Identifies emotional hooks, adjacent memeplexes, and frames neurodivergence as cognitive biodiversity essential for collective adaptation.
+nemetic: Φ(Neurodivergence_Memetic_Framework) = σ(ecological_framing|deficit_model) ∘ ρ(cognitive_empathy|systemic_variation) ∘ λ(memetic_propagation|normalcy_enforcement) ∘ β(biodiversity_growth|monoculture_pressure) ∘ δγ(cultural_substrate|medical_institution) ∘ μ(structural_reframing|diagnostic_rigidity) + ε | :ecological_cognition
+siml_encoding: ⟨ecology∣cognition⟩ ⊳ ⟨memeplex∣neurodivergence⟩ → ⟨biodiversity∣adaptation⟩ ⊗ ⟨poststructural∣medical⟩ ⇄ ⟨ecosystem∣deficit⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: ecological_framing / deficit_model
+      S: biodiversity_growth / monoculture_pressure
+      R: cognitive_empathy / systemic_variation
+      P: memetic_propagation / normalcy_enforcement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (ecological framing increases as deficit model recedes — shifts perception from pathology to variation)"
-    - "∂Φ/∂ρ (cognitive empathy deepens when systemic variation is recognized — emotional hooks engage compassion circuits)"
-    - "∂Φ/∂λ (memetic propagation accelerates as normalcy enforcement weakens — ecosystem meme spreads virally)"
-    - "∂Φ/∂β (biodiversity growth strengthens against monoculture pressure — neurodivergent traits become adaptive assets)"
-    - "∂Φ/∂δγ (cultural substrate reshapes around medical institution — ground shifts from clinical to ecological)"
-    - "∂Φ/∂μ (structural reframing hardens against diagnostic rigidity — new framework crystallizes)"
-  Z_state: "ecological_cognition"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (ecological framing increases as deficit model recedes — shifts perception from pathology to variation)
+  - ∂Φ/∂ρ (cognitive empathy deepens when systemic variation is recognized — emotional hooks engage compassion circuits)
+  - ∂Φ/∂λ (memetic propagation accelerates as normalcy enforcement weakens — ecosystem meme spreads virally)
+  - ∂Φ/∂β (biodiversity growth strengthens against monoculture pressure — neurodivergent traits become adaptive assets)
+  - ∂Φ/∂δγ (cultural substrate reshapes around medical institution — ground shifts from clinical to ecological)
+  - ∂Φ/∂μ (structural reframing hardens against diagnostic rigidity — new framework crystallizes)
+  Z_state: semi
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
-    aspects: ["ecological framing", "poststructural critique", "paradigm shift discourse", "conceptual reframing"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - ecological framing
+    - poststructural critique
+    - paradigm shift discourse
+    - conceptual reframing
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.72
-    aspects: ["empathic resonance with neurodivergent experience", "emotional hooks in meme propagation", "felt sense of cognitive difference"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - empathic resonance with neurodivergent experience
+    - emotional hooks in meme propagation
+    - felt sense of cognitive difference
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.68
-    aspects: ["memetic virality", "activist energy", "challenge to medical authority", "propagation urgency"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - memetic virality
+    - activist energy
+    - challenge to medical authority
+    - propagation urgency
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.78
-    aspects: ["cognitive biodiversity", "ecological growth metaphor", "adaptive variation", "flourishing through difference"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - cognitive biodiversity
+    - ecological growth metaphor
+    - adaptive variation
+    - flourishing through difference
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.60
-    aspects: ["cultural inheritance of deficit model", "institutional medical substrate", "diagnostic infrastructure"]
-    daemon_correspondence: "Humavita"
+    emphasis: 0.6
+    aspects:
+    - cultural inheritance of deficit model
+    - institutional medical substrate
+    - diagnostic infrastructure
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.55
-    aspects: ["structural reframing", "analytical framework", "memeplex architecture", "taxonomic precision"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S11F_Collective_Synpraxis", "S123_Atma_Vesa_Nidhi_Selfplex"]
+    aspects:
+    - structural reframing
+    - analytical framework
+    - memeplex architecture
+    - taxonomic precision
+    daemon_correspondence: Ferrosid
+related_terms:
+- S11F_Collective_Synpraxis
+- S123_Atma_Vesa_Nidhi_Selfplex
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - wood_beta
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.72
+    fire_lambda: 0.68
+    wood_beta: 0.78
+    earth_delta_gamma: 0.6
+    metal_mu: 0.55
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213352_2317302_Exploring+Sher+Griffin%E2%80%99s+Neurodivergence+Framework+Through+Memetic+Analysis.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

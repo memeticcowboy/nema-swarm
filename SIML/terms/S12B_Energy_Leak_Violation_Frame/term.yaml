@@ -1,50 +1,156 @@
 ---
-term: "Energy Leak Violation Frame"
-hex_tag: "S12B"
-series: "S"
-source_file: "1771907213386_2359324_Understanding+%27Energy+Leak%27%3A+The+Subtle+Drain+of+Emotional+Resources+and+Boundary+Violations.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The 'energy leak' metaphor casts unwanted emotional expenditure as a subtle but dangerous loss, usually caused by others or unresolved internal dynamics. It frames emotional drain as violation — others 'taking' energy. Operates at the intersection of spiritual language, boundary psychology, and wellness culture. Meme analysis of how the energy leak frame functions to validate withdrawal and self-protection."
-nemetic: "Φ(Energy Leak Violation Frame) = σ(spiritual|wellness) ∘ ρ(depletion|drain) ∘ λ(blame|externalization) ∘ β(withdrawal|protection) ∘ δγ(embodied|fatigue) ∘ μ(metaphor|structure) + ε | :defensive_conservation"
-siml_encoding: "⟨emotional expenditure⟩ ⊳ ⟨energy theft framing⟩ → ⟨boundary violation narrative⟩ ⊗ ⟨withdrawal as healing⟩ ⇄ ⟨self-protection loop⟩"
+term: Energy Leak Violation Frame
+hex_tag: S12B
+series: S
+source_file: 1771907213386_2359324_Understanding+%27Energy+Leak%27%3A+The+Subtle+Drain+of+Emotional+Resources+and+Boundary+Violations.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The 'energy leak' metaphor casts unwanted emotional expenditure as a subtle but dangerous loss, usually caused by others or unresolved internal dynamics. It frames emotional drain as violation — others 'taking' energy. Operates at the intersection of spiritual language, boundary psychology, and wellness culture. Meme analysis of how the energy leak frame functions to validate withdrawal and self-protection.
+nemetic: Φ(Energy Leak Violation Frame) = σ(spiritual|wellness) ∘ ρ(depletion|drain) ∘ λ(blame|externalization) ∘ β(withdrawal|protection) ∘ δγ(embodied|fatigue) ∘ μ(metaphor|structure) + ε | :defensive_conservation
+siml_encoding: ⟨emotional expenditure⟩ ⊳ ⟨energy theft framing⟩ → ⟨boundary violation narrative⟩ ⊗ ⟨withdrawal as healing⟩ ⇄ ⟨self-protection loop⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: spiritual / wellness
+      S: withdrawal / protection
+      R: depletion / drain
+      P: blame / externalization
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (spiritual-wellness signaling frames depletion as energetic truth)"
-    - "∂Φ/∂ρ (felt depletion and emotional drain provide experiential substrate)"
-    - "∂Φ/∂λ (blame externalization catalyzes the shift from feeling to accusation)"
-    - "∂Φ/∂β (withdrawal and self-protection grow as the validated response)"
-    - "∂Φ/∂δγ (embodied fatigue grounds the metaphor in physical sensation)"
-    - "∂Φ/∂μ (metaphorical structure of energy-as-resource constrains interpretation)"
-  Z_state: "defensive_conservation"
-  tendency: "ρ → 0.83"
+  - ∂Φ/∂σ (spiritual-wellness signaling frames depletion as energetic truth)
+  - ∂Φ/∂ρ (felt depletion and emotional drain provide experiential substrate)
+  - ∂Φ/∂λ (blame externalization catalyzes the shift from feeling to accusation)
+  - ∂Φ/∂β (withdrawal and self-protection grow as the validated response)
+  - ∂Φ/∂δγ (embodied fatigue grounds the metaphor in physical sensation)
+  - ∂Φ/∂μ (metaphorical structure of energy-as-resource constrains interpretation)
+  Z_state: semi
+  tendency: ρ → 0.83
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.72
-    aspects: ["spiritual-wellness signaling", "energetic discourse", "metaphor circulation"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - spiritual-wellness signaling
+    - energetic discourse
+    - metaphor circulation
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.83
-    aspects: ["emotional depletion", "felt drain", "relational fatigue"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - emotional depletion
+    - felt drain
+    - relational fatigue
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.69
-    aspects: ["blame externalization", "accusatory framing", "violation narrative"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - blame externalization
+    - accusatory framing
+    - violation narrative
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.76
-    aspects: ["withdrawal growth", "self-protection expansion", "relational retreat"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - withdrawal growth
+    - self-protection expansion
+    - relational retreat
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.73
-    aspects: ["embodied fatigue", "somatic depletion", "physical grounding of metaphor"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - embodied fatigue
+    - somatic depletion
+    - physical grounding of metaphor
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.60
-    aspects: ["metaphorical rigidity", "resource framework", "conservation logic"]
-    daemon_correspondence: "Ferrosid"
+    emphasis: 0.6
+    aspects:
+    - metaphorical rigidity
+    - resource framework
+    - conservation logic
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.72
+    water_rho: 0.83
+    fire_lambda: 0.69
+    wood_beta: 0.76
+    earth_delta_gamma: 0.73
+    metal_mu: 0.6
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213386_2359324_Understanding+%27Energy+Leak%27%3A+The+Subtle+Drain+of+Emotional+Resources+and+Boundary+Violations.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

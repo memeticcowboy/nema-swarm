@@ -1,32 +1,155 @@
 ---
-term: "Michelangelo Intellecto Discovery"
-hex_tag: "S080"
-series: "S"
-source_file: "1771907212820_1384557_Unveiling+the+Inner+Self%3A+Michelangelo%27s+Intellecto+and+the+Art+of+Discovery.md"
-encoded_at: "2026-03-06T01:00:00Z"
-description: "Michelangelo's concept of 'intellecto' — the visionary intelligence that removes surfaces to reveal the inner self, art as a journey of self-discovery rather than external production, vulnerability and authenticity as the fruit of peeling back layers, creativity as an ongoing process of uncovering rather than a destination, and the connection between artistic practice and deeper self-knowledge."
-nemetic: "Φ(Michelangelo Intellecto Discovery) = σ(outer_surface|inner_authentic_self) ∘ ρ(artist|material_medium) ∘ λ(masked_surface|revealed_essence) ∘ β(surface_identity|authentic_self_realization) ∘ δγ(layer_removal_cycling|creative_uncovering_iteration) ∘ μ(intellecto_visionary_framework|sculptural_subtraction_method) + ε | :creative_self_revelation"
-siml_encoding: "⟨outer_inner_self_distinction, surface_essence_boundary⟩ ⊳ ⟨artist_material_relation, creative_medium_dialogue⟩ → ⟨masked_to_revealed_transformation, surface_removal_catalysis⟩ ⊗ ⟨surface_to_authentic_self_growth, vulnerability_deepening_trajectory⟩ ⇄ ⟨layer_removal_cycling, creative_uncovering_iteration⟩"
+term: Michelangelo Intellecto Discovery
+hex_tag: S080
+series: S
+source_file: 1771907212820_1384557_Unveiling+the+Inner+Self%3A+Michelangelo%27s+Intellecto+and+the+Art+of+Discovery.md
+encoded_at: '2026-03-06T01:00:00Z'
+description: Michelangelo's concept of 'intellecto' — the visionary intelligence that removes surfaces to reveal the inner self, art as a journey of self-discovery rather than external production, vulnerability and authenticity as the fruit of peeling back layers, creativity as an ongoing process of uncovering rather than a destination, and the connection between artistic practice and deeper self-knowledge.
+nemetic: Φ(Michelangelo Intellecto Discovery) = σ(outer_surface|inner_authentic_self) ∘ ρ(artist|material_medium) ∘ λ(masked_surface|revealed_essence) ∘ β(surface_identity|authentic_self_realization) ∘ δγ(layer_removal_cycling|creative_uncovering_iteration) ∘ μ(intellecto_visionary_framework|sculptural_subtraction_method) + ε | :creative_self_revelation
+siml_encoding: ⟨outer_inner_self_distinction, surface_essence_boundary⟩ ⊳ ⟨artist_material_relation, creative_medium_dialogue⟩ → ⟨masked_to_revealed_transformation, surface_removal_catalysis⟩ ⊗ ⟨surface_to_authentic_self_growth, vulnerability_deepening_trajectory⟩ ⇄ ⟨layer_removal_cycling, creative_uncovering_iteration⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: outer_surface / inner_authentic_self
+      S: surface_identity / authentic_self_realization
+      R: artist / material_medium
+      P: masked_surface / revealed_essence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing outer surfaces and masks from the inner authentic self)"
-    - "∂Φ/∂ρ (relating the artist to material and medium through creative dialogue)"
-    - "∂Φ/∂λ (transforming masked surface into revealed essence through visionary intelligence)"
-    - "∂Φ/∂β (growth from surface identity toward authentic self-realization through vulnerability)"
-    - "∂Φ/∂δγ (cycling through iterative layer removal and creative uncovering)"
-    - "∂Φ/∂μ (intellecto as visionary framework and sculptural subtraction as structural method)"
-  Z_state: "creative_self_revelation — through intellecto (visionary intelligence), the artist removes surfaces to reveal the authentic self already present within, just as Michelangelo saw the statue within the marble; creativity is a journey of uncovering rather than producing, vulnerability and authenticity deepen through each layer removed, and every creative attempt teaches something new about the inner self regardless of external result"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing outer surfaces and masks from the inner authentic self)
+  - ∂Φ/∂ρ (relating the artist to material and medium through creative dialogue)
+  - ∂Φ/∂λ (transforming masked surface into revealed essence through visionary intelligence)
+  - ∂Φ/∂β (growth from surface identity toward authentic self-realization through vulnerability)
+  - ∂Φ/∂δγ (cycling through iterative layer removal and creative uncovering)
+  - ∂Φ/∂μ (intellecto as visionary framework and sculptural subtraction as structural method)
+  Z_state: semi
+  z_note: creative_self_revelation — through intellecto (visionary intelligence), the artist removes surfaces to reveal the authentic self already present within, just as Michelangelo saw the statue within the marble; creativity is a journey of uncovering rather than producing, vulnerability and authenticity deepen through each layer removed, and every creative attempt teaches something new about the inner self regardless of external result
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["outer_inner_self_distinction", "surface_essence_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["artist_material_dialogue_relation", "creative_medium_interplay"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["masked_to_revealed_transformation", "surface_removal_visionary_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["surface_to_authentic_self_trajectory", "vulnerability_authenticity_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["layer_removal_cycling", "creative_uncovering_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["intellecto_visionary_framework", "sculptural_subtraction_method"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S042", "S055", "S053", "S058"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - outer_inner_self_distinction
+    - surface_essence_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - artist_material_dialogue_relation
+    - creative_medium_interplay
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - masked_to_revealed_transformation
+    - surface_removal_visionary_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - surface_to_authentic_self_trajectory
+    - vulnerability_authenticity_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - layer_removal_cycling
+    - creative_uncovering_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - intellecto_visionary_framework
+    - sculptural_subtraction_method
+    daemon_correspondence: Ferrosid
+related_terms:
+- S042
+- S055
+- S053
+- S058
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.9
+    wood_beta: 0.85
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212820_1384557_Unveiling+the+Inner+Self%3A+Michelangelo%27s+Intellecto+and+the+Art+of+Discovery.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

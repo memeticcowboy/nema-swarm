@@ -1,32 +1,151 @@
 ---
-term: "Shared Grief Spirit Loop"
-hex_tag: "S184"
-series: "S"
-source_file: "1771907213684_2588982_Reconnecting+Through+Shared+Grief+and+Spirit.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The Fading Spirit Loop — reconnection through shared grief and spiritual experience. Collective mourning creates pathways for spiritual reconnection, with grief functioning as a binding force that weaves disparate selves into shared meaning. The loop structure describes how communal grief cycles through fading, reconnection, and renewed spirit."
-nemetic: "Φ(GriefSpirit) = σ(individual_sorrow|collective_mourning) ∘ ρ(grief_as_bond|grief_as_isolation) ∘ λ(spiritual_reconnection|spiritual_fading) ∘ β(communal_weaving|atomized_suffering) ∘ δγ(embodied_mourning|abstract_loss) ∘ μ(ritual_container|unprocessed_grief) + ε | :fading_spirit_loop"
-siml_encoding: "⟨Individual_grief⟩ ⊳ ⟨shared_mourning⟩ → ⟨spiritual_fading⟩ ⊗ ⟨reconnection⟩ ⇄ ⟨renewed_spirit⟩"
+term: Shared Grief Spirit Loop
+hex_tag: S184
+series: S
+source_file: 1771907213684_2588982_Reconnecting+Through+Shared+Grief+and+Spirit.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The Fading Spirit Loop — reconnection through shared grief and spiritual experience. Collective mourning creates pathways for spiritual reconnection, with grief functioning as a binding force that weaves disparate selves into shared meaning. The loop structure describes how communal grief cycles through fading, reconnection, and renewed spirit.
+nemetic: Φ(GriefSpirit) = σ(individual_sorrow|collective_mourning) ∘ ρ(grief_as_bond|grief_as_isolation) ∘ λ(spiritual_reconnection|spiritual_fading) ∘ β(communal_weaving|atomized_suffering) ∘ δγ(embodied_mourning|abstract_loss) ∘ μ(ritual_container|unprocessed_grief) + ε | :fading_spirit_loop
+siml_encoding: ⟨Individual_grief⟩ ⊳ ⟨shared_mourning⟩ → ⟨spiritual_fading⟩ ⊗ ⟨reconnection⟩ ⇄ ⟨renewed_spirit⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: individual_sorrow / collective_mourning
+      S: communal_weaving / atomized_suffering
+      R: grief_as_bond / grief_as_isolation
+      P: spiritual_reconnection / spiritual_fading
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (categorical distinction between individual sorrow experienced in isolation and collective mourning that transforms private loss into shared meaning)"
-    - "∂Φ/∂ρ (relational flow between grief as bonding force — pulling disparate selves into communion — and grief as isolating force — pushing the bereaved into solitude)"
-    - "∂Φ/∂λ (transformative spark of spiritual reconnection through shared grief vs the fading of spirit when grief is not communally held)"
-    - "∂Φ/∂β (developmental weaving of communal bonds through shared mourning vs atomized suffering where each person grieves alone)"
-    - "∂Φ/∂δγ (embodied mourning — the physical rituals, the gathered bodies, the shared tears — vs abstract loss experienced as concept rather than sensation)"
-    - "∂Φ/∂μ (ritual container that holds and channels grief into spiritual renewal vs unprocessed grief that accumulates without transformation)"
-  Z_state: "fading_spirit_loop — the cyclical pattern where spirit fades through loss, is renewed through shared grief, fades again, and is renewed again, with each cycle weaving the community more tightly together through the accumulated fabric of shared mourning"
-  tendency: "ρ → 0.86"
+  - ∂Φ/∂σ (categorical distinction between individual sorrow experienced in isolation and collective mourning that transforms private loss into shared meaning)
+  - ∂Φ/∂ρ (relational flow between grief as bonding force — pulling disparate selves into communion — and grief as isolating force — pushing the bereaved into solitude)
+  - ∂Φ/∂λ (transformative spark of spiritual reconnection through shared grief vs the fading of spirit when grief is not communally held)
+  - ∂Φ/∂β (developmental weaving of communal bonds through shared mourning vs atomized suffering where each person grieves alone)
+  - ∂Φ/∂δγ (embodied mourning — the physical rituals, the gathered bodies, the shared tears — vs abstract loss experienced as concept rather than sensation)
+  - ∂Φ/∂μ (ritual container that holds and channels grief into spiritual renewal vs unprocessed grief that accumulates without transformation)
+  Z_state: semi
+  z_note: fading_spirit_loop — the cyclical pattern where spirit fades through loss, is renewed through shared grief, fades again, and is renewed again, with each cycle weaving the community more tightly together through the accumulated fabric of shared mourning
+  tendency: ρ → 0.86
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.74, aspects: ["individual_sorrow", "collective_mourning"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.86, aspects: ["grief_as_bond", "grief_as_isolation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.82, aspects: ["spiritual_reconnection", "spiritual_fading"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["communal_weaving", "atomized_suffering"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.84, aspects: ["embodied_mourning", "abstract_loss"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.78, aspects: ["ritual_container", "unprocessed_grief"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.74
+    aspects:
+    - individual_sorrow
+    - collective_mourning
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.86
+    aspects:
+    - grief_as_bond
+    - grief_as_isolation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.82
+    aspects:
+    - spiritual_reconnection
+    - spiritual_fading
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - communal_weaving
+    - atomized_suffering
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.84
+    aspects:
+    - embodied_mourning
+    - abstract_loss
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.78
+    aspects:
+    - ritual_container
+    - unprocessed_grief
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.74
+    water_rho: 0.86
+    fire_lambda: 0.82
+    wood_beta: 0.8
+    earth_delta_gamma: 0.84
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213684_2588982_Reconnecting+Through+Shared+Grief+and+Spirit.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

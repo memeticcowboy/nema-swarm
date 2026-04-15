@@ -1,32 +1,151 @@
 ---
-term: "Shared Discernment"
-hex_tag: "S1AC"
-series: "S"
-source_file: "1771907213735_2631997_Embracing+Shared+Discernment+Without+Consensus.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The practice of group sense-making that holds ambiguity together without forcing agreement. Consensus often collapses difference to relieve tension; shared discernment orients collectively without convergence, treating tension as signal rather than failure."
-nemetic: "Φ(Shared Discernment) = σ(agreement|orientation) ∘ ρ(trust|diversity) ∘ λ(consensus|discernment) ∘ β(pause|insight) ∘ δγ(tension|resolution) ∘ μ(authority|plurality) + ε | :oriented_ambiguity"
-siml_encoding: "⟨agreement, orientation⟩ ⊳ ⟨trust, diversity⟩ → ⟨consensus, discernment⟩ ⊗ ⟨pause, insight⟩ ⇄ ⟨authority, plurality⟩"
+term: Shared Discernment
+hex_tag: S1AC
+series: S
+source_file: 1771907213735_2631997_Embracing+Shared+Discernment+Without+Consensus.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The practice of group sense-making that holds ambiguity together without forcing agreement. Consensus often collapses difference to relieve tension; shared discernment orients collectively without convergence, treating tension as signal rather than failure.
+nemetic: Φ(Shared Discernment) = σ(agreement|orientation) ∘ ρ(trust|diversity) ∘ λ(consensus|discernment) ∘ β(pause|insight) ∘ δγ(tension|resolution) ∘ μ(authority|plurality) + ε | :oriented_ambiguity
+siml_encoding: ⟨agreement, orientation⟩ ⊳ ⟨trust, diversity⟩ → ⟨consensus, discernment⟩ ⊗ ⟨pause, insight⟩ ⇄ ⟨authority, plurality⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: agreement / orientation
+      S: pause / insight
+      R: trust / diversity
+      P: consensus / discernment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between agreement (forced convergence) and orientation (shared directionality without uniformity), enabling groups to move without demanding consensus."
-    - "∂Φ/∂ρ — Maps the relationship between trust and diversity, where group intelligence thrives when members can disagree without fracture and hold difference without pressure."
-    - "∂Φ/∂λ — Transforms coercive consensus into genuine discernment, where the group's intelligence forms in the pause rather than being forced into premature alignment."
-    - "∂Φ/∂β — Tracks how insight grows from shared pause, where moments of non-resolution become fertile ground for deeper understanding and collective intelligence."
-    - "∂Φ/∂δγ — Cycles between tension and its non-resolution, treating tension as signal rather than failure and maintaining generative ambiguity."
-    - "∂Φ/∂μ — Structures resistance to authority capture by refusing forced agreement, deflecting polarization by legitimizing multiple orientations simultaneously."
-  Z_state: "oriented_ambiguity — shared directionality maintained without collapsing difference into agreement"
-  tendency: "σ → 0.80"
+  - ∂Φ/∂σ — Distinguishes between agreement (forced convergence) and orientation (shared directionality without uniformity), enabling groups to move without demanding consensus.
+  - ∂Φ/∂ρ — Maps the relationship between trust and diversity, where group intelligence thrives when members can disagree without fracture and hold difference without pressure.
+  - ∂Φ/∂λ — Transforms coercive consensus into genuine discernment, where the group's intelligence forms in the pause rather than being forced into premature alignment.
+  - ∂Φ/∂β — Tracks how insight grows from shared pause, where moments of non-resolution become fertile ground for deeper understanding and collective intelligence.
+  - ∂Φ/∂δγ — Cycles between tension and its non-resolution, treating tension as signal rather than failure and maintaining generative ambiguity.
+  - ∂Φ/∂μ — Structures resistance to authority capture by refusing forced agreement, deflecting polarization by legitimizing multiple orientations simultaneously.
+  Z_state: semi
+  z_note: oriented_ambiguity — shared directionality maintained without collapsing difference into agreement
+  tendency: σ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["agreement-orientation distinction", "consensus reframing"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["trust-diversity relation", "disagreement without fracture"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["consensus to discernment", "coercive harmony dissolution"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["pause-insight growth", "non-resolution fertility"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["tension-signal cycling", "generative ambiguity"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["anti-authority structure", "plural legitimacy"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - agreement-orientation distinction
+    - consensus reframing
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - trust-diversity relation
+    - disagreement without fracture
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - consensus to discernment
+    - coercive harmony dissolution
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - pause-insight growth
+    - non-resolution fertility
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - tension-signal cycling
+    - generative ambiguity
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - anti-authority structure
+    - plural legitimacy
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.7
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213735_2631997_Embracing+Shared+Discernment+Without+Consensus.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -2,90 +2,141 @@ term_id: A037
 hex_tag: '#A037'
 name: overton_window
 term: Overton Window
-nemetic: >-
-  Φ(OvertonWindow) = σ(acceptable|unthinkable)
-                  ∘ ρ(legitimacy|discourse)
-                  ∘ λ(window-shift|radical-to-mainstream)
-                  ∘ β(boundary-policing|social-enforcement)
-                  ∘ δγ(comfort|ideological-safety)
-                  ∘ μ(boundary|enforced-rigorously)
-                  + ε | :structuring
-siml_encoding: >-
-  ⟨Discourse|political⟩
-      ⊳ ⟨Range|acceptable⟩
-      → ⟨Opinion|legitimate⟩
-      ⊗ ⟨Boundary|enforced⟩
-      ⇄ ⟨Shift|gradual⟩
-      → ⟨Window|moved⟩
+nemetic: "Φ(OvertonWindow) = σ(acceptable|unthinkable)\n                ∘ ρ(legitimacy|discourse)\n                ∘ λ(window-shift|radical-to-mainstream)\n                ∘ β(boundary-policing|social-enforcement)\n                ∘ δγ(comfort|ideological-safety)\n                ∘ μ(boundary|enforced-rigorously)\n                + ε | :structuring"
+siml_encoding: "⟨Discourse|political⟩\n    ⊳ ⟨Range|acceptable⟩\n    → ⟨Opinion|legitimate⟩\n    ⊗ ⟨Boundary|enforced⟩\n    ⇄ ⟨Shift|gradual⟩\n    → ⟨Window|moved⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between the sayable and the unsayable — the window's power lies in its invisibility; what is outside is not debated and rejected, it is simply not thought; the cut is maintained without explicit policing because the excluded cannot be named from inside the window)"
-    - "∂Φ/∂ρ (legitimacy as relational flow — ideas within the window carry positive resonance (grounded, realistic, serious) while ideas outside trigger automatic discomfort or dismissal; this is not rational assessment but affective contagion, felt as judgment but operating as social pressure)"
-    - "∂Φ/∂λ (direction of window shift over time — what was 'communist' in 1950 became 'liberal' by 2010; sustained advocacy, crisis events, and generational change redirect the trajectory; the vector is real and trackable, but politicians follow the window rather than lead it)"
-    - "∂Φ/∂β (boundary-policing feedback loop — electoral incentives, media gatekeeping, and social sanctions combine to keep actors within window boundaries; the enforcement requires no conspiracy, only the accumulated rationality of individual actors avoiding costs)"
-    - "∂Φ/∂δγ (cognitive ease of ideological safety within the window — staying within acceptable discourse is metabolically cheap; crossing the boundary is costly; the comfort gradient ensures the window is patrolled from the inside by those seeking to avoid friction)"
-    - "∂Φ/∂μ (rigorous enforcement at window edges — the boundary is not a soft gradient but a threshold; below it, ideas are 'sensible'; above it, they are 'dangerous' or 'fringe'; the threshold is enforced structurally through institutions, not merely socially through opinion)"
-  Z_state: "Currently :structuring — the window defines thought but remains shiftable through sustained advocacy and crisis events. Z-Closure Risk: if window boundaries are treated as permanent or 'natural' rather than historical and contingent, the window seals and blocks necessary adaptation."
-  tendency: "center/edge → :structuring"
-  hex: ['#A037', '#A02E', '#A05C']
+  - ∂Φ/∂σ (distinction between the sayable and the unsayable — the window's power lies in its invisibility; what is outside is not debated and rejected, it is simply not thought; the cut is maintained without explicit policing because the excluded cannot be named from inside the window)
+  - ∂Φ/∂ρ (legitimacy as relational flow — ideas within the window carry positive resonance (grounded, realistic, serious) while ideas outside trigger automatic discomfort or dismissal; this is not rational assessment but affective contagion, felt as judgment but operating as social pressure)
+  - ∂Φ/∂λ (direction of window shift over time — what was 'communist' in 1950 became 'liberal' by 2010; sustained advocacy, crisis events, and generational change redirect the trajectory; the vector is real and trackable, but politicians follow the window rather than lead it)
+  - ∂Φ/∂β (boundary-policing feedback loop — electoral incentives, media gatekeeping, and social sanctions combine to keep actors within window boundaries; the enforcement requires no conspiracy, only the accumulated rationality of individual actors avoiding costs)
+  - ∂Φ/∂δγ (cognitive ease of ideological safety within the window — staying within acceptable discourse is metabolically cheap; crossing the boundary is costly; the comfort gradient ensures the window is patrolled from the inside by those seeking to avoid friction)
+  - ∂Φ/∂μ (rigorous enforcement at window edges — the boundary is not a soft gradient but a threshold; below it, ideas are 'sensible'; above it, they are 'dangerous' or 'fringe'; the threshold is enforced structurally through institutions, not merely socially through opinion)
+  Z_state: semi
+  z_note: 'Currently :structuring — the window defines thought but remains shiftable through sustained advocacy and crisis events. Z-Closure Risk: if window boundaries are treated as permanent or ''natural'' rather than historical and contingent, the window seals and blocks necessary adaptation.'
+  tendency: center/edge → :structuring
+  hex:
+  - '#A037'
+  - '#A02E'
+  - '#A05C'
 coords:
   ontology:
     primary: We
     secondary: Its
   epistemics:
     dsrp:
-      D: "The distinction between acceptable and unthinkable discourse is not discovered but enforced — politicians do not advocate for what they prefer but for what the window permits; the cut between sensible and fringe is a structural artifact, not a feature of the ideas themselves"
-      S: "The window functions as a closed system at any given moment — positions outside it are not competing alternatives but non-entities; the system admits new ideas only as they move through the gradient from unthinkable to radical to acceptable to policy through sustained external pressure"
-      R: "The relation between individual political actors and the window is one of mutual constraint — actors are bounded by the window while their collective behavior reproduces and slowly shifts it; no single actor controls it, yet it is not beyond collective influence"
-      P: "The perspective of any participant inside the window experiences its boundaries as common sense — the window is transparent to those inside it; what is excluded feels genuinely unreasonable, not merely excluded, making the construction invisible to its inhabitants"
+      D: The distinction between acceptable and unthinkable discourse is not discovered but enforced — politicians do not advocate for what they prefer but for what the window permits; the cut between sensible and fringe is a structural artifact, not a feature of the ideas themselves
+      S: The window functions as a closed system at any given moment — positions outside it are not competing alternatives but non-entities; the system admits new ideas only as they move through the gradient from unthinkable to radical to acceptable to policy through sustained external pressure
+      R: The relation between individual political actors and the window is one of mutual constraint — actors are bounded by the window while their collective behavior reproduces and slowly shifts it; no single actor controls it, yet it is not beyond collective influence
+      P: The perspective of any participant inside the window experiences its boundaries as common sense — the window is transparent to those inside it; what is excluded feels genuinely unreasonable, not merely excluded, making the construction invisible to its inhabitants
     learning: L0
   agency:
     type: collective
     power_mode: Over
   time:
     mode: slow
-    phase: "Stage 1: Fringe Idea Articulated (outside window) → Stage 2: Radical Advocacy Begins (Q_in pressure) → Stage 3: Crisis or Sustained Pressure Shifts Legitimacy (λ) → Stage 4: Acceptable → Sensible → Policy → Stage 5: Former boundary position becomes new center"
+    phase: 'Stage 1: Fringe Idea Articulated (outside window) → Stage 2: Radical Advocacy Begins (Q_in pressure) → Stage 3: Crisis or Sustained Pressure Shifts Legitimacy (λ) → Stage 4: Acceptable → Sensible → Policy → Stage 5: Former boundary position becomes new center'
   qualia:
-    affect: [safety within window, discomfort at edges, dismissal toward outside, urgency for advocates at margins]
-    aesthetic: [grounded and realistic inside; extreme and naive outside; the gradient is felt as objective quality difference]
-    symbolic: [The Window (frame of the thinkable), The Overton Ladder (gradient from unthinkable to policy), The Advocate (one who pulls the edge)]
-    energetic: [low-cost to stay central, high-cost to push edges, generational timescale for major shifts]
+    affect:
+    - safety within window
+    - discomfort at edges
+    - dismissal toward outside
+    - urgency for advocates at margins
+    aesthetic:
+    - grounded and realistic inside; extreme and naive outside; the gradient is felt as objective quality difference
+    symbolic:
+    - The Window (frame of the thinkable)
+    - The Overton Ladder (gradient from unthinkable to policy)
+    - The Advocate (one who pulls the edge)
+    energetic:
+    - low-cost to stay central
+    - high-cost to push edges
+    - generational timescale for major shifts
   coherence:
     state: rigid
     loop: closed
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: The window is a collective-scale emergent structure — individual actors respond to it without producing it through any single decision
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The window creates a distinction between the thinkable and the unthinkable that its inhabitants cannot perceive as a distinction — they experience the excluded as simply unreasonable, not as excluded. Air asks: What would you believe if the window were positioned differently? What evidence would reveal that your 'common sense' is historical?"
-  ≈: "Legitimacy flows as emotional resonance — ideas inside the window feel grounded and serious while ideas outside trigger discomfort or ridicule; this is not reasoned judgment but affective contagion marking the window's boundary. Water asks: When an idea strikes you as 'too radical,' is that reasoned disagreement or the felt boundary of the acceptable?"
-  ▲: "The window shifts through sustained directional pressure — what was 'communist' in 1950 became 'mainstream' by 2010; abolition, suffrage, and marriage equality all traveled this path. Fire asks: What direction is the window currently moving? Are you helping pull it toward what is necessary, or being carried by its current momentum?"
-  𐂷: "Every era's 'impossible' ideas are tomorrow's 'obvious' — the Wood element holds the unborn alternatives that sit outside today's window. Wood asks: What ideas are you dismissing as impossible that might simply be 'not yet'? What would become thinkable if a crisis event or generational shift moved the boundary?"
-  ☷: "Advocating at the window's edge is metabolically costly — social sanctions, professional risks, emotional labor; window shifts require sustained pressure often across generations. Earth asks: What does it cost to push the window's boundary? Who bears that cost, and what sustains those who bear it longest?"
-  ⛨: "The window is enforced by structural architecture — media gatekeeping, electoral incentives, educational curricula, institutional norms — not merely by individual opinion. Metal asks: What specific structures enforce the current window's position? What structural changes would make new ideas thinkable rather than merely tolerated?"
-context_note: >-
-  The Overton Window names the range of discourse that is politically acceptable at
-  a given moment — not what is true or even widely preferred, but what can be advocated
-  without triggering costs that exceed the benefit of advocacy. Its power is invisibility:
-  what lies outside is not debated and rejected but simply not thought, experienced as
-  obviously unreasonable rather than contingently excluded. The window shifts through
-  sustained advocacy, crisis events, generational change, and elite signaling — the
-  historical record shows every era's 'impossible' becoming a later era's 'common sense.'
-  In AI contexts, models trained on historical text may encode prior window positions as
-  neutral or objective, presenting lagging discourse boundaries as permanent constraints
-  and becoming active enforcers of limits that the human world has already moved beyond.
-  The intervention is not to dissolve the window but to make its construction visible,
-  enabling deliberate participation in where it sits rather than unconscious reproduction
-  of where it has been.
+  ∴: 'The window creates a distinction between the thinkable and the unthinkable that its inhabitants cannot perceive as a distinction — they experience the excluded as simply unreasonable, not as excluded. Air asks: What would you believe if the window were positioned differently? What evidence would reveal that your ''common sense'' is historical?'
+  ≈: 'Legitimacy flows as emotional resonance — ideas inside the window feel grounded and serious while ideas outside trigger discomfort or ridicule; this is not reasoned judgment but affective contagion marking the window''s boundary. Water asks: When an idea strikes you as ''too radical,'' is that reasoned disagreement or the felt boundary of the acceptable?'
+  ▲: 'The window shifts through sustained directional pressure — what was ''communist'' in 1950 became ''mainstream'' by 2010; abolition, suffrage, and marriage equality all traveled this path. Fire asks: What direction is the window currently moving? Are you helping pull it toward what is necessary, or being carried by its current momentum?'
+  𐂷: 'Every era''s ''impossible'' ideas are tomorrow''s ''obvious'' — the Wood element holds the unborn alternatives that sit outside today''s window. Wood asks: What ideas are you dismissing as impossible that might simply be ''not yet''? What would become thinkable if a crisis event or generational shift moved the boundary?'
+  ☷: 'Advocating at the window''s edge is metabolically costly — social sanctions, professional risks, emotional labor; window shifts require sustained pressure often across generations. Earth asks: What does it cost to push the window''s boundary? Who bears that cost, and what sustains those who bear it longest?'
+  ⛨: 'The window is enforced by structural architecture — media gatekeeping, electoral incentives, educational curricula, institutional norms — not merely by individual opinion. Metal asks: What specific structures enforce the current window''s position? What structural changes would make new ideas thinkable rather than merely tolerated?'
+context_note: 'The Overton Window names the range of discourse that is politically acceptable at a given moment — not what is true or even widely preferred, but what can be advocated without triggering costs that exceed the benefit of advocacy. Its power is invisibility: what lies outside is not debated and rejected but simply not thought, experienced as obviously unreasonable rather than contingently excluded. The window shifts through sustained advocacy, crisis events, generational change, and elite signaling — the historical record shows every era''s ''impossible'' becoming a later era''s ''common sense.'' In AI contexts, models trained on historical text may encode prior window positions as neutral or objective, presenting lagging discourse boundaries as permanent constraints and becoming active enforcers of limits that the human world has already moved beyond. The intervention is not to dissolve the window but to make its construction visible, enabling deliberate participation in where it sits rather than unconscious reproduction of where it has been.'
 source: Consolidated from 2 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "The window is a collective-scale emergent structure — individual actors respond to it without producing it through any single decision"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

@@ -1,32 +1,151 @@
 ---
-term: "The Sensemaking Discipline"
-hex_tag: "S1C6"
-series: "S"
-source_file: "1771907213794_2681361_The+Sensemaking+Discipline%3A+Evolving+Frames.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A four-stage discipline for moving without freezing meaning: Confusion (honesty before compression), Working Frame (coherence as tool, not truth), Action (acting 'as if' while monitoring for surprise), and Mandatory Return (metabolic reopening to prevent dogma). Success is measured not by frame correctness but by revisability without shame."
-nemetic: "Φ(Sensemaking Discipline) = σ(confusion|compression) ∘ ρ(frame_loyalty|frame_literacy) ∘ λ(freezing|moving) ∘ β(working_frame|revision) ∘ δγ(momentum|reopening) ∘ μ(scaffolding|cage) + ε | :revisability"
-siml_encoding: "⟨confusion, compression⟩ ⊳ ⟨frame_loyalty, frame_literacy⟩ → ⟨freezing, moving⟩ ⊗ ⟨working_frame, revision⟩ ⇄ ⟨scaffolding, cage⟩"
+term: The Sensemaking Discipline
+hex_tag: S1C6
+series: S
+source_file: 1771907213794_2681361_The+Sensemaking+Discipline%3A+Evolving+Frames.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'A four-stage discipline for moving without freezing meaning: Confusion (honesty before compression), Working Frame (coherence as tool, not truth), Action (acting ''as if'' while monitoring for surprise), and Mandatory Return (metabolic reopening to prevent dogma). Success is measured not by frame correctness but by revisability without shame.'
+nemetic: Φ(Sensemaking Discipline) = σ(confusion|compression) ∘ ρ(frame_loyalty|frame_literacy) ∘ λ(freezing|moving) ∘ β(working_frame|revision) ∘ δγ(momentum|reopening) ∘ μ(scaffolding|cage) + ε | :revisability
+siml_encoding: ⟨confusion, compression⟩ ⊳ ⟨frame_loyalty, frame_literacy⟩ → ⟨freezing, moving⟩ ⊗ ⟨working_frame, revision⟩ ⇄ ⟨scaffolding, cage⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: confusion / compression
+      S: working_frame / revision
+      R: frame_loyalty / frame_literacy
+      P: freezing / moving
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes confusion (reality uncompressed, signals disagreeing) from premature compression (panic framing to reduce discomfort). Making signals visible while resisting the urge to sort or resolve."
-    - "∂Φ/∂ρ — Water maps frame literacy over frame loyalty. A working frame is a temporary handle for coordination, not a claim of truth. Visible seams where it might be wrong."
-    - "∂Φ/∂λ — Fire transforms freezing (acting inside the frame, being held by it) into moving (acting with the frame, holding it). Small reversible bets with monitoring for surprise."
-    - "∂Φ/∂β — Wood grows through revision cycles: loosening or retiring frames to stay alive to reality. The mandatory return prevents momentum from turning into dogma."
-    - "∂Φ/∂δγ — Earth cycles through the four stages: confusion, working frame, action, mandatory return. The metabolic reopening is the most neglected and most critical stage."
-    - "∂Φ/∂μ — Metal structures coherence as scaffolding rather than cage. Revision is a mark of competence, not failure. Success metric: revisability without shame or collapse."
-  Z_state: "revisability — the capacity to drop or revise a frame without identity loss, shame, or systemic collapse"
-  tendency: "δγ → 0.82"
+  - ∂Φ/∂σ — Air distinguishes confusion (reality uncompressed, signals disagreeing) from premature compression (panic framing to reduce discomfort). Making signals visible while resisting the urge to sort or resolve.
+  - ∂Φ/∂ρ — Water maps frame literacy over frame loyalty. A working frame is a temporary handle for coordination, not a claim of truth. Visible seams where it might be wrong.
+  - ∂Φ/∂λ — Fire transforms freezing (acting inside the frame, being held by it) into moving (acting with the frame, holding it). Small reversible bets with monitoring for surprise.
+  - '∂Φ/∂β — Wood grows through revision cycles: loosening or retiring frames to stay alive to reality. The mandatory return prevents momentum from turning into dogma.'
+  - '∂Φ/∂δγ — Earth cycles through the four stages: confusion, working frame, action, mandatory return. The metabolic reopening is the most neglected and most critical stage.'
+  - '∂Φ/∂μ — Metal structures coherence as scaffolding rather than cage. Revision is a mark of competence, not failure. Success metric: revisability without shame or collapse.'
+  Z_state: sealed
+  z_note: revisability — the capacity to drop or revise a frame without identity loss, shame, or systemic collapse
+  tendency: δγ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["confusion recognition", "premature compression detection"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.68, aspects: ["frame literacy", "temporary handle"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["freezing-moving transformation", "reversible action"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["revision cycles", "frame retirement"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.82, aspects: ["four-stage cycling", "mandatory return"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["scaffolding structure", "revisability metric"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - confusion recognition
+    - premature compression detection
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.68
+    aspects:
+    - frame literacy
+    - temporary handle
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - freezing-moving transformation
+    - reversible action
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - revision cycles
+    - frame retirement
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.82
+    aspects:
+    - four-stage cycling
+    - mandatory return
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - scaffolding structure
+    - revisability metric
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.68
+    fire_lambda: 0.72
+    wood_beta: 0.7
+    earth_delta_gamma: 0.82
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213794_2681361_The+Sensemaking+Discipline%3A+Evolving+Frames.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

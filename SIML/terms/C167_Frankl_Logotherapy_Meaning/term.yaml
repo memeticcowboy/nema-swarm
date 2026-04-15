@@ -2,107 +2,149 @@ term_id: C167
 hex_tag: '#C167'
 name: frankl_logotherapy_meaning
 term: Frankl Logotherapy Meaning
-nemetic: >-
-  Φ(Logotherapy) = σ(meaning|absurdity) ∘ ρ(tension|equilibrium) ∘
-  λ(striving|stasis) ∘ β(purpose|suffering) ∘ δγ(achievement|ought) ∘
-  μ(responsibility|freedom) + ε | :open
-siml_encoding: >-
-  ⟨Meaning|sought⟩ ⊳ ⟨Tension|productive⟩ ⇄ ⟨Striving|healthy⟩ ⊗
-  ⟨Purpose|discovered⟩ ⊳ ⟨Responsibility|embraced⟩
+nemetic: Φ(Logotherapy) = σ(meaning|absurdity) ∘ ρ(tension|equilibrium) ∘ λ(striving|stasis) ∘ β(purpose|suffering) ∘ δγ(achievement|ought) ∘ μ(responsibility|freedom) + ε | :open
+siml_encoding: ⟨Meaning|sought⟩ ⊳ ⟨Tension|productive⟩ ⇄ ⟨Striving|healthy⟩ ⊗ ⟨Purpose|discovered⟩ ⊳ ⟨Responsibility|embraced⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (meaning vs absurdity distinction in lived experience)"
-    - "∂Φ/∂ρ (productive tension between is and ought)"
-    - "∂Φ/∂λ (directional striving toward meaningful goals)"
-    - "∂Φ/∂β (feedback between purpose discovery and suffering)"
-    - "∂Φ/∂δγ (metabolic gap between achievement and aspiration)"
-    - "∂Φ/∂μ (boundary between responsibility and freedom)"
+  - ∂Φ/∂σ (meaning vs absurdity distinction in lived experience)
+  - ∂Φ/∂ρ (productive tension between is and ought)
+  - ∂Φ/∂λ (directional striving toward meaningful goals)
+  - ∂Φ/∂β (feedback between purpose discovery and suffering)
+  - ∂Φ/∂δγ (metabolic gap between achievement and aspiration)
+  - ∂Φ/∂μ (boundary between responsibility and freedom)
   Z_state: permeable
-  tendency: "Meaning/Absurdity → 0.8"
+  tendency: Meaning/Absurdity → 0.8
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
-      - MoreThanHuman
+    - We
+    - MoreThanHuman
   epistemics:
     dsrp:
-      D: "Logotherapy vs homeostatic mental health models"
-      S: "Existential analysis framework (meaning, tension, responsibility)"
-      R: "Tension → striving → meaning → health"
-      P: "Existential therapist, Holocaust survivor, patient"
+      D: Logotherapy vs homeostatic mental health models
+      S: Existential analysis framework (meaning, tension, responsibility)
+      R: Tension → striving → meaning → health
+      P: Existential therapist, Holocaust survivor, patient
     learning: L2
   time:
     mode: linear
-    phase: "striving toward meaningful future"
+    phase: striving toward meaningful future
   qualia:
     affect:
-      - determination
-      - hope
-      - gravity
+    - determination
+    - hope
+    - gravity
     aesthetic:
-      - taut
-      - purposeful
-      - resilient
+    - taut
+    - purposeful
+    - resilient
     symbolic:
-      - seesaw
-      - wobble
-      - tragic-optimism
+    - seesaw
+    - wobble
+    - tragic-optimism
     energetic:
-      - sustaining
-      - directional
-      - vitalizing
+    - sustaining
+    - directional
+    - vitalizing
   agency:
     type: ego
     voice:
-      - Meaning Seeker
-      - Responsible Self
+    - Meaning Seeker
+    - Responsible Self
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is meaning distinguished from mere happiness or pleasure?"
-  ≈: "What productive tension flows between what is and what ought to be?"
-  ▲: "What transforms suffering into a source of meaning?"
-  𐂷: "How does purpose grow through the feedback of lived experience?"
-  ☷: "What grounds the wobble of striving as health rather than pathology?"
-  ⛨: "Where does responsibility bound the freedom to find meaning?"
-context_note: >-
-  Viktor Frankl's logotherapy posits the primary human drive is the search for
-  meaning, not homeostasis. Mental health is found in the productive tension
-  between what one has achieved and what one still ought to accomplish. His
-  concept of tragic optimism holds that humans can maintain meaning even in the
-  face of pain, guilt, and death.
-source: "Frankl, V. E. (1946). Man's Search for Meaning — via Mindverse Global"
+  ∴: How is meaning distinguished from mere happiness or pleasure?
+  ≈: What productive tension flows between what is and what ought to be?
+  ▲: What transforms suffering into a source of meaning?
+  𐂷: How does purpose grow through the feedback of lived experience?
+  ☷: What grounds the wobble of striving as health rather than pathology?
+  ⛨: Where does responsibility bound the freedom to find meaning?
+context_note: Viktor Frankl's logotherapy posits the primary human drive is the search for meaning, not homeostasis. Mental health is found in the productive tension between what one has achieved and what one still ought to accomplish. His concept of tragic optimism holds that humans can maintain meaning even in the face of pain, guilt, and death.
+source: Frankl, V. E. (1946). Man's Search for Meaning — via Mindverse Global
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

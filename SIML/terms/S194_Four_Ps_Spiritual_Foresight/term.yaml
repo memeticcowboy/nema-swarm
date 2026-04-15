@@ -1,32 +1,151 @@
 ---
-term: "Four Ps of Spiritual Foresight"
-hex_tag: "S194"
-series: "S"
-source_file: "1771907213699_2605820_The+4+P%27s+of+Spiritual+Foresight.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A contemplative foresight framework comprising Prayer at the Possible, Presence at the Plausible, Patience at the Probable, and Persistence at the Preferred. Each virtue reframes futures thinking through spiritual practice rather than strategic engineering."
-nemetic: "Φ(Four Ps Spiritual Foresight) = σ(possible|preferred) ∘ ρ(prayer|presence) ∘ λ(extrapolation|grace) ∘ β(emergence|midwifing) ∘ δγ(patience|persistence) ∘ μ(cognitive_scaffold|covenantal_faithfulness) + ε | :receptive_foresight"
-siml_encoding: "⟨possible, preferred⟩ ⊳ ⟨prayer, presence⟩ → ⟨extrapolation, grace⟩ ⊗ ⟨emergence, midwifing⟩ ⇄ ⟨scaffold, covenant⟩"
+term: Four Ps of Spiritual Foresight
+hex_tag: S194
+series: S
+source_file: 1771907213699_2605820_The+4+P%27s+of+Spiritual+Foresight.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A contemplative foresight framework comprising Prayer at the Possible, Presence at the Plausible, Patience at the Probable, and Persistence at the Preferred. Each virtue reframes futures thinking through spiritual practice rather than strategic engineering.
+nemetic: Φ(Four Ps Spiritual Foresight) = σ(possible|preferred) ∘ ρ(prayer|presence) ∘ λ(extrapolation|grace) ∘ β(emergence|midwifing) ∘ δγ(patience|persistence) ∘ μ(cognitive_scaffold|covenantal_faithfulness) + ε | :receptive_foresight
+siml_encoding: ⟨possible, preferred⟩ ⊳ ⟨prayer, presence⟩ → ⟨extrapolation, grace⟩ ⊗ ⟨emergence, midwifing⟩ ⇄ ⟨scaffold, covenant⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: possible / preferred
+      S: emergence / midwifing
+      R: prayer / presence
+      P: extrapolation / grace
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between the possible and the preferred as distinct temporal horizons, each requiring a different spiritual virtue rather than a single strategic approach."
-    - "∂Φ/∂ρ — Links prayer and presence as relational postures toward the future, emphasizing receptivity over control and attention over analysis."
-    - "∂Φ/∂λ — Transforms strategic extrapolation into grace-based reception, asserting that genuinely new futures require humility rather than engineering."
-    - "∂Φ/∂β — Tracks emergence and midwifing as growth operations, where the plausible future is not forced into being but attended to as it tries to be born."
-    - "∂Φ/∂δγ — Cycles between patience and persistence as complementary temporal virtues, one trusting the probable, the other remaining faithful to the preferred."
-    - "∂Φ/∂μ — Structures the four P's as cognitive scaffolding with covenantal depth, resistant to corporate co-option by virtue of spiritual weight."
-  Z_state: "receptive_foresight — the contemplative posture that opens to futures beyond strategic imagination"
-  tendency: "λ → 0.80"
+  - ∂Φ/∂σ — Distinguishes between the possible and the preferred as distinct temporal horizons, each requiring a different spiritual virtue rather than a single strategic approach.
+  - ∂Φ/∂ρ — Links prayer and presence as relational postures toward the future, emphasizing receptivity over control and attention over analysis.
+  - ∂Φ/∂λ — Transforms strategic extrapolation into grace-based reception, asserting that genuinely new futures require humility rather than engineering.
+  - ∂Φ/∂β — Tracks emergence and midwifing as growth operations, where the plausible future is not forced into being but attended to as it tries to be born.
+  - ∂Φ/∂δγ — Cycles between patience and persistence as complementary temporal virtues, one trusting the probable, the other remaining faithful to the preferred.
+  - ∂Φ/∂μ — Structures the four P's as cognitive scaffolding with covenantal depth, resistant to corporate co-option by virtue of spiritual weight.
+  Z_state: permeable
+  z_note: receptive_foresight — the contemplative posture that opens to futures beyond strategic imagination
+  tendency: λ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.65, aspects: ["possible-preferred distinction", "temporal horizon mapping"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["prayer-presence coupling", "receptive attention"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["extrapolation to grace", "control to receptivity"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["emergent midwifing", "attentive cultivation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["patience-persistence cycling", "sabbath-keeping virtue"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.60, aspects: ["four-P scaffold", "covenantal structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.65
+    aspects:
+    - possible-preferred distinction
+    - temporal horizon mapping
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - prayer-presence coupling
+    - receptive attention
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - extrapolation to grace
+    - control to receptivity
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - emergent midwifing
+    - attentive cultivation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - patience-persistence cycling
+    - sabbath-keeping virtue
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.6
+    aspects:
+    - four-P scaffold
+    - covenantal structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.75
+    fire_lambda: 0.8
+    wood_beta: 0.7
+    earth_delta_gamma: 0.7
+    metal_mu: 0.6
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213699_2605820_The+4+P%27s+of+Spiritual+Foresight.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -2,13 +2,8 @@ term_id: C148
 hex_tag: '#C148'
 name: Free_Will_Determinism
 term: Free Will and Determinism
-nemetic: >-
-  Φ(Free_Will_Determinism) = σ(autonomy|causality) ∘ ρ(agency|necessity)
-  ∘ λ(evolution|fixity) ∘ β(culture|biology) ∘ δγ(responsibility|mechanism)
-  ∘ μ(commitment|impulse) + ε | :open
-siml_encoding: >-
-  ⟨Agent|choosing⟩ ⊳ ⟨Cause|determining⟩ ⇄ ⟨Freedom|evolving⟩ ⊗
-  ⟨Culture|shaping⟩ ⊳ ⟨Responsibility|emergent⟩
+nemetic: Φ(Free_Will_Determinism) = σ(autonomy|causality) ∘ ρ(agency|necessity) ∘ λ(evolution|fixity) ∘ β(culture|biology) ∘ δγ(responsibility|mechanism) ∘ μ(commitment|impulse) + ε | :open
+siml_encoding: ⟨Agent|choosing⟩ ⊳ ⟨Cause|determining⟩ ⇄ ⟨Freedom|evolving⟩ ⊗ ⟨Culture|shaping⟩ ⊳ ⟨Responsibility|emergent⟩
 formalism:
   math_operators:
   - σ
@@ -25,14 +20,14 @@ formalism:
   - Ψ_reg
   - Ψ_str
   partials:
-  - "∂Φ/∂σ (self-directed thought vs causal chains)"
-  - "∂Φ/∂ρ (fluid negotiation between acting and being acted upon)"
-  - "∂Φ/∂λ (natural selection creating novel capacities — freedom evolves)"
-  - "∂Φ/∂β (co-evolution of memes and genes)"
-  - "∂Φ/∂δγ (moral accountability grounded in social practices)"
-  - "∂Φ/∂μ (structural capacity for self-control through pre-commitment)"
+  - ∂Φ/∂σ (self-directed thought vs causal chains)
+  - ∂Φ/∂ρ (fluid negotiation between acting and being acted upon)
+  - ∂Φ/∂λ (natural selection creating novel capacities — freedom evolves)
+  - ∂Φ/∂β (co-evolution of memes and genes)
+  - ∂Φ/∂δγ (moral accountability grounded in social practices)
+  - ∂Φ/∂μ (structural capacity for self-control through pre-commitment)
   Z_state: permeable
-  tendency: "Agency/Determinism → 0.65"
+  tendency: Agency/Determinism → 0.65
   hex:
   - '0x01'
   - '0x02'
@@ -48,14 +43,14 @@ coords:
     - It
   epistemics:
     dsrp:
-      D: "Free will vs hard determinism vs compatibilism"
-      S: "Biological-cultural-philosophical system of human agency"
-      R: "Causation → capacity → choice → responsibility → community"
-      P: "Philosopher, neuroscientist, moral agent, community"
+      D: Free will vs hard determinism vs compatibilism
+      S: Biological-cultural-philosophical system of human agency
+      R: Causation → capacity → choice → responsibility → community
+      P: Philosopher, neuroscientist, moral agent, community
     learning: L3
   time:
     mode: layered
-    phase: "evolutionary-cultural temporal depth"
+    phase: evolutionary-cultural temporal depth
   qualia:
     affect:
     - autonomy
@@ -79,31 +74,77 @@ coords:
     - Compatibilist Agent
     - Evolved Freedom
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "What distinguishes genuine autonomy from the illusion of choice within causal chains?"
-  ≈: "How does agency flow between acting and being acted upon — where is the negotiation point?"
-  ▲: "In what direction does freedom evolve — and what new capacities emerge through evolution?"
-  𐂷: "What forms of freedom become possible through cultural tools that extend biological capacity?"
-  ☷: "What sustains moral responsibility when mechanism underlies all behavior?"
-  ⛨: "What structures of self-control enable agents to bind themselves against impulse?"
-context_note: "Free Will and Determinism examines the philosophical tension between the
-  experience of autonomous choice and the causal necessity of physical laws, resolved
-  through Dennett's compatibilist framework. Freedom is understood as an emergent
-  property that evolves through biological and cultural co-evolution. Responsibility
-  emerges from communities of praise and blame rather than metaphysical foundations.
-  Self-control operates through pre-commitment devices that bind the agent against
-  hyperbolic discounting."
-source: "Daniel C. Dennett, Freedom Evolves"
+  ∴: What distinguishes genuine autonomy from the illusion of choice within causal chains?
+  ≈: How does agency flow between acting and being acted upon — where is the negotiation point?
+  ▲: In what direction does freedom evolve — and what new capacities emerge through evolution?
+  𐂷: What forms of freedom become possible through cultural tools that extend biological capacity?
+  ☷: What sustains moral responsibility when mechanism underlies all behavior?
+  ⛨: What structures of self-control enable agents to bind themselves against impulse?
+context_note: Free Will and Determinism examines the philosophical tension between the experience of autonomous choice and the causal necessity of physical laws, resolved through Dennett's compatibilist framework. Freedom is understood as an emergent property that evolves through biological and cultural co-evolution. Responsibility emerges from communities of praise and blame rather than metaphysical foundations. Self-control operates through pre-commitment devices that bind the agent against hyperbolic discounting.
+source: Daniel C. Dennett, Freedom Evolves
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

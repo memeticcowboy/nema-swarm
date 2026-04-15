@@ -1,32 +1,155 @@
 ---
-term: "Heart Treasure Enlightened Ones"
-hex_tag: "S079"
-series: "S"
-source_file: "1771907212778_1225434_.md"
-encoded_at: "2026-03-06T01:00:00Z"
-description: "Dilgo Khyentse Rinpoche's Buddhist practice text on the urgency of spiritual practice in a dark age, renunciation and detachment from worldly clinging, cultivation of bodhicitta, the six-syllable mantra as compassion vehicle, realization of mind's true nature, and the sutra/tantra paths to liberation."
-nemetic: "Φ(Heart Treasure Enlightened Ones) = σ(worldly_attachment|spiritual_liberation) ∘ ρ(practitioner|guru_lineage) ∘ λ(deluded_mind|realized_nature) ∘ β(refuge_taking|pure_consciousness_realization) ∘ δγ(mantra_recitation|merit_purification_cycling) ∘ μ(sutra_tantra_path_structure|view_meditation_action_framework) + ε | :urgent_liberative_practice"
-siml_encoding: "⟨worldly_clinging_spiritual_freedom_distinction, samsara_nirvana_boundary⟩ ⊳ ⟨practitioner_guru_relation, devotion_blessing_transmission⟩ → ⟨deluded_to_realized_transformation, mind_nature_recognition⟩ ⊗ ⟨refuge_to_realization_growth, bodhicitta_development_trajectory⟩ ⇄ ⟨mantra_recitation_cycling, merit_purification_iteration⟩"
+term: Heart Treasure Enlightened Ones
+hex_tag: S079
+series: S
+source_file: 1771907212778_1225434_.md
+encoded_at: '2026-03-06T01:00:00Z'
+description: Dilgo Khyentse Rinpoche's Buddhist practice text on the urgency of spiritual practice in a dark age, renunciation and detachment from worldly clinging, cultivation of bodhicitta, the six-syllable mantra as compassion vehicle, realization of mind's true nature, and the sutra/tantra paths to liberation.
+nemetic: Φ(Heart Treasure Enlightened Ones) = σ(worldly_attachment|spiritual_liberation) ∘ ρ(practitioner|guru_lineage) ∘ λ(deluded_mind|realized_nature) ∘ β(refuge_taking|pure_consciousness_realization) ∘ δγ(mantra_recitation|merit_purification_cycling) ∘ μ(sutra_tantra_path_structure|view_meditation_action_framework) + ε | :urgent_liberative_practice
+siml_encoding: ⟨worldly_clinging_spiritual_freedom_distinction, samsara_nirvana_boundary⟩ ⊳ ⟨practitioner_guru_relation, devotion_blessing_transmission⟩ → ⟨deluded_to_realized_transformation, mind_nature_recognition⟩ ⊗ ⟨refuge_to_realization_growth, bodhicitta_development_trajectory⟩ ⇄ ⟨mantra_recitation_cycling, merit_purification_iteration⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: worldly_attachment / spiritual_liberation
+      S: refuge_taking / pure_consciousness_realization
+      R: practitioner / guru_lineage
+      P: deluded_mind / realized_nature
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing worldly attachment from spiritual liberation in the degenerate age)"
-    - "∂Φ/∂ρ (relating practitioner to guru lineage through devotion, blessing, and transmission)"
-    - "∂Φ/∂λ (transforming deluded mind into realized nature through recognition of mind's emptiness and luminosity)"
-    - "∂Φ/∂β (growth from taking refuge through bodhicitta cultivation to pure consciousness realization)"
-    - "∂Φ/∂δγ (cycling through mantra recitation, purification, and merit accumulation as iterative practice)"
-    - "∂Φ/∂μ (sutra and tantra path structures providing the framework of view, meditation, and action)"
-  Z_state: "urgent_liberative_practice — in the dark age of five degenerations, the practitioner recognizes life's impermanence and urgently engages the complete Buddhist path: renunciation dissolves worldly clinging, bodhicitta generates altruistic motivation, the six-syllable mantra purifies and accumulates merit, and realization of mind's empty luminous nature achieves liberation for the benefit of all beings"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing worldly attachment from spiritual liberation in the degenerate age)
+  - ∂Φ/∂ρ (relating practitioner to guru lineage through devotion, blessing, and transmission)
+  - ∂Φ/∂λ (transforming deluded mind into realized nature through recognition of mind's emptiness and luminosity)
+  - ∂Φ/∂β (growth from taking refuge through bodhicitta cultivation to pure consciousness realization)
+  - ∂Φ/∂δγ (cycling through mantra recitation, purification, and merit accumulation as iterative practice)
+  - ∂Φ/∂μ (sutra and tantra path structures providing the framework of view, meditation, and action)
+  Z_state: permeable
+  z_note: 'urgent_liberative_practice — in the dark age of five degenerations, the practitioner recognizes life''s impermanence and urgently engages the complete Buddhist path: renunciation dissolves worldly clinging, bodhicitta generates altruistic motivation, the six-syllable mantra purifies and accumulates merit, and realization of mind''s empty luminous nature achieves liberation for the benefit of all beings'
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["worldly_attachment_liberation_distinction", "samsara_nirvana_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["practitioner_guru_devotion", "blessing_transmission_relation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["deluded_to_realized_transformation", "mind_nature_recognition_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["refuge_to_realization_trajectory", "bodhicitta_development_path"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["mantra_recitation_purification_cycling", "merit_accumulation_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["sutra_tantra_path_structure", "view_meditation_action_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S021", "S078", "S036", "S037"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - worldly_attachment_liberation_distinction
+    - samsara_nirvana_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - practitioner_guru_devotion
+    - blessing_transmission_relation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - deluded_to_realized_transformation
+    - mind_nature_recognition_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - refuge_to_realization_trajectory
+    - bodhicitta_development_path
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - mantra_recitation_purification_cycling
+    - merit_accumulation_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - sutra_tantra_path_structure
+    - view_meditation_action_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S021
+- S078
+- S036
+- S037
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.9
+    wood_beta: 0.85
+    earth_delta_gamma: 0.85
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212778_1225434_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

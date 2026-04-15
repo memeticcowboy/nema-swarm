@@ -1,32 +1,151 @@
 ---
-term: "Cognitive Resilience Analogy"
-hex_tag: "S162"
-series: "S"
-source_file: "1771907213596_2535533_Cognitive+Resilience+Analogy+%28CRA%29.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "A framework analogizing memes to gut bacteria — cultivating beneficial cognitive 'strains' (ideas) that synthesize needed mental 'vitamins,' while periodically applying 'antibiotics' (skepticism) when harmful memetic blooms appear. Bridges biological and cognitive sciences through the Adaptive Resilience Theory (ART)."
-nemetic: "Φ(CognitiveResilience) = σ(memetic_discernment|uncritical_absorption) ∘ ρ(cognitive_ecology|isolated_thought) ∘ λ(skeptical_intervention|passive_acceptance) ∘ β(beneficial_cultivation|parasitic_proliferation) ∘ δγ(gut_brain_axis|mind_body_separation) ∘ μ(resilience_architecture|fragile_default) + ε | :adaptive_equilibrium"
-siml_encoding: "⟨memetic_perception⟩ ⊳ ⟨ecological_relation⟩ → ⟨skeptical_transformation⟩ ⊗ ⟨beneficial_cultivation⟩ ⇄ ⟨resilience_structure⟩"
+term: Cognitive Resilience Analogy
+hex_tag: S162
+series: S
+source_file: 1771907213596_2535533_Cognitive+Resilience+Analogy+%28CRA%29.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: A framework analogizing memes to gut bacteria — cultivating beneficial cognitive 'strains' (ideas) that synthesize needed mental 'vitamins,' while periodically applying 'antibiotics' (skepticism) when harmful memetic blooms appear. Bridges biological and cognitive sciences through the Adaptive Resilience Theory (ART).
+nemetic: Φ(CognitiveResilience) = σ(memetic_discernment|uncritical_absorption) ∘ ρ(cognitive_ecology|isolated_thought) ∘ λ(skeptical_intervention|passive_acceptance) ∘ β(beneficial_cultivation|parasitic_proliferation) ∘ δγ(gut_brain_axis|mind_body_separation) ∘ μ(resilience_architecture|fragile_default) + ε | :adaptive_equilibrium
+siml_encoding: ⟨memetic_perception⟩ ⊳ ⟨ecological_relation⟩ → ⟨skeptical_transformation⟩ ⊗ ⟨beneficial_cultivation⟩ ⇄ ⟨resilience_structure⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: memetic_discernment / uncritical_absorption
+      S: beneficial_cultivation / parasitic_proliferation
+      R: cognitive_ecology / isolated_thought
+      P: skeptical_intervention / passive_acceptance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (memetic discernment perceives cognitive strain quality)"
-    - "∂Φ/∂ρ (cognitive ecology maps relational networks of idea propagation)"
-    - "∂Φ/∂λ (skeptical intervention applies targeted antibiotics to harmful blooms)"
-    - "∂Φ/∂β (beneficial cultivation grows healthy cognitive microbiome)"
-    - "∂Φ/∂δγ (gut-brain axis grounds cognitive resilience in biological substrate)"
-    - "∂Φ/∂μ (resilience architecture structures adaptive defense mechanisms)"
-  Z_state: "adaptive equilibrium — balanced cognitive ecosystem maintaining beneficial strains while resisting harmful infections"
-  tendency: "β → 0.85"
+  - ∂Φ/∂σ (memetic discernment perceives cognitive strain quality)
+  - ∂Φ/∂ρ (cognitive ecology maps relational networks of idea propagation)
+  - ∂Φ/∂λ (skeptical intervention applies targeted antibiotics to harmful blooms)
+  - ∂Φ/∂β (beneficial cultivation grows healthy cognitive microbiome)
+  - ∂Φ/∂δγ (gut-brain axis grounds cognitive resilience in biological substrate)
+  - ∂Φ/∂μ (resilience architecture structures adaptive defense mechanisms)
+  Z_state: permeable
+  z_note: adaptive equilibrium — balanced cognitive ecosystem maintaining beneficial strains while resisting harmful infections
+  tendency: β → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["memetic_discernment", "critical_perception"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["cognitive_ecology", "idea_network_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["skeptical_intervention", "memetic_antibiotic"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["beneficial_cultivation", "cognitive_vitamin_synthesis"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["gut_brain_axis", "biological_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["resilience_architecture", "ART_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - memetic_discernment
+    - critical_perception
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - cognitive_ecology
+    - idea_network_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - skeptical_intervention
+    - memetic_antibiotic
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - beneficial_cultivation
+    - cognitive_vitamin_synthesis
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - gut_brain_axis
+    - biological_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - resilience_architecture
+    - ART_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.7
+    fire_lambda: 0.75
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213596_2535533_Cognitive+Resilience+Analogy+%28CRA%29.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

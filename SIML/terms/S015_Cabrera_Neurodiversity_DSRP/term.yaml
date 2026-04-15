@@ -1,64 +1,153 @@
 ---
-term: "Cabrera's Neurodiversity and DSRP"
-hex_tag: "S015"
-series: "S"
-source_file: "1771907212404_262767_Dr.+Cabrera%27s+Neurodiversity+Insights.md"
-encoded_at: "2026-03-05T18:30:00Z"
-description: "Derek Cabrera's personal neurodiversity journey leading to the development of DSRP theory. Neurodiversity reframed as difference rather than deficit, with unique strengths including the ability to see more connections. DSRP (Distinctions, Systems, Relationships, Perspectives) applies equally to neurotypical and neurodiverse thinking, revealing universal cognitive operations that manifest differently across neurological profiles."
-nemetic: "Φ(NeuroDSRP) = σ(neurotypical|neurodiverse) ∘ ρ(connection|isolation) ∘ λ(deficit|difference) ∘ β(struggle|theory) ∘ δγ(personal|universal) ∘ μ(structure|flexibility) + ε | :reframing"
-siml_encoding: "⟨Neurotype|distinguished⟩ ⊳ ⟨Connection|related⟩ → ⟨Deficit|reframed⟩ ⊗ ⟨Struggle|growing⟩ ⇄ ⟨Theory|reframing⟩"
+term: Cabrera's Neurodiversity and DSRP
+hex_tag: S015
+series: S
+source_file: 1771907212404_262767_Dr.+Cabrera%27s+Neurodiversity+Insights.md
+encoded_at: '2026-03-05T18:30:00Z'
+description: Derek Cabrera's personal neurodiversity journey leading to the development of DSRP theory. Neurodiversity reframed as difference rather than deficit, with unique strengths including the ability to see more connections. DSRP (Distinctions, Systems, Relationships, Perspectives) applies equally to neurotypical and neurodiverse thinking, revealing universal cognitive operations that manifest differently across neurological profiles.
+nemetic: Φ(NeuroDSRP) = σ(neurotypical|neurodiverse) ∘ ρ(connection|isolation) ∘ λ(deficit|difference) ∘ β(struggle|theory) ∘ δγ(personal|universal) ∘ μ(structure|flexibility) + ε | :reframing
+siml_encoding: ⟨Neurotype|distinguished⟩ ⊳ ⟨Connection|related⟩ → ⟨Deficit|reframed⟩ ⊗ ⟨Struggle|growing⟩ ⇄ ⟨Theory|reframing⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: neurotypical / neurodiverse
+      S: struggle / theory
+      R: connection / isolation
+      P: deficit / difference
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between neurotypical and neurodiverse cognitive profiles)"
-    - "∂Φ/∂ρ (relational capacity for seeing connections vs. experiencing isolation)"
-    - "∂Φ/∂λ (transformative reframing of deficit as difference)"
-    - "∂Φ/∂β (developmental growth from personal struggle to universal theory)"
-    - "∂Φ/∂δγ (grounding in personal experience cycling toward universal applicability)"
-    - "∂Φ/∂μ (structural cognitive frameworks balanced with neurodiverse flexibility)"
-  Z_state: "reframing (neurodiversity reframed from deficit to cognitive difference)"
-  tendency: "Reframing/Integration → 0.80"
+  - ∂Φ/∂σ (distinction between neurotypical and neurodiverse cognitive profiles)
+  - ∂Φ/∂ρ (relational capacity for seeing connections vs. experiencing isolation)
+  - ∂Φ/∂λ (transformative reframing of deficit as difference)
+  - ∂Φ/∂β (developmental growth from personal struggle to universal theory)
+  - ∂Φ/∂δγ (grounding in personal experience cycling toward universal applicability)
+  - ∂Φ/∂μ (structural cognitive frameworks balanced with neurodiverse flexibility)
+  Z_state: semi
+  z_note: reframing (neurodiversity reframed from deficit to cognitive difference)
+  tendency: Reframing/Integration → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Critical distinction between neurotypical and neurodiverse cognitive profiles"
-      - "Analytical separation of cognitive difference from pathological deficit"
-    daemon_correspondence: "Aerunik"
+    - Critical distinction between neurotypical and neurodiverse cognitive profiles
+    - Analytical separation of cognitive difference from pathological deficit
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
     aspects:
-      - "Unique relational capacity of neurodiverse minds to see more connections"
-      - "Flow between connection and isolation as defining neurodiverse experience"
-    daemon_correspondence: "Sentaria"
+    - Unique relational capacity of neurodiverse minds to see more connections
+    - Flow between connection and isolation as defining neurodiverse experience
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
     aspects:
-      - "Transformative reframing of neurodiversity from deficit to difference"
-      - "Paradigm shift that converts stigma into cognitive strength"
-    daemon_correspondence: "Jvalion"
+    - Transformative reframing of neurodiversity from deficit to difference
+    - Paradigm shift that converts stigma into cognitive strength
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Developmental growth from personal struggle with neurodiversity to DSRP theory"
-      - "Theory emerging organically from lived experience of cognitive difference"
-    daemon_correspondence: "Arboriel"
+    - Developmental growth from personal struggle with neurodiversity to DSRP theory
+    - Theory emerging organically from lived experience of cognitive difference
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Personal experience grounding universal theoretical claims"
-      - "Cycling between individual neurodiversity journey and universal cognitive operations"
-    daemon_correspondence: "Humavita"
+    - Personal experience grounding universal theoretical claims
+    - Cycling between individual neurodiversity journey and universal cognitive operations
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "DSRP as structural framework applicable across neurological profiles"
-      - "Cognitive structure balanced with neurodiverse flexibility in thinking"
-    daemon_correspondence: "Ferrosid"
+    - DSRP as structural framework applicable across neurological profiles
+    - Cognitive structure balanced with neurodiverse flexibility in thinking
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S005_DSRP_Theory_of_Thinking"
-  - "A045_Neurodiversity_Philosophy"
+- S005_DSRP_Theory_of_Thinking
+- A045_Neurodiversity_Philosophy
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.7
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212404_262767_Dr.+Cabrera%27s+Neurodiversity+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

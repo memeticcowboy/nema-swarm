@@ -1,32 +1,151 @@
 ---
-term: "Identity Shadow Integration"
-hex_tag: "S169"
-series: "S"
-source_file: "1771907213602_2538981_Exploring+Endless+Integration+of+Identity+Shadows.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The shadow is not a static repository of repressed traits but a living byproduct of identity formation. Every 'I am' casts a new 'not-I.' Consciousness continuously generates its own unconscious. The Perpetual Integrator moves from hero of self-mastery to gardener of paradox, embracing perpetual incompletion as maturity. Draws on Jungian psychology, process philosophy, depth spirituality, and metamodern selfhood."
-nemetic: "Φ(ShadowInteg) = σ(identity|shadow) ∘ ρ(acceptance|resistance) ∘ λ(integration_drive|repression) ∘ β(perpetual_growth|illusory_completion) ∘ δγ(embodied_shadow|conceptual_self) ∘ μ(structural_mapping|living_paradox) + ε | :perpetual_incompletion"
-siml_encoding: "⟨I_am⟩ ⊳ ⟨not-I⟩ → ⟨shadow_integration⟩ ⊗ ⟨shadow_generation⟩ ⇄ ⟨gardener_of_paradox⟩"
+term: Identity Shadow Integration
+hex_tag: S169
+series: S
+source_file: 1771907213602_2538981_Exploring+Endless+Integration+of+Identity+Shadows.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The shadow is not a static repository of repressed traits but a living byproduct of identity formation. Every 'I am' casts a new 'not-I.' Consciousness continuously generates its own unconscious. The Perpetual Integrator moves from hero of self-mastery to gardener of paradox, embracing perpetual incompletion as maturity. Draws on Jungian psychology, process philosophy, depth spirituality, and metamodern selfhood.
+nemetic: Φ(ShadowInteg) = σ(identity|shadow) ∘ ρ(acceptance|resistance) ∘ λ(integration_drive|repression) ∘ β(perpetual_growth|illusory_completion) ∘ δγ(embodied_shadow|conceptual_self) ∘ μ(structural_mapping|living_paradox) + ε | :perpetual_incompletion
+siml_encoding: ⟨I_am⟩ ⊳ ⟨not-I⟩ → ⟨shadow_integration⟩ ⊗ ⟨shadow_generation⟩ ⇄ ⟨gardener_of_paradox⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: identity / shadow
+      S: perpetual_growth / illusory_completion
+      R: acceptance / resistance
+      P: integration_drive / repression
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (the identity/shadow dialectic — every self-definition simultaneously creates its shadow)"
-    - "∂Φ/∂ρ (emotional stance toward the shadow — acceptance vs instinctive resistance and denial)"
-    - "∂Φ/∂λ (the drive to integrate shadow material vs the mechanism of repression that creates it)"
-    - "∂Φ/∂β (the recognition that integration is perpetual growth, not achievable completion)"
-    - "∂Φ/∂δγ (shadow as embodied in symptoms, habits, projections vs self as conceptual narrative)"
-    - "∂Φ/∂μ (Jungian structural maps of the psyche vs the living paradox that resists schematization)"
-  Z_state: "perpetual_incompletion — the mature recognition that shadow integration is never finished because identity formation never ceases; our shadows are never done"
-  tendency: "β → 0.82"
+  - ∂Φ/∂σ (the identity/shadow dialectic — every self-definition simultaneously creates its shadow)
+  - ∂Φ/∂ρ (emotional stance toward the shadow — acceptance vs instinctive resistance and denial)
+  - ∂Φ/∂λ (the drive to integrate shadow material vs the mechanism of repression that creates it)
+  - ∂Φ/∂β (the recognition that integration is perpetual growth, not achievable completion)
+  - ∂Φ/∂δγ (shadow as embodied in symptoms, habits, projections vs self as conceptual narrative)
+  - ∂Φ/∂μ (Jungian structural maps of the psyche vs the living paradox that resists schematization)
+  Z_state: semi
+  z_note: perpetual_incompletion — the mature recognition that shadow integration is never finished because identity formation never ceases; our shadows are never done
+  tendency: β → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["identity", "shadow"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["acceptance", "resistance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.68, aspects: ["integration_drive", "repression"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.82, aspects: ["perpetual_growth", "illusory_completion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["embodied_shadow", "conceptual_self"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.58, aspects: ["structural_mapping", "living_paradox"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - identity
+    - shadow
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - acceptance
+    - resistance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.68
+    aspects:
+    - integration_drive
+    - repression
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.82
+    aspects:
+    - perpetual_growth
+    - illusory_completion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - embodied_shadow
+    - conceptual_self
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.58
+    aspects:
+    - structural_mapping
+    - living_paradox
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.75
+    fire_lambda: 0.68
+    wood_beta: 0.82
+    earth_delta_gamma: 0.72
+    metal_mu: 0.58
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213602_2538981_Exploring+Endless+Integration+of+Identity+Shadows.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

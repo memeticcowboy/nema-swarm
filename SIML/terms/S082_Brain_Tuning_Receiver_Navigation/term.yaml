@@ -1,32 +1,155 @@
 ---
-term: "Brain Tuning Receiver Navigation"
-hex_tag: "S082"
-series: "S"
-source_file: "1771907212824_1401142_Brain+Functions+as+a+Tuning+Receiver+for+Navigation.md"
-encoded_at: "2026-03-06T01:30:00Z"
-description: "The brain as a radio receiver — neural circuits tuning to specific frequencies to process different types of information such as memory and sensory input, oscillatory dynamics distinguishing memory cells (~35 Hz) from sensory cells (~60 Hz), hippocampal ensembles constructing mental maps through place cells, and the brain's capacity to switch between landmark-based and memory-based navigation strategies."
-nemetic: "Φ(Brain Tuning Receiver Navigation) = σ(memory_frequency|sensory_frequency) ∘ ρ(neural_circuits|environmental_information) ∘ λ(raw_signal|tuned_cognitive_map) ∘ β(basic_orientation|complex_mental_mapping) ∘ δγ(frequency_switching_cycling|navigation_strategy_iteration) ∘ μ(oscillatory_dynamics_framework|hippocampal_ensemble_architecture) + ε | :navigational_coherence"
-siml_encoding: "⟨memory_sensory_frequency_distinction, signal_type_boundary⟩ ⊳ ⟨neural_circuit_environment_relation, brain_information_dialogue⟩ → ⟨raw_signal_to_cognitive_map_transformation, frequency_tuning_catalysis⟩ ⊗ ⟨orientation_to_mapping_growth, navigational_complexity_trajectory⟩ ⇄ ⟨frequency_switching_cycling, navigation_strategy_iteration⟩"
+term: Brain Tuning Receiver Navigation
+hex_tag: S082
+series: S
+source_file: 1771907212824_1401142_Brain+Functions+as+a+Tuning+Receiver+for+Navigation.md
+encoded_at: '2026-03-06T01:30:00Z'
+description: The brain as a radio receiver — neural circuits tuning to specific frequencies to process different types of information such as memory and sensory input, oscillatory dynamics distinguishing memory cells (~35 Hz) from sensory cells (~60 Hz), hippocampal ensembles constructing mental maps through place cells, and the brain's capacity to switch between landmark-based and memory-based navigation strategies.
+nemetic: Φ(Brain Tuning Receiver Navigation) = σ(memory_frequency|sensory_frequency) ∘ ρ(neural_circuits|environmental_information) ∘ λ(raw_signal|tuned_cognitive_map) ∘ β(basic_orientation|complex_mental_mapping) ∘ δγ(frequency_switching_cycling|navigation_strategy_iteration) ∘ μ(oscillatory_dynamics_framework|hippocampal_ensemble_architecture) + ε | :navigational_coherence
+siml_encoding: ⟨memory_sensory_frequency_distinction, signal_type_boundary⟩ ⊳ ⟨neural_circuit_environment_relation, brain_information_dialogue⟩ → ⟨raw_signal_to_cognitive_map_transformation, frequency_tuning_catalysis⟩ ⊗ ⟨orientation_to_mapping_growth, navigational_complexity_trajectory⟩ ⇄ ⟨frequency_switching_cycling, navigation_strategy_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: memory_frequency / sensory_frequency
+      S: basic_orientation / complex_mental_mapping
+      R: neural_circuits / environmental_information
+      P: raw_signal / tuned_cognitive_map
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing memory frequencies from sensory frequencies in neural processing)"
-    - "∂Φ/∂ρ (relating neural circuits to environmental information through frequency-based dialogue)"
-    - "∂Φ/∂λ (transforming raw sensory and memory signals into tuned cognitive maps)"
-    - "∂Φ/∂β (growth from basic spatial orientation toward complex mental mapping and navigation)"
-    - "∂Φ/∂δγ (cycling through frequency switching and navigation strategy iteration)"
-    - "∂Φ/∂μ (oscillatory dynamics as framework and hippocampal ensembles as structural architecture)"
-  Z_state: "navigational_coherence — the brain achieves coherent navigation by functioning as a tuning receiver, with neural circuits adjusting their frequency to connect with relevant information from different brain regions; memory cells oscillating at ~35 Hz and sensory cells at ~60 Hz provide distinct channels, hippocampal place cells construct mental maps, and the brain flexibly switches between landmark-based and memory-based strategies depending on context"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing memory frequencies from sensory frequencies in neural processing)
+  - ∂Φ/∂ρ (relating neural circuits to environmental information through frequency-based dialogue)
+  - ∂Φ/∂λ (transforming raw sensory and memory signals into tuned cognitive maps)
+  - ∂Φ/∂β (growth from basic spatial orientation toward complex mental mapping and navigation)
+  - ∂Φ/∂δγ (cycling through frequency switching and navigation strategy iteration)
+  - ∂Φ/∂μ (oscillatory dynamics as framework and hippocampal ensembles as structural architecture)
+  Z_state: semi
+  z_note: navigational_coherence — the brain achieves coherent navigation by functioning as a tuning receiver, with neural circuits adjusting their frequency to connect with relevant information from different brain regions; memory cells oscillating at ~35 Hz and sensory cells at ~60 Hz provide distinct channels, hippocampal place cells construct mental maps, and the brain flexibly switches between landmark-based and memory-based strategies depending on context
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["memory_sensory_frequency_distinction", "signal_type_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["neural_circuit_environment_relation", "brain_information_frequency_dialogue"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["raw_signal_to_cognitive_map_transformation", "frequency_tuning_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["orientation_to_mapping_trajectory", "navigational_complexity_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["frequency_switching_cycling", "navigation_strategy_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["oscillatory_dynamics_framework", "hippocampal_ensemble_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S020", "S041", "C084", "C134"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - memory_sensory_frequency_distinction
+    - signal_type_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - neural_circuit_environment_relation
+    - brain_information_frequency_dialogue
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - raw_signal_to_cognitive_map_transformation
+    - frequency_tuning_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - orientation_to_mapping_trajectory
+    - navigational_complexity_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - frequency_switching_cycling
+    - navigation_strategy_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - oscillatory_dynamics_framework
+    - hippocampal_ensemble_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S020
+- S041
+- C084
+- C134
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212824_1401142_Brain+Functions+as+a+Tuning+Receiver+for+Navigation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

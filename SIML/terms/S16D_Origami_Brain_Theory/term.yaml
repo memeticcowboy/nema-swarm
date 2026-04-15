@@ -1,32 +1,151 @@
 ---
-term: "Origami Brain Theory"
-hex_tag: "S16D"
-series: "S"
-source_file: "1771907213615_2550045_Rethinking+Cognitive+Depth%3A+The+Origami+Brain+Theory.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Challenges traditional notions of cognitive depth through Nick Chater's 'Mind is Flat' thesis — minds are shallow, driven by just-in-time fluency and improvisation. Cognitive depth emerges not from hidden reserves but from iterative folding of surface processes, analogous to origami creating complexity from a flat sheet and Bennett's logical depth."
-nemetic: "Φ(OrigBrain) = σ(just_in_time_fluency|preformed_depth) ∘ ρ(empathic_resonance|solipsistic_projection) ∘ λ(improvisation|rehearsal) ∘ β(iterative_folding|linear_accumulation) ∘ δγ(symbol_grounding|abstract_floating) ∘ μ(logical_depth|surface_complexity) + ε | :cognitive_origami"
-siml_encoding: "⟨flat_mind⟩ ⊳ ⟨iterative_folding⟩ → ⟨emergent_depth⟩ ⊗ ⟨illusion_of_depth⟩ ⇄ ⟨participatory_knowing⟩"
+term: Origami Brain Theory
+hex_tag: S16D
+series: S
+source_file: 1771907213615_2550045_Rethinking+Cognitive+Depth%3A+The+Origami+Brain+Theory.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Challenges traditional notions of cognitive depth through Nick Chater's 'Mind is Flat' thesis — minds are shallow, driven by just-in-time fluency and improvisation. Cognitive depth emerges not from hidden reserves but from iterative folding of surface processes, analogous to origami creating complexity from a flat sheet and Bennett's logical depth.
+nemetic: Φ(OrigBrain) = σ(just_in_time_fluency|preformed_depth) ∘ ρ(empathic_resonance|solipsistic_projection) ∘ λ(improvisation|rehearsal) ∘ β(iterative_folding|linear_accumulation) ∘ δγ(symbol_grounding|abstract_floating) ∘ μ(logical_depth|surface_complexity) + ε | :cognitive_origami
+siml_encoding: ⟨flat_mind⟩ ⊳ ⟨iterative_folding⟩ → ⟨emergent_depth⟩ ⊗ ⟨illusion_of_depth⟩ ⇄ ⟨participatory_knowing⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: just_in_time_fluency / preformed_depth
+      S: iterative_folding / linear_accumulation
+      R: empathic_resonance / solipsistic_projection
+      P: improvisation / rehearsal
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (just-in-time cognitive algorithms vs the illusion of preformed depth)"
-    - "∂Φ/∂ρ (empathic resonance as cognitive depth vs solipsistic projection as shallow simulation)"
-    - "∂Φ/∂λ (improvisation as real-time meaning-making vs rehearsal of cached responses)"
-    - "∂Φ/∂β (iterative recursive folding generating depth vs linear accumulation of facts)"
-    - "∂Φ/∂δγ (symbol grounding in embodied experience vs abstract symbols floating unanchored)"
-    - "∂Φ/∂μ (Bennett's logical depth — computational work to produce structure — vs mere surface complexity)"
-  Z_state: "cognitive_origami — the state where shallow, just-in-time processes iteratively fold upon themselves to produce genuine depth, like a flat sheet of paper becoming a crane through successive folds rather than through hidden inner structure"
-  tendency: "β → 0.82"
+  - ∂Φ/∂σ (just-in-time cognitive algorithms vs the illusion of preformed depth)
+  - ∂Φ/∂ρ (empathic resonance as cognitive depth vs solipsistic projection as shallow simulation)
+  - ∂Φ/∂λ (improvisation as real-time meaning-making vs rehearsal of cached responses)
+  - ∂Φ/∂β (iterative recursive folding generating depth vs linear accumulation of facts)
+  - ∂Φ/∂δγ (symbol grounding in embodied experience vs abstract symbols floating unanchored)
+  - ∂Φ/∂μ (Bennett's logical depth — computational work to produce structure — vs mere surface complexity)
+  Z_state: semi
+  z_note: cognitive_origami — the state where shallow, just-in-time processes iteratively fold upon themselves to produce genuine depth, like a flat sheet of paper becoming a crane through successive folds rather than through hidden inner structure
+  tendency: β → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["just_in_time_fluency", "preformed_depth"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["empathic_resonance", "solipsistic_projection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["improvisation", "rehearsal"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.82, aspects: ["iterative_folding", "linear_accumulation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["symbol_grounding", "abstract_floating"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.74, aspects: ["logical_depth", "surface_complexity"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - just_in_time_fluency
+    - preformed_depth
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - empathic_resonance
+    - solipsistic_projection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - improvisation
+    - rehearsal
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.82
+    aspects:
+    - iterative_folding
+    - linear_accumulation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - symbol_grounding
+    - abstract_floating
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.74
+    aspects:
+    - logical_depth
+    - surface_complexity
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.7
+    fire_lambda: 0.75
+    wood_beta: 0.82
+    earth_delta_gamma: 0.68
+    metal_mu: 0.74
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213615_2550045_Rethinking+Cognitive+Depth%3A+The+Origami+Brain+Theory.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

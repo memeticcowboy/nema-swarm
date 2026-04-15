@@ -1,81 +1,155 @@
-term: "Global Development and Inequality"
-hex_tag: "#C080"
-nemetic: "Φ(GlobalDevelopmentInequality) = σ(wealth|poverty) ∘ ρ(education|empowerment) ∘ λ(critique|transformation) ∘ β(growth|justice) ∘ δγ(order|rights) ∘ μ(power|distribution) + ε | :examining"
-siml_encoding: "⟨Development|defined⟩ ⊳ ⟨Inequality|examined⟩ → ⟨Education|empowered⟩ ⊗ ⟨Freedom|negotiated⟩ ⇄ ⟨Society|transformed⟩"
+---
+term: Global Development and Inequality
+hex_tag: '#C080'
+nemetic: Φ(GlobalDevelopmentInequality) = σ(wealth|poverty) ∘ ρ(education|empowerment) ∘ λ(critique|transformation) ∘ β(growth|justice) ∘ δγ(order|rights) ∘ μ(power|distribution) + ε | :examining
+siml_encoding: ⟨Development|defined⟩ ⊳ ⟨Inequality|examined⟩ → ⟨Education|empowered⟩ ⊗ ⟨Freedom|negotiated⟩ ⇄ ⟨Society|transformed⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between affluent nations and impoverished regions; the logical separation of wealth concentration from global poverty)"
-    - "∂Φ/∂ρ (relational flow between female education and societal empowerment; the channel connecting literacy to reduced civil violence)"
-    - "∂Φ/∂λ (transformative spark when critical thinking ignites perspective shifts; the catalytic moment of challenging development ideologies)"
-    - "∂Φ/∂β (developmental cycle between economic growth and social justice; the organic tension between order and human rights)"
-    - "∂Φ/∂δγ (cyclical oscillation between authoritarian order and democratic freedom; the rhythm of stability versus rights in development paths)"
-    - "∂Φ/∂μ (boundary permeability between resource consumption and global responsibility; the threshold where privilege meets obligation)"
-  Z_state: "examining (boundaries between developed and developing dissolve through critical analysis; privilege and responsibility converge into mutual understanding)"
-  tendency: "Justice/Growth → 0.75 (moderate drive toward equitable development; achieving societal progress requires balancing economic advancement with human rights and education)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between affluent nations and impoverished regions; the logical separation of wealth concentration from global poverty)
+  - ∂Φ/∂ρ (relational flow between female education and societal empowerment; the channel connecting literacy to reduced civil violence)
+  - ∂Φ/∂λ (transformative spark when critical thinking ignites perspective shifts; the catalytic moment of challenging development ideologies)
+  - ∂Φ/∂β (developmental cycle between economic growth and social justice; the organic tension between order and human rights)
+  - ∂Φ/∂δγ (cyclical oscillation between authoritarian order and democratic freedom; the rhythm of stability versus rights in development paths)
+  - ∂Φ/∂μ (boundary permeability between resource consumption and global responsibility; the threshold where privilege meets obligation)
+  Z_state: permeable
+  z_note: examining (boundaries between developed and developing dissolve through critical analysis; privilege and responsibility converge into mutual understanding)
+  tendency: Justice/Growth → 0.75 (moderate drive toward equitable development; achieving societal progress requires balancing economic advancement with human rights and education)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary: It
   agency:
-    type: reflective
+    type: ego
     power_mode: With
+  epistemics:
+    dsrp:
+      D: wealth / poverty
+      S: growth / justice
+      R: education / empowerment
+      P: critique / transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "categorical classification of developed versus developing nations; logical taxonomy distinguishing wealth concentration from global poverty"
-      - "analytical distinction between economic metrics and human development indicators; clear categorization of development theories"
-    daemon_correspondence: "Aerunik"
+    - categorical classification of developed versus developing nations; logical taxonomy distinguishing wealth concentration from global poverty
+    - analytical distinction between economic metrics and human development indicators; clear categorization of development theories
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between female education and societal transformation; the relational dynamics connecting literacy to reduced civil violence"
-      - "adaptive channels of empowerment that transmit through educated women aged 15-30"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between female education and societal transformation; the relational dynamics connecting literacy to reduced civil violence
+    - adaptive channels of empowerment that transmit through educated women aged 15-30
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when critical thinking ignites perspective shifts; the catalytic moment of challenging simplistic narratives about genocide and inequality"
-      - "energetic drive of ideological critique propelling development discourse beyond conventional frameworks"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when critical thinking ignites perspective shifts; the catalytic moment of challenging simplistic narratives about genocide and inequality
+    - energetic drive of ideological critique propelling development discourse beyond conventional frameworks
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of societies through education and empowerment; the unfolding of development potential through female literacy"
-      - "developmental progression from authoritarian order to democratic flourishing"
-    daemon_correspondence: "Arboriel"
+    - organic growth of societies through education and empowerment; the unfolding of development potential through female literacy
+    - developmental progression from authoritarian order to democratic flourishing
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in historical context of development; the cyclical return between colonial injustices and contemporary inequality"
-      - "embodied practice of critical thinking applied to real-world development challenges"
-    daemon_correspondence: "Humavita"
+    - grounding in historical context of development; the cyclical return between colonial injustices and contemporary inequality
+    - embodied practice of critical thinking applied to real-world development challenges
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural precision of resource distribution mechanisms; the architectural framework of global inequality"
-      - "boundary discernment between defense spending and human development; the threshold where power concentrates or distributes"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of resource distribution mechanisms; the architectural framework of global inequality
+    - boundary discernment between defense spending and human development; the threshold where power concentrates or distributes
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify developed versus developing nations? What categorical cuts separate wealth concentration from global poverty?"
-  ≈: "What flows between education and empowerment? How does female literacy channel into reduced civil violence?"
-  ▲: "Where does the spark of critical thinking ignite? What transforms simplistic narratives into nuanced understanding?"
-  𐂷: "What forms of societal growth emerge from education? What developmental potential lies in empowering women?"
-  ☷: "What sustains the ground of historical context? What are the cyclical returns between colonial past and present inequality?"
-  ⛨: "What structures contain resource distribution? What boundaries separate defense spending from human development?"
-context_note: "Global Development and Inequality presents Denis Galvan's critical examination of wealth disparities, resource allocation, and the complex ideologies underlying development theory. The lecture challenges simplistic narratives about poverty and violence, emphasizing the transformative power of educating young women as a key driver of societal progress. Galvan explores the tension between economic growth and human rights, using cases like China's post-Tiananmen development and the Rwandan Genocide to illustrate how economic factors and historical context shape outcomes. The core argument centers on critical analytic thinking—developing the ability to shift perspectives and critique ideologies intelligently—as essential for understanding development. Key themes include the role of female education in reducing civil violence, the imbalance of global resource consumption, and the need to examine underlying values that inform development policies."
-source_file: "1771907212795_1260896_Denis+Galvan%27s+2008+Lecture%3A+Rethinking+Global+Development+and+Inequality.md"
+  ∴: How do we classify developed versus developing nations? What categorical cuts separate wealth concentration from global poverty?
+  ≈: What flows between education and empowerment? How does female literacy channel into reduced civil violence?
+  ▲: Where does the spark of critical thinking ignite? What transforms simplistic narratives into nuanced understanding?
+  𐂷: What forms of societal growth emerge from education? What developmental potential lies in empowering women?
+  ☷: What sustains the ground of historical context? What are the cyclical returns between colonial past and present inequality?
+  ⛨: What structures contain resource distribution? What boundaries separate defense spending from human development?
+context_note: Global Development and Inequality presents Denis Galvan's critical examination of wealth disparities, resource allocation, and the complex ideologies underlying development theory. The lecture challenges simplistic narratives about poverty and violence, emphasizing the transformative power of educating young women as a key driver of societal progress. Galvan explores the tension between economic growth and human rights, using cases like China's post-Tiananmen development and the Rwandan Genocide to illustrate how economic factors and historical context shape outcomes. The core argument centers on critical analytic thinking—developing the ability to shift perspectives and critique ideologies intelligently—as essential for understanding development. Key themes include the role of female education in reducing civil violence, the imbalance of global resource consumption, and the need to examine underlying values that inform development policies.
+source_file: 1771907212795_1260896_Denis+Galvan%27s+2008+Lecture%3A+Rethinking+Global+Development+and+Inequality.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212795_1260896_Denis+Galvan%27s+2008+Lecture%3A+Rethinking+Global+Development+and+Inequality.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

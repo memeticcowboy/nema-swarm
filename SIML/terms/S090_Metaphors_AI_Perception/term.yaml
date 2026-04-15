@@ -1,32 +1,155 @@
 ---
-term: "Metaphors AI Perception"
-hex_tag: "S090"
-series: "S"
-source_file: "1771907212910_1739321_The+Power+of+Metaphors+in+AI+Perception.md"
-encoded_at: "2026-03-06T02:00:00Z"
-description: "How metaphors shape AI understanding — metaphors like 'friend,' 'monster,' 'child,' 'god,' and 'mirror' create mental models that influence societal attitudes toward AI, affecting acceptance, usage, development, and regulation; the impact of metaphorical framing on AI design where developers unconsciously embed metaphors into systems, human-AI interaction dynamics where metaphors shape user behavior and expectations, anthropomorphism risks, cultural variations in AI metaphors, and ethical implications of misleading metaphorical representations."
-nemetic: "Φ(Metaphors AI Perception) = σ(literal_technical_AI_description|metaphorical_AI_framing) ∘ ρ(metaphor|human_mental_model_of_AI) ∘ λ(unexamined_metaphor_usage|conscious_metaphorical_awareness) ∘ β(naive_AI_perception|nuanced_metaphor_informed_understanding) ∘ δγ(metaphor_adoption_cycle|perception_regulation_feedback_iteration) ∘ μ(cognitive_framing_theory|AI_design_regulatory_architecture) + ε | :metaphorical_reality_construction"
-siml_encoding: "⟨literal_metaphorical_distinction, technical_symbolic_boundary⟩ ⊳ ⟨metaphor_mental_model_relation, language_perception_coupling⟩ → ⟨unexamined_to_conscious_transformation, metaphorical_awareness_catalysis⟩ ⊗ ⟨naive_to_nuanced_growth, AI_understanding_trajectory⟩ ⇄ ⟨metaphor_adoption_cycling, perception_regulation_feedback_iteration⟩"
+term: Metaphors AI Perception
+hex_tag: S090
+series: S
+source_file: 1771907212910_1739321_The+Power+of+Metaphors+in+AI+Perception.md
+encoded_at: '2026-03-06T02:00:00Z'
+description: How metaphors shape AI understanding — metaphors like 'friend,' 'monster,' 'child,' 'god,' and 'mirror' create mental models that influence societal attitudes toward AI, affecting acceptance, usage, development, and regulation; the impact of metaphorical framing on AI design where developers unconsciously embed metaphors into systems, human-AI interaction dynamics where metaphors shape user behavior and expectations, anthropomorphism risks, cultural variations in AI metaphors, and ethical implications of misleading metaphorical representations.
+nemetic: Φ(Metaphors AI Perception) = σ(literal_technical_AI_description|metaphorical_AI_framing) ∘ ρ(metaphor|human_mental_model_of_AI) ∘ λ(unexamined_metaphor_usage|conscious_metaphorical_awareness) ∘ β(naive_AI_perception|nuanced_metaphor_informed_understanding) ∘ δγ(metaphor_adoption_cycle|perception_regulation_feedback_iteration) ∘ μ(cognitive_framing_theory|AI_design_regulatory_architecture) + ε | :metaphorical_reality_construction
+siml_encoding: ⟨literal_metaphorical_distinction, technical_symbolic_boundary⟩ ⊳ ⟨metaphor_mental_model_relation, language_perception_coupling⟩ → ⟨unexamined_to_conscious_transformation, metaphorical_awareness_catalysis⟩ ⊗ ⟨naive_to_nuanced_growth, AI_understanding_trajectory⟩ ⇄ ⟨metaphor_adoption_cycling, perception_regulation_feedback_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: literal_technical_AI_description / metaphorical_AI_framing
+      S: naive_AI_perception / nuanced_metaphor_informed_understanding
+      R: metaphor / human_mental_model_of_AI
+      P: unexamined_metaphor_usage / conscious_metaphorical_awareness
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing literal technical descriptions of AI from metaphorical framings that shape public understanding and emotional response)"
-    - "∂Φ/∂ρ (relating metaphors to human mental models of AI, where language choices like 'friend,' 'god,' or 'monster' structure expectations and behavior)"
-    - "∂Φ/∂λ (transforming unexamined metaphor usage into conscious metaphorical awareness, recognizing how language shapes AI perception and design)"
-    - "∂Φ/∂β (growth from naive AI perception toward nuanced metaphor-informed understanding across cultures and contexts)"
-    - "∂Φ/∂δγ (cycling through metaphor adoption in public discourse and iterative feedback between perception and regulatory response)"
-    - "∂Φ/∂μ (cognitive framing theory as structural foundation and AI design and regulatory frameworks as architecture shaped by metaphorical understanding)"
-  Z_state: "metaphorical_reality_construction — metaphors do not merely describe AI but actively construct the reality of how AI is perceived, designed, and regulated; the Z-state is achieved when stakeholders recognize that the language used to frame AI — whether as helpful assistant, threatening monster, developing child, omniscient god, or reflecting mirror — directly shapes the behavior of both humans and AI systems, embedding assumptions into design choices, user expectations, and policy frameworks; conscious engagement with metaphorical framing becomes a lever for more responsible AI development"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing literal technical descriptions of AI from metaphorical framings that shape public understanding and emotional response)
+  - ∂Φ/∂ρ (relating metaphors to human mental models of AI, where language choices like 'friend,' 'god,' or 'monster' structure expectations and behavior)
+  - ∂Φ/∂λ (transforming unexamined metaphor usage into conscious metaphorical awareness, recognizing how language shapes AI perception and design)
+  - ∂Φ/∂β (growth from naive AI perception toward nuanced metaphor-informed understanding across cultures and contexts)
+  - ∂Φ/∂δγ (cycling through metaphor adoption in public discourse and iterative feedback between perception and regulatory response)
+  - ∂Φ/∂μ (cognitive framing theory as structural foundation and AI design and regulatory frameworks as architecture shaped by metaphorical understanding)
+  Z_state: semi
+  z_note: metaphorical_reality_construction — metaphors do not merely describe AI but actively construct the reality of how AI is perceived, designed, and regulated; the Z-state is achieved when stakeholders recognize that the language used to frame AI — whether as helpful assistant, threatening monster, developing child, omniscient god, or reflecting mirror — directly shapes the behavior of both humans and AI systems, embedding assumptions into design choices, user expectations, and policy frameworks; conscious engagement with metaphorical framing becomes a lever for more responsible AI development
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["literal_metaphorical_distinction", "technical_symbolic_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["metaphor_mental_model_relation", "language_perception_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["unexamined_to_conscious_transformation", "metaphorical_awareness_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["naive_to_nuanced_growth", "AI_understanding_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["metaphor_adoption_cycling", "perception_regulation_feedback_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["cognitive_framing_theory", "AI_design_regulatory_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S00B", "S068", "S03A", "S046"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - literal_metaphorical_distinction
+    - technical_symbolic_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - metaphor_mental_model_relation
+    - language_perception_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - unexamined_to_conscious_transformation
+    - metaphorical_awareness_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - naive_to_nuanced_growth
+    - AI_understanding_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - metaphor_adoption_cycling
+    - perception_regulation_feedback_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - cognitive_framing_theory
+    - AI_design_regulatory_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00B
+- S068
+- S03A
+- S046
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212910_1739321_The+Power+of+Metaphors+in+AI+Perception.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,151 @@
 ---
-term: "Psilocybin Brain Activity"
-hex_tag: "S17C"
-series: "S"
-source_file: "1771907213650_2567199_Brain+Activity+Insights+from+Psilocybin+Trip.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "First-person psilocybin neuroimaging data. 5g Psilocybe cubensis (B+ strain). Psilocin acts on 5-HT2A serotonin receptors. Brain shows: decreased prefrontal/premotor control, increased sensory/auditory/speech integration, higher entropic brain patterns (open, flexible, exploratory), youthful network patterns. Subjective: hyperawareness, heightened senses, uninhibited creativity. Three timepoints tracked (acute, end of day, afterglow). Default Mode Network inhibition. Neuroplasticity in action. Longevity implications: psychedelics may reverse biological aging."
-nemetic: "Φ(PsiloBrain) = σ(entropic_expansion|controlled_cognition) ∘ ρ(sensory_integration|sensory_filtering) ∘ λ(uninhibited_creativity|prefrontal_control) ∘ β(neuroplastic_growth|neural_rigidity) ∘ δγ(embodied_hyperawareness|default_mode_autopilot) ∘ μ(neuroimaging_evidence|subjective_report_alone) + ε | :entropic_bloom"
-siml_encoding: "⟨psilocybin_neuroimaging⟩ ⊳ ⟨entropic_brain⟩ → ⟨DMN_inhibition⟩ ⊗ ⟨prefrontal_control⟩ ⇄ ⟨youthful_network_patterns⟩"
+term: Psilocybin Brain Activity
+hex_tag: S17C
+series: S
+source_file: 1771907213650_2567199_Brain+Activity+Insights+from+Psilocybin+Trip.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'First-person psilocybin neuroimaging data. 5g Psilocybe cubensis (B+ strain). Psilocin acts on 5-HT2A serotonin receptors. Brain shows: decreased prefrontal/premotor control, increased sensory/auditory/speech integration, higher entropic brain patterns (open, flexible, exploratory), youthful network patterns. Subjective: hyperawareness, heightened senses, uninhibited creativity. Three timepoints tracked (acute, end of day, afterglow). Default Mode Network inhibition. Neuroplasticity in action. Longevity implications: psychedelics may reverse biological aging.'
+nemetic: Φ(PsiloBrain) = σ(entropic_expansion|controlled_cognition) ∘ ρ(sensory_integration|sensory_filtering) ∘ λ(uninhibited_creativity|prefrontal_control) ∘ β(neuroplastic_growth|neural_rigidity) ∘ δγ(embodied_hyperawareness|default_mode_autopilot) ∘ μ(neuroimaging_evidence|subjective_report_alone) + ε | :entropic_bloom
+siml_encoding: ⟨psilocybin_neuroimaging⟩ ⊳ ⟨entropic_brain⟩ → ⟨DMN_inhibition⟩ ⊗ ⟨prefrontal_control⟩ ⇄ ⟨youthful_network_patterns⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: entropic_expansion / controlled_cognition
+      S: neuroplastic_growth / neural_rigidity
+      R: sensory_integration / sensory_filtering
+      P: uninhibited_creativity / prefrontal_control
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (entropic expansion where brain patterns become open and flexible vs controlled cognition where prefrontal cortex maintains order)"
-    - "∂Φ/∂ρ (sensory integration where auditory/visual/speech areas merge vs sensory filtering where inputs are segregated and dampened)"
-    - "∂Φ/∂λ (uninhibited creativity released by decreased prefrontal control vs prefrontal control that constrains creative expression)"
-    - "∂Φ/∂β (neuroplastic growth where new connections form and old patterns break vs neural rigidity where established pathways dominate)"
-    - "∂Φ/∂δγ (embodied hyperawareness where the body becomes intensely present vs default mode autopilot where the self narrates habitually)"
-    - "∂Φ/∂μ (neuroimaging evidence that objectifies subjective experience vs subjective report alone that lacks empirical grounding)"
-  Z_state: "entropic_bloom — the state where increased neural entropy produces not chaos but a flowering of cognitive flexibility, where the brain's youthful, exploratory patterns re-emerge as prefrontal control relaxes and the Default Mode Network releases its grip on self-narration"
-  tendency: "λ → 0.86"
+  - ∂Φ/∂σ (entropic expansion where brain patterns become open and flexible vs controlled cognition where prefrontal cortex maintains order)
+  - ∂Φ/∂ρ (sensory integration where auditory/visual/speech areas merge vs sensory filtering where inputs are segregated and dampened)
+  - ∂Φ/∂λ (uninhibited creativity released by decreased prefrontal control vs prefrontal control that constrains creative expression)
+  - ∂Φ/∂β (neuroplastic growth where new connections form and old patterns break vs neural rigidity where established pathways dominate)
+  - ∂Φ/∂δγ (embodied hyperawareness where the body becomes intensely present vs default mode autopilot where the self narrates habitually)
+  - ∂Φ/∂μ (neuroimaging evidence that objectifies subjective experience vs subjective report alone that lacks empirical grounding)
+  Z_state: permeable
+  z_note: entropic_bloom — the state where increased neural entropy produces not chaos but a flowering of cognitive flexibility, where the brain's youthful, exploratory patterns re-emerge as prefrontal control relaxes and the Default Mode Network releases its grip on self-narration
+  tendency: λ → 0.86
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["entropic_expansion", "controlled_cognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["sensory_integration", "sensory_filtering"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.86, aspects: ["uninhibited_creativity", "prefrontal_control"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.82, aspects: ["neuroplastic_growth", "neural_rigidity"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: ["embodied_hyperawareness", "default_mode_autopilot"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["neuroimaging_evidence", "subjective_report_alone"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - entropic_expansion
+    - controlled_cognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - sensory_integration
+    - sensory_filtering
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.86
+    aspects:
+    - uninhibited_creativity
+    - prefrontal_control
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.82
+    aspects:
+    - neuroplastic_growth
+    - neural_rigidity
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - embodied_hyperawareness
+    - default_mode_autopilot
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - neuroimaging_evidence
+    - subjective_report_alone
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.8
+    fire_lambda: 0.86
+    wood_beta: 0.82
+    earth_delta_gamma: 0.78
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213650_2567199_Brain+Activity+Insights+from+Psilocybin+Trip.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---
