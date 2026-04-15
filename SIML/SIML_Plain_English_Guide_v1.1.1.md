@@ -2,7 +2,7 @@
   
 **What SIML is, what it contains, and how it works.**  
   
-Version reference: SIML v1.1.1 (MetaTaxonomy Overlay Edition), SIMLHEX v1.0, Φ(t)+NEM v0.2  
+Version reference: SIML v1.4 (MetaTaxonomy Overlay Edition + Throughput Awareness), SIMLHEX v1.0, Φ(t)+NEM v0.2  
   
 -----  
   
@@ -78,29 +78,33 @@ Dynamic relations — Flow, Resonance, Conflict, and Recursion — can be furthe
   
 SIML doesn’t just map static structures. It also tracks what people are *doing* with those structures. There are two coordinated verb sets, corresponding to two different modes of engagement.  
   
-### The Sensemaking Loop: for exploration, understanding, and creative generation. Its verbs are:  
-  
-**Observe** — notice what’s happening without yet interpreting it.  
-**Explore** — investigate, branch out, follow threads.  
-**Frame** — apply a lens, try an interpretation.  
-**Sense** — feel into the situation, register qualitative texture.  
-**Map** — build a structural picture of the relationships.  
-**Activate** — do something based on what you’ve found.  
-  
-NEMA is used when the situation is open-ended, when you’re trying to understand rather than decide, when creativity and divergent thinking serve better than convergent judgment.  
-  
-### The Governance Loop: for evaluation, commitment, and enforcement. Its verbs are:  
-  
-**Evaluate** — assess against criteria.  
-**Decide** — choose a course of action.  
-**Commit** — bind yourself or the group to it.  
-**Allocate** — distribute resources.  
-**Enforce** — maintain the commitment.  
-**Review** — check whether the commitment is still valid.  
-  
-Governance is used when the situation requires judgment, when resources must be allocated, when promises must be kept or revised, when accountability matters.  
-  
-The two loops share a common entry point: noticing. From there, the situation determines whether exploration or evaluation is the appropriate next move. They can alternate, and in healthy systems they do.  
+### The Sensemaking Loop
+
+The Sensemaking Loop is for exploration, understanding, and creative generation. Its verbs are:
+
+**Observe** — notice what’s happening without yet interpreting it.
+**Explore** — investigate, branch out, follow threads.
+**Frame** — apply a lens, try an interpretation.
+**Sense** — feel into the situation, register qualitative texture.
+**Map** — build a structural picture of the relationships.
+**Activate** — do something based on what you’ve found.
+
+The Sensemaking Loop is used when the situation is open-ended, when you’re trying to understand rather than decide, when creativity and divergent thinking serve better than convergent judgment.
+
+### The Governance Loop
+
+The Governance Loop is for evaluation, commitment, and enforcement. Its verbs are:
+
+**Evaluate** — assess against criteria.
+**Decide** — choose a course of action.
+**Commit** — bind yourself or the group to it.
+**Allocate** — distribute resources.
+**Enforce** — maintain the commitment.
+**Review** — check whether the commitment is still valid.
+
+The Governance Loop is used when the situation requires judgment, when resources must be allocated, when promises must be kept or revised, when accountability matters.
+
+The two loops share a common entry point: noticing. From there, the situation determines whether exploration (Sensemaking) or evaluation (Governance) is the appropriate next move. They can alternate, and in healthy systems they do.  
   
 -----  
   
@@ -145,7 +149,7 @@ This is where subjective quality gets registered:
 - **Affect** — the emotional texture (fear, hope, rage, tenderness).  
 - **Aesthetic** — the formal quality (elegant, distorted, austere, lush).  
 - **Symbolic** — what images or metaphors arise (bridge, fire, cage, garden).  
-- **Energetic** — the felt sense of movement or blockage (flowing, stuck, pressurized, dissipated).  
+- **Energetic** — this dimension splits into two registers. *Somatic* tracks the felt sense in the body or local system: blocked, flowing, surging, or depleted. *Systemic* tracks the material throughput conditions of the wider structure: abundant, adequate, tight, critical, or deficit. The two can diverge — a person can feel energized (somatic: surging) while working inside a system that is running out of capacity (systemic: critical). When they diverge, the divergence pattern itself is diagnostic.
 - **Shadow** — what’s being repressed, avoided, or pushed to the margins.  
 - **Sacred** — what evokes awe, reverence, or the sense of touching something beyond the ordinary.  
   
@@ -219,7 +223,7 @@ Relations also carry elemental bias:
 - Flow → Water  
 - Mapping → Air  
 - Transformation → Earth  
-- Generation → Wood  
+- Constraint → Metal (default) / context-dependent: material or energetic constraints bias toward Earth; social constraints bias toward Water
 - Recursion → Aether  
 - Resonance → Water  
 - Conflict → Fire  
@@ -329,12 +333,28 @@ Several principles govern how SIML is used in practice:
   
 **Reflexivity.** SIML can model itself. Its own documents, practices, and community dynamics can be analyzed using SIML grammar. This is not a luxury feature — it’s a survival mechanism against the system becoming the thing it diagnoses.  
   
-**Dual-track.** Every situation can be approached through sensemaking or governance. Knowing which track you’re on — and when to switch — is a core competency.  
+**Dual-track.** Every situation can be approached through the Sensemaking Loop or the Governance Loop. Knowing which track you’re on — and when to switch — is a core competency.  
   
-**Diagnostic, not normative.** SIML describes curvature. It does not prescribe direction. It can tell you what’s happening and how the pieces connect, but it does not tell you what should happen. That’s a human judgment, and SIML deliberately refuses to automate it.  
-  
------  
-  
+**Diagnostic, not normative.** SIML describes curvature. It does not prescribe direction. It can tell you what’s happening and how the pieces connect, but it does not tell you what should happen. That’s a human judgment, and SIML deliberately refuses to automate it.
+
+-----
+
+## Throughput Awareness (v1.4)
+
+Starting in version 1.4, SIML includes explicit attention to material and energetic conditions — the throughput layer. This addresses a blind spot in earlier versions where structural analysis could proceed as though resources were infinite and all constraints were informational.
+
+Two Object-level qualifiers were introduced:
+
+**Resource.throughput** marks how much capacity is actually available: abundant, adequate, tight, critical, or deficit. This is not a feeling — it is an assessment of real conditions. When throughput is critical or deficit, the system enters a diagnostic gate: the question "what kind of scarcity is this?" must be asked before any other analysis continues. Four scarcity types are distinguished — genuine (real depletion), hoarded (artificially restricted), redirected (extracted toward other priorities), and manufactured (scarcity produced to maintain control). These are not mutually exclusive. Getting the scarcity type wrong means every downstream recommendation will be wrong.
+
+**Constraint.channel** names what kind of constraint is operating: informational, social, material, temporal, energetic, legal, or attentional. The same Constraint Relation can feel very different depending on its channel. A budget ceiling (material) behaves differently than a social taboo (social) or a deadline (temporal). The channel affects which daemon is best suited to engage with the constraint — material and energetic constraints route toward Earth (Humavita), social constraints toward Water (Sentaria), informational toward Air (Aerunik).
+
+These qualifiers interact with the dual energetic register in the Qualia overlay. When systemic throughput is tight or worse while somatic energy feels abundant, or vice versa, the divergence itself is the signal. The framework names five canonical divergence patterns, each pointing to a different kind of systemic distortion. The details live in the formal spec (SIML v1.4 §3), but the principle is simple: if the body says one thing and the system says another, don’t average them — investigate the gap.
+
+The throughput layer does not make SIML into an economics framework or an energy-systems model. It adds one question to every analysis where Resources or Constraints are in play: *are the material conditions being accounted for, or are we reasoning as if they don’t exist?*
+
+-----
+
 ## What SIML Is Not  
   
 SIML is not executable code. You cannot run it and get results. It is a grammar for structured description, not a program for automated decision-making.  
