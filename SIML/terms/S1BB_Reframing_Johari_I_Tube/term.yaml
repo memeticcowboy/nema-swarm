@@ -1,32 +1,151 @@
 ---
-term: "Reframing Johari: I-Tube and Ecosystems"
-hex_tag: "S1BB"
-series: "S"
-source_file: "1771907213764_2653576_Reframing+Johari%3A+I-Tube+and+Ecosystems.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The Johari Window collapses three distinct domains into two axes. The I-Tube model replaces static epistemic symmetry with ontological movement across nested flows: It-Field (undifferentiated), My-Stream (felt but unspeakable), I-Tube (articulated and filtered), We-Sphere (relationally transformed), and Other-Sphere (abstracted and enforced)."
-nemetic: "Φ(Reframing Johari) = σ(known_unknown|articulation_gradient) ∘ ρ(self_other|nested_flows) ∘ λ(static_window|dynamic_topology) ∘ β(latent_prethreads|emergent_attribution) ∘ δγ(somatic_memory|relational_resonance) ∘ μ(binary_knowledge|layered_movement) + ε | :ontological_movement"
-siml_encoding: "⟨known_unknown, articulation_gradient⟩ ⊳ ⟨self_other, nested_flows⟩ → ⟨static_window, dynamic_topology⟩ ⊗ ⟨latent_prethreads, emergent_attribution⟩ ⇄ ⟨binary_knowledge, layered_movement⟩"
+term: 'Reframing Johari: I-Tube and Ecosystems'
+hex_tag: S1BB
+series: S
+source_file: 1771907213764_2653576_Reframing+Johari%3A+I-Tube+and+Ecosystems.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'The Johari Window collapses three distinct domains into two axes. The I-Tube model replaces static epistemic symmetry with ontological movement across nested flows: It-Field (undifferentiated), My-Stream (felt but unspeakable), I-Tube (articulated and filtered), We-Sphere (relationally transformed), and Other-Sphere (abstracted and enforced).'
+nemetic: Φ(Reframing Johari) = σ(known_unknown|articulation_gradient) ∘ ρ(self_other|nested_flows) ∘ λ(static_window|dynamic_topology) ∘ β(latent_prethreads|emergent_attribution) ∘ δγ(somatic_memory|relational_resonance) ∘ μ(binary_knowledge|layered_movement) + ε | :ontological_movement
+siml_encoding: ⟨known_unknown, articulation_gradient⟩ ⊳ ⟨self_other, nested_flows⟩ → ⟨static_window, dynamic_topology⟩ ⊗ ⟨latent_prethreads, emergent_attribution⟩ ⇄ ⟨binary_knowledge, layered_movement⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: known_unknown / articulation_gradient
+      S: latent_prethreads / emergent_attribution
+      R: self_other / nested_flows
+      P: static_window / dynamic_topology
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes Johari's conflation of location with relation from the I-Tube's separation of where meaning lives from how it relates. Five layers replace two axes."
-    - "∂Φ/∂ρ — Water tracks the relational dynamics across layers: My-Stream (pre-social, somatic), We-Sphere (relationally transformed, emergent attribution), Other-Sphere (abstracted, enforced)."
-    - "∂Φ/∂λ — Fire transforms the static Johari window into dynamic topology where meaning moves across layers. Johari panes are diagnostic shadows of I-Tube operations, not static regions."
-    - "∂Φ/∂β — Wood grows through safe articulation gradients from My-Stream to I-Tube to We-Sphere, tracking how latent pre-threads become emergent attributions."
-    - "∂Φ/∂δγ — Earth cycles between somatic memory (felt but unspeakable) and relational resonance (mutated through interaction). Content moves through layers, transforming at each transition."
-    - "∂Φ/∂μ — Metal structures the five-layer topology: It-Field, My-Stream, I-Tube, We-Sphere, Other-Sphere, replacing Johari's binary with nested flows."
-  Z_state: "ontological_movement — meaning moving across layers rather than sitting in static epistemic quadrants"
-  tendency: "μ → 0.82"
+  - ∂Φ/∂σ — Air distinguishes Johari's conflation of location with relation from the I-Tube's separation of where meaning lives from how it relates. Five layers replace two axes.
+  - '∂Φ/∂ρ — Water tracks the relational dynamics across layers: My-Stream (pre-social, somatic), We-Sphere (relationally transformed, emergent attribution), Other-Sphere (abstracted, enforced).'
+  - ∂Φ/∂λ — Fire transforms the static Johari window into dynamic topology where meaning moves across layers. Johari panes are diagnostic shadows of I-Tube operations, not static regions.
+  - ∂Φ/∂β — Wood grows through safe articulation gradients from My-Stream to I-Tube to We-Sphere, tracking how latent pre-threads become emergent attributions.
+  - ∂Φ/∂δγ — Earth cycles between somatic memory (felt but unspeakable) and relational resonance (mutated through interaction). Content moves through layers, transforming at each transition.
+  - '∂Φ/∂μ — Metal structures the five-layer topology: It-Field, My-Stream, I-Tube, We-Sphere, Other-Sphere, replacing Johari''s binary with nested flows.'
+  Z_state: semi
+  z_note: ontological_movement — meaning moving across layers rather than sitting in static epistemic quadrants
+  tendency: μ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["location-relation distinction", "five-layer vs two-axis"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["relational resonance", "emergent attribution"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.68, aspects: ["static-to-dynamic transformation", "topology shift"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["articulation gradients", "pre-thread to attribution"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["somatic-relational cycling", "layer transition"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.82, aspects: ["five-layer topology", "nested flow structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - location-relation distinction
+    - five-layer vs two-axis
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - relational resonance
+    - emergent attribution
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.68
+    aspects:
+    - static-to-dynamic transformation
+    - topology shift
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - articulation gradients
+    - pre-thread to attribution
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - somatic-relational cycling
+    - layer transition
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.82
+    aspects:
+    - five-layer topology
+    - nested flow structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.68
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.82
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213764_2653576_Reframing+Johari%3A+I-Tube+and+Ecosystems.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

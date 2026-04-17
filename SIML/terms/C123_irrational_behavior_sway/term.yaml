@@ -1,82 +1,157 @@
 ---
-term: "Irrational Behavior and Cognitive Biases"
-hex_tag: "#C123"
-nemetic: "Φ(IrrationalBehavior) = σ(rational|irrational) ∘ ρ(loss|gain) ∘ λ(commitment|abandonment) ∘ β(diagnosis|revision) ∘ δγ(fairness|selfinterest) ∘ μ(intrinsic|extrinsic) + ε | :cognitive_sway"
-siml_encoding: "⟨Decision|biased⟩ ⊳ ⟨Behavior|irrational⟩ → ⟨Judgment|distorted⟩ ⊗ ⟨Awareness|lacking⟩ ⇄ ⟨Mindfulness|emerging⟩"
+term: Irrational Behavior and Cognitive Biases
+hex_tag: '#C123'
+nemetic: Φ(IrrationalBehavior) = σ(rational|irrational) ∘ ρ(loss|gain) ∘ λ(commitment|abandonment) ∘ β(diagnosis|revision) ∘ δγ(fairness|selfinterest) ∘ μ(intrinsic|extrinsic) + ε | :cognitive_sway
+siml_encoding: ⟨Decision|biased⟩ ⊳ ⟨Behavior|irrational⟩ → ⟨Judgment|distorted⟩ ⊗ ⟨Awareness|lacking⟩ ⇄ ⟨Mindfulness|emerging⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between rational and irrational decision-making; the logical separation of objective analysis from biased judgment)"
-    - "∂Φ/∂ρ (relational flow between loss aversion and gain seeking; the channel connecting fear of loss to distorted valuation)"
-    - "∂Φ/∂λ (transformative spark when commitment confronts abandonment; the catalytic moment of sunk cost recognition)"
-    - "∂Φ/∂β (developmental cycle between initial diagnosis and subsequent revision; the organic tension between first impressions and updated understanding)"
-    - "∂Φ/∂δγ (cyclical oscillation between fairness demands and self-interest; the rhythm of justice-seeking and rational optimization)"
-    - "∂Φ/∂μ (boundary permeability between intrinsic motivation and extrinsic incentives; the threshold where rewards undermine purpose)"
-  Z_state: "cognitive_sway (boundaries between rational and irrational dissolve through awareness; loss aversion and commitment bias converge into mindful decision-making)"
-  tendency: "Awareness/Objectivity → 0.81 (strong drive toward rational decision-making balanced by recognition of persistent biases; achieving clarity requires both mindfulness and structured evaluation)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between rational and irrational decision-making; the logical separation of objective analysis from biased judgment)
+  - ∂Φ/∂ρ (relational flow between loss aversion and gain seeking; the channel connecting fear of loss to distorted valuation)
+  - ∂Φ/∂λ (transformative spark when commitment confronts abandonment; the catalytic moment of sunk cost recognition)
+  - ∂Φ/∂β (developmental cycle between initial diagnosis and subsequent revision; the organic tension between first impressions and updated understanding)
+  - ∂Φ/∂δγ (cyclical oscillation between fairness demands and self-interest; the rhythm of justice-seeking and rational optimization)
+  - ∂Φ/∂μ (boundary permeability between intrinsic motivation and extrinsic incentives; the threshold where rewards undermine purpose)
+  Z_state: semi
+  z_note: cognitive_sway (boundaries between rational and irrational dissolve through awareness; loss aversion and commitment bias converge into mindful decision-making)
+  tendency: Awareness/Objectivity → 0.81 (strong drive toward rational decision-making balanced by recognition of persistent biases; achieving clarity requires both mindfulness and structured evaluation)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: rational / irrational
+      S: diagnosis / revision
+      R: loss / gain
+      P: commitment / abandonment
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical distinction between rational and irrational decision-making"
-      - "logical taxonomy separating objective analysis from biased judgment"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between rational and irrational decision-making
+    - logical taxonomy separating objective analysis from biased judgment
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "fluid dynamics between loss aversion and gain seeking"
-      - "relational flow connecting fear of loss to distorted valuation"
-    daemon_correspondence: "Sentaria"
+    - fluid dynamics between loss aversion and gain seeking
+    - relational flow connecting fear of loss to distorted valuation
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "transformative spark when commitment confronts abandonment"
-      - "energetic drive breaking through sunk cost fallacies"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when commitment confronts abandonment
+    - energetic drive breaking through sunk cost fallacies
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.75
     aspects:
-      - "organic growth cycle between initial diagnosis and revision"
-      - "developmental tension between first impressions and updated understanding"
-    daemon_correspondence: "Arboriel"
+    - organic growth cycle between initial diagnosis and revision
+    - developmental tension between first impressions and updated understanding
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in the oscillation between fairness and self-interest"
-      - "cyclical rhythm of justice-seeking versus rational optimization"
-    daemon_correspondence: "Humavita"
+    - grounding in the oscillation between fairness and self-interest
+    - cyclical rhythm of justice-seeking versus rational optimization
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural boundaries between intrinsic motivation and extrinsic incentives"
-      - "discernment between authentic purpose and reward-driven behavior"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between intrinsic motivation and extrinsic incentives
+    - discernment between authentic purpose and reward-driven behavior
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the difference between rational and irrational decision-making? What categorical cuts separate objective analysis from biased judgment?"
-  ≈: "What flows between loss aversion and gain seeking? How does the relational dynamic connect fear of loss to distorted valuation?"
-  ▲: "Where does the spark of transformation occur when commitment confronts abandonment? What catalyzes the breakthrough from sunk cost fallacies?"
-  𐂷: "What forms of growth emerge from the tension between initial diagnosis and revision? What developmental potential exists between first impressions and updated understanding?"
-  ☷: "What sustains the ground between fairness demands and self-interest? What are the cyclical returns between justice-seeking and rational optimization?"
-  ⛨: "What structures contain the boundary between intrinsic motivation and extrinsic incentives? What thresholds separate authentic purpose from reward-driven behavior?"
-context_note: "Irrational Behavior and Cognitive Biases examines the psychological forces that lead to distorted decision-making, as explored in Ori Brafman's 'Sway'. Key biases include loss aversion (overreacting to potential losses), commitment bias (continuing failing investments), value attribution (judging based on initial impressions), and diagnosis bias (persistent labeling). The Tenerife disaster exemplifies how loss aversion can override safety. The Joshua Bell experiment shows how context overshadows talent. Overcoming these biases requires mindfulness, structured evaluation, seeking diverse perspectives, and focusing on intrinsic motivators rather than financial incentives. Continuous self-awareness and education are essential for improving decision-making outcomes."
-source_file: "1771907212633_801055_Understanding+Irrational+Behavior.md"
+  ∴: How do we classify the difference between rational and irrational decision-making? What categorical cuts separate objective analysis from biased judgment?
+  ≈: What flows between loss aversion and gain seeking? How does the relational dynamic connect fear of loss to distorted valuation?
+  ▲: Where does the spark of transformation occur when commitment confronts abandonment? What catalyzes the breakthrough from sunk cost fallacies?
+  𐂷: What forms of growth emerge from the tension between initial diagnosis and revision? What developmental potential exists between first impressions and updated understanding?
+  ☷: What sustains the ground between fairness demands and self-interest? What are the cyclical returns between justice-seeking and rational optimization?
+  ⛨: What structures contain the boundary between intrinsic motivation and extrinsic incentives? What thresholds separate authentic purpose from reward-driven behavior?
+context_note: Irrational Behavior and Cognitive Biases examines the psychological forces that lead to distorted decision-making, as explored in Ori Brafman's 'Sway'. Key biases include loss aversion (overreacting to potential losses), commitment bias (continuing failing investments), value attribution (judging based on initial impressions), and diagnosis bias (persistent labeling). The Tenerife disaster exemplifies how loss aversion can override safety. The Joshua Bell experiment shows how context overshadows talent. Overcoming these biases requires mindfulness, structured evaluation, seeking diverse perspectives, and focusing on intrinsic motivators rather than financial incentives. Continuous self-awareness and education are essential for improving decision-making outcomes.
+source_file: 1771907212633_801055_Understanding+Irrational+Behavior.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+provenance:
+  author: "Ori Brafman"
+  work: "1771907212633_801055_Understanding+Irrational+Behavior.md"
+  source_file: "1771907212633_801055_Understanding+Irrational+Behavior.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

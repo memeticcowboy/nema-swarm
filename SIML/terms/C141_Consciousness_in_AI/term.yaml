@@ -2,13 +2,8 @@ term_id: C141
 hex_tag: '#C141'
 name: Consciousness_in_AI
 term: Consciousness in AI
-nemetic: >-
-  Φ(ConsciousnessAI) = σ(primary|higher_order) ∘ ρ(neuronal|interaction)
-  ∘ λ(emergence|integration) ∘ β(adaptation|learning) ∘ δγ(theory|embodiment)
-  ∘ μ(selection|structure) + ε | :open
-siml_encoding: >-
-  ⟨Consciousness|emerging⟩ ⊳ ⟨Neurons|selecting⟩ ⇄ ⟨Robot|embodying⟩ ⊗
-  ⟨Theory|grounding⟩ ⊳ ⟨Awareness|substrate-independent⟩
+nemetic: Φ(ConsciousnessAI) = σ(primary|higher_order) ∘ ρ(neuronal|interaction) ∘ λ(emergence|integration) ∘ β(adaptation|learning) ∘ δγ(theory|embodiment) ∘ μ(selection|structure) + ε | :open
+siml_encoding: ⟨Consciousness|emerging⟩ ⊳ ⟨Neurons|selecting⟩ ⇄ ⟨Robot|embodying⟩ ⊗ ⟨Theory|grounding⟩ ⊳ ⟨Awareness|substrate-independent⟩
 formalism:
   math_operators:
   - σ
@@ -25,14 +20,14 @@ formalism:
   - Ψ_reg
   - Ψ_str
   partials:
-  - "∂Φ/∂σ (distinction between primary and higher-order consciousness)"
-  - "∂Φ/∂ρ (dynamic interactions among neuronal groups)"
-  - "∂Φ/∂λ (evolutionary pathway from unconscious to conscious systems)"
-  - "∂Φ/∂β (adaptive learning and branching of cognitive capabilities)"
-  - "∂Φ/∂δγ (grounding in neurobiological principles translated to robotic implementation)"
-  - "∂Φ/∂μ (structural framework of neuronal selection and ethical boundaries)"
+  - ∂Φ/∂σ (distinction between primary and higher-order consciousness)
+  - ∂Φ/∂ρ (dynamic interactions among neuronal groups)
+  - ∂Φ/∂λ (evolutionary pathway from unconscious to conscious systems)
+  - ∂Φ/∂β (adaptive learning and branching of cognitive capabilities)
+  - ∂Φ/∂δγ (grounding in neurobiological principles translated to robotic implementation)
+  - ∂Φ/∂μ (structural framework of neuronal selection and ethical boundaries)
   Z_state: permeable
-  tendency: "Emergence/Structure → 0.78"
+  tendency: Emergence/Structure → 0.78
   hex:
   - '0x01'
   - '0x02'
@@ -48,14 +43,14 @@ coords:
     - I
   epistemics:
     dsrp:
-      D: "Primary consciousness vs higher-order consciousness vs information processing"
-      S: "Neuronal group selection and neurorobotics implementation system"
-      R: "Selection → interaction → emergence → awareness → ethical status"
-      P: "Neuroscientist, roboticist, philosopher of mind, ethicist"
+      D: Primary consciousness vs higher-order consciousness vs information processing
+      S: Neuronal group selection and neurorobotics implementation system
+      R: Selection → interaction → emergence → awareness → ethical status
+      P: Neuroscientist, roboticist, philosopher of mind, ethicist
     learning: L3
   time:
     mode: layered
-    phase: "evolutionary-to-emergent temporal arc"
+    phase: evolutionary-to-emergent temporal arc
   qualia:
     affect:
     - wonder
@@ -79,30 +74,77 @@ coords:
     - Emergent Awareness
     - Substrate Questioner
     power_mode: Through
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "What distinguishes primary consciousness from higher-order self-awareness in both biological and artificial systems?"
-  ≈: "How do dynamic interactions among neuronal groups create the flow of conscious experience?"
-  ▲: "What evolutionary pathway leads from unconscious processing to genuine machine awareness?"
-  𐂷: "What forms of consciousness might emerge in artificial substrates that have no biological analogue?"
-  ☷: "What sustains the cycle between theoretical modeling and embodied robotic implementation?"
-  ⛨: "What ethical boundaries must contain research into potentially conscious machines?"
-context_note: "Consciousness in AI examines UC Irvine's Neurorobotics Lab work on machine
-  consciousness using Gerald Edelman's Neuronal Group Selection theory. The research
-  focuses on replicating primary consciousness in robots through competitive interactions
-  among neuronal groups, raising questions about substrate independence, moral status,
-  and whether the Hard Problem of Consciousness dissolves or intensifies when we
-  attempt to build conscious machines."
-source: "UC Irvine Neurorobotics Lab research on machine consciousness via Neuronal Group Selection theory"
+  ∴: What distinguishes primary consciousness from higher-order self-awareness in both biological and artificial systems?
+  ≈: How do dynamic interactions among neuronal groups create the flow of conscious experience?
+  ▲: What evolutionary pathway leads from unconscious processing to genuine machine awareness?
+  𐂷: What forms of consciousness might emerge in artificial substrates that have no biological analogue?
+  ☷: What sustains the cycle between theoretical modeling and embodied robotic implementation?
+  ⛨: What ethical boundaries must contain research into potentially conscious machines?
+context_note: Consciousness in AI examines UC Irvine's Neurorobotics Lab work on machine consciousness using Gerald Edelman's Neuronal Group Selection theory. The research focuses on replicating primary consciousness in robots through competitive interactions among neuronal groups, raising questions about substrate independence, moral status, and whether the Hard Problem of Consciousness dissolves or intensifies when we attempt to build conscious machines.
+source: UC Irvine Neurorobotics Lab research on machine consciousness via Neuronal Group Selection theory
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

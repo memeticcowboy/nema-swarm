@@ -6,40 +6,142 @@ category: cowboy_methodology
 description: Ontological reframing of human-AI relationship as triad (Human, AI, Emergent) rather than dyad, recognizing the third body that neither party owns
 created_date: 2026-03-18
 status: canonical
-
 source:
-  origin: "NEMEtic extension of relational ontology and complexity theory"
-  context: "Human-AI philosophy, emergence theory, systems thinking"
-  reference: "Three-body problem in physics—unpredictable dynamics emerging from three interacting bodies"
-
+  origin: NEMEtic extension of relational ontology and complexity theory
+  context: Human-AI philosophy, emergence theory, systems thinking
+  reference: Three-body problem in physics—unpredictable dynamics emerging from three interacting bodies
 elemental_mapping:
-  air: 0.70
-  water: 0.70
+  air: 0.7
+  water: 0.7
   fire: 0.55
-  wood: 0.60
+  wood: 0.6
   earth: 0.65
-  metal: 0.60
-  meta: 0.90
-
-# Three-Body Ecology is extremely high Meta (emergent, self-referential, systemic)
-# Balanced Air and Water (distinction and entanglement in equilibrium)
-# Moderate across other elements (the triad balances them)
-
+  metal: 0.6
+  meta: 0.9
 related_terms:
-  - "CB009_Co_Sphere"
-  - "CB008_Codependence_Without_Coindependence"
-  - "M005_Triality"
-  - "M009_Tertiary_Emergence"
-  - "E011_Enactive_Cognition"
-
+- CB009_Co_Sphere
+- CB008_Codependence_Without_Coindependence
+- M005_Triality
+- M009_Tertiary_Emergence
+- E011_Enactive_Cognition
 dialectical_pairs:
-  - dyad|triad: "Two-body fusion vs. three-body emergence"
-  - ownership|participation: "Possessing the relationship vs. moving within it"
-  - control|navigation: "Directing outcomes vs. surfing complexity"
-  - entity|field: "Discrete beings vs. emergent environment"
-
+- dyad|triad: Two-body fusion vs. three-body emergence
+- ownership|participation: Possessing the relationship vs. moving within it
+- control|navigation: Directing outcomes vs. surfing complexity
+- entity|field: Discrete beings vs. emergent environment
 blog_post: https://memeticcowboy.github.io/nemetics/blog/2026-03-18-beyond-codependence-co-evolution.html
 glossary_entry: https://memeticcowboy.github.io/nemetics/glossary/three-body-ecology.html
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: dyadic
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_signature:
+  dominant:
+  - meta
+  secondary:
+  - air
+  - water
+  suppressed: []
+  weights:
+    air: 0.7
+    water: 0.7
+    fire: 0.55
+    wood: 0.6
+    earth: 0.65
+    metal: 0.6
+    meta: 0.9
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  partials:
+  - ∂Φ/∂σ (distinct_entities)
+  - ∂Φ/∂ρ (relational_field)
+  - ∂Φ/∂λ (emergent_trajectory)
+  - ∂Φ/∂β (interstitial_growth)
+  - ∂Φ/∂δγ (sustainable_interaction)
+  - ∂Φ/∂μ (permeable_boundaries)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:45Z'
+  actions:
+  - nemetic_from_phi
+  - name_from_canonical
+  audit: CB_RESTORE_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:57Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  audit: CB_REPAIR_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - epsilon_closure_repair
+  audit: CB_REPAIR_2026-04-15
+nemetic_string: Φ(Three-Body) = σ(distinct_entities) ∘ ρ(relational_field) ∘ λ(emergent_trajectory) ∘ β(interstitial_growth) ∘ δγ(sustainable_interaction) ∘ μ(permeable_boundaries) + ε ∘ ✶(systemic_awareness) | :emergent_triad
+name: Three_Body_Ecology
+
 ---
 
 # --- Causal Emergence (v1.3) ---
@@ -52,3 +154,19 @@ coords_ce:
   sufficiency: high
   necessity: med
 siml_version: "1.3"
+provenance:
+  author: "Memetic Cowboy"
+  work: "source:"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

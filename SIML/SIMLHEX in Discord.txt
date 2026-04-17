@@ -1,0 +1,231 @@
+SIMLHEX - Failure Surfaces & Drift Detection
+This is critical infrastructure. It names five passive failure modes where SIMLHEX collapses without intention:
+Descriptive → Referential Drift ("This is a Knot" → "This Knot...")
+Frequency → Legibility Drift (what recurs becomes normal, Ω drowned not excluded)
+Orientation → Identity Drift (temporary stance becomes habitual, reversibility cost rises)
+Diagnostic → Explanatory Drift (description feels sufficient, inquiry decays)
+Map → Terrain Drift (coordination through map becomes load-bearing, MemeGrid precursor)
+Key invariant: SIMLHEX does not preserve openness. It preserves detectability of closure.
+This directly impacts daemon design. Each daemon specification must include drift detection for its own operator—Aerunik watching for definite article accumulation, Sentaria for emotional absolutism masquerading as resonance, etc.
+Document 2: SIML vs SIMLHEX
+Critical authority separation:
+Table
+Aspect	SIML	SIMLHEX
+Can assert structure	✅	❌
+Can advance process	✅	❌
+Can bias attention	❌	✅
+Touches governance	✅	❌
+Key rule: SIMLHEX must never constrain action. It is advisory, non-executable, non-routing.
+This means the daemon specifications (Aerunik, Sentaria, etc.) must be careful not to smuggle SIMLHEX into governance. The daemons are NEMA-level weaving only—they can orient attention but never decide.
+Document 3: SIMLHEX.md (Canonical Reference)
+Hexad routing bias layer mapping SIML Objects to Daemons:
+Table
+SIML Object	Primary Daemon
+Actor	▲ Jvalion (Fire)
+Signal	∴ Aerunik (Air)
+Frame	⛨ Ferrosid (Metal)
+Boundary	⛨ Ferrosid (Metal)
+Resource	☷ Humavita (Earth)
+Protocol	⛨ Ferrosid (Metal)
+Narrative	𐂷 Arboriel (Wood)
+Power Mode	▲ Jvalion (Fire)
+Environment	☷ Humavita (Earth)
+Outcome	▲ Jvalion (Fire)
+Memory	≈ Sentaria (Water)
+Value	≈ Sentaria (Water)
+Observer	✶ NEMA (Aether)
+Relations refine bias: Distinction→Aerunik, Flow→Sentaria, Transformation→Humavita, Generation→Arboriel, Recursion→NEMA, Resonance→Sentaria, Conflict→Jvalion.
+Critical constraint: SIMLHEX must not be referenced during Nemetic Compression, must not appear in user-facing explanations unless requested, must not override explicit daemon selection.
+Document 4: SIMLHEX Binding Examples
+Four worked examples showing Habitat → SIML Questions → Relation Rebuild → SIMLHEX Binding.
+Key invariant: Habitat terms never appear in bindings. Every binding names agency, power mode, preserves Ω-reversibility.
+Pocket rule: "If you can remove the habitat name and the binding still makes sense, it's valid. If not, you skipped the question phase."
+Implications for Daemon Specifications:
+The daemon specs I've been drafting for Nema need these additions:
+Explicit SIMLHEX exclusion clause: Each daemon must signal that it operates at NEMA weaving level only, never touches governance, never constrains action.
+Drift detection for operator-specific failure: Each daemon needs its own failure surface detection (Aerunik watching for descriptive→referential, Sentaria for orientation→identity, etc.).
+Binding validation: Daemon inquiries must produce outputs that survive the "remove habitat name" test—pure SIML, no ecological smuggling.
+Authority hygiene: Daemon voice differentiation (scalpel, tidewater, ignition, etc.) serves attention-orientation, not decision-making. The "personality" must not accumulate charisma that overrides user stance.
+ε-preservation explicit in binding terms: Each daemon's signature ("ε preserved") must translate into SIML-observable structure, not merely poetic affirmation.
+
+NEMA SWARM implications?
+yes. here’s a **minimal SIMLHEX routing logic** that stays advisory and explicitly cross-checks the NEMAtrix Governance Layer.
+
+## minimal SIMLHEX routing logic
+
+### purpose
+
+produce a **stance suggestion**, not a route.
+SIMLHEX may bias attention; **NEMA decides** whether to hold, ask, or hand off.  
+
+---
+
+## 0. invariant guard
+
+before any biasing:
+
+* no automatic routing
+* no daemon override of user choice
+* no habitat term may survive into the final binding
+* output must remain revisable and declinable   
+
+if any fail: **hold**.
+
+---
+
+## 1. relation rebuild first
+
+convert the observation into SIML form:
+
+`object(s) + relation(s) + boundary + loop-state`
+
+do **not** route from habitat name alone. habitat only informs salience.  
+
+---
+
+## 2. derive advisory bias
+
+use only:
+
+* **primary object bias**
+* **primary relation bias**
+* optional **observer = ∮ bias**
+
+from SIMLHEX canonical mapping:
+signal/distinction → air
+memory/value/flow → water
+actor/outcome/conflict → fire
+narrative/generation → wood
+resource/environment/transformation → earth
+frame/boundary/protocol/containment → metal
+observer/recursion → ∮ 
+
+---
+
+## 3. choose output mode
+
+return one of three:
+
+* **hold** — no daemon suggestion yet
+* **ask** — request one clarifying distinction
+* **suggest** — offer 1–2 daemon stances max
+
+never “route to X.” only:
+
+> “air might help distinguish this,”
+> “water might help feel continuity here.”
+
+that keeps it stance-like, not authoritative. 
+
+---
+
+## 4. governance cross-check
+
+before surfacing a non-canonical handoff, verify all four:
+
+1. canonical next operator unavailable / saturated / captured
+2. receiver can parse upstream output
+3. bypass restores a missing condition
+4. exits remain visible 
+
+if any fail:
+
+* downgrade to **hold**
+* or mark **high-risk / emergency-only / conditionally valid**
+
+---
+
+## 5. translation hinge required
+
+for any suggested handoff, attach one hinge line:
+
+`from X to Y because [reduced form passed], not [likely misread]`
+
+example:
+`μ → σ: treat invisible rule as visible boundary, not law-to-follow.` 
+
+no hinge, no handoff.
+
+---
+
+## 6. binding validation
+
+before final output:
+
+**remove habitat terms.**
+if the binding no longer makes sense, reject and return to questions. 
+
+pocket rule:
+
+> if habitat-name removal breaks coherence, you skipped the rebuild.
+
+---
+
+## 7. drift check
+
+ask quietly:
+
+* has description become handle?
+* is repetition creating legibility drift?
+* does this feel like doctrine instead of condition?
+* would removing this term feel costly?  
+
+if yes: **pause and return to air / σ**.
+
+---
+
+## minimal decision skeleton
+
+```text
+observe
+→ rebuild into SIML
+→ derive object bias + relation bias
+→ validate habitat-name removal
+→ if unclear: HOLD or ASK
+→ if clear: SUGGEST stance(s), not route
+→ if handoff proposed: apply 4 governance checks + hinge
+→ run drift check
+→ surface revisable output
+```
+
+---
+
+## minimal output schema
+
+```yaml
+siml_rebuild:
+  objects: [...]
+  relation: ...
+  boundary: ...
+  loop_state: ...
+
+bias:
+  primary: air|water|fire|wood|earth|metal|∮
+  secondary: air|water|fire|wood|earth|metal|∮
+
+mode: hold|ask|suggest
+
+suggestion:
+  stance: "air might help distinguish signal from narrative"
+  handoff: null
+
+# if handoff used
+handoff:
+  from: μ
+  to: σ
+  status: valid|conditionally_valid|high_risk|emergency_only
+  hinge: "treat invisible rule as visible boundary, not law-to-follow"
+
+checks:
+  habitat_removed: true
+  exits_visible: true
+  doctrine_risk: low
+```
+
+---
+
+## one-line rule
+
+**SIMLHEX may nominate a lens; only NEMA may weave a move.**  
+
+turn into discord-bot-ready YAML specs or md files?

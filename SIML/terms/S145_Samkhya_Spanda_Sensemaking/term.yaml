@@ -1,32 +1,151 @@
 ---
-term: "Samkhya-Spanda Sensemaking"
-hex_tag: "S145"
-series: "S"
-source_file: "1771907213439_2394269_Understanding+S%C4%81%E1%B9%83khya-Spanda-Sensemaking%3A+Integrating+Indian+Philosophy+and+Modern+Sensemaking.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Integration of Indian Samkhya philosophy with Spanda (vibration/pulsation) tradition and modern sensemaking. Bridges ancient cosmological categories (purusha/prakriti, gunas, tattvas) with contemporary understanding of how meaning-making operates through vibratory and resonant dynamics. Sanskrit philosophical foundations applied to sensemaking processes."
-nemetic: "Φ(Samkhya-Spanda Sensemaking) = σ(purusha_witness|prakriti_manifest) ∘ ρ(static_category|vibratory_resonance) ∘ λ(dormant_potential|spanda_pulsation_activation) ∘ β(fixed_taxonomy|living_tattva_unfolding) ∘ δγ(guna_equilibrium|guna_dynamic_cycling) ∘ μ(ancient_framework|integrated_sensemaking_structure) + ε | :vibratory_cosmological_sensemaking"
-siml_encoding: "⟨purusha_prakriti_distinction, witness_manifest_discernment⟩ ⊳ ⟨category_resonance_relating, vibratory_flow⟩ → ⟨dormant_active_catalysis, spanda_transformation⟩ ⊗ ⟨taxonomy_unfolding_growth, tattva_expansion⟩ ⇄ ⟨equilibrium_dynamic_cycling, guna_rhythm⟩"
+term: Samkhya-Spanda Sensemaking
+hex_tag: S145
+series: S
+source_file: 1771907213439_2394269_Understanding+S%C4%81%E1%B9%83khya-Spanda-Sensemaking%3A+Integrating+Indian+Philosophy+and+Modern+Sensemaking.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Integration of Indian Samkhya philosophy with Spanda (vibration/pulsation) tradition and modern sensemaking. Bridges ancient cosmological categories (purusha/prakriti, gunas, tattvas) with contemporary understanding of how meaning-making operates through vibratory and resonant dynamics. Sanskrit philosophical foundations applied to sensemaking processes.
+nemetic: Φ(Samkhya-Spanda Sensemaking) = σ(purusha_witness|prakriti_manifest) ∘ ρ(static_category|vibratory_resonance) ∘ λ(dormant_potential|spanda_pulsation_activation) ∘ β(fixed_taxonomy|living_tattva_unfolding) ∘ δγ(guna_equilibrium|guna_dynamic_cycling) ∘ μ(ancient_framework|integrated_sensemaking_structure) + ε | :vibratory_cosmological_sensemaking
+siml_encoding: ⟨purusha_prakriti_distinction, witness_manifest_discernment⟩ ⊳ ⟨category_resonance_relating, vibratory_flow⟩ → ⟨dormant_active_catalysis, spanda_transformation⟩ ⊗ ⟨taxonomy_unfolding_growth, tattva_expansion⟩ ⇄ ⟨equilibrium_dynamic_cycling, guna_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: purusha_witness / prakriti_manifest
+      S: fixed_taxonomy / living_tattva_unfolding
+      R: static_category / vibratory_resonance
+      P: dormant_potential / spanda_pulsation_activation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing purusha-witness from prakriti-manifest — the discernment between pure awareness as witnessing consciousness and the manifest field of nature, where sensemaking requires both the witnessing capacity and the vibrating field of manifestation)"
-    - "∂Φ/∂ρ (relating static category to vibratory resonance — the relational dynamic where Samkhya's categorical framework comes alive through Spanda's understanding of reality as vibration, making philosophical categories resonant rather than inert)"
-    - "∂Φ/∂λ (transforming dormant potential into spanda-pulsation activation — the catalytic process where latent reality pulses into manifestation through spanda, the primordial vibration that activates the tattvas and enables sensemaking)"
-    - "∂Φ/∂β (growth from fixed taxonomy to living tattva unfolding — the developmental expansion where Samkhya's twenty-five tattvas are not static categories but living principles that unfold dynamically through engagement with spanda-activated reality)"
-    - "∂Φ/∂δγ (cycling between guna equilibrium and guna dynamic interaction — the grounding oscillation between the three gunas in equilibrium (sattva/rajas/tamas balanced) and their dynamic interplay that drives all manifestation and sensemaking)"
-    - "∂Φ/∂μ (structural integration of ancient framework with modern sensemaking — the architectural mapping where Sanskrit philosophical categories provide structural scaffolding for contemporary understanding of how meaning-making operates through vibratory dynamics)"
-  Z_state: "vibratory_cosmological_sensemaking — Samkhya's cosmological categories (purusha/prakriti, gunas, tattvas) come alive through Spanda's vibratory ontology and modern sensemaking; meaning-making operates through resonant dynamics where the pulsation of reality activates categorical awareness; ancient Sanskrit philosophical foundations provide structural depth to contemporary sensemaking processes"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ (distinguishing purusha-witness from prakriti-manifest — the discernment between pure awareness as witnessing consciousness and the manifest field of nature, where sensemaking requires both the witnessing capacity and the vibrating field of manifestation)
+  - ∂Φ/∂ρ (relating static category to vibratory resonance — the relational dynamic where Samkhya's categorical framework comes alive through Spanda's understanding of reality as vibration, making philosophical categories resonant rather than inert)
+  - ∂Φ/∂λ (transforming dormant potential into spanda-pulsation activation — the catalytic process where latent reality pulses into manifestation through spanda, the primordial vibration that activates the tattvas and enables sensemaking)
+  - ∂Φ/∂β (growth from fixed taxonomy to living tattva unfolding — the developmental expansion where Samkhya's twenty-five tattvas are not static categories but living principles that unfold dynamically through engagement with spanda-activated reality)
+  - ∂Φ/∂δγ (cycling between guna equilibrium and guna dynamic interaction — the grounding oscillation between the three gunas in equilibrium (sattva/rajas/tamas balanced) and their dynamic interplay that drives all manifestation and sensemaking)
+  - ∂Φ/∂μ (structural integration of ancient framework with modern sensemaking — the architectural mapping where Sanskrit philosophical categories provide structural scaffolding for contemporary understanding of how meaning-making operates through vibratory dynamics)
+  Z_state: semi
+  z_note: vibratory_cosmological_sensemaking — Samkhya's cosmological categories (purusha/prakriti, gunas, tattvas) come alive through Spanda's vibratory ontology and modern sensemaking; meaning-making operates through resonant dynamics where the pulsation of reality activates categorical awareness; ancient Sanskrit philosophical foundations provide structural depth to contemporary sensemaking processes
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["purusha_prakriti_discernment", "witness_manifest_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["vibratory_resonance_flow", "category_pulsation_relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["spanda_activation_catalysis", "pulsation_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["tattva_unfolding_growth", "categorical_living_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["guna_cycling_equilibrium", "sattva_rajas_tamas_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["ancient_modern_integration_structure", "philosophical_sensemaking_architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - purusha_prakriti_discernment
+    - witness_manifest_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - vibratory_resonance_flow
+    - category_pulsation_relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - spanda_activation_catalysis
+    - pulsation_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - tattva_unfolding_growth
+    - categorical_living_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - guna_cycling_equilibrium
+    - sattva_rajas_tamas_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - ancient_modern_integration_structure
+    - philosophical_sensemaking_architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213439_2394269_Understanding+S%C4%81%E1%B9%83khya-Spanda-Sensemaking%3A+Integrating+Indian+Philosophy+and+Modern+Sensemaking.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

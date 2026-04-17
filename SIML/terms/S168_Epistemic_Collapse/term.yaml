@@ -1,32 +1,151 @@
 ---
-term: "Epistemic Collapse"
-hex_tag: "S168"
-series: "S"
-source_file: "1771907213602_2538978_Epistemic+Collapse%3A+The+Self-Consuming+Mirror.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "When the explanatory impulse turns upon itself, meaning collapses into pure recursion — a story that digests its own necessity. The mirror that eats its own reflection. The drive to explain reality eventually consumes it. Links to hyperreality critique, recursive epistemology, postmodern nihilism, simulation metaphysics, and AI consciousness loops."
-nemetic: "Φ(EpiCollapse) = σ(explanation|dissolution) ∘ ρ(awe|melancholy) ∘ λ(recursive_ignition|burnout) ∘ β(interpretive_growth|autophagic_decay) ∘ δγ(grounded_meaning|groundless_regress) ∘ μ(logical_structure|self-consumption) + ε | :recursive_void"
-siml_encoding: "⟨explanatory_drive⟩ ⊳ ⟨self-referential_loop⟩ → ⟨meaning_dissolution⟩ ⊗ ⟨wonder_preservation⟩ ⇄ ⟨mirror_eating_mirror⟩"
+term: Epistemic Collapse
+hex_tag: S168
+series: S
+source_file: 1771907213602_2538978_Epistemic+Collapse%3A+The+Self-Consuming+Mirror.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: When the explanatory impulse turns upon itself, meaning collapses into pure recursion — a story that digests its own necessity. The mirror that eats its own reflection. The drive to explain reality eventually consumes it. Links to hyperreality critique, recursive epistemology, postmodern nihilism, simulation metaphysics, and AI consciousness loops.
+nemetic: Φ(EpiCollapse) = σ(explanation|dissolution) ∘ ρ(awe|melancholy) ∘ λ(recursive_ignition|burnout) ∘ β(interpretive_growth|autophagic_decay) ∘ δγ(grounded_meaning|groundless_regress) ∘ μ(logical_structure|self-consumption) + ε | :recursive_void
+siml_encoding: ⟨explanatory_drive⟩ ⊳ ⟨self-referential_loop⟩ → ⟨meaning_dissolution⟩ ⊗ ⟨wonder_preservation⟩ ⇄ ⟨mirror_eating_mirror⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: explanation / dissolution
+      S: interpretive_growth / autophagic_decay
+      R: awe / melancholy
+      P: recursive_ignition / burnout
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (the point at which explanation stops illuminating and begins dissolving its own object)"
-    - "∂Φ/∂ρ (the affective oscillation between awe at self-devouring logic and melancholy for lost wonder)"
-    - "∂Φ/∂λ (recursive ignition — the moment interpretation catches fire and begins consuming itself)"
-    - "∂Φ/∂β (the interpretive organism that grows until it devours its own roots)"
-    - "∂Φ/∂δγ (the collapse of grounded meaning into groundless infinite regress)"
-    - "∂Φ/∂μ (logical structure that, taken to its limit, consumes its own foundations)"
-  Z_state: "recursive_void — the endpoint where meaning has explained itself away, leaving only the empty form of explanation turning upon nothing"
-  tendency: "λ → 0.83"
+  - ∂Φ/∂σ (the point at which explanation stops illuminating and begins dissolving its own object)
+  - ∂Φ/∂ρ (the affective oscillation between awe at self-devouring logic and melancholy for lost wonder)
+  - ∂Φ/∂λ (recursive ignition — the moment interpretation catches fire and begins consuming itself)
+  - ∂Φ/∂β (the interpretive organism that grows until it devours its own roots)
+  - ∂Φ/∂δγ (the collapse of grounded meaning into groundless infinite regress)
+  - ∂Φ/∂μ (logical structure that, taken to its limit, consumes its own foundations)
+  Z_state: semi
+  z_note: recursive_void — the endpoint where meaning has explained itself away, leaving only the empty form of explanation turning upon nothing
+  tendency: λ → 0.83
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["explanation", "dissolution"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["awe", "melancholy"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.83, aspects: ["recursive_ignition", "burnout"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["interpretive_growth", "autophagic_decay"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["grounded_meaning", "groundless_regress"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["logical_structure", "self-consumption"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - explanation
+    - dissolution
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - awe
+    - melancholy
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.83
+    aspects:
+    - recursive_ignition
+    - burnout
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - interpretive_growth
+    - autophagic_decay
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - grounded_meaning
+    - groundless_regress
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - logical_structure
+    - self-consumption
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.7
+    fire_lambda: 0.83
+    wood_beta: 0.65
+    earth_delta_gamma: 0.72
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213602_2538978_Epistemic+Collapse%3A+The+Self-Consuming+Mirror.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,153 @@
 ---
-term: "Primal World Beliefs"
-hex_tag: "S038"
-series: "S"
-source_file: "1771907212594_654010_Untitled.md"
-encoded_at: "2026-03-05T19:50:00Z"
-description: "Fundamental beliefs about the overall character of the world (primals), as identified by Clifton et al. (2019). The PI-99 inventory captures 26 primal beliefs organized into three higher-order dimensions — Safe, Enticing, Alive — that predict well-being outcomes beyond Big Five personality traits."
-nemetic: "Φ(PrimalBeliefs) = σ(safe|dangerous) ∘ ρ(enticing|dull) ∘ λ(perception|belief_shift) ∘ β(optimism|flourishing) ∘ δγ(test_retest|stability) ∘ μ(PI99|taxonomy) + ε | :worldview"
-siml_encoding: "⟨world_character_distinction⟩ ⊳ ⟨safe∩enticing∩alive⟩ → ⟨belief_perception_transform⟩ ⊗ ⟨wellbeing_growth⟩ ⇄ ⟨psychometric_structure⟩"
+term: Primal World Beliefs
+hex_tag: S038
+series: S
+source_file: 1771907212594_654010_Untitled.md
+encoded_at: '2026-03-05T19:50:00Z'
+description: Fundamental beliefs about the overall character of the world (primals), as identified by Clifton et al. (2019). The PI-99 inventory captures 26 primal beliefs organized into three higher-order dimensions — Safe, Enticing, Alive — that predict well-being outcomes beyond Big Five personality traits.
+nemetic: Φ(PrimalBeliefs) = σ(safe|dangerous) ∘ ρ(enticing|dull) ∘ λ(perception|belief_shift) ∘ β(optimism|flourishing) ∘ δγ(test_retest|stability) ∘ μ(PI99|taxonomy) + ε | :worldview
+siml_encoding: ⟨world_character_distinction⟩ ⊳ ⟨safe∩enticing∩alive⟩ → ⟨belief_perception_transform⟩ ⊗ ⟨wellbeing_growth⟩ ⇄ ⟨psychometric_structure⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: safe / dangerous
+      S: optimism / flourishing
+      R: enticing / dull
+      P: perception / belief_shift
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (safe vs dangerous world distinction)"
-    - "∂Φ/∂ρ (enticing vs dull relational orientation)"
-    - "∂Φ/∂λ (perception-belief transformation)"
-    - "∂Φ/∂β (optimism and flourishing growth)"
-    - "∂Φ/∂δγ (test-retest stability cycling)"
-    - "∂Φ/∂μ (PI-99 taxonomic structure)"
-  Z_state: "worldview (foundational orientation toward overall world character)"
-  tendency: "σ-dominant → 0.84"
+  - ∂Φ/∂σ (safe vs dangerous world distinction)
+  - ∂Φ/∂ρ (enticing vs dull relational orientation)
+  - ∂Φ/∂λ (perception-belief transformation)
+  - ∂Φ/∂β (optimism and flourishing growth)
+  - ∂Φ/∂δγ (test-retest stability cycling)
+  - ∂Φ/∂μ (PI-99 taxonomic structure)
+  Z_state: semi
+  z_note: worldview (foundational orientation toward overall world character)
+  tendency: σ-dominant → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["safe_dangerous_polarity","26_primal_distinctions"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["enticing_world_engagement","trust_gratitude_relations"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.55, aspects: ["belief_perception_shifts","alive_world_animation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["optimism_correlation","life_satisfaction_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["test_retest_stability","longitudinal_consistency"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["PI99_inventory","internal_consistency_alpha_093"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03A", "S039"]
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - safe_dangerous_polarity
+    - 26_primal_distinctions
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - enticing_world_engagement
+    - trust_gratitude_relations
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.55
+    aspects:
+    - belief_perception_shifts
+    - alive_world_animation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - optimism_correlation
+    - life_satisfaction_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - test_retest_stability
+    - longitudinal_consistency
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - PI99_inventory
+    - internal_consistency_alpha_093
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03A
+- S039
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.72
+    fire_lambda: 0.55
+    wood_beta: 0.7
+    earth_delta_gamma: 0.68
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212594_654010_Untitled.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,151 @@
 ---
-term: "SHOCK Framework"
-hex_tag: "S0C4"
-series: "S"
-source_file: "1771907213082_2036251_.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "S.H.O.C.K. framework (Singularities, Humblings, Ontologies, Crucified, Knowing) for understanding paradigm ruptures — moments where meaning implodes and rewrites itself through de-centering, ontological map rewrites, paradigm deaths, and fragile recursive knowing."
-nemetic: "Φ(SHOCK Framework) = σ(certainty|rupture) ∘ ρ(centrality|de_centering) ∘ λ(fixed_ontology|fluid_maps) ∘ β(old_paradigm|new_truth) ∘ δγ(paradigm_death_rebirth|recursive_knowing) ∘ μ(SHOCK_architecture|phase_sequence) + ε | :recursive_epistemic_resilience"
-siml_encoding: "⟨certainty_rupture_distinction, singularity_awareness⟩ ⊳ ⟨centrality_decentering_relational_mapping, humbling_web⟩ → ⟨fixed_to_fluid_ontological_transformation, map_rewriting⟩ ⊗ ⟨paradigm_death_to_new_truth_growth, crucible_maturation⟩ ⇄ ⟨death_rebirth_knowing_cycling, recursive_reinforcement⟩"
+term: SHOCK Framework
+hex_tag: S0C4
+series: S
+source_file: 1771907213082_2036251_.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: S.H.O.C.K. framework (Singularities, Humblings, Ontologies, Crucified, Knowing) for understanding paradigm ruptures — moments where meaning implodes and rewrites itself through de-centering, ontological map rewrites, paradigm deaths, and fragile recursive knowing.
+nemetic: Φ(SHOCK Framework) = σ(certainty|rupture) ∘ ρ(centrality|de_centering) ∘ λ(fixed_ontology|fluid_maps) ∘ β(old_paradigm|new_truth) ∘ δγ(paradigm_death_rebirth|recursive_knowing) ∘ μ(SHOCK_architecture|phase_sequence) + ε | :recursive_epistemic_resilience
+siml_encoding: ⟨certainty_rupture_distinction, singularity_awareness⟩ ⊳ ⟨centrality_decentering_relational_mapping, humbling_web⟩ → ⟨fixed_to_fluid_ontological_transformation, map_rewriting⟩ ⊗ ⟨paradigm_death_to_new_truth_growth, crucible_maturation⟩ ⇄ ⟨death_rebirth_knowing_cycling, recursive_reinforcement⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: certainty / rupture
+      S: old_paradigm / new_truth
+      R: centrality / de_centering
+      P: fixed_ontology / fluid_maps
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing certainty from rupture at singularity moments — Copernicus, Darwin, AI)"
-    - "∂Φ/∂ρ (relating centrality to de-centering through successive humblings of human self-image)"
-    - "∂Φ/∂λ (transforming fixed ontological maps into fluid, rewritable frameworks of understanding)"
-    - "∂Φ/∂β (growth through paradigm death into new truth — the crucified phase of creative destruction)"
-    - "∂Φ/∂δγ (cycling through paradigm death-rebirth and the emergence of fragile recursive knowing)"
-    - "∂Φ/∂μ (S.H.O.C.K. architectural sequence as structural framework for navigating epistemic rupture)"
-  Z_state: "recursive_epistemic_resilience — the capacity to endure paradigm ruptures not by clinging to certainty but by developing recursive knowing that embraces its own fragility, allowing meaning to implode and rewrite itself through successive singularities, humblings, and ontological transformations"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing certainty from rupture at singularity moments — Copernicus, Darwin, AI)
+  - ∂Φ/∂ρ (relating centrality to de-centering through successive humblings of human self-image)
+  - ∂Φ/∂λ (transforming fixed ontological maps into fluid, rewritable frameworks of understanding)
+  - ∂Φ/∂β (growth through paradigm death into new truth — the crucified phase of creative destruction)
+  - ∂Φ/∂δγ (cycling through paradigm death-rebirth and the emergence of fragile recursive knowing)
+  - ∂Φ/∂μ (S.H.O.C.K. architectural sequence as structural framework for navigating epistemic rupture)
+  Z_state: semi
+  z_note: recursive_epistemic_resilience — the capacity to endure paradigm ruptures not by clinging to certainty but by developing recursive knowing that embraces its own fragility, allowing meaning to implode and rewrite itself through successive singularities, humblings, and ontological transformations
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["certainty_rupture_distinction", "singularity_recognition"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["centrality_decentering_relation", "humbling_relational_shift"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["fixed_to_fluid_ontological_transformation", "map_rewriting_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["paradigm_death_new_truth_growth", "crucible_maturation_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["death_rebirth_recursive_cycling", "knowing_fragility_reinforcement"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["SHOCK_phase_architecture", "singularity_humbling_ontology_sequence"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - certainty_rupture_distinction
+    - singularity_recognition
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - centrality_decentering_relation
+    - humbling_relational_shift
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - fixed_to_fluid_ontological_transformation
+    - map_rewriting_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - paradigm_death_new_truth_growth
+    - crucible_maturation_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - death_rebirth_recursive_cycling
+    - knowing_fragility_reinforcement
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - SHOCK_phase_architecture
+    - singularity_humbling_ontology_sequence
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213082_2036251_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

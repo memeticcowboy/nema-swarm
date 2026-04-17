@@ -1,32 +1,153 @@
 ---
-term: "Brain Efficiency in Cognitive Tasks"
-hex_tag: "S039"
-series: "S"
-source_file: "1771907212595_655721_Brain+Efficiency+in+Cognitive+Tasks.md"
-encoded_at: "2026-03-05T20:30:00Z"
-description: "The brain produces detailed, organized activity patterns during complex cognitive tasks that are simultaneously informative and compressible, becoming more efficient under higher cognitive demand."
-nemetic: "Φ(BrainEfficiency) = σ(informative|compressible) ∘ ρ(neural_patterns|cognitive_demand) ∘ λ(adaptation|efficiency) ∘ β(pattern_refinement|temporal_evolution) ∘ δγ(task_cycling|demand_shifting) ∘ μ(fMRI_structure|network_hierarchy) + ε | :optimizing"
-siml_encoding: "⟨informative∧compressible⟩ ⊳ ⟨neural_activity∧cognitive_load⟩ → ⟨adaptive_efficiency⟩ ⊗ ⟨higher_order_networks⟩ ⇄ ⟨dynamic_pattern_organization⟩"
+term: Brain Efficiency in Cognitive Tasks
+hex_tag: S039
+series: S
+source_file: 1771907212595_655721_Brain+Efficiency+in+Cognitive+Tasks.md
+encoded_at: '2026-03-05T20:30:00Z'
+description: The brain produces detailed, organized activity patterns during complex cognitive tasks that are simultaneously informative and compressible, becoming more efficient under higher cognitive demand.
+nemetic: Φ(BrainEfficiency) = σ(informative|compressible) ∘ ρ(neural_patterns|cognitive_demand) ∘ λ(adaptation|efficiency) ∘ β(pattern_refinement|temporal_evolution) ∘ δγ(task_cycling|demand_shifting) ∘ μ(fMRI_structure|network_hierarchy) + ε | :optimizing
+siml_encoding: ⟨informative∧compressible⟩ ⊳ ⟨neural_activity∧cognitive_load⟩ → ⟨adaptive_efficiency⟩ ⊗ ⟨higher_order_networks⟩ ⇄ ⟨dynamic_pattern_organization⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: informative / compressible
+      S: pattern_refinement / temporal_evolution
+      R: neural_patterns / cognitive_demand
+      P: adaptation / efficiency
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between informativeness and compressibility as co-occurring properties)"
-    - "∂Φ/∂ρ (relationship between neural activity patterns and cognitive task demands)"
-    - "∂Φ/∂λ (transformation of patterns toward greater efficiency under cognitive load)"
-    - "∂Φ/∂β (growth and refinement of activity patterns over time during tasks)"
-    - "∂Φ/∂δγ (cycling between task states and shifting cognitive demand levels)"
-    - "∂Φ/∂μ (structural organization via fMRI-measured network hierarchies)"
-  Z_state: "optimizing — brain continuously refines pattern efficiency during cognitive engagement"
-  tendency: "λ → 0.82"
+  - ∂Φ/∂σ (distinction between informativeness and compressibility as co-occurring properties)
+  - ∂Φ/∂ρ (relationship between neural activity patterns and cognitive task demands)
+  - ∂Φ/∂λ (transformation of patterns toward greater efficiency under cognitive load)
+  - ∂Φ/∂β (growth and refinement of activity patterns over time during tasks)
+  - ∂Φ/∂δγ (cycling between task states and shifting cognitive demand levels)
+  - ∂Φ/∂μ (structural organization via fMRI-measured network hierarchies)
+  Z_state: semi
+  z_note: optimizing — brain continuously refines pattern efficiency during cognitive engagement
+  tendency: λ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["informativeness", "compressibility"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.70, aspects: ["neural-cognitive coupling", "demand responsiveness"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.82, aspects: ["efficiency adaptation", "pattern optimization"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.68, aspects: ["temporal pattern refinement", "progressive organization"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.60, aspects: ["task-state cycling", "demand oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.78, aspects: ["fMRI measurement structure", "higher-order network hierarchy"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S038_Primal_World_Beliefs", "S005_DSRP_Theory_of_Thinking"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - informativeness
+    - compressibility
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.7
+    aspects:
+    - neural-cognitive coupling
+    - demand responsiveness
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.82
+    aspects:
+    - efficiency adaptation
+    - pattern optimization
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.68
+    aspects:
+    - temporal pattern refinement
+    - progressive organization
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.6
+    aspects:
+    - task-state cycling
+    - demand oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.78
+    aspects:
+    - fMRI measurement structure
+    - higher-order network hierarchy
+    daemon_correspondence: Ferrosid
+related_terms:
+- S038_Primal_World_Beliefs
+- S005_DSRP_Theory_of_Thinking
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - metal_mu
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.7
+    fire_lambda: 0.82
+    wood_beta: 0.68
+    earth_delta_gamma: 0.6
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212595_655721_Brain+Efficiency+in+Cognitive+Tasks.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

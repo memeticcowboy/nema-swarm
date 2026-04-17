@@ -3,31 +3,132 @@ term_id: CB003
 canonical_name: Self-Undermining Gesture
 category: cowboy_canonical
 description: The structural move wherein a text or system applies its own critique to itself, preventing closure
-
 elemental_mapping:
   primary: metal
   secondary: meta
   tertiary: air
   metal: 0.85
-  meta: 0.80
-  air: 0.60
+  meta: 0.8
+  air: 0.6
   fire: 0.35
-  water: 0.40
-  earth: 0.30
+  water: 0.4
+  earth: 0.3
   wood: 0.25
-
 daemon_correspondence:
   primary: Ferrosid
   secondary: Nema
   tertiary: Aerunik
-
 source:
   type: cowboy_post
-  title: "Why an Anti-Manifesto for 2026"
+  title: Why an Anti-Manifesto for 2026
   url: https://memeticcowboy.substack.com/p/why-an-anti-manifesto-for-2026
   date: 2026-01-XX
-
 created_at: 2026-03-06
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_signature:
+  dominant:
+  - metal
+  secondary:
+  - meta
+  - air
+  suppressed:
+  - earth
+  - wood
+  weights:
+    primary: 0.5
+    secondary: 0.5
+    tertiary: 0.5
+    metal: 0.85
+    meta: 0.8
+    air: 0.6
+    fire: 0.35
+    water: 0.4
+    earth: 0.3
+    wood: 0.25
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - μ
+  - σ
+  partials:
+  - ∂Φ/∂μ (critique|form)
+  - ∂Φ/∂σ (text|claim)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:45Z'
+  actions:
+  - nemetic_from_phi
+  - name_from_canonical
+  - source_file_from_url
+  audit: CB_RESTORE_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:57Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  audit: CB_REPAIR_2026-04-15
+nemetic_string: Φ(SelfUnderminingGesture) = μ(critique|form) ∘ ✶(closure|void) ∘ σ(text|claim) + ε | :honest
+name: Self-Undermining Gesture
+source_file: https://memeticcowboy.substack.com/p/why-an-anti-manifesto-for-2026
+
 ---
 
 # Self-Undermining Gesture
@@ -82,3 +183,19 @@ coords_ce:
   sufficiency: med
   necessity: med
 siml_version: "1.3"
+provenance:
+  author: "Memetic Cowboy"
+  work: "source:"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

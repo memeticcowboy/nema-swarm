@@ -1,83 +1,153 @@
 ---
-term: "Neoplatonism and Hypatia's Legacy"
-hex_tag: "#C110"
-nemetic: "Φ(NeoplatonismHypatia) = σ(TheOne|emanation) ∘ ρ(intellect|soul) ∘ λ(contemplation|transcendence) ∘ β(inquiry|wisdom) ∘ δγ(freedom|dogma) ∘ μ(truth|constraint) + ε | :intellectual_autonomy"
-siml_encoding: "⟨Intellect|embodied⟩ ⊳ ⟨Truth|transcendent⟩ → ⟨Hypatia|teaching⟩ ⊗ ⟨Freedom|struggling⟩ ⇄ ⟨Legacy|enduring⟩"
+term: Neoplatonism and Hypatia's Legacy
+hex_tag: '#C110'
+nemetic: Φ(NeoplatonismHypatia) = σ(TheOne|emanation) ∘ ρ(intellect|soul) ∘ λ(contemplation|transcendence) ∘ β(inquiry|wisdom) ∘ δγ(freedom|dogma) ∘ μ(truth|constraint) + ε | :intellectual_autonomy
+siml_encoding: ⟨Intellect|embodied⟩ ⊳ ⟨Truth|transcendent⟩ → ⟨Hypatia|teaching⟩ ⊗ ⟨Freedom|struggling⟩ ⇄ ⟨Legacy|enduring⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between 'The One' as ultimate source and its emanations into multiplicity; the logical separation of transcendent unity from material diversity)"
-    - "∂Φ/∂ρ (relational flow between intellect and soul; the channel connecting rational inquiry to spiritual ascent)"
-    - "∂Φ/∂λ (transformative spark when contemplation ignites transcendence; the catalytic moment of intellectual reasoning becoming divine connection)"
-    - "∂Φ/∂β (developmental cycle between philosophical inquiry and accumulated wisdom; the organic growth of understanding through sustained practice)"
-    - "∂Φ/∂δγ (cyclical oscillation between intellectual freedom and societal dogma; the rhythm of autonomous thought and constraining orthodoxy)"
-    - "∂Φ/∂μ (boundary permeability between transcendent truth and political constraint; the threshold where philosophical pursuit meets mortal danger)"
-  Z_state: "intellectual_autonomy (boundaries between intellect and spirit dissolve through contemplation; individual inquiry and universal truth converge into embodied wisdom)"
-  tendency: "Inquiry/Freedom → 0.78 (strong drive toward transcendent understanding balanced by recognition of societal constraints; achieving philosophical wisdom requires both rigorous intellect and courageous autonomy)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between 'The One' as ultimate source and its emanations into multiplicity; the logical separation of transcendent unity from material diversity)
+  - ∂Φ/∂ρ (relational flow between intellect and soul; the channel connecting rational inquiry to spiritual ascent)
+  - ∂Φ/∂λ (transformative spark when contemplation ignites transcendence; the catalytic moment of intellectual reasoning becoming divine connection)
+  - ∂Φ/∂β (developmental cycle between philosophical inquiry and accumulated wisdom; the organic growth of understanding through sustained practice)
+  - ∂Φ/∂δγ (cyclical oscillation between intellectual freedom and societal dogma; the rhythm of autonomous thought and constraining orthodoxy)
+  - ∂Φ/∂μ (boundary permeability between transcendent truth and political constraint; the threshold where philosophical pursuit meets mortal danger)
+  Z_state: semi
+  z_note: intellectual_autonomy (boundaries between intellect and spirit dissolve through contemplation; individual inquiry and universal truth converge into embodied wisdom)
+  tendency: Inquiry/Freedom → 0.78 (strong drive toward transcendent understanding balanced by recognition of societal constraints; achieving philosophical wisdom requires both rigorous intellect and courageous autonomy)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary: I
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: TheOne / emanation
+      S: inquiry / wisdom
+      R: intellect / soul
+      P: contemplation / transcendence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: single
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "categorical distinction between 'The One' and its emanations"
-      - "logical structure of Neoplatonic metaphysical hierarchy"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between 'The One' and its emanations
+    - logical structure of Neoplatonic metaphysical hierarchy
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between intellect and soul"
-      - "relational dynamics connecting rational inquiry to spiritual ascent"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between intellect and soul
+    - relational dynamics connecting rational inquiry to spiritual ascent
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "transformative spark of contemplation igniting transcendence"
-      - "energetic drive to ascend from material to divine understanding"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of contemplation igniting transcendence
+    - energetic drive to ascend from material to divine understanding
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.75
     aspects:
-      - "organic growth of wisdom through sustained philosophical practice"
-      - "developmental cycle between learning and teaching"
-    daemon_correspondence: "Arboriel"
+    - organic growth of wisdom through sustained philosophical practice
+    - developmental cycle between learning and teaching
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in the tension between intellectual freedom and societal dogma"
-      - "cyclical struggle for autonomy against constraining orthodoxy"
-    daemon_correspondence: "Humavita"
+    - grounding in the tension between intellectual freedom and societal dogma
+    - cyclical struggle for autonomy against constraining orthodoxy
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural boundaries between transcendent truth and political constraint"
-      - "discernment between philosophical safety and dangerous inquiry"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between transcendent truth and political constraint
+    - discernment between philosophical safety and dangerous inquiry
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the relationship between 'The One' and its emanations? What categorical cuts separate transcendent unity from material multiplicity?"
-  ≈: "What flows between intellect and soul? How does the relational dynamic connect rational inquiry to spiritual ascent?"
-  ▲: "Where does the spark of transcendence ignite through contemplation? What catalyzes the transformation from intellectual reasoning to divine connection?"
-  𐂷: "What forms of growth emerge from sustained philosophical practice? What developmental potential exists between inquiry and wisdom?"
-  ☷: "What sustains the ground of intellectual freedom against societal dogma? What are the cyclical returns between autonomy and constraint?"
-  ⛨: "What structures contain the boundary between philosophical pursuit and mortal danger? What thresholds separate safe inquiry from risky truth-seeking?"
-context_note: "Neoplatonism and Hypatia's Legacy examines the ancient philosophical school that sought ultimate reality through intellectual and spiritual means. Key concepts include 'The One' as the transcendent source of all existence, the process of emanation flowing from unity to multiplicity, and the intellect-soul connection enabling spiritual ascent. Hypatia of Alexandria embodied this tradition, teaching that wisdom in any field—mathematics, science, or philosophy—brings one closer to divine truth. Her tragic death symbolizes the eternal tension between intellectual freedom and societal/religious dogma. The analysis reveals how Neoplatonism integrated classical thought with spiritual insight, influencing early Christian theology while maintaining commitment to rational inquiry. Hypatia's legacy serves as a poignant reminder of the risks faced by intellectuals who challenge established beliefs, and the ongoing struggle to protect intellectual autonomy in the face of constraining orthodoxies."
-source_file: "1771907212595_655808_Neoplatonism+and+Hypatia%27s+Legacy.md"
----
+  ∴: How do we classify the relationship between 'The One' and its emanations? What categorical cuts separate transcendent unity from material multiplicity?
+  ≈: What flows between intellect and soul? How does the relational dynamic connect rational inquiry to spiritual ascent?
+  ▲: Where does the spark of transcendence ignite through contemplation? What catalyzes the transformation from intellectual reasoning to divine connection?
+  𐂷: What forms of growth emerge from sustained philosophical practice? What developmental potential exists between inquiry and wisdom?
+  ☷: What sustains the ground of intellectual freedom against societal dogma? What are the cyclical returns between autonomy and constraint?
+  ⛨: What structures contain the boundary between philosophical pursuit and mortal danger? What thresholds separate safe inquiry from risky truth-seeking?
+context_note: Neoplatonism and Hypatia's Legacy examines the ancient philosophical school that sought ultimate reality through intellectual and spiritual means. Key concepts include 'The One' as the transcendent source of all existence, the process of emanation flowing from unity to multiplicity, and the intellect-soul connection enabling spiritual ascent. Hypatia of Alexandria embodied this tradition, teaching that wisdom in any field—mathematics, science, or philosophy—brings one closer to divine truth. Her tragic death symbolizes the eternal tension between intellectual freedom and societal/religious dogma. The analysis reveals how Neoplatonism integrated classical thought with spiritual insight, influencing early Christian theology while maintaining commitment to rational inquiry. Hypatia's legacy serves as a poignant reminder of the risks faced by intellectuals who challenge established beliefs, and the ongoing struggle to protect intellectual autonomy in the face of constraining orthodoxies.
+source_file: 1771907212595_655808_Neoplatonism+and+Hypatia%27s+Legacy.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+provenance:
+  source_file: "1771907212595_655808_Neoplatonism+and+Hypatia%27s+Legacy.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

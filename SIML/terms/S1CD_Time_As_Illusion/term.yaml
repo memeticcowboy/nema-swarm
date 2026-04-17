@@ -1,32 +1,151 @@
 ---
-term: "Time as Illusion: Quantum Proposals"
-hex_tag: "S1CD"
-series: "S"
-source_file: "1771907213803_2701187_Exploring+Time+as+an+Illusion%3A+Insights+and+Proposals.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Time remains a mystery in physics, with some proposing it is an illusion. The Page-Wootters mechanism suggests time emerges from a timeless universe through quantum entanglement. The act of measurement may be key: the arrow of time as a record of what has been measured, with black holes potentially serving as the universe's quantum clock."
-nemetic: "Φ(Time Illusion) = σ(temporal|timeless) ∘ ρ(entanglement|emergence) ∘ λ(wave_function|measurement) ∘ β(quantum_clock|classical_time) ∘ δγ(entropy_increase|arrow_reversal) ∘ μ(relativity|quantum_mechanics) + ε | :emergent_temporality"
-siml_encoding: "⟨temporal, timeless⟩ ⊳ ⟨entanglement, emergence⟩ → ⟨wave_function, measurement⟩ ⊗ ⟨quantum_clock, classical_time⟩ ⇄ ⟨relativity, quantum_mechanics⟩"
+term: 'Time as Illusion: Quantum Proposals'
+hex_tag: S1CD
+series: S
+source_file: 1771907213803_2701187_Exploring+Time+as+an+Illusion%3A+Insights+and+Proposals.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'Time remains a mystery in physics, with some proposing it is an illusion. The Page-Wootters mechanism suggests time emerges from a timeless universe through quantum entanglement. The act of measurement may be key: the arrow of time as a record of what has been measured, with black holes potentially serving as the universe''s quantum clock.'
+nemetic: Φ(Time Illusion) = σ(temporal|timeless) ∘ ρ(entanglement|emergence) ∘ λ(wave_function|measurement) ∘ β(quantum_clock|classical_time) ∘ δγ(entropy_increase|arrow_reversal) ∘ μ(relativity|quantum_mechanics) + ε | :emergent_temporality
+siml_encoding: ⟨temporal, timeless⟩ ⊳ ⟨entanglement, emergence⟩ → ⟨wave_function, measurement⟩ ⊗ ⟨quantum_clock, classical_time⟩ ⇄ ⟨relativity, quantum_mechanics⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: temporal / timeless
+      S: quantum_clock / classical_time
+      R: entanglement / emergence
+      P: wave_function / measurement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes temporal experience from a potentially timeless universe. The fundamental question is whether time is real or emergent from deeper atemporal processes."
-    - "∂Φ/∂ρ — Water maps the relationship between quantum entanglement and temporal emergence. The Page-Wootters mechanism proposes time emerging from entanglement in a timeless whole."
-    - "∂Φ/∂λ — Fire transforms the understanding of time through measurement: the act of collapsing quantum possibilities into definite values may generate the arrow of time."
-    - "∂Φ/∂β — Wood tracks the growth of testing proposals: quantum clocks, black holes as universal clocks, and experimental approaches to validating the Page-Wootters mechanism."
-    - "∂Φ/∂δγ — Earth cycles between entropy increase (second law of thermodynamics) and the possibility of arrow reversal, questioning why time appears to flow in one direction."
-    - "∂Φ/∂μ — Metal structures the incompatibility between Einstein's relativity and quantum mechanics as competing frameworks for understanding time."
-  Z_state: "emergent_temporality — time as emergent property from a fundamentally timeless quantum universe, generated through measurement and entanglement"
-  tendency: "σ → 0.80"
+  - ∂Φ/∂σ — Air distinguishes temporal experience from a potentially timeless universe. The fundamental question is whether time is real or emergent from deeper atemporal processes.
+  - ∂Φ/∂ρ — Water maps the relationship between quantum entanglement and temporal emergence. The Page-Wootters mechanism proposes time emerging from entanglement in a timeless whole.
+  - '∂Φ/∂λ — Fire transforms the understanding of time through measurement: the act of collapsing quantum possibilities into definite values may generate the arrow of time.'
+  - '∂Φ/∂β — Wood tracks the growth of testing proposals: quantum clocks, black holes as universal clocks, and experimental approaches to validating the Page-Wootters mechanism.'
+  - ∂Φ/∂δγ — Earth cycles between entropy increase (second law of thermodynamics) and the possibility of arrow reversal, questioning why time appears to flow in one direction.
+  - ∂Φ/∂μ — Metal structures the incompatibility between Einstein's relativity and quantum mechanics as competing frameworks for understanding time.
+  Z_state: permeable
+  z_note: emergent_temporality — time as emergent property from a fundamentally timeless quantum universe, generated through measurement and entanglement
+  tendency: σ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["temporal-timeless distinction", "illusion hypothesis"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["entanglement-emergence relation", "quantum connectedness"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["measurement transformation", "wave function collapse"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.62, aspects: ["experimental proposals", "quantum clock research"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["entropy cycling", "arrow of time"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["relativity-QM framework", "incompatibility structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - temporal-timeless distinction
+    - illusion hypothesis
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - entanglement-emergence relation
+    - quantum connectedness
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - measurement transformation
+    - wave function collapse
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.62
+    aspects:
+    - experimental proposals
+    - quantum clock research
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - entropy cycling
+    - arrow of time
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - relativity-QM framework
+    - incompatibility structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.72
+    fire_lambda: 0.7
+    wood_beta: 0.62
+    earth_delta_gamma: 0.68
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213803_2701187_Exploring+Time+as+an+Illusion%3A+Insights+and+Proposals.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

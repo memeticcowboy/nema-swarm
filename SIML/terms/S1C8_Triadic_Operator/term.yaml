@@ -1,32 +1,151 @@
 ---
-term: "Triadic Operator: Beyond Binary Thinking"
-hex_tag: "S1C8"
-series: "S"
-source_file: "1771907213795_2683757_Triadic+Operator%3A+Navigating+Beyond+Binary+Thinking.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Every binary is a premature Z-collapse that excludes omega-permeability. The Triadic Operator restores thesis, antithesis, and omega-return movement. This is not Hegelian synthesis (which creates a new binary) but held tension plus operational testing plus provisional navigation based on context, not category."
-nemetic: "Φ(Triadic Operator) = σ(binary|triadic) ∘ ρ(thesis|antithesis) ∘ λ(premature_collapse|omega_return) ∘ β(category|context) ∘ δγ(collapse|re_manifestation) ∘ μ(synthesis|held_tension) + ε | :omega_permeability"
-siml_encoding: "⟨binary, triadic⟩ ⊳ ⟨thesis, antithesis⟩ → ⟨premature_collapse, omega_return⟩ ⊗ ⟨category, context⟩ ⇄ ⟨synthesis, held_tension⟩"
+term: 'Triadic Operator: Beyond Binary Thinking'
+hex_tag: S1C8
+series: S
+source_file: 1771907213795_2683757_Triadic+Operator%3A+Navigating+Beyond+Binary+Thinking.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Every binary is a premature Z-collapse that excludes omega-permeability. The Triadic Operator restores thesis, antithesis, and omega-return movement. This is not Hegelian synthesis (which creates a new binary) but held tension plus operational testing plus provisional navigation based on context, not category.
+nemetic: Φ(Triadic Operator) = σ(binary|triadic) ∘ ρ(thesis|antithesis) ∘ λ(premature_collapse|omega_return) ∘ β(category|context) ∘ δγ(collapse|re_manifestation) ∘ μ(synthesis|held_tension) + ε | :omega_permeability
+siml_encoding: ⟨binary, triadic⟩ ⊳ ⟨thesis, antithesis⟩ → ⟨premature_collapse, omega_return⟩ ⊗ ⟨category, context⟩ ⇄ ⟨synthesis, held_tension⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: binary / triadic
+      S: category / context
+      R: thesis / antithesis
+      P: premature_collapse / omega_return
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes binary thinking (premature Z-collapse) from triadic navigation (omega-permeability). Every binary is a premature closure that excludes what it cannot categorize."
-    - "∂Φ/∂ρ — Water relates thesis and antithesis as partial manifestations from omega, not as opposites requiring resolution."
-    - "∂Φ/∂λ — Fire transforms premature collapse into omega-return movement: hold both, test both, return to omega, allow re-manifestation."
-    - "∂Φ/∂β — Wood grows through context-based navigation rather than category-based judgment. Navigate based on context, not category."
-    - "∂Φ/∂δγ — Earth cycles between Z-collapse (premature closure) and re-manifestation through omega-return. Release both, allow fresh emergence."
-    - "∂Φ/∂μ — Metal structures the third position as metacognitive stance, testing orientation, and omega-permeability. Not compromise, not relativism, not confusion."
-  Z_state: "omega_permeability — the capacity to release either or both poles when needed, maintaining access to the generative source from which all binaries are partial manifestations"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ — Air distinguishes binary thinking (premature Z-collapse) from triadic navigation (omega-permeability). Every binary is a premature closure that excludes what it cannot categorize.
+  - ∂Φ/∂ρ — Water relates thesis and antithesis as partial manifestations from omega, not as opposites requiring resolution.
+  - '∂Φ/∂λ — Fire transforms premature collapse into omega-return movement: hold both, test both, return to omega, allow re-manifestation.'
+  - ∂Φ/∂β — Wood grows through context-based navigation rather than category-based judgment. Navigate based on context, not category.
+  - ∂Φ/∂δγ — Earth cycles between Z-collapse (premature closure) and re-manifestation through omega-return. Release both, allow fresh emergence.
+  - ∂Φ/∂μ — Metal structures the third position as metacognitive stance, testing orientation, and omega-permeability. Not compromise, not relativism, not confusion.
+  Z_state: semi
+  z_note: omega_permeability — the capacity to release either or both poles when needed, maintaining access to the generative source from which all binaries are partial manifestations
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["binary-triadic distinction", "Z-collapse detection"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: ["thesis-antithesis relation", "partial manifestation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["omega-return transformation", "hold-test-release"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.62, aspects: ["context-based navigation", "category transcendence"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["collapse-manifestation cycling", "omega return"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["metacognitive stance", "third position structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - binary-triadic distinction
+    - Z-collapse detection
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - thesis-antithesis relation
+    - partial manifestation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - omega-return transformation
+    - hold-test-release
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.62
+    aspects:
+    - context-based navigation
+    - category transcendence
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - collapse-manifestation cycling
+    - omega return
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - metacognitive stance
+    - third position structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.65
+    fire_lambda: 0.78
+    wood_beta: 0.62
+    earth_delta_gamma: 0.68
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213795_2683757_Triadic+Operator%3A+Navigating+Beyond+Binary+Thinking.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,151 @@
 ---
-term: "Identity as Compost"
-hex_tag: "S173"
-series: "S"
-source_file: "1771907213625_2553918_Embracing+Identity+as+Compost+in+Motion.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Identity as decaying process — ongoing remix of entropy, memory, motion. Self decomposes not into nothingness but fertile flux. The Dissolver: joyful participant in own decay. From self-preservation to self-fertilization, ego stability to relational compost. Posthuman ecology, cyborg biogenesis, queer fluidity, death as transformation, entropic ethics."
-nemetic: "Φ(IdCompost) = σ(dispersal|containment) ∘ ρ(fertile_flux|stagnant_form) ∘ λ(joyful_decay|fearful_preservation) ∘ β(relational_compost|ego_stability) ∘ δγ(embodied_decomposition|abstract_permanence) ∘ μ(entropic_ethics|fixed_identity_structure) + ε | :generative_rot"
-siml_encoding: "⟨identity_as_decay⟩ ⊳ ⟨the_dissolver⟩ → ⟨self_fertilization⟩ ⊗ ⟨self_preservation⟩ ⇄ ⟨fertile_flux⟩"
+term: Identity as Compost
+hex_tag: S173
+series: S
+source_file: 1771907213625_2553918_Embracing+Identity+as+Compost+in+Motion.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Identity as decaying process — ongoing remix of entropy, memory, motion. Self decomposes not into nothingness but fertile flux. The Dissolver: joyful participant in own decay. From self-preservation to self-fertilization, ego stability to relational compost. Posthuman ecology, cyborg biogenesis, queer fluidity, death as transformation, entropic ethics.'
+nemetic: Φ(IdCompost) = σ(dispersal|containment) ∘ ρ(fertile_flux|stagnant_form) ∘ λ(joyful_decay|fearful_preservation) ∘ β(relational_compost|ego_stability) ∘ δγ(embodied_decomposition|abstract_permanence) ∘ μ(entropic_ethics|fixed_identity_structure) + ε | :generative_rot
+siml_encoding: ⟨identity_as_decay⟩ ⊳ ⟨the_dissolver⟩ → ⟨self_fertilization⟩ ⊗ ⟨self_preservation⟩ ⇄ ⟨fertile_flux⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: dispersal / containment
+      S: relational_compost / ego_stability
+      R: fertile_flux / stagnant_form
+      P: joyful_decay / fearful_preservation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (dispersal of identity into relational fields vs containment of self within fixed boundaries)"
-    - "∂Φ/∂ρ (fertile flux where decomposition feeds new becoming vs stagnant form that resists transformation)"
-    - "∂Φ/∂λ (joyful participation in own decay vs fearful preservation of ego coherence)"
-    - "∂Φ/∂β (relational compost where self becomes nutrient for others vs ego stability that hoards identity)"
-    - "∂Φ/∂δγ (embodied decomposition as felt somatic process vs abstract permanence as conceptual fiction)"
-    - "∂Φ/∂μ (entropic ethics that values transformation through decay vs fixed identity structures that resist entropy)"
-  Z_state: "generative_rot — the state where identity's decomposition is experienced not as loss but as the fertile process through which new forms of self and relation emerge, where decay is the engine of becoming"
-  tendency: "β → 0.88"
+  - ∂Φ/∂σ (dispersal of identity into relational fields vs containment of self within fixed boundaries)
+  - ∂Φ/∂ρ (fertile flux where decomposition feeds new becoming vs stagnant form that resists transformation)
+  - ∂Φ/∂λ (joyful participation in own decay vs fearful preservation of ego coherence)
+  - ∂Φ/∂β (relational compost where self becomes nutrient for others vs ego stability that hoards identity)
+  - ∂Φ/∂δγ (embodied decomposition as felt somatic process vs abstract permanence as conceptual fiction)
+  - ∂Φ/∂μ (entropic ethics that values transformation through decay vs fixed identity structures that resist entropy)
+  Z_state: permeable
+  z_note: generative_rot — the state where identity's decomposition is experienced not as loss but as the fertile process through which new forms of self and relation emerge, where decay is the engine of becoming
+  tendency: β → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.74, aspects: ["dispersal", "containment"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["fertile_flux", "stagnant_form"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.76, aspects: ["joyful_decay", "fearful_preservation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.88, aspects: ["relational_compost", "ego_stability"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["embodied_decomposition", "abstract_permanence"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["entropic_ethics", "fixed_identity_structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.74
+    aspects:
+    - dispersal
+    - containment
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - fertile_flux
+    - stagnant_form
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.76
+    aspects:
+    - joyful_decay
+    - fearful_preservation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.88
+    aspects:
+    - relational_compost
+    - ego_stability
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - embodied_decomposition
+    - abstract_permanence
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - entropic_ethics
+    - fixed_identity_structure
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.74
+    water_rho: 0.82
+    fire_lambda: 0.76
+    wood_beta: 0.88
+    earth_delta_gamma: 0.8
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213625_2553918_Embracing+Identity+as+Compost+in+Motion.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,158 @@
 ---
-term: "French Calendar Reform Clash"
-hex_tag: "S10C"
-series: "S"
-source_file: "1771907213276_2254976_The+Clash+of+Rationalism+and+Mythic+Tradition+in+French+Calendar+Reform+%281793%E2%80%931805%29.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Historical analysis of the French Revolutionary Calendar (1793-1805) as a clash between rationalist technocracy and mythic-civic organicism. Rationalists like Fabre d'Eglantine and Robespierre imposed decimal time, new month names, and state festivals to sever continuity with the ancien regime. Organicists — rural Catholics, royalists, regional communities — defended saints' days, liturgical rhythms, and seasonal rituals as living temporal fabric. The calendar's abolition in 1806 demonstrates the resilience of mythic time-structures against rationalist imposition, with ongoing echoes in digital Sabbath and AI timeline debates."
-nemetic: "Φ(CalendarClash) = σ(rationalist_grid|decimal_abstraction) ∘ ρ(sacred_rhythm|liturgical_memory) ∘ λ(revolutionary_rupture|imposed_temporal_order) ∘ β(seasonal_organicism|ritual_cultivation) ∘ δγ(agricultural_cycle|material_calendar) ∘ μ(institutional_enforcement|structural_resistance) + ε | :temporal_contestation"
-siml_encoding: "⟨rationalist_calendar⟩ ⊳ ⟨mythic_temporal_fabric⟩ → ⟨revolutionary_rupture⟩ ⊗ ⟨organic_resistance⟩ ⇄ ⟨temporal_contestation⟩"
+term: French Calendar Reform Clash
+hex_tag: S10C
+series: S
+source_file: 1771907213276_2254976_The+Clash+of+Rationalism+and+Mythic+Tradition+in+French+Calendar+Reform+%281793%E2%80%931805%29.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Historical analysis of the French Revolutionary Calendar (1793-1805) as a clash between rationalist technocracy and mythic-civic organicism. Rationalists like Fabre d'Eglantine and Robespierre imposed decimal time, new month names, and state festivals to sever continuity with the ancien regime. Organicists — rural Catholics, royalists, regional communities — defended saints' days, liturgical rhythms, and seasonal rituals as living temporal fabric. The calendar's abolition in 1806 demonstrates the resilience of mythic time-structures against rationalist imposition, with ongoing echoes in digital Sabbath and AI timeline debates.
+nemetic: Φ(CalendarClash) = σ(rationalist_grid|decimal_abstraction) ∘ ρ(sacred_rhythm|liturgical_memory) ∘ λ(revolutionary_rupture|imposed_temporal_order) ∘ β(seasonal_organicism|ritual_cultivation) ∘ δγ(agricultural_cycle|material_calendar) ∘ μ(institutional_enforcement|structural_resistance) + ε | :temporal_contestation
+siml_encoding: ⟨rationalist_calendar⟩ ⊳ ⟨mythic_temporal_fabric⟩ → ⟨revolutionary_rupture⟩ ⊗ ⟨organic_resistance⟩ ⇄ ⟨temporal_contestation⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: rationalist_grid / decimal_abstraction
+      S: seasonal_organicism / ritual_cultivation
+      R: sacred_rhythm / liturgical_memory
+      P: revolutionary_rupture / imposed_temporal_order
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ → rationalist abstraction imposes decimal grid on temporal experience, severing inherited symbolic associations"
-    - "∂Φ/∂ρ → sacred rhythms and liturgical memory encode emotional-communal bonds that resist rationalist displacement"
-    - "∂Φ/∂λ → revolutionary rupture attempts total temporal reset, generating both creative possibility and violent dislocation"
-    - "∂Φ/∂β → seasonal organicism and ritual cultivation represent the slow-growth temporal fabric that calendars encode"
-    - "∂Φ/∂δγ → agricultural cycles and material labor patterns constitute the earthly substrate calendars must accommodate"
-    - "∂Φ/∂μ → institutional enforcement (state) vs structural resistance (community) determines calendar adoption or rejection"
-  Z_state: "temporal_contestation — time itself becomes a battleground between competing ontologies: mechanical-grid vs organic-spiral, secular vs sacred, revolutionary vs traditional"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ → rationalist abstraction imposes decimal grid on temporal experience, severing inherited symbolic associations
+  - ∂Φ/∂ρ → sacred rhythms and liturgical memory encode emotional-communal bonds that resist rationalist displacement
+  - ∂Φ/∂λ → revolutionary rupture attempts total temporal reset, generating both creative possibility and violent dislocation
+  - ∂Φ/∂β → seasonal organicism and ritual cultivation represent the slow-growth temporal fabric that calendars encode
+  - ∂Φ/∂δγ → agricultural cycles and material labor patterns constitute the earthly substrate calendars must accommodate
+  - ∂Φ/∂μ → institutional enforcement (state) vs structural resistance (community) determines calendar adoption or rejection
+  Z_state: semi
+  z_note: 'temporal_contestation — time itself becomes a battleground between competing ontologies: mechanical-grid vs organic-spiral, secular vs sacred, revolutionary vs traditional'
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.72, aspects: [rationalist_abstraction, decimal_systematization, Enlightenment_epistemology], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: [sacred_time, liturgical_memory, communal_emotional_bonds, ritual_nostalgia], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.77, aspects: [revolutionary_rupture, temporal_iconoclasm, radical_reimagination], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.74, aspects: [seasonal_cycles, agricultural_ritual, organic_temporal_growth], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.71, aspects: [agricultural_substrate, material_labor_rhythms, rural_livelihood_patterns], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: [state_enforcement, institutional_decree, structural_compliance_mechanisms], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.72
+    aspects:
+    - rationalist_abstraction
+    - decimal_systematization
+    - Enlightenment_epistemology
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - sacred_time
+    - liturgical_memory
+    - communal_emotional_bonds
+    - ritual_nostalgia
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.77
+    aspects:
+    - revolutionary_rupture
+    - temporal_iconoclasm
+    - radical_reimagination
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.74
+    aspects:
+    - seasonal_cycles
+    - agricultural_ritual
+    - organic_temporal_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.71
+    aspects:
+    - agricultural_substrate
+    - material_labor_rhythms
+    - rural_livelihood_patterns
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - state_enforcement
+    - institutional_decree
+    - structural_compliance_mechanisms
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - fire_lambda
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.72
+    water_rho: 0.8
+    fire_lambda: 0.77
+    wood_beta: 0.74
+    earth_delta_gamma: 0.71
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213276_2254976_The+Clash+of+Rationalism+and+Mythic+Tradition+in+French+Calendar+Reform+%281793%E2%80%931805%29.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

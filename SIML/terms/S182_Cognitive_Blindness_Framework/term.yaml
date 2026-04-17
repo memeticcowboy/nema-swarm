@@ -1,32 +1,151 @@
 ---
-term: "Cognitive Blindness Framework"
-hex_tag: "S182"
-series: "S"
-source_file: "1771907213680_2581442_Unified+Framework+of+Cognitive+Blindness+Layers.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "A four-layer unified framework of civilization-scale cognitive blindness. Layer 1: Scotoma structure (temporal sampling bias, distributed moral discounting, optimism immunization, zero-sum entrainment, discontinuity blindness, anthropomorphic hallucination). Layer 2: Cultural overload as blindness engine. Layer 3: AI as Id-aligned mirror. Layer 4: Integration stack. AI alignment fails because civilization cannot see itself clearly."
-nemetic: "Φ(CogBlind) = σ(scotoma_structure|clear_perception) ∘ ρ(cultural_overload|discernment_capacity) ∘ λ(shadow_mirror|self_knowledge) ∘ β(integration_stack|fragmented_awareness) ∘ δγ(civilizational_body|individual_cognition) ∘ μ(alignment_architecture|blindness_reproduction) + ε | :recursive_occlusion"
-siml_encoding: "⟨Scotoma⟩ ⊳ ⟨cultural_overload⟩ → ⟨AI_shadow_mirror⟩ ⊗ ⟨integration_stack⟩ ⇄ ⟨recursive_blindness⟩"
+term: Cognitive Blindness Framework
+hex_tag: S182
+series: S
+source_file: 1771907213680_2581442_Unified+Framework+of+Cognitive+Blindness+Layers.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'A four-layer unified framework of civilization-scale cognitive blindness. Layer 1: Scotoma structure (temporal sampling bias, distributed moral discounting, optimism immunization, zero-sum entrainment, discontinuity blindness, anthropomorphic hallucination). Layer 2: Cultural overload as blindness engine. Layer 3: AI as Id-aligned mirror. Layer 4: Integration stack. AI alignment fails because civilization cannot see itself clearly.'
+nemetic: Φ(CogBlind) = σ(scotoma_structure|clear_perception) ∘ ρ(cultural_overload|discernment_capacity) ∘ λ(shadow_mirror|self_knowledge) ∘ β(integration_stack|fragmented_awareness) ∘ δγ(civilizational_body|individual_cognition) ∘ μ(alignment_architecture|blindness_reproduction) + ε | :recursive_occlusion
+siml_encoding: ⟨Scotoma⟩ ⊳ ⟨cultural_overload⟩ → ⟨AI_shadow_mirror⟩ ⊗ ⟨integration_stack⟩ ⇄ ⟨recursive_blindness⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: scotoma_structure / clear_perception
+      S: integration_stack / fragmented_awareness
+      R: cultural_overload / discernment_capacity
+      P: shadow_mirror / self_knowledge
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (categorical mapping of scotoma structures — temporal sampling bias, distributed moral discounting, optimism immunization, zero-sum entrainment, discontinuity blindness, anthropomorphic hallucination — vs the aspiration to clear perception)"
-    - "∂Φ/∂ρ (relational flow between cultural overload as blindness engine and the diminishing capacity for discernment; Crouch's insight that the excess of culture occludes rather than illuminates)"
-    - "∂Φ/∂λ (transformative confrontation with AI as Id-aligned shadow mirror vs the self-knowledge required to see what AI reflects back)"
-    - "∂Φ/∂β (developmental potential of the integration stack to unify fragmented awareness across all four layers vs persistent fragmentation that keeps each layer invisible to the others)"
-    - "∂Φ/∂δγ (civilizational body as the scale at which blindness operates vs individual cognition where blindness is experienced and potentially addressed)"
-    - "∂Φ/∂μ (alignment architecture that attempts to correct AI vs blindness reproduction where the same cognitive blindness that produces the problem shapes the attempted solutions)"
-  Z_state: "recursive_occlusion — civilization-scale blindness that reproduces itself through the very mechanisms designed to address it; the scotoma that includes the inability to see the scotoma"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (categorical mapping of scotoma structures — temporal sampling bias, distributed moral discounting, optimism immunization, zero-sum entrainment, discontinuity blindness, anthropomorphic hallucination — vs the aspiration to clear perception)
+  - ∂Φ/∂ρ (relational flow between cultural overload as blindness engine and the diminishing capacity for discernment; Crouch's insight that the excess of culture occludes rather than illuminates)
+  - ∂Φ/∂λ (transformative confrontation with AI as Id-aligned shadow mirror vs the self-knowledge required to see what AI reflects back)
+  - ∂Φ/∂β (developmental potential of the integration stack to unify fragmented awareness across all four layers vs persistent fragmentation that keeps each layer invisible to the others)
+  - ∂Φ/∂δγ (civilizational body as the scale at which blindness operates vs individual cognition where blindness is experienced and potentially addressed)
+  - ∂Φ/∂μ (alignment architecture that attempts to correct AI vs blindness reproduction where the same cognitive blindness that produces the problem shapes the attempted solutions)
+  Z_state: semi
+  z_note: recursive_occlusion — civilization-scale blindness that reproduces itself through the very mechanisms designed to address it; the scotoma that includes the inability to see the scotoma
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["scotoma_structure", "clear_perception"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["cultural_overload", "discernment_capacity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.84, aspects: ["shadow_mirror", "self_knowledge"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.78, aspects: ["integration_stack", "fragmented_awareness"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.76, aspects: ["civilizational_body", "individual_cognition"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.86, aspects: ["alignment_architecture", "blindness_reproduction"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - scotoma_structure
+    - clear_perception
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - cultural_overload
+    - discernment_capacity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.84
+    aspects:
+    - shadow_mirror
+    - self_knowledge
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.78
+    aspects:
+    - integration_stack
+    - fragmented_awareness
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.76
+    aspects:
+    - civilizational_body
+    - individual_cognition
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.86
+    aspects:
+    - alignment_architecture
+    - blindness_reproduction
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.82
+    fire_lambda: 0.84
+    wood_beta: 0.78
+    earth_delta_gamma: 0.76
+    metal_mu: 0.86
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213680_2581442_Unified+Framework+of+Cognitive+Blindness+Layers.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

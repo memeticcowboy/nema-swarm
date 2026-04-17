@@ -1,81 +1,155 @@
-term: "Legalese Conveys Authority"
-hex_tag: "#C079"
-nemetic: "Φ(LegaleseAuthority) = σ(complexity|plain) ∘ ρ(authority|comprehension) ∘ λ(convention|insight) ∘ β(tradition|evolution) ∘ δγ(implicit|embodied) ∘ μ(structure|meaning) + ε | :signaling"
-siml_encoding: "⟨Language|complex⟩ ⊳ ⟨Authority|conveyed⟩ → ⟨Legalese|adopted⟩ ⊗ ⟨Comprehension|sacrificed⟩ ⇄ ⟨Power|maintained⟩"
+---
+term: Legalese Conveys Authority
+hex_tag: '#C079'
+nemetic: Φ(LegaleseAuthority) = σ(complexity|plain) ∘ ρ(authority|comprehension) ∘ λ(convention|insight) ∘ β(tradition|evolution) ∘ δγ(implicit|embodied) ∘ μ(structure|meaning) + ε | :signaling
+siml_encoding: ⟨Language|complex⟩ ⊳ ⟨Authority|conveyed⟩ → ⟨Legalese|adopted⟩ ⊗ ⟨Comprehension|sacrificed⟩ ⇄ ⟨Power|maintained⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between complex legalese and plain language; the logical separation of authoritative style from accessible communication)"
-    - "∂Φ/∂ρ (relational flow between perceived authority and actual comprehension; the channel connecting linguistic complexity to social power)"
-    - "∂Φ/∂λ (transformative spark when awareness of legalese conventions ignites critical insight; the catalytic moment of understanding authority signaling)"
-    - "∂Φ/∂β (developmental cycle between traditional legal writing and evolving plain language movements; the organic tension between preservation and reform)"
-    - "∂Φ/∂δγ (cyclical oscillation between implicit understanding of legal norms and embodied practice of writing laws; the rhythm of cultural transmission)"
-    - "∂Φ/∂μ (boundary permeability between linguistic structure and semantic meaning; the threshold where form becomes function in legal authority)"
-  Z_state: "signaling (boundaries between language form and social authority dissolve through implicit convention; complex style and power perception converge into mutual reinforcement)"
-  tendency: "Authority/Clarity → 0.70 (moderate drive toward authoritative presentation; achieving legal legitimacy requires balancing perceived power with accessible communication)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between complex legalese and plain language; the logical separation of authoritative style from accessible communication)
+  - ∂Φ/∂ρ (relational flow between perceived authority and actual comprehension; the channel connecting linguistic complexity to social power)
+  - ∂Φ/∂λ (transformative spark when awareness of legalese conventions ignites critical insight; the catalytic moment of understanding authority signaling)
+  - ∂Φ/∂β (developmental cycle between traditional legal writing and evolving plain language movements; the organic tension between preservation and reform)
+  - ∂Φ/∂δγ (cyclical oscillation between implicit understanding of legal norms and embodied practice of writing laws; the rhythm of cultural transmission)
+  - ∂Φ/∂μ (boundary permeability between linguistic structure and semantic meaning; the threshold where form becomes function in legal authority)
+  Z_state: semi
+  z_note: signaling (boundaries between language form and social authority dissolve through implicit convention; complex style and power perception converge into mutual reinforcement)
+  tendency: Authority/Clarity → 0.70 (moderate drive toward authoritative presentation; achieving legal legitimacy requires balancing perceived power with accessible communication)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: It
     secondary: We
   agency:
-    type: habitual
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: complexity / plain
+      S: tradition / evolution
+      R: authority / comprehension
+      P: convention / insight
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical classification of legalese versus plain language; logical taxonomy distinguishing authoritative style from accessible communication"
-      - "analytical distinction between center-embedded clauses and simple sentence structures; clear categorization of linguistic complexity markers"
-    daemon_correspondence: "Aerunik"
+    - categorical classification of legalese versus plain language; logical taxonomy distinguishing authoritative style from accessible communication
+    - analytical distinction between center-embedded clauses and simple sentence structures; clear categorization of linguistic complexity markers
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between perceived authority and comprehension difficulty; the relational dynamics connecting linguistic complexity to social power"
-      - "adaptive channels of implicit understanding that transmit legal writing norms across non-lawyer populations"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between perceived authority and comprehension difficulty; the relational dynamics connecting linguistic complexity to social power
+    - adaptive channels of implicit understanding that transmit legal writing norms across non-lawyer populations
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "transformative spark when awareness of legalese conventions ignites critical insight; the catalytic moment of recognizing authority signaling"
-      - "energetic drive of reform movements pushing for plain language adoption in legal contexts"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when awareness of legalese conventions ignites critical insight; the catalytic moment of recognizing authority signaling
+    - energetic drive of reform movements pushing for plain language adoption in legal contexts
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.75
     aspects:
-      - "organic growth of legal writing traditions through centuries of stylistic persistence; the unfolding of conventional forms from ancient codes to modern statutes"
-      - "developmental progression from implicit adoption to conscious critique of legalese norms"
-    daemon_correspondence: "Arboriel"
+    - organic growth of legal writing traditions through centuries of stylistic persistence; the unfolding of conventional forms from ancient codes to modern statutes
+    - developmental progression from implicit adoption to conscious critique of legalese norms
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "grounding in embodied practice of legal writing; the cyclical return between implicit rules and explicit drafting behavior"
-      - "embodied understanding that even non-lawyers access when adopting legalese in experimental contexts"
-    daemon_correspondence: "Humavita"
+    - grounding in embodied practice of legal writing; the cyclical return between implicit rules and explicit drafting behavior
+    - embodied understanding that even non-lawyers access when adopting legalese in experimental contexts
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.85
     aspects:
-      - "structural precision of center-embedding mechanisms; the architectural framework of legal syntax that creates cognitive barriers"
-      - "boundary discernment between form and meaning; the threshold where linguistic structure conveys authority independent of content"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of center-embedding mechanisms; the architectural framework of legal syntax that creates cognitive barriers
+    - boundary discernment between form and meaning; the threshold where linguistic structure conveys authority independent of content
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify legalese versus plain language? What categorical cuts separate authoritative style from accessible communication?"
-  ≈: "What flows between perceived authority and comprehension? How does linguistic complexity channel into social power?"
-  ▲: "Where does the spark of critical awareness ignite? What transforms implicit legalese adoption into conscious critique?"
-  𐂷: "What forms of legal tradition persist through time? What developmental potential lies in plain language reform?"
-  ☷: "What sustains the ground of implicit legal understanding? What are the cyclical returns between cultural norms and writing practice?"
-  ⛨: "What structures contain legal authority? What boundaries separate linguistic form from semantic meaning?"
-context_note: "Legalese Conveys Authority reveals how the convoluted language of legal documents serves not merely to communicate rules but to signal power and authority. MIT research demonstrates that center-embedded clauses and archaic structures function like 'magic spells'—implicitly understood markers of special status that even non-lawyers adopt when drafting laws. This creates a tension between comprehensibility and authority: lawyers prefer plain language versions, yet the complex style persists due to its sociolinguistic function. The phenomenon reflects deep cultural transmission of writing norms, raising questions about reform efforts since the 1970s and the possibility of making legal documents accessible without sacrificing their perceived legitimacy."
-source_file: "1771907212794_1260297_MIT+Study+Reveals+Legalese+Conveys+Authority.md"
+  ∴: How do we classify legalese versus plain language? What categorical cuts separate authoritative style from accessible communication?
+  ≈: What flows between perceived authority and comprehension? How does linguistic complexity channel into social power?
+  ▲: Where does the spark of critical awareness ignite? What transforms implicit legalese adoption into conscious critique?
+  𐂷: What forms of legal tradition persist through time? What developmental potential lies in plain language reform?
+  ☷: What sustains the ground of implicit legal understanding? What are the cyclical returns between cultural norms and writing practice?
+  ⛨: What structures contain legal authority? What boundaries separate linguistic form from semantic meaning?
+context_note: 'Legalese Conveys Authority reveals how the convoluted language of legal documents serves not merely to communicate rules but to signal power and authority. MIT research demonstrates that center-embedded clauses and archaic structures function like ''magic spells''—implicitly understood markers of special status that even non-lawyers adopt when drafting laws. This creates a tension between comprehensibility and authority: lawyers prefer plain language versions, yet the complex style persists due to its sociolinguistic function. The phenomenon reflects deep cultural transmission of writing norms, raising questions about reform efforts since the 1970s and the possibility of making legal documents accessible without sacrificing their perceived legitimacy.'
+source_file: 1771907212794_1260297_MIT+Study+Reveals+Legalese+Conveys+Authority.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.65
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212794_1260297_MIT+Study+Reveals+Legalese+Conveys+Authority.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,77 +1,153 @@
 ---
-term: "Psychological Power of Words"
-hex_tag: "#C030"
-nemetic: "Φ(PsychologicalWords) = σ(label|reality) ∘ ρ(language|thought) ∘ λ(inspiration|harm) ∘ β(self_talk|identity) ∘ δγ(internalized|authentic) ∘ μ(discourse|silence) + ε | :languaging"
-siml_encoding: "⟨Words|spoken⟩ ⊳ ⟨Mind|shaped⟩ → ⟨Self|constructed⟩ ⊗ ⟨Reality|framed⟩ ⇄ ⟨Agency|mediated⟩"
+term: Psychological Power of Words
+hex_tag: '#C030'
+nemetic: Φ(PsychologicalWords) = σ(label|reality) ∘ ρ(language|thought) ∘ λ(inspiration|harm) ∘ β(self_talk|identity) ∘ δγ(internalized|authentic) ∘ μ(discourse|silence) + ε | :languaging
+siml_encoding: ⟨Words|spoken⟩ ⊳ ⟨Mind|shaped⟩ → ⟨Self|constructed⟩ ⊗ ⟨Reality|framed⟩ ⇄ ⟨Agency|mediated⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
-  partials: ["∂Φ/∂σ (distinction between linguistic labels and experiential reality; categorical separation of words from the phenomena they attempt to capture)", "∂Φ/∂ρ (relational flow between language structures and cognitive patterns; the bridge between Whorfian linguistic relativity and thought formation)", "∂Φ/∂λ (directional tension between words that inspire/motivate versus words that wound and constrain; the transformative power of self-talk)", "∂Φ/∂β (feedback loop between habitual self-talk and identity formation; the developmental cycle of internalized narratives becoming self-fulfilling prophecies)", "∂Φ/∂δγ (cyclical oscillation between internalized voices from authority figures and authentic self-expression; the rhythm of inherited scripts versus personal truth)", "∂Φ/∂μ (boundary permeability between constructive discourse and harmful silence; the threshold where words enable versus constrain agency)"]
-  Z_state: "porous (boundaries between self and language dissolve through internalized discourse; words become vessels that shape perception and construct reality)"
-  tendency: "Empowerment/Constraint → 0.55 (default toward constructive self-talk; achieving psychological freedom requires conscious examination of internalized linguistic patterns)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂σ (distinction between linguistic labels and experiential reality; categorical separation of words from the phenomena they attempt to capture)
+  - ∂Φ/∂ρ (relational flow between language structures and cognitive patterns; the bridge between Whorfian linguistic relativity and thought formation)
+  - ∂Φ/∂λ (directional tension between words that inspire/motivate versus words that wound and constrain; the transformative power of self-talk)
+  - ∂Φ/∂β (feedback loop between habitual self-talk and identity formation; the developmental cycle of internalized narratives becoming self-fulfilling prophecies)
+  - ∂Φ/∂δγ (cyclical oscillation between internalized voices from authority figures and authentic self-expression; the rhythm of inherited scripts versus personal truth)
+  - ∂Φ/∂μ (boundary permeability between constructive discourse and harmful silence; the threshold where words enable versus constrain agency)
+  Z_state: permeable
+  z_note: porous (boundaries between self and language dissolve through internalized discourse; words become vessels that shape perception and construct reality)
+  tendency: Empowerment/Constraint → 0.55 (default toward constructive self-talk; achieving psychological freedom requires conscious examination of internalized linguistic patterns)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: individual
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: label / reality
+      S: self_talk / identity
+      R: language / thought
+      P: inspiration / harm
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "categorical distinction between linguistic labels and lived experience"
-      - "logical analysis of how words frame and categorize reality"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between linguistic labels and lived experience
+    - logical analysis of how words frame and categorize reality
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between language structures and cognitive patterns"
-      - "interpersonal transmission of words from authority figures to internalized self-talk"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between language structures and cognitive patterns
+    - interpersonal transmission of words from authority figures to internalized self-talk
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "transformative spark of words that inspire and motivate"
-      - "energetic drive toward self-actualization through conscious self-talk"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of words that inspire and motivate
+    - energetic drive toward self-actualization through conscious self-talk
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "organic growth of identity through repeated self-talk patterns"
-      - "developmental unfolding from negative labels to constructive self-narratives"
-    daemon_correspondence: "Arboriel"
+    - organic growth of identity through repeated self-talk patterns
+    - developmental unfolding from negative labels to constructive self-narratives
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.75
     aspects:
-      - "grounding in embodied experience beneath linguistic abstraction"
-      - "cyclical nature of internalizing external voices and reclaiming authentic speech"
-    daemon_correspondence: "Humavita"
+    - grounding in embodied experience beneath linguistic abstraction
+    - cyclical nature of internalizing external voices and reclaiming authentic speech
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.85
     aspects:
-      - "structural precision of linguistic boundaries between constructive and harmful speech"
-      - "discernment between self-compassion and self-criticism in internal dialogue"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of linguistic boundaries between constructive and harmful speech
+    - discernment between self-compassion and self-criticism in internal dialogue
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do linguistic labels construct versus distort reality? What categorical cuts separate empowering words from imprisoning ones?"
-  ≈: "What flows between language and thought? How does the Sapir-Whorf hypothesis manifest in self-perception and worldview?"
-  ▲: "Where does the transformative power of words want to go? Does language serve liberation or constraint?"
-  𐂷: "What forms of self-talk remain unexplored? What alternative narratives could reshape identity?"
-  ☷: "What's the metabolic cost of negative self-talk? What sustains the capacity for self-compassion?"
-  ⛨: "What structures contain or enable psychological discourse? What boundaries separate internalized voices from authentic self-expression?"
-context_note: "Words possess profound psychological power to shape thought, identity, and reality. Through linguistic relativity (Whorf's hypothesis), language influences perception and cognition. Negative self-talk becomes cognitive distortion, creating self-fulfilling prophecies that constrain agency. Internalized voices from significant figures often masquerade as authentic self-perception. The path to psychological freedom involves conscious examination of self-talk patterns, replacing negative labels with constructive narratives, and recognizing that thoughts require permission to occupy the mind. Self-compassion emerges from mindful language choices."
-source_file: "1771907212470_347427_The+Psychological+Power+of+Words.md"
----
+  ∴: How do linguistic labels construct versus distort reality? What categorical cuts separate empowering words from imprisoning ones?
+  ≈: What flows between language and thought? How does the Sapir-Whorf hypothesis manifest in self-perception and worldview?
+  ▲: Where does the transformative power of words want to go? Does language serve liberation or constraint?
+  𐂷: What forms of self-talk remain unexplored? What alternative narratives could reshape identity?
+  ☷: What's the metabolic cost of negative self-talk? What sustains the capacity for self-compassion?
+  ⛨: What structures contain or enable psychological discourse? What boundaries separate internalized voices from authentic self-expression?
+context_note: Words possess profound psychological power to shape thought, identity, and reality. Through linguistic relativity (Whorf's hypothesis), language influences perception and cognition. Negative self-talk becomes cognitive distortion, creating self-fulfilling prophecies that constrain agency. Internalized voices from significant figures often masquerade as authentic self-perception. The path to psychological freedom involves conscious examination of self-talk patterns, replacing negative labels with constructive narratives, and recognizing that thoughts require permission to occupy the mind. Self-compassion emerges from mindful language choices.
+source_file: 1771907212470_347427_The+Psychological+Power+of+Words.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - wood_beta
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.9
+    earth_delta_gamma: 0.75
+    metal_mu: 0.85
+provenance:
+  source_file: "1771907212470_347427_The+Psychological+Power+of+Words.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

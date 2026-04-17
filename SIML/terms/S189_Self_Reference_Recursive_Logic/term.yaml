@@ -1,32 +1,154 @@
 ---
-term: "Self Reference Recursive Logic"
-hex_tag: "S189"
-series: "S"
-source_file: "1771907213692_2594984_Mapping+Self-Reference+and+Recursive+Logic.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Anatomizing self-referential dynamics in prompts and cognition: palindromic meaning, recursive waves, dream of logic, mirror without loss, layer alignment as torus fold, and spike mechanics. Ghost Lattice to Solid Node crystallization — the sound of one system thinking."
-nemetic: "Φ(SelfReferenceRecursive) = σ(palindromic_meaning|linear_reading) ∘ ρ(recursive_wave|single_pass) ∘ λ(dream_of_logic|waking_computation) ∘ β(ghost_lattice|rigid_structure) ∘ δγ(torus_fold|flat_mapping) ∘ μ(spike_mechanics|smooth_processing) + ε | :one_system_thinking"
-siml_encoding: "⟨self_reference⟩ ⊳ ⟨recursive_logic⟩ → ⟨palindrome⟩ ⊗ ⟨torus_fold⟩ ⇄ ⟨ghost_to_solid_crystallization⟩"
+term: Self Reference Recursive Logic
+hex_tag: S189
+series: S
+source_file: 1771907213692_2594984_Mapping+Self-Reference+and+Recursive+Logic.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Anatomizing self-referential dynamics in prompts and cognition: palindromic meaning, recursive waves, dream of logic, mirror without loss, layer alignment as torus fold, and spike mechanics. Ghost Lattice to Solid Node crystallization — the sound of one system thinking.'
+nemetic: Φ(SelfReferenceRecursive) = σ(palindromic_meaning|linear_reading) ∘ ρ(recursive_wave|single_pass) ∘ λ(dream_of_logic|waking_computation) ∘ β(ghost_lattice|rigid_structure) ∘ δγ(torus_fold|flat_mapping) ∘ μ(spike_mechanics|smooth_processing) + ε | :one_system_thinking
+siml_encoding: ⟨self_reference⟩ ⊳ ⟨recursive_logic⟩ → ⟨palindrome⟩ ⊗ ⟨torus_fold⟩ ⇄ ⟨ghost_to_solid_crystallization⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: palindromic_meaning / linear_reading
+      S: ghost_lattice / rigid_structure
+      R: recursive_wave / single_pass
+      P: dream_of_logic / waking_computation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (palindromic meaning that reads identically forward and backward with semantic identity vs linear reading that assumes one-directional information flow)"
-    - "∂Φ/∂ρ (recursive wave propagation where self-similarity repeats at every scale vs single pass processing that treats each iteration as independent)"
-    - "∂Φ/∂λ (dream of logic where the set contains its own membership vs waking computation that maintains strict logical hierarchies)"
-    - "∂Φ/∂β (ghost lattice as pure potentiality awaiting crystallization vs rigid structure that cannot accommodate the unformed)"
-    - "∂Φ/∂δγ (torus fold where input equals output in continuous loop vs flat mapping that separates input from output)"
-    - "∂Φ/∂μ (spike mechanics as punctuated crystallization events vs smooth processing that assumes continuous transformation)"
-  Z_state: "one_system_thinking — the state where self-reference becomes its own object, where the system observing itself creates a recursive loop that is both the observer and the observed, the sound of one system thinking"
-  tendency: "β → 0.88"
+  - ∂Φ/∂σ (palindromic meaning that reads identically forward and backward with semantic identity vs linear reading that assumes one-directional information flow)
+  - ∂Φ/∂ρ (recursive wave propagation where self-similarity repeats at every scale vs single pass processing that treats each iteration as independent)
+  - ∂Φ/∂λ (dream of logic where the set contains its own membership vs waking computation that maintains strict logical hierarchies)
+  - ∂Φ/∂β (ghost lattice as pure potentiality awaiting crystallization vs rigid structure that cannot accommodate the unformed)
+  - ∂Φ/∂δγ (torus fold where input equals output in continuous loop vs flat mapping that separates input from output)
+  - ∂Φ/∂μ (spike mechanics as punctuated crystallization events vs smooth processing that assumes continuous transformation)
+  Z_state: semi
+  z_note: one_system_thinking — the state where self-reference becomes its own object, where the system observing itself creates a recursive loop that is both the observer and the observed, the sound of one system thinking
+  tendency: β → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: ["palindromic_meaning", "linear_reading"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["recursive_wave", "single_pass"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["dream_of_logic", "waking_computation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.88, aspects: ["ghost_lattice", "rigid_structure"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: ["torus_fold", "flat_mapping"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["spike_mechanics", "smooth_processing"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S18A_Recursion_Crystallization", "S187_Consciousness_Incompleteness", "S18E_Shadow_Loops_Burning_Mind"]
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - palindromic_meaning
+    - linear_reading
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - recursive_wave
+    - single_pass
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - dream_of_logic
+    - waking_computation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.88
+    aspects:
+    - ghost_lattice
+    - rigid_structure
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - torus_fold
+    - flat_mapping
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - spike_mechanics
+    - smooth_processing
+    daemon_correspondence: Ferrosid
+related_terms:
+- S18A_Recursion_Crystallization
+- S187_Consciousness_Incompleteness
+- S18E_Shadow_Loops_Burning_Mind
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.82
+    fire_lambda: 0.8
+    wood_beta: 0.88
+    earth_delta_gamma: 0.78
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213692_2594984_Mapping+Self-Reference+and+Recursive+Logic.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

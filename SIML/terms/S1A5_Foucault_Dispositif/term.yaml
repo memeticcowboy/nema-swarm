@@ -1,32 +1,151 @@
 ---
-term: "Foucault Dispositif"
-hex_tag: "S1A5"
-series: "S"
-source_file: "1771907213723_2618731_Foucault%E2%80%99s+Dispositif%3A+Power+and+Knowledge+Explored.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Foucault's concept of the dispositif as a heterogeneous ensemble of discourses, institutions, and practices forming power/knowledge networks. The apparatus produces subjects who internalize norms, extending control through self-governance rather than overt repression."
-nemetic: "Φ(Dispositif) = σ(normal|deviant) ∘ ρ(power|knowledge) ∘ λ(repression|production) ∘ β(surveillance|self_governance) ∘ δγ(emergence|obsolescence) ∘ μ(institution|discourse) + ε | :productive_power"
-siml_encoding: "⟨normal, deviant⟩ ⊳ ⟨power, knowledge⟩ → ⟨repression, production⟩ ⊗ ⟨surveillance, governance⟩ ⇄ ⟨institution, discourse⟩"
+term: Foucault Dispositif
+hex_tag: S1A5
+series: S
+source_file: 1771907213723_2618731_Foucault%E2%80%99s+Dispositif%3A+Power+and+Knowledge+Explored.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Foucault's concept of the dispositif as a heterogeneous ensemble of discourses, institutions, and practices forming power/knowledge networks. The apparatus produces subjects who internalize norms, extending control through self-governance rather than overt repression.
+nemetic: Φ(Dispositif) = σ(normal|deviant) ∘ ρ(power|knowledge) ∘ λ(repression|production) ∘ β(surveillance|self_governance) ∘ δγ(emergence|obsolescence) ∘ μ(institution|discourse) + ε | :productive_power
+siml_encoding: ⟨normal, deviant⟩ ⊳ ⟨power, knowledge⟩ → ⟨repression, production⟩ ⊗ ⟨surveillance, governance⟩ ⇄ ⟨institution, discourse⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: normal / deviant
+      S: surveillance / self_governance
+      R: power / knowledge
+      P: repression / production
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between normal and deviant as categories produced by the dispositif itself, defining what counts as acceptable within power/knowledge networks."
-    - "∂Φ/∂ρ — Maps the inseparable nexus of power and knowledge, where knowledge is both product of and instrument for exercising power relations."
-    - "∂Φ/∂λ — Transforms understanding of power from merely repressive to productive, showing how dispositifs create knowledge, identities, and social realities."
-    - "∂Φ/∂β — Tracks the growth from external surveillance to internalized self-governance, where subjects regulate themselves according to absorbed norms."
-    - "∂Φ/∂δγ — Cycles through emergence and obsolescence as dispositifs arise in response to urgent needs and evolve with shifting power dynamics."
-    - "∂Φ/∂μ — Structures the heterogeneous ensemble of institutions, discourses, laws, and practices composing the dispositif as a complex network."
-  Z_state: "productive_power — power that creates subjects, knowledge, and social realities rather than merely constraining them"
-  tendency: "μ → 0.85"
+  - ∂Φ/∂σ — Distinguishes between normal and deviant as categories produced by the dispositif itself, defining what counts as acceptable within power/knowledge networks.
+  - ∂Φ/∂ρ — Maps the inseparable nexus of power and knowledge, where knowledge is both product of and instrument for exercising power relations.
+  - ∂Φ/∂λ — Transforms understanding of power from merely repressive to productive, showing how dispositifs create knowledge, identities, and social realities.
+  - ∂Φ/∂β — Tracks the growth from external surveillance to internalized self-governance, where subjects regulate themselves according to absorbed norms.
+  - ∂Φ/∂δγ — Cycles through emergence and obsolescence as dispositifs arise in response to urgent needs and evolve with shifting power dynamics.
+  - ∂Φ/∂μ — Structures the heterogeneous ensemble of institutions, discourses, laws, and practices composing the dispositif as a complex network.
+  Z_state: semi
+  z_note: productive_power — power that creates subjects, knowledge, and social realities rather than merely constraining them
+  tendency: μ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["normal-deviant production", "categorical boundary-making"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["power-knowledge nexus", "inseparable coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["repression to production", "power reframing"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["surveillance to self-governance", "norm internalization"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["historical contingency", "dispositif evolution"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["institutional ensemble", "network architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - normal-deviant production
+    - categorical boundary-making
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - power-knowledge nexus
+    - inseparable coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - repression to production
+    - power reframing
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - surveillance to self-governance
+    - norm internalization
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - historical contingency
+    - dispositif evolution
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - institutional ensemble
+    - network architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213723_2618731_Foucault%E2%80%99s+Dispositif%3A+Power+and+Knowledge+Explored.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

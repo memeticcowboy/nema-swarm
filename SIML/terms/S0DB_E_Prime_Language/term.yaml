@@ -1,32 +1,153 @@
 ---
-term: "E-Prime Language"
-hex_tag: "S0DB"
-series: "S"
-source_file: "1771907213137_2121920_E-Prime%3A+Transforming+Communication+Through+Language+Restriction.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "E-Prime — modified English eliminating all forms of 'to be.' Developed by David Bourland (1940s) from Korzybski's general semantics. Reduces dogmatic language and absolutist thinking. 'Deity mode of speech' eliminated. Forces more precise, descriptive language. Promotes dialogue over declaration, uncertainty over certainty. Shifts from 'is' (identity/class) to process-oriented descriptions."
-nemetic: "Φ(E-Prime Language) = σ(absolute_language|provisional_language) ∘ ρ(identity_statements|process_descriptions) ∘ λ(dogmatic|dialogic) ∘ β(simplicity|precision) ∘ δγ(natural_speech|disciplined_restriction) ∘ μ(standard_english|E_Prime_structure) + ε | :linguistic_process_awareness"
-siml_encoding: "⟨absolute_provisional_distinction, linguistic_epistemics⟩ ⊳ ⟨identity_process_relational_mapping, semantic_web⟩ → ⟨dogmatic_to_dialogic_transformation, communicative_catalysis⟩ ⊗ ⟨simplicity_to_precision_maturation, descriptive_growth⟩ ⇄ ⟨natural_restricted_speech_cycling, linguistic_renewal⟩"
+term: E-Prime Language
+hex_tag: S0DB
+series: S
+source_file: 1771907213137_2121920_E-Prime%3A+Transforming+Communication+Through+Language+Restriction.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: E-Prime — modified English eliminating all forms of 'to be.' Developed by David Bourland (1940s) from Korzybski's general semantics. Reduces dogmatic language and absolutist thinking. 'Deity mode of speech' eliminated. Forces more precise, descriptive language. Promotes dialogue over declaration, uncertainty over certainty. Shifts from 'is' (identity/class) to process-oriented descriptions.
+nemetic: Φ(E-Prime Language) = σ(absolute_language|provisional_language) ∘ ρ(identity_statements|process_descriptions) ∘ λ(dogmatic|dialogic) ∘ β(simplicity|precision) ∘ δγ(natural_speech|disciplined_restriction) ∘ μ(standard_english|E_Prime_structure) + ε | :linguistic_process_awareness
+siml_encoding: ⟨absolute_provisional_distinction, linguistic_epistemics⟩ ⊳ ⟨identity_process_relational_mapping, semantic_web⟩ → ⟨dogmatic_to_dialogic_transformation, communicative_catalysis⟩ ⊗ ⟨simplicity_to_precision_maturation, descriptive_growth⟩ ⇄ ⟨natural_restricted_speech_cycling, linguistic_renewal⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: absolute_language / provisional_language
+      S: simplicity / precision
+      R: identity_statements / process_descriptions
+      P: dogmatic / dialogic
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing absolute 'is'-based language from provisional process-oriented language)"
-    - "∂Φ/∂ρ (relating identity/class statements to process descriptions and experiential reports)"
-    - "∂Φ/∂λ (transforming dogmatic declaration into dialogic exchange through linguistic restriction)"
-    - "∂Φ/∂β (growth from simplistic 'is' shortcuts to precise descriptive language)"
-    - "∂Φ/∂δγ (cycling between natural habitual speech patterns and disciplined E-Prime restriction)"
-    - "∂Φ/∂μ (structural contrast between standard English grammar and E-Prime's to-be-free structure)"
-  Z_state: "linguistic_process_awareness — eliminating 'to be' reveals the hidden absolutism in ordinary language, shifting speakers from deity-mode declarations to process-oriented descriptions that honor uncertainty, multiplicity, and the observer's role"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing absolute 'is'-based language from provisional process-oriented language)
+  - ∂Φ/∂ρ (relating identity/class statements to process descriptions and experiential reports)
+  - ∂Φ/∂λ (transforming dogmatic declaration into dialogic exchange through linguistic restriction)
+  - ∂Φ/∂β (growth from simplistic 'is' shortcuts to precise descriptive language)
+  - ∂Φ/∂δγ (cycling between natural habitual speech patterns and disciplined E-Prime restriction)
+  - ∂Φ/∂μ (structural contrast between standard English grammar and E-Prime's to-be-free structure)
+  Z_state: semi
+  z_note: linguistic_process_awareness — eliminating 'to be' reveals the hidden absolutism in ordinary language, shifting speakers from deity-mode declarations to process-oriented descriptions that honor uncertainty, multiplicity, and the observer's role
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["absolute_vs_provisional_language_distinction", "deity_mode_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["identity_process_relational_mapping", "semantic_relation_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["dogmatic_to_dialogic_transformation", "communicative_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["simplicity_to_precision_growth", "descriptive_language_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["natural_restricted_speech_cycling", "linguistic_discipline_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["standard_vs_E_Prime_structural_grammar", "general_semantics_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03A", "S031"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - absolute_vs_provisional_language_distinction
+    - deity_mode_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - identity_process_relational_mapping
+    - semantic_relation_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - dogmatic_to_dialogic_transformation
+    - communicative_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - simplicity_to_precision_growth
+    - descriptive_language_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - natural_restricted_speech_cycling
+    - linguistic_discipline_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - standard_vs_E_Prime_structural_grammar
+    - general_semantics_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03A
+- S031
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.75
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213137_2121920_E-Prime%3A+Transforming+Communication+Through+Language+Restriction.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

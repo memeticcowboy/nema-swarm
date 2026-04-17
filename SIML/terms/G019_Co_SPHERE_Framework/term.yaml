@@ -1,37 +1,156 @@
 ---
-term: "Co-SPHERE Framework"
-hex_tag: "G019"
-series: "G"
-source_file: "25 - Co-SPHERE Framework.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "An omega-permeable, Z-level soft coordination basin enabling shared action without coercive closure. Co-SPHERE coordinates action rather than belief, operates as soft basin rather than sealed structure, allows plural paths to pool without fusion, and preserves exit without punishment."
-nemetic: "Φ(Co_SPHERE_Framework) = σ(coordination_distinction|action_vs_belief_alignment) ∘ ρ(pooling_resonance|plural_path_convergence) ∘ λ(pruning_intensity|ecological_integrity_audit) ∘ β(affordance_growth|low_frequency_action_branching) ∘ δγ(omega_cycling|revisability_under_dissonance) ∘ μ(basin_structure|soft_coordination_architecture) + ε | :permeable"
-siml_encoding: "⟨belief_alignment, action_coordination⟩ ⊳ ⟨sealed_structure, soft_basin⟩ → ⟨coercive_closure, exit_freedom⟩ ⊗ ⟨memegrid_drift, ecological_integrity⟩ ⇄ ⟨plural_paths, shared_action⟩"
+term: Co-SPHERE Framework
+hex_tag: G019
+series: G
+source_file: 25 - Co-SPHERE Framework.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: An omega-permeable, Z-level soft coordination basin enabling shared action without coercive closure. Co-SPHERE coordinates action rather than belief, operates as soft basin rather than sealed structure, allows plural paths to pool without fusion, and preserves exit without punishment.
+nemetic: Φ(Co_SPHERE_Framework) = σ(coordination_distinction|action_vs_belief_alignment) ∘ ρ(pooling_resonance|plural_path_convergence) ∘ λ(pruning_intensity|ecological_integrity_audit) ∘ β(affordance_growth|low_frequency_action_branching) ∘ δγ(omega_cycling|revisability_under_dissonance) ∘ μ(basin_structure|soft_coordination_architecture) + ε | :permeable
+siml_encoding: ⟨belief_alignment, action_coordination⟩ ⊳ ⟨sealed_structure, soft_basin⟩ → ⟨coercive_closure, exit_freedom⟩ ⊗ ⟨memegrid_drift, ecological_integrity⟩ ⇄ ⟨plural_paths, shared_action⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: coordination_distinction / action_vs_belief_alignment
+      S: affordance_growth / low_frequency_action_branching
+      R: pooling_resonance / plural_path_convergence
+      P: pruning_intensity / ecological_integrity_audit
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing coordination of action from alignment of belief or identity; the critical distinction between Co-SPHERE and coercive social structures"
-    - "∂Φ/∂ρ — Plural paths pooling without fusion; the relational flow allowing diverse approaches to converge toward shared action while maintaining distinct trajectories"
-    - "∂Φ/∂λ — Pruning and retrospective assessment as catalytic integrity audit; removing material that drifts toward MemeGrid closure, moralized unity, or suppression of dissonance"
-    - "∂Φ/∂β — Low-frequency action affordances branching from compressed coordination; growth of phase relationships, timing synchronizations, and actionable outputs rather than stories or values"
-    - "∂Φ/∂δγ — Omega-permeability as revisability under dissonance; the metabolic cycling that allows the framework to be revised when new dissonance surfaces rather than rigidifying against challenge"
-    - "∂Φ/∂μ — Soft coordination basin as architectural principle; structural container that holds without sealing, coordinates without coercing, and preserves exit without punishment"
-  Z_state: "permeable — the framework maintains structural openness to revision, dissonance, and exit; permeability is not weakness but the design principle that prevents collapse into MemeGrid"
-  tendency: "μ → 0.90"
+  - ∂Φ/∂σ — Distinguishing coordination of action from alignment of belief or identity; the critical distinction between Co-SPHERE and coercive social structures
+  - ∂Φ/∂ρ — Plural paths pooling without fusion; the relational flow allowing diverse approaches to converge toward shared action while maintaining distinct trajectories
+  - ∂Φ/∂λ — Pruning and retrospective assessment as catalytic integrity audit; removing material that drifts toward MemeGrid closure, moralized unity, or suppression of dissonance
+  - ∂Φ/∂β — Low-frequency action affordances branching from compressed coordination; growth of phase relationships, timing synchronizations, and actionable outputs rather than stories or values
+  - ∂Φ/∂δγ — Omega-permeability as revisability under dissonance; the metabolic cycling that allows the framework to be revised when new dissonance surfaces rather than rigidifying against challenge
+  - ∂Φ/∂μ — Soft coordination basin as architectural principle; structural container that holds without sealing, coordinates without coercing, and preserves exit without punishment
+  Z_state: permeable
+  z_note: permeable — the framework maintains structural openness to revision, dissonance, and exit; permeability is not weakness but the design principle that prevents collapse into MemeGrid
+  tendency: μ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["action_vs_belief_coordination", "co_sphere_vs_memegrid_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["plural_path_pooling", "convergence_without_fusion"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["ecological_integrity_pruning", "memegrid_drift_detection"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["low_frequency_affordance_branching", "actionable_output_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["omega_permeability_cycling", "dissonance_revision_metabolism"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["soft_basin_architecture", "non_coercive_coordination_structure"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - action_vs_belief_coordination
+    - co_sphere_vs_memegrid_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - plural_path_pooling
+    - convergence_without_fusion
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - ecological_integrity_pruning
+    - memegrid_drift_detection
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - low_frequency_affordance_branching
+    - actionable_output_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - omega_permeability_cycling
+    - dissonance_revision_metabolism
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - soft_basin_architecture
+    - non_coercive_coordination_structure
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G018_Agency_Detection_Ecological_Wisdom"
-  - "G015_Protector_Archetype_Ecology"
-  - "G006_Leverage_Points_Complex_Systems"
-  - "G011_Haraway_Staying_with_Trouble"
-  - "G00C_Biocentric_Governance"
+- G018_Agency_Detection_Ecological_Wisdom
+- G015_Protector_Archetype_Ecology
+- G006_Leverage_Points_Complex_Systems
+- G011_Haraway_Staying_with_Trouble
+- G00C_Biocentric_Governance
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "25 - Co-SPHERE Framework.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,50 +1,156 @@
 ---
-term: "Neural Inferential Reasoning"
-hex_tag: "S02F"
-series: "S"
-source_file: "1771907212512_516470_Neural+Insights+into+Inferential+Reasoning.md"
-encoded_at: "2026-03-05T19:30:00Z"
-description: "How the brain processes inferential reasoning via neuron activity recordings during trial-and-error learning, revealing that the hippocampus creates geometric neural representations when people infer new rules from prior knowledge, with structured patterns emerging from initial disorder during successful learning."
-nemetic: "Φ(InferReason) = σ(disordered|structured) ∘ ρ(prior|inferred) ∘ λ(experiential|verbal) ∘ β(trial|mastery) ∘ δγ(error|insight) ∘ μ(geometric|hippocampal) + ε | :map"
-siml_encoding: "⟨disordered∣structured⟩ ⊳ ⟨prior∣inferred⟩ → ⟨experiential∣verbal⟩ ⊗ ⟨trial∣mastery⟩ ⇄ ⟨error∣insight⟩"
+term: Neural Inferential Reasoning
+hex_tag: S02F
+series: S
+source_file: 1771907212512_516470_Neural+Insights+into+Inferential+Reasoning.md
+encoded_at: '2026-03-05T19:30:00Z'
+description: How the brain processes inferential reasoning via neuron activity recordings during trial-and-error learning, revealing that the hippocampus creates geometric neural representations when people infer new rules from prior knowledge, with structured patterns emerging from initial disorder during successful learning.
+nemetic: Φ(InferReason) = σ(disordered|structured) ∘ ρ(prior|inferred) ∘ λ(experiential|verbal) ∘ β(trial|mastery) ∘ δγ(error|insight) ∘ μ(geometric|hippocampal) + ε | :map
+siml_encoding: ⟨disordered∣structured⟩ ⊳ ⟨prior∣inferred⟩ → ⟨experiential∣verbal⟩ ⊗ ⟨trial∣mastery⟩ ⇄ ⟨error∣insight⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: disordered / structured
+      S: trial / mastery
+      R: prior / inferred
+      P: experiential / verbal
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing disordered neural activity from structured geometric representations)"
-    - "∂Φ/∂ρ (relating prior knowledge to newly inferred rules through hippocampal mediation)"
-    - "∂Φ/∂λ (transforming between experiential trial-and-error learning and verbal instruction as equivalent pathways)"
-    - "∂Φ/∂β (growing from trial-and-error attempts to mastery through progressive neural structuring)"
-    - "∂Φ/∂δγ (cycling between error states and insight moments during inferential learning)"
-    - "∂Φ/∂μ (structuring cognitive maps as high-dimensional geometric shapes in hippocampal neural space)"
-  Z_state: "map (cognitive maps extending beyond spatial navigation into abstract rule inference, the hippocampus as universal mapping engine)"
-  tendency: "σ/μ → 0.85"
+  - ∂Φ/∂σ (distinguishing disordered neural activity from structured geometric representations)
+  - ∂Φ/∂ρ (relating prior knowledge to newly inferred rules through hippocampal mediation)
+  - ∂Φ/∂λ (transforming between experiential trial-and-error learning and verbal instruction as equivalent pathways)
+  - ∂Φ/∂β (growing from trial-and-error attempts to mastery through progressive neural structuring)
+  - ∂Φ/∂δγ (cycling between error states and insight moments during inferential learning)
+  - ∂Φ/∂μ (structuring cognitive maps as high-dimensional geometric shapes in hippocampal neural space)
+  Z_state: semi
+  z_note: map (cognitive maps extending beyond spatial navigation into abstract rule inference, the hippocampus as universal mapping engine)
+  tendency: σ/μ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
-    aspects: ["distinguishing disordered from structured neural representations as the signature of successful learning", "separating spatial cognitive maps from abstract inferential cognitive maps"]
-    daemon_correspondence: "Aerunik"
+    emphasis: 0.9
+    aspects:
+    - distinguishing disordered from structured neural representations as the signature of successful learning
+    - separating spatial cognitive maps from abstract inferential cognitive maps
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.78
-    aspects: ["relating prior knowledge to new inferences through hippocampal mediation", "connecting experiential learning outcomes to verbal instruction outcomes as convergent pathways"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - relating prior knowledge to new inferences through hippocampal mediation
+    - connecting experiential learning outcomes to verbal instruction outcomes as convergent pathways
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
-    aspects: ["verbal instruction producing similar neural transformations as experiential learning", "transition moment when disordered representations crystallize into structured geometric patterns"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - verbal instruction producing similar neural transformations as experiential learning
+    - transition moment when disordered representations crystallize into structured geometric patterns
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
-    aspects: ["progressive growth from trial-and-error to mastery through neural restructuring", "3000+ neurons recorded across 17 patients revealing developmental patterns of inferential capacity"]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.8
+    aspects:
+    - progressive growth from trial-and-error to mastery through neural restructuring
+    - 3000+ neurons recorded across 17 patients revealing developmental patterns of inferential capacity
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.78
-    aspects: ["cycling between error states and insight during trial-and-error learning", "iterative refinement of neural representations through repeated inference attempts"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - cycling between error states and insight during trial-and-error learning
+    - iterative refinement of neural representations through repeated inference attempts
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.88
-    aspects: ["geometric high-dimensional shapes structuring neural activity in hippocampus", "hippocampal architecture providing the structural substrate for cognitive map formation"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S02D_Brain_Networks_Creative_Thinking", "S02B_Learning_Hardwired_Brain", "S020_Brain_Constructive_Perception", "S028_Cognitive_Fractals", "S008_Metacognitive_Strategies"]
+    aspects:
+    - geometric high-dimensional shapes structuring neural activity in hippocampus
+    - hippocampal architecture providing the structural substrate for cognitive map formation
+    daemon_correspondence: Ferrosid
+related_terms:
+- S02D_Brain_Networks_Creative_Thinking
+- S02B_Learning_Hardwired_Brain
+- S020_Brain_Constructive_Perception
+- S028_Cognitive_Fractals
+- S008_Metacognitive_Strategies
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.78
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.78
+    metal_mu: 0.88
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212512_516470_Neural+Insights+into+Inferential+Reasoning.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

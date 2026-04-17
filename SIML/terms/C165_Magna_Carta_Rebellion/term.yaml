@@ -2,73 +2,144 @@ term_id: C165
 hex_tag: '#C165'
 name: Magna_Carta_Rebellion
 term: Magna Carta Rebellion
-nemetic: >-
-  Φ(MagnaCartaRebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘
-  λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘
-  μ(charter|history) + ε | :drift
-siml_encoding: >-
-  ⟨Law|codified⟩ ⊳ ⟨Rebellion|institutionalized⟩ ⇄ ⟨Authority|conditional⟩ ⊗
-  ⟨Consent|withdrawable⟩ → ⟨Rights|enforceable⟩
+nemetic: Φ(MagnaCartaRebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘ λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘ μ(charter|history) + ε | :drift
+siml_encoding: ⟨Law|codified⟩ ⊳ ⟨Rebellion|institutionalized⟩ ⇄ ⟨Authority|conditional⟩ ⊗ ⟨Consent|withdrawable⟩ → ⟨Rights|enforceable⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between codified law and the right to resist it)"
-    - "∂Φ/∂ρ (relational flow between governing authority and consent of the governed)"
-    - "∂Φ/∂λ (directional tension between social contract and its necessary rupture)"
-    - "∂Φ/∂β (organic growth of historical documents through reinterpretation)"
-    - "∂Φ/∂δγ (grounding gap between declared rights and practical enforcement)"
-    - "∂Φ/∂μ (structural durability of written law against corrosive forces of time)"
+  - ∂Φ/∂σ (distinction between codified law and the right to resist it)
+  - ∂Φ/∂ρ (relational flow between governing authority and consent of the governed)
+  - ∂Φ/∂λ (directional tension between social contract and its necessary rupture)
+  - ∂Φ/∂β (organic growth of historical documents through reinterpretation)
+  - ∂Φ/∂δγ (grounding gap between declared rights and practical enforcement)
+  - ∂Φ/∂μ (structural durability of written law against corrosive forces of time)
   Z_state: semi
-  tendency: "Resistance/Order → 0.60"
-  hex: ['0x01', '0x65']
+  tendency: Resistance/Order → 0.60
+  hex:
+  - '0x01'
+  - '0x65'
 coords:
   ontology:
     primary: We
-    secondary: [Its]
+    secondary:
+    - Its
   epistemics:
     dsrp:
-      D: "Lawful rebellion vs. unlawful revolt"
-      S: "Constitutional governance framework with embedded resistance mechanisms"
-      R: "Contract → breach → lawful dissolution → reconstitution"
-      P: "Baron, sovereign, citizen, legal historian"
+      D: Lawful rebellion vs. unlawful revolt
+      S: Constitutional governance framework with embedded resistance mechanisms
+      R: Contract → breach → lawful dissolution → reconstitution
+      P: Baron, sovereign, citizen, legal historian
     learning: L2
   time:
     mode: layered
-    phase: "dormant activation potential — awaiting constitutional crisis"
+    phase: dormant activation potential — awaiting constitutional crisis
   qualia:
-    affect: [defiance, dignity, obligation]
-    aesthetic: [archaic, solemn, foundational]
-    symbolic: [charter, seal, oath]
-    energetic: [restrained, coiled, latent]
+    affect:
+    - defiance
+    - dignity
+    - obligation
+    aesthetic:
+    - archaic
+    - solemn
+    - foundational
+    symbolic:
+    - charter
+    - seal
+    - oath
+    energetic:
+    - restrained
+    - coiled
+    - latent
   agency:
     type: collective
-    voice: [The Barons, The Constitutional Tradition]
+    voice:
+    - The Barons
+    - The Constitutional Tradition
     power_mode: Over
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How does law distinguish between legitimate resistance and mere revolt?"
-  ≈: "What flows between sovereign and subject when the contract of consent is breached?"
-  ▲: "What ignites the moment when lawful rebellion activates from dormancy?"
-  𐂷: "How does the Magna Carta grow through centuries of reinterpretation?"
-  ☷: "What grounds the enforcement of rights when power refuses to yield?"
-  ⛨: "What structural boundaries preserve the charter against political erosion?"
-context_note: >-
-  Article 61 of the Magna Carta (1215) represents a radical memetic innovation:
-  the institutionalization of resistance within the legal structure itself. Unlike
-  modern conceptions of revolution as extra-legal, this framework embeds rebellion
-  within law, creating a strange loop where the system contains the seeds of its
-  own legitimate dissolution.
-source: "Grok analysis of Article 61 of Magna Carta; Wikipedia, Britannica, David Allen Green"
+  ∴: How does law distinguish between legitimate resistance and mere revolt?
+  ≈: What flows between sovereign and subject when the contract of consent is breached?
+  ▲: What ignites the moment when lawful rebellion activates from dormancy?
+  𐂷: How does the Magna Carta grow through centuries of reinterpretation?
+  ☷: What grounds the enforcement of rights when power refuses to yield?
+  ⛨: What structural boundaries preserve the charter against political erosion?
+context_note: 'Article 61 of the Magna Carta (1215) represents a radical memetic innovation: the institutionalization of resistance within the legal structure itself. Unlike modern conceptions of revolution as extra-legal, this framework embeds rebellion within law, creating a strange loop where the system contains the seeds of its own legitimate dissolution.'
+source: Grok analysis of Article 61 of Magna Carta; Wikipedia, Britannica, David Allen Green
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

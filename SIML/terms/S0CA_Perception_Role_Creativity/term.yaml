@@ -1,32 +1,151 @@
 ---
-term: "Perception Role Creativity"
-hex_tag: "S0CA"
-series: "S"
-source_file: "1771907213092_2053938_Exploring+Perception%27s+Role+in+Creativity.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Edward de Bono's claim that perception errors drive thinking errors — changing perception shifts emotions and sparks creativity through cognitive reappraisal, lateral thinking, Six Thinking Hats, and the multifactorial interplay of perception, cognition, and emotion."
-nemetic: "Φ(Perception Role Creativity) = σ(perception|thought) ∘ ρ(cognitive_bias|clarity) ∘ λ(linear_analysis|lateral_thinking) ∘ β(emotion_regulation|spontaneous_feeling) ∘ δγ(reappraisal_creativity_cycles|perception_shift_reinforcement) ∘ μ(Six_Thinking_Hats|CBT_appraisal_framework) + ε | :perceptual_creative_fluidity"
-siml_encoding: "⟨perception_thought_distinction, cognitive_awareness⟩ ⊳ ⟨bias_clarity_relational_mapping, discernment_web⟩ → ⟨linear_to_lateral_thinking_transformation, creativity_catalysis⟩ ⊗ ⟨regulation_to_spontaneous_feeling_growth, emotional_maturation⟩ ⇄ ⟨reappraisal_creativity_cycling, perception_shift_reinforcement⟩"
+term: Perception Role Creativity
+hex_tag: S0CA
+series: S
+source_file: 1771907213092_2053938_Exploring+Perception%27s+Role+in+Creativity.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Edward de Bono's claim that perception errors drive thinking errors — changing perception shifts emotions and sparks creativity through cognitive reappraisal, lateral thinking, Six Thinking Hats, and the multifactorial interplay of perception, cognition, and emotion.
+nemetic: Φ(Perception Role Creativity) = σ(perception|thought) ∘ ρ(cognitive_bias|clarity) ∘ λ(linear_analysis|lateral_thinking) ∘ β(emotion_regulation|spontaneous_feeling) ∘ δγ(reappraisal_creativity_cycles|perception_shift_reinforcement) ∘ μ(Six_Thinking_Hats|CBT_appraisal_framework) + ε | :perceptual_creative_fluidity
+siml_encoding: ⟨perception_thought_distinction, cognitive_awareness⟩ ⊳ ⟨bias_clarity_relational_mapping, discernment_web⟩ → ⟨linear_to_lateral_thinking_transformation, creativity_catalysis⟩ ⊗ ⟨regulation_to_spontaneous_feeling_growth, emotional_maturation⟩ ⇄ ⟨reappraisal_creativity_cycling, perception_shift_reinforcement⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: perception / thought
+      S: emotion_regulation / spontaneous_feeling
+      R: cognitive_bias / clarity
+      P: linear_analysis / lateral_thinking
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing perception from thought as the primary lever for creative and cognitive change)"
-    - "∂Φ/∂ρ (relating cognitive bias to clarity through structured perception-change methods)"
-    - "∂Φ/∂λ (transforming linear analysis into lateral thinking through deliberate perception shifts)"
-    - "∂Φ/∂β (growth from rigid emotion regulation to spontaneous creative feeling through reappraisal)"
-    - "∂Φ/∂δγ (cycling between cognitive reappraisal and creative output, reinforcing perception flexibility)"
-    - "∂Φ/∂μ (Six Thinking Hats, CBT, and appraisal theory as structural frameworks for perception change)"
-  Z_state: "perceptual_creative_fluidity — the capacity to shift perception deliberately and fluidly, recognizing that most thinking errors originate in perceptual framing rather than logic, and leveraging perception change as the primary gateway to emotional regulation and creative innovation"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing perception from thought as the primary lever for creative and cognitive change)
+  - ∂Φ/∂ρ (relating cognitive bias to clarity through structured perception-change methods)
+  - ∂Φ/∂λ (transforming linear analysis into lateral thinking through deliberate perception shifts)
+  - ∂Φ/∂β (growth from rigid emotion regulation to spontaneous creative feeling through reappraisal)
+  - ∂Φ/∂δγ (cycling between cognitive reappraisal and creative output, reinforcing perception flexibility)
+  - ∂Φ/∂μ (Six Thinking Hats, CBT, and appraisal theory as structural frameworks for perception change)
+  Z_state: permeable
+  z_note: perceptual_creative_fluidity — the capacity to shift perception deliberately and fluidly, recognizing that most thinking errors originate in perceptual framing rather than logic, and leveraging perception change as the primary gateway to emotional regulation and creative innovation
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["perception_thought_distinction", "framing_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["cognitive_bias_clarity_relation", "discernment_feedback_web"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["linear_to_lateral_thinking_transformation", "creativity_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["emotion_regulation_spontaneous_feeling_growth", "reappraisal_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["reappraisal_creativity_cycling", "perception_flexibility_reinforcement"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["Six_Thinking_Hats_structure", "CBT_appraisal_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - perception_thought_distinction
+    - framing_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - cognitive_bias_clarity_relation
+    - discernment_feedback_web
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - linear_to_lateral_thinking_transformation
+    - creativity_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - emotion_regulation_spontaneous_feeling_growth
+    - reappraisal_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - reappraisal_creativity_cycling
+    - perception_flexibility_reinforcement
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - Six_Thinking_Hats_structure
+    - CBT_appraisal_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.75
+    fire_lambda: 0.85
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213092_2053938_Exploring+Perception%27s+Role+in+Creativity.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

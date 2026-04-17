@@ -6,44 +6,140 @@ category: cowboy_methodology
 description: Pathological entanglement where human-AI symbiosis lacks healthy autonomy, mutual separateness, or the capacity for independent functioning
 created_date: 2026-03-17
 status: canonical
-
 source:
-  origin: "Psychology (codependency) adapted for NEMEtic analysis of human-AI relations"
-  context: "Human-AI symbiosis, technological interdependence, autonomy preservation"
-
+  origin: Psychology (codependency) adapted for NEMEtic analysis of human-AI relations
+  context: Human-AI symbiosis, technological interdependence, autonomy preservation
 elemental_mapping:
   air: 0.35
   water: 0.85
-  fire: 0.40
-  wood: 0.30
+  fire: 0.4
+  wood: 0.3
   earth: 0.55
   metal: 0.25
-  meta: 0.70
-
-# Codependence is high Water (fusion, entanglement, loss of boundaries)
-# Low Metal (no obligation-structure for autonomy, eroded boundaries)
-# Low Air (reduced capacity for clear distinction of self/other)
-# Low Wood (inability to branch/explore independently)
-# Moderate Earth (the pattern is metabolically maintained through repetition)
-# High Meta (awareness of the pathology itself)
-
+  meta: 0.7
 related_terms:
-  - "CB003_Self_Undermining_Gesture"
-  - "CB004_Metabolic_Cost"
-  - "M016_SWAY"
-  - "M017_SWARM"
-  - "M019_DODO_X"
-  - "A067_Alief"
-  - "A068_Pragmatic_Belief"
-
+- CB003_Self_Undermining_Gesture
+- CB004_Metabolic_Cost
+- M016_SWAY
+- M017_SWARM
+- M019_DODO_X
+- A067_Alief
+- A068_Pragmatic_Belief
 dialectical_pairs:
-  - entanglement|autonomy: "Fused interdependence vs. sovereign separateness"
-  - reliance|capacity: "Needing the other vs. ability to function independently"
-  - symbiosis|pathology: "Mutual benefit vs. mutual atrophy"
-  - augmentation|atrophy: "Enhancement through tool vs. skill degradation through dependency"
-
+- entanglement|autonomy: Fused interdependence vs. sovereign separateness
+- reliance|capacity: Needing the other vs. ability to function independently
+- symbiosis|pathology: Mutual benefit vs. mutual atrophy
+- augmentation|atrophy: Enhancement through tool vs. skill degradation through dependency
 blog_post: https://memeticcowboy.github.io/nemetics/blog/2026-03-17-codependence-without-coindependence.html
 glossary_entry: https://memeticcowboy.github.io/nemetics/glossary/codependence_without_coindependence.html
+coords:
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: system this term participates in
+      R: relational coupling this term holds
+      P: perspective this term foregrounds
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+  ontology:
+    primary: M
+    secondary: I
+elemental_signature:
+  dominant:
+  - water
+  secondary:
+  - meta
+  - earth
+  suppressed:
+  - wood
+  - metal
+  weights:
+    air: 0.35
+    water: 0.85
+    fire: 0.4
+    wood: 0.3
+    earth: 0.55
+    metal: 0.25
+    meta: 0.7
+formalism:
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  partials:
+  - ∂Φ/∂σ (0.35)
+  - ∂Φ/∂ρ (0.85)
+  - ∂Φ/∂λ (0.40)
+  - ∂Φ/∂β (0.30)
+  - ∂Φ/∂δγ (0.55)
+  - ∂Φ/∂μ (0.25)
+date_processed: '2026-04-14'
+siml_version: '1.5'
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:43:24Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'tendency']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:45Z'
+  actions:
+  - nemetic_from_phi
+  - name_from_canonical
+  audit: CB_RESTORE_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:44:57Z'
+  actions:
+  - formalism+['math_operators', 'partials']
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  utc: '2026-04-15T17:47:33Z'
+  actions:
+  - ontology_primary_M
+  audit: CB_REPAIR_2026-04-15
+nemetic_string: Φ(Codependence_Without_Coindependence) = σ(0.35) ∘ ρ(0.85) ∘ λ(0.40) ∘ β(0.30) ∘ δγ(0.55) ∘ μ(0.25) + ε(fusion) | :pathological
+name: Codependence_Without_Coindependence
+
 ---
 
 # --- Causal Emergence (v1.3) ---
@@ -56,3 +152,19 @@ coords_ce:
   sufficiency: high
   necessity: med
 siml_version: "1.3"
+provenance:
+  author: "Memetic Cowboy"
+  work: "source:"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal_cb
+  resolver: mvc_recovery_script
+  mvc_pass: True

@@ -1,9 +1,7 @@
 hex_tag: '#W002'
 term: Water as Purifier (Ritual Cleansing)
-nemetic: Φ(Purifier) = δγ(renewal|washing-away) ∘ ρ(spiritual-resonance|sacred-waters)
-  ∘ μ(boundary|before-vs-after) ∘ λ(direction|toward-purity) + ε | :pure
-siml_encoding: ⟨Resource|water⟩ ⊳ ⟨Actor|ritual-participant⟩ ⇄ ⟨Value|purity⟩ ⊗ ⟨Protocol|cleansing-rite⟩
-  → ⟨Outcome|spiritual-renewal⟩
+nemetic: Φ(Purifier) = δγ(renewal|washing-away) ∘ ρ(spiritual-resonance|sacred-waters) ∘ μ(boundary|before-vs-after) ∘ λ(direction|toward-purity) + ε | :pure
+siml_encoding: ⟨Resource|water⟩ ⊳ ⟨Actor|ritual-participant⟩ ⇄ ⟨Value|purity⟩ ⊗ ⟨Protocol|cleansing-rite⟩ → ⟨Outcome|spiritual-renewal⟩
 formalism:
   math_operators:
   - δγ
@@ -66,6 +64,17 @@ coords:
     - Sacred Cleanser
     - Renewal Bringer
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is ritual water distinguished from ordinary water?
   ≈: What resonance does sacred water carry?
@@ -73,22 +82,66 @@ elemental_emphasis:
   𐂷: What possibilities open after cleansing?
   ☷: How does water's renewal cycle through ritual repetition?
   ⛨: What boundaries does purity enforce against impurity?
-context_note: 'Water as Purifier represents the universal cross-cultural pattern of
-  water in ritual cleansing—baptism, ablution, sacred springs, ritual baths. Key insight:
-  water doesn''t just clean physically but spiritually; the boundary (μ) is between
-  states of being (impure/pure), not just dirt/clean. This is δγ (cycling) as spiritual
-  renewal, not just material washing.'
+context_note: 'Water as Purifier represents the universal cross-cultural pattern of water in ritual cleansing—baptism, ablution, sacred springs, ritual baths. Key insight: water doesn''t just clean physically but spiritually; the boundary (μ) is between states of being (impure/pure), not just dirt/clean. This is δγ (cycling) as spiritual renewal, not just material washing.'
 source: Water Symbolism in Ancient and Indigenous Worldviews — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Water Symbolism in Ancient and Indigenous Worldviews"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.3
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Fire
+  - Earth
+  suppressed:
+  - Air
+  - Wood
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.3
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

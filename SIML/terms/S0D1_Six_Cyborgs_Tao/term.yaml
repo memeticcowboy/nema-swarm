@@ -1,32 +1,152 @@
 ---
-term: "Six Cyborgs of Tao"
-hex_tag: "S0D1"
-series: "S"
-source_file: "1771907213116_2093302_It+Finds+%28IF%29+Six+Cyborgs+of+Tao.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Taoist inflection of the Six Cyborgs framework through the 'It Finds' (IF) lens — shifting from 'I Am' (subject-centric identity) to 'it finds' (distributed, conditional emergence). Each cyborg mode receives Taoist overlay: Analyzer (naming as provisional), Protector (ecological accountability), Empath (relational identity), Strategist (vector sensing not goal-seeking), Optimizer (refinement through subtraction), Creator (midwifery not authorship). Dao as Operating System."
-nemetic: "Φ(Six Cyborgs of Tao) = σ(I_Am|It_Finds) ∘ ρ(ego_anchored|distributed) ∘ λ(assertion|attunement) ∘ β(intention|invitation) ∘ δγ(cyborg_mode_cycling|taoist_seasonal_return) ∘ μ(authorship|midwifery) + ε | :dao_as_operating_system"
-siml_encoding: "⟨IAm_ItFinds_distinction, identity_awareness⟩ ⊳ ⟨ego_distributed_relational_mapping, emergence_web⟩ → ⟨assertion_to_attunement_transformation, taoist_catalysis⟩ ⊗ ⟨intention_to_invitation_maturation, receptive_evolution⟩ ⇄ ⟨cyborg_mode_taoist_cycling, seasonal_return⟩"
+term: Six Cyborgs of Tao
+hex_tag: S0D1
+series: S
+source_file: 1771907213116_2093302_It+Finds+%28IF%29+Six+Cyborgs+of+Tao.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Taoist inflection of the Six Cyborgs framework through the ''It Finds'' (IF) lens — shifting from ''I Am'' (subject-centric identity) to ''it finds'' (distributed, conditional emergence). Each cyborg mode receives Taoist overlay: Analyzer (naming as provisional), Protector (ecological accountability), Empath (relational identity), Strategist (vector sensing not goal-seeking), Optimizer (refinement through subtraction), Creator (midwifery not authorship). Dao as Operating System.'
+nemetic: Φ(Six Cyborgs of Tao) = σ(I_Am|It_Finds) ∘ ρ(ego_anchored|distributed) ∘ λ(assertion|attunement) ∘ β(intention|invitation) ∘ δγ(cyborg_mode_cycling|taoist_seasonal_return) ∘ μ(authorship|midwifery) + ε | :dao_as_operating_system
+siml_encoding: ⟨IAm_ItFinds_distinction, identity_awareness⟩ ⊳ ⟨ego_distributed_relational_mapping, emergence_web⟩ → ⟨assertion_to_attunement_transformation, taoist_catalysis⟩ ⊗ ⟨intention_to_invitation_maturation, receptive_evolution⟩ ⇄ ⟨cyborg_mode_taoist_cycling, seasonal_return⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: I_Am / It_Finds
+      S: intention / invitation
+      R: ego_anchored / distributed
+      P: assertion / attunement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing 'I Am' subject-centric identity from 'It Finds' distributed conditional emergence)"
-    - "∂Φ/∂ρ (relating ego-anchored selfhood to distributed relational identity across cyborg modes)"
-    - "∂Φ/∂λ (transforming assertion-based engagement into attunement-based sensing through Taoist overlay)"
-    - "∂Φ/∂β (growth from intention-driven goal-seeking to invitation-based vector sensing)"
-    - "∂Φ/∂δγ (cycling through six cyborg modes with Taoist seasonal return and renewal)"
-    - "∂Φ/∂μ (structural contrast between authorship as ego-creation and midwifery as facilitated emergence)"
-  Z_state: "dao_as_operating_system — the Dao doesn't command but conditions; identity shifts from 'I Am' to 'It Finds,' and each cyborg mode becomes a Taoist practice of distributed, conditional emergence rather than ego-driven assertion"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing 'I Am' subject-centric identity from 'It Finds' distributed conditional emergence)
+  - ∂Φ/∂ρ (relating ego-anchored selfhood to distributed relational identity across cyborg modes)
+  - ∂Φ/∂λ (transforming assertion-based engagement into attunement-based sensing through Taoist overlay)
+  - ∂Φ/∂β (growth from intention-driven goal-seeking to invitation-based vector sensing)
+  - ∂Φ/∂δγ (cycling through six cyborg modes with Taoist seasonal return and renewal)
+  - ∂Φ/∂μ (structural contrast between authorship as ego-creation and midwifery as facilitated emergence)
+  Z_state: permeable
+  z_note: dao_as_operating_system — the Dao doesn't command but conditions; identity shifts from 'I Am' to 'It Finds,' and each cyborg mode becomes a Taoist practice of distributed, conditional emergence rather than ego-driven assertion
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["I_Am_vs_It_Finds_distinction", "identity_paradigm_shift"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["ego_distributed_relational_mapping", "empath_relational_identity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["assertion_to_attunement_transformation", "taoist_overlay_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["intention_to_invitation_maturation", "vector_sensing_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["cyborg_mode_taoist_cycling", "seasonal_return_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["authorship_vs_midwifery_structure", "subtraction_refinement_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S021"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - I_Am_vs_It_Finds_distinction
+    - identity_paradigm_shift
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - ego_distributed_relational_mapping
+    - empath_relational_identity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - assertion_to_attunement_transformation
+    - taoist_overlay_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - intention_to_invitation_maturation
+    - vector_sensing_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - cyborg_mode_taoist_cycling
+    - seasonal_return_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - authorship_vs_midwifery_structure
+    - subtraction_refinement_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S021
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213116_2093302_It+Finds+%28IF%29+Six+Cyborgs+of+Tao.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

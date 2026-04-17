@@ -1,6 +1,8 @@
 # SIML v1.3 — Causal Emergence Extension
 **Effective Information & Multi-Scale Causal Analysis**
 
+> **PROVENANCE DOCUMENT.** This extension spec is superseded by **SIML v1.5** (Consolidated Canonical Reference). It is retained as a historical record of the Causal Emergence integration — the intellectual argument for why EI/CE entered the grammar, and the collision with Hoel's work that produced it. For the current operational specification, see `SIML_v1_5.md`.
+
 ---
 
 ## 0. Purpose of This Extension

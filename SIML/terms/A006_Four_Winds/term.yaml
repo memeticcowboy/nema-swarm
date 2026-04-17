@@ -1,10 +1,7 @@
 hex_tag: '#A006'
 term: Four Winds (Indigenous North America)
-nemetic: Φ(Four-Winds) = δγ(cyclical-power|seasonal-rotation) ∘ σ(distinction|directional-qualities)
-  ∘ ρ(spiritual-resonance|Earth's-breath) ∘ λ(moral-direction|teaching-force) + ε
-  | :pure
-siml_encoding: ⟨Frame|Medicine-Wheel⟩ ⊳ ⟨Environment|North-America⟩ ⇄ ⟨Value|balance⟩
-  ⊗ ⟨Narrative|creation-teaching⟩ → ⟨Outcome|harmonious-living⟩
+nemetic: Φ(Four-Winds) = δγ(cyclical-power|seasonal-rotation) ∘ σ(distinction|directional-qualities) ∘ ρ(spiritual-resonance|Earth's-breath) ∘ λ(moral-direction|teaching-force) + ε | :pure
+siml_encoding: ⟨Frame|Medicine-Wheel⟩ ⊳ ⟨Environment|North-America⟩ ⇄ ⟨Value|balance⟩ ⊗ ⟨Narrative|creation-teaching⟩ → ⟨Outcome|harmonious-living⟩
 formalism:
   math_operators:
   - δγ
@@ -66,6 +63,17 @@ coords:
     - Earth's Breath
     - Directional Teachers
     power_mode: With
+  coherence:
+    state: integrated
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How are the Four Winds distinguished by direction and quality?
   ≈: What resonance does the Earth's breath carry?
@@ -73,24 +81,66 @@ elemental_emphasis:
   𐂷: What possibilities emerge from understanding all four winds?
   ☷: How do the winds cycle through seasons and life stages?
   ⛨: What boundaries do the winds respect or challenge?
-context_note: 'Four Winds represents Air as cyclical teaching—each direction carries
-  specific qualities (North: wisdom/endurance, East: new beginnings, South: growth/youth,
-  West: introspection). Unlike single-deity Air concepts, this is distributed agency—four
-  powers, not one. Key insight: winds are Earth''s breath (Maka Oniye), making Air
-  relational, not elemental. The Medicine Wheel integrates directions with seasons,
-  life stages, and moral lessons.'
-source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic
-  Cowboy
+context_note: 'Four Winds represents Air as cyclical teaching—each direction carries specific qualities (North: wisdom/endurance, East: new beginnings, South: growth/youth, West: introspection). Unlike single-deity Air concepts, this is distributed agency—four powers, not one. Key insight: winds are Earth''s breath (Maka Oniye), making Air relational, not elemental. The Medicine Wheel integrates directions with seasons, life stages, and moral lessons.'
+source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Air Symbolism in Ancient Philosophical and Indigenous Traditions"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.3
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Wood
+  - Metal
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.3
+    Earth: 0.8
+    Metal: 0.3
+    Meta: 0.3

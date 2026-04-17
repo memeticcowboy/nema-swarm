@@ -1,32 +1,151 @@
 ---
-term: "Post-Heroic Reversal: Return with Capacity"
-hex_tag: "S1B9"
-series: "S"
-source_file: "1771907213761_2650853_Post-Heroic+Reversal%3A+Return+with+Capacity.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The post-heroic monomyth reframes the hero's return not as dominance or enlightenment but as shared capacity. The hero becomes facilitator rather than savior, returning lighter rather than larger. Mythic status is detached from superiority and attached to service."
-nemetic: "Φ(Post-Heroic Reversal) = σ(savior|facilitator) ∘ ρ(lone_genius|shared_capacity) ∘ λ(dominance|service) ∘ β(enlargement|lightening) ∘ δγ(hero_journey|capacity_distribution) ∘ μ(superiority|collective_uplift) + ε | :quiet_purpose"
-siml_encoding: "⟨savior, facilitator⟩ ⊳ ⟨lone_genius, shared_capacity⟩ → ⟨dominance, service⟩ ⊗ ⟨enlargement, lightening⟩ ⇄ ⟨superiority, collective_uplift⟩"
+term: 'Post-Heroic Reversal: Return with Capacity'
+hex_tag: S1B9
+series: S
+source_file: 1771907213761_2650853_Post-Heroic+Reversal%3A+Return+with+Capacity.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The post-heroic monomyth reframes the hero's return not as dominance or enlightenment but as shared capacity. The hero becomes facilitator rather than savior, returning lighter rather than larger. Mythic status is detached from superiority and attached to service.
+nemetic: Φ(Post-Heroic Reversal) = σ(savior|facilitator) ∘ ρ(lone_genius|shared_capacity) ∘ λ(dominance|service) ∘ β(enlargement|lightening) ∘ δγ(hero_journey|capacity_distribution) ∘ μ(superiority|collective_uplift) + ε | :quiet_purpose
+siml_encoding: ⟨savior, facilitator⟩ ⊳ ⟨lone_genius, shared_capacity⟩ → ⟨dominance, service⟩ ⊗ ⟨enlargement, lightening⟩ ⇄ ⟨superiority, collective_uplift⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: savior / facilitator
+      S: enlargement / lightening
+      R: lone_genius / shared_capacity
+      P: dominance / service
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes the savior archetype from the facilitator archetype. The hero's identity shifts from one who conquers to one who enables."
-    - "∂Φ/∂ρ — Water reframes the relational field from lone genius bearing wisdom to shared capacity where others can now act. Connection replaces command."
-    - "∂Φ/∂λ — Fire transforms dominance into service, the mythic return into a capacity-building event rather than a throne-claiming one."
-    - "∂Φ/∂β — Wood grows through lightening rather than enlargement. The hero returns with less ego, not more power."
-    - "∂Φ/∂δγ — Earth cycles the hero journey from individual ascent into distributed capacity. The return feeds collective capability."
-    - "∂Φ/∂μ — Metal structures the anti-domination myth: collective uplift over superiority, service over status."
-  Z_state: "quiet_purpose — meaning without ego, belonging through contribution rather than distinction"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ — Air distinguishes the savior archetype from the facilitator archetype. The hero's identity shifts from one who conquers to one who enables.
+  - ∂Φ/∂ρ — Water reframes the relational field from lone genius bearing wisdom to shared capacity where others can now act. Connection replaces command.
+  - ∂Φ/∂λ — Fire transforms dominance into service, the mythic return into a capacity-building event rather than a throne-claiming one.
+  - ∂Φ/∂β — Wood grows through lightening rather than enlargement. The hero returns with less ego, not more power.
+  - ∂Φ/∂δγ — Earth cycles the hero journey from individual ascent into distributed capacity. The return feeds collective capability.
+  - '∂Φ/∂μ — Metal structures the anti-domination myth: collective uplift over superiority, service over status.'
+  Z_state: semi
+  z_note: quiet_purpose — meaning without ego, belonging through contribution rather than distinction
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["savior-facilitator distinction", "identity reframe"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["shared capacity", "belonging through contribution"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["dominance-to-service", "mythic remix"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["lightening return", "ego reduction"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.62, aspects: ["capacity distribution", "journey cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.68, aspects: ["anti-domination structure", "collective uplift"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - savior-facilitator distinction
+    - identity reframe
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - shared capacity
+    - belonging through contribution
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - dominance-to-service
+    - mythic remix
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - lightening return
+    - ego reduction
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.62
+    aspects:
+    - capacity distribution
+    - journey cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.68
+    aspects:
+    - anti-domination structure
+    - collective uplift
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.8
+    fire_lambda: 0.72
+    wood_beta: 0.65
+    earth_delta_gamma: 0.62
+    metal_mu: 0.68
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213761_2650853_Post-Heroic+Reversal%3A+Return+with+Capacity.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

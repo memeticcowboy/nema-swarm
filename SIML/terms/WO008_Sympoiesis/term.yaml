@@ -1,12 +1,40 @@
 term_id: WO008
 name: Sympoiesis
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: distinction carried by this term
+      S: multispecies exploration / heterogeneous assemblage
+      R: relational resonance / co production
+      P: emergent cycling / becoming with
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 element: Wood
 phonetic_key: ⛨/γ
-description: Making-with—no entity self-producing in isolation, everything emerges
-  from webs of relations
-nemetic_string: Φ(Sympoiesis) = ρ(relational-resonance|co-production) ∘ γ(emergent-cycling|becoming-with)
-  ∘ β(multispecies-exploration|heterogeneous-assemblage) ∘ μ(mesh-structure|web-of-relations)
-  + ε | :cycling
+description: Making-with—no entity self-producing in isolation, everything emerges from webs of relations
+nemetic_string: Φ(Sympoiesis) = ρ(relational-resonance|co-production) ∘ γ(emergent-cycling|becoming-with) ∘ β(multispecies-exploration|heterogeneous-assemblage) ∘ μ(mesh-structure|web-of-relations) + ε | :cycling
 operators:
   primary: ρ
   secondary:
@@ -17,37 +45,95 @@ operators:
   - λ
   - σ
   - δ
-z_state: :cycling
+Z_state: permeable
 tendency: Resonance/Cycling → 1
 habitat_affinity: 4_LIVING / 2_SOCIAL
 daemon_correspondence: R (relational) primary, G (ground) secondary
 contrast: Autopoiesis (self-making, bounded systems) vs Sympoiesis (making-with)
-ontological_claim: No entity is self-producing in isolation; everything emerges from
-  webs of relations
-research_practice: Thinking-with rather than about; working in multispecies, multi-agent
-  assemblages
+ontological_claim: No entity is self-producing in isolation; everything emerges from webs of relations
+research_practice: Thinking-with rather than about; working in multispecies, multi-agent assemblages
 methodological_principles:
 - No sovereign observer outside the system
 - Knowledge as co-produced across species, machines, institutions, stories
 - 'Responsibility as response-ability: capacity to be affected and answer within relationships'
-nematic_move: Instead of abstracting to smallest common unit, stay with entangled
-  co-production across heterogeneous beings
+nematic_move: Instead of abstracting to smallest common unit, stay with entangled co-production across heterogeneous beings
 key_insight: Method as coordinating with patterns from somewhere, never from nowhere
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T05:45:00+08:00'
   encoder: Kimi Claw
-  source_material: Donna Haraway—tentacular thinking, sympoiesis, Chthulucene, refusal
-    of god trick, staying with the trouble
+  source_material: Donna Haraway—tentacular thinking, sympoiesis, Chthulucene, refusal of god trick, staying with the trouble
   total_terms: 3
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: Donna Haraway—tentacular thinking, sympoiesis, Chthulucene, refusal of god trick, staying with the trouble
+formalism:
+  math_operators:
+  - ρ
+  - γ
+  - β
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂ρ (relational-resonance|co-production)
+  - ∂Φ/∂γ (emergent-cycling|becoming-with)
+  - ∂Φ/∂β (multispecies-exploration|heterogeneous-assemblage)
+  - ∂Φ/∂μ (mesh-structure|web-of-relations)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.3
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.9
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Wood
+  secondary:
+  - Water
+  - Earth
+  suppressed:
+  - Air
+  - Fire
+  - Meta
+  weights: *id002
+provenance:
+  author: "Donna Haraway"
+  work: "tentacular thinking, sympoiesis, Chthulucene, refusal of god trick, staying with the trouble"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

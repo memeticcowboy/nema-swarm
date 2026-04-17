@@ -1,83 +1,153 @@
 ---
-term: "Brain's Learning for UX"
-hex_tag: "#C077"
-nemetic: "Φ(BrainLearningUX) = σ(hardwired|learned) ∘ ρ(memory|attention) ∘ λ(feedback|insight) ∘ β(iteration|growth) ∘ δγ(cognition|embodiment) ∘ μ(interface|neural) + ε | :aligning"
-siml_encoding: "⟨Cognition|understood⟩ ⊳ ⟨Interface|designed⟩ → ⟨Feedback|natural⟩ ⊗ ⟨Experience|intuitive⟩ ⇄ ⟨Product|evolved⟩"
+term: Brain's Learning for UX
+hex_tag: '#C077'
+nemetic: Φ(BrainLearningUX) = σ(hardwired|learned) ∘ ρ(memory|attention) ∘ λ(feedback|insight) ∘ β(iteration|growth) ∘ δγ(cognition|embodiment) ∘ μ(interface|neural) + ε | :aligning
+siml_encoding: ⟨Cognition|understood⟩ ⊳ ⟨Interface|designed⟩ → ⟨Feedback|natural⟩ ⊗ ⟨Experience|intuitive⟩ ⇄ ⟨Product|evolved⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between hardwired neural mechanisms and learned behaviors; the logical separation of innate cognitive processes from culturally acquired patterns)"
-    - "∂Φ/∂ρ (relational flow between memory retention and attention span; the channel connecting cognitive load to interface comprehension)"
-    - "∂Φ/∂λ (transformative spark when feedback mechanisms align with natural learning processes; the catalytic moment of user insight emergence)"
-    - "∂Φ/∂β (developmental cycle between iterative testing and product evolution; the organic growth of user experience through continuous refinement)"
-    - "∂Φ/∂δγ (cyclical oscillation between cognitive theory and embodied practice; the rhythm of brain-centered design grounding in user reality)"
-    - "∂Φ/∂μ (boundary permeability between neural architecture and digital interface; the threshold where cognitive science meets design practice)"
-  Z_state: "aligning (boundaries between cognitive science and design practice dissolve through brain-centered methodology; neural understanding and interface creation converge into coherent user experience)"
-  tendency: "Intuition/Complexity → 0.75 (strong drive toward natural interaction; achieving effective UX requires balancing cognitive simplicity with functional depth)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between hardwired neural mechanisms and learned behaviors; the logical separation of innate cognitive processes from culturally acquired patterns)
+  - ∂Φ/∂ρ (relational flow between memory retention and attention span; the channel connecting cognitive load to interface comprehension)
+  - ∂Φ/∂λ (transformative spark when feedback mechanisms align with natural learning processes; the catalytic moment of user insight emergence)
+  - ∂Φ/∂β (developmental cycle between iterative testing and product evolution; the organic growth of user experience through continuous refinement)
+  - ∂Φ/∂δγ (cyclical oscillation between cognitive theory and embodied practice; the rhythm of brain-centered design grounding in user reality)
+  - ∂Φ/∂μ (boundary permeability between neural architecture and digital interface; the threshold where cognitive science meets design practice)
+  Z_state: semi
+  z_note: aligning (boundaries between cognitive science and design practice dissolve through brain-centered methodology; neural understanding and interface creation converge into coherent user experience)
+  tendency: Intuition/Complexity → 0.75 (strong drive toward natural interaction; achieving effective UX requires balancing cognitive simplicity with functional depth)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: It
     secondary: I
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: hardwired / learned
+      S: iteration / growth
+      R: memory / attention
+      P: feedback / insight
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "categorical classification of hardwired versus learned behaviors; logical taxonomy distinguishing innate neural mechanisms from culturally acquired patterns"
-      - "analytical distinction between cognitive processes and their design implications; clear categorization of memory and attention systems"
-    daemon_correspondence: "Aerunik"
+    - categorical classification of hardwired versus learned behaviors; logical taxonomy distinguishing innate neural mechanisms from culturally acquired patterns
+    - analytical distinction between cognitive processes and their design implications; clear categorization of memory and attention systems
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between memory retention and attention mechanisms; the relational dynamics connecting cognitive load to comprehension"
-      - "adaptive channels of feedback that resonate with natural learning processes"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between memory retention and attention mechanisms; the relational dynamics connecting cognitive load to comprehension
+    - adaptive channels of feedback that resonate with natural learning processes
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "transformative spark when user feedback ignites design insight; the catalytic moment of understanding user needs"
-      - "energetic drive of iterative improvement propelling product evolution"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when user feedback ignites design insight; the catalytic moment of understanding user needs
+    - energetic drive of iterative improvement propelling product evolution
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of user experience through continuous iteration; the unfolding of product maturity through feedback cycles"
-      - "developmental progression from initial design hypothesis to refined intuitive interface"
-    daemon_correspondence: "Arboriel"
+    - organic growth of user experience through continuous iteration; the unfolding of product maturity through feedback cycles
+    - developmental progression from initial design hypothesis to refined intuitive interface
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in embodied cognitive reality; the cyclical return between theoretical models and user testing"
-      - "embodied practice of aligning digital interfaces with neural hardwiring"
-    daemon_correspondence: "Humavita"
+    - grounding in embodied cognitive reality; the cyclical return between theoretical models and user testing
+    - embodied practice of aligning digital interfaces with neural hardwiring
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural precision of feedback mechanism design; the architectural framework connecting cognitive science to interface elements"
-      - "boundary discernment between cognitive load and user capacity; the threshold where complexity becomes intuitive"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of feedback mechanism design; the architectural framework connecting cognitive science to interface elements
+    - boundary discernment between cognitive load and user capacity; the threshold where complexity becomes intuitive
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify hardwired versus learned behaviors? What categorical cuts separate innate neural mechanisms from culturally acquired patterns?"
-  ≈: "What flows between memory and attention? How do cognitive load and comprehension channel into intuitive design?"
-  ▲: "Where does the spark of user insight ignite? What transforms feedback data into design evolution?"
-  𐂷: "What forms of UX growth emerge from iteration? What developmental potential lies in continuous feedback cycles?"
-  ☷: "What sustains the ground of cognitive embodiment? What are the cyclical returns between theory and user reality?"
-  ⛨: "What structures contain cognitive load? What boundaries separate complexity from intuition?"
-context_note: "Brain's Learning for UX explores how understanding hardwired cognitive processes—memory retention, attention span, and natural learning mechanisms—can revolutionize user interface design. By aligning feedback mechanisms with how the brain naturally processes information, designers create more intuitive experiences and effective feedback loops. Key themes include cognitive process integration (designing interfaces that work with neural architecture), effective feedback mechanisms (tailoring responses to optimize learning), and iterative improvements (continuous refinement informed by cognitive principles). The framework bridges cognitive science and product development, recognizing that early childhood experiences shape neural connectivity, that memes spread like cultural currency, and that learning strengthens neural pathways like building highways. This approach leads to more natural, efficient user experiences and fosters continuous product evolution grounded in how humans actually think and learn."
-source_file: "1771907212461_299596_Harnessing+Brain%27s+Learning+for+UX.md"
----
+  ∴: How do we classify hardwired versus learned behaviors? What categorical cuts separate innate neural mechanisms from culturally acquired patterns?
+  ≈: What flows between memory and attention? How do cognitive load and comprehension channel into intuitive design?
+  ▲: Where does the spark of user insight ignite? What transforms feedback data into design evolution?
+  𐂷: What forms of UX growth emerge from iteration? What developmental potential lies in continuous feedback cycles?
+  ☷: What sustains the ground of cognitive embodiment? What are the cyclical returns between theory and user reality?
+  ⛨: What structures contain cognitive load? What boundaries separate complexity from intuition?
+context_note: Brain's Learning for UX explores how understanding hardwired cognitive processes—memory retention, attention span, and natural learning mechanisms—can revolutionize user interface design. By aligning feedback mechanisms with how the brain naturally processes information, designers create more intuitive experiences and effective feedback loops. Key themes include cognitive process integration (designing interfaces that work with neural architecture), effective feedback mechanisms (tailoring responses to optimize learning), and iterative improvements (continuous refinement informed by cognitive principles). The framework bridges cognitive science and product development, recognizing that early childhood experiences shape neural connectivity, that memes spread like cultural currency, and that learning strengthens neural pathways like building highways. This approach leads to more natural, efficient user experiences and fosters continuous product evolution grounded in how humans actually think and learn.
+source_file: 1771907212461_299596_Harnessing+Brain%27s+Learning+for+UX.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.7
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+provenance:
+  source_file: "1771907212461_299596_Harnessing+Brain%27s+Learning+for+UX.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

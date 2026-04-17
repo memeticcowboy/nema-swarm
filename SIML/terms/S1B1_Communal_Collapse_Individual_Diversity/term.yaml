@@ -1,32 +1,151 @@
 ---
-term: "Communal Collapse: Navigating Individual Diversity"
-hex_tag: "S1B1"
-series: "S"
-source_file: "1771907213738_2636773_Communal+Collapse%3A+Navigating+Individual+Diversity.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Individuals differentiate faster than communities metabolize difference, creating a misalignment between diversity velocity and communal bandwidth. Communities built for sameness cannot hold variance, producing mutual hungry-ghost dynamics where both individual and collective starve for what the other cannot provide."
-nemetic: "Φ(Communal Collapse) = σ(sameness|variance) ∘ ρ(belonging|rejection) ∘ λ(conformity|modular_design) ∘ β(differentiation|metabolic_capacity) ∘ δγ(exclusion|composting_difference) ∘ μ(power_over|power_with) + ε | :hungry_ghost"
-siml_encoding: "⟨sameness, variance⟩ ⊳ ⟨belonging, rejection⟩ → ⟨conformity, modular_design⟩ ⊗ ⟨differentiation, metabolic_capacity⟩ ⇄ ⟨power_over, power_with⟩"
+term: 'Communal Collapse: Navigating Individual Diversity'
+hex_tag: S1B1
+series: S
+source_file: 1771907213738_2636773_Communal+Collapse%3A+Navigating+Individual+Diversity.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Individuals differentiate faster than communities metabolize difference, creating a misalignment between diversity velocity and communal bandwidth. Communities built for sameness cannot hold variance, producing mutual hungry-ghost dynamics where both individual and collective starve for what the other cannot provide.
+nemetic: Φ(Communal Collapse) = σ(sameness|variance) ∘ ρ(belonging|rejection) ∘ λ(conformity|modular_design) ∘ β(differentiation|metabolic_capacity) ∘ δγ(exclusion|composting_difference) ∘ μ(power_over|power_with) + ε | :hungry_ghost
+siml_encoding: ⟨sameness, variance⟩ ⊳ ⟨belonging, rejection⟩ → ⟨conformity, modular_design⟩ ⊗ ⟨differentiation, metabolic_capacity⟩ ⇄ ⟨power_over, power_with⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: sameness / variance
+      S: differentiation / metabolic_capacity
+      R: belonging / rejection
+      P: conformity / modular_design
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes between sameness-seeking community structures and the variance that individuals increasingly embody. The core distinction is that communities were built to synchronize behavior and compress identity, not to accommodate divergence."
-    - "∂Φ/∂ρ — Water maps the relational collapse between individuals seeking belonging and communities defaulting to rejection. The hungry ghost metaphor captures two starving systems circling each other, unable to nourish what the other needs."
-    - "∂Φ/∂λ — Fire transforms the diagnosis from moral failure to capacity problem, proposing new communal architectures that are smaller, modular, slower, and opt-in rather than demanding conformity."
-    - "∂Φ/∂β — Wood tracks how individuals differentiate faster than communities can metabolize difference. Growth velocity outpaces communal bandwidth, creating the core misalignment."
-    - "∂Φ/∂δγ — Earth cycles through the shadow dynamics where communities default to exclusion, flattening, or ghosting. The proposed solution involves metabolically aware communities that design around their limits."
-    - "∂Φ/∂μ — Metal structures the power analysis: Power Over enforces conformity, Power With holds difference. Most communities default to Power Over because they never trained the muscles for collective variance-holding."
-  Z_state: "hungry_ghost — the state where capacity to receive does not match hunger, producing mutual starvation between individual and collective"
-  tendency: "ρ → 0.82"
+  - ∂Φ/∂σ — Air distinguishes between sameness-seeking community structures and the variance that individuals increasingly embody. The core distinction is that communities were built to synchronize behavior and compress identity, not to accommodate divergence.
+  - ∂Φ/∂ρ — Water maps the relational collapse between individuals seeking belonging and communities defaulting to rejection. The hungry ghost metaphor captures two starving systems circling each other, unable to nourish what the other needs.
+  - ∂Φ/∂λ — Fire transforms the diagnosis from moral failure to capacity problem, proposing new communal architectures that are smaller, modular, slower, and opt-in rather than demanding conformity.
+  - ∂Φ/∂β — Wood tracks how individuals differentiate faster than communities can metabolize difference. Growth velocity outpaces communal bandwidth, creating the core misalignment.
+  - ∂Φ/∂δγ — Earth cycles through the shadow dynamics where communities default to exclusion, flattening, or ghosting. The proposed solution involves metabolically aware communities that design around their limits.
+  - '∂Φ/∂μ — Metal structures the power analysis: Power Over enforces conformity, Power With holds difference. Most communities default to Power Over because they never trained the muscles for collective variance-holding.'
+  Z_state: semi
+  z_note: hungry_ghost — the state where capacity to receive does not match hunger, producing mutual starvation between individual and collective
+  tendency: ρ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["sameness-variance distinction", "legibility demand"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["belonging-rejection dynamics", "hungry ghost circulation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.65, aspects: ["diagnostic reframe", "new architectures"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.78, aspects: ["diversity velocity", "differentiation speed"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["metabolic processing", "composting difference"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.68, aspects: ["power structures", "capacity limits"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - sameness-variance distinction
+    - legibility demand
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - belonging-rejection dynamics
+    - hungry ghost circulation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+    - diagnostic reframe
+    - new architectures
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.78
+    aspects:
+    - diversity velocity
+    - differentiation speed
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - metabolic processing
+    - composting difference
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.68
+    aspects:
+    - power structures
+    - capacity limits
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.82
+    fire_lambda: 0.65
+    wood_beta: 0.78
+    earth_delta_gamma: 0.72
+    metal_mu: 0.68
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213738_2636773_Communal+Collapse%3A+Navigating+Individual+Diversity.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,105 +1,149 @@
 term_id: C144
 hex_tag: '#C144'
 name: Rethinking_Success
-term: "Rethinking Success - Think Again"
-nemetic: >-
-  Φ(Rethink) = σ(certainty|doubt) ∘ ρ(belief|evidence) ∘ λ(unlearning|growth)
-  ∘ β(feedback|revision) ∘ δγ(identity|adaptation)
-  ∘ μ(humility|confidence) + ε | :open
-siml_encoding: >-
-  ⟨Certainty|suspended⟩ ⊳ ⟨Evidence|weighted⟩ ⊗ ⟨Unlearning|active⟩
-  ⊗ ⟨Revision|iterative⟩ ⊗ ⟨Growth|sustained⟩
+term: Rethinking Success - Think Again
+nemetic: Φ(Rethink) = σ(certainty|doubt) ∘ ρ(belief|evidence) ∘ λ(unlearning|growth) ∘ β(feedback|revision) ∘ δγ(identity|adaptation) ∘ μ(humility|confidence) + ε | :open
+siml_encoding: ⟨Certainty|suspended⟩ ⊳ ⟨Evidence|weighted⟩ ⊗ ⟨Unlearning|active⟩ ⊗ ⟨Revision|iterative⟩ ⊗ ⟨Growth|sustained⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (how certainty/doubt balance shifts with new information)"
-    - "∂Φ/∂ρ (belief-evidence coupling strength — how tightly we hold convictions)"
-    - "∂Φ/∂λ (directionality of unlearning — rate of mental model updating)"
-    - "∂Φ/∂β (feedback loop responsiveness — speed of belief revision)"
-    - "∂Φ/∂δγ (identity adaptation cost — resistance to changing self-concept)"
-    - "∂Φ/∂μ (humility-confidence equilibrium — maintaining agency while staying open)"
+  - ∂Φ/∂σ (how certainty/doubt balance shifts with new information)
+  - ∂Φ/∂ρ (belief-evidence coupling strength — how tightly we hold convictions)
+  - ∂Φ/∂λ (directionality of unlearning — rate of mental model updating)
+  - ∂Φ/∂β (feedback loop responsiveness — speed of belief revision)
+  - ∂Φ/∂δγ (identity adaptation cost — resistance to changing self-concept)
+  - ∂Φ/∂μ (humility-confidence equilibrium — maintaining agency while staying open)
   Z_state: permeable
-  tendency: "Doubt/Certainty → 0.6"
+  tendency: Doubt/Certainty → 0.6
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
+    - We
   epistemics:
     dsrp:
-      D: "Scientist mindset vs. preacher/prosecutor/politician modes"
-      S: "Iterative belief-revision system with psychological safety"
-      R: "Beliefs as hypotheses tested against evidence, not defended as identity"
-      P: "Adam Grant's organizational psychology research"
+      D: Scientist mindset vs. preacher/prosecutor/politician modes
+      S: Iterative belief-revision system with psychological safety
+      R: Beliefs as hypotheses tested against evidence, not defended as identity
+      P: Adam Grant's organizational psychology research
     learning: L2
   time:
     mode: cyclical
-    phase: "iterative revision"
+    phase: iterative revision
   qualia:
     affect:
-      - humility
-      - curiosity
-      - discomfort
+    - humility
+    - curiosity
+    - discomfort
     aesthetic:
-      - iterative
-      - flexible
-      - nuanced
+    - iterative
+    - flexible
+    - nuanced
     symbolic:
-      - scientist-mindset
-      - confident-humility
-      - identity-foreclosure
+    - scientist-mindset
+    - confident-humility
+    - identity-foreclosure
     energetic:
-      - updating
-      - releasing
-      - growing
+    - updating
+    - releasing
+    - growing
   agency:
     type: ego
     voice:
-      - Curious Scientist
-      - Humble Revisionist
+    - Curious Scientist
+    - Humble Revisionist
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "What separates the scientist mindset from preacher, prosecutor, and politician modes?"
-  ≈: "How do beliefs flow and change? What makes evidence emotionally persuasive?"
-  ▲: "Where does unlearning lead? What is the telos of intellectual humility?"
-  𐂷: "What possibilities open when we escape identity foreclosure?"
-  ☷: "What sustains a culture of psychological safety for productive disagreement?"
-  ⛨: "What structures enable confident humility without paralysis or false openness?"
-context_note: >-
-  Adam Grant's Think Again presents a framework for intellectual flexibility,
-  emphasizing the scientist mindset, confident humility, and separating identity
-  from beliefs to enable continuous growth through iterative revision.
-source: "Rethinking Success: Insights from Adam Grant (Think Again)"
+  ∴: What separates the scientist mindset from preacher, prosecutor, and politician modes?
+  ≈: How do beliefs flow and change? What makes evidence emotionally persuasive?
+  ▲: Where does unlearning lead? What is the telos of intellectual humility?
+  𐂷: What possibilities open when we escape identity foreclosure?
+  ☷: What sustains a culture of psychological safety for productive disagreement?
+  ⛨: What structures enable confident humility without paralysis or false openness?
+context_note: Adam Grant's Think Again presents a framework for intellectual flexibility, emphasizing the scientist mindset, confident humility, and separating identity from beliefs to enable continuous growth through iterative revision.
+source: 'Rethinking Success: Insights from Adam Grant (Think Again)'
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

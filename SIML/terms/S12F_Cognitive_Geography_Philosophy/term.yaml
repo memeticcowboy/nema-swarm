@@ -1,32 +1,151 @@
 ---
-term: "Cognitive Geography Philosophy"
-hex_tag: "S12F"
-series: "S"
-source_file: "1771907213391_2360237_Philosophical+Analysis+of+Cognitive+Geography%3A+Metaphysics%2C+Epistemology%2C+and+Political+Implications.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Philosophical analysis of cognitive geography — the study of mental representations of space. Constructivist metaphysics where cognitive space is ontologically significant. Examines how mental maps and spatial distortions reflect deeper assumptions about reality, and the tensions between subjective spatial cognition and objective geography."
-nemetic: "Φ(Cognitive Geography Philosophy) = σ(subjective_space|objective_geography) ∘ ρ(individual_map|collective_spatial_understanding) ∘ λ(spatial_distortion|reality_assumption) ∘ β(empirical_psychology|phenomenological_knowledge) ∘ δγ(constructivist_ontology|realist_cartography) ∘ μ(mental_representation|geographic_framework) + ε | :ontologically_significant_cognitive_space"
-siml_encoding: "⟨subjective_objective_spatial_distinction, cognitive_scope⟩ ⊳ ⟨individual_collective_mapping, relational_geography⟩ → ⟨distortion_assumption_catalysis, spatial_transformation⟩ ⊗ ⟨empirical_phenomenological_growth, epistemic_expansion⟩ ⇄ ⟨constructivist_realist_cycling, ontological_rhythm⟩"
+term: Cognitive Geography Philosophy
+hex_tag: S12F
+series: S
+source_file: 1771907213391_2360237_Philosophical+Analysis+of+Cognitive+Geography%3A+Metaphysics%2C+Epistemology%2C+and+Political+Implications.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Philosophical analysis of cognitive geography — the study of mental representations of space. Constructivist metaphysics where cognitive space is ontologically significant. Examines how mental maps and spatial distortions reflect deeper assumptions about reality, and the tensions between subjective spatial cognition and objective geography.
+nemetic: Φ(Cognitive Geography Philosophy) = σ(subjective_space|objective_geography) ∘ ρ(individual_map|collective_spatial_understanding) ∘ λ(spatial_distortion|reality_assumption) ∘ β(empirical_psychology|phenomenological_knowledge) ∘ δγ(constructivist_ontology|realist_cartography) ∘ μ(mental_representation|geographic_framework) + ε | :ontologically_significant_cognitive_space
+siml_encoding: ⟨subjective_objective_spatial_distinction, cognitive_scope⟩ ⊳ ⟨individual_collective_mapping, relational_geography⟩ → ⟨distortion_assumption_catalysis, spatial_transformation⟩ ⊗ ⟨empirical_phenomenological_growth, epistemic_expansion⟩ ⇄ ⟨constructivist_realist_cycling, ontological_rhythm⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: subjective_space / objective_geography
+      S: empirical_psychology / phenomenological_knowledge
+      R: individual_map / collective_spatial_understanding
+      P: spatial_distortion / reality_assumption
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing subjective spatial cognition from objective geography — the foundational discernment between how the mind represents space and how space exists independently, revealing that cognitive maps are not neutral reflections but ontologically loaded constructions)"
-    - "∂Φ/∂ρ (relating individual cognitive maps to collective spatial understanding — the relational web between personal mental geographies and shared cultural, political, and social mappings of space, where neither individual nor collective maps are reducible to the other)"
-    - "∂Φ/∂λ (transforming spatial distortions into revelations about reality assumptions — the catalytic insight that distortions in mental maps are not mere errors but reflect deeper metaphysical, epistemological, and political commitments about the nature of space and place)"
-    - "∂Φ/∂β (growth from empirical psychology to phenomenological and indigenous knowledge — expanding the epistemological base from controlled laboratory studies of spatial cognition to include lived, embodied, and culturally situated ways of knowing space)"
-    - "∂Φ/∂δγ (cycling between constructivist ontology and realist cartography — the oscillation between viewing cognitive space as ontologically constitutive and treating geographic space as objectively given, grounding the analysis in productive tension rather than resolution)"
-    - "∂Φ/∂μ (structural correspondence between mental representations and geographic frameworks — the architecture mapping how cognitive spatial structures relate to formal cartographic and geographic systems, holding both in productive tension)"
-  Z_state: "ontologically_significant_cognitive_space — cognitive geography reveals that mental representations of space are not mere approximations of objective reality but ontologically significant constructions that shape experience, politics, and knowledge; the philosophical analysis shows that spatial cognition is constitutive rather than merely representative; constructivist metaphysics gives cognitive space genuine ontological standing while acknowledging the constraints of physical geography"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing subjective spatial cognition from objective geography — the foundational discernment between how the mind represents space and how space exists independently, revealing that cognitive maps are not neutral reflections but ontologically loaded constructions)
+  - ∂Φ/∂ρ (relating individual cognitive maps to collective spatial understanding — the relational web between personal mental geographies and shared cultural, political, and social mappings of space, where neither individual nor collective maps are reducible to the other)
+  - ∂Φ/∂λ (transforming spatial distortions into revelations about reality assumptions — the catalytic insight that distortions in mental maps are not mere errors but reflect deeper metaphysical, epistemological, and political commitments about the nature of space and place)
+  - ∂Φ/∂β (growth from empirical psychology to phenomenological and indigenous knowledge — expanding the epistemological base from controlled laboratory studies of spatial cognition to include lived, embodied, and culturally situated ways of knowing space)
+  - ∂Φ/∂δγ (cycling between constructivist ontology and realist cartography — the oscillation between viewing cognitive space as ontologically constitutive and treating geographic space as objectively given, grounding the analysis in productive tension rather than resolution)
+  - ∂Φ/∂μ (structural correspondence between mental representations and geographic frameworks — the architecture mapping how cognitive spatial structures relate to formal cartographic and geographic systems, holding both in productive tension)
+  Z_state: semi
+  z_note: ontologically_significant_cognitive_space — cognitive geography reveals that mental representations of space are not mere approximations of objective reality but ontologically significant constructions that shape experience, politics, and knowledge; the philosophical analysis shows that spatial cognition is constitutive rather than merely representative; constructivist metaphysics gives cognitive space genuine ontological standing while acknowledging the constraints of physical geography
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["subjective_objective_spatial_discernment", "cognitive_geographic_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["individual_collective_mapping_flow", "cultural_spatial_relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["distortion_as_revelation_catalysis", "assumption_exposure_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["empirical_to_phenomenological_growth", "epistemic_base_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["constructivist_realist_grounding", "ontological_oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["representational_framework_structure", "cartographic_architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - subjective_objective_spatial_discernment
+    - cognitive_geographic_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - individual_collective_mapping_flow
+    - cultural_spatial_relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - distortion_as_revelation_catalysis
+    - assumption_exposure_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - empirical_to_phenomenological_growth
+    - epistemic_base_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - constructivist_realist_grounding
+    - ontological_oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - representational_framework_structure
+    - cartographic_architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213391_2360237_Philosophical+Analysis+of+Cognitive+Geography%3A+Metaphysics%2C+Epistemology%2C+and+Political+Implications.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

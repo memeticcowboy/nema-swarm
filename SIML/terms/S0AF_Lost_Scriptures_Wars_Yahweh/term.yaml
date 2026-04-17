@@ -1,32 +1,154 @@
 ---
-term: "Lost Scriptures and Wars of Yahweh"
-hex_tag: "S0AF"
-series: "S"
-source_file: "1771907213010_1931228_Exploring+Lost+Scriptures%3A+Insights+from+The+Book+of+the+Wars+of+Yahweh.md"
-encoded_at: "2026-03-06T03:30:00Z"
-description: "Exploring lost scriptures of ancient Israel through eight key thinking components — over 20 lost Israelite books referenced in the Hebrew Bible (Book of Wars of Yahweh, Book of Jasher, Chronicles of the Kings) spanning genres from epic poetry to wisdom literature; challenging simplistic views of the Bible as a unified, static text by revealing the complexity and plurality of early scriptural traditions; survivor bias in textual transmission (mistaken belief that surviving texts represent the whole); Bible as heterogeneous library rather than singular book; canon formation as historical process determining inclusion and exclusion; implications for religious studies (ongoing investigation of apocryphal literature), theology (challenging notions of scriptural completeness), and historical memory (recognizing how narratives are shaped by what survives)."
-nemetic: "Φ(Lost Scriptures Wars of Yahweh) = σ(unified_static_Bible|heterogeneous_textual_library) ∘ ρ(surviving_canonical_texts|lost_referenced_scriptures) ∘ λ(simplistic_biblical_view|complex_plural_scriptural_understanding) ∘ β(uncritical_textual_reception|scholarly_critical_engagement) ∘ δγ(canon_formation_cycles|textual_survival_loss_iteration) ∘ μ(eight_thinking_components_framework|historical_critical_philological_structure) + ε | :scriptural_complexity_beyond_canonical_simplicity"
-siml_encoding: "⟨unified_heterogeneous_distinction, static_plural_boundary⟩ ⊳ ⟨surviving_lost_relation, canonical_apocryphal_coupling⟩ → ⟨simplistic_to_complex_transformation, critical_scholarly_catalysis⟩ ⊗ ⟨uncritical_to_critical_growth, textual_engagement_development⟩ ⇄ ⟨canon_formation_cycling, survival_loss_iteration⟩"
+term: Lost Scriptures and Wars of Yahweh
+hex_tag: S0AF
+series: S
+source_file: 1771907213010_1931228_Exploring+Lost+Scriptures%3A+Insights+from+The+Book+of+the+Wars+of+Yahweh.md
+encoded_at: '2026-03-06T03:30:00Z'
+description: Exploring lost scriptures of ancient Israel through eight key thinking components — over 20 lost Israelite books referenced in the Hebrew Bible (Book of Wars of Yahweh, Book of Jasher, Chronicles of the Kings) spanning genres from epic poetry to wisdom literature; challenging simplistic views of the Bible as a unified, static text by revealing the complexity and plurality of early scriptural traditions; survivor bias in textual transmission (mistaken belief that surviving texts represent the whole); Bible as heterogeneous library rather than singular book; canon formation as historical process determining inclusion and exclusion; implications for religious studies (ongoing investigation of apocryphal literature), theology (challenging notions of scriptural completeness), and historical memory (recognizing how narratives are shaped by what survives).
+nemetic: Φ(Lost Scriptures Wars of Yahweh) = σ(unified_static_Bible|heterogeneous_textual_library) ∘ ρ(surviving_canonical_texts|lost_referenced_scriptures) ∘ λ(simplistic_biblical_view|complex_plural_scriptural_understanding) ∘ β(uncritical_textual_reception|scholarly_critical_engagement) ∘ δγ(canon_formation_cycles|textual_survival_loss_iteration) ∘ μ(eight_thinking_components_framework|historical_critical_philological_structure) + ε | :scriptural_complexity_beyond_canonical_simplicity
+siml_encoding: ⟨unified_heterogeneous_distinction, static_plural_boundary⟩ ⊳ ⟨surviving_lost_relation, canonical_apocryphal_coupling⟩ → ⟨simplistic_to_complex_transformation, critical_scholarly_catalysis⟩ ⊗ ⟨uncritical_to_critical_growth, textual_engagement_development⟩ ⇄ ⟨canon_formation_cycling, survival_loss_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: unified_static_Bible / heterogeneous_textual_library
+      S: uncritical_textual_reception / scholarly_critical_engagement
+      R: surviving_canonical_texts / lost_referenced_scriptures
+      P: simplistic_biblical_view / complex_plural_scriptural_understanding
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the unified static Bible — the common assumption that the Bible is a single, fixed, divinely preserved text with consistent theology — from the heterogeneous textual library — the scholarly recognition that the Bible is a collection of diverse documents spanning genres, perspectives, and historical periods, referencing over 20 lost works that once formed part of the broader literary landscape)"
-    - "∂Φ/∂ρ (relating surviving canonical texts to lost referenced scriptures — the relational dynamics between the texts that survived the canon formation process and the 20+ texts referenced within surviving scripture but now lost; this relationship reveals survivor bias — the mistaken belief that what remains is representative of the whole — and the much larger, now-lost body of literature that shaped early Israelite and Christian traditions)"
-    - "∂Φ/∂λ (transforming simplistic biblical views — the assumption that the Bible was always a unified, complete text with consistent theological perspective — into complex plural scriptural understanding — the recognition that early Israelite literary culture was vibrant and diverse, that canonical scripture cannot be understood without acknowledging lost texts, and that theological uniformity is a projection rather than historical reality)"
-    - "∂Φ/∂β (growth from uncritical textual reception — accepting the Bible at face value without awareness of its compositional history, lost sources, and editorial processes — to scholarly critical engagement — the developed capacity for historical-critical, philological, and comparative religious analysis that reveals the Bible's complexity as a product of historical and literary processes)"
-    - "∂Φ/∂δγ (cycling through canon formation processes — the iterative historical cycles of textual production, transmission, selection, and exclusion that determined which texts became scripture and which were lost; each cycle of transmission introduced changes, selections, and losses, shaping the biblical corpus we inherit through centuries of iterative editorial decision)"
-    - "∂Φ/∂μ (the eight thinking components framework — Purposes and Goals, Central Questions, Fundamental Concepts, Essential Information, Points of View, Underlying Assumptions, Inferences and Conclusions, Implications and Consequences — combined with historical-critical, philological, and comparative religious methodologies providing structured analytical scaffolding for engaging with lost scriptures and biblical complexity)"
-  Z_state: "scriptural_complexity_beyond_canonical_simplicity — the exploration of lost scriptures reveals that the Bible references many texts once valued but now lost, suggesting a vibrant but fragmentary literary culture; canonical scripture cannot be understood without acknowledging this larger lost body of literature; many scriptural quotations were already archaic or poorly understood when included in surviving texts; the theological uniformity often attributed to the Bible is a projection, not historical reality; the Z-state emerges when readers engage with the Bible not as a fixed divine document but as a heterogeneous library shaped by centuries of textual production, transmission, canon formation, and loss — promoting deeper, more critical engagement with religious texts and wariness of oversimplified beliefs about their origins"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing the unified static Bible — the common assumption that the Bible is a single, fixed, divinely preserved text with consistent theology — from the heterogeneous textual library — the scholarly recognition that the Bible is a collection of diverse documents spanning genres, perspectives, and historical periods, referencing over 20 lost works that once formed part of the broader literary landscape)
+  - ∂Φ/∂ρ (relating surviving canonical texts to lost referenced scriptures — the relational dynamics between the texts that survived the canon formation process and the 20+ texts referenced within surviving scripture but now lost; this relationship reveals survivor bias — the mistaken belief that what remains is representative of the whole — and the much larger, now-lost body of literature that shaped early Israelite and Christian traditions)
+  - ∂Φ/∂λ (transforming simplistic biblical views — the assumption that the Bible was always a unified, complete text with consistent theological perspective — into complex plural scriptural understanding — the recognition that early Israelite literary culture was vibrant and diverse, that canonical scripture cannot be understood without acknowledging lost texts, and that theological uniformity is a projection rather than historical reality)
+  - ∂Φ/∂β (growth from uncritical textual reception — accepting the Bible at face value without awareness of its compositional history, lost sources, and editorial processes — to scholarly critical engagement — the developed capacity for historical-critical, philological, and comparative religious analysis that reveals the Bible's complexity as a product of historical and literary processes)
+  - ∂Φ/∂δγ (cycling through canon formation processes — the iterative historical cycles of textual production, transmission, selection, and exclusion that determined which texts became scripture and which were lost; each cycle of transmission introduced changes, selections, and losses, shaping the biblical corpus we inherit through centuries of iterative editorial decision)
+  - ∂Φ/∂μ (the eight thinking components framework — Purposes and Goals, Central Questions, Fundamental Concepts, Essential Information, Points of View, Underlying Assumptions, Inferences and Conclusions, Implications and Consequences — combined with historical-critical, philological, and comparative religious methodologies providing structured analytical scaffolding for engaging with lost scriptures and biblical complexity)
+  Z_state: semi
+  z_note: scriptural_complexity_beyond_canonical_simplicity — the exploration of lost scriptures reveals that the Bible references many texts once valued but now lost, suggesting a vibrant but fragmentary literary culture; canonical scripture cannot be understood without acknowledging this larger lost body of literature; many scriptural quotations were already archaic or poorly understood when included in surviving texts; the theological uniformity often attributed to the Bible is a projection, not historical reality; the Z-state emerges when readers engage with the Bible not as a fixed divine document but as a heterogeneous library shaped by centuries of textual production, transmission, canon formation, and loss — promoting deeper, more critical engagement with religious texts and wariness of oversimplified beliefs about their origins
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["unified_vs_heterogeneous_Bible", "static_plural_textual_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["surviving_canonical_vs_lost_scripture_relation", "textual_survivor_bias_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["simplistic_to_complex_understanding_transformation", "critical_scholarly_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["uncritical_to_critical_engagement_growth", "textual_literacy_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["canon_formation_cycling", "textual_survival_loss_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["eight_thinking_components_framework", "historical_critical_philological_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S014", "S01F", "S08C"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - unified_vs_heterogeneous_Bible
+    - static_plural_textual_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - surviving_canonical_vs_lost_scripture_relation
+    - textual_survivor_bias_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - simplistic_to_complex_understanding_transformation
+    - critical_scholarly_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - uncritical_to_critical_engagement_growth
+    - textual_literacy_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - canon_formation_cycling
+    - textual_survival_loss_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - eight_thinking_components_framework
+    - historical_critical_philological_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- S014
+- S01F
+- S08C
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213010_1931228_Exploring+Lost+Scriptures%3A+Insights+from+The+Book+of+the+Wars+of+Yahweh.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

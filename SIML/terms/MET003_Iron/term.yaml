@@ -1,9 +1,7 @@
 hex_tag: '#MET003'
 term: Iron (Martial/Civilizational Metal)
-nemetic: Φ(Iron) = λ(strength|martial-direction) ∘ μ(utilitarian-form|tool-structure)
-  ∘ δγ(civilization|agricultural-cycling) ∘ σ(distinction|human-mastery) + ε | :open
-siml_encoding: ⟨Resource|iron⟩ ⊳ ⟨Actor|warrior-farmer⟩ ⇄ ⟨Value|fortitude⟩ ⊗ ⟨Frame|Mars-cosmology⟩
-  → ⟨Outcome|civilization-building⟩
+nemetic: Φ(Iron) = λ(strength|martial-direction) ∘ μ(utilitarian-form|tool-structure) ∘ δγ(civilization|agricultural-cycling) ∘ σ(distinction|human-mastery) + ε | :open
+siml_encoding: ⟨Resource|iron⟩ ⊳ ⟨Actor|warrior-farmer⟩ ⇄ ⟨Value|fortitude⟩ ⊗ ⟨Frame|Mars-cosmology⟩ → ⟨Outcome|civilization-building⟩
 formalism:
   math_operators:
   - λ
@@ -66,6 +64,17 @@ coords:
     - Civilization Builder
     - Martial Strength
     power_mode: Over
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is iron distinguished from precious metals?
   ≈: What resonance does the forge's heat carry?
@@ -73,23 +82,66 @@ elemental_emphasis:
   𐂷: What possibilities does iron toolmaking enable?
   ☷: How does iron sustain agricultural civilization?
   ⛨: What boundaries do iron weapons enforce?
-context_note: 'Iron represents Metal as utility and civilization—direction (λ) toward
-  practical ends, structure (μ) as forged tools, cycling (δγ) through agricultural
-  seasons. Unlike gold/silver''s symbolic density, iron''s value is functional. The
-  African Ògún tradition captures this: iron embodies creative and destructive energies
-  simultaneously. Iron is democratic—available to many, not just kings.'
-source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions
-  — Memetic Cowboy
+context_note: 'Iron represents Metal as utility and civilization—direction (λ) toward practical ends, structure (μ) as forged tools, cycling (δγ) through agricultural seasons. Unlike gold/silver''s symbolic density, iron''s value is functional. The African Ògún tradition captures this: iron embodies creative and destructive energies simultaneously. Iron is democratic—available to many, not just kings.'
+source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.3
+  Fire: 0.8
+  Wood: 0.3
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Fire
+  - Earth
+  suppressed:
+  - Water
+  - Wood
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.3
+    Fire: 0.8
+    Wood: 0.3
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

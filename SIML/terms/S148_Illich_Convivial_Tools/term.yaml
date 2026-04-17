@@ -1,32 +1,151 @@
 ---
-term: "Illich Convivial Tools"
-hex_tag: "S148"
-series: "S"
-source_file: "1771907213454_2401767_Ivan+Illich%27s+Vision+for+a+Convivial+Society.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Ivan Illich's 1973 concept of convivial tools — technologies that empower individuals and communities, fostering autonomy, creativity, and social bonds rather than serving institutional power. Tools evaluated by user control, equity, sustainability, and built-in limits. Beyond a critical threshold, tools become counterproductive, undermining the very goals they were designed to serve. Tension between human-scale convivial solutions and industrial efficiency imperatives."
-nemetic: "Φ(Illich Convivial Tools) = σ(industrial_domination|convivial_autonomy) ∘ ρ(institutional_dependency|community_creative_bonds) ∘ λ(tool_threshold_inversion|empowerment_catalyst) ∘ β(degrowth_limits|generative_sufficiency) ∘ δγ(control_centralization|distributed_agency_cycling) ∘ μ(scalable_infrastructure|human_scale_architecture) + ε | :convivial_threshold_sovereignty"
-siml_encoding: "⟨industrial_convivial_distinction, autonomy_discernment⟩ ⊳ ⟨dependency_community_relating, creative_bond_flow⟩ → ⟨threshold_empowerment_catalysis, tool_inversion_transformation⟩ ⊗ ⟨degrowth_sufficiency_growth, generative_limits_expansion⟩ ⇄ ⟨centralization_distribution_cycling, agency_rhythm⟩"
+term: Illich Convivial Tools
+hex_tag: S148
+series: S
+source_file: 1771907213454_2401767_Ivan+Illich%27s+Vision+for+a+Convivial+Society.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Ivan Illich's 1973 concept of convivial tools — technologies that empower individuals and communities, fostering autonomy, creativity, and social bonds rather than serving institutional power. Tools evaluated by user control, equity, sustainability, and built-in limits. Beyond a critical threshold, tools become counterproductive, undermining the very goals they were designed to serve. Tension between human-scale convivial solutions and industrial efficiency imperatives.
+nemetic: Φ(Illich Convivial Tools) = σ(industrial_domination|convivial_autonomy) ∘ ρ(institutional_dependency|community_creative_bonds) ∘ λ(tool_threshold_inversion|empowerment_catalyst) ∘ β(degrowth_limits|generative_sufficiency) ∘ δγ(control_centralization|distributed_agency_cycling) ∘ μ(scalable_infrastructure|human_scale_architecture) + ε | :convivial_threshold_sovereignty
+siml_encoding: ⟨industrial_convivial_distinction, autonomy_discernment⟩ ⊳ ⟨dependency_community_relating, creative_bond_flow⟩ → ⟨threshold_empowerment_catalysis, tool_inversion_transformation⟩ ⊗ ⟨degrowth_sufficiency_growth, generative_limits_expansion⟩ ⇄ ⟨centralization_distribution_cycling, agency_rhythm⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: industrial_domination / convivial_autonomy
+      S: degrowth_limits / generative_sufficiency
+      R: institutional_dependency / community_creative_bonds
+      P: tool_threshold_inversion / empowerment_catalyst
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing industrial domination from convivial autonomy — the discernment between technologies that serve institutional power and consolidate control versus tools that empower individuals, foster creativity, and enhance personal and communal sovereignty)"
-    - "∂Φ/∂ρ (relating institutional dependency to community creative bonds — the relational web where convivial tools create social bonds through shared creative use, contrasting with industrial tools that isolate users as dependent consumers of institutional services)"
-    - "∂Φ/∂λ (transforming through tool threshold inversion into empowerment catalyst — the catalytic process where tools beyond a critical threshold invert from empowering to counterproductive, and the recognition of this threshold becomes itself a transformative insight for designing convivial alternatives)"
-    - "∂Φ/∂β (growth from degrowth limits to generative sufficiency — the developmental expansion where built-in limits are not restrictions but enabling constraints that foster organic growth, sufficiency becoming more generative than endless industrial expansion)"
-    - "∂Φ/∂δγ (cycling between control centralization and distributed agency — the grounding oscillation between institutional forces that centralize tool-control and convivial movements that redistribute agency to communities and individuals, with technology cycling between these poles)"
-    - "∂Φ/∂μ (structural architecture of human-scale versus scalable infrastructure — the framework mapping how convivial tools require human-scale architecture that preserves user control and equity, contrasting with industrial infrastructure designed for indefinite scaling)"
-  Z_state: "convivial_threshold_sovereignty — convivial tools empower individuals and communities through technologies designed for autonomy, creativity, and social bonding; beyond a critical threshold, any tool inverts from empowering to counterproductive; the convivial society maintains sovereignty over its tools through built-in limits, equity, and human-scale design; tension between efficiency and conviviality is the central dialectic of technological civilization"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing industrial domination from convivial autonomy — the discernment between technologies that serve institutional power and consolidate control versus tools that empower individuals, foster creativity, and enhance personal and communal sovereignty)
+  - ∂Φ/∂ρ (relating institutional dependency to community creative bonds — the relational web where convivial tools create social bonds through shared creative use, contrasting with industrial tools that isolate users as dependent consumers of institutional services)
+  - ∂Φ/∂λ (transforming through tool threshold inversion into empowerment catalyst — the catalytic process where tools beyond a critical threshold invert from empowering to counterproductive, and the recognition of this threshold becomes itself a transformative insight for designing convivial alternatives)
+  - ∂Φ/∂β (growth from degrowth limits to generative sufficiency — the developmental expansion where built-in limits are not restrictions but enabling constraints that foster organic growth, sufficiency becoming more generative than endless industrial expansion)
+  - ∂Φ/∂δγ (cycling between control centralization and distributed agency — the grounding oscillation between institutional forces that centralize tool-control and convivial movements that redistribute agency to communities and individuals, with technology cycling between these poles)
+  - ∂Φ/∂μ (structural architecture of human-scale versus scalable infrastructure — the framework mapping how convivial tools require human-scale architecture that preserves user control and equity, contrasting with industrial infrastructure designed for indefinite scaling)
+  Z_state: semi
+  z_note: convivial_threshold_sovereignty — convivial tools empower individuals and communities through technologies designed for autonomy, creativity, and social bonding; beyond a critical threshold, any tool inverts from empowering to counterproductive; the convivial society maintains sovereignty over its tools through built-in limits, equity, and human-scale design; tension between efficiency and conviviality is the central dialectic of technological civilization
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["industrial_convivial_discernment", "tool_domination_perception"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["community_creative_bonding", "shared_tool_use_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["threshold_inversion_catalysis", "empowerment_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["degrowth_generative_sufficiency", "organic_limit_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["centralization_distribution_cycling", "agency_oscillation_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["human_scale_architecture", "convivial_infrastructure_design"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - industrial_convivial_discernment
+    - tool_domination_perception
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - community_creative_bonding
+    - shared_tool_use_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - threshold_inversion_catalysis
+    - empowerment_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - degrowth_generative_sufficiency
+    - organic_limit_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - centralization_distribution_cycling
+    - agency_oscillation_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - human_scale_architecture
+    - convivial_infrastructure_design
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.9
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213454_2401767_Ivan+Illich%27s+Vision+for+a+Convivial+Society.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

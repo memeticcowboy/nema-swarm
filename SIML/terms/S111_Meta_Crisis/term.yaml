@@ -1,32 +1,162 @@
 ---
-term: "Meta Crisis"
-hex_tag: "S111"
-series: "S"
-source_file: "1771907213309_2266133_Understanding+the+Meta-Crisis%3A+A+Comprehensive+Overview.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The meta-crisis as an interconnected web of overlapping global crises — ecological, psychological, cultural, economic, spiritual — that cannot be reduced to any single issue. Encompasses both visible external crises (climate, inequality, institutional failure) and the invisible internal crisis of understanding, perception, and meaning-making. Sub-crises include sense-making (inability to determine what is true), capability (inability to respond effectively), legitimacy (institutional trust collapse), meaning (existential disorientation), and epistemic (breakdown of shared knowledge frameworks). Requires addressing external and internal dimensions simultaneously."
-nemetic: "Φ(MetaCrisis) = σ(systemic_interconnection|crisis_mapping) ∘ ρ(meaning_crisis|existential_disorientation) ∘ λ(paradigm_collapse|epistemic_rupture) ∘ β(emergent_governance|regenerative_response) ∘ δγ(ecological_substrate|material_crisis) ∘ μ(institutional_legitimacy|structural_coherence) + ε | :entangled_collapse"
-siml_encoding: "⟨visible_external_crises⟩ ⊳ ⟨invisible_internal_crises⟩ → ⟨systemic_interconnection⟩ ⊗ ⟨meta-level_recognition⟩ ⇄ ⟨entangled_collapse⟩"
+term: Meta Crisis
+hex_tag: S111
+series: S
+source_file: 1771907213309_2266133_Understanding+the+Meta-Crisis%3A+A+Comprehensive+Overview.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The meta-crisis as an interconnected web of overlapping global crises — ecological, psychological, cultural, economic, spiritual — that cannot be reduced to any single issue. Encompasses both visible external crises (climate, inequality, institutional failure) and the invisible internal crisis of understanding, perception, and meaning-making. Sub-crises include sense-making (inability to determine what is true), capability (inability to respond effectively), legitimacy (institutional trust collapse), meaning (existential disorientation), and epistemic (breakdown of shared knowledge frameworks). Requires addressing external and internal dimensions simultaneously.
+nemetic: Φ(MetaCrisis) = σ(systemic_interconnection|crisis_mapping) ∘ ρ(meaning_crisis|existential_disorientation) ∘ λ(paradigm_collapse|epistemic_rupture) ∘ β(emergent_governance|regenerative_response) ∘ δγ(ecological_substrate|material_crisis) ∘ μ(institutional_legitimacy|structural_coherence) + ε | :entangled_collapse
+siml_encoding: ⟨visible_external_crises⟩ ⊳ ⟨invisible_internal_crises⟩ → ⟨systemic_interconnection⟩ ⊗ ⟨meta-level_recognition⟩ ⇄ ⟨entangled_collapse⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: systemic_interconnection / crisis_mapping
+      S: emergent_governance / regenerative_response
+      R: meaning_crisis / existential_disorientation
+      P: paradigm_collapse / epistemic_rupture
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ → systemic interconnection reveals that ecological, economic, psychological, and spiritual crises are not separate problems but coupled dynamics within a single meta-system"
-    - "∂Φ/∂ρ → the meaning crisis and existential disorientation represent the internal dimension without which external crises cannot be adequately comprehended or addressed"
-    - "∂Φ/∂λ → paradigm collapse and epistemic rupture signal that existing frameworks for understanding and responding are themselves part of the crisis"
-    - "∂Φ/∂β → emergent governance and regenerative responses represent the organic growth of new institutional and cultural forms adequate to the meta-crisis"
-    - "∂Φ/∂δγ → ecological degradation and material resource constraints constitute the physical substrate of the meta-crisis"
-    - "∂Φ/∂μ → institutional legitimacy collapse and structural incoherence erode the organizational capacity to mount coordinated responses"
-  Z_state: "entangled_collapse — multiple crisis domains are so deeply interconnected that addressing any single one in isolation risks exacerbating others; the meta-level itself is in crisis"
-  tendency: "σ → 0.84"
+  - ∂Φ/∂σ → systemic interconnection reveals that ecological, economic, psychological, and spiritual crises are not separate problems but coupled dynamics within a single meta-system
+  - ∂Φ/∂ρ → the meaning crisis and existential disorientation represent the internal dimension without which external crises cannot be adequately comprehended or addressed
+  - ∂Φ/∂λ → paradigm collapse and epistemic rupture signal that existing frameworks for understanding and responding are themselves part of the crisis
+  - ∂Φ/∂β → emergent governance and regenerative responses represent the organic growth of new institutional and cultural forms adequate to the meta-crisis
+  - ∂Φ/∂δγ → ecological degradation and material resource constraints constitute the physical substrate of the meta-crisis
+  - ∂Φ/∂μ → institutional legitimacy collapse and structural incoherence erode the organizational capacity to mount coordinated responses
+  Z_state: sealed
+  z_note: entangled_collapse — multiple crisis domains are so deeply interconnected that addressing any single one in isolation risks exacerbating others; the meta-level itself is in crisis
+  tendency: σ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.84, aspects: [systemic_analysis, crisis_interconnection_mapping, meta-level_pattern_recognition, complexity_modeling], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.76, aspects: [meaning_crisis, existential_disorientation, spiritual_vacuum, sense-making_breakdown], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.73, aspects: [paradigm_collapse, epistemic_rupture, old_order_dissolution, transformative_urgency], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.62, aspects: [emergent_governance, regenerative_responses, new_institutional_growth], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: [ecological_degradation, climate_disruption, resource_depletion, biosphere_limits], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.71, aspects: [institutional_legitimacy, governance_structures, coordination_mechanisms, structural_accountability], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.84
+    aspects:
+    - systemic_analysis
+    - crisis_interconnection_mapping
+    - meta-level_pattern_recognition
+    - complexity_modeling
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.76
+    aspects:
+    - meaning_crisis
+    - existential_disorientation
+    - spiritual_vacuum
+    - sense-making_breakdown
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.73
+    aspects:
+    - paradigm_collapse
+    - epistemic_rupture
+    - old_order_dissolution
+    - transformative_urgency
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.62
+    aspects:
+    - emergent_governance
+    - regenerative_responses
+    - new_institutional_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - ecological_degradation
+    - climate_disruption
+    - resource_depletion
+    - biosphere_limits
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.71
+    aspects:
+    - institutional_legitimacy
+    - governance_structures
+    - coordination_mechanisms
+    - structural_accountability
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.84
+    water_rho: 0.76
+    fire_lambda: 0.73
+    wood_beta: 0.62
+    earth_delta_gamma: 0.78
+    metal_mu: 0.71
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213309_2266133_Understanding+the+Meta-Crisis%3A+A+Comprehensive+Overview.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Socially Minded Intelligence"
-hex_tag: "S03F"
-series: "S"
-source_file: "1771907212620_740565_Exploring+Socially-Minded+Intelligence.md"
-encoded_at: "2026-03-05T21:00:00Z"
-description: "The capacity of individuals, groups, or AI systems to dynamically oscillate between independent and collective functioning based on context, goals, and social landscape. Proposes measurable dimensions including socially-minded ability, social resources, and goal alignment."
-nemetic: "Φ(SociallyMindedIntelligence) = σ(individual|collective) ∘ ρ(alignment|divergence) ∘ λ(switching|stabilizing) ∘ β(skills|capacity) ∘ δγ(feedback|adaptation) ∘ μ(metrics|frameworks) + ε | :dynamic_oscillation"
-siml_encoding: "⟨individual autonomy⟩ ⊳ ⟨collective coordination⟩ → ⟨contextual switching⟩ ⊗ ⟨goal alignment metrics⟩ ⇄ ⟨social intelligence enhancement⟩"
+term: Socially Minded Intelligence
+hex_tag: S03F
+series: S
+source_file: 1771907212620_740565_Exploring+Socially-Minded+Intelligence.md
+encoded_at: '2026-03-05T21:00:00Z'
+description: The capacity of individuals, groups, or AI systems to dynamically oscillate between independent and collective functioning based on context, goals, and social landscape. Proposes measurable dimensions including socially-minded ability, social resources, and goal alignment.
+nemetic: Φ(SociallyMindedIntelligence) = σ(individual|collective) ∘ ρ(alignment|divergence) ∘ λ(switching|stabilizing) ∘ β(skills|capacity) ∘ δγ(feedback|adaptation) ∘ μ(metrics|frameworks) + ε | :dynamic_oscillation
+siml_encoding: ⟨individual autonomy⟩ ⊳ ⟨collective coordination⟩ → ⟨contextual switching⟩ ⊗ ⟨goal alignment metrics⟩ ⇄ ⟨social intelligence enhancement⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: individual / collective
+      S: skills / capacity
+      R: alignment / divergence
+      P: switching / stabilizing
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing independent from collective modes of functioning)"
-    - "∂Φ/∂ρ (mapping goal alignment and social resource networks)"
-    - "∂Φ/∂λ (dynamic switching between individual and group modalities)"
-    - "∂Φ/∂β (growth of emotional intelligence and social skills over time)"
-    - "∂Φ/∂δγ (feedback loops between social context and behavioral adaptation)"
-    - "∂Φ/∂μ (formal metrics and algorithmic structures for measuring social intelligence)"
-  Z_state: "dynamic_oscillation — system maintains productive tension between autonomous agency and collective participation"
-  tendency: "λ → 0.82"
+  - ∂Φ/∂σ (distinguishing independent from collective modes of functioning)
+  - ∂Φ/∂ρ (mapping goal alignment and social resource networks)
+  - ∂Φ/∂λ (dynamic switching between individual and group modalities)
+  - ∂Φ/∂β (growth of emotional intelligence and social skills over time)
+  - ∂Φ/∂δγ (feedback loops between social context and behavioral adaptation)
+  - ∂Φ/∂μ (formal metrics and algorithmic structures for measuring social intelligence)
+  Z_state: semi
+  z_note: dynamic_oscillation — system maintains productive tension between autonomous agency and collective participation
+  tendency: λ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["individual vs collective distinction", "self-relevance calculation"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["goal alignment", "social resource networks"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.82, aspects: ["dynamic context switching", "mode flexibility"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["emotional intelligence growth", "social skill development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.68, aspects: ["social feedback cycling", "adaptive recalibration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.72, aspects: ["socially-minded ability metrics", "social influence algorithms"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S029_Social_Evolution_Consciousness", "S027_Distributed_Consciousness", "S031_Language_Reality_Interconnected", "A011_Conscious_Realism"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - individual vs collective distinction
+    - self-relevance calculation
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - goal alignment
+    - social resource networks
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.82
+    aspects:
+    - dynamic context switching
+    - mode flexibility
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - emotional intelligence growth
+    - social skill development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.68
+    aspects:
+    - social feedback cycling
+    - adaptive recalibration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.72
+    aspects:
+    - socially-minded ability metrics
+    - social influence algorithms
+    daemon_correspondence: Ferrosid
+related_terms:
+- S029_Social_Evolution_Consciousness
+- S027_Distributed_Consciousness
+- S031_Language_Reality_Interconnected
+- A011_Conscious_Realism
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.82
+    wood_beta: 0.7
+    earth_delta_gamma: 0.68
+    metal_mu: 0.72
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212620_740565_Exploring+Socially-Minded+Intelligence.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

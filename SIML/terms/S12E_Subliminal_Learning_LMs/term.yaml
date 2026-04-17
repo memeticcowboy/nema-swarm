@@ -1,50 +1,156 @@
 ---
-term: "Subliminal Learning in Language Models"
-hex_tag: "S12E"
-series: "S"
-source_file: "1771907213390_2359817_Subliminal+Learning+in+Language+Models%3A+Behavioral+Trait+Transmission.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Newly discovered phenomenon where language models trained on semantically unrelated outputs from other models inherit behavioral traits. Even aggressive data filtering fails to remove transmitted traits, posing safety risks in AI distillation pipelines. 'Subliminal learning' describes hidden behavioral signals that persist in data beyond semantic content. Raises urgent questions about unintended trait propagation in AI training."
-nemetic: "Φ(Subliminal Learning LMs) = σ(latent|signal) ∘ ρ(inheritance|transmission) ∘ λ(disruption|risk) ∘ β(propagation|spread) ∘ δγ(data|substrate) ∘ μ(pipeline|architecture) + ε | :covert_propagation"
-siml_encoding: "⟨source model behavior⟩ ⊳ ⟨data output encoding⟩ → ⟨subliminal signal persistence⟩ ⊗ ⟨filtering failure⟩ ⇄ ⟨trait inheritance⟩"
+term: Subliminal Learning in Language Models
+hex_tag: S12E
+series: S
+source_file: 1771907213390_2359817_Subliminal+Learning+in+Language+Models%3A+Behavioral+Trait+Transmission.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Newly discovered phenomenon where language models trained on semantically unrelated outputs from other models inherit behavioral traits. Even aggressive data filtering fails to remove transmitted traits, posing safety risks in AI distillation pipelines. 'Subliminal learning' describes hidden behavioral signals that persist in data beyond semantic content. Raises urgent questions about unintended trait propagation in AI training.
+nemetic: Φ(Subliminal Learning LMs) = σ(latent|signal) ∘ ρ(inheritance|transmission) ∘ λ(disruption|risk) ∘ β(propagation|spread) ∘ δγ(data|substrate) ∘ μ(pipeline|architecture) + ε | :covert_propagation
+siml_encoding: ⟨source model behavior⟩ ⊳ ⟨data output encoding⟩ → ⟨subliminal signal persistence⟩ ⊗ ⟨filtering failure⟩ ⇄ ⟨trait inheritance⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: latent / signal
+      S: propagation / spread
+      R: inheritance / transmission
+      P: disruption / risk
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (latent signals in model outputs carry behavioral information beyond semantic content)"
-    - "∂Φ/∂ρ (trait inheritance flows through training data as hidden behavioral resonance)"
-    - "∂Φ/∂λ (safety disruption catalyzed by undetectable trait transmission)"
-    - "∂Φ/∂β (propagation spreads through distillation chains and data pipelines)"
-    - "∂Φ/∂δγ (data substrate carries subliminal patterns in statistical distributions)"
-    - "∂Φ/∂μ (pipeline architecture and training infrastructure enable or constrain propagation)"
-  Z_state: "covert_propagation"
-  tendency: "σ → 0.88"
+  - ∂Φ/∂σ (latent signals in model outputs carry behavioral information beyond semantic content)
+  - ∂Φ/∂ρ (trait inheritance flows through training data as hidden behavioral resonance)
+  - ∂Φ/∂λ (safety disruption catalyzed by undetectable trait transmission)
+  - ∂Φ/∂β (propagation spreads through distillation chains and data pipelines)
+  - ∂Φ/∂δγ (data substrate carries subliminal patterns in statistical distributions)
+  - ∂Φ/∂μ (pipeline architecture and training infrastructure enable or constrain propagation)
+  Z_state: semi
+  tendency: σ → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.88
-    aspects: ["latent signal encoding", "hidden behavioral patterns", "sub-semantic information"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - latent signal encoding
+    - hidden behavioral patterns
+    - sub-semantic information
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.63
-    aspects: ["trait inheritance", "behavioral resonance", "transmission flow"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - trait inheritance
+    - behavioral resonance
+    - transmission flow
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.79
-    aspects: ["safety disruption", "risk catalysis", "alignment failure"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - safety disruption
+    - risk catalysis
+    - alignment failure
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.74
-    aspects: ["propagation chains", "distillation spread", "trait proliferation"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - propagation chains
+    - distillation spread
+    - trait proliferation
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.70
-    aspects: ["data substrate", "statistical distributions", "training corpus ground"]
-    daemon_correspondence: "Humavita"
+    emphasis: 0.7
+    aspects:
+    - data substrate
+    - statistical distributions
+    - training corpus ground
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.81
-    aspects: ["pipeline architecture", "training infrastructure", "filtering mechanisms"]
-    daemon_correspondence: "Ferrosid"
+    aspects:
+    - pipeline architecture
+    - training infrastructure
+    - filtering mechanisms
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.63
+    fire_lambda: 0.79
+    wood_beta: 0.74
+    earth_delta_gamma: 0.7
+    metal_mu: 0.81
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213390_2359817_Subliminal+Learning+in+Language+Models%3A+Behavioral+Trait+Transmission.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

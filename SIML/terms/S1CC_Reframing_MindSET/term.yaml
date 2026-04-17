@@ -1,32 +1,151 @@
 ---
-term: "Reframing MindSET Through Set Theory"
-hex_tag: "S1CC"
-series: "S"
-source_file: "1771907213802_2692178_Reframing+MindSET+Through+Set+Theory+Metaphors.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "MindSET as literal set theory: a mindset is a set of operating assumptions. Fixed mindset is a rigid singleton set; growth mindset is a dynamic open set. Collaborative mindsets operate through intersection (shared beliefs), union (complementary strengths), and power set (all possible reconfigurations of beliefs as accessible real estate)."
-nemetic: "Φ(MindSET Set Theory) = σ(fixed_set|dynamic_set) ∘ ρ(intersection|union) ∘ λ(singleton|power_set) ∘ β(element_addition|axiom_removal) ∘ δγ(current_set|empty_set) ∘ μ(cardinality|confidence_quality) + ε | :set_operations"
-siml_encoding: "⟨fixed_set, dynamic_set⟩ ⊳ ⟨intersection, union⟩ → ⟨singleton, power_set⟩ ⊗ ⟨element_addition, axiom_removal⟩ ⇄ ⟨cardinality, confidence_quality⟩"
+term: Reframing MindSET Through Set Theory
+hex_tag: S1CC
+series: S
+source_file: 1771907213802_2692178_Reframing+MindSET+Through+Set+Theory+Metaphors.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'MindSET as literal set theory: a mindset is a set of operating assumptions. Fixed mindset is a rigid singleton set; growth mindset is a dynamic open set. Collaborative mindsets operate through intersection (shared beliefs), union (complementary strengths), and power set (all possible reconfigurations of beliefs as accessible real estate).'
+nemetic: Φ(MindSET Set Theory) = σ(fixed_set|dynamic_set) ∘ ρ(intersection|union) ∘ λ(singleton|power_set) ∘ β(element_addition|axiom_removal) ∘ δγ(current_set|empty_set) ∘ μ(cardinality|confidence_quality) + ε | :set_operations
+siml_encoding: ⟨fixed_set, dynamic_set⟩ ⊳ ⟨intersection, union⟩ → ⟨singleton, power_set⟩ ⊗ ⟨element_addition, axiom_removal⟩ ⇄ ⟨cardinality, confidence_quality⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: fixed_set / dynamic_set
+      S: element_addition / axiom_removal
+      R: intersection / union
+      P: singleton / power_set
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes fixed sets (rigid, small, little room for change) from dynamic sets (open, allowing element addition, removal, and reorganization). The core distinction reframes mindset through mathematical precision."
-    - "∂Φ/∂ρ — Water maps collaborative dynamics through set operations: intersection (shared alignment), union (complementary strengths), and conflict from treating one's mindset as universal set expecting others to be subsets."
-    - "∂Φ/∂λ — Fire transforms the singleton fixed mindset into the power set of possible selves: every conceivable reconfiguration of beliefs as accessible real estate for trial."
-    - "∂Φ/∂β — Wood grows through element addition (new evidence, skills, counterexamples) and axiom removal (set difference: mindset minus unhelpful belief)."
-    - "∂Φ/∂δγ — Earth cycles between current set and empty set. The empty set is a valid, liberating reset: dropping all assumptions to see reality fresh, echoing beginner's mind."
-    - "∂Φ/∂μ — Metal structures confidence through cardinality: finite positive self-references (low), uncountable rationalizations (inflated), countably infinite high-quality elements (healthy)."
-  Z_state: "set_operations — the mathematical framework enabling precise thinking about belief composition, intersection, union, and reconfiguration"
-  tendency: "σ → 0.82"
+  - ∂Φ/∂σ — Air distinguishes fixed sets (rigid, small, little room for change) from dynamic sets (open, allowing element addition, removal, and reorganization). The core distinction reframes mindset through mathematical precision.
+  - '∂Φ/∂ρ — Water maps collaborative dynamics through set operations: intersection (shared alignment), union (complementary strengths), and conflict from treating one''s mindset as universal set expecting others to be subsets.'
+  - '∂Φ/∂λ — Fire transforms the singleton fixed mindset into the power set of possible selves: every conceivable reconfiguration of beliefs as accessible real estate for trial.'
+  - '∂Φ/∂β — Wood grows through element addition (new evidence, skills, counterexamples) and axiom removal (set difference: mindset minus unhelpful belief).'
+  - '∂Φ/∂δγ — Earth cycles between current set and empty set. The empty set is a valid, liberating reset: dropping all assumptions to see reality fresh, echoing beginner''s mind.'
+  - '∂Φ/∂μ — Metal structures confidence through cardinality: finite positive self-references (low), uncountable rationalizations (inflated), countably infinite high-quality elements (healthy).'
+  Z_state: semi
+  z_note: set_operations — the mathematical framework enabling precise thinking about belief composition, intersection, union, and reconfiguration
+  tendency: σ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.82, aspects: ["fixed-dynamic set distinction", "mathematical precision"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["intersection-union dynamics", "collaborative set operations"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["singleton to power set", "possible selves activation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.68, aspects: ["element addition", "axiom removal"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.65, aspects: ["current-empty set cycling", "beginner's mind reset"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.72, aspects: ["cardinality structure", "confidence quality"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.82
+    aspects:
+    - fixed-dynamic set distinction
+    - mathematical precision
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - intersection-union dynamics
+    - collaborative set operations
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - singleton to power set
+    - possible selves activation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.68
+    aspects:
+    - element addition
+    - axiom removal
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.65
+    aspects:
+    - current-empty set cycling
+    - beginner's mind reset
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.72
+    aspects:
+    - cardinality structure
+    - confidence quality
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.82
+    water_rho: 0.72
+    fire_lambda: 0.7
+    wood_beta: 0.68
+    earth_delta_gamma: 0.65
+    metal_mu: 0.72
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213802_2692178_Reframing+MindSET+Through+Set+Theory+Metaphors.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

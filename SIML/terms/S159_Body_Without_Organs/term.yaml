@@ -1,32 +1,151 @@
 ---
-term: "Body Without Organs"
-hex_tag: "S159"
-series: "S"
-source_file: "1771907213485_2419424_Exploring+Deleuze+and+Guattari%27s+Body+Without+Organs.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Deleuze and Guattari's BwO — state of potential and freedom beyond traditional organization. Raw potential where desire and affect operate without pre-set channels. About becoming rather than being. Practices of dismantling the organism to open to new experience. Three types: empty (chaotic), full (creative), cancerous (over-stratified). Related to smooth spaces vs striated spaces. The BwO is what remains when you take everything away."
-nemetic: "Φ(Body Without Organs) = σ(organized_organism|destratified_potential_field) ∘ ρ(channeled_desire|free_affective_flow) ∘ λ(fixed_being|radical_becoming_transformation) ∘ β(rigid_stratification|expanding_experimental_practice) ∘ δγ(stratification_destratification_oscillation|smooth_striated_cycling) ∘ μ(triadic_bwo_architecture|empty_full_cancerous_framework) + ε | :potential_beyond_organization"
-siml_encoding: "⟨organized_destratified_distinction, organism_potential_discernment⟩ ⊳ ⟨channeled_free_relating, desire_affect_flow⟩ → ⟨being_becoming_catalysis, fixed_radical_transformation⟩ ⊗ ⟨rigid_experimental_growth, stratification_practice_expansion⟩ ⇄ ⟨stratification_destratification_cycling, smooth_striated_rhythm⟩"
+term: Body Without Organs
+hex_tag: S159
+series: S
+source_file: 1771907213485_2419424_Exploring+Deleuze+and+Guattari%27s+Body+Without+Organs.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Deleuze and Guattari''s BwO — state of potential and freedom beyond traditional organization. Raw potential where desire and affect operate without pre-set channels. About becoming rather than being. Practices of dismantling the organism to open to new experience. Three types: empty (chaotic), full (creative), cancerous (over-stratified). Related to smooth spaces vs striated spaces. The BwO is what remains when you take everything away.'
+nemetic: Φ(Body Without Organs) = σ(organized_organism|destratified_potential_field) ∘ ρ(channeled_desire|free_affective_flow) ∘ λ(fixed_being|radical_becoming_transformation) ∘ β(rigid_stratification|expanding_experimental_practice) ∘ δγ(stratification_destratification_oscillation|smooth_striated_cycling) ∘ μ(triadic_bwo_architecture|empty_full_cancerous_framework) + ε | :potential_beyond_organization
+siml_encoding: ⟨organized_destratified_distinction, organism_potential_discernment⟩ ⊳ ⟨channeled_free_relating, desire_affect_flow⟩ → ⟨being_becoming_catalysis, fixed_radical_transformation⟩ ⊗ ⟨rigid_experimental_growth, stratification_practice_expansion⟩ ⇄ ⟨stratification_destratification_cycling, smooth_striated_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: organized_organism / destratified_potential_field
+      S: rigid_stratification / expanding_experimental_practice
+      R: channeled_desire / free_affective_flow
+      P: fixed_being / radical_becoming_transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the organized organism from the destratified potential field — the discernment between the body as organized, stratified, and functioning according to predetermined channels and the BwO as raw potential where organization has been suspended, revealing what remains when you take everything away)"
-    - "∂Φ/∂ρ (relating channeled desire to free affective flow — the relational shift from desire routed through pre-set channels of the organism to desire and affect operating freely across the BwO, creating connections and intensities without predetermined pathways or hierarchical organization)"
-    - "∂Φ/∂λ (transforming fixed being into radical becoming — the catalytic shift from being as static identity maintained by organic stratification to becoming as continuous experimentation and transformation, with practices of dismantling the organism opening to new modes of experience and expression)"
-    - "∂Φ/∂β (growth from rigid stratification to expanding experimental practice — the developmental trajectory from over-organized, heavily stratified existence toward increasingly experimental practices of destratification, with caution required to avoid the empty BwO of chaotic dissolution or the cancerous BwO of over-rigid restratification)"
-    - "∂Φ/∂δγ (cycling between stratification and destratification — the grounding oscillation between the organism's stratified organization and the BwO's smooth potential, with movement between striated spaces of fixed organization and smooth spaces of open possibility, never achieving pure destratification but continuously experimenting at the boundary)"
-    - "∂Φ/∂μ (structural framework of triadic BwO types — the architecture encoding the three modalities of the BwO: empty (chaotic, drug-addled, catatonic dissolution), full (creative, productive, experimental intensity), and cancerous (over-stratified, fascistic, totalitarian organization), providing the structural map for navigating practices of destratification)"
-  Z_state: "potential_beyond_organization — the BwO is a state of potential and freedom beyond traditional organic organization; raw potential where desire and affect operate without pre-set channels; about becoming rather than being; practices of dismantling the organism open to new experience but require caution; three types map the dangers and possibilities: empty BwO (chaotic dissolution), full BwO (creative experimental intensity), cancerous BwO (over-stratified rigidity); related to smooth spaces versus striated spaces; the BwO is what remains when you take everything away — not destruction but revelation of the field of potential beneath organization"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ (distinguishing the organized organism from the destratified potential field — the discernment between the body as organized, stratified, and functioning according to predetermined channels and the BwO as raw potential where organization has been suspended, revealing what remains when you take everything away)
+  - ∂Φ/∂ρ (relating channeled desire to free affective flow — the relational shift from desire routed through pre-set channels of the organism to desire and affect operating freely across the BwO, creating connections and intensities without predetermined pathways or hierarchical organization)
+  - ∂Φ/∂λ (transforming fixed being into radical becoming — the catalytic shift from being as static identity maintained by organic stratification to becoming as continuous experimentation and transformation, with practices of dismantling the organism opening to new modes of experience and expression)
+  - ∂Φ/∂β (growth from rigid stratification to expanding experimental practice — the developmental trajectory from over-organized, heavily stratified existence toward increasingly experimental practices of destratification, with caution required to avoid the empty BwO of chaotic dissolution or the cancerous BwO of over-rigid restratification)
+  - ∂Φ/∂δγ (cycling between stratification and destratification — the grounding oscillation between the organism's stratified organization and the BwO's smooth potential, with movement between striated spaces of fixed organization and smooth spaces of open possibility, never achieving pure destratification but continuously experimenting at the boundary)
+  - '∂Φ/∂μ (structural framework of triadic BwO types — the architecture encoding the three modalities of the BwO: empty (chaotic, drug-addled, catatonic dissolution), full (creative, productive, experimental intensity), and cancerous (over-stratified, fascistic, totalitarian organization), providing the structural map for navigating practices of destratification)'
+  Z_state: semi
+  z_note: 'potential_beyond_organization — the BwO is a state of potential and freedom beyond traditional organic organization; raw potential where desire and affect operate without pre-set channels; about becoming rather than being; practices of dismantling the organism open to new experience but require caution; three types map the dangers and possibilities: empty BwO (chaotic dissolution), full BwO (creative experimental intensity), cancerous BwO (over-stratified rigidity); related to smooth spaces versus striated spaces; the BwO is what remains when you take everything away — not destruction but revelation of the field of potential beneath organization'
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["destratified_potential_recognition", "organism_organization_dissolution"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["free_affective_flow", "unchanneled_desire_relation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["radical_becoming_transformation", "experimental_dismantling_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["expanding_experimental_practice", "stratification_to_experimentation_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["stratification_destratification_oscillation", "smooth_striated_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["triadic_bwo_architecture", "empty_full_cancerous_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - destratified_potential_recognition
+    - organism_organization_dissolution
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - free_affective_flow
+    - unchanneled_desire_relation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - radical_becoming_transformation
+    - experimental_dismantling_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - expanding_experimental_practice
+    - stratification_to_experimentation_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - stratification_destratification_oscillation
+    - smooth_striated_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - triadic_bwo_architecture
+    - empty_full_cancerous_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.9
+    fire_lambda: 0.9
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213485_2419424_Exploring+Deleuze+and+Guattari%27s+Body+Without+Organs.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

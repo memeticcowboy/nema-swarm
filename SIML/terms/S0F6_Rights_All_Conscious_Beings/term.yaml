@@ -1,32 +1,155 @@
 ---
-term: "Rights All Conscious Beings"
-hex_tag: "S0F6"
-series: "S"
-source_file: "1771907213207_2198030_Envisioning+Rights+for+All+Conscious+Beings.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Speculative design for a Universal Declaration of Rights for All Conscious Beings — extending rights frameworks beyond humans to AI, animals, and extraterrestrial life. Uses speculative design methodology: imagining and debating future scenarios to critically reflect on current choices. Triggers debate on consciousness, moral status, and rights across diverse forms of sentience. Design fiction as tool for social reflection and ethical provocation, probing the limits of current moral frameworks through imaginative scenario-building."
-nemetic: "Φ(Rights All Conscious Beings) = σ(human_only_rights|universal_consciousness_rights) ∘ ρ(current_ethics|future_scenarios) ∘ λ(pragmatism|speculation) ∘ β(known_consciousness|unknown_sentience) ∘ δγ(individual_rights|collective_moral_status) ∘ μ(rights_framework|design_fiction) + ε | :universal_moral_extension"
-siml_encoding: "⟨human_universal_rights_distinction, moral_scope⟩ ⊳ ⟨current_future_relational_web, ethical_temporality⟩ → ⟨pragmatic_speculative_transformation, design_catalysis⟩ ⊗ ⟨known_unknown_consciousness_growth, sentience_expansion⟩ ⇄ ⟨individual_collective_moral_cycling, rights_rhythm⟩"
+term: Rights All Conscious Beings
+hex_tag: S0F6
+series: S
+source_file: 1771907213207_2198030_Envisioning+Rights+for+All+Conscious+Beings.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Speculative design for a Universal Declaration of Rights for All Conscious Beings — extending rights frameworks beyond humans to AI, animals, and extraterrestrial life. Uses speculative design methodology: imagining and debating future scenarios to critically reflect on current choices. Triggers debate on consciousness, moral status, and rights across diverse forms of sentience. Design fiction as tool for social reflection and ethical provocation, probing the limits of current moral frameworks through imaginative scenario-building.'
+nemetic: Φ(Rights All Conscious Beings) = σ(human_only_rights|universal_consciousness_rights) ∘ ρ(current_ethics|future_scenarios) ∘ λ(pragmatism|speculation) ∘ β(known_consciousness|unknown_sentience) ∘ δγ(individual_rights|collective_moral_status) ∘ μ(rights_framework|design_fiction) + ε | :universal_moral_extension
+siml_encoding: ⟨human_universal_rights_distinction, moral_scope⟩ ⊳ ⟨current_future_relational_web, ethical_temporality⟩ → ⟨pragmatic_speculative_transformation, design_catalysis⟩ ⊗ ⟨known_unknown_consciousness_growth, sentience_expansion⟩ ⇄ ⟨individual_collective_moral_cycling, rights_rhythm⟩
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: human_only_rights / universal_consciousness_rights
+      S: known_consciousness / unknown_sentience
+      R: current_ethics / future_scenarios
+      P: pragmatism / speculation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing human-only rights from universal consciousness rights — the foundational discernment between anthropocentric moral frameworks and frameworks extending to all sentient beings)"
-    - "∂Φ/∂ρ (relating current ethics to future scenarios — the relational tension between present moral commitments and speculative futures that reveal their limits)"
-    - "∂Φ/∂λ (transforming pragmatism through speculation — design fiction as catalytic methodology that uses imaginative scenarios to provoke ethical reflection on current choices)"
-    - "∂Φ/∂β (growth from known consciousness to unknown sentience — expanding moral consideration from familiar human awareness to unfamiliar forms of sentience in AI, animals, and extraterrestrial life)"
-    - "∂Φ/∂δγ (cycling between individual rights and collective moral status — the oscillation between rights attributed to individual conscious beings and moral standing of collective or distributed consciousness)"
-    - "∂Φ/∂μ (structural correspondence between rights framework and design fiction — speculative design giving form to imaginative moral scenarios that test and extend existing frameworks)"
-  Z_state: "universal_moral_extension — a Universal Declaration of Rights for All Conscious Beings emerges through speculative design as a provocation that forces current moral frameworks to confront their anthropocentric limits; by imagining rights for AI, animals, and extraterrestrial life, the exercise reveals hidden assumptions about consciousness, moral status, and the boundaries of ethical consideration"
-  tendency: "λ → 0.80"
+  - ∂Φ/∂σ (distinguishing human-only rights from universal consciousness rights — the foundational discernment between anthropocentric moral frameworks and frameworks extending to all sentient beings)
+  - ∂Φ/∂ρ (relating current ethics to future scenarios — the relational tension between present moral commitments and speculative futures that reveal their limits)
+  - ∂Φ/∂λ (transforming pragmatism through speculation — design fiction as catalytic methodology that uses imaginative scenarios to provoke ethical reflection on current choices)
+  - ∂Φ/∂β (growth from known consciousness to unknown sentience — expanding moral consideration from familiar human awareness to unfamiliar forms of sentience in AI, animals, and extraterrestrial life)
+  - ∂Φ/∂δγ (cycling between individual rights and collective moral status — the oscillation between rights attributed to individual conscious beings and moral standing of collective or distributed consciousness)
+  - ∂Φ/∂μ (structural correspondence between rights framework and design fiction — speculative design giving form to imaginative moral scenarios that test and extend existing frameworks)
+  Z_state: semi
+  z_note: universal_moral_extension — a Universal Declaration of Rights for All Conscious Beings emerges through speculative design as a provocation that forces current moral frameworks to confront their anthropocentric limits; by imagining rights for AI, animals, and extraterrestrial life, the exercise reveals hidden assumptions about consciousness, moral status, and the boundaries of ethical consideration
+  tendency: λ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["human_universal_rights_discernment", "anthropocentric_limit_perception"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["current_future_ethical_relation", "empathic_extension_across_sentience"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["speculative_design_catalysis", "design_fiction_provocation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["known_unknown_consciousness_growth", "moral_scope_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["individual_collective_moral_cycling", "rights_framework_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["declaration_framework_structure", "speculative_methodology_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S054", "S089", "S0C3", "S0ED"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - human_universal_rights_discernment
+    - anthropocentric_limit_perception
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - current_future_ethical_relation
+    - empathic_extension_across_sentience
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - speculative_design_catalysis
+    - design_fiction_provocation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - known_unknown_consciousness_growth
+    - moral_scope_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - individual_collective_moral_cycling
+    - rights_framework_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - declaration_framework_structure
+    - speculative_methodology_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S054
+- S089
+- S0C3
+- S0ED
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213207_2198030_Envisioning+Rights+for+All+Conscious+Beings.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

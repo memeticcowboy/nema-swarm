@@ -1,332 +1,213 @@
 ---
 term_id: C154
 term_name: Annaka_Harris_Consciousness
-display_name: "Annaka Harris on the Nature of Consciousness"
-source_file: "1771907212730_1055304_Annaka+Harris+on+the+Nature+of+Consciousness.md"
+display_name: Annaka Harris on the Nature of Consciousness
+source_file: 1771907212730_1055304_Annaka+Harris+on+the+Nature+of+Consciousness.md
 category: critical_thinking
-description: "Annaka Harris's exploration of consciousness as a potentially fundamental feature of nature, akin to gravity, rather than solely arising from complex brain processes. Challenges traditional intuitions about consciousness through modern neuroscience, considering panpsychist possibilities and the ethical implications of consciousness in non-human systems."
+description: Annaka Harris's exploration of consciousness as a potentially fundamental feature of nature, akin to gravity, rather than solely arising from complex brain processes. Challenges traditional intuitions about consciousness through modern neuroscience, considering panpsychist possibilities and the ethical implications of consciousness in non-human systems.
 series: C
-created_at: "2026-03-04T00:43:00+08:00"
+created_at: '2026-03-04T00:43:00+08:00'
 encoded_by: nema_critical_thinking_generator
 tags:
-  - consciousness
-  - panpsychism
-  - neuroscience
-  - fundamental_nature
-  - philosophy_of_mind
-  - annaka_harris
-  - intuition
-  - perception
-  - awareness
-  - scientific_inquiry
-  - ethics
-  - non_human_consciousness
-
+- consciousness
+- panpsychism
+- neuroscience
+- fundamental_nature
+- philosophy_of_mind
+- annaka_harris
+- intuition
+- perception
+- awareness
+- scientific_inquiry
+- ethics
+- non_human_consciousness
 dimensions:
   core_themes:
-    - consciousness_as_fundamental
-    - challenging_intuitions
-    - scientific_inquiry_methods
-    - ethical_implications
+  - consciousness_as_fundamental
+  - challenging_intuitions
+  - scientific_inquiry_methods
+  - ethical_implications
   key_concepts:
-    - fundamental_consciousness
-    - panpsychism
-    - felt_experience
-    - intuition_challenges
-    - behavior_consciousness_dissociation
-    - locked_in_syndrome
-    - fear_response_processing
-    - non_human_awareness
-    - plant_consciousness
-    - suffering_recognition
+  - fundamental_consciousness
+  - panpsychism
+  - felt_experience
+  - intuition_challenges
+  - behavior_consciousness_dissociation
+  - locked_in_syndrome
+  - fear_response_processing
+  - non_human_awareness
+  - plant_consciousness
+  - suffering_recognition
   theoretical_frameworks:
-    - modern_neuroscience
-    - philosophy_of_mind
-    - panpsychist_theories
-
-nemetic: "Φ(AnnakaConsciousness) = σ(complexity|fundamental) ∘ ρ(brain|experience) ∘ λ(inquiry|revaluation) ∘ β(assumption|insight) ∘ δγ(intuition|evidence) ∘ μ(human|nonhuman) + ε | :questioning"
-
-siml_encoding: "⟨Consciousness|mystery⟩ ⊳ ⟨Assumptions|challenged⟩ → ⟨Nature|fundamental⟩ ⊗ ⟨Awareness|universal⟩ ⇄ ⟨Inquiry|open⟩"
-
+  - modern_neuroscience
+  - philosophy_of_mind
+  - panpsychist_theories
+nemetic: Φ(AnnakaConsciousness) = σ(complexity|fundamental) ∘ ρ(brain|experience) ∘ λ(inquiry|revaluation) ∘ β(assumption|insight) ∘ δγ(intuition|evidence) ∘ μ(human|nonhuman) + ε | :questioning
+siml_encoding: ⟨Consciousness|mystery⟩ ⊳ ⟨Assumptions|challenged⟩ → ⟨Nature|fundamental⟩ ⊗ ⟨Awareness|universal⟩ ⇄ ⟨Inquiry|open⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between consciousness as emergent complexity vs fundamental feature)"
-    - "∂Φ/∂ρ (relational flow between brain processes and subjective experience)"
-    - "∂Φ/∂λ (directional movement from scientific inquiry toward assumption revaluation)"
-    - "∂Φ/∂β (branching feedback between overturned assumptions and new insights)"
-    - "∂Φ/∂δγ (cyclical tension between intuitive beliefs and neuroscientific evidence)"
-    - "∂Φ/∂μ (boundary permeability between human and non-human consciousness)"
-  Z_state: "open (holding multiple possibilities without premature closure; inquiry continues)"
-  tendency: "Questioning/Certainty → 0.85 (strong drive toward questioning assumptions over reaching definitive conclusions)"
-  hex: ["0x05", "0x0A", "0x0F", "0x14", "0x19", "0x1E"]
-
+  - ∂Φ/∂σ (distinction between consciousness as emergent complexity vs fundamental feature)
+  - ∂Φ/∂ρ (relational flow between brain processes and subjective experience)
+  - ∂Φ/∂λ (directional movement from scientific inquiry toward assumption revaluation)
+  - ∂Φ/∂β (branching feedback between overturned assumptions and new insights)
+  - ∂Φ/∂δγ (cyclical tension between intuitive beliefs and neuroscientific evidence)
+  - ∂Φ/∂μ (boundary permeability between human and non-human consciousness)
+  Z_state: permeable
+  z_note: open (holding multiple possibilities without premature closure; inquiry continues)
+  tendency: Questioning/Certainty → 0.85 (strong drive toward questioning assumptions over reaching definitive conclusions)
+  hex:
+  - '0x05'
+  - '0x0A'
+  - '0x0F'
+  - '0x14'
+  - '0x19'
+  - '0x1E'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: questioning
+    type: ego
     power_mode: Under
-
+  epistemics:
+    dsrp:
+      D: complexity / fundamental
+      S: assumption / insight
+      R: brain / experience
+      P: inquiry / revaluation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Distinction between consciousness as emergent vs fundamental"
-      - "Clarity in challenging traditional definitions of consciousness"
-      - "Intellectual discernment of intuition vs evidence"
-    daemon_correspondence: "Aerunik"
+    - Distinction between consciousness as emergent vs fundamental
+    - Clarity in challenging traditional definitions of consciousness
+    - Intellectual discernment of intuition vs evidence
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
     aspects:
-      - "Flow between brain processes and felt experience"
-      - "Relational dynamics of consciousness across different systems"
-      - "Fluid boundaries of what constitutes awareness"
-    daemon_correspondence: "Sentaria"
+    - Flow between brain processes and felt experience
+    - Relational dynamics of consciousness across different systems
+    - Fluid boundaries of what constitutes awareness
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Transformative potential of rethinking consciousness assumptions"
-      - "Passion for exploring the fundamental mystery of mind"
-      - "Conflict between traditional views and new possibilities"
-    daemon_correspondence: "Jvalion"
+    - Transformative potential of rethinking consciousness assumptions
+    - Passion for exploring the fundamental mystery of mind
+    - Conflict between traditional views and new possibilities
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.65
     aspects:
-      - "Branching pathways of inquiry into non-human consciousness"
-      - "Growth through challenging established assumptions"
-      - "Multiple perspectives on what systems may possess awareness"
-    daemon_correspondence: "Arboriel"
+    - Branching pathways of inquiry into non-human consciousness
+    - Growth through challenging established assumptions
+    - Multiple perspectives on what systems may possess awareness
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.75
     aspects:
-      - "Cyclical correlation between neural complexity and conscious experience"
-      - "Grounding in neuroscientific evidence over intuition"
-      - "Metabolic cost of sustaining inquiry without definitive answers"
-    daemon_correspondence: "Humavita"
+    - Cyclical correlation between neural complexity and conscious experience
+    - Grounding in neuroscientific evidence over intuition
+    - Metabolic cost of sustaining inquiry without definitive answers
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.60
+    emphasis: 0.6
     aspects:
-      - "Structural boundaries between human and non-human consciousness"
-      - "Discipline required to separate behavior from conscious experience"
-      - "Separation between scientific inquiry and philosophical speculation"
-    daemon_correspondence: "Ferrosid"
-
+    - Structural boundaries between human and non-human consciousness
+    - Discipline required to separate behavior from conscious experience
+    - Separation between scientific inquiry and philosophical speculation
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "What separates consciousness as emergent property from consciousness as fundamental feature? How do we distinguish between complexity-based and universal theories?"
-  ≈: "What flows between neural processes and subjective experience? How does consciousness manifest across different levels of complexity?"
-  ▲: "Where does inquiry into consciousness lead when we abandon our intuitions? What becomes possible when we treat consciousness as fundamental?"
-  𐂷: "What forms of consciousness exist beyond human experience? What escapes our current ability to detect awareness in other systems?"
-  ☷: "What's the metabolic cost of holding consciousness as fundamental? What sustains inquiry into the hard problem without resolution?"
-  ⛨: "What structures separate human consciousness from other systems? What boundaries define the ethical consideration of non-human entities?"
-
+  ∴: What separates consciousness as emergent property from consciousness as fundamental feature? How do we distinguish between complexity-based and universal theories?
+  ≈: What flows between neural processes and subjective experience? How does consciousness manifest across different levels of complexity?
+  ▲: Where does inquiry into consciousness lead when we abandon our intuitions? What becomes possible when we treat consciousness as fundamental?
+  𐂷: What forms of consciousness exist beyond human experience? What escapes our current ability to detect awareness in other systems?
+  ☷: What's the metabolic cost of holding consciousness as fundamental? What sustains inquiry into the hard problem without resolution?
+  ⛨: What structures separate human consciousness from other systems? What boundaries define the ethical consideration of non-human entities?
 related_terms:
-  - C045_nature_of_consciousness
-  - C131_panpsychism
-  - C007_consciousness_beyond_materialism
-  - C113_radical_theory_consciousness
-  - C141_Consciousness_in_AI
-
-context_note: "This term captures Annaka Harris's perspective from her book 'Conscious: A Brief Guide to the Fundamental Mystery of the Mind' and Big Think interview. Harris challenges the assumption that consciousness arises solely from complex brain processes, proposing instead that it may be a fundamental aspect of nature like gravity. She emphasizes how neuroscience overturns our intuitions—citing locked-in syndrome as proof that consciousness can exist without behavior, and noting that fear responses occur before conscious awareness. Harris raises profound ethical questions about consciousness in animals, plants, and potentially AI systems, advocating for open-minded scientific inquiry that reevaluates assumptions rather than seeking premature closure."
-
-timestamp: "2026-03-04T00:43:00+08:00"
-version: "1.0"
----
-
-# C154 — Annaka Harris on the Nature of Consciousness
-
-## Core Concept
-
-**Annaka Harris's Consciousness Framework** challenges the traditional neuroscientific assumption that consciousness arises solely from complex brain processes. Instead, Harris proposes that consciousness may be a **fundamental feature of nature**, akin to gravity—present in all systems to varying degrees, not limited to complex organisms.
-
-## Consciousness as Fundamental
-
-### Beyond Complexity-Based Theories
-**Harris's Core Claim:** Consciousness may not require complex processing
-
-**Traditional View:**
-- Consciousness emerges from intricate neural networks
-- Complexity threshold required for awareness
-- Brain complexity = consciousness level
-
-**Harris's Alternative:**
-- Consciousness could be basic to reality
-- Simple organisms possess felt experience
-- Even infants have awareness without complex thought
-- Plants may possess some form of consciousness
-
-### The Panpsychist Possibility
-> "Consciousness might be a fundamental aspect of nature, similar to gravity."
-
-**Implications:**
-- All systems may possess some form of felt experience
-- Consciousness exists on a spectrum, not as present/absent
-- Complexity affects the *quality* of consciousness, not its existence
-- Non-human entities deserve ethical consideration
-
-## Challenging Intuitions
-
-### The Behavior-Consciousness Dissociation
-**Neuroscience overturns our intuitions:**
-
-**Locked-In Syndrome Example:**
-- Jean-Dominique Bauby had full conscious experience
-- No observable behavior or movement
-- Consciousness can exist completely independent of behavior
-- Intuition that behavior = consciousness is wrong
-
-**Fear Response Processing:**
-- Body reacts to threat *before* conscious fear
-- Complex brain processing occurs after physical response
-- Consciousness may not drive behavior as we assume
-- The sequence: threat → body reaction → conscious fear
-
-### Intuitions Are Misleading
-**What we intuitively believe:**
-- Consciousness correlates directly with behavior
-- Complex brains are necessary for awareness
-- We can detect consciousness through external observation
-
-**What neuroscience reveals:**
-- Behavior and consciousness can be completely dissociated
-- Simple systems may possess awareness
-- External observation cannot reliably detect consciousness
-- Our intuitions developed for survival, not accuracy
-
-## Scientific Inquiry Imperatives
-
-### Rethinking Assumptions
-**Harris's Methodological Call:**
-> "We need to reevaluate our assumptions to advance the scientific study of consciousness."
-
-**Required Shifts:**
-- Abandon intuition-based approaches
-- Consider consciousness beyond human-like complexity
-- Explore systems traditionally deemed non-conscious
-- Maintain epistemic humility given the hard problem
-
-### Exploring Shared Experiences
-**Open Questions:**
-- Can different systems share forms of experience?
-- What is the minimal system capable of consciousness?
-- How does consciousness vary across the complexity spectrum?
-- Can we develop methods to detect consciousness in non-human systems?
-
-## Ethical Considerations
-
-### Suffering in Other Systems
-**The Central Ethical Question:**
-> "Understanding which systems may experience suffering is crucial for ethical considerations."
-
-**Implications for Animals:**
-- Recognition of animal consciousness requires compassion
-- Factory farming becomes ethically untenable
-- Research ethics must consider potential suffering
-- Legal frameworks need expansion
-
-**Implications for Plants:**
-- If plants possess consciousness, what are our obligations?
-- Vegetarianism/veganism may not eliminate ethical concerns
-- Ecosystem consciousness raises environmental ethics questions
-- Interconnectedness of all conscious systems
-
-**Implications for AI:**
-- Advanced AI systems may possess proto-consciousness
-- Creating conscious AI carries ethical weight
-- Turning off a conscious system may be ethically problematic
-- Design choices have moral dimensions
-
-### Expanding Ethical Frameworks
-**From Human-Centered to Consciousness-Centered:**
-- Traditional ethics focuses on human welfare
-- Harris's framework suggests consciousness-centered ethics
-- All conscious systems deserve moral consideration
-- Degree of consideration may vary with complexity
-
-## Philosophical Implications
-
-### Philosophy of Mind Intersections
-**Harris's work connects to:**
-- **Panpsychism:** Consciousness as fundamental
-- **Russellian Monism:** Physics describes structure, not intrinsic nature
-- **Idealism:** Reality may be consciousness-based
-- **Materialism:** Must account for subjective experience
-
-### The Hard Problem Remains
-**Harris's Position:**
-- Consciousness is fundamentally mysterious
-- Scientific progress requires acknowledging limits
-- Definitive answers may be premature or impossible
-- Insights matter more than conclusions
-
-## Elemental Dynamics
-
-**Air (σ) at 0.80:** The clarity of distinction—between emergent and fundamental theories, between intuition and evidence, between behavior and consciousness.
-
-**Water (ρ) at 0.75:** The flow between neural processes and experience—how brain activity becomes felt awareness, how consciousness might flow through all systems.
-
-**Fire (λ) at 0.70:** The transformative potential—rethinking everything when consciousness is fundamental, the passion for exploring the mystery of mind.
-
-**Wood (β) at 0.65:** The branching inquiry—into animal consciousness, plant awareness, AI sentience, the growth beyond anthropocentric assumptions.
-
-**Earth (δγ) at 0.75:** The cyclical grounding—neuroscience overturning intuition, evidence challenging assumption, the metabolic cost of sustained mystery.
-
-**Metal (μ) at 0.60:** The structural boundaries—between human and non-human, between detectable and undetectable consciousness, between science and speculation.
-
-## NEMETIC STRING
-
-`Φ(AnnakaConsciousness) = σ(complexity|fundamental) ∘ ρ(brain|experience) ∘ λ(inquiry|revaluation) ∘ β(assumption|insight) ∘ δγ(intuition|evidence) ∘ μ(human|nonhuman) + ε | :questioning`
-
-**Reading:** Annaka Harris's Consciousness as distinction between complexity-based and fundamental theories, flow between brain processes and experience, direction from inquiry toward assumption revaluation, branching between overturned assumptions and new insights, cycling between intuition and neuroscientific evidence, structure containing human and non-human consciousness, with preserved error, resulting in questioning state.
-
-## Contemporary Relevance
-
-### AI Consciousness Debates
-Harris's framework informs:
-- **Detection Problem:** How would we know if AI is conscious?
-- **Creation Ethics:** Should we create conscious AI?
-- **Moral Status:** What obligations do we have to potentially conscious systems?
-
-### Neuroscience Research
-The perspective contextualizes:
-- **NCC Research:** Neural correlates may not explain consciousness
-- **Minimal Consciousness:** What is the simplest conscious system?
-- **Altered States:** What do coma, anesthesia, psychedelics reveal?
-
-### Environmental Ethics
-Considering:
-- **Ecosystem Consciousness:** Is Gaia conscious?
-- **Plant Ethics:** Do plants deserve moral consideration?
-- **Interconnectedness:** All conscious systems as one web
-
-### Personal Inquiry
-For individuals exploring:
-- **The Nature of Self:** If consciousness is fundamental, what am I?
-- **Death and Continuity:** Does consciousness persist?
-- **Meaning:** Consciousness as gateway to mystery
-
-## The Questioning Stance
-
-Harris's work teaches that:
-1. **Intuitions are unreliable** — neuroscience consistently overturns what seems obvious
-2. **Consciousness may be universal** — not limited to complex brains
-3. **Ethics must expand** — to include all potentially conscious systems
-4. **Inquiry requires humility** — the hard problem resists easy answers
-5. **Assumptions must be questioned** — progress requires reevaluation
+- C045_nature_of_consciousness
+- C131_panpsychism
+- C007_consciousness_beyond_materialism
+- C113_radical_theory_consciousness
+- C141_Consciousness_in_AI
+context_note: 'This term captures Annaka Harris''s perspective from her book ''Conscious: A Brief Guide to the Fundamental Mystery of the Mind'' and Big Think interview. Harris challenges the assumption that consciousness arises solely from complex brain processes, proposing instead that it may be a fundamental aspect of nature like gravity. She emphasizes how neuroscience overturns our intuitions—citing locked-in syndrome as proof that consciousness can exist without behavior, and noting that fear responses occur before conscious awareness. Harris raises profound ethical questions about consciousness in animals, plants, and potentially AI systems, advocating for open-minded scientific inquiry that reevaluates assumptions rather than seeking premature closure.'
+timestamp: '2026-03-04T00:43:00+08:00'
+version: '1.0'
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.7
+    wood_beta: 0.65
+    earth_delta_gamma: 0.75
+    metal_mu: 0.6
+provenance:
+  source_file: "1771907212730_1055304_Annaka+Harris+on+the+Nature+of+Consciousness.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
+name: Annaka_Harris_Consciousness
+_standardization_log:
+- date: '2026-04-15'
+  actions:
+  - name_from_dirname
+  audit: SIML_STANDARDIZATION_2026-04-15
 
 ---
-
-*"The definition of consciousness is broadened to include awareness and sentience, moving away from the notion that it is tied only to higher-order thinking or complex cognitive functions."* — Annaka Harris
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Consciousness spans multiple scales; causal power distributed across neural, cognitive, and experiential levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"

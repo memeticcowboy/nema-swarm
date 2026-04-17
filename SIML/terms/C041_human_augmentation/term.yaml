@@ -1,103 +1,164 @@
 ---
-term: "Human Augmentation"
-hex_tag: "#C041"
-source_term: "Human Augmentation Insights"
-source_file: "1771907212462_305071_Human+Augmentation+Insights.md"
-category: "critical_thinking"
-description: "The use of technologies including brain-computer interfaces, nootropics, and neurostimulation to enhance cognitive abilities, memory, learning speed, and problem-solving capabilities, raising profound ethical, societal, and safety considerations."
-
-nemetic: "Φ(HumanAugmentation) = σ(natural|enhanced) ∘ ρ(ability|potential) ∘ λ(transformation|risk) ∘ β(access|equity) ∘ δγ(human|posthuman) ∘ μ(augmentation|authenticity) + ε | :transcending"
-
-siml_encoding: "⟨Human|biological⟩ ⊳ ⟨Technology|integrated⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Potential|expanded⟩ ⇄ ⟨Identity|transformed⟩"
-
+term: Human Augmentation
+hex_tag: '#C041'
+source_term: Human Augmentation Insights
+source_file: 1771907212462_305071_Human+Augmentation+Insights.md
+category: critical_thinking
+description: The use of technologies including brain-computer interfaces, nootropics, and neurostimulation to enhance cognitive abilities, memory, learning speed, and problem-solving capabilities, raising profound ethical, societal, and safety considerations.
+nemetic: Φ(HumanAugmentation) = σ(natural|enhanced) ∘ ρ(ability|potential) ∘ λ(transformation|risk) ∘ β(access|equity) ∘ δγ(human|posthuman) ∘ μ(augmentation|authenticity) + ε | :transcending
+siml_encoding: ⟨Human|biological⟩ ⊳ ⟨Technology|integrated⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Potential|expanded⟩ ⇄ ⟨Identity|transformed⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between natural cognitive abilities and technologically enhanced capacities; categorical separation of innate human function from augmented performance)"
-    - "∂Φ/∂ρ (relational flow between current abilities and expanded potential; the bridge between what humans are and what they might become)"
-    - "∂Φ/∂λ (directional tension between transformative enhancement and inherent risks; the spark of posthuman possibility against safety concerns)"
-    - "∂Φ/∂β (feedback loop between equitable access and socio-economic stratification; the developmental cycle of democratization versus elite capture)"
-    - "∂Φ/∂δγ (cyclical oscillation between human identity and posthuman transformation; the rhythm of maintaining authenticity while embracing enhancement)"
-    - "∂Φ/∂μ (boundary permeability between augmented and authentic self; the threshold where enhancement becomes essential to identity)"
-  Z_state: "augmented (boundaries between natural and enhanced cognition dissolve through technological integration; human capability expands beyond evolutionary constraints while negotiating questions of authenticity and equity)"
-  tendency: "Enhancement/Natural → 0.65 (moderate bias toward cautious adoption; achieving beneficial augmentation requires balancing transformative potential against ethical risks and equity concerns)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between natural cognitive abilities and technologically enhanced capacities; categorical separation of innate human function from augmented performance)
+  - ∂Φ/∂ρ (relational flow between current abilities and expanded potential; the bridge between what humans are and what they might become)
+  - ∂Φ/∂λ (directional tension between transformative enhancement and inherent risks; the spark of posthuman possibility against safety concerns)
+  - ∂Φ/∂β (feedback loop between equitable access and socio-economic stratification; the developmental cycle of democratization versus elite capture)
+  - ∂Φ/∂δγ (cyclical oscillation between human identity and posthuman transformation; the rhythm of maintaining authenticity while embracing enhancement)
+  - ∂Φ/∂μ (boundary permeability between augmented and authentic self; the threshold where enhancement becomes essential to identity)
+  Z_state: permeable
+  z_note: augmented (boundaries between natural and enhanced cognition dissolve through technological integration; human capability expands beyond evolutionary constraints while negotiating questions of authenticity and equity)
+  tendency: Enhancement/Natural → 0.65 (moderate bias toward cautious adoption; achieving beneficial augmentation requires balancing transformative potential against ethical risks and equity concerns)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: hybrid
+    type: more_than_human
     power_mode: Within
-
+  epistemics:
+    dsrp:
+      D: natural / enhanced
+      S: access / equity
+      R: ability / potential
+      P: transformation / risk
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical distinction between natural and augmented cognitive abilities"
-      - "logical analysis of enhancement methods and their effects"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between natural and augmented cognitive abilities
+    - logical analysis of enhancement methods and their effects
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
     aspects:
-      - "fluid flow between current human limitations and expanded potential"
-      - "relational dynamics of access and equity in augmentation distribution"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between current human limitations and expanded potential
+    - relational dynamics of access and equity in augmentation distribution
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "transformative spark of cognitive enhancement igniting posthuman possibilities"
-      - "directional drive toward expanded knowledge and capability"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of cognitive enhancement igniting posthuman possibilities
+    - directional drive toward expanded knowledge and capability
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of augmented capabilities through iterative development"
-      - "evolutionary unfolding from biological to technologically enhanced cognition"
-    daemon_correspondence: "Arboriel"
+    - organic growth of augmented capabilities through iterative development
+    - evolutionary unfolding from biological to technologically enhanced cognition
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.65
     aspects:
-      - "grounding in biological substrate while ascending to enhanced states"
-      - "cyclical return to safety and ethical considerations against transformative urges"
-    daemon_correspondence: "Humavita"
+    - grounding in biological substrate while ascending to enhanced states
+    - cyclical return to safety and ethical considerations against transformative urges
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "structural precision of brain-computer interfaces and neurostimulation"
-      - "boundary enforcement between beneficial augmentation and harmful overreach"
-    daemon_correspondence: "Ferrosid"
-
+    - structural precision of brain-computer interfaces and neurostimulation
+    - boundary enforcement between beneficial augmentation and harmful overreach
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How is natural cognition distinguished from augmented capability? What separates enhancement from therapy?"
-  ≈: "What flows between human potential and technological possibility? Who gains access to augmentation?"
-  ▲: "Where does the drive for enhancement lead? Does it serve human flourishing or create new hierarchies?"
-  𐂷: "What forms of augmentation have not been imagined? How might enhancement reshape human identity?"
-  ☷: "What sustains the ethical framework for augmentation? What are the metabolic costs of cognitive enhancement?"
-  ⛨: "What structures contain or enable augmentation? What boundaries protect against misuse and ensure equity?"
-
+  ∴: How is natural cognition distinguished from augmented capability? What separates enhancement from therapy?
+  ≈: What flows between human potential and technological possibility? Who gains access to augmentation?
+  ▲: Where does the drive for enhancement lead? Does it serve human flourishing or create new hierarchies?
+  𐂷: What forms of augmentation have not been imagined? How might enhancement reshape human identity?
+  ☷: What sustains the ethical framework for augmentation? What are the metabolic costs of cognitive enhancement?
+  ⛨: What structures contain or enable augmentation? What boundaries protect against misuse and ensure equity?
 related_terms:
-  - "Brain-Computer Interfaces"
-  - "Cognitive Enhancement"
-  - "Transhumanism"
-  - "Neuroethics"
-  - "Posthumanism"
+- Brain-Computer Interfaces
+- Cognitive Enhancement
+- Transhumanism
+- Neuroethics
+- Posthumanism
+context_note: 'Human augmentation encompasses multiple domains: cognitive enhancement through nootropics and neurostimulation, sensory expansion through implants, and physical augmentation through prosthetics and exoskeletons. Key ethical tensions include equity of access (risk of widening socio-economic divides), consent and autonomy (ensuring individual control over enhancement choices), and authenticity (maintaining human identity while embracing technological integration). The concept bridges individual transformation (I) and technological artifact (It), requiring careful navigation of benefits against risks including health concerns, security vulnerabilities, and societal disruption.'
+timestamp: '2026-03-01T12:43:00+08:00'
+version: '1.0'
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.75
+    fire_lambda: 0.8
+    wood_beta: 0.7
+    earth_delta_gamma: 0.65
+    metal_mu: 0.9
+provenance:
+  source_file: "1771907212462_305071_Human+Augmentation+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-context_note: "Human augmentation encompasses multiple domains: cognitive enhancement through nootropics and neurostimulation, sensory expansion through implants, and physical augmentation through prosthetics and exoskeletons. Key ethical tensions include equity of access (risk of widening socio-economic divides), consent and autonomy (ensuring individual control over enhancement choices), and authenticity (maintaining human identity while embracing technological integration). The concept bridges individual transformation (I) and technological artifact (It), requiring careful navigation of benefits against risks including health concerns, security vulnerabilities, and societal disruption."
-
-timestamp: "2026-03-01T12:43:00+08:00"
-version: "1.0"
 ---
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"

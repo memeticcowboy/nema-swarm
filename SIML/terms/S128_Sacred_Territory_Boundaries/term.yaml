@@ -1,50 +1,156 @@
 ---
-term: "Sacred Territory Boundaries"
-hex_tag: "S128"
-series: "S"
-source_file: "1771907213380_2355325_The+Spiritualization+of+Personal+Boundaries%3A+Understanding+Sacred+Territory.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Examines the spiritualization of personal boundaries — the framing of personal space as sanctified ground where encroachment constitutes sacrilege. Core meme: 'My space is holy; intrusion is desecration.' Generates identity roles including the Sacred Guardian, Invaded Mystic, High-Vibration Insider, and Exile Archetype. Emotional triggers include sanctity, defiance, empowerment, and melancholy. Defense mechanisms include spiritual absolutism, recasting critics as 'energetic invaders,' and intuitive epistemology that trumps external logic."
-nemetic: "Φ(Sacred_Boundaries) = σ(sanctity|profanity) ∘ ρ(protection|isolation) ∘ λ(empowerment|avoidance) ∘ β(sovereignty|enclosure) ∘ δγ(sacred_ground|rigid_wall) ∘ μ(ritual|fortification) + ε | :spiritual_absolutism"
-siml_encoding: "⟨boundary:sacred_ground⟩ ⊳ ⟨intrusion:desecration⟩ → ⟨guardian:sanctified_self⟩ ⊗ ⟨exile:melancholy_sovereignty⟩ ⇄ ⟨negotiation:impossible_when_sacred⟩"
+term: Sacred Territory Boundaries
+hex_tag: S128
+series: S
+source_file: 1771907213380_2355325_The+Spiritualization+of+Personal+Boundaries%3A+Understanding+Sacred+Territory.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Examines the spiritualization of personal boundaries — the framing of personal space as sanctified ground where encroachment constitutes sacrilege. Core meme: ''My space is holy; intrusion is desecration.'' Generates identity roles including the Sacred Guardian, Invaded Mystic, High-Vibration Insider, and Exile Archetype. Emotional triggers include sanctity, defiance, empowerment, and melancholy. Defense mechanisms include spiritual absolutism, recasting critics as ''energetic invaders,'' and intuitive epistemology that trumps external logic.'
+nemetic: Φ(Sacred_Boundaries) = σ(sanctity|profanity) ∘ ρ(protection|isolation) ∘ λ(empowerment|avoidance) ∘ β(sovereignty|enclosure) ∘ δγ(sacred_ground|rigid_wall) ∘ μ(ritual|fortification) + ε | :spiritual_absolutism
+siml_encoding: ⟨boundary:sacred_ground⟩ ⊳ ⟨intrusion:desecration⟩ → ⟨guardian:sanctified_self⟩ ⊗ ⟨exile:melancholy_sovereignty⟩ ⇄ ⟨negotiation:impossible_when_sacred⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: sanctity / profanity
+      S: sovereignty / enclosure
+      R: protection / isolation
+      P: empowerment / avoidance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (sanctity-profanity framing transforms interpersonal negotiation into sacred warfare)"
-    - "∂Φ/∂ρ (protection-isolation gradient reveals self-care collapsing into disconnection)"
-    - "∂Φ/∂λ (empowerment through boundary-setting vs avoidance disguised as spiritual practice)"
-    - "∂Φ/∂β (sovereignty as growth vs enclosure as self-imposed limitation)"
-    - "∂Φ/∂δγ (sacred ground as genuine refuge vs rigid wall as defensive fortification)"
-    - "∂Φ/∂μ (ritual boundary-maintenance vs fortress construction as structural expression)"
-  Z_state: "spiritual_absolutism"
-  tendency: "δγ → 0.81"
+  - ∂Φ/∂σ (sanctity-profanity framing transforms interpersonal negotiation into sacred warfare)
+  - ∂Φ/∂ρ (protection-isolation gradient reveals self-care collapsing into disconnection)
+  - ∂Φ/∂λ (empowerment through boundary-setting vs avoidance disguised as spiritual practice)
+  - ∂Φ/∂β (sovereignty as growth vs enclosure as self-imposed limitation)
+  - ∂Φ/∂δγ (sacred ground as genuine refuge vs rigid wall as defensive fortification)
+  - ∂Φ/∂μ (ritual boundary-maintenance vs fortress construction as structural expression)
+  Z_state: semi
+  tendency: δγ → 0.81
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.74
-    aspects: [sanctity_framing, spiritual_language, energetic_discourse]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - sanctity_framing
+    - spiritual_language
+    - energetic_discourse
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.69
-    aspects: [protective_emotion, isolation_undercurrent, relational_withdrawal]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - protective_emotion
+    - isolation_undercurrent
+    - relational_withdrawal
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.76
-    aspects: [empowerment_flame, defiance_heat, avoidance_burnout]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - empowerment_flame
+    - defiance_heat
+    - avoidance_burnout
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.60
-    aspects: [sovereignty_growth, identity_enclosure, archetypal_branching]
-    daemon_correspondence: "Arboriel"
+    emphasis: 0.6
+    aspects:
+    - sovereignty_growth
+    - identity_enclosure
+    - archetypal_branching
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.87
-    aspects: [sacred_ground, territorial_marking, boundary_as_bedrock]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - sacred_ground
+    - territorial_marking
+    - boundary_as_bedrock
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.71
-    aspects: [ritual_structures, defensive_fortification, boundary_architecture]
-    daemon_correspondence: "Ferrosid"
+    aspects:
+    - ritual_structures
+    - defensive_fortification
+    - boundary_architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - fire_lambda
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.74
+    water_rho: 0.69
+    fire_lambda: 0.76
+    wood_beta: 0.6
+    earth_delta_gamma: 0.87
+    metal_mu: 0.71
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213380_2355325_The+Spiritualization+of+Personal+Boundaries%3A+Understanding+Sacred+Territory.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,154 @@
 ---
-term: "Whale Nutrient Transport"
-hex_tag: "G00B"
-series: "G"
-source_file: "11 - Whale Nutrient Transport.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The discovery that migrating whales transport over 4,000 tons of nitrogen annually from polar feeding zones to tropical waters through urine, feces, and biological materials. This 'whale pump' fertilizes phytoplankton, coral reefs, and coastal ecosystems across thousands of miles, functioning as the ocean's circulatory system. Historical whale populations may have transported three times current nitrogen volumes."
-nemetic: "Φ(Whale Nutrient Transport) = σ(nutrient_rich_polar|nutrient_poor_tropical) ∘ ρ(whale_migration_linkage|ecosystem_fertilization_chain) ∘ λ(nitrogen_release_catalysis|phytoplankton_bloom_ignition) ∘ β(marine_food_web_growth|whale_population_recovery) ∘ δγ(migration_nutrient_cycle|whale_pump_vertical_cycle) ∘ μ(ocean_nutrient_distribution_framework|conservation_policy_structure) + ε | :oceanic_circulatory_function"
-siml_encoding: "⟨polar_feeding_zone, tropical_breeding_zone⟩ ⊳ ⟨whale_migration, nitrogen_transport⟩ → ⟨phytoplankton_bloom, coral_fertilization⟩ ⊗ ⟨whale_population_decline, nutrient_flow_reduction⟩ ⇄ ⟨conservation_action, ecosystem_recovery⟩"
+term: Whale Nutrient Transport
+hex_tag: G00B
+series: G
+source_file: 11 - Whale Nutrient Transport.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The discovery that migrating whales transport over 4,000 tons of nitrogen annually from polar feeding zones to tropical waters through urine, feces, and biological materials. This 'whale pump' fertilizes phytoplankton, coral reefs, and coastal ecosystems across thousands of miles, functioning as the ocean's circulatory system. Historical whale populations may have transported three times current nitrogen volumes.
+nemetic: Φ(Whale Nutrient Transport) = σ(nutrient_rich_polar|nutrient_poor_tropical) ∘ ρ(whale_migration_linkage|ecosystem_fertilization_chain) ∘ λ(nitrogen_release_catalysis|phytoplankton_bloom_ignition) ∘ β(marine_food_web_growth|whale_population_recovery) ∘ δγ(migration_nutrient_cycle|whale_pump_vertical_cycle) ∘ μ(ocean_nutrient_distribution_framework|conservation_policy_structure) + ε | :oceanic_circulatory_function
+siml_encoding: ⟨polar_feeding_zone, tropical_breeding_zone⟩ ⊳ ⟨whale_migration, nitrogen_transport⟩ → ⟨phytoplankton_bloom, coral_fertilization⟩ ⊗ ⟨whale_population_decline, nutrient_flow_reduction⟩ ⇄ ⟨conservation_action, ecosystem_recovery⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: nutrient_rich_polar / nutrient_poor_tropical
+      S: marine_food_web_growth / whale_population_recovery
+      R: whale_migration_linkage / ecosystem_fertilization_chain
+      P: nitrogen_release_catalysis / phytoplankton_bloom_ignition
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ distinguishes nutrient-rich polar feeding zones from nutrient-poor tropical waters, defining the gradient that whale migration bridges"
-    - "∂Φ/∂ρ maps the migratory linkage connecting distant ecosystems and the fertilization chain from whale waste to phytoplankton to marine food webs"
-    - "∂Φ/∂λ captures the catalytic release of nitrogen through whale excretions that ignites phytoplankton blooms and coral reef growth"
-    - "∂Φ/∂β tracks the growth of marine food webs supported by whale-transported nutrients and the recovery of whale populations through conservation"
-    - "∂Φ/∂δγ describes the annual horizontal migration nutrient cycle and the vertical whale pump cycling nutrients from deep to surface waters"
-    - "∂Φ/∂μ defines the ocean nutrient distribution framework and the conservation policy structures needed to protect migratory routes and whale populations"
-  Z_state: "oceanic_circulatory_function — the emergent state where whale migration serves as the planet's marine circulatory system, distributing nutrients across ocean basins to sustain productivity in otherwise nutrient-depleted regions"
-  tendency: "ρ → 0.90"
+  - ∂Φ/∂σ distinguishes nutrient-rich polar feeding zones from nutrient-poor tropical waters, defining the gradient that whale migration bridges
+  - ∂Φ/∂ρ maps the migratory linkage connecting distant ecosystems and the fertilization chain from whale waste to phytoplankton to marine food webs
+  - ∂Φ/∂λ captures the catalytic release of nitrogen through whale excretions that ignites phytoplankton blooms and coral reef growth
+  - ∂Φ/∂β tracks the growth of marine food webs supported by whale-transported nutrients and the recovery of whale populations through conservation
+  - ∂Φ/∂δγ describes the annual horizontal migration nutrient cycle and the vertical whale pump cycling nutrients from deep to surface waters
+  - ∂Φ/∂μ defines the ocean nutrient distribution framework and the conservation policy structures needed to protect migratory routes and whale populations
+  Z_state: permeable
+  z_note: oceanic_circulatory_function — the emergent state where whale migration serves as the planet's marine circulatory system, distributing nutrients across ocean basins to sustain productivity in otherwise nutrient-depleted regions
+  tendency: ρ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["polar_tropical_nutrient_gradient", "historical_vs_current_transport_volumes"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["whale_migration_ecosystem_linkage", "fertilization_food_web_chain"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["nitrogen_release_catalysis", "phytoplankton_bloom_ignition"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["marine_food_web_growth", "whale_population_recovery"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["annual_migration_nutrient_cycling", "vertical_whale_pump_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["nutrient_distribution_framework", "migratory_route_protection_structure"], daemon_correspondence: "Ferrosid"}
-related_terms: ["G00A", "G009", "G005"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - polar_tropical_nutrient_gradient
+    - historical_vs_current_transport_volumes
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - whale_migration_ecosystem_linkage
+    - fertilization_food_web_chain
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - nitrogen_release_catalysis
+    - phytoplankton_bloom_ignition
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - marine_food_web_growth
+    - whale_population_recovery
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - annual_migration_nutrient_cycling
+    - vertical_whale_pump_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - nutrient_distribution_framework
+    - migratory_route_protection_structure
+    daemon_correspondence: Ferrosid
+related_terms:
+- G00A
+- G009
+- G005
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.9
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "11 - Whale Nutrient Transport.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

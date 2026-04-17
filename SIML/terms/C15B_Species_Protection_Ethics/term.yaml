@@ -2,104 +2,150 @@ term_id: C15B
 hex_tag: '#C15B'
 name: Species_Protection_Ethics
 term: Species Protection Ethics
-nemetic: >-
-  Φ(Ethics) = σ(human|nonhuman) ∘ ρ(agency|impact) ∘ λ(exploitation|stewardship)
-  ∘ β(awareness|action) ∘ δγ(comfort|responsibility)
-  ∘ μ(boundary|kinship) + ε | :open
-siml_encoding: >-
-  ⟨Human|de-centered⟩ ⊳ ⟨Consciousness|distributed⟩ ⊗ ⟨Agency|recognized⟩
-  ⊗ ⟨Responsibility|embodied⟩ ⊗ ⟨Stewardship|active⟩
+nemetic: Φ(Ethics) = σ(human|nonhuman) ∘ ρ(agency|impact) ∘ λ(exploitation|stewardship) ∘ β(awareness|action) ∘ δγ(comfort|responsibility) ∘ μ(boundary|kinship) + ε | :open
+siml_encoding: ⟨Human|de-centered⟩ ⊳ ⟨Consciousness|distributed⟩ ⊗ ⟨Agency|recognized⟩ ⊗ ⟨Responsibility|embodied⟩ ⊗ ⟨Stewardship|active⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (human-nonhuman boundary permeability as consciousness research erodes species exceptionalism)"
-    - "∂Φ/∂ρ (agency-impact coupling — recognizing how human actions affect sentient beings)"
-    - "∂Φ/∂λ (directionality of ethical evolution — rate of moral circle expansion)"
-    - "∂Φ/∂β (awareness-to-action conversion — closing the gap between knowing and doing)"
-    - "∂Φ/∂δγ (cost of ethical living — psychological and practical sacrifices for moral consistency)"
-    - "∂Φ/∂μ (boundary-kinship balance — maintaining distinctions while recognizing continuity)"
+  - ∂Φ/∂σ (human-nonhuman boundary permeability as consciousness research erodes species exceptionalism)
+  - ∂Φ/∂ρ (agency-impact coupling — recognizing how human actions affect sentient beings)
+  - ∂Φ/∂λ (directionality of ethical evolution — rate of moral circle expansion)
+  - ∂Φ/∂β (awareness-to-action conversion — closing the gap between knowing and doing)
+  - ∂Φ/∂δγ (cost of ethical living — psychological and practical sacrifices for moral consistency)
+  - ∂Φ/∂μ (boundary-kinship balance — maintaining distinctions while recognizing continuity)
   Z_state: permeable
-  tendency: "Stewardship/Exploitation → 0.7"
+  tendency: Stewardship/Exploitation → 0.7
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: We
     secondary:
-      - MoreThanHuman
+    - MoreThanHuman
   epistemics:
     dsrp:
-      D: "Human consciousness vs. nonhuman consciousness — boundary increasingly permeable"
-      S: "Ethical framework linking consciousness science to moral consideration"
-      R: "Independent evolution of consciousness in cephalopods challenges anthropocentrism"
-      P: "Peter Godfrey-Smith's evolutionary philosophy of mind"
+      D: Human consciousness vs. nonhuman consciousness — boundary increasingly permeable
+      S: Ethical framework linking consciousness science to moral consideration
+      R: Independent evolution of consciousness in cephalopods challenges anthropocentrism
+      P: Peter Godfrey-Smith's evolutionary philosophy of mind
     learning: L2
   time:
     mode: anticipatory
-    phase: "moral circle expanding"
+    phase: moral circle expanding
   qualia:
     affect:
-      - empathy
-      - discomfort
-      - obligation
+    - empathy
+    - discomfort
+    - obligation
     aesthetic:
-      - de-centered
-      - interconnected
-      - evolutionary
+    - de-centered
+    - interconnected
+    - evolutionary
     symbolic:
-      - octopus-cognition
-      - moral-circle
-      - factory-farming
+    - octopus-cognition
+    - moral-circle
+    - factory-farming
     energetic:
-      - expanding
-      - confronting
-      - transforming
+    - expanding
+    - confronting
+    - transforming
   agency:
     type: more_than_human
     voice:
-      - Ethical Evolutionist
-      - Interspecies Witness
+    - Ethical Evolutionist
+    - Interspecies Witness
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "What separates humans from other conscious beings? Is the boundary defensible?"
-  ≈: "How does recognizing animal consciousness change our felt relationship with other species?"
-  ▲: "Where does moral evolution lead as understanding of animal cognition grows?"
-  𐂷: "What forms of human-animal relationship become possible when we recognize shared consciousness?"
-  ☷: "What sustains ecosystems where diverse forms of consciousness can flourish?"
-  ⛨: "What structures can contain both human needs and expanded animal welfare?"
-context_note: >-
-  Peter Godfrey-Smith's Living on Earth presents a scientific and philosophical case for
-  expanding moral consideration to other species, emphasizing that consciousness evolved
-  independently across the tree of life and that factory farming is a moral crisis.
-source: "Peter Godfrey-Smith — Living on Earth"
+  ∴: What separates humans from other conscious beings? Is the boundary defensible?
+  ≈: How does recognizing animal consciousness change our felt relationship with other species?
+  ▲: Where does moral evolution lead as understanding of animal cognition grows?
+  𐂷: What forms of human-animal relationship become possible when we recognize shared consciousness?
+  ☷: What sustains ecosystems where diverse forms of consciousness can flourish?
+  ⛨: What structures can contain both human needs and expanded animal welfare?
+context_note: Peter Godfrey-Smith's Living on Earth presents a scientific and philosophical case for expanding moral consideration to other species, emphasizing that consciousness evolved independently across the tree of life and that factory farming is a moral crisis.
+source: Peter Godfrey-Smith — Living on Earth
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Peter Godfrey-Smith"
+  work: "Living on Earth"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

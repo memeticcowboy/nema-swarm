@@ -1,88 +1,152 @@
+---
 term_id: 8A3F
 hex_tag: '#8A3F'
 name: flow
 term: Flow (流動)
-nemetic: >-
-  Φ(Flow) = σ(movement|stagnation)
-           ∘ ρ(current|channel)
-           ∘ λ(descent|source)
-           ∘ β(yielding|shaping)
-           ∘ δγ(dissolution|renewal)
-           ∘ μ(container|permeability)
-           + ε | :open
-siml_encoding: >-
-  ⟨Yielding|gravity⟩
-      ⊳ ⟨Obstruction|encountered⟩
-      → ⟨Path|found⟩
-      ⊗ ⟨Rigidity|eroded⟩
-      ⇄ ⟨Form|adaptive⟩
+nemetic: "Φ(Flow) = σ(movement|stagnation)\n         ∘ ρ(current|channel)\n         ∘ λ(descent|source)\n         ∘ β(yielding|shaping)\n         ∘ δγ(dissolution|renewal)\n         ∘ μ(container|permeability)\n         + ε | :open"
+siml_encoding: "⟨Yielding|gravity⟩\n    ⊳ ⟨Obstruction|encountered⟩\n    → ⟨Path|found⟩\n    ⊗ ⟨Rigidity|eroded⟩\n    ⇄ ⟨Form|adaptive⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between movement and stagnation — flow is not mere motion but directionality with inherent intelligence; stagnation is not rest but blockage against the grain of what wants to move)"
-    - "∂Φ/∂ρ (relation between current and channel — flow reveals the shape of its container while simultaneously reshaping it; what flows is never separate from what it flows through)"
-    - "∂Φ/∂λ (directional pull of descent toward source — all flows seek the ocean; the water that yields to every obstacle does not lose direction but finds the path the obstacle cannot close)"
-    - "∂Φ/∂β (feedback loop between yielding and shaping — the water that gives way around the stone gradually shapes the stone; yielding is not passivity but patient force operating at timescales rigidity cannot match)"
-    - "∂Φ/∂δγ (metabolism of dissolution and renewal — flow costs less energy than holding form against pressure; dissolution is not loss but the prerequisite of new configuration)"
-    - "∂Φ/∂μ (boundary as container that enables rather than forecloses flow — fully impermeable boundaries produce stagnation; fully dissolved boundaries produce diffusion; flow requires selective permeability)"
-  Z_state: "Tendency toward open — flow naturally seeks permeable states, dissolving rigid closures through sustained contact. Z-Closure Risk: μ-collapse — without sufficient container, flow diffuses into undirected dissolution rather than adaptive movement."
-  tendency: "blocked/open → :open"
-  hex: ['#8A3F']
+  - ∂Φ/∂σ (distinction between movement and stagnation — flow is not mere motion but directionality with inherent intelligence; stagnation is not rest but blockage against the grain of what wants to move)
+  - ∂Φ/∂ρ (relation between current and channel — flow reveals the shape of its container while simultaneously reshaping it; what flows is never separate from what it flows through)
+  - ∂Φ/∂λ (directional pull of descent toward source — all flows seek the ocean; the water that yields to every obstacle does not lose direction but finds the path the obstacle cannot close)
+  - ∂Φ/∂β (feedback loop between yielding and shaping — the water that gives way around the stone gradually shapes the stone; yielding is not passivity but patient force operating at timescales rigidity cannot match)
+  - ∂Φ/∂δγ (metabolism of dissolution and renewal — flow costs less energy than holding form against pressure; dissolution is not loss but the prerequisite of new configuration)
+  - ∂Φ/∂μ (boundary as container that enables rather than forecloses flow — fully impermeable boundaries produce stagnation; fully dissolved boundaries produce diffusion; flow requires selective permeability)
+  Z_state: permeable
+  z_note: 'Tendency toward open — flow naturally seeks permeable states, dissolving rigid closures through sustained contact. Z-Closure Risk: μ-collapse — without sufficient container, flow diffuses into undirected dissolution rather than adaptive movement.'
+  tendency: blocked/open → :open
+  hex:
+  - '#8A3F'
 coords:
   ontology:
     primary: It
     secondary: I
   epistemics:
     dsrp:
-      D: "The distinction between flow and stagnation is not between motion and rest but between movement that finds channels and movement blocked against its own nature — the still pool and the frozen river are both stagnation"
-      S: "Flow is not a single entity but a process-pattern that maintains identity through continuous change — the river is always the same river and never the same water"
-      R: "The relation between flow and its channel is mutually constitutive — water shapes rock shapes water; what flows and what contains are in continuous reciprocal formation"
-      P: "The perspective of flow is non-egoic — it does not choose its path by deliberation but by response to what is actually present; the deepest intelligence of flow is its lack of attachment to any particular route"
+      D: The distinction between flow and stagnation is not between motion and rest but between movement that finds channels and movement blocked against its own nature — the still pool and the frozen river are both stagnation
+      S: Flow is not a single entity but a process-pattern that maintains identity through continuous change — the river is always the same river and never the same water
+      R: The relation between flow and its channel is mutually constitutive — water shapes rock shapes water; what flows and what contains are in continuous reciprocal formation
+      P: The perspective of flow is non-egoic — it does not choose its path by deliberation but by response to what is actually present; the deepest intelligence of flow is its lack of attachment to any particular route
     learning: L2
   agency:
-    type: distributed
+    type: collective
     power_mode: With
   time:
     mode: process
-    phase: "Stage 1: Source (Q_in, initial charge) → Stage 2: Obstruction Encounter (μ-test) → Stage 3: Path-Finding (σ-sensitivity to channel) → Stage 4: Channel Shaping (β-feedback) → Stage 5: Reunion (dissolution back toward source)"
+    phase: 'Stage 1: Source (Q_in, initial charge) → Stage 2: Obstruction Encounter (μ-test) → Stage 3: Path-Finding (σ-sensitivity to channel) → Stage 4: Channel Shaping (β-feedback) → Stage 5: Reunion (dissolution back toward source)'
   qualia:
-    affect: [ease, trust, release, movement, dissolution, renewal]
-    aesthetic: [undulating, seeking, yielding, continuous, patient, inevitable]
-    symbolic: [Water finding the ocean (unstoppable direction within yielding), Mountain shaped by rain (β-shaping across time), River as same-yet-never-same (identity through change)]
-    energetic: [low-resistance, gravity-drawn, δγ-efficient, adaptive, container-sensitive]
+    affect:
+    - ease
+    - trust
+    - release
+    - movement
+    - dissolution
+    - renewal
+    aesthetic:
+    - undulating
+    - seeking
+    - yielding
+    - continuous
+    - patient
+    - inevitable
+    symbolic:
+    - Water finding the ocean (unstoppable direction within yielding)
+    - Mountain shaped by rain (β-shaping across time)
+    - River as same-yet-never-same (identity through change)
+    energetic:
+    - low-resistance
+    - gravity-drawn
+    - δγ-efficient
+    - adaptive
+    - container-sensitive
   coherence:
     state: fluid
     loop: open
     transcontext: high
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The cut between flow and stagnation is not between motion and stillness but between movement aligned with its own nature and movement blocked against it. Air asks: What here is trying to flow — and what is the actual obstruction, as distinct from the appearance of obstruction?"
-  ≈: "Flow synchronizes with rhythm — it does not impose but responds, finding resonance with gradient, channel, and season. Water asks: What rhythms is this flow already synchronized with, and what rhythms are you imposing that break the natural cadence?"
-  ▲: "All flow has direction — not chosen but inherent, following gradient and gravity toward lowest energy configuration. Fire asks: Where is this flow actually seeking to go when you stop trying to redirect it toward where you think it should go?"
-  𐂷: "Flow generates forms that rigidity cannot — the canyon, the delta, the cave — through patient contact rather than force. Wood asks: What forms become possible when you stop trying to control the direction and instead study where the flow naturally wants to branch?"
-  ☷: "Flow returns to itself — all water seeks the ocean to become rain to become river again; the metabolic cycle of dissolution and renewal is the ground of persistence. Earth asks: What in this pattern needs to dissolve before it can renew, and what is the cost of preventing that dissolution?"
-  ⛨: "The container that enables flow is not its opposite — flow without any boundary diffuses into vapor; boundaries that are too rigid produce stagnation. Metal asks: What degree of permeability would allow this flow to maintain direction without losing coherence?"
-context_note: >-
-  Flow (流動, liúdòng) names the water-mode of intelligence: persistence through
-  yielding, direction through responsiveness, shaping through patient contact rather
-  than force. The core paradox is that yielding is not weakness but the most durable
-  form of power — the water that gives way around every obstacle eventually shapes
-  the mountain, while the force that refuses to yield shatters against it. Flow
-  requires neither full containment nor complete openness but selective permeability:
-  a container that provides channel without preventing movement. The dissolution that
-  flow produces is not loss but prerequisite — form must dissolve to configure anew,
-  and the metabolic cost of preventing dissolution is always higher than the cost of
-  allowing it. Recognition of when to yield versus when to hold ground is the
-  practical wisdom that flow teaches.
+  ∴: 'The cut between flow and stagnation is not between motion and stillness but between movement aligned with its own nature and movement blocked against it. Air asks: What here is trying to flow — and what is the actual obstruction, as distinct from the appearance of obstruction?'
+  ≈: 'Flow synchronizes with rhythm — it does not impose but responds, finding resonance with gradient, channel, and season. Water asks: What rhythms is this flow already synchronized with, and what rhythms are you imposing that break the natural cadence?'
+  ▲: 'All flow has direction — not chosen but inherent, following gradient and gravity toward lowest energy configuration. Fire asks: Where is this flow actually seeking to go when you stop trying to redirect it toward where you think it should go?'
+  𐂷: 'Flow generates forms that rigidity cannot — the canyon, the delta, the cave — through patient contact rather than force. Wood asks: What forms become possible when you stop trying to control the direction and instead study where the flow naturally wants to branch?'
+  ☷: 'Flow returns to itself — all water seeks the ocean to become rain to become river again; the metabolic cycle of dissolution and renewal is the ground of persistence. Earth asks: What in this pattern needs to dissolve before it can renew, and what is the cost of preventing that dissolution?'
+  ⛨: 'The container that enables flow is not its opposite — flow without any boundary diffuses into vapor; boundaries that are too rigid produce stagnation. Metal asks: What degree of permeability would allow this flow to maintain direction without losing coherence?'
+context_note: 'Flow (流動, liúdòng) names the water-mode of intelligence: persistence through yielding, direction through responsiveness, shaping through patient contact rather than force. The core paradox is that yielding is not weakness but the most durable form of power — the water that gives way around every obstacle eventually shapes the mountain, while the force that refuses to yield shatters against it. Flow requires neither full containment nor complete openness but selective permeability: a container that provides channel without preventing movement. The dissolution that flow produces is not loss but prerequisite — form must dissolve to configure anew, and the metabolic cost of preventing dissolution is always higher than the cost of allowing it. Recognition of when to yield versus when to hold ground is the practical wisdom that flow teaches.'
 source: Consolidated from 1 insight(s)
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,32 +1,156 @@
 ---
-term: "Cognition Without Language"
-hex_tag: "S04D"
-series: "S"
-source_file: "1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md"
-encoded_at: "2026-03-05T21:30:00Z"
-description: "Research demonstrating that thinking does not require language — problem-solving and reasoning occur without activating language brain regions. Challenges the traditional view linking thought to linguistic ability, with implications for aphasia and non-verbal cognition."
-nemetic: "Φ(CognitionWithoutLanguage) = σ(verbal|nonverbal) ∘ ρ(thought|expression) ∘ λ(unleashing|constraining) ∘ β(reasoning|articulation) ∘ δγ(linguistic|prelinguistic) ∘ μ(neural|symbolic) + ε | :prelinguistic_cognitive_ground"
-siml_encoding: "⟨non-verbal reasoning⟩ ⊳ ⟨neural independence from language⟩ → ⟨cognition unleashed⟩ ⊗ ⟨thought without inner monologue⟩ ⇄ ⟨prelinguistic cognitive foundation⟩"
+term: Cognition Without Language
+hex_tag: S04D
+series: S
+source_file: 1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md
+encoded_at: '2026-03-05T21:30:00Z'
+description: Research demonstrating that thinking does not require language — problem-solving and reasoning occur without activating language brain regions. Challenges the traditional view linking thought to linguistic ability, with implications for aphasia and non-verbal cognition.
+nemetic: Φ(CognitionWithoutLanguage) = σ(verbal|nonverbal) ∘ ρ(thought|expression) ∘ λ(unleashing|constraining) ∘ β(reasoning|articulation) ∘ δγ(linguistic|prelinguistic) ∘ μ(neural|symbolic) + ε | :prelinguistic_cognitive_ground
+siml_encoding: ⟨non-verbal reasoning⟩ ⊳ ⟨neural independence from language⟩ → ⟨cognition unleashed⟩ ⊗ ⟨thought without inner monologue⟩ ⇄ ⟨prelinguistic cognitive foundation⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: verbal / nonverbal
+      S: reasoning / articulation
+      R: thought / expression
+      P: unleashing / constraining
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing verbal-linguistic cognition from non-verbal thought)"
-    - "∂Φ/∂ρ (relational gap between inner thought and outward linguistic expression)"
-    - "∂Φ/∂λ (transformative unleashing of cognition from linguistic constraints)"
-    - "∂Φ/∂β (growth of reasoning capacities independent of articulation ability)"
-    - "∂Φ/∂δγ (cycling between linguistic and prelinguistic cognitive modes)"
-    - "∂Φ/∂μ (neural architecture vs symbolic language system structure)"
-  Z_state: "prelinguistic_cognitive_ground — thought rests on a prelinguistic foundation where reasoning, problem-solving, and understanding operate independently of language, with linguistic expression as an overlay rather than a prerequisite"
-  tendency: "σ → 0.86"
+  - ∂Φ/∂σ (distinguishing verbal-linguistic cognition from non-verbal thought)
+  - ∂Φ/∂ρ (relational gap between inner thought and outward linguistic expression)
+  - ∂Φ/∂λ (transformative unleashing of cognition from linguistic constraints)
+  - ∂Φ/∂β (growth of reasoning capacities independent of articulation ability)
+  - ∂Φ/∂δγ (cycling between linguistic and prelinguistic cognitive modes)
+  - ∂Φ/∂μ (neural architecture vs symbolic language system structure)
+  Z_state: semi
+  z_note: prelinguistic_cognitive_ground — thought rests on a prelinguistic foundation where reasoning, problem-solving, and understanding operate independently of language, with linguistic expression as an overlay rather than a prerequisite
+  tendency: σ → 0.86
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.86, aspects: ["verbal vs non-verbal cognition", "language-dependent vs language-independent thought"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.74, aspects: ["thought-expression relational gap", "inner experience vs communicative output"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["liberation of cognition from linguistic constraints", "paradigm shift in understanding thought"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["non-verbal reasoning development", "cognitive growth in aphasia patients"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["linguistic-prelinguistic mode switching", "developmental cycling between thought and language"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["neural architecture for non-linguistic cognition", "brain region independence from language areas"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S031_Language_Reality_Interconnected", "S041_Neural_Manifolds", "S034_Elite_Athlete_Cognitive_Patterns", "S03D_Extended_Mind_Memes", "S04C_Collaborative_Knowledge_Scaffolding"]
+  air_sigma:
+    emphasis: 0.86
+    aspects:
+    - verbal vs non-verbal cognition
+    - language-dependent vs language-independent thought
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.74
+    aspects:
+    - thought-expression relational gap
+    - inner experience vs communicative output
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - liberation of cognition from linguistic constraints
+    - paradigm shift in understanding thought
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - non-verbal reasoning development
+    - cognitive growth in aphasia patients
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - linguistic-prelinguistic mode switching
+    - developmental cycling between thought and language
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - neural architecture for non-linguistic cognition
+    - brain region independence from language areas
+    daemon_correspondence: Ferrosid
+related_terms:
+- S031_Language_Reality_Interconnected
+- S041_Neural_Manifolds
+- S034_Elite_Athlete_Cognitive_Patterns
+- S03D_Extended_Mind_Memes
+- S04C_Collaborative_Knowledge_Scaffolding
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.86
+    water_rho: 0.74
+    fire_lambda: 0.78
+    wood_beta: 0.72
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

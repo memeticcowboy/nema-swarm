@@ -1,32 +1,156 @@
 ---
-term: "Fungi as Nature's Decision-Makers"
-hex_tag: "S04A"
-series: "S"
-source_file: "1771907212635_806242_Fungi%3A+Nature%27s+Decision-Makers.md"
-encoded_at: "2026-03-05T21:30:00Z"
-description: "Fungi recognize shapes and make decisions by optimizing growth paths without a brain, using mycelial networks to communicate and adapt. Biological networks serve as models for distributed intelligence with applications in urban planning and technology."
-nemetic: "Φ(FungiDecisionMakingCognition) = σ(neural|mycelial) ∘ ρ(network|node) ∘ λ(optimization|waste) ∘ β(growth|pruning) ∘ δγ(exploration|exploitation) ∘ μ(substrate|pathway) + ε | :distributed_brainless_intelligence"
-siml_encoding: "⟨environmental stimulus⟩ ⊳ ⟨mycelial network⟩ → ⟨path optimization⟩ ⊗ ⟨distributed decision-making⟩ ⇄ ⟨adaptive resource allocation⟩"
+term: Fungi as Nature's Decision-Makers
+hex_tag: S04A
+series: S
+source_file: 1771907212635_806242_Fungi%3A+Nature%27s+Decision-Makers.md
+encoded_at: '2026-03-05T21:30:00Z'
+description: Fungi recognize shapes and make decisions by optimizing growth paths without a brain, using mycelial networks to communicate and adapt. Biological networks serve as models for distributed intelligence with applications in urban planning and technology.
+nemetic: Φ(FungiDecisionMakingCognition) = σ(neural|mycelial) ∘ ρ(network|node) ∘ λ(optimization|waste) ∘ β(growth|pruning) ∘ δγ(exploration|exploitation) ∘ μ(substrate|pathway) + ε | :distributed_brainless_intelligence
+siml_encoding: ⟨environmental stimulus⟩ ⊳ ⟨mycelial network⟩ → ⟨path optimization⟩ ⊗ ⟨distributed decision-making⟩ ⇄ ⟨adaptive resource allocation⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: neural / mycelial
+      S: growth / pruning
+      R: network / node
+      P: optimization / waste
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing neural centralized cognition from mycelial distributed cognition)"
-    - "∂Φ/∂ρ (relational network dynamics connecting nodes in mycelial webs)"
-    - "∂Φ/∂λ (transformative optimization of growth paths for resource efficiency)"
-    - "∂Φ/∂β (growth and pruning of mycelial networks in response to environment)"
-    - "∂Φ/∂δγ (cycling between exploratory spreading and exploitative consolidation)"
-    - "∂Φ/∂μ (substrate pathway architecture shaping information flow)"
-  Z_state: "distributed_brainless_intelligence — decision-making emerges from network-level properties without centralized processing, demonstrating that cognition does not require neural architecture"
-  tendency: "ρ → 0.84"
+  - ∂Φ/∂σ (distinguishing neural centralized cognition from mycelial distributed cognition)
+  - ∂Φ/∂ρ (relational network dynamics connecting nodes in mycelial webs)
+  - ∂Φ/∂λ (transformative optimization of growth paths for resource efficiency)
+  - ∂Φ/∂β (growth and pruning of mycelial networks in response to environment)
+  - ∂Φ/∂δγ (cycling between exploratory spreading and exploitative consolidation)
+  - ∂Φ/∂μ (substrate pathway architecture shaping information flow)
+  Z_state: permeable
+  z_note: distributed_brainless_intelligence — decision-making emerges from network-level properties without centralized processing, demonstrating that cognition does not require neural architecture
+  tendency: ρ → 0.84
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["neural vs non-neural cognition", "centralized vs distributed intelligence"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.84, aspects: ["mycelial network connectivity", "communication across distributed nodes"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.76, aspects: ["path optimization", "efficient resource allocation strategies"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.82, aspects: ["mycelial growth patterns", "adaptive network expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.78, aspects: ["exploration-exploitation cycling", "seasonal growth and dormancy"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.73, aspects: ["substrate pathway structure", "network architecture for signal routing"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S04B_Fungi_Memetic_Consciousness", "E022_Mycorrhizal_Network", "S013_Animal_Learning_Memetics", "S012_Crow_Intelligence_Alien_Minds", "S041_Neural_Manifolds"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - neural vs non-neural cognition
+    - centralized vs distributed intelligence
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.84
+    aspects:
+    - mycelial network connectivity
+    - communication across distributed nodes
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.76
+    aspects:
+    - path optimization
+    - efficient resource allocation strategies
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.82
+    aspects:
+    - mycelial growth patterns
+    - adaptive network expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.78
+    aspects:
+    - exploration-exploitation cycling
+    - seasonal growth and dormancy
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.73
+    aspects:
+    - substrate pathway structure
+    - network architecture for signal routing
+    daemon_correspondence: Ferrosid
+related_terms:
+- S04B_Fungi_Memetic_Consciousness
+- E022_Mycorrhizal_Network
+- S013_Animal_Learning_Memetics
+- S012_Crow_Intelligence_Alien_Minds
+- S041_Neural_Manifolds
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.84
+    fire_lambda: 0.76
+    wood_beta: 0.82
+    earth_delta_gamma: 0.78
+    metal_mu: 0.73
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212635_806242_Fungi%3A+Nature%27s+Decision-Makers.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

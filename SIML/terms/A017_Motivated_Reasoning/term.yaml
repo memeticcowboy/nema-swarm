@@ -2,94 +2,142 @@ term_id: A017
 hex_tag: '#A017'
 name: Motivated_Reasoning
 term: Motivated Reasoning
-nemetic: >-
-  Φ(MotivatedReasoning) = σ(evidence-selection|confirmatory-vs-disconfirmatory)
-  ∘ ρ(belief-protection|identity-defense) ∘ λ(direction-bias|preferred-outcome)
-  ∘ β(feedback-avoidance|contradiction-suppression)
-  ∘ δγ(cognitive-effort-redirection) + ε | :shielding
-siml_encoding: >-
-  ⟨Observer|user⟩ ⊳ ⟨Evidence|mixed⟩ → ⟨Selection|confirmatory⟩
-  ⊗ ⟨Identity|protected⟩ ⇄ ⟨Value|coherence⟩ → ⟨Outcome|belief-persistence⟩
+nemetic: Φ(MotivatedReasoning) = σ(evidence-selection|confirmatory-vs-disconfirmatory) ∘ ρ(belief-protection|identity-defense) ∘ λ(direction-bias|preferred-outcome) ∘ β(feedback-avoidance|contradiction-suppression) ∘ δγ(cognitive-effort-redirection) + ε | :shielding
+siml_encoding: ⟨Observer|user⟩ ⊳ ⟨Evidence|mixed⟩ → ⟨Selection|confirmatory⟩ ⊗ ⟨Identity|protected⟩ ⇄ ⟨Value|coherence⟩ → ⟨Outcome|belief-persistence⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ]
-  dim_operators: [χ, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  dim_operators:
+  - χ
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (selective evidence distinction — confirmatory vs disconfirmatory)"
-    - "∂Φ/∂ρ (identity-protective resonance — belief entangled with self-concept)"
-    - "∂Φ/∂λ (direction bias toward preferred outcomes — destination pre-programmed)"
-    - "∂Φ/∂β (feedback loop avoidance — contradiction suppression hardens over time)"
-    - "∂Φ/∂δγ (cognitive effort redirected from evaluation to defense)"
-  Z_state: "sealed (identity-threat triggers closure)"
-  tendency: "Truth/Comfort → 0 (comfort wins)"
+  - ∂Φ/∂σ (selective evidence distinction — confirmatory vs disconfirmatory)
+  - ∂Φ/∂ρ (identity-protective resonance — belief entangled with self-concept)
+  - ∂Φ/∂λ (direction bias toward preferred outcomes — destination pre-programmed)
+  - ∂Φ/∂β (feedback loop avoidance — contradiction suppression hardens over time)
+  - ∂Φ/∂δγ (cognitive effort redirected from evaluation to defense)
+  Z_state: sealed
+  z_note: sealed (identity-threat triggers closure)
+  tendency: Truth/Comfort → 0 (comfort wins)
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
 coords:
   ontology:
     primary: I
   epistemics:
     dsrp:
-      D: "Confirmatory vs disconfirmatory evidence; identity-consistent vs identity-threatening information"
-      S: "Belief maintenance ecology — social identity, group belonging, moral self-concept, existential security"
-      R: "Evidence ⇄ identity; clarity ⇄ comfort; truth ⇄ belonging; revision ⇄ defense"
-      P: "Cognitive psychologist, cult researcher, political analyst, epistemologist"
+      D: Confirmatory vs disconfirmatory evidence; identity-consistent vs identity-threatening information
+      S: Belief maintenance ecology — social identity, group belonging, moral self-concept, existential security
+      R: Evidence ⇄ identity; clarity ⇄ comfort; truth ⇄ belonging; revision ⇄ defense
+      P: Cognitive psychologist, cult researcher, political analyst, epistemologist
     learning: L1
   agency:
     type: ego
     power_mode: Against
   time:
     mode: event
-    phase: "threat-response — activated when identity-relevant beliefs encounter contradictory evidence"
+    phase: threat-response — activated when identity-relevant beliefs encounter contradictory evidence
   qualia:
     affect:
-      - defensive
-      - righteous
-      - anxious
-      - dismissive
+    - defensive
+    - righteous
+    - anxious
+    - dismissive
     aesthetic:
-      - fortified
-      - selective
-      - tunnel-visioned
+    - fortified
+    - selective
+    - tunnel-visioned
     symbolic:
-      - filter bubble
-      - castle walls
-      - rose-tinted glasses
+    - filter bubble
+    - castle walls
+    - rose-tinted glasses
     energetic:
-      - guarded
-      - effortful
-      - vigilant
+    - guarded
+    - effortful
+    - vigilant
   coherence:
     state: coherent
     loop: single
     transcontext: low
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: Operates at individual cognitive level with social amplification; no clear scale dominance
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "What evidence is being selected for? What contradictory signals are filtered out?"
-  ≈: "What identity is being protected? What would it feel like to let this belief go?"
-  ▲: "Where does the reasoning want to go? What outcome is being defended?"
-  𐂷: "What alternative interpretations exist? What if the evidence points elsewhere?"
-  ☷: "What's the metabolic cost of maintaining this defense? What energy sustains it?"
-  ⛨: "What structures of thought enable this protection? What would allow opening?"
-context_note: >-
-  Motivated Reasoning is the cognitive process by which individuals seek out, interpret, and
-  remember information in ways that confirm pre-existing beliefs while avoiding contradictory
-  evidence. It represents a defensive mechanism where the drive for cognitive coherence and
-  identity protection overrides the pursuit of objective truth. The case of Dorothy Martin's
-  doomsday cult illustrates how believers doubled down when prophecy failed. Daniel Shaw's
-  experience with a guru accused of misconduct demonstrates identity-fusion: he chose to
-  believe despite evidence because the belief was inseparable from his sense of self.
+  ∴: What evidence is being selected for? What contradictory signals are filtered out?
+  ≈: What identity is being protected? What would it feel like to let this belief go?
+  ▲: Where does the reasoning want to go? What outcome is being defended?
+  𐂷: What alternative interpretations exist? What if the evidence points elsewhere?
+  ☷: What's the metabolic cost of maintaining this defense? What energy sustains it?
+  ⛨: What structures of thought enable this protection? What would allow opening?
+context_note: 'Motivated Reasoning is the cognitive process by which individuals seek out, interpret, and remember information in ways that confirm pre-existing beliefs while avoiding contradictory evidence. It represents a defensive mechanism where the drive for cognitive coherence and identity protection overrides the pursuit of objective truth. The case of Dorothy Martin''s doomsday cult illustrates how believers doubled down when prophecy failed. Daniel Shaw''s experience with a guru accused of misconduct demonstrates identity-fusion: he chose to believe despite evidence because the belief was inseparable from his sense of self.'
 source: Consolidated from 1 insight(s)
-source_file: "The Power of Belief and Cognitive Dissonance"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "Operates at individual cognitive level with social amplification; no clear scale dominance"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+source_file: The Power of Belief and Cognitive Dissonance
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  source_file: "The Power of Belief and Cognitive Dissonance"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Metal
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.3
+    Meta: 0.3

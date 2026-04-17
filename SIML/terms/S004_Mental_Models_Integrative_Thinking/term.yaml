@@ -1,64 +1,153 @@
 ---
-term: "Mental Models in Integrative Thinking"
-hex_tag: "S004"
-series: "S"
-source_file: "1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md"
-encoded_at: "2026-03-05T18:10:00Z"
-description: "The role of mental models as incomplete but essential cognitive frameworks that shape perception, decision-making, and integrative thinking about complex realities."
-nemetic: "Φ(MentalModels) = σ(model|reality) ∘ ρ(perception|decision) ∘ λ(simplification|integration) ∘ β(automatic|reflective) ∘ δγ(incomplete|functional) ∘ μ(framework|limitation) + ε | :modeling"
-siml_encoding: "⟨Mind|modeling⟩ ⊳ ⟨Reality|simplified⟩ → ⟨Decision|framed⟩ ⊗ ⟨Integration|holistic⟩ ⇄ ⟨Understanding|navigated⟩"
+term: Mental Models in Integrative Thinking
+hex_tag: S004
+series: S
+source_file: 1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md
+encoded_at: '2026-03-05T18:10:00Z'
+description: The role of mental models as incomplete but essential cognitive frameworks that shape perception, decision-making, and integrative thinking about complex realities.
+nemetic: Φ(MentalModels) = σ(model|reality) ∘ ρ(perception|decision) ∘ λ(simplification|integration) ∘ β(automatic|reflective) ∘ δγ(incomplete|functional) ∘ μ(framework|limitation) + ε | :modeling
+siml_encoding: ⟨Mind|modeling⟩ ⊳ ⟨Reality|simplified⟩ → ⟨Decision|framed⟩ ⊗ ⟨Integration|holistic⟩ ⇄ ⟨Understanding|navigated⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: model / reality
+      S: automatic / reflective
+      R: perception / decision
+      P: simplification / integration
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between the mental model and the reality it represents)"
-    - "∂Φ/∂ρ (relational flow between perception and decision-making through model mediation)"
-    - "∂Φ/∂λ (transformative simplification that enables complex reality to become navigable)"
-    - "∂Φ/∂β (feedback between automatic model construction and reflective model revision)"
-    - "∂Φ/∂δγ (cyclical tension between model incompleteness and functional adequacy)"
-    - "∂Φ/∂μ (structural boundaries of frameworks and their inherent limitations)"
-  Z_state: "modeling (reality navigated through cognitive frameworks)"
-  tendency: "Simplification/Integration → 0.70"
+  - ∂Φ/∂σ (distinction between the mental model and the reality it represents)
+  - ∂Φ/∂ρ (relational flow between perception and decision-making through model mediation)
+  - ∂Φ/∂λ (transformative simplification that enables complex reality to become navigable)
+  - ∂Φ/∂β (feedback between automatic model construction and reflective model revision)
+  - ∂Φ/∂δγ (cyclical tension between model incompleteness and functional adequacy)
+  - ∂Φ/∂μ (structural boundaries of frameworks and their inherent limitations)
+  Z_state: semi
+  z_note: modeling (reality navigated through cognitive frameworks)
+  tendency: Simplification/Integration → 0.70
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "Distinction between the map (mental model) and the territory (reality)"
-      - "Classification of models as inherently incomplete representations"
-    daemon_correspondence: "Aerunik"
+    - Distinction between the map (mental model) and the territory (reality)
+    - Classification of models as inherently incomplete representations
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Flow from perception through model to decision"
-      - "Relational influence of models on every choice"
-    daemon_correspondence: "Sentaria"
+    - Flow from perception through model to decision
+    - Relational influence of models on every choice
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "Transformative simplification enabling navigation of complexity"
-      - "Integrative thinking as purposeful model synthesis"
-    daemon_correspondence: "Jvalion"
+    - Transformative simplification enabling navigation of complexity
+    - Integrative thinking as purposeful model synthesis
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.75
     aspects:
-      - "Automatic subconscious construction of models over time"
-      - "Growth and revision of models through experience"
-    daemon_correspondence: "Arboriel"
+    - Automatic subconscious construction of models over time
+    - Growth and revision of models through experience
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Functional adequacy despite incompleteness"
-      - "Models as metabolic ground for sense-making"
-    daemon_correspondence: "Humavita"
+    - Functional adequacy despite incompleteness
+    - Models as metabolic ground for sense-making
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "Structural frameworks that bound understanding"
-      - "Inherent limitations of any model"
-    daemon_correspondence: "Ferrosid"
+    - Structural frameworks that bound understanding
+    - Inherent limitations of any model
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "L057_Mental_Models_Theory"
-  - "S002_System_1_System_2_Thinking"
+- L057_Mental_Models_Theory
+- S002_System_1_System_2_Thinking
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.7
+    fire_lambda: 0.65
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212348_230364_Understanding+Mental+Models+in+Integrative+Thinking.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

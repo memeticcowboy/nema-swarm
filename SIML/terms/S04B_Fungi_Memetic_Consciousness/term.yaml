@@ -1,32 +1,157 @@
 ---
-term: "Fungi and Memetic Consciousness"
-hex_tag: "S04B"
-series: "S"
-source_file: "1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md"
-encoded_at: "2026-03-05T21:30:00Z"
-description: "Exploration of decentralized consciousness in fungi, linking intelligent network behavior — learning, problem-solving — to memetic philosophy and panpsychism. Raises ethical questions about non-neural intelligence and the philosophical implications of cognition without a brain."
-nemetic: "Φ(FungiMemeticConsciousness) = σ(conscious|unconscious) ∘ ρ(network|isolation) ∘ λ(emergence|reduction) ∘ β(learning|fixity) ∘ δγ(integration|fragmentation) ∘ μ(panpsychic|materialist) + ε | :decentralized_sentience_field"
-siml_encoding: "⟨mycelial intelligence⟩ ⊳ ⟨memetic philosophy⟩ → ⟨decentralized consciousness⟩ ⊗ ⟨panpsychic implications⟩ ⇄ ⟨ethical recognition of non-neural minds⟩"
+term: Fungi and Memetic Consciousness
+hex_tag: S04B
+series: S
+source_file: 1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md
+encoded_at: '2026-03-05T21:30:00Z'
+description: Exploration of decentralized consciousness in fungi, linking intelligent network behavior — learning, problem-solving — to memetic philosophy and panpsychism. Raises ethical questions about non-neural intelligence and the philosophical implications of cognition without a brain.
+nemetic: Φ(FungiMemeticConsciousness) = σ(conscious|unconscious) ∘ ρ(network|isolation) ∘ λ(emergence|reduction) ∘ β(learning|fixity) ∘ δγ(integration|fragmentation) ∘ μ(panpsychic|materialist) + ε | :decentralized_sentience_field
+siml_encoding: ⟨mycelial intelligence⟩ ⊳ ⟨memetic philosophy⟩ → ⟨decentralized consciousness⟩ ⊗ ⟨panpsychic implications⟩ ⇄ ⟨ethical recognition of non-neural minds⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: conscious / unconscious
+      S: learning / fixity
+      R: network / isolation
+      P: emergence / reduction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing conscious experience from mere information processing in fungi)"
-    - "∂Φ/∂ρ (relational network properties giving rise to collective intelligent behavior)"
-    - "∂Φ/∂λ (emergent consciousness from distributed non-neural substrates)"
-    - "∂Φ/∂β (fungal learning and adaptive growth as cognitive development)"
-    - "∂Φ/∂δγ (cycling between integrated network consciousness and fragmented local response)"
-    - "∂Φ/∂μ (panpsychic vs materialist frameworks for non-neural intelligence)"
-  Z_state: "decentralized_sentience_field — fungal networks may possess a form of distributed sentience where experience is a property of the network topology itself rather than any localized processing center"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing conscious experience from mere information processing in fungi)
+  - ∂Φ/∂ρ (relational network properties giving rise to collective intelligent behavior)
+  - ∂Φ/∂λ (emergent consciousness from distributed non-neural substrates)
+  - ∂Φ/∂β (fungal learning and adaptive growth as cognitive development)
+  - ∂Φ/∂δγ (cycling between integrated network consciousness and fragmented local response)
+  - ∂Φ/∂μ (panpsychic vs materialist frameworks for non-neural intelligence)
+  Z_state: semi
+  z_note: decentralized_sentience_field — fungal networks may possess a form of distributed sentience where experience is a property of the network topology itself rather than any localized processing center
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["conscious vs unconscious processing in fungi", "neural vs non-neural minds"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["network intelligence through connectivity", "relational basis of fungal cognition"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.78, aspects: ["emergence of consciousness from mycelial complexity", "transformation of matter into experience"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.74, aspects: ["fungal learning and memory", "adaptive problem-solving growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.72, aspects: ["integration-fragmentation cycles in network awareness", "seasonal consciousness fluctuation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.77, aspects: ["panpsychic theoretical framework", "ethical structure for non-neural beings"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S04A_Fungi_Decision_Making_Cognition", "E022_Mycorrhizal_Network", "S00F_Hard_Question_of_Memetics", "S03E_Subjective_Idealism_Memes_Reality", "S013_Animal_Learning_Memetics", "S012_Crow_Intelligence_Alien_Minds"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - conscious vs unconscious processing in fungi
+    - neural vs non-neural minds
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - network intelligence through connectivity
+    - relational basis of fungal cognition
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.78
+    aspects:
+    - emergence of consciousness from mycelial complexity
+    - transformation of matter into experience
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.74
+    aspects:
+    - fungal learning and memory
+    - adaptive problem-solving growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.72
+    aspects:
+    - integration-fragmentation cycles in network awareness
+    - seasonal consciousness fluctuation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.77
+    aspects:
+    - panpsychic theoretical framework
+    - ethical structure for non-neural beings
+    daemon_correspondence: Ferrosid
+related_terms:
+- S04A_Fungi_Decision_Making_Cognition
+- E022_Mycorrhizal_Network
+- S00F_Hard_Question_of_Memetics
+- S03E_Subjective_Idealism_Memes_Reality
+- S013_Animal_Learning_Memetics
+- S012_Crow_Intelligence_Alien_Minds
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.78
+    wood_beta: 0.74
+    earth_delta_gamma: 0.72
+    metal_mu: 0.77
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

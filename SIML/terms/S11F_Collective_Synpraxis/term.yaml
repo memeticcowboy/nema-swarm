@@ -1,50 +1,162 @@
 ---
-term: "Collective Synpraxis"
-hex_tag: "S11F"
-series: "S"
-source_file: "1771907213356_2322384_Pieter+de+Beer%3A+Collective+Synpraxis+Conditions.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Co-regulated group engagement with rupture signals where members participate in recognizing, naming, and revising internal patterns producing incoherence. Requires conditions: shared language for noticing structure, rituals of mutual grounding, relational scaffolding that holds contradiction, and commitment to coherence over comfort. Involves meta-dialogue shifting from content to process, testing whether foundational memeforms remain adaptive or need evolution."
-nemetic: "Φ(Collective_Synpraxis) = σ(meta_dialogue|content_discourse) ∘ ρ(relational_holding|defensive_withdrawal) ∘ λ(rupture_recognition|conflict_avoidance) ∘ β(memeform_evolution|pattern_preservation) ∘ δγ(ritual_grounding|habitual_interaction) ∘ μ(structural_scaffolding|informal_process) + ε | :co_regulated_coherence"
-siml_encoding: "⟨process∣content⟩ ⊳ ⟨rupture∣stability⟩ → ⟨coherence∣comfort⟩ ⊗ ⟨scaffold∣collapse⟩ ⇄ ⟨evolution∣preservation⟩"
+term: Collective Synpraxis
+hex_tag: S11F
+series: S
+source_file: 1771907213356_2322384_Pieter+de+Beer%3A+Collective+Synpraxis+Conditions.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Co-regulated group engagement with rupture signals where members participate in recognizing, naming, and revising internal patterns producing incoherence. Requires conditions: shared language for noticing structure, rituals of mutual grounding, relational scaffolding that holds contradiction, and commitment to coherence over comfort. Involves meta-dialogue shifting from content to process, testing whether foundational memeforms remain adaptive or need evolution.'
+nemetic: Φ(Collective_Synpraxis) = σ(meta_dialogue|content_discourse) ∘ ρ(relational_holding|defensive_withdrawal) ∘ λ(rupture_recognition|conflict_avoidance) ∘ β(memeform_evolution|pattern_preservation) ∘ δγ(ritual_grounding|habitual_interaction) ∘ μ(structural_scaffolding|informal_process) + ε | :co_regulated_coherence
+siml_encoding: ⟨process∣content⟩ ⊳ ⟨rupture∣stability⟩ → ⟨coherence∣comfort⟩ ⊗ ⟨scaffold∣collapse⟩ ⇄ ⟨evolution∣preservation⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: meta_dialogue / content_discourse
+      S: memeform_evolution / pattern_preservation
+      R: relational_holding / defensive_withdrawal
+      P: rupture_recognition / conflict_avoidance
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (meta-dialogue deepens as content discourse is suspended — group shifts from arguing positions to examining process)"
-    - "∂Φ/∂ρ (relational holding strengthens against defensive withdrawal — trust permits vulnerability during rupture)"
-    - "∂Φ/∂λ (rupture recognition activates against conflict avoidance — naming the break enables repair)"
-    - "∂Φ/∂β (memeform evolution advances against pattern preservation — group tests whether foundational codes remain adaptive)"
-    - "∂Φ/∂δγ (ritual grounding stabilizes against habitual interaction — intentional practice replaces default patterns)"
-    - "∂Φ/∂μ (structural scaffolding firms against informal process — explicit architecture enables safe confrontation)"
-  Z_state: "co_regulated_coherence"
-  tendency: "ρ → 0.88"
+  - ∂Φ/∂σ (meta-dialogue deepens as content discourse is suspended — group shifts from arguing positions to examining process)
+  - ∂Φ/∂ρ (relational holding strengthens against defensive withdrawal — trust permits vulnerability during rupture)
+  - ∂Φ/∂λ (rupture recognition activates against conflict avoidance — naming the break enables repair)
+  - ∂Φ/∂β (memeform evolution advances against pattern preservation — group tests whether foundational codes remain adaptive)
+  - ∂Φ/∂δγ (ritual grounding stabilizes against habitual interaction — intentional practice replaces default patterns)
+  - ∂Φ/∂μ (structural scaffolding firms against informal process — explicit architecture enables safe confrontation)
+  Z_state: semi
+  tendency: ρ → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.75
-    aspects: ["meta-dialogue", "process awareness", "shared language for noticing structure", "reflexive discourse"]
-    daemon_correspondence: "Aerunik"
+    aspects:
+    - meta-dialogue
+    - process awareness
+    - shared language for noticing structure
+    - reflexive discourse
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.88
-    aspects: ["relational holding", "co-regulation", "mutual grounding", "emotional containment during rupture", "trust maintenance"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - relational holding
+    - co-regulation
+    - mutual grounding
+    - emotional containment during rupture
+    - trust maintenance
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.72
-    aspects: ["rupture recognition", "naming incoherence", "confrontation energy", "heat of honest feedback"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - rupture recognition
+    - naming incoherence
+    - confrontation energy
+    - heat of honest feedback
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.68
-    aspects: ["memeform evolution", "adaptive growth of group patterns", "organic revision of shared codes"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - memeform evolution
+    - adaptive growth of group patterns
+    - organic revision of shared codes
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.78
-    aspects: ["ritual grounding", "established practices of mutual engagement", "cultural substrate of group norms"]
-    daemon_correspondence: "Humavita"
+    aspects:
+    - ritual grounding
+    - established practices of mutual engagement
+    - cultural substrate of group norms
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
-    aspects: ["structural scaffolding", "explicit conditions for synpraxis", "architectural framework holding contradiction"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S11D_Neurodivergence_Memetic_Framework", "S120_Karma_Bija_Selflessness"]
+    emphasis: 0.7
+    aspects:
+    - structural scaffolding
+    - explicit conditions for synpraxis
+    - architectural framework holding contradiction
+    daemon_correspondence: Ferrosid
+related_terms:
+- S11D_Neurodivergence_Memetic_Framework
+- S120_Karma_Bija_Selflessness
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.88
+    fire_lambda: 0.72
+    wood_beta: 0.68
+    earth_delta_gamma: 0.78
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213356_2322384_Pieter+de+Beer%3A+Collective+Synpraxis+Conditions.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,154 @@
 ---
-term: "Knowledge Framework Growth"
-hex_tag: "S075"
-series: "S"
-source_file: "1771907212754_1173686_Mindful+Exploration%3A+Unpacking+Knowledge+for+Personal+and+Collective+Growth.md"
-encoded_at: "2026-03-06T00:30:00Z"
-description: "A framework for systematic knowledge exploration through 8 core thinking components — purposes, central questions, fundamental concepts, essential information, points of view, assumptions, inferences, and implications — applied for personal and collective growth."
-nemetic: "Φ(Knowledge Framework Growth) = σ(fragmented_knowledge|structured_inquiry) ∘ ρ(personal_understanding|collective_wisdom) ∘ λ(passive_consumption|active_analytical_engagement) ∘ β(surface_familiarity|deep_conceptual_mastery) ∘ δγ(inquiry_reflection_cycling|iterative_deepening) ∘ μ(eight_component_framework|systematic_analysis_structure) + ε | :integrative_knowledge_praxis"
-siml_encoding: "⟨fragmented_structured_distinction, knowledge_organization⟩ ⊳ ⟨personal_collective_relation, wisdom_distribution⟩ → ⟨passive_to_active_transformation, analytical_engagement⟩ ⊗ ⟨surface_to_depth_growth, conceptual_mastery⟩ ⇄ ⟨inquiry_reflection_cycling, iterative_knowledge_deepening⟩"
+term: Knowledge Framework Growth
+hex_tag: S075
+series: S
+source_file: 1771907212754_1173686_Mindful+Exploration%3A+Unpacking+Knowledge+for+Personal+and+Collective+Growth.md
+encoded_at: '2026-03-06T00:30:00Z'
+description: A framework for systematic knowledge exploration through 8 core thinking components — purposes, central questions, fundamental concepts, essential information, points of view, assumptions, inferences, and implications — applied for personal and collective growth.
+nemetic: Φ(Knowledge Framework Growth) = σ(fragmented_knowledge|structured_inquiry) ∘ ρ(personal_understanding|collective_wisdom) ∘ λ(passive_consumption|active_analytical_engagement) ∘ β(surface_familiarity|deep_conceptual_mastery) ∘ δγ(inquiry_reflection_cycling|iterative_deepening) ∘ μ(eight_component_framework|systematic_analysis_structure) + ε | :integrative_knowledge_praxis
+siml_encoding: ⟨fragmented_structured_distinction, knowledge_organization⟩ ⊳ ⟨personal_collective_relation, wisdom_distribution⟩ → ⟨passive_to_active_transformation, analytical_engagement⟩ ⊗ ⟨surface_to_depth_growth, conceptual_mastery⟩ ⇄ ⟨inquiry_reflection_cycling, iterative_knowledge_deepening⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: fragmented_knowledge / structured_inquiry
+      S: surface_familiarity / deep_conceptual_mastery
+      R: personal_understanding / collective_wisdom
+      P: passive_consumption / active_analytical_engagement
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing fragmented knowledge from structured systematic inquiry)"
-    - "∂Φ/∂ρ (relating personal understanding to collective wisdom through shared frameworks)"
-    - "∂Φ/∂λ (transforming passive information consumption into active analytical engagement)"
-    - "∂Φ/∂β (growth from surface familiarity to deep conceptual mastery through systematic analysis)"
-    - "∂Φ/∂δγ (cycling through inquiry and reflection phases for iterative knowledge deepening)"
-    - "∂Φ/∂μ (eight-component thinking framework as systematic analysis structure)"
-  Z_state: "integrative_knowledge_praxis — knowledge becomes actionable wisdom through systematic decomposition into purposes, questions, concepts, information, perspectives, assumptions, inferences, and implications, bridging personal insight and collective growth"
-  tendency: "μ → 0.90"
+  - ∂Φ/∂σ (distinguishing fragmented knowledge from structured systematic inquiry)
+  - ∂Φ/∂ρ (relating personal understanding to collective wisdom through shared frameworks)
+  - ∂Φ/∂λ (transforming passive information consumption into active analytical engagement)
+  - ∂Φ/∂β (growth from surface familiarity to deep conceptual mastery through systematic analysis)
+  - ∂Φ/∂δγ (cycling through inquiry and reflection phases for iterative knowledge deepening)
+  - ∂Φ/∂μ (eight-component thinking framework as systematic analysis structure)
+  Z_state: permeable
+  z_note: integrative_knowledge_praxis — knowledge becomes actionable wisdom through systematic decomposition into purposes, questions, concepts, information, perspectives, assumptions, inferences, and implications, bridging personal insight and collective growth
+  tendency: μ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["fragmented_structured_distinction", "knowledge_organization_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["personal_collective_wisdom_relation", "shared_framework_connection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["passive_to_active_transformation", "analytical_engagement_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["surface_to_depth_development", "conceptual_mastery_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["inquiry_reflection_cycling", "iterative_knowledge_deepening"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["eight_component_framework_structure", "systematic_analysis_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S01C", "S008", "S005"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - fragmented_structured_distinction
+    - knowledge_organization_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - personal_collective_wisdom_relation
+    - shared_framework_connection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - passive_to_active_transformation
+    - analytical_engagement_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - surface_to_depth_development
+    - conceptual_mastery_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - inquiry_reflection_cycling
+    - iterative_knowledge_deepening
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - eight_component_framework_structure
+    - systematic_analysis_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S01C
+- S008
+- S005
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212754_1173686_Mindful+Exploration%3A+Unpacking+Knowledge+for+Personal+and+Collective+Growth.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

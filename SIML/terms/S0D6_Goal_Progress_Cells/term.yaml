@@ -1,32 +1,153 @@
 ---
-term: "Goal-Progress Cells"
-hex_tag: "S0D6"
-series: "S"
-source_file: "1771907213130_2111725_Unveiling+Goal-Progress+Cells%3A+Insights+for+Neuroscience+and+AI.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Brain uses goal-progress cells to track sequences of actions, enabling prediction and generalization in novel scenarios. These neurons fire based on progress toward behavioral goals, creating internal maps of actions rather than physical spaces. Mice demonstrated true generalization — inferring task structures without prior exposure. Implications for building adaptable AI that mimics human cognitive flexibility."
-nemetic: "Φ(Goal-Progress Cells) = σ(spatial_mapping|action_mapping) ∘ ρ(memory_recall|generalization) ∘ λ(biological_intelligence|artificial_systems) ∘ β(individual_neurons|systemic_tracking) ∘ δγ(familiar_scenarios|novel_scenarios) ∘ μ(rigid_sequence|flexible_goal_progress) + ε | :adaptive_goal_inference"
-siml_encoding: "⟨spatial_action_mapping_distinction, cognitive_cartography⟩ ⊳ ⟨recall_generalization_relational_web, inference_network⟩ → ⟨biological_to_artificial_transformation, intelligence_catalysis⟩ ⊗ ⟨neuron_to_system_maturation, tracking_evolution⟩ ⇄ ⟨familiar_novel_cycling, scenario_adaptation⟩"
+term: Goal-Progress Cells
+hex_tag: S0D6
+series: S
+source_file: 1771907213130_2111725_Unveiling+Goal-Progress+Cells%3A+Insights+for+Neuroscience+and+AI.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Brain uses goal-progress cells to track sequences of actions, enabling prediction and generalization in novel scenarios. These neurons fire based on progress toward behavioral goals, creating internal maps of actions rather than physical spaces. Mice demonstrated true generalization — inferring task structures without prior exposure. Implications for building adaptable AI that mimics human cognitive flexibility.
+nemetic: Φ(Goal-Progress Cells) = σ(spatial_mapping|action_mapping) ∘ ρ(memory_recall|generalization) ∘ λ(biological_intelligence|artificial_systems) ∘ β(individual_neurons|systemic_tracking) ∘ δγ(familiar_scenarios|novel_scenarios) ∘ μ(rigid_sequence|flexible_goal_progress) + ε | :adaptive_goal_inference
+siml_encoding: ⟨spatial_action_mapping_distinction, cognitive_cartography⟩ ⊳ ⟨recall_generalization_relational_web, inference_network⟩ → ⟨biological_to_artificial_transformation, intelligence_catalysis⟩ ⊗ ⟨neuron_to_system_maturation, tracking_evolution⟩ ⇄ ⟨familiar_novel_cycling, scenario_adaptation⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: spatial_mapping / action_mapping
+      S: individual_neurons / systemic_tracking
+      R: memory_recall / generalization
+      P: biological_intelligence / artificial_systems
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing spatial mapping from action-sequence mapping in neural populations)"
-    - "∂Φ/∂ρ (relating memory recall to generalization capacity across novel task structures)"
-    - "∂Φ/∂λ (transforming biological intelligence insights into artificial system architectures)"
-    - "∂Φ/∂β (growth from individual neuron firing patterns to systemic goal-progress tracking)"
-    - "∂Φ/∂δγ (cycling between familiar scenario execution and novel scenario inference)"
-    - "∂Φ/∂μ (structural contrast between rigid sequence replay and flexible goal-progress representation)"
-  Z_state: "adaptive_goal_inference — goal-progress cells enable organisms to transcend rote memory, building internal action maps that generalize across novel contexts, pointing toward AI architectures grounded in progress-tracking rather than spatial encoding"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing spatial mapping from action-sequence mapping in neural populations)
+  - ∂Φ/∂ρ (relating memory recall to generalization capacity across novel task structures)
+  - ∂Φ/∂λ (transforming biological intelligence insights into artificial system architectures)
+  - ∂Φ/∂β (growth from individual neuron firing patterns to systemic goal-progress tracking)
+  - ∂Φ/∂δγ (cycling between familiar scenario execution and novel scenario inference)
+  - ∂Φ/∂μ (structural contrast between rigid sequence replay and flexible goal-progress representation)
+  Z_state: permeable
+  z_note: adaptive_goal_inference — goal-progress cells enable organisms to transcend rote memory, building internal action maps that generalize across novel contexts, pointing toward AI architectures grounded in progress-tracking rather than spatial encoding
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["spatial_vs_action_mapping_distinction", "neural_population_coding_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["recall_generalization_relational_mapping", "inference_network_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["biological_to_artificial_transformation", "cognitive_flexibility_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["neuron_to_system_tracking_growth", "goal_progress_developmental_arc"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["familiar_novel_scenario_cycling", "adaptation_renewal_loops"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["rigid_vs_flexible_representation_structure", "action_map_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S05E", "S041"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - spatial_vs_action_mapping_distinction
+    - neural_population_coding_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - recall_generalization_relational_mapping
+    - inference_network_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - biological_to_artificial_transformation
+    - cognitive_flexibility_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - neuron_to_system_tracking_growth
+    - goal_progress_developmental_arc
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - familiar_novel_scenario_cycling
+    - adaptation_renewal_loops
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - rigid_vs_flexible_representation_structure
+    - action_map_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S05E
+- S041
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213130_2111725_Unveiling+Goal-Progress+Cells%3A+Insights+for+Neuroscience+and+AI.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

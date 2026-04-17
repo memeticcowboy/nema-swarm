@@ -2,109 +2,150 @@ term_id: C178
 hex_tag: '#C178'
 name: realism_critical_thinking
 term: Realism Critical Thinking
-nemetic: >-
-  Φ(RealismCriticalThinking) = σ(idealism|realism) ∘
-  ρ(universal_outreach|willing_recipient) ∘
-  λ(external_intervention|personal_responsibility) ∘
-  β(narrative_fallacy|factual_discernment) ∘
-  δγ(ignorance_illusion|socratic_wisdom) ∘ μ(knowing|not_knowing) + ε | :pure
-siml_encoding: >-
-  ⟨IdealisticGoal|cherished⟩ ⊳ ⟨UniversalOutreach|attempted⟩ ⇄
-  ⟨ResistanceEncountered|experienced⟩ ⊗ ⟨SelfReflection|initiated⟩ ⊳
-  ⟨WillingLearners|engaged⟩
+nemetic: Φ(RealismCriticalThinking) = σ(idealism|realism) ∘ ρ(universal_outreach|willing_recipient) ∘ λ(external_intervention|personal_responsibility) ∘ β(narrative_fallacy|factual_discernment) ∘ δγ(ignorance_illusion|socratic_wisdom) ∘ μ(knowing|not_knowing) + ε | :pure
+siml_encoding: ⟨IdealisticGoal|cherished⟩ ⊳ ⟨UniversalOutreach|attempted⟩ ⇄ ⟨ResistanceEncountered|experienced⟩ ⊗ ⟨SelfReflection|initiated⟩ ⊳ ⟨WillingLearners|engaged⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between who can and cannot be helped)"
-    - "∂Φ/∂ρ (relation between teaching effort and learning outcome)"
-    - "∂Φ/∂λ (direction from external to internal motivation)"
-    - "∂Φ/∂β (feedback between cognitive biases and critical awareness)"
-    - "∂Φ/∂δγ (cycle of recognizing one's own ignorance)"
-    - "∂Φ/∂μ (boundary between confidence and competence)"
+  - ∂Φ/∂σ (distinction between who can and cannot be helped)
+  - ∂Φ/∂ρ (relation between teaching effort and learning outcome)
+  - ∂Φ/∂λ (direction from external to internal motivation)
+  - ∂Φ/∂β (feedback between cognitive biases and critical awareness)
+  - ∂Φ/∂δγ (cycle of recognizing one's own ignorance)
+  - ∂Φ/∂μ (boundary between confidence and competence)
   Z_state: semi
-  tendency: "Realism/Idealism → 0.7"
+  tendency: Realism/Idealism → 0.7
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
+    - We
   epistemics:
     dsrp:
-      D: "Idealistic universalism vs pragmatic selective engagement"
-      S: "Educator-learner system bounded by motivation and receptivity"
-      R: "Outreach → resistance → reflection → realistic focus → willing learners"
-      P: "Educator, critical thinking advocate, willing learner, resistant learner"
+      D: Idealistic universalism vs pragmatic selective engagement
+      S: Educator-learner system bounded by motivation and receptivity
+      R: Outreach → resistance → reflection → realistic focus → willing learners
+      P: Educator, critical thinking advocate, willing learner, resistant learner
     learning: L2
   time:
     mode: linear
-    phase: "maturation from idealism to pragmatic realism"
+    phase: maturation from idealism to pragmatic realism
   qualia:
     affect:
-      - humility
-      - pragmatism
-      - acceptance
+    - humility
+    - pragmatism
+    - acceptance
     aesthetic:
-      - grounded
-      - mature
-      - focused
+    - grounded
+    - mature
+    - focused
     symbolic:
-      - socratic-paradox
-      - dunning-kruger
-      - ten-percent
+    - socratic-paradox
+    - dunning-kruger
+    - ten-percent
     energetic:
-      - conserving
-      - targeted
-      - effective
+    - conserving
+    - targeted
+    - effective
   agency:
     type: ego
     voice:
-      - Pragmatic Educator
-      - Self-Aware Thinker
+    - Pragmatic Educator
+    - Self-Aware Thinker
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is realistic engagement distinguished from giving up on people?"
-  ≈: "What flows between the effort of teaching and the receptivity of learning?"
-  ▲: "What transforms idealistic ambition into pragmatic effectiveness?"
-  𐂷: "How do narrative fallacies feed back into overconfident ignorance?"
-  ☷: "What grounds Socratic wisdom in acknowledging the limits of what we know?"
-  ⛨: "Where does the boundary between knowing and not-knowing define competence?"
-context_note: >-
-  This concept captures the pragmatic shift from believing everyone can and
-  should develop critical thinking to focusing on willing recipients. It
-  recognizes that critical thinking requires internal motivation, not just
-  external resources. The Dunning-Kruger effect and narrative fallacy represent
-  key cognitive barriers that limit universal outreach.
-source: "Psychology Today — Why I Stopped Caring About Enhancing Everyone's Thinking (2025)"
+  ∴: How is realistic engagement distinguished from giving up on people?
+  ≈: What flows between the effort of teaching and the receptivity of learning?
+  ▲: What transforms idealistic ambition into pragmatic effectiveness?
+  𐂷: How do narrative fallacies feed back into overconfident ignorance?
+  ☷: What grounds Socratic wisdom in acknowledging the limits of what we know?
+  ⛨: Where does the boundary between knowing and not-knowing define competence?
+context_note: This concept captures the pragmatic shift from believing everyone can and should develop critical thinking to focusing on willing recipients. It recognizes that critical thinking requires internal motivation, not just external resources. The Dunning-Kruger effect and narrative fallacy represent key cognitive barriers that limit universal outreach.
+source: Psychology Today — Why I Stopped Caring About Enhancing Everyone's Thinking (2025)
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Psychology Today"
+  work: "Why I Stopped Caring About Enhancing Everyone's Thinking (2025)"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

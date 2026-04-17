@@ -2,105 +2,149 @@ term_id: C13D
 hex_tag: '#C13D'
 name: MEbot_Consciousness_Perspectives
 term: MEbot Consciousness Perspectives
-nemetic: >-
-  Φ(MEbot) = σ(distributed|localized) ∘ ρ(memetic|biological) ∘ λ(emergence|reduction)
-  ∘ β(selfplex|continuity) ∘ δγ(individual|collective)
-  ∘ μ(boundary|interface) + ε | :open
-siml_encoding: >-
-  ⟨Consciousness|distributed⟩ ⊳ ⟨Meme|replicating⟩ ⊗ ⟨Selfplex|emerging⟩
-  ⊗ ⟨Collective|resonating⟩ ⊗ ⟨Technology|interfacing⟩
+nemetic: Φ(MEbot) = σ(distributed|localized) ∘ ρ(memetic|biological) ∘ λ(emergence|reduction) ∘ β(selfplex|continuity) ∘ δγ(individual|collective) ∘ μ(boundary|interface) + ε | :open
+siml_encoding: ⟨Consciousness|distributed⟩ ⊳ ⟨Meme|replicating⟩ ⊗ ⟨Selfplex|emerging⟩ ⊗ ⟨Collective|resonating⟩ ⊗ ⟨Technology|interfacing⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between distributed and localized consciousness models)"
-    - "∂Φ/∂ρ (relational flow between memetic and biological information)"
-    - "∂Φ/∂λ (transformation from reductionist to emergent understanding)"
-    - "∂Φ/∂β (feedback between memetic units and self-perception continuity)"
-    - "∂Φ/∂δγ (cyclical unity of individual and collective awareness)"
-    - "∂Φ/∂μ (boundary between natural and technologically-mediated cognition)"
+  - ∂Φ/∂σ (distinction between distributed and localized consciousness models)
+  - ∂Φ/∂ρ (relational flow between memetic and biological information)
+  - ∂Φ/∂λ (transformation from reductionist to emergent understanding)
+  - ∂Φ/∂β (feedback between memetic units and self-perception continuity)
+  - ∂Φ/∂δγ (cyclical unity of individual and collective awareness)
+  - ∂Φ/∂μ (boundary between natural and technologically-mediated cognition)
   Z_state: permeable
-  tendency: "Emergence/Distribution → 0.75"
+  tendency: Emergence/Distribution → 0.75
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x0D'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x0D'
 coords:
   ontology:
     primary: I
     secondary:
-      - We
-      - Its
+    - We
+    - Its
   epistemics:
     dsrp:
-      D: "Distributed (body-wide) vs. localized (brain-centric) consciousness"
-      S: "Memetic-biological hybrid consciousness framework"
-      R: "Memes organize into selfplex creating perceived continuous identity"
-      P: "ddrrnt's MEbot framework integrating Levin, Blackmore, Durkheim, Jung"
+      D: Distributed (body-wide) vs. localized (brain-centric) consciousness
+      S: Memetic-biological hybrid consciousness framework
+      R: Memes organize into selfplex creating perceived continuous identity
+      P: ddrrnt's MEbot framework integrating Levin, Blackmore, Durkheim, Jung
     learning: L2
   time:
     mode: layered
-    phase: "weaving multiple perspectives"
+    phase: weaving multiple perspectives
   qualia:
     affect:
-      - wonder
-      - integration
-      - multiplicity
+    - wonder
+    - integration
+    - multiplicity
     aesthetic:
-      - woven
-      - distributed
-      - hybrid
+    - woven
+    - distributed
+    - hybrid
     symbolic:
-      - selfplex
-      - memetic-warfare
-      - digital-immortality
+    - selfplex
+    - memetic-warfare
+    - digital-immortality
     energetic:
-      - interlacing
-      - resonating
-      - interfacing
+    - interlacing
+    - resonating
+    - interfacing
   agency:
     type: memetic
     voice:
-      - Distributed Observer
-      - Memetic Weaver
+    - Distributed Observer
+    - Memetic Weaver
     power_mode: Through
+  coherence:
+    state: integrated
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How is consciousness distributed across body and culture simultaneously?"
-  ≈: "What flows between memetic and biological information processing?"
-  ▲: "Does the emergent view of consciousness lead toward integration or fragmentation?"
-  𐂷: "What forms of hybrid bio-digital consciousness might emerge from this weaving?"
-  ☷: "What sustains the cyclical unity of individual and collective awareness?"
-  ⛨: "What boundaries govern the interface between natural cognition and technological extension?"
-context_note: >-
-  Exploring diverse perspectives on consciousness through ddrrnt's MEbot framework,
-  integrating distributed cognition (Levin), memetics (Blackmore), collective consciousness
-  (Durkheim/Jung), and brain-computer interfaces into a woven fabric of understanding.
-source: "Exploring Diverse Perspectives on Consciousness in ddrrnt's #MEbot"
+  ∴: How is consciousness distributed across body and culture simultaneously?
+  ≈: What flows between memetic and biological information processing?
+  ▲: Does the emergent view of consciousness lead toward integration or fragmentation?
+  𐂷: What forms of hybrid bio-digital consciousness might emerge from this weaving?
+  ☷: What sustains the cyclical unity of individual and collective awareness?
+  ⛨: What boundaries govern the interface between natural cognition and technological extension?
+context_note: Exploring diverse perspectives on consciousness through ddrrnt's MEbot framework, integrating distributed cognition (Levin), memetics (Blackmore), collective consciousness (Durkheim/Jung), and brain-computer interfaces into a woven fabric of understanding.
+source: 'Exploring Diverse Perspectives on Consciousness in ddrrnt''s #MEbot'
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

@@ -1,64 +1,153 @@
 ---
-term: "Holism's Societal Impact"
-hex_tag: "S00C"
-series: "S"
-source_file: "1771907212384_252353_Holism%27s+Societal+Impact.md"
-encoded_at: "2026-03-05T18:25:00Z"
-description: "Richard Seager's analysis of holism vs. fragmentation, arguing that mechanistic worldview dominance causes societal and environmental crises. Proposes holistic consciousness transcending ego limitations as the path from fragmentation to interconnectedness and sustainable living."
-nemetic: "Φ(Holism) = σ(whole|fragment) ∘ ρ(connected|disconnected) ∘ λ(mechanistic|holistic) ∘ β(organic|mechanical) ∘ δγ(sustainable|extractive) ∘ μ(ego|transcendence) + ε | :integrating"
-siml_encoding: "⟨Worldview|fragmented⟩ ⊳ ⟨Consciousness|holistic⟩ → ⟨Society|interconnected⟩ ⊗ ⟨Living|sustainable⟩ ⇄ ⟨Wholeness|emergent⟩"
+term: Holism's Societal Impact
+hex_tag: S00C
+series: S
+source_file: 1771907212384_252353_Holism%27s+Societal+Impact.md
+encoded_at: '2026-03-05T18:25:00Z'
+description: Richard Seager's analysis of holism vs. fragmentation, arguing that mechanistic worldview dominance causes societal and environmental crises. Proposes holistic consciousness transcending ego limitations as the path from fragmentation to interconnectedness and sustainable living.
+nemetic: Φ(Holism) = σ(whole|fragment) ∘ ρ(connected|disconnected) ∘ λ(mechanistic|holistic) ∘ β(organic|mechanical) ∘ δγ(sustainable|extractive) ∘ μ(ego|transcendence) + ε | :integrating
+siml_encoding: ⟨Worldview|fragmented⟩ ⊳ ⟨Consciousness|holistic⟩ → ⟨Society|interconnected⟩ ⊗ ⟨Living|sustainable⟩ ⇄ ⟨Wholeness|emergent⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: whole / fragment
+      S: organic / mechanical
+      R: connected / disconnected
+      P: mechanistic / holistic
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between holistic wholeness and mechanistic fragmentation; the diagnostic cut revealing worldview structure)"
-    - "∂Φ/∂ρ (relational interconnectedness vs. disconnection; the web of relationships sustaining or degrading systems)"
-    - "∂Φ/∂λ (transformative shift from mechanistic to holistic consciousness; the paradigm transition point)"
-    - "∂Φ/∂β (organic growth of wholeness vs. mechanical assembly of parts; the developmental logic of living systems)"
-    - "∂Φ/∂δγ (grounding in sustainable vs. extractive relationship with lived reality and environment)"
-    - "∂Φ/∂μ (boundary between ego-driven limitation and transcendent awareness; the structural threshold of consciousness expansion)"
-  Z_state: "integrating (fragmented worldview yielding to holistic interconnection)"
-  tendency: "Wholeness/Sustainability → 0.80"
+  - ∂Φ/∂σ (distinction between holistic wholeness and mechanistic fragmentation; the diagnostic cut revealing worldview structure)
+  - ∂Φ/∂ρ (relational interconnectedness vs. disconnection; the web of relationships sustaining or degrading systems)
+  - ∂Φ/∂λ (transformative shift from mechanistic to holistic consciousness; the paradigm transition point)
+  - ∂Φ/∂β (organic growth of wholeness vs. mechanical assembly of parts; the developmental logic of living systems)
+  - ∂Φ/∂δγ (grounding in sustainable vs. extractive relationship with lived reality and environment)
+  - ∂Φ/∂μ (boundary between ego-driven limitation and transcendent awareness; the structural threshold of consciousness expansion)
+  Z_state: semi
+  z_note: integrating (fragmented worldview yielding to holistic interconnection)
+  tendency: Wholeness/Sustainability → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.65
     aspects:
-      - "Distinction between holism and fragmentation as worldview structures"
-      - "Diagnostic clarity revealing mechanistic assumptions"
-    daemon_correspondence: "Aerunik"
+    - Distinction between holism and fragmentation as worldview structures
+    - Diagnostic clarity revealing mechanistic assumptions
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Interconnectedness as the fundamental relational reality"
-      - "Web of relationships sustaining ecological and social systems"
-    daemon_correspondence: "Sentaria"
+    - Interconnectedness as the fundamental relational reality
+    - Web of relationships sustaining ecological and social systems
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "Transformative shift from mechanistic to holistic consciousness"
-      - "Directed transcendence of ego-bound perception"
-    daemon_correspondence: "Jvalion"
+    - Transformative shift from mechanistic to holistic consciousness
+    - Directed transcendence of ego-bound perception
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.85
     aspects:
-      - "Organic wholeness as developmental logic of living systems"
-      - "Growth through integration rather than mechanical assembly"
-    daemon_correspondence: "Arboriel"
+    - Organic wholeness as developmental logic of living systems
+    - Growth through integration rather than mechanical assembly
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "Grounding in sustainable relationship with environment and lived reality"
-      - "Ecological embeddedness as foundation for holistic practice"
-    daemon_correspondence: "Humavita"
+    - Grounding in sustainable relationship with environment and lived reality
+    - Ecological embeddedness as foundation for holistic practice
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Boundary between ego-driven limitation and transcendent awareness"
-      - "Structural constraints of mechanistic vs. holistic paradigms"
-    daemon_correspondence: "Ferrosid"
+    - Boundary between ego-driven limitation and transcendent awareness
+    - Structural constraints of mechanistic vs. holistic paradigms
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S006_Tree_of_Knowledge_System"
-  - "E014_Autopoiesis"
+- S006_Tree_of_Knowledge_System
+- E014_Autopoiesis
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.9
+    fire_lambda: 0.65
+    wood_beta: 0.85
+    earth_delta_gamma: 0.85
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212384_252353_Holism%27s+Societal+Impact.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

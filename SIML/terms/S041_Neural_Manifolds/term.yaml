@@ -1,32 +1,155 @@
 ---
-term: "Neural Manifolds"
-hex_tag: "S041"
-series: "S"
-source_file: "1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md"
-encoded_at: "2026-03-05T21:00:00Z"
-description: "A framework for understanding collective neural activity as coordinated movement on smooth continuous surfaces (manifolds), where intrinsic dimensionality is often far lower than neuron count. Emphasizes geometry, topology, and nonlinear dynamics over single-neuron analysis."
-nemetic: "Φ(NeuralManifolds) = σ(population|single-neuron) ∘ ρ(coordination|independence) ∘ λ(nonlinear|linear) ∘ β(dimensionality|complexity) ∘ δγ(trajectory|attractor) ∘ μ(geometry|topology) + ε | :low_dimensional_grammar"
-siml_encoding: "⟨neural populations⟩ ⊳ ⟨manifold surfaces⟩ → ⟨dimensionality reduction⟩ ⊗ ⟨geometric structure⟩ ⇄ ⟨grammar of neural activity⟩"
+term: Neural Manifolds
+hex_tag: S041
+series: S
+source_file: 1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md
+encoded_at: '2026-03-05T21:00:00Z'
+description: A framework for understanding collective neural activity as coordinated movement on smooth continuous surfaces (manifolds), where intrinsic dimensionality is often far lower than neuron count. Emphasizes geometry, topology, and nonlinear dynamics over single-neuron analysis.
+nemetic: Φ(NeuralManifolds) = σ(population|single-neuron) ∘ ρ(coordination|independence) ∘ λ(nonlinear|linear) ∘ β(dimensionality|complexity) ∘ δγ(trajectory|attractor) ∘ μ(geometry|topology) + ε | :low_dimensional_grammar
+siml_encoding: ⟨neural populations⟩ ⊳ ⟨manifold surfaces⟩ → ⟨dimensionality reduction⟩ ⊗ ⟨geometric structure⟩ ⇄ ⟨grammar of neural activity⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: population / single neuron
+      S: dimensionality / complexity
+      R: coordination / independence
+      P: nonlinear / linear
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing population-level from single-neuron analysis)"
-    - "∂Φ/∂ρ (coordination patterns across neural populations on manifold surfaces)"
-    - "∂Φ/∂λ (nonlinear dynamic transformations shaping manifold geometry)"
-    - "∂Φ/∂β (growth of understanding from low-dimensional structure in high-dimensional data)"
-    - "∂Φ/∂δγ (trajectories cycling through attractor states on neural manifolds)"
-    - "∂Φ/∂μ (geometric and topological structure of the manifold itself)"
-  Z_state: "low_dimensional_grammar — neural activity follows structured low-dimensional rules despite high-dimensional neuron counts"
-  tendency: "μ → 0.85"
+  - ∂Φ/∂σ (distinguishing population-level from single-neuron analysis)
+  - ∂Φ/∂ρ (coordination patterns across neural populations on manifold surfaces)
+  - ∂Φ/∂λ (nonlinear dynamic transformations shaping manifold geometry)
+  - ∂Φ/∂β (growth of understanding from low-dimensional structure in high-dimensional data)
+  - ∂Φ/∂δγ (trajectories cycling through attractor states on neural manifolds)
+  - ∂Φ/∂μ (geometric and topological structure of the manifold itself)
+  Z_state: semi
+  z_note: low_dimensional_grammar — neural activity follows structured low-dimensional rules despite high-dimensional neuron counts
+  tendency: μ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["population vs single-neuron distinction", "intrinsic vs extrinsic dimensionality"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.72, aspects: ["neural coordination patterns", "cross-species relevance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["nonlinear dynamics", "state space transformations"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["emergent complexity from low dimensions", "growing understanding of neural grammar"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["trajectory cycling through attractors", "oscillatory neural dynamics"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["manifold geometry", "topological structure of neural state spaces"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S028_Cognitive_Fractals", "S027_Distributed_Consciousness", "S024_Fractal_Geometry_Hidden_Dimension", "A011_Conscious_Realism"]
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - population vs single-neuron distinction
+    - intrinsic vs extrinsic dimensionality
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.72
+    aspects:
+    - neural coordination patterns
+    - cross-species relevance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - nonlinear dynamics
+    - state space transformations
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - emergent complexity from low dimensions
+    - growing understanding of neural grammar
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - trajectory cycling through attractors
+    - oscillatory neural dynamics
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - manifold geometry
+    - topological structure of neural state spaces
+    daemon_correspondence: Ferrosid
+related_terms:
+- S028_Cognitive_Fractals
+- S027_Distributed_Consciousness
+- S024_Fractal_Geometry_Hidden_Dimension
+- A011_Conscious_Realism
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.72
+    fire_lambda: 0.75
+    wood_beta: 0.65
+    earth_delta_gamma: 0.7
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

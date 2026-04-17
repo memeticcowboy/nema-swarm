@@ -1,37 +1,156 @@
 ---
-term: "Dapeng Coastal Resilience"
-hex_tag: "G00E"
-series: "G"
-source_file: "14 - Dapeng Coastal Resilience Matrix.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A resilience matrix framework for coastal urban sustainability in Shenzhen's Dapeng New District, integrating land-water-biodiversity nexus thinking with UN Sustainable Development Goals. The framework emphasizes prepare-absorb-recover-adapt cycles and land-sea integration to identify critical leverage points for sustainable coastal development."
-nemetic: "Φ(Dapeng_Coastal_Resilience) = σ(nexus_distinction|siloed_vs_integrated_management) ∘ ρ(land_sea_coupling|water_biodiversity_flow) ∘ λ(urbanization_pressure|development_vs_preservation) ∘ β(sdg_alignment|multi_indicator_branching) ∘ δγ(resilience_cycling|prepare_absorb_recover_adapt) ∘ μ(matrix_structure|twelve_indicator_framework) + ε | :integrating"
-siml_encoding: "⟨land, water⟩ ⊳ ⟨biodiversity, sdg_alignment⟩ → ⟨resilience, sustainability⟩ ⊗ ⟨urbanization, ecosystem_degradation⟩ ⇄ ⟨nexus_governance, adaptive_management⟩"
+term: Dapeng Coastal Resilience
+hex_tag: G00E
+series: G
+source_file: 14 - Dapeng Coastal Resilience Matrix.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A resilience matrix framework for coastal urban sustainability in Shenzhen's Dapeng New District, integrating land-water-biodiversity nexus thinking with UN Sustainable Development Goals. The framework emphasizes prepare-absorb-recover-adapt cycles and land-sea integration to identify critical leverage points for sustainable coastal development.
+nemetic: Φ(Dapeng_Coastal_Resilience) = σ(nexus_distinction|siloed_vs_integrated_management) ∘ ρ(land_sea_coupling|water_biodiversity_flow) ∘ λ(urbanization_pressure|development_vs_preservation) ∘ β(sdg_alignment|multi_indicator_branching) ∘ δγ(resilience_cycling|prepare_absorb_recover_adapt) ∘ μ(matrix_structure|twelve_indicator_framework) + ε | :integrating
+siml_encoding: ⟨land, water⟩ ⊳ ⟨biodiversity, sdg_alignment⟩ → ⟨resilience, sustainability⟩ ⊗ ⟨urbanization, ecosystem_degradation⟩ ⇄ ⟨nexus_governance, adaptive_management⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: nexus_distinction / siloed_vs_integrated_management
+      S: sdg_alignment / multi_indicator_branching
+      R: land_sea_coupling / water_biodiversity_flow
+      P: urbanization_pressure / development_vs_preservation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing integrated nexus management from siloed sectoral approaches; perceiving land-water-biodiversity as inseparable rather than independently governable"
-    - "∂Φ/∂ρ — The relational flow between terrestrial and marine environments, water and biodiversity, forming the central coupling dynamic of coastal systems"
-    - "∂Φ/∂λ — Urbanization as catalytic pressure transforming coastal ecosystems; the tension between rapid development and ecological preservation in Shenzhen"
-    - "∂Φ/∂β — Multi-indicator expansion across economic, natural resource, and eco-environment domains; branching alignment with SDG frameworks"
-    - "∂Φ/∂δγ — The prepare-absorb-recover-adapt resilience cycle grounding the system's capacity to metabolize shocks from sea-level rise, pollution, and habitat loss"
-    - "∂Φ/∂μ — The 12-indicator resilience matrix providing structural scaffolding for assessment; quantitative boundaries that frame evaluation of coastal sustainability"
-  Z_state: "integrating — the framework seeks to unify previously fragmented governance domains into a coherent nexus approach for coastal resilience"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ — Distinguishing integrated nexus management from siloed sectoral approaches; perceiving land-water-biodiversity as inseparable rather than independently governable
+  - ∂Φ/∂ρ — The relational flow between terrestrial and marine environments, water and biodiversity, forming the central coupling dynamic of coastal systems
+  - ∂Φ/∂λ — Urbanization as catalytic pressure transforming coastal ecosystems; the tension between rapid development and ecological preservation in Shenzhen
+  - ∂Φ/∂β — Multi-indicator expansion across economic, natural resource, and eco-environment domains; branching alignment with SDG frameworks
+  - ∂Φ/∂δγ — The prepare-absorb-recover-adapt resilience cycle grounding the system's capacity to metabolize shocks from sea-level rise, pollution, and habitat loss
+  - ∂Φ/∂μ — The 12-indicator resilience matrix providing structural scaffolding for assessment; quantitative boundaries that frame evaluation of coastal sustainability
+  Z_state: semi
+  z_note: integrating — the framework seeks to unify previously fragmented governance domains into a coherent nexus approach for coastal resilience
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["nexus_vs_siloed_perception", "integrated_systems_discernment"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["land_sea_hydrological_coupling", "biodiversity_water_interdependence"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["urbanization_transformation_pressure", "development_preservation_tension"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["sdg_alignment_branching", "multi_domain_indicator_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["resilience_cycling", "shock_absorption_recovery"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["matrix_assessment_framework", "quantitative_indicator_boundaries"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - nexus_vs_siloed_perception
+    - integrated_systems_discernment
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - land_sea_hydrological_coupling
+    - biodiversity_water_interdependence
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - urbanization_transformation_pressure
+    - development_preservation_tension
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - sdg_alignment_branching
+    - multi_domain_indicator_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - resilience_cycling
+    - shock_absorption_recovery
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - matrix_assessment_framework
+    - quantitative_indicator_boundaries
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G00F_Myth_of_River_Control"
-  - "G010_Arctic_Amazon_Climate_Connection"
-  - "G005_Forest_Carbon_Restoration"
-  - "G00A_Rewilding"
-  - "G00C_Biocentric_Governance"
+- G00F_Myth_of_River_Control
+- G010_Arctic_Amazon_Climate_Connection
+- G005_Forest_Carbon_Restoration
+- G00A_Rewilding
+- G00C_Biocentric_Governance
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "14 - Dapeng Coastal Resilience Matrix.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

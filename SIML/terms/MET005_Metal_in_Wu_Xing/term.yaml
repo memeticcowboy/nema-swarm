@@ -1,10 +1,7 @@
 hex_tag: '#MET005'
 term: Metal in Wu Xing (Chinese Five Elements)
-nemetic: Φ(Wu-Xing-Metal) = σ(concentration|extracted-purity) ∘ μ(structure|containment)
-  ∘ β(contraction|autumn-gathering) ∘ δγ(cyclical-transformation|Water-birth) + ε
-  | :open
-siml_encoding: ⟨Element|Metal⟩ ⊳ ⟨System|Five-Elements⟩ ⇄ ⟨Value|concentration⟩ ⊗
-  ⟨Protocol|Creation-Control-cycles⟩ → ⟨Outcome|seasonal-harmony⟩
+nemetic: Φ(Wu-Xing-Metal) = σ(concentration|extracted-purity) ∘ μ(structure|containment) ∘ β(contraction|autumn-gathering) ∘ δγ(cyclical-transformation|Water-birth) + ε | :open
+siml_encoding: ⟨Element|Metal⟩ ⊳ ⟨System|Five-Elements⟩ ⇄ ⟨Value|concentration⟩ ⊗ ⟨Protocol|Creation-Control-cycles⟩ → ⟨Outcome|seasonal-harmony⟩
 formalism:
   math_operators:
   - σ
@@ -66,6 +63,17 @@ coords:
     - Concentration
     - Autumn Gatherer
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
   ∴: How is Metal distinguished from Wood's expansion?
   ≈: What resonance does autumn's gathering carry?
@@ -73,23 +81,66 @@ elemental_emphasis:
   𐂷: What possibilities emerge from concentrated essence?
   ☷: How does Metal transform into Water?
   ⛨: What boundaries does Metal's structure enforce?
-context_note: 'Chinese Metal is distinct from Western metallic symbolism—it''s one
-  of five dynamic phases, not a material category. Key insight: Metal represents concentration
-  (σ) and contraction (β), the gathering inward of autumn. Earth creates Metal (ores
-  from earth); Metal creates Water (condensation); Fire controls Metal (melting).
-  This is Metal as seasonal process, not substance.'
-source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions
-  — Memetic Cowboy
+context_note: 'Chinese Metal is distinct from Western metallic symbolism—it''s one of five dynamic phases, not a material category. Key insight: Metal represents concentration (σ) and contraction (β), the gathering inward of autumn. Earth creates Metal (ores from earth); Metal creates Water (condensation); Fire controls Metal (melting). This is Metal as seasonal process, not substance.'
+source: Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Symbolic Meaning of Metal in Ancient Philosophical and Indigenous Traditions"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.3
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Wood
+  - Earth
+  suppressed:
+  - Water
+  - Fire
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.3
+    Fire: 0.3
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

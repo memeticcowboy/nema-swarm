@@ -1,64 +1,153 @@
 ---
-term: "Metaphors, Consciousness, and Behavior"
-hex_tag: "S00B"
-series: "S"
-source_file: "1771907212373_244360_The+Influence+of+Metaphors+on+Consciousness+and+Behavior.md"
-encoded_at: "2026-03-05T18:20:00Z"
-description: "Lakoff & Johnson's conceptual metaphor theory showing how metaphors shape thought, perception, and action. Orientational, ontological, and structural metaphors grounded in embodied experience unite reason and imagination, revealing that meaning emerges from interaction with the world rather than objective correspondence."
-nemetic: "Φ(Metaphor) = σ(literal|figurative) ∘ ρ(source|target) ∘ λ(frame|reframe) ∘ β(concept|system) ∘ δγ(embodied|abstract) ∘ μ(structure|constraint) + ε | :mapping"
-siml_encoding: "⟨Language|metaphorical⟩ ⊳ ⟨Source|domain⟩ → ⟨Target|domain⟩ ⊗ ⟨Thought|shaped⟩ ⇄ ⟨Action|embodied⟩"
+term: Metaphors, Consciousness, and Behavior
+hex_tag: S00B
+series: S
+source_file: 1771907212373_244360_The+Influence+of+Metaphors+on+Consciousness+and+Behavior.md
+encoded_at: '2026-03-05T18:20:00Z'
+description: Lakoff & Johnson's conceptual metaphor theory showing how metaphors shape thought, perception, and action. Orientational, ontological, and structural metaphors grounded in embodied experience unite reason and imagination, revealing that meaning emerges from interaction with the world rather than objective correspondence.
+nemetic: Φ(Metaphor) = σ(literal|figurative) ∘ ρ(source|target) ∘ λ(frame|reframe) ∘ β(concept|system) ∘ δγ(embodied|abstract) ∘ μ(structure|constraint) + ε | :mapping
+siml_encoding: ⟨Language|metaphorical⟩ ⊳ ⟨Source|domain⟩ → ⟨Target|domain⟩ ⊗ ⟨Thought|shaped⟩ ⇄ ⟨Action|embodied⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: literal / figurative
+      S: concept / system
+      R: source / target
+      P: frame / reframe
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (categorical distinction between literal and figurative language; the boundary where metaphor begins)"
-    - "∂Φ/∂ρ (relational mapping between source and target domains; the connective bridge carrying meaning across conceptual spaces)"
-    - "∂Φ/∂λ (transformative reframing when metaphors shift perception; the spark that restructures understanding)"
-    - "∂Φ/∂β (developmental growth of conceptual systems through accumulated metaphorical mappings)"
-    - "∂Φ/∂δγ (cyclical grounding of abstract thought in embodied physical experience)"
-    - "∂Φ/∂μ (structural constraints imposed by metaphor types—orientational, ontological, structural—shaping permissible inferences)"
-  Z_state: "mapping (cross-domain correspondence generating emergent meaning)"
-  tendency: "Integration/Embodiment → 0.70"
+  - ∂Φ/∂σ (categorical distinction between literal and figurative language; the boundary where metaphor begins)
+  - ∂Φ/∂ρ (relational mapping between source and target domains; the connective bridge carrying meaning across conceptual spaces)
+  - ∂Φ/∂λ (transformative reframing when metaphors shift perception; the spark that restructures understanding)
+  - ∂Φ/∂β (developmental growth of conceptual systems through accumulated metaphorical mappings)
+  - ∂Φ/∂δγ (cyclical grounding of abstract thought in embodied physical experience)
+  - ∂Φ/∂μ (structural constraints imposed by metaphor types—orientational, ontological, structural—shaping permissible inferences)
+  Z_state: permeable
+  z_note: mapping (cross-domain correspondence generating emergent meaning)
+  tendency: Integration/Embodiment → 0.70
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "Distinction between literal and metaphorical modes of language and thought"
-      - "Classification of metaphor types: orientational, ontological, structural"
-    daemon_correspondence: "Aerunik"
+    - Distinction between literal and metaphorical modes of language and thought
+    - 'Classification of metaphor types: orientational, ontological, structural'
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "Relational mapping between source and target domains"
-      - "Flow of meaning from concrete experience to abstract concept"
-    daemon_correspondence: "Sentaria"
+    - Relational mapping between source and target domains
+    - Flow of meaning from concrete experience to abstract concept
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "Transformative reframing when a new metaphor restructures perception"
-      - "Directed shift from habitual to novel conceptual framing"
-    daemon_correspondence: "Jvalion"
+    - Transformative reframing when a new metaphor restructures perception
+    - Directed shift from habitual to novel conceptual framing
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.65
     aspects:
-      - "Growth of conceptual systems through metaphorical accumulation"
-      - "Developmental expansion of shared cultural metaphor networks"
-    daemon_correspondence: "Arboriel"
+    - Growth of conceptual systems through metaphorical accumulation
+    - Developmental expansion of shared cultural metaphor networks
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.65
     aspects:
-      - "Embodied grounding of abstract thought in physical experience"
-      - "Spatial and bodily orientation as foundation for conceptual metaphor"
-    daemon_correspondence: "Humavita"
+    - Embodied grounding of abstract thought in physical experience
+    - Spatial and bodily orientation as foundation for conceptual metaphor
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.65
     aspects:
-      - "Structural constraints of metaphor types limiting permissible inferences"
-      - "Boundaries that metaphors impose on reasoning pathways"
-    daemon_correspondence: "Ferrosid"
+    - Structural constraints of metaphor types limiting permissible inferences
+    - Boundaries that metaphors impose on reasoning pathways
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S004_Mental_Models_Integrative_Thinking"
-  - "C030_psychological_power_of_words"
+- S004_Mental_Models_Integrative_Thinking
+- C030_psychological_power_of_words
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.65
+    wood_beta: 0.65
+    earth_delta_gamma: 0.65
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212373_244360_The+Influence+of+Metaphors+on+Consciousness+and+Behavior.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

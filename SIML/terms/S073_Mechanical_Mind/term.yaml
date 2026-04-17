@@ -1,32 +1,154 @@
 ---
-term: "Mechanical Mind"
-hex_tag: "S073"
-series: "S"
-source_file: "1771907212747_1142726_.md"
-encoded_at: "2026-03-06T00:30:00Z"
-description: "Exploration of whether the mind can be understood as a mechanical system, examining computational models of cognition, the Chinese Room argument, extended mind thesis, limits of reductive explanation, and the irreducibility of consciousness and intentionality."
-nemetic: "Φ(Mechanical Mind) = σ(mechanical_explanation|mental_phenomenon) ∘ ρ(computation|intentionality) ∘ λ(symbol_manipulation|genuine_understanding) ∘ β(reductive_model|non_reductive_integration) ∘ δγ(philosophical_debate_cycling|explanatory_framework_iteration) ∘ μ(turing_machine_architecture|functionalist_framework) + ε | :irreducible_cognitive_complexity"
-siml_encoding: "⟨mechanical_mental_distinction, explanatory_boundary⟩ ⊳ ⟨computation_intentionality_relation, meaning_problem⟩ → ⟨symbol_to_understanding_transformation, chinese_room_challenge⟩ ⊗ ⟨reductive_to_integrative_growth, multi_framework_maturation⟩ ⇄ ⟨philosophical_debate_cycling, explanatory_refinement⟩"
+term: Mechanical Mind
+hex_tag: S073
+series: S
+source_file: 1771907212747_1142726_.md
+encoded_at: '2026-03-06T00:30:00Z'
+description: Exploration of whether the mind can be understood as a mechanical system, examining computational models of cognition, the Chinese Room argument, extended mind thesis, limits of reductive explanation, and the irreducibility of consciousness and intentionality.
+nemetic: Φ(Mechanical Mind) = σ(mechanical_explanation|mental_phenomenon) ∘ ρ(computation|intentionality) ∘ λ(symbol_manipulation|genuine_understanding) ∘ β(reductive_model|non_reductive_integration) ∘ δγ(philosophical_debate_cycling|explanatory_framework_iteration) ∘ μ(turing_machine_architecture|functionalist_framework) + ε | :irreducible_cognitive_complexity
+siml_encoding: ⟨mechanical_mental_distinction, explanatory_boundary⟩ ⊳ ⟨computation_intentionality_relation, meaning_problem⟩ → ⟨symbol_to_understanding_transformation, chinese_room_challenge⟩ ⊗ ⟨reductive_to_integrative_growth, multi_framework_maturation⟩ ⇄ ⟨philosophical_debate_cycling, explanatory_refinement⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: mechanical_explanation / mental_phenomenon
+      S: reductive_model / non_reductive_integration
+      R: computation / intentionality
+      P: symbol_manipulation / genuine_understanding
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing mechanical explanation from irreducible mental phenomena)"
-    - "∂Φ/∂ρ (relating computational processes to intentionality and aboutness)"
-    - "∂Φ/∂λ (transforming symbol manipulation into the question of genuine understanding)"
-    - "∂Φ/∂β (growth from reductive models toward non-reductive integrative frameworks)"
-    - "∂Φ/∂δγ (cycling through philosophical debates and explanatory framework iterations)"
-    - "∂Φ/∂μ (Turing machine architecture and functionalist structural frameworks)"
-  Z_state: "irreducible_cognitive_complexity — the mind resists complete mechanical explanation; computational models illuminate aspects of cognition but cannot fully capture consciousness, intentionality, and representational richness, requiring multi-framework approaches"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing mechanical explanation from irreducible mental phenomena)
+  - ∂Φ/∂ρ (relating computational processes to intentionality and aboutness)
+  - ∂Φ/∂λ (transforming symbol manipulation into the question of genuine understanding)
+  - ∂Φ/∂β (growth from reductive models toward non-reductive integrative frameworks)
+  - ∂Φ/∂δγ (cycling through philosophical debates and explanatory framework iterations)
+  - ∂Φ/∂μ (Turing machine architecture and functionalist structural frameworks)
+  Z_state: semi
+  z_note: irreducible_cognitive_complexity — the mind resists complete mechanical explanation; computational models illuminate aspects of cognition but cannot fully capture consciousness, intentionality, and representational richness, requiring multi-framework approaches
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["mechanical_mental_distinction", "explanatory_boundary_marking"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["computation_intentionality_relation", "representation_meaning_connection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["symbol_understanding_transformation", "chinese_room_challenge"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["reductive_to_integrative_development", "multi_framework_maturation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["philosophical_debate_cycling", "explanatory_framework_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["turing_machine_architecture", "functionalist_structural_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03D", "S007", "S027"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - mechanical_mental_distinction
+    - explanatory_boundary_marking
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - computation_intentionality_relation
+    - representation_meaning_connection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - symbol_understanding_transformation
+    - chinese_room_challenge
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - reductive_to_integrative_development
+    - multi_framework_maturation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - philosophical_debate_cycling
+    - explanatory_framework_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - turing_machine_architecture
+    - functionalist_structural_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03D
+- S007
+- S027
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.75
+    earth_delta_gamma: 0.7
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212747_1142726_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

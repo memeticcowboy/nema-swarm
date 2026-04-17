@@ -2,88 +2,148 @@ term_id: A02C
 hex_tag: '#A02C'
 name: absorption_false_memory
 term: Absorption and False Memory
-nemetic: >-
-  Φ(AbsorptionMemory) = σ(internal|external)
-                      ∘ ρ(imagination|reality)
-                      ∘ λ(narrative|cultural)
-                      ∘ β(belief|reinforced)
-                      ∘ δγ(absorption|heightened)
-                      ∘ μ(source-boundary|permeable)
-                      + ε | :open
-siml_encoding: >-
-  ⟨Experience|ambiguous⟩
-      ⊳ ⟨Trait|absorption⟩
-      → ⟨Memory|constructed⟩
-      ⊗ ⟨Source|confused⟩
-      ⇄ ⟨Belief|entrenched⟩
-      → ⟨Narrative|abduction⟩
+nemetic: "Φ(AbsorptionMemory) = σ(internal|external)\n                    ∘ ρ(imagination|reality)\n                    ∘ λ(narrative|cultural)\n                    ∘ β(belief|reinforced)\n                    ∘ δγ(absorption|heightened)\n                    ∘ μ(source-boundary|permeable)\n                    + ε | :open"
+siml_encoding: "⟨Experience|ambiguous⟩\n    ⊳ ⟨Trait|absorption⟩\n    → ⟨Memory|constructed⟩\n    ⊗ ⟨Source|confused⟩\n    ⇄ ⟨Belief|entrenched⟩\n    → ⟨Narrative|abduction⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between internally generated and externally experienced events — source monitoring is the cognitive capacity to tag memories with their origin; when absorption is high, this cut becomes unreliable, and the failure is not stupidity but a specific vulnerability in memory encoding)"
-    - "∂Φ/∂ρ (relational resonance between ambiguous sensation and cultural narrative — the sleep paralysis experience carries emotional weight that flows toward the abduction narrative not because it fits evidence but because the narrative transforms mundane suffering into extraordinary significance)"
-    - "∂Φ/∂λ (directional pull of cultural availability — the path from sensation to interpretation follows cultural templates; the alien narrative is ready-to-hand in a media-saturated world, directing interpretation before conscious evaluation)"
-    - "∂Φ/∂β (feedback loop of belief reinforcement — when the narrative satisfies emotional needs for meaning and specialness, belief becomes resistant to counter-evidence not despite coherence but because of it)"
-    - "∂Φ/∂δγ (heightened metabolic engagement of high-absorption states — dissociation requires energy to maintain; over time the boundary management between imagination and reality exhausts cognitive resources)"
-    - "∂Φ/∂μ (permeable source boundary enabling memory contamination — the μ-structure that should tag experience origins becomes porous; imagination inflation occurs when rehearsal of events raises their felt familiarity to the level of memory)"
-  Z_state: "Currently :open — false memories can be corrected through source monitoring training and metacognitive awareness, provided belief has not become central to identity and social belonging. Z-Sealing Risk: if the abduction narrative becomes the organizing structure of self, the boundary becomes defended rather than merely permeable."
-  tendency: "permeable/sealed → :open"
-  hex: ['#A02C', '#A028', '#A029']
+  - ∂Φ/∂σ (distinction between internally generated and externally experienced events — source monitoring is the cognitive capacity to tag memories with their origin; when absorption is high, this cut becomes unreliable, and the failure is not stupidity but a specific vulnerability in memory encoding)
+  - ∂Φ/∂ρ (relational resonance between ambiguous sensation and cultural narrative — the sleep paralysis experience carries emotional weight that flows toward the abduction narrative not because it fits evidence but because the narrative transforms mundane suffering into extraordinary significance)
+  - ∂Φ/∂λ (directional pull of cultural availability — the path from sensation to interpretation follows cultural templates; the alien narrative is ready-to-hand in a media-saturated world, directing interpretation before conscious evaluation)
+  - ∂Φ/∂β (feedback loop of belief reinforcement — when the narrative satisfies emotional needs for meaning and specialness, belief becomes resistant to counter-evidence not despite coherence but because of it)
+  - ∂Φ/∂δγ (heightened metabolic engagement of high-absorption states — dissociation requires energy to maintain; over time the boundary management between imagination and reality exhausts cognitive resources)
+  - ∂Φ/∂μ (permeable source boundary enabling memory contamination — the μ-structure that should tag experience origins becomes porous; imagination inflation occurs when rehearsal of events raises their felt familiarity to the level of memory)
+  Z_state: permeable
+  z_note: 'Currently :open — false memories can be corrected through source monitoring training and metacognitive awareness, provided belief has not become central to identity and social belonging. Z-Sealing Risk: if the abduction narrative becomes the organizing structure of self, the boundary becomes defended rather than merely permeable.'
+  tendency: permeable/sealed → :open
+  hex:
+  - '#A02C'
+  - '#A028'
+  - '#A029'
 coords:
   ontology:
     primary: I
     secondary: We
   epistemics:
     dsrp:
-      D: "The critical distinction is between what happened in the body and what was interpreted by the mind — sleep paralysis produces physiologically real sensations that are not externally caused, but the experiencer has no reliable internal marker to make this cut"
-      S: "Memory is reconstructive, not reproductive — the system that retrieves experience is the same system that constructs narrative, making source attribution an active inference rather than a simple readout"
-      R: "The relation between high absorption and false memory risk is not causal determinism but conditional vulnerability — the same trait that increases false memory susceptibility also enables deep creative and spiritual engagement"
-      P: "The perspective of the experiencer is locked inside the constructed memory — the construction is invisible, experienced as direct recall rather than active confabulation"
+      D: The critical distinction is between what happened in the body and what was interpreted by the mind — sleep paralysis produces physiologically real sensations that are not externally caused, but the experiencer has no reliable internal marker to make this cut
+      S: Memory is reconstructive, not reproductive — the system that retrieves experience is the same system that constructs narrative, making source attribution an active inference rather than a simple readout
+      R: The relation between high absorption and false memory risk is not causal determinism but conditional vulnerability — the same trait that increases false memory susceptibility also enables deep creative and spiritual engagement
+      P: The perspective of the experiencer is locked inside the constructed memory — the construction is invisible, experienced as direct recall rather than active confabulation
     learning: L1
   agency:
     type: ego
     power_mode: Under
   time:
     mode: event
-    phase: "Stage 1: Ambiguous Experience Occurs (sleep paralysis, hypnagogic state) → Stage 2: Source Monitoring Failure (σ-collapse) → Stage 3: Cultural Narrative Capture (λ) → Stage 4: Emotional Reinforcement (β) → Stage 5: Belief Entrenchment"
+    phase: 'Stage 1: Ambiguous Experience Occurs (sleep paralysis, hypnagogic state) → Stage 2: Source Monitoring Failure (σ-collapse) → Stage 3: Cultural Narrative Capture (λ) → Stage 4: Emotional Reinforcement (β) → Stage 5: Belief Entrenchment'
   qualia:
-    affect: [fear, fascination, significance, meaning, specialness, certainty]
-    aesthetic: [vivid, real, numinous, compelling, hyper-present]
-    symbolic: [The Visitor (ambiguous presence), The Gap (untagged memory), The Chosen One (specialness narrative)]
-    energetic: [high-intensity, emotionally costly, meaning-saturated, dissociation-sustained]
+    affect:
+    - fear
+    - fascination
+    - significance
+    - meaning
+    - specialness
+    - certainty
+    aesthetic:
+    - vivid
+    - real
+    - numinous
+    - compelling
+    - hyper-present
+    symbolic:
+    - The Visitor (ambiguous presence)
+    - The Gap (untagged memory)
+    - The Chosen One (specialness narrative)
+    energetic:
+    - high-intensity
+    - emotionally costly
+    - meaning-saturated
+    - dissociation-sustained
   coherence:
     state: constructed
     loop: closed
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Individual cognitive trait (absorption) interacts with cultural-scale narrative availability — no strong scale dominance
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The cut between internal generation and external experience cannot be reliably made under high absorption — source monitoring is the operator that provides this tag, and it fails specifically in states of deep imaginative engrossment. Air asks: What evidence would distinguish a sleep paralysis hallucination from an actual event?"
-  ≈: "Emotional weight seeks explanation — the intense sensation of presence, immobility, and fear carries resonance that flows toward whichever narrative transforms distress into meaning. Water asks: What emotional need does the abduction narrative fulfill that a neurological explanation cannot?"
-  ▲: "Cultural templates provide the direction before conscious evaluation occurs — the narrative architecture of alien abduction predates individual experience, channeling ambiguous sensation into established scripts. Fire asks: If the cultural template were different, what would the same experience become?"
-  𐂷: "High absorption is not merely a vulnerability — it is the capacity for deep imaginative engagement that enables artistic creation, spiritual experience, and therapeutic trance. Wood asks: What if this trait were cultivated as conscious mythopoesis rather than literalized as memory?"
-  ☷: "Dissociation requires metabolic investment to maintain — managing the boundary between imagination and reality exhausts cognitive resources over time. Earth asks: What grounding practices would reduce the cost of reality monitoring without suppressing the absorptive capacity?"
-  ⛨: "Source monitoring is not merely individual capacity — it requires structural safeguards: protocols distinguishing memory recovery from memory implantation, media literacy education, therapeutic boundaries preventing suggestion from becoming false memory. Metal asks: What structures protect imaginative capacity without pathologizing it?"
-context_note: >-
-  Absorption and False Memory describes how individuals with high trait absorption —
-  the capacity to become deeply engrossed in experiences — are specifically
-  susceptible to source monitoring errors that transform ambiguous events like sleep
-  paralysis into vivid false memories of alien abduction or other extraordinary encounters.
-  The mechanism is not gullibility: memory is reconstructive, and the same cognitive
-  architecture that enables deep imaginative engagement makes reliable source-tagging
-  difficult under conditions of intense experience. Cultural narrative templates provide
-  the ready-made interpretive frame, emotional needs provide the motivation to accept it,
-  and belief reinforcement loops seal the resulting memory against revision. The system
-  remains :open for intervention through metacognitive training, but seals if the belief
-  becomes the organizing structure of identity and social belonging.
+  ∴: 'The cut between internal generation and external experience cannot be reliably made under high absorption — source monitoring is the operator that provides this tag, and it fails specifically in states of deep imaginative engrossment. Air asks: What evidence would distinguish a sleep paralysis hallucination from an actual event?'
+  ≈: 'Emotional weight seeks explanation — the intense sensation of presence, immobility, and fear carries resonance that flows toward whichever narrative transforms distress into meaning. Water asks: What emotional need does the abduction narrative fulfill that a neurological explanation cannot?'
+  ▲: 'Cultural templates provide the direction before conscious evaluation occurs — the narrative architecture of alien abduction predates individual experience, channeling ambiguous sensation into established scripts. Fire asks: If the cultural template were different, what would the same experience become?'
+  𐂷: 'High absorption is not merely a vulnerability — it is the capacity for deep imaginative engagement that enables artistic creation, spiritual experience, and therapeutic trance. Wood asks: What if this trait were cultivated as conscious mythopoesis rather than literalized as memory?'
+  ☷: 'Dissociation requires metabolic investment to maintain — managing the boundary between imagination and reality exhausts cognitive resources over time. Earth asks: What grounding practices would reduce the cost of reality monitoring without suppressing the absorptive capacity?'
+  ⛨: 'Source monitoring is not merely individual capacity — it requires structural safeguards: protocols distinguishing memory recovery from memory implantation, media literacy education, therapeutic boundaries preventing suggestion from becoming false memory. Metal asks: What structures protect imaginative capacity without pathologizing it?'
+context_note: 'Absorption and False Memory describes how individuals with high trait absorption — the capacity to become deeply engrossed in experiences — are specifically susceptible to source monitoring errors that transform ambiguous events like sleep paralysis into vivid false memories of alien abduction or other extraordinary encounters. The mechanism is not gullibility: memory is reconstructive, and the same cognitive architecture that enables deep imaginative engagement makes reliable source-tagging difficult under conditions of intense experience. Cultural narrative templates provide the ready-made interpretive frame, emotional needs provide the motivation to accept it, and belief reinforcement loops seal the resulting memory against revision. The system remains :open for intervention through metacognitive training, but seals if the belief becomes the organizing structure of identity and social belonging.'
 source: Consolidated from 1 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Individual cognitive trait (absorption) interacts with cultural-scale narrative availability — no strong scale dominance"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

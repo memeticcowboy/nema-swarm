@@ -1,10 +1,7 @@
 hex_tag: '#E001'
 term: Gaia (Primordial Earth)
-nemetic: Φ(Gaia) = δγ(primordial|self-generating) ∘ β(autochthonous-birth|Uranus-Ourea-Pontus)
-  ∘ μ(maternal-container|everlasting-foundation) ∘ λ(retaliatory-power|Cronus-sickle-Typhon)
-  + ε | :open
-siml_encoding: ⟨Narrative|cosmogony⟩ ⊳ ⟨Actor|Gaia⟩ ⇄ ⟨Environment|Chaos⟩ → ⟨Value|creative-power⟩
-  ⊗ ⟨Resource|primordial-force⟩ → ⟨Outcome|Olympian-gods⟩
+nemetic: Φ(Gaia) = δγ(primordial|self-generating) ∘ β(autochthonous-birth|Uranus-Ourea-Pontus) ∘ μ(maternal-container|everlasting-foundation) ∘ λ(retaliatory-power|Cronus-sickle-Typhon) + ε | :open
+siml_encoding: ⟨Narrative|cosmogony⟩ ⊳ ⟨Actor|Gaia⟩ ⇄ ⟨Environment|Chaos⟩ → ⟨Value|creative-power⟩ ⊗ ⟨Resource|primordial-force⟩ → ⟨Outcome|Olympian-gods⟩
 formalism:
   math_operators:
   - δγ
@@ -67,6 +64,17 @@ coords:
     - Primordial Mother
     - Creative Void
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
   ∴: How is Gaia distinguished from Chaos? From her offspring?
   ≈: What affective resonance does the maternal archetype carry?
@@ -74,22 +82,66 @@ elemental_emphasis:
   𐂷: What forms emerge from her autochthonous births?
   ☷: How does primordial cycling become creation?
   ⛨: What boundaries contain and protect her creative power?
-context_note: 'Gaia represents Earth as active creator, not passive ground. She generates
-  without union (autochthonous births), then with Uranus (Titans), then against Uranus
-  (retaliation). The pattern: creation → conflict → new creation. This is δγ (metabolic
-  cycling) at cosmogonic scale, with β (exploratory generation) producing diverse
-  offspring.'
+context_note: 'Gaia represents Earth as active creator, not passive ground. She generates without union (autochthonous births), then with Uranus (Titans), then against Uranus (retaliation). The pattern: creation → conflict → new creation. This is δγ (metabolic cycling) at cosmogonic scale, with β (exploratory generation) producing diverse offspring.'
 source: The Elemental and the Ethereal — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "The Elemental and the Ethereal"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.3
+  Water: 0.3
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Fire
+  secondary:
+  - Wood
+  - Earth
+  suppressed:
+  - Air
+  - Water
+  - Meta
+  weights:
+    Air: 0.3
+    Water: 0.3
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

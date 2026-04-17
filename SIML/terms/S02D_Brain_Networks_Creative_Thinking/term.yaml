@@ -1,50 +1,155 @@
 ---
-term: "Brain Networks and Creative Thinking"
-hex_tag: "S02D"
-series: "S"
-source_file: "1771907212484_450691_Brain+Networks+and+Creative+Thinking.md"
-encoded_at: "2026-03-05T19:30:00Z"
-description: "Neuroscientific identification of the brain network crucial for creative idea generation, revealing how the Default Mode Network collaborates with executive control networks to balance spontaneous and controlled thought, with causal evidence from intracranial electrode studies in epilepsy patients."
-nemetic: "Φ(CreativeNet) = σ(spontaneous|controlled) ∘ ρ(DMN|executive) ∘ λ(predictable|original) ∘ β(wandering|creating) ∘ δγ(theta|gamma) ∘ μ(electrode|causal) + ε | :emergence"
-siml_encoding: "⟨spontaneous∣controlled⟩ ⊳ ⟨DMN∣executive⟩ → ⟨predictable∣original⟩ ⊗ ⟨wandering∣creating⟩ ⇄ ⟨theta∣gamma⟩"
+term: Brain Networks and Creative Thinking
+hex_tag: S02D
+series: S
+source_file: 1771907212484_450691_Brain+Networks+and+Creative+Thinking.md
+encoded_at: '2026-03-05T19:30:00Z'
+description: Neuroscientific identification of the brain network crucial for creative idea generation, revealing how the Default Mode Network collaborates with executive control networks to balance spontaneous and controlled thought, with causal evidence from intracranial electrode studies in epilepsy patients.
+nemetic: Φ(CreativeNet) = σ(spontaneous|controlled) ∘ ρ(DMN|executive) ∘ λ(predictable|original) ∘ β(wandering|creating) ∘ δγ(theta|gamma) ∘ μ(electrode|causal) + ε | :emergence
+siml_encoding: ⟨spontaneous∣controlled⟩ ⊳ ⟨DMN∣executive⟩ → ⟨predictable∣original⟩ ⊗ ⟨wandering∣creating⟩ ⇄ ⟨theta∣gamma⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: spontaneous / controlled
+      S: wandering / creating
+      R: DMN / executive
+      P: predictable / original
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing spontaneous thought from controlled deliberate cognition)"
-    - "∂Φ/∂ρ (relating Default Mode Network activity to executive control network collaboration)"
-    - "∂Φ/∂λ (transforming predictable responses into original creative output through DMN engagement)"
-    - "∂Φ/∂β (growing from passive mind-wandering to active creative ideation)"
-    - "∂Φ/∂δγ (cycling between theta and gamma brain wave patterns during creative tasks)"
-    - "∂Φ/∂μ (structuring causal evidence through intracranial electrode methodology in epilepsy patients)"
-  Z_state: "emergence (creativity emerges from the dynamic interplay between spontaneous DMN activation and executive control, neither alone sufficient)"
-  tendency: "σ/ρ → 0.86"
+  - ∂Φ/∂σ (distinguishing spontaneous thought from controlled deliberate cognition)
+  - ∂Φ/∂ρ (relating Default Mode Network activity to executive control network collaboration)
+  - ∂Φ/∂λ (transforming predictable responses into original creative output through DMN engagement)
+  - ∂Φ/∂β (growing from passive mind-wandering to active creative ideation)
+  - ∂Φ/∂δγ (cycling between theta and gamma brain wave patterns during creative tasks)
+  - ∂Φ/∂μ (structuring causal evidence through intracranial electrode methodology in epilepsy patients)
+  Z_state: permeable
+  z_note: emergence (creativity emerges from the dynamic interplay between spontaneous DMN activation and executive control, neither alone sufficient)
+  tendency: σ/ρ → 0.86
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
-    aspects: ["distinguishing spontaneous from controlled thought as fundamental creative axis", "separating correlation from causation in DMN-creativity relationship"]
-    daemon_correspondence: "Aerunik"
+    emphasis: 0.9
+    aspects:
+    - distinguishing spontaneous from controlled thought as fundamental creative axis
+    - separating correlation from causation in DMN-creativity relationship
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.88
-    aspects: ["Default Mode Network relating to executive control networks in collaborative balance", "inter-network connectivity enabling creative flow between generation and evaluation"]
-    daemon_correspondence: "Sentaria"
+    aspects:
+    - Default Mode Network relating to executive control networks in collaborative balance
+    - inter-network connectivity enabling creative flow between generation and evaluation
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.82
-    aspects: ["DMN disruption transforming creative output from original to predictable", "creative tasks as transformative cognitive events distinct from routine thought"]
-    daemon_correspondence: "Jvalion"
+    aspects:
+    - DMN disruption transforming creative output from original to predictable
+    - creative tasks as transformative cognitive events distinct from routine thought
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.72
-    aspects: ["mind-wandering as developmental precursor to structured creative thinking", "creative capacity growing through network maturation and collaboration"]
-    daemon_correspondence: "Arboriel"
+    aspects:
+    - mind-wandering as developmental precursor to structured creative thinking
+    - creative capacity growing through network maturation and collaboration
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
-    aspects: ["theta and gamma brain waves cycling during creative ideation", "oscillation between DMN activation and executive oversight as metabolic creative process"]
-    daemon_correspondence: "Humavita"
+    emphasis: 0.8
+    aspects:
+    - theta and gamma brain waves cycling during creative ideation
+    - oscillation between DMN activation and executive oversight as metabolic creative process
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.78
-    aspects: ["intracranial electrode study providing direct causal structural evidence", "methodological framework moving beyond correlation to causal mechanism in epilepsy patient studies"]
-    daemon_correspondence: "Ferrosid"
-related_terms: ["S02B_Learning_Hardwired_Brain", "S028_Cognitive_Fractals", "S007_Understanding_Human_Mind", "S020_Brain_Constructive_Perception"]
+    aspects:
+    - intracranial electrode study providing direct causal structural evidence
+    - methodological framework moving beyond correlation to causal mechanism in epilepsy patient studies
+    daemon_correspondence: Ferrosid
+related_terms:
+- S02B_Learning_Hardwired_Brain
+- S028_Cognitive_Fractals
+- S007_Understanding_Human_Mind
+- S020_Brain_Constructive_Perception
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.88
+    fire_lambda: 0.82
+    wood_beta: 0.72
+    earth_delta_gamma: 0.8
+    metal_mu: 0.78
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212484_450691_Brain+Networks+and+Creative+Thinking.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

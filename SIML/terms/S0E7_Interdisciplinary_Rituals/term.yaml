@@ -1,32 +1,154 @@
 ---
-term: "Interdisciplinary Rituals"
-hex_tag: "S0E7"
-series: "S"
-source_file: "1771907213173_2182982_Exploring+the+Interdisciplinary+Nature+of+Rituals.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Rituals analyzed through Tinbergen's four questions: evolutionary origins (phylogeny), adaptive functions, psychological mechanisms, developmental processes (ontogeny). Rituals as universal yet diverse. Shaped by cognitive adaptations and cultural inheritance. Exploit cognitive biases, social learning, perceived causality. Functions: regulate emotion, strengthen identity, signal commitment, maintain group cohesion. High-fidelity imitation enables cultural transmission. Causal opacity as feature."
-nemetic: "Φ(Interdisciplinary Rituals) = σ(universal|diverse) ∘ ρ(evolutionary|cultural) ∘ λ(individual_psychology|group_cohesion) ∘ β(ontogenetic_development|phylogenetic_origin) ∘ δγ(transparent_causality|opaque_causality) ∘ μ(rigid_form|adaptive_function) + ε | :ritualized_cultural_transmission"
-siml_encoding: "⟨universal_diverse_distinction, ritual_pattern_awareness⟩ ⊳ ⟨evolutionary_cultural_relational_web, inheritance_network⟩ → ⟨individual_to_group_transformation, cohesion_catalysis⟩ ⊗ ⟨ontogeny_phylogeny_maturation, developmental_evolution⟩ ⇄ ⟨transparent_opaque_causality_cycling, meaning_renewal⟩"
+term: Interdisciplinary Rituals
+hex_tag: S0E7
+series: S
+source_file: 1771907213173_2182982_Exploring+the+Interdisciplinary+Nature+of+Rituals.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Rituals analyzed through Tinbergen''s four questions: evolutionary origins (phylogeny), adaptive functions, psychological mechanisms, developmental processes (ontogeny). Rituals as universal yet diverse. Shaped by cognitive adaptations and cultural inheritance. Exploit cognitive biases, social learning, perceived causality. Functions: regulate emotion, strengthen identity, signal commitment, maintain group cohesion. High-fidelity imitation enables cultural transmission. Causal opacity as feature.'
+nemetic: Φ(Interdisciplinary Rituals) = σ(universal|diverse) ∘ ρ(evolutionary|cultural) ∘ λ(individual_psychology|group_cohesion) ∘ β(ontogenetic_development|phylogenetic_origin) ∘ δγ(transparent_causality|opaque_causality) ∘ μ(rigid_form|adaptive_function) + ε | :ritualized_cultural_transmission
+siml_encoding: ⟨universal_diverse_distinction, ritual_pattern_awareness⟩ ⊳ ⟨evolutionary_cultural_relational_web, inheritance_network⟩ → ⟨individual_to_group_transformation, cohesion_catalysis⟩ ⊗ ⟨ontogeny_phylogeny_maturation, developmental_evolution⟩ ⇄ ⟨transparent_opaque_causality_cycling, meaning_renewal⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: universal / diverse
+      S: ontogenetic_development / phylogenetic_origin
+      R: evolutionary / cultural
+      P: individual_psychology / group_cohesion
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing universal features of ritual behavior from diverse cultural expressions across societies)"
-    - "∂Φ/∂ρ (relating evolutionary biological origins of ritual to cultural inheritance and social learning transmission)"
-    - "∂Φ/∂λ (transforming individual psychological mechanisms into group cohesion through ritual commitment signaling)"
-    - "∂Φ/∂β (growth from ontogenetic developmental acquisition of ritual to phylogenetic evolutionary origins of ritualized behavior)"
-    - "∂Φ/∂δγ (cycling between transparent causal understanding and opaque causality as a functional feature of ritual)"
-    - "∂Φ/∂μ (structural tension between rigid formal ritual elements and adaptive functional purposes they serve)"
-  Z_state: "ritualized_cultural_transmission — rituals enable high-fidelity cultural transmission through causal opacity, cognitive bias exploitation, and commitment signaling, functioning simultaneously as evolutionary adaptations and cultural constructions that regulate emotion, strengthen identity, and maintain group cohesion"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ (distinguishing universal features of ritual behavior from diverse cultural expressions across societies)
+  - ∂Φ/∂ρ (relating evolutionary biological origins of ritual to cultural inheritance and social learning transmission)
+  - ∂Φ/∂λ (transforming individual psychological mechanisms into group cohesion through ritual commitment signaling)
+  - ∂Φ/∂β (growth from ontogenetic developmental acquisition of ritual to phylogenetic evolutionary origins of ritualized behavior)
+  - ∂Φ/∂δγ (cycling between transparent causal understanding and opaque causality as a functional feature of ritual)
+  - ∂Φ/∂μ (structural tension between rigid formal ritual elements and adaptive functional purposes they serve)
+  Z_state: semi
+  z_note: ritualized_cultural_transmission — rituals enable high-fidelity cultural transmission through causal opacity, cognitive bias exploitation, and commitment signaling, functioning simultaneously as evolutionary adaptations and cultural constructions that regulate emotion, strengthen identity, and maintain group cohesion
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["universal_vs_diverse_ritual_distinction", "cross_cultural_pattern_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["evolutionary_cultural_relational_mapping", "dual_inheritance_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["individual_to_group_cohesion_transformation", "commitment_signaling_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["ontogenetic_phylogenetic_developmental_arc", "ritual_acquisition_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["transparent_opaque_causality_cycling", "meaning_opacity_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["rigid_form_vs_adaptive_function_structure", "high_fidelity_imitation_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S014", "S029", "S053"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - universal_vs_diverse_ritual_distinction
+    - cross_cultural_pattern_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - evolutionary_cultural_relational_mapping
+    - dual_inheritance_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - individual_to_group_cohesion_transformation
+    - commitment_signaling_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - ontogenetic_phylogenetic_developmental_arc
+    - ritual_acquisition_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - transparent_opaque_causality_cycling
+    - meaning_opacity_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - rigid_form_vs_adaptive_function_structure
+    - high_fidelity_imitation_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S014
+- S029
+- S053
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213173_2182982_Exploring+the+Interdisciplinary+Nature+of+Rituals.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,155 @@
 ---
-term: "Tree of Thought Oneness Duality"
-hex_tag: "S043"
-series: "S"
-source_file: "1771907212624_755682_Exploring+the+Tree+of+Thought%3A+A+Journey+Through+Oneness+and+Duality.md"
-encoded_at: "2026-03-05T21:00:00Z"
-description: "A framework exploring how oneness and interconnectedness branch into fractal realities and duality. Uses the diamond metaphor of multiple viewpoints to show how diverse perspectives enrich understanding of truth through mystical, philosophical, and scientific lenses."
-nemetic: "Φ(TreeOfThoughtOnenessDuality) = σ(unity|multiplicity) ∘ ρ(oneness|duality) ∘ λ(branching|converging) ∘ β(fractal|holographic) ∘ δγ(perspective|synthesis) ∘ μ(diamond|tree) + ε | :unity_within_opposites"
-siml_encoding: "⟨oneness⟩ ⊳ ⟨fractal branching⟩ → ⟨duality emergence⟩ ⊗ ⟨diamond perspectives⟩ ⇄ ⟨unity within opposites⟩"
+term: Tree of Thought Oneness Duality
+hex_tag: S043
+series: S
+source_file: 1771907212624_755682_Exploring+the+Tree+of+Thought%3A+A+Journey+Through+Oneness+and+Duality.md
+encoded_at: '2026-03-05T21:00:00Z'
+description: A framework exploring how oneness and interconnectedness branch into fractal realities and duality. Uses the diamond metaphor of multiple viewpoints to show how diverse perspectives enrich understanding of truth through mystical, philosophical, and scientific lenses.
+nemetic: Φ(TreeOfThoughtOnenessDuality) = σ(unity|multiplicity) ∘ ρ(oneness|duality) ∘ λ(branching|converging) ∘ β(fractal|holographic) ∘ δγ(perspective|synthesis) ∘ μ(diamond|tree) + ε | :unity_within_opposites
+siml_encoding: ⟨oneness⟩ ⊳ ⟨fractal branching⟩ → ⟨duality emergence⟩ ⊗ ⟨diamond perspectives⟩ ⇄ ⟨unity within opposites⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: unity / multiplicity
+      S: fractal / holographic
+      R: oneness / duality
+      P: branching / converging
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing unity from multiplicity across scales)"
-    - "∂Φ/∂ρ (relational interplay between oneness and duality)"
-    - "∂Φ/∂λ (transformative branching from unity into diverse manifestations)"
-    - "∂Φ/∂β (fractal and holographic growth patterns reflecting whole in parts)"
-    - "∂Φ/∂δγ (cycling between diverse perspectives and synthetic understanding)"
-    - "∂Φ/∂μ (structural metaphors — tree and diamond — organizing the framework)"
-  Z_state: "unity_within_opposites — truth encompasses and transcends all dualistic perspectives through fundamental interconnectedness"
-  tendency: "ρ → 0.82"
+  - ∂Φ/∂σ (distinguishing unity from multiplicity across scales)
+  - ∂Φ/∂ρ (relational interplay between oneness and duality)
+  - ∂Φ/∂λ (transformative branching from unity into diverse manifestations)
+  - ∂Φ/∂β (fractal and holographic growth patterns reflecting whole in parts)
+  - ∂Φ/∂δγ (cycling between diverse perspectives and synthetic understanding)
+  - ∂Φ/∂μ (structural metaphors — tree and diamond — organizing the framework)
+  Z_state: semi
+  z_note: unity_within_opposites — truth encompasses and transcends all dualistic perspectives through fundamental interconnectedness
+  tendency: ρ → 0.82
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["unity vs multiplicity", "one vs many distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.82, aspects: ["oneness and interconnectedness", "relational unity across duality"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.72, aspects: ["branching into fractal realities", "transformative diversification"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["fractal growth patterns", "holographic self-similarity"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["cycling between perspectives", "mystical-philosophical-scientific lenses"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.68, aspects: ["diamond metaphor structure", "tree of thought architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S024_Fractal_Geometry_Hidden_Dimension", "S028_Cognitive_Fractals", "S03E_Subjective_Idealism_Memes_Reality", "S03A_Map_Is_Not_Territory"]
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - unity vs multiplicity
+    - one vs many distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.82
+    aspects:
+    - oneness and interconnectedness
+    - relational unity across duality
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.72
+    aspects:
+    - branching into fractal realities
+    - transformative diversification
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - fractal growth patterns
+    - holographic self-similarity
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - cycling between perspectives
+    - mystical-philosophical-scientific lenses
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.68
+    aspects:
+    - diamond metaphor structure
+    - tree of thought architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S024_Fractal_Geometry_Hidden_Dimension
+- S028_Cognitive_Fractals
+- S03E_Subjective_Idealism_Memes_Reality
+- S03A_Map_Is_Not_Territory
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.82
+    fire_lambda: 0.72
+    wood_beta: 0.75
+    earth_delta_gamma: 0.7
+    metal_mu: 0.68
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212624_755682_Exploring+the+Tree+of+Thought%3A+A+Journey+Through+Oneness+and+Duality.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

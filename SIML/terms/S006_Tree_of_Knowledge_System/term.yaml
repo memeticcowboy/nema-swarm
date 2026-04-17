@@ -1,64 +1,153 @@
 ---
-term: "Tree of Knowledge System"
-hex_tag: "S006"
-series: "S"
-source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
-encoded_at: "2026-03-05T18:15:00Z"
-description: "Gregg Henriques' unified metatheoretical framework organizing human knowledge across psychological domains—biopsychology, cognitive science, developmental psychology, and systems theory—into an integrated tree structure."
-nemetic: "Φ(ToK) = σ(domain|integration) ∘ ρ(discipline|synthesis) ∘ λ(fragmented|unified) ∘ β(branch|trunk) ∘ δγ(bio|psycho) ∘ μ(taxonomy|boundary) + ε | :unifying"
-siml_encoding: "⟨Knowledge|fragmented⟩ ⊳ ⟨Domains|classified⟩ → ⟨Integration|structured⟩ ⊗ ⟨Theory|unified⟩ ⇄ ⟨Understanding|holistic⟩"
+term: Tree of Knowledge System
+hex_tag: S006
+series: S
+source_file: 1771907212352_233771_Tree+of+Knowledge+System.md
+encoded_at: '2026-03-05T18:15:00Z'
+description: Gregg Henriques' unified metatheoretical framework organizing human knowledge across psychological domains—biopsychology, cognitive science, developmental psychology, and systems theory—into an integrated tree structure.
+nemetic: Φ(ToK) = σ(domain|integration) ∘ ρ(discipline|synthesis) ∘ λ(fragmented|unified) ∘ β(branch|trunk) ∘ δγ(bio|psycho) ∘ μ(taxonomy|boundary) + ε | :unifying
+siml_encoding: ⟨Knowledge|fragmented⟩ ⊳ ⟨Domains|classified⟩ → ⟨Integration|structured⟩ ⊗ ⟨Theory|unified⟩ ⇄ ⟨Understanding|holistic⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: domain / integration
+      S: branch / trunk
+      R: discipline / synthesis
+      P: fragmented / unified
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between separate knowledge domains and their meta-integration)"
-    - "∂Φ/∂ρ (relational flow between disciplines enabling cross-domain synthesis)"
-    - "∂Φ/∂λ (transformative direction from fragmented knowledge toward unified framework)"
-    - "∂Φ/∂β (organic branching of knowledge domains from common trunk of understanding)"
-    - "∂Φ/∂δγ (cyclical grounding between biological and psychological levels of analysis)"
-    - "∂Φ/∂μ (taxonomic boundaries organizing knowledge into structured categories)"
-  Z_state: "unifying (knowledge organized into coherent metatheoretical structure)"
-  tendency: "Integration/Coherence → 0.80"
+  - ∂Φ/∂σ (distinction between separate knowledge domains and their meta-integration)
+  - ∂Φ/∂ρ (relational flow between disciplines enabling cross-domain synthesis)
+  - ∂Φ/∂λ (transformative direction from fragmented knowledge toward unified framework)
+  - ∂Φ/∂β (organic branching of knowledge domains from common trunk of understanding)
+  - ∂Φ/∂δγ (cyclical grounding between biological and psychological levels of analysis)
+  - ∂Φ/∂μ (taxonomic boundaries organizing knowledge into structured categories)
+  Z_state: semi
+  z_note: unifying (knowledge organized into coherent metatheoretical structure)
+  tendency: Integration/Coherence → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Classification of distinct psychological domains"
-      - "Meta-distinction between disciplinary knowledge and integrative framework"
-    daemon_correspondence: "Aerunik"
+    - Classification of distinct psychological domains
+    - Meta-distinction between disciplinary knowledge and integrative framework
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.75
     aspects:
-      - "Cross-disciplinary flow connecting biopsychology to systems theory"
-      - "Relational synthesis across knowledge domains"
-    daemon_correspondence: "Sentaria"
+    - Cross-disciplinary flow connecting biopsychology to systems theory
+    - Relational synthesis across knowledge domains
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Transformative direction from fragmented disciplines to unified vision"
-      - "Purpose-driven integration of knowledge"
-    daemon_correspondence: "Jvalion"
+    - Transformative direction from fragmented disciplines to unified vision
+    - Purpose-driven integration of knowledge
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Tree structure: knowledge domains branching from common trunk"
-      - "Organic growth model of accumulated understanding"
-    daemon_correspondence: "Arboriel"
+    - 'Tree structure: knowledge domains branching from common trunk'
+    - Organic growth model of accumulated understanding
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.75
     aspects:
-      - "Grounding in biological foundations of psychology"
-      - "Cyclical return between theory and embodied reality"
-    daemon_correspondence: "Humavita"
+    - Grounding in biological foundations of psychology
+    - Cyclical return between theory and embodied reality
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Taxonomic structure organizing domains into categories"
-      - "Boundary clarity between levels of analysis"
-    daemon_correspondence: "Ferrosid"
+    - Taxonomic structure organizing domains into categories
+    - Boundary clarity between levels of analysis
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "S005_DSRP_Theory_of_Thinking"
-  - "C063_knowledge_learning_wisdom"
+- S005_DSRP_Theory_of_Thinking
+- C063_knowledge_learning_wisdom
 status: canonical
+elemental_signature:
+  dominant:
+  - wood_beta
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.75
+    fire_lambda: 0.7
+    wood_beta: 0.9
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212352_233771_Tree+of+Knowledge+System.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

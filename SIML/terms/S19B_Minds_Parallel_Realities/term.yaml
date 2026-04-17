@@ -1,32 +1,151 @@
 ---
-term: "Mind's Parallel Realities"
-hex_tag: "S19B"
-series: "S"
-source_file: "1771907213709_2610030_Exploring+Mind%27s+Parallel+Realities.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The concept that each thought creates its own unique reality within the mind, resonating with quantum many-worlds interpretation and psychonautic exploration. Consciousness contains overlapping subjective dimensions that interconnect through a collective unconscious."
-nemetic: "Φ(Parallel Realities) = σ(self|multiverse) ∘ ρ(interconnection|alienation) ∘ λ(ordinary|altered_states) ∘ β(exploration|expansion) ∘ δγ(awe|alienation) ∘ μ(subjective|collective) + ε | :psychonautic_branching"
-siml_encoding: "⟨self, multiverse⟩ ⊳ ⟨interconnection, alienation⟩ → ⟨ordinary, altered⟩ ⊗ ⟨exploration, expansion⟩ ⇄ ⟨subjective, collective⟩"
+term: Mind's Parallel Realities
+hex_tag: S19B
+series: S
+source_file: 1771907213709_2610030_Exploring+Mind%27s+Parallel+Realities.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The concept that each thought creates its own unique reality within the mind, resonating with quantum many-worlds interpretation and psychonautic exploration. Consciousness contains overlapping subjective dimensions that interconnect through a collective unconscious.
+nemetic: Φ(Parallel Realities) = σ(self|multiverse) ∘ ρ(interconnection|alienation) ∘ λ(ordinary|altered_states) ∘ β(exploration|expansion) ∘ δγ(awe|alienation) ∘ μ(subjective|collective) + ε | :psychonautic_branching
+siml_encoding: ⟨self, multiverse⟩ ⊳ ⟨interconnection, alienation⟩ → ⟨ordinary, altered⟩ ⊗ ⟨exploration, expansion⟩ ⇄ ⟨subjective, collective⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: self / multiverse
+      S: exploration / expansion
+      R: interconnection / alienation
+      P: ordinary / altered_states
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between unified self and mental multiverse, where each thought potentially branches into its own experiential reality."
-    - "∂Φ/∂ρ — Maps the relational tension between feelings of profound interconnectedness and experiences of alienation during consciousness exploration."
-    - "∂Φ/∂λ — Transforms ordinary perception into altered states through psychedelic or contemplative practices, revealing the multiplicity within consciousness."
-    - "∂Φ/∂β — Tracks the exploratory growth of psychonautic practice, where intentional consciousness exploration expands the range of accessible inner realities."
-    - "∂Φ/∂δγ — Cycles between awe and alienation as emotional responses to encountering the mind's parallel dimensions."
-    - "∂Φ/∂μ — Structures the relationship between subjective individual psyche and the Jungian collective unconscious that connects all minds."
-  Z_state: "psychonautic_branching — the awareness of multiple simultaneous reality-streams within consciousness"
-  tendency: "λ → 0.80"
+  - ∂Φ/∂σ — Distinguishes between unified self and mental multiverse, where each thought potentially branches into its own experiential reality.
+  - ∂Φ/∂ρ — Maps the relational tension between feelings of profound interconnectedness and experiences of alienation during consciousness exploration.
+  - ∂Φ/∂λ — Transforms ordinary perception into altered states through psychedelic or contemplative practices, revealing the multiplicity within consciousness.
+  - ∂Φ/∂β — Tracks the exploratory growth of psychonautic practice, where intentional consciousness exploration expands the range of accessible inner realities.
+  - ∂Φ/∂δγ — Cycles between awe and alienation as emotional responses to encountering the mind's parallel dimensions.
+  - ∂Φ/∂μ — Structures the relationship between subjective individual psyche and the Jungian collective unconscious that connects all minds.
+  Z_state: semi
+  z_note: psychonautic_branching — the awareness of multiple simultaneous reality-streams within consciousness
+  tendency: λ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["self-multiverse distinction", "thought-reality branching"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: ["interconnection-alienation tension", "empathic resonance"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["ordinary to altered states", "psychedelic transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["psychonautic exploration", "consciousness expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.60, aspects: ["awe-alienation cycling", "emotional oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["subjective-collective structure", "Jungian architecture"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - self-multiverse distinction
+    - thought-reality branching
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - interconnection-alienation tension
+    - empathic resonance
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - ordinary to altered states
+    - psychedelic transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - psychonautic exploration
+    - consciousness expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.6
+    aspects:
+    - awe-alienation cycling
+    - emotional oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - subjective-collective structure
+    - Jungian architecture
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.65
+    fire_lambda: 0.8
+    wood_beta: 0.7
+    earth_delta_gamma: 0.6
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213709_2610030_Exploring+Mind%27s+Parallel+Realities.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

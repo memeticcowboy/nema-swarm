@@ -1,101 +1,171 @@
-term_id: "C006"
-hex_tag: "#C006"
-source_term: "Epistemology: Truth, Knowledge, and Belief"
-source_file: "1771907212374_245556_Exploring+Epistemology%3A+Truth%2C+Knowledge%2C+and+Belief.md"
-category: "critical_thinking"
-description: "The philosophical study of the nature, sources, and limits of knowledge, examining the relationship between truth, belief, and justification through personal epistemologies and learning theory frameworks."
-
-nemetic: "Φ(Episteme) = σ(truth|belief) ∘ ρ(knowledge|ignorance) ∘ λ(inquiry|certainty) ∘ β(learning|unlearning) ∘ δγ(reflection|maturation) ∘ μ(justification|fallacy) + ε | :knowing"
-
-siml_encoding: "⟨Belief|held⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Knowledge|justified⟩ ⊗ ⟨Truth|approximated⟩ ⇄ ⟨Understanding|evolving⟩"
-
+---
+term_id: C006
+hex_tag: '#C006'
+source_term: 'Epistemology: Truth, Knowledge, and Belief'
+source_file: 1771907212374_245556_Exploring+Epistemology%3A+Truth%2C+Knowledge%2C+and+Belief.md
+category: critical_thinking
+description: The philosophical study of the nature, sources, and limits of knowledge, examining the relationship between truth, belief, and justification through personal epistemologies and learning theory frameworks.
+nemetic: Φ(Episteme) = σ(truth|belief) ∘ ρ(knowledge|ignorance) ∘ λ(inquiry|certainty) ∘ β(learning|unlearning) ∘ δγ(reflection|maturation) ∘ μ(justification|fallacy) + ε | :knowing
+siml_encoding: ⟨Belief|held⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Knowledge|justified⟩ ⊗ ⟨Truth|approximated⟩ ⇄ ⟨Understanding|evolving⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between truth and belief; categorical separation of justified knowledge from mere opinion)"
-    - "∂Φ/∂ρ (relational flow between knowing and not-knowing; epistemic humility)"
-    - "∂Φ/∂λ (directional drive from inquiry toward certainty or skepticism)"
-    - "∂Φ/∂β (feedback loop between learning new frameworks and unlearning false certainties)"
-    - "∂Φ/∂δγ (cyclical maturation of epistemic beliefs through developmental stages)"
-    - "∂Φ/∂μ (boundary enforcement between justified belief and epistemic fallacy)"
-  Z_state: "porous (open to revision, resistant to dogma)"
-  tendency: "Inquiry/Certainty → 0.6 (moderate preference for questioning over absolute knowing)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between truth and belief; categorical separation of justified knowledge from mere opinion)
+  - ∂Φ/∂ρ (relational flow between knowing and not-knowing; epistemic humility)
+  - ∂Φ/∂λ (directional drive from inquiry toward certainty or skepticism)
+  - ∂Φ/∂β (feedback loop between learning new frameworks and unlearning false certainties)
+  - ∂Φ/∂δγ (cyclical maturation of epistemic beliefs through developmental stages)
+  - ∂Φ/∂μ (boundary enforcement between justified belief and epistemic fallacy)
+  Z_state: permeable
+  z_note: porous (open to revision, resistant to dogma)
+  tendency: Inquiry/Certainty → 0.6 (moderate preference for questioning over absolute knowing)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: individual
+    type: ego
     power_mode: With
-
+  epistemics:
+    dsrp:
+      D: truth / belief
+      S: learning / unlearning
+      R: knowledge / ignorance
+      P: inquiry / certainty
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "categorical distinction between truth and belief"
-      - "logical analysis of justification criteria"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between truth and belief
+    - logical analysis of justification criteria
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "flow between knowing and uncertainty"
-      - "emotional relationship with doubt and conviction"
-    daemon_correspondence: "Sentaria"
+    - flow between knowing and uncertainty
+    - emotional relationship with doubt and conviction
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "drive toward inquiry and truth-seeking"
-      - "transformative potential of challenging assumptions"
-    daemon_correspondence: "Jvalion"
+    - drive toward inquiry and truth-seeking
+    - transformative potential of challenging assumptions
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.65
     aspects:
-      - "organic growth of knowledge structures"
-      - "developmental progression from simple to complex understanding"
-    daemon_correspondence: "Arboriel"
+    - organic growth of knowledge structures
+    - developmental progression from simple to complex understanding
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in evidence and experience"
-      - "cyclical process of reflection and maturation"
-    daemon_correspondence: "Humavita"
+    - grounding in evidence and experience
+    - cyclical process of reflection and maturation
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "structural boundaries of valid justification"
-      - "criteria for distinguishing knowledge from opinion"
-    daemon_correspondence: "Ferrosid"
-
+    - structural boundaries of valid justification
+    - criteria for distinguishing knowledge from opinion
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How is truth distinguished from belief? What cuts separate justified knowledge from mere opinion?"
-  ≈: "What flows between knowing and uncertainty? How does emotional attachment shape epistemic conviction?"
-  ▲: "Where does inquiry want to go? Does questioning serve understanding or endless skepticism?"
-  𐂷: "What forms of knowledge organization haven't been tried? What alternatives to hierarchical knowledge structures exist?"
-  ☷: "What's the metabolic cost of maintaining false certainty? What sustains the capacity for epistemic humility?"
-  ⛨: "What structures contain or enable justified belief? What boundaries separate knowledge from fallacy?"
-
+  ∴: How is truth distinguished from belief? What cuts separate justified knowledge from mere opinion?
+  ≈: What flows between knowing and uncertainty? How does emotional attachment shape epistemic conviction?
+  ▲: Where does inquiry want to go? Does questioning serve understanding or endless skepticism?
+  𐂷: What forms of knowledge organization haven't been tried? What alternatives to hierarchical knowledge structures exist?
+  ☷: What's the metabolic cost of maintaining false certainty? What sustains the capacity for epistemic humility?
+  ⛨: What structures contain or enable justified belief? What boundaries separate knowledge from fallacy?
 related_terms:
-  - "Personal Epistemology"
-  - "Constructivism"
-  - "Critical Thinking"
-  - "Ignorance Map"
-  - "Metacognition"
+- Personal Epistemology
+- Constructivism
+- Critical Thinking
+- Ignorance Map
+- Metacognition
+context_note: 'Epistemology examines fundamental questions about the nature of knowledge: What can we know? How do we know it? What distinguishes justified belief from opinion? The source material explores Schommer''s four dimensions of personal epistemology—control over learning, speed of learning, organization of knowledge, and certainty of knowledge—revealing how individuals develop beliefs about knowledge and learning. Key tensions include objectivism versus subjectivism, innate ability versus developed skill, isolated facts versus integrated understanding, and immutable truth versus relative interpretation. The framework bridges philosophical inquiry with practical learning theory, showing how epistemic beliefs shape educational approaches and cognitive development.'
+timestamp: '2026-03-01T06:03:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.7
+    fire_lambda: 0.75
+    wood_beta: 0.65
+    earth_delta_gamma: 0.85
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212374_245556_Exploring+Epistemology%3A+Truth%2C+Knowledge%2C+and+Belief.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - name_from_dirname
+  audit: SIML_STANDARDIZATION_2026-04-15
+name: epistemology_truth_knowledge_belief
 
-context_note: "Epistemology examines fundamental questions about the nature of knowledge: What can we know? How do we know it? What distinguishes justified belief from opinion? The source material explores Schommer's four dimensions of personal epistemology—control over learning, speed of learning, organization of knowledge, and certainty of knowledge—revealing how individuals develop beliefs about knowledge and learning. Key tensions include objectivism versus subjectivism, innate ability versus developed skill, isolated facts versus integrated understanding, and immutable truth versus relative interpretation. The framework bridges philosophical inquiry with practical learning theory, showing how epistemic beliefs shape educational approaches and cognitive development."
-
-timestamp: "2026-03-01T06:03:00+08:00"
-version: "1.0"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level patterns show higher causal power than individual-level dynamics"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,32 +1,151 @@
 ---
-term: "Yielding Orientation"
-hex_tag: "S1AB"
-series: "S"
-source_file: "1771907213731_2627840_Yielding+Orientation+in+Agency+and+Participation.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The YOU Stack: agency is not asserted or optimized but yielded in enforced sequence -- self, many, field, time. Freedom emerges only when orientation moves through this order; skipping stages produces false coherence and eventual collapse. A shift from identity-driven action to geometry-driven participation."
-nemetic: "Φ(Yielding Orientation) = σ(narrator|sensor) ∘ ρ(self|many) ∘ λ(assertion|yielding) ∘ β(sequence|emergence) ∘ δγ(clear|sustain) ∘ μ(optimization|stewardship) + ε | :enforced_sequence"
-siml_encoding: "⟨narrator, sensor⟩ ⊳ ⟨self, many⟩ → ⟨assertion, yielding⟩ ⊗ ⟨sequence, emergence⟩ ⇄ ⟨optimization, stewardship⟩"
+term: Yielding Orientation
+hex_tag: S1AB
+series: S
+source_file: 1771907213731_2627840_Yielding+Orientation+in+Agency+and+Participation.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'The YOU Stack: agency is not asserted or optimized but yielded in enforced sequence -- self, many, field, time. Freedom emerges only when orientation moves through this order; skipping stages produces false coherence and eventual collapse. A shift from identity-driven action to geometry-driven participation.'
+nemetic: Φ(Yielding Orientation) = σ(narrator|sensor) ∘ ρ(self|many) ∘ λ(assertion|yielding) ∘ β(sequence|emergence) ∘ δγ(clear|sustain) ∘ μ(optimization|stewardship) + ε | :enforced_sequence
+siml_encoding: ⟨narrator, sensor⟩ ⊳ ⟨self, many⟩ → ⟨assertion, yielding⟩ ⊗ ⟨sequence, emergence⟩ ⇄ ⟨optimization, stewardship⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: narrator / sensor
+      S: sequence / emergence
+      R: self / many
+      P: assertion / yielding
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between the self as narrator (identity-driven) and the self as sensor (geometry-driven), demoting the ego from director to instrument."
-    - "∂Φ/∂ρ — Maps the relational movement from self to many to field to time, where each scale is non-substitutable and must be traversed in order."
-    - "∂Φ/∂λ — Transforms assertive agency into yielded orientation, where power is redistributed across scales rather than concentrated in the individual."
-    - "∂Φ/∂β — Tracks the enforced sequence (clear, cohere, listen, sustain) as a growth process, where each stage enables the next without shortcuts."
-    - "∂Φ/∂δγ — Cycles from clearing through coherence to listening to sustaining, with the system self-stabilizing by making misuse legible."
-    - "∂Φ/∂μ — Structures the anti-optimization principle: no shortcuts without collapse signatures, no guru leading from YOU-4 without traversing prior stages."
-  Z_state: "enforced_sequence — agency that can only emerge through sequential yielding across scales"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ — Distinguishes between the self as narrator (identity-driven) and the self as sensor (geometry-driven), demoting the ego from director to instrument.
+  - ∂Φ/∂ρ — Maps the relational movement from self to many to field to time, where each scale is non-substitutable and must be traversed in order.
+  - ∂Φ/∂λ — Transforms assertive agency into yielded orientation, where power is redistributed across scales rather than concentrated in the individual.
+  - ∂Φ/∂β — Tracks the enforced sequence (clear, cohere, listen, sustain) as a growth process, where each stage enables the next without shortcuts.
+  - ∂Φ/∂δγ — Cycles from clearing through coherence to listening to sustaining, with the system self-stabilizing by making misuse legible.
+  - '∂Φ/∂μ — Structures the anti-optimization principle: no shortcuts without collapse signatures, no guru leading from YOU-4 without traversing prior stages.'
+  Z_state: permeable
+  z_note: enforced_sequence — agency that can only emerge through sequential yielding across scales
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["narrator-sensor distinction", "ego demotion"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["self-many-field-time sequence", "scale relations"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["assertion to yielding", "power redistribution"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["sequential growth", "stage-dependent emergence"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["clear-cohere-listen-sustain cycling", "self-stabilizing"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["anti-optimization structure", "collapse signature detection"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - narrator-sensor distinction
+    - ego demotion
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - self-many-field-time sequence
+    - scale relations
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - assertion to yielding
+    - power redistribution
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - sequential growth
+    - stage-dependent emergence
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - clear-cohere-listen-sustain cycling
+    - self-stabilizing
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - anti-optimization structure
+    - collapse signature detection
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - earth_delta_gamma
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.8
+    fire_lambda: 0.7
+    wood_beta: 0.65
+    earth_delta_gamma: 0.75
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213731_2627840_Yielding+Orientation+in+Agency+and+Participation.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,154 @@
 ---
-term: "Ecopsychology"
-hex_tag: "S0E6"
-series: "S"
-source_file: "1771907213173_2182962_Ecopsychology%3A+Healing+Our+Relationship+with+Nature.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Ecopsychology explores emotional and psychological roots of ecological crisis. Denial, repression, despair as barriers to climate action. Human-nature interdependence. 'Ecological self' expanding identity beyond individual. Wilderness therapy and ecotherapy for healing. Building psychological resilience through emotional intelligence, community engagement, spiritual practice. Joanna Macy's work on despair and empowerment."
-nemetic: "Φ(Ecopsychology) = σ(disconnection|interdependence) ∘ ρ(denial|awareness) ∘ λ(individual_self|ecological_self) ∘ β(despair|empowerment) ∘ δγ(human_culture|natural_rhythms) ∘ μ(repression|emotional_resilience) + ε | :ecological_identity_expansion"
-siml_encoding: "⟨disconnection_interdependence_distinction, relational_awareness⟩ ⊳ ⟨denial_awareness_relational_web, ecological_grief_network⟩ → ⟨individual_to_ecological_self_transformation, identity_catalysis⟩ ⊗ ⟨despair_to_empowerment_maturation, resilience_evolution⟩ ⇄ ⟨culture_nature_cycling, biophilic_renewal⟩"
+term: Ecopsychology
+hex_tag: S0E6
+series: S
+source_file: 1771907213173_2182962_Ecopsychology%3A+Healing+Our+Relationship+with+Nature.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Ecopsychology explores emotional and psychological roots of ecological crisis. Denial, repression, despair as barriers to climate action. Human-nature interdependence. 'Ecological self' expanding identity beyond individual. Wilderness therapy and ecotherapy for healing. Building psychological resilience through emotional intelligence, community engagement, spiritual practice. Joanna Macy's work on despair and empowerment.
+nemetic: Φ(Ecopsychology) = σ(disconnection|interdependence) ∘ ρ(denial|awareness) ∘ λ(individual_self|ecological_self) ∘ β(despair|empowerment) ∘ δγ(human_culture|natural_rhythms) ∘ μ(repression|emotional_resilience) + ε | :ecological_identity_expansion
+siml_encoding: ⟨disconnection_interdependence_distinction, relational_awareness⟩ ⊳ ⟨denial_awareness_relational_web, ecological_grief_network⟩ → ⟨individual_to_ecological_self_transformation, identity_catalysis⟩ ⊗ ⟨despair_to_empowerment_maturation, resilience_evolution⟩ ⇄ ⟨culture_nature_cycling, biophilic_renewal⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: disconnection / interdependence
+      S: despair / empowerment
+      R: denial / awareness
+      P: individual_self / ecological_self
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: dyadic
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing human-nature disconnection from fundamental ecological interdependence)"
-    - "∂Φ/∂ρ (relating psychological denial and repression to ecological awareness and emotional honesty about crisis)"
-    - "∂Φ/∂λ (transforming bounded individual self-concept into expanded ecological self that includes the more-than-human world)"
-    - "∂Φ/∂β (growth from ecological despair and paralysis to empowered action through emotional processing and community)"
-    - "∂Φ/∂δγ (cycling between human cultural patterns and natural rhythms as basis for ecological reintegration)"
-    - "∂Φ/∂μ (structural contrast between emotional repression that blocks climate action and emotional resilience that enables it)"
-  Z_state: "ecological_identity_expansion — ecopsychology heals the psychological roots of ecological crisis by expanding identity from bounded individual self to ecological self, processing denial and despair through emotional intelligence, wilderness therapy, and community engagement to restore human-nature interdependence"
-  tendency: "λ → 0.85"
+  - ∂Φ/∂σ (distinguishing human-nature disconnection from fundamental ecological interdependence)
+  - ∂Φ/∂ρ (relating psychological denial and repression to ecological awareness and emotional honesty about crisis)
+  - ∂Φ/∂λ (transforming bounded individual self-concept into expanded ecological self that includes the more-than-human world)
+  - ∂Φ/∂β (growth from ecological despair and paralysis to empowered action through emotional processing and community)
+  - ∂Φ/∂δγ (cycling between human cultural patterns and natural rhythms as basis for ecological reintegration)
+  - ∂Φ/∂μ (structural contrast between emotional repression that blocks climate action and emotional resilience that enables it)
+  Z_state: permeable
+  z_note: ecological_identity_expansion — ecopsychology heals the psychological roots of ecological crisis by expanding identity from bounded individual self to ecological self, processing denial and despair through emotional intelligence, wilderness therapy, and community engagement to restore human-nature interdependence
+  tendency: λ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["disconnection_vs_interdependence_distinction", "human_nature_relational_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["denial_awareness_relational_mapping", "ecological_grief_processing_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["individual_to_ecological_self_transformation", "identity_expansion_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["despair_to_empowerment_growth", "psychological_resilience_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["culture_nature_rhythm_cycling", "biophilic_reintegration_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["repression_vs_resilience_structural_tension", "ecotherapy_wilderness_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S055", "S0CF", "S06B"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - disconnection_vs_interdependence_distinction
+    - human_nature_relational_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - denial_awareness_relational_mapping
+    - ecological_grief_processing_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - individual_to_ecological_self_transformation
+    - identity_expansion_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - despair_to_empowerment_growth
+    - psychological_resilience_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - culture_nature_rhythm_cycling
+    - biophilic_reintegration_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - repression_vs_resilience_structural_tension
+    - ecotherapy_wilderness_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S055
+- S0CF
+- S06B
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213173_2182962_Ecopsychology%3A+Healing+Our+Relationship+with+Nature.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

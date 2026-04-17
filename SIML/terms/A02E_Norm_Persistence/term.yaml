@@ -2,89 +2,145 @@ term_id: A02E
 hex_tag: '#A02E'
 name: norm_persistence
 term: Norm Persistence
-nemetic: >-
-  Φ(NormPersist) = σ(normal|deviant)
-               ∘ ρ(reinforcement|social)
-               ∘ λ(inertia|institutional)
-               ∘ β(entrenchment|feedback)
-               ∘ δγ(comfort|familiarity)
-               ∘ μ(boundary|policed)
-               + ε | :structuring
-siml_encoding: >-
-  ⟨Norm|communication⟩
-      ⊳ ⟨Repetition|reinforced⟩
-      → ⟨Pattern|entrenched⟩
-      ⊗ ⟨Deviation|sanctioned⟩
-      ⇄ ⟨Change|resisted⟩
+nemetic: "Φ(NormPersist) = σ(normal|deviant)\n             ∘ ρ(reinforcement|social)\n             ∘ λ(inertia|institutional)\n             ∘ β(entrenchment|feedback)\n             ∘ δγ(comfort|familiarity)\n             ∘ μ(boundary|policed)\n             + ε | :structuring"
+siml_encoding: "⟨Norm|communication⟩\n    ⊳ ⟨Repetition|reinforced⟩\n    → ⟨Pattern|entrenched⟩\n    ⊗ ⟨Deviation|sanctioned⟩\n    ⇄ ⟨Change|resisted⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between normal and deviant discourse — the cut appears neutral but is actively constructed; what is outside the acceptable is not debated and rejected, it is simply not generated as a thinkable option)"
-    - "∂Φ/∂ρ (social reinforcement as the relational mechanism of perpetuation — observational learning transmits norms through influential figures; the fear of isolation drives self-censorship in the spiral of silence, making conformity feel like consensus)"
-    - "∂Φ/∂λ (institutional inertia as directional force — path dependency means organizations favor stability over reorientation; what has been normal accretes into what must be normal, as historical choices constrain future possibilities)"
-    - "∂Φ/∂β (entrenchment feedback loop — repetition integrates specific narratives into public discourse; once normalized, patterns become invisible and self-reinforcing without requiring explicit enforcement)"
-    - "∂Φ/∂δγ (metabolic comfort of familiarity — cognitive ease from familiar patterns reduces the cost of conformity; anchoring heuristics make new ideas appear extreme by contrast, raising the energy barrier to frame shifts)"
-    - "∂Φ/∂μ (policed boundary through sanctions on deviation — tight cultures penalize deviance harshly; media gatekeeping and electoral incentives combine to keep actors within the Overton Window, not through compulsion but through the cost of crossing the line)"
-  Z_state: "Tendency toward sealing — norms become invisible, assumed as natural order rather than constructed pattern. The constructed nature of 'normal' disappears. Z-Closure Risk: λ-lock of institutional inertia — change appears impossible and deviance unthinkable, requiring crisis events to break the seal."
-  tendency: "stability/change → :structuring"
-  hex: ['#A02E', '#A037', '#A042']
+  - ∂Φ/∂σ (distinction between normal and deviant discourse — the cut appears neutral but is actively constructed; what is outside the acceptable is not debated and rejected, it is simply not generated as a thinkable option)
+  - ∂Φ/∂ρ (social reinforcement as the relational mechanism of perpetuation — observational learning transmits norms through influential figures; the fear of isolation drives self-censorship in the spiral of silence, making conformity feel like consensus)
+  - ∂Φ/∂λ (institutional inertia as directional force — path dependency means organizations favor stability over reorientation; what has been normal accretes into what must be normal, as historical choices constrain future possibilities)
+  - ∂Φ/∂β (entrenchment feedback loop — repetition integrates specific narratives into public discourse; once normalized, patterns become invisible and self-reinforcing without requiring explicit enforcement)
+  - ∂Φ/∂δγ (metabolic comfort of familiarity — cognitive ease from familiar patterns reduces the cost of conformity; anchoring heuristics make new ideas appear extreme by contrast, raising the energy barrier to frame shifts)
+  - ∂Φ/∂μ (policed boundary through sanctions on deviation — tight cultures penalize deviance harshly; media gatekeeping and electoral incentives combine to keep actors within the Overton Window, not through compulsion but through the cost of crossing the line)
+  Z_state: semi
+  z_note: 'Tendency toward sealing — norms become invisible, assumed as natural order rather than constructed pattern. The constructed nature of ''normal'' disappears. Z-Closure Risk: λ-lock of institutional inertia — change appears impossible and deviance unthinkable, requiring crisis events to break the seal.'
+  tendency: stability/change → :structuring
+  hex:
+  - '#A02E'
+  - '#A037'
+  - '#A042'
 coords:
   ontology:
     primary: We
     secondary: Its
   epistemics:
     dsrp:
-      D: "The distinction between normal and deviant communication is constructed through repetition and enforcement, not discovered in nature — yet it feels inevitable because the construction process itself is invisible to participants inside the norm"
-      S: "Norm systems are closed and self-referential — they reproduce through media framing, social learning, institutional processes, and the spiral of silence, which collectively prevent alternative framings from reaching the threshold of seriousness"
-      R: "The relational mechanism of norm persistence is social fear — the fear of isolation drives self-censorship, which amplifies dominant narratives by silencing minority views, creating the false impression of consensus where there is only acquiescence"
-      P: "The perspective of any participant is already inside the norm — its boundaries are experienced as the limits of the reasonable rather than as contingent historical artifacts; the frame is transparent to those within it"
+      D: The distinction between normal and deviant communication is constructed through repetition and enforcement, not discovered in nature — yet it feels inevitable because the construction process itself is invisible to participants inside the norm
+      S: Norm systems are closed and self-referential — they reproduce through media framing, social learning, institutional processes, and the spiral of silence, which collectively prevent alternative framings from reaching the threshold of seriousness
+      R: The relational mechanism of norm persistence is social fear — the fear of isolation drives self-censorship, which amplifies dominant narratives by silencing minority views, creating the false impression of consensus where there is only acquiescence
+      P: The perspective of any participant is already inside the norm — its boundaries are experienced as the limits of the reasonable rather than as contingent historical artifacts; the frame is transparent to those within it
     learning: L0
   agency:
     type: collective
     power_mode: Over
   time:
     mode: recurring
-    phase: "Stage 1: Norm Established Through Repetition (β) → Stage 2: Social Reinforcement Spreads Pattern (ρ) → Stage 3: Institutional Inertia Locks Direction (λ) → Stage 4: Spiral of Silence Amplifies Dominance → Stage 5: Norm Becomes Invisible Natural Order (Z-seal)"
+    phase: 'Stage 1: Norm Established Through Repetition (β) → Stage 2: Social Reinforcement Spreads Pattern (ρ) → Stage 3: Institutional Inertia Locks Direction (λ) → Stage 4: Spiral of Silence Amplifies Dominance → Stage 5: Norm Becomes Invisible Natural Order (Z-seal)'
   qualia:
-    affect: [comfort, familiarity, safety, unease at deviation, fear of isolation]
-    aesthetic: [smooth, frictionless for conformists; jarring, risky, costly for deviants]
-    symbolic: [The Window (range of the sayable), The Wall (what sanctions mark as beyond), The Current (the unremarkable flow of convention)]
-    energetic: [metabolically cheap for conformists, exhausting for deviants, costly to shift at scale]
+    affect:
+    - comfort
+    - familiarity
+    - safety
+    - unease at deviation
+    - fear of isolation
+    aesthetic:
+    - smooth
+    - frictionless for conformists; jarring
+    - risky
+    - costly for deviants
+    symbolic:
+    - The Window (range of the sayable)
+    - The Wall (what sanctions mark as beyond)
+    - The Current (the unremarkable flow of convention)
+    energetic:
+    - metabolically cheap for conformists
+    - exhausting for deviants
+    - costly to shift at scale
   coherence:
     state: rigid
     loop: closed
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level norm behavior is not reducible to individual conformity decisions — emergent properties arise at the system scale
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The cut between normal and deviant discourse appears natural but is actively maintained — what is outside the norm is not rejected after deliberation but never generated as a thinkable option. Air asks: Where is the actual edge of 'normal'? What evidence would reveal the construction?"
-  ≈: "The spiral of silence operates through emotional contagion — deviance feels dangerous because it disconnects from the collective flow, making self-censorship feel like prudence rather than suppression. Water asks: Is your sense of what is acceptable a judgment, or an echo of your need to belong to the dominant current?"
-  ▲: "Institutional inertia carries a directional force toward stability — incremental change within existing Overton Window boundaries is preferred because crossing those boundaries extracts social and professional costs. Fire asks: Where does the energy of necessary change want to flow if released from the path of least resistance?"
-  𐂷: "Historical norm shifts — abolition, suffrage, marriage equality — demonstrate that today's deviance becomes tomorrow's common sense; the branch of the possible extends further than current boundaries suggest. Wood asks: What forms of discourse, currently sanctioned as fringe, contain seeds of necessary future norms?"
-  ☷: "Norm maintenance extracts metabolic costs from all participants — conformists expend energy performing loyalty; deviants expend more sustaining dissent; the system itself consumes resources in enforcement. Earth asks: What cognitive and social resources would be freed if norms became permeable to revision?"
-  ⛨: "Media gatekeeping, legal codification, organizational inertia, and cultural tightness all encode structural enforcement of norm boundaries — the architecture is not neutral. Metal asks: What structures would enable discourse limits permeable enough for necessary adaptation without dissolving into noise?"
-context_note: >-
-  Norm Persistence describes how communication patterns become entrenched through
-  the mutually reinforcing interplay of repetition, social reinforcement, institutional
-  inertia, and the spiral of silence — a system that presents its constructed limits as
-  natural order. The crucial insight is that norm persistence is not a bug but a feature:
-  it enables coordination, reduces decision costs, and provides cognitive comfort, yet
-  when norms seal and become invisible, they prevent necessary adaptation. Tight cultures
-  penalize deviance harshly, and anchoring heuristics make new ideas appear extreme by
-  comparison, together raising the energy threshold for any frame shift. Intervention
-  requires making the construction visible — strategic framing that aligns new ideas with
-  existing values, crisis catalysts that redefine what is necessary, and grassroots
-  mobilization that shifts the window from below. In AI systems, models trained on
-  historical text risk becoming active participants in norm enforcement, presenting
-  existing discourse patterns as neutral while amplifying dominant frames.
+  ∴: 'The cut between normal and deviant discourse appears natural but is actively maintained — what is outside the norm is not rejected after deliberation but never generated as a thinkable option. Air asks: Where is the actual edge of ''normal''? What evidence would reveal the construction?'
+  ≈: 'The spiral of silence operates through emotional contagion — deviance feels dangerous because it disconnects from the collective flow, making self-censorship feel like prudence rather than suppression. Water asks: Is your sense of what is acceptable a judgment, or an echo of your need to belong to the dominant current?'
+  ▲: 'Institutional inertia carries a directional force toward stability — incremental change within existing Overton Window boundaries is preferred because crossing those boundaries extracts social and professional costs. Fire asks: Where does the energy of necessary change want to flow if released from the path of least resistance?'
+  𐂷: 'Historical norm shifts — abolition, suffrage, marriage equality — demonstrate that today''s deviance becomes tomorrow''s common sense; the branch of the possible extends further than current boundaries suggest. Wood asks: What forms of discourse, currently sanctioned as fringe, contain seeds of necessary future norms?'
+  ☷: 'Norm maintenance extracts metabolic costs from all participants — conformists expend energy performing loyalty; deviants expend more sustaining dissent; the system itself consumes resources in enforcement. Earth asks: What cognitive and social resources would be freed if norms became permeable to revision?'
+  ⛨: 'Media gatekeeping, legal codification, organizational inertia, and cultural tightness all encode structural enforcement of norm boundaries — the architecture is not neutral. Metal asks: What structures would enable discourse limits permeable enough for necessary adaptation without dissolving into noise?'
+context_note: 'Norm Persistence describes how communication patterns become entrenched through the mutually reinforcing interplay of repetition, social reinforcement, institutional inertia, and the spiral of silence — a system that presents its constructed limits as natural order. The crucial insight is that norm persistence is not a bug but a feature: it enables coordination, reduces decision costs, and provides cognitive comfort, yet when norms seal and become invisible, they prevent necessary adaptation. Tight cultures penalize deviance harshly, and anchoring heuristics make new ideas appear extreme by comparison, together raising the energy threshold for any frame shift. Intervention requires making the construction visible — strategic framing that aligns new ideas with existing values, crisis catalysts that redefine what is necessary, and grassroots mobilization that shifts the window from below. In AI systems, models trained on historical text risk becoming active participants in norm enforcement, presenting existing discourse patterns as neutral while amplifying dominant frames.'
 source: Consolidated from 2 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Collective-level norm behavior is not reducible to individual conformity decisions — emergent properties arise at the system scale"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

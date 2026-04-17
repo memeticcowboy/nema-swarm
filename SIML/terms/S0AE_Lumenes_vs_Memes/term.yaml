@@ -1,32 +1,155 @@
 ---
-term: "Lumenes vs Memes"
-hex_tag: "S0AE"
-series: "S"
-source_file: "1771907213004_1922933_.md"
-encoded_at: "2026-03-06T03:30:00Z"
-description: "Lumenes as meaning units distinct from memes — non-replicative (unfolding uniquely in each experience rather than spreading by repetition), non-dualistic (bypassing conventional distinctions like belief vs disbelief to foster holistic understanding), transcognitive (directly experienced, bypassing rational thought, resonating at perceptual and emotional levels), fractal and holographic (each lumene containing infinite depth of meaning, continuously revealing layers over time); memes trigger thought and discourse while lumenes inspire awe, silence, and deep internal resonance; memes offer answers while lumenes offer keys unlocking new perceptions; lumene manifestations include synchronicity, sacred symbols and archetypes, art/music/poetry as felt experience, and stillness/silence yielding direct insight; in storytelling: genes as world DNA, memes as cognitive scripts, lumenes as emotional resonance shifting audience perception at intuitive levels."
-nemetic: "Φ(Lumenes vs Memes) = σ(replicative_meme|non_replicative_lumene) ∘ ρ(discourse_triggering|awe_resonance_communion) ∘ λ(cognitive_answer|perceptual_key_unlocking) ∘ β(surface_ideological_spread|infinite_depth_unfolding) ∘ δγ(memetic_replication_cycles|lumenic_revelation_layers) ∘ μ(memetic_discourse_structure|gene_meme_lumene_triadic_framework) + ε | :transcognitive_meaning_beyond_replication"
-siml_encoding: "⟨meme_lumene_distinction, replicative_nonreplicative_boundary⟩ ⊳ ⟨discourse_resonance_relation, awe_communion_coupling⟩ → ⟨answer_to_key_transformation, perceptual_unlocking_catalysis⟩ ⊗ ⟨surface_to_depth_growth, fractal_holographic_unfolding⟩ ⇄ ⟨replication_revelation_cycling, lumenic_layer_iteration⟩"
+term: Lumenes vs Memes
+hex_tag: S0AE
+series: S
+source_file: 1771907213004_1922933_.md
+encoded_at: '2026-03-06T03:30:00Z'
+description: 'Lumenes as meaning units distinct from memes — non-replicative (unfolding uniquely in each experience rather than spreading by repetition), non-dualistic (bypassing conventional distinctions like belief vs disbelief to foster holistic understanding), transcognitive (directly experienced, bypassing rational thought, resonating at perceptual and emotional levels), fractal and holographic (each lumene containing infinite depth of meaning, continuously revealing layers over time); memes trigger thought and discourse while lumenes inspire awe, silence, and deep internal resonance; memes offer answers while lumenes offer keys unlocking new perceptions; lumene manifestations include synchronicity, sacred symbols and archetypes, art/music/poetry as felt experience, and stillness/silence yielding direct insight; in storytelling: genes as world DNA, memes as cognitive scripts, lumenes as emotional resonance shifting audience perception at intuitive levels.'
+nemetic: Φ(Lumenes vs Memes) = σ(replicative_meme|non_replicative_lumene) ∘ ρ(discourse_triggering|awe_resonance_communion) ∘ λ(cognitive_answer|perceptual_key_unlocking) ∘ β(surface_ideological_spread|infinite_depth_unfolding) ∘ δγ(memetic_replication_cycles|lumenic_revelation_layers) ∘ μ(memetic_discourse_structure|gene_meme_lumene_triadic_framework) + ε | :transcognitive_meaning_beyond_replication
+siml_encoding: ⟨meme_lumene_distinction, replicative_nonreplicative_boundary⟩ ⊳ ⟨discourse_resonance_relation, awe_communion_coupling⟩ → ⟨answer_to_key_transformation, perceptual_unlocking_catalysis⟩ ⊗ ⟨surface_to_depth_growth, fractal_holographic_unfolding⟩ ⇄ ⟨replication_revelation_cycling, lumenic_layer_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: replicative_meme / non_replicative_lumene
+      S: surface_ideological_spread / infinite_depth_unfolding
+      R: discourse_triggering / awe_resonance_communion
+      P: cognitive_answer / perceptual_key_unlocking
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing replicative memes — units of cultural information that spread through repetition, imitation, and transmission, triggering thought and discourse, offering answers and shaping intellectual engagement — from non-replicative lumenes — meaning units that do not spread by repetition but unfold uniquely in each experience, bypassing conventional distinctions and rational thought to resonate directly at perceptual and emotional levels)"
-    - "∂Φ/∂ρ (relating through awe, resonance, and communion rather than discourse and thought-triggering — memes create relationships through shared ideas, arguments, and intellectual engagement; lumenes create relationships through shared felt experience, deep internal resonance, silence, and the kind of awe that transcends verbal articulation; lumenic relation is communion rather than communication)"
-    - "∂Φ/∂λ (transforming cognitive answers into perceptual keys — memes provide answers (ideologies, motifs, frameworks) that shape how people think about the world; lumenes provide keys that unlock new perceptions and realities, shifting awareness at deeper, more intuitive levels; the transformation is from knowing to perceiving, from understanding to direct experience)"
-    - "∂Φ/∂β (growth from surface ideological spread — where memes replicate across minds with relatively consistent content, spreading as cognitive scripts — to infinite depth unfolding — where each lumene contains fractal and holographic depth, continuously revealing new layers of meaning over time; lumenic growth is vertical rather than horizontal, deepening rather than spreading)"
-    - "∂Φ/∂δγ (cycling between memetic replication cycles — where memes reproduce, mutate, and compete through discourse and cultural transmission — and lumenic revelation layers — where lumenes manifest through synchronicity, sacred symbols, art/music/poetry, and stillness, each encounter revealing new facets of infinite meaning without repeating the same content)"
-    - "∂Φ/∂μ (the triadic structural framework of genes, memes, and lumenes — genes as world DNA (foundational narrative structures and systemic rules), memes as cognitive scripts (ideologies and motifs shaping intellectual engagement), and lumenes as emotional resonance (felt experiences, emotional depth, and transformative qualities embedded within narratives that shift audience perception at intuitive levels); this three-layer structure provides a comprehensive architecture for understanding how meaning operates at biological, cognitive, and transcognitive levels)"
-  Z_state: "transcognitive_meaning_beyond_replication — lumenes represent a category of meaning that operates beyond the cognitive-replicative logic of memes; where memes trigger thought and discourse, lumenes inspire awe, silence, and deep internal resonance; where memes offer answers, lumenes offer keys unlocking new perceptions; lumenes are non-replicative (unfolding uniquely in each experience), non-dualistic (bypassing belief/disbelief distinctions), transcognitive (directly experienced beyond rational processing), and fractal/holographic (containing infinite depth continuously revealing new layers); the Z-state emerges when the gene-meme-lumene triad is understood as a complete framework for meaning: genes provide the structural DNA of systems and narratives, memes provide the cognitive scripts that shape intellectual engagement, and lumenes provide the felt, transformative resonance that shifts perception at the deepest level; synchronicity, sacred symbols, profound art, and stillness are all manifestations of lumenic experience"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing replicative memes — units of cultural information that spread through repetition, imitation, and transmission, triggering thought and discourse, offering answers and shaping intellectual engagement — from non-replicative lumenes — meaning units that do not spread by repetition but unfold uniquely in each experience, bypassing conventional distinctions and rational thought to resonate directly at perceptual and emotional levels)
+  - ∂Φ/∂ρ (relating through awe, resonance, and communion rather than discourse and thought-triggering — memes create relationships through shared ideas, arguments, and intellectual engagement; lumenes create relationships through shared felt experience, deep internal resonance, silence, and the kind of awe that transcends verbal articulation; lumenic relation is communion rather than communication)
+  - ∂Φ/∂λ (transforming cognitive answers into perceptual keys — memes provide answers (ideologies, motifs, frameworks) that shape how people think about the world; lumenes provide keys that unlock new perceptions and realities, shifting awareness at deeper, more intuitive levels; the transformation is from knowing to perceiving, from understanding to direct experience)
+  - ∂Φ/∂β (growth from surface ideological spread — where memes replicate across minds with relatively consistent content, spreading as cognitive scripts — to infinite depth unfolding — where each lumene contains fractal and holographic depth, continuously revealing new layers of meaning over time; lumenic growth is vertical rather than horizontal, deepening rather than spreading)
+  - ∂Φ/∂δγ (cycling between memetic replication cycles — where memes reproduce, mutate, and compete through discourse and cultural transmission — and lumenic revelation layers — where lumenes manifest through synchronicity, sacred symbols, art/music/poetry, and stillness, each encounter revealing new facets of infinite meaning without repeating the same content)
+  - ∂Φ/∂μ (the triadic structural framework of genes, memes, and lumenes — genes as world DNA (foundational narrative structures and systemic rules), memes as cognitive scripts (ideologies and motifs shaping intellectual engagement), and lumenes as emotional resonance (felt experiences, emotional depth, and transformative qualities embedded within narratives that shift audience perception at intuitive levels); this three-layer structure provides a comprehensive architecture for understanding how meaning operates at biological, cognitive, and transcognitive levels)
+  Z_state: semi
+  z_note: 'transcognitive_meaning_beyond_replication — lumenes represent a category of meaning that operates beyond the cognitive-replicative logic of memes; where memes trigger thought and discourse, lumenes inspire awe, silence, and deep internal resonance; where memes offer answers, lumenes offer keys unlocking new perceptions; lumenes are non-replicative (unfolding uniquely in each experience), non-dualistic (bypassing belief/disbelief distinctions), transcognitive (directly experienced beyond rational processing), and fractal/holographic (containing infinite depth continuously revealing new layers); the Z-state emerges when the gene-meme-lumene triad is understood as a complete framework for meaning: genes provide the structural DNA of systems and narratives, memes provide the cognitive scripts that shape intellectual engagement, and lumenes provide the felt, transformative resonance that shifts perception at the deepest level; synchronicity, sacred symbols, profound art, and stillness are all manifestations of lumenic experience'
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["meme_lumene_distinction", "replicative_nonreplicative_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["discourse_vs_awe_resonance", "communion_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["answer_to_key_transformation", "perceptual_unlocking_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["surface_to_depth_growth", "fractal_holographic_unfolding"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["replication_revelation_cycling", "lumenic_layer_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["gene_meme_lumene_triadic_structure", "meaning_level_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S00F", "S045", "S055", "S046"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - meme_lumene_distinction
+    - replicative_nonreplicative_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - discourse_vs_awe_resonance
+    - communion_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - answer_to_key_transformation
+    - perceptual_unlocking_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - surface_to_depth_growth
+    - fractal_holographic_unfolding
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - replication_revelation_cycling
+    - lumenic_layer_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - gene_meme_lumene_triadic_structure
+    - meaning_level_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00F
+- S045
+- S055
+- S046
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213004_1922933_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

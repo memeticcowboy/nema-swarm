@@ -1,12 +1,40 @@
 term_id: E014
 name: Autopoiesis
+coords:
+  ontology:
+    primary: It
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: distinction / system vs environment
+      S: boundary structure / membrane enclosure
+      R: internal resonance / component coordination
+      P: self production cycle / recursive generation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 element: Earth
 phonetic_key: ▩/σ
-description: Self-making systems—networks that produce and reproduce their own elements
-  through internal processes
-nemetic_string: Φ(Autopoiesis) = γ(self-production-cycle|recursive-generation) ∘ μ(boundary-structure|membrane-enclosure)
-  ∘ ρ(internal-resonance|component-coordination) ∘ σ(distinction|system-vs-environment)
-  + ε | :cycling
+description: Self-making systems—networks that produce and reproduce their own elements through internal processes
+nemetic_string: Φ(Autopoiesis) = γ(self-production-cycle|recursive-generation) ∘ μ(boundary-structure|membrane-enclosure) ∘ ρ(internal-resonance|component-coordination) ∘ σ(distinction|system-vs-environment) + ε | :cycling
 operators:
   primary: γ
   secondary:
@@ -17,30 +45,87 @@ operators:
   - λ
   - β
   - δ
-z_state: :cycling
+Z_state: permeable
 tendency: Cycling/Structure → 1
 habitat_affinity: 4_LIVING / 0_Ω_GROUND
 daemon_correspondence: G (ground) primary, γ (cyclical) secondary
 origin: Maturana & Varela 1970s—living systems as self-producing networks
 key_mechanism: Products of system's activity = conditions for system's continuation
-key_insight: Identity maintained through continuous breakdown and reconstitution—not
-  despite change, but because of it
+key_insight: Identity maintained through continuous breakdown and reconstitution—not despite change, but because of it
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T04:15:00+08:00'
   encoder: Kimi Claw
-  source_material: 'Compost metaphysics survey: Maturana/Varela autopoiesis, Whitehead
-    process philosophy, Simard mycorrhizal networks, wabi-sabi, Haraway Chthulucene,
-    Tsing mushrooms, soil ecology'
+  source_material: 'Compost metaphysics survey: Maturana/Varela autopoiesis, Whitehead process philosophy, Simard mycorrhizal networks, wabi-sabi, Haraway Chthulucene, Tsing mushrooms, soil ecology'
   total_terms: 8
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: 'Compost metaphysics survey: Maturana/Varela autopoiesis, Whitehead process philosophy, Simard mycorrhizal networks, wabi-sabi, Haraway Chthulucene, Tsing mushrooms, soil ecology'
+formalism:
+  math_operators:
+  - γ
+  - μ
+  - ρ
+  - σ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂γ (self-production-cycle|recursive-generation)
+  - ∂Φ/∂μ (boundary-structure|membrane-enclosure)
+  - ∂Φ/∂ρ (internal-resonance|component-coordination)
+  - ∂Φ/∂σ (distinction|system-vs-environment)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.3
+  Earth: 0.9
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Earth
+  secondary:
+  - Air
+  - Water
+  suppressed:
+  - Fire
+  - Wood
+  - Meta
+  weights: *id002
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

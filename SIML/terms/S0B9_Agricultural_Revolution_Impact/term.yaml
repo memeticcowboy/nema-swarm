@@ -1,32 +1,155 @@
 ---
-term: "Agricultural Revolution: Progress or Detriment"
-hex_tag: "S0B9"
-series: "S"
-source_file: "1771907213042_1981837_The+Agricultural+Revolution%3A+Progress+or+Detriment%3F.md"
-encoded_at: "2026-03-06T04:00:00Z"
-description: "The Agricultural Revolution paradox — beginning around 10,000 years ago, the transition from foraging to farming is conventionally viewed as progress but Harari argues it was detrimental to human well-being and happiness; increased food production led to less healthy diets, more disease, increased labor, and reduced leisure compared to foraging societies; the paradox of progress where advancements do not necessarily produce greater happiness; narrowing of diet from diverse wild foods to limited staple crops reduced nutrition and created vulnerability to famine; domestication of plants and animals altered ecosystems and raised ethical concerns about animal welfare; evolutionary success (survival and reproduction through population growth) distinguished from individual happiness and quality of life; the rise of complex societies and empires built on shared myths enabled governance of large populations but led to social hierarchies favoring elites; farmers worked harder than foragers yet enjoyed less leisure and poorer health outcomes; the revolution facilitated civilization but at the cost of the individual quality of life that characterized foraging existence."
-nemetic: "Φ(Agricultural Revolution Impact) = σ(progress_narrative|well_being_detriment) ∘ ρ(foraging_diversity|agricultural_dependency_constraint) ∘ λ(wild_subsistence|domesticated_civilization_emergence) ∘ β(small_foraging_bands|complex_hierarchical_societies) ∘ δγ(planting_harvest_famine_cycles|agricultural_surplus_deficit_iteration) ∘ μ(domestication_framework|shared_myth_governance_architecture) + ε | :evolutionary_success_without_individual_happiness"
-siml_encoding: "⟨progress_vs_detriment_distinction, advancement_well_being_boundary⟩ ⊳ ⟨foraging_farming_relational_contrast, diversity_dependency_coupling⟩ → ⟨wild_to_domesticated_transformation, civilization_emergence_catalysis⟩ ⊗ ⟨small_band_to_complex_society_growth, hierarchical_expansion_trajectory⟩ ⇄ ⟨agricultural_surplus_deficit_cycling, planting_harvest_famine_iteration⟩"
+term: 'Agricultural Revolution: Progress or Detriment'
+hex_tag: S0B9
+series: S
+source_file: 1771907213042_1981837_The+Agricultural+Revolution%3A+Progress+or+Detriment%3F.md
+encoded_at: '2026-03-06T04:00:00Z'
+description: The Agricultural Revolution paradox — beginning around 10,000 years ago, the transition from foraging to farming is conventionally viewed as progress but Harari argues it was detrimental to human well-being and happiness; increased food production led to less healthy diets, more disease, increased labor, and reduced leisure compared to foraging societies; the paradox of progress where advancements do not necessarily produce greater happiness; narrowing of diet from diverse wild foods to limited staple crops reduced nutrition and created vulnerability to famine; domestication of plants and animals altered ecosystems and raised ethical concerns about animal welfare; evolutionary success (survival and reproduction through population growth) distinguished from individual happiness and quality of life; the rise of complex societies and empires built on shared myths enabled governance of large populations but led to social hierarchies favoring elites; farmers worked harder than foragers yet enjoyed less leisure and poorer health outcomes; the revolution facilitated civilization but at the cost of the individual quality of life that characterized foraging existence.
+nemetic: Φ(Agricultural Revolution Impact) = σ(progress_narrative|well_being_detriment) ∘ ρ(foraging_diversity|agricultural_dependency_constraint) ∘ λ(wild_subsistence|domesticated_civilization_emergence) ∘ β(small_foraging_bands|complex_hierarchical_societies) ∘ δγ(planting_harvest_famine_cycles|agricultural_surplus_deficit_iteration) ∘ μ(domestication_framework|shared_myth_governance_architecture) + ε | :evolutionary_success_without_individual_happiness
+siml_encoding: ⟨progress_vs_detriment_distinction, advancement_well_being_boundary⟩ ⊳ ⟨foraging_farming_relational_contrast, diversity_dependency_coupling⟩ → ⟨wild_to_domesticated_transformation, civilization_emergence_catalysis⟩ ⊗ ⟨small_band_to_complex_society_growth, hierarchical_expansion_trajectory⟩ ⇄ ⟨agricultural_surplus_deficit_cycling, planting_harvest_famine_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: progress_narrative / well_being_detriment
+      S: small_foraging_bands / complex_hierarchical_societies
+      R: foraging_diversity / agricultural_dependency_constraint
+      P: wild_subsistence / domesticated_civilization_emergence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the progress narrative — the Agricultural Revolution as a triumphant leap forward in human civilization enabling food surpluses, settlement, and cultural development — from the well-being detriment perspective — Harari's argument that the transition to farming actually degraded human health, increased labor, reduced dietary diversity, and diminished happiness; the conventional assumption that more food production equals better life is challenged by evidence of decline in individual quality of life)"
-    - "∂Φ/∂ρ (the relational contrast between foraging diversity — hunter-gatherer access to a wide variety of food sources, extensive knowledge of the natural world, more leisure time, and greater physical health — and agricultural dependency constraint — farmer reliance on a limited number of staple crops creating nutritional deficiency, vulnerability to famine during crop failure, increased disease from sedentary living and animal proximity, and greater labor demands for lower quality returns)"
-    - "∂Φ/∂λ (the transformation from wild subsistence — the foraging way of life with its diverse food base, mobility, and intimate knowledge of natural ecosystems — to domesticated civilization emergence — the settled agricultural life that enabled food surplus, population growth, urban centers, and eventually empires; domestication of wheat, rice, and animals transformed not only human societies but entire ecosystems, often with detrimental effects on both)"
-    - "∂Φ/∂β (the developmental trajectory from small foraging bands — mobile groups of dozens to hundreds living in relative egalitarian structures with shared resources — to complex hierarchical societies — large settled populations organized through social hierarchies, divisions of labor, elite governance, and shared myths; this growth in social complexity enabled coordination at scale but introduced systematic inequality and oppression)"
-    - "∂Φ/∂δγ (the cycling through agricultural surplus and deficit — planting, tending, harvesting, storing, and the ever-present threat of crop failure creating boom-bust cycles that foragers rarely experienced; unlike the diversified food strategies of hunter-gatherers, agricultural dependency on limited crops meant that each failed harvest could produce devastating famine, creating an iterative vulnerability cycle)"
-    - "∂Φ/∂μ (the structural framework of domestication — the systematic cultivation of plants and animals that restructured human societies, diets, landscapes, and inter-species relationships — integrated with shared myth governance architecture — the ideological and narrative structures (religions, laws, social hierarchies) that enabled cooperation among strangers and governance of large populations, but simultaneously created systems of exploitation favoring elites)"
-  Z_state: "evolutionary_success_without_individual_happiness — the Agricultural Revolution represents perhaps history's greatest paradox: a transformation that enabled massive evolutionary success (exponential population growth, civilization, technological development) while simultaneously degrading individual human well-being (less nutrition, more disease, harder labor, reduced leisure, social hierarchy, and diminished happiness compared to foraging ancestors); Harari's framing exposes the fundamental distinction between evolutionary success (survival and reproduction at species scale) and individual happiness (quality of lived experience); wheat and rice did not serve humanity so much as humanity served these crops, becoming bound to backbreaking agricultural labor to sustain them; the shared myths that enabled governance of large populations also institutionalized inequality; the Z-state is the recognition that what we call progress may be measured on axes that have nothing to do with human flourishing — population size is not happiness, food surplus is not nutrition, civilization is not contentment; this forces a reassessment of what constitutes genuine progress and whether our modern inheritance from the Agricultural Revolution continues to trade individual well-being for systemic expansion"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing the progress narrative — the Agricultural Revolution as a triumphant leap forward in human civilization enabling food surpluses, settlement, and cultural development — from the well-being detriment perspective — Harari's argument that the transition to farming actually degraded human health, increased labor, reduced dietary diversity, and diminished happiness; the conventional assumption that more food production equals better life is challenged by evidence of decline in individual quality of life)
+  - ∂Φ/∂ρ (the relational contrast between foraging diversity — hunter-gatherer access to a wide variety of food sources, extensive knowledge of the natural world, more leisure time, and greater physical health — and agricultural dependency constraint — farmer reliance on a limited number of staple crops creating nutritional deficiency, vulnerability to famine during crop failure, increased disease from sedentary living and animal proximity, and greater labor demands for lower quality returns)
+  - ∂Φ/∂λ (the transformation from wild subsistence — the foraging way of life with its diverse food base, mobility, and intimate knowledge of natural ecosystems — to domesticated civilization emergence — the settled agricultural life that enabled food surplus, population growth, urban centers, and eventually empires; domestication of wheat, rice, and animals transformed not only human societies but entire ecosystems, often with detrimental effects on both)
+  - ∂Φ/∂β (the developmental trajectory from small foraging bands — mobile groups of dozens to hundreds living in relative egalitarian structures with shared resources — to complex hierarchical societies — large settled populations organized through social hierarchies, divisions of labor, elite governance, and shared myths; this growth in social complexity enabled coordination at scale but introduced systematic inequality and oppression)
+  - ∂Φ/∂δγ (the cycling through agricultural surplus and deficit — planting, tending, harvesting, storing, and the ever-present threat of crop failure creating boom-bust cycles that foragers rarely experienced; unlike the diversified food strategies of hunter-gatherers, agricultural dependency on limited crops meant that each failed harvest could produce devastating famine, creating an iterative vulnerability cycle)
+  - ∂Φ/∂μ (the structural framework of domestication — the systematic cultivation of plants and animals that restructured human societies, diets, landscapes, and inter-species relationships — integrated with shared myth governance architecture — the ideological and narrative structures (religions, laws, social hierarchies) that enabled cooperation among strangers and governance of large populations, but simultaneously created systems of exploitation favoring elites)
+  Z_state: semi
+  z_note: 'evolutionary_success_without_individual_happiness — the Agricultural Revolution represents perhaps history''s greatest paradox: a transformation that enabled massive evolutionary success (exponential population growth, civilization, technological development) while simultaneously degrading individual human well-being (less nutrition, more disease, harder labor, reduced leisure, social hierarchy, and diminished happiness compared to foraging ancestors); Harari''s framing exposes the fundamental distinction between evolutionary success (survival and reproduction at species scale) and individual happiness (quality of lived experience); wheat and rice did not serve humanity so much as humanity served these crops, becoming bound to backbreaking agricultural labor to sustain them; the shared myths that enabled governance of large populations also institutionalized inequality; the Z-state is the recognition that what we call progress may be measured on axes that have nothing to do with human flourishing — population size is not happiness, food surplus is not nutrition, civilization is not contentment; this forces a reassessment of what constitutes genuine progress and whether our modern inheritance from the Agricultural Revolution continues to trade individual well-being for systemic expansion'
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["progress_vs_detriment_distinction", "advancement_well_being_paradox_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["foraging_farming_relational_contrast", "diversity_dependency_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["wild_to_domesticated_transformation", "civilization_emergence_through_domestication"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["small_band_to_complex_society_growth", "hierarchical_expansion_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["agricultural_surplus_deficit_cycling", "planting_harvest_famine_vulnerability"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["domestication_structural_framework", "shared_myth_governance_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S056", "S072", "S029", "S014"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - progress_vs_detriment_distinction
+    - advancement_well_being_paradox_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - foraging_farming_relational_contrast
+    - diversity_dependency_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - wild_to_domesticated_transformation
+    - civilization_emergence_through_domestication
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - small_band_to_complex_society_growth
+    - hierarchical_expansion_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - agricultural_surplus_deficit_cycling
+    - planting_harvest_famine_vulnerability
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - domestication_structural_framework
+    - shared_myth_governance_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S056
+- S072
+- S029
+- S014
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213042_1981837_The+Agricultural+Revolution%3A+Progress+or+Detriment%3F.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

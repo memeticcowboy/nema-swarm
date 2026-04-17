@@ -1,65 +1,154 @@
 ---
-term: "System 1 and System 2 Thinking"
-hex_tag: "S002"
-series: "S"
-source_file: "1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md"
-encoded_at: "2026-03-05T18:10:00Z"
-description: "Kahneman's dual process theory distinguishing fast intuitive thinking (System 1) from slow deliberate analysis (System 2), with parallels to fast-twitch and slow-twitch muscle fiber types."
-nemetic: "Φ(DualProcess) = σ(intuitive|analytical) ∘ ρ(automatic|deliberate) ∘ λ(bias|correction) ∘ β(heuristic|reasoning) ∘ δγ(fast|slow) ∘ μ(efficiency|accuracy) + ε | :balancing"
-siml_encoding: "⟨Cognition|dual⟩ ⊳ ⟨System1|fast⟩ → ⟨System2|slow⟩ ⊗ ⟨Decision|balanced⟩ ⇄ ⟨Performance|integrated⟩"
+term: System 1 and System 2 Thinking
+hex_tag: S002
+series: S
+source_file: 1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md
+encoded_at: '2026-03-05T18:10:00Z'
+description: Kahneman's dual process theory distinguishing fast intuitive thinking (System 1) from slow deliberate analysis (System 2), with parallels to fast-twitch and slow-twitch muscle fiber types.
+nemetic: Φ(DualProcess) = σ(intuitive|analytical) ∘ ρ(automatic|deliberate) ∘ λ(bias|correction) ∘ β(heuristic|reasoning) ∘ δγ(fast|slow) ∘ μ(efficiency|accuracy) + ε | :balancing
+siml_encoding: ⟨Cognition|dual⟩ ⊳ ⟨System1|fast⟩ → ⟨System2|slow⟩ ⊗ ⟨Decision|balanced⟩ ⇄ ⟨Performance|integrated⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: intuitive / analytical
+      S: heuristic / reasoning
+      R: automatic / deliberate
+      P: bias / correction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (categorical distinction between intuitive and analytical processing; the fundamental cognitive divide)"
-    - "∂Φ/∂ρ (relational flow between automatic and deliberate mental operations; the channel connecting fast response to careful evaluation)"
-    - "∂Φ/∂λ (transformative moment when bias recognition triggers correction; the spark of metacognitive awareness)"
-    - "∂Φ/∂β (developmental feedback between heuristic shortcuts and full reasoning; the growth from reflex to reflection)"
-    - "∂Φ/∂δγ (cyclical oscillation between fast and slow processing; the metabolic rhythm of cognitive effort)"
-    - "∂Φ/∂μ (boundary between efficiency and accuracy; the structural threshold where speed trades with precision)"
-  Z_state: "balancing (integration of both processing modes for optimal cognitive performance)"
-  tendency: "Balance/Integration → 0.75"
+  - ∂Φ/∂σ (categorical distinction between intuitive and analytical processing; the fundamental cognitive divide)
+  - ∂Φ/∂ρ (relational flow between automatic and deliberate mental operations; the channel connecting fast response to careful evaluation)
+  - ∂Φ/∂λ (transformative moment when bias recognition triggers correction; the spark of metacognitive awareness)
+  - ∂Φ/∂β (developmental feedback between heuristic shortcuts and full reasoning; the growth from reflex to reflection)
+  - ∂Φ/∂δγ (cyclical oscillation between fast and slow processing; the metabolic rhythm of cognitive effort)
+  - ∂Φ/∂μ (boundary between efficiency and accuracy; the structural threshold where speed trades with precision)
+  Z_state: semi
+  z_note: balancing (integration of both processing modes for optimal cognitive performance)
+  tendency: Balance/Integration → 0.75
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "Fundamental distinction between System 1 and System 2 processing"
-      - "Classification of cognitive operations as automatic or controlled"
-    daemon_correspondence: "Aerunik"
+    - Fundamental distinction between System 1 and System 2 processing
+    - Classification of cognitive operations as automatic or controlled
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.65
     aspects:
-      - "Flow between intuitive and analytical processing"
-      - "Relational dynamics of cognitive switching"
-    daemon_correspondence: "Sentaria"
+    - Flow between intuitive and analytical processing
+    - Relational dynamics of cognitive switching
+    daemon_correspondence: Sentaria
   fire_lambda:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Transformative moment of bias recognition"
-      - "Directed shift from automatic to deliberate thinking"
-    daemon_correspondence: "Jvalion"
+    - Transformative moment of bias recognition
+    - Directed shift from automatic to deliberate thinking
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.75
     aspects:
-      - "Growth of heuristic repertoire through experience"
-      - "Developmental feedback between intuition and analysis"
-    daemon_correspondence: "Arboriel"
+    - Growth of heuristic repertoire through experience
+    - Developmental feedback between intuition and analysis
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Metabolic rhythm of fast and slow cognitive cycles"
-      - "Grounding in embodied analogy of muscle fiber types"
-    daemon_correspondence: "Humavita"
+    - Metabolic rhythm of fast and slow cognitive cycles
+    - Grounding in embodied analogy of muscle fiber types
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Structural boundary between efficiency and accuracy"
-      - "Decision threshold for engaging System 2"
-    daemon_correspondence: "Ferrosid"
+    - Structural boundary between efficiency and accuracy
+    - Decision threshold for engaging System 2
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "C052_heuristics_and_biases"
-  - "A057_Confirmation_Bias"
-  - "L030_Metacognition"
+- C052_heuristics_and_biases
+- A057_Confirmation_Bias
+- L030_Metacognition
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.65
+    fire_lambda: 0.7
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212331_227833_Understanding+System+1+and+System+2+Thinking.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

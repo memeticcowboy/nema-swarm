@@ -2,107 +2,152 @@ term_id: C164
 hex_tag: '#C164'
 name: gateway_process_reincarnation
 term: Gateway Process Reincarnation
-nemetic: >-
-  Φ(GatewayProcess) = σ(consciousness|matter) ∘ ρ(memory|dissolution) ∘
-  λ(expansion|contraction) ∘ β(continuity|termination) ∘
-  δγ(grounding|dissociation) ∘ μ(discipline|chaos) + ε | :open
-siml_encoding: >-
-  ⟨Consciousness|energy⟩ ⊳ ⟨HemiSync|technique⟩ ⇄ ⟨Memory|persistent⟩ ⊗
-  ⟨Reincarnation|evidenced⟩ ⊳ ⟨MilitaryResearch|classified⟩
+nemetic: Φ(GatewayProcess) = σ(consciousness|matter) ∘ ρ(memory|dissolution) ∘ λ(expansion|contraction) ∘ β(continuity|termination) ∘ δγ(grounding|dissociation) ∘ μ(discipline|chaos) + ε | :open
+siml_encoding: ⟨Consciousness|energy⟩ ⊳ ⟨HemiSync|technique⟩ ⇄ ⟨Memory|persistent⟩ ⊗ ⟨Reincarnation|evidenced⟩ ⊳ ⟨MilitaryResearch|classified⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (consciousness-matter distinction boundary)"
-    - "∂Φ/∂ρ (memory persistence across lifetimes)"
-    - "∂Φ/∂λ (expansion of awareness beyond physical limits)"
-    - "∂Φ/∂β (continuity of consciousness beyond death)"
-    - "∂Φ/∂δγ (grounding techniques for altered states)"
-    - "∂Φ/∂μ (disciplined methodology for non-ordinary access)"
+  - ∂Φ/∂σ (consciousness-matter distinction boundary)
+  - ∂Φ/∂ρ (memory persistence across lifetimes)
+  - ∂Φ/∂λ (expansion of awareness beyond physical limits)
+  - ∂Φ/∂β (continuity of consciousness beyond death)
+  - ∂Φ/∂δγ (grounding techniques for altered states)
+  - ∂Φ/∂μ (disciplined methodology for non-ordinary access)
   Z_state: permeable
-  tendency: "Consciousness/Matter → 0.85"
+  tendency: Consciousness/Matter → 0.85
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - MoreThanHuman
-      - It
+    - MoreThanHuman
+    - It
   epistemics:
     dsrp:
-      D: "Consciousness-as-energy vs consciousness-as-brain-process"
-      S: "Gateway Process techniques within Monroe Institute framework"
-      R: "Energy transfer → memory persistence → reincarnation evidence"
-      P: "Military intelligence, consciousness researcher, experiencer"
+      D: Consciousness-as-energy vs consciousness-as-brain-process
+      S: Gateway Process techniques within Monroe Institute framework
+      R: Energy transfer → memory persistence → reincarnation evidence
+      P: Military intelligence, consciousness researcher, experiencer
     learning: L2
   time:
     mode: cyclical
-    phase: "rebirth across lifetimes"
+    phase: rebirth across lifetimes
   qualia:
     affect:
-      - awe
-      - transcendence
-      - curiosity
+    - awe
+    - transcendence
+    - curiosity
     aesthetic:
-      - expansive
-      - liminal
-      - classified
+    - expansive
+    - liminal
+    - classified
     symbolic:
-      - gateway
-      - hemi-sync
-      - missing-page
+    - gateway
+    - hemi-sync
+    - missing-page
     energetic:
-      - transcendent
-      - persistent
-      - disciplined
+    - transcendent
+    - persistent
+    - disciplined
   agency:
     type: ego
     voice:
-      - Expanded Consciousness
-      - Remote Viewer
+    - Expanded Consciousness
+    - Remote Viewer
     power_mode: Through
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How does consciousness survive physical death as energy?"
-  ≈: "What memories flow across the boundary between lifetimes?"
-  ▲: "What transformation occurs when awareness expands beyond the body?"
-  𐂷: "How do continuity patterns persist through cycles of incarnation?"
-  ☷: "What grounding techniques anchor expanded awareness safely?"
-  ⛨: "What disciplined protocols govern access to non-ordinary states?"
-context_note: >-
-  A declassified U.S. Army study by Lt. Col. Wayne M. McDonnell proposes
-  consciousness operates as energy that does not die, carrying memories across
-  lifetimes. The Gateway Process, developed by the Monroe Institute, uses
-  hemi-sync and meditation techniques to expand awareness beyond physical and
-  temporal limits, with applications in Cold War psychic intelligence.
-source: "McDonnell, W. M. (1983). Analysis and Assessment of Gateway Process — via earth.com"
+  ∴: How does consciousness survive physical death as energy?
+  ≈: What memories flow across the boundary between lifetimes?
+  ▲: What transformation occurs when awareness expands beyond the body?
+  𐂷: How do continuity patterns persist through cycles of incarnation?
+  ☷: What grounding techniques anchor expanded awareness safely?
+  ⛨: What disciplined protocols govern access to non-ordinary states?
+context_note: A declassified U.S. Army study by Lt. Col. Wayne M. McDonnell proposes consciousness operates as energy that does not die, carrying memories across lifetimes. The Gateway Process, developed by the Monroe Institute, uses hemi-sync and meditation techniques to expand awareness beyond physical and temporal limits, with applications in Cold War psychic intelligence.
+source: McDonnell, W. M. (1983). Analysis and Assessment of Gateway Process — via earth.com
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "W. M. McDonnell"
+  work: "Analysis and Assessment of Gateway Process (1983)"
+  source_domain: "military/consciousness"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

@@ -2,74 +2,145 @@ term_id: C16B
 hex_tag: '#C16B'
 name: Cognitive_Laziness_LLM_Education
 term: Cognitive Laziness LLM Education
-nemetic: >-
-  Φ(CognitiveLaziness) = σ(hybrid_intelligence|replacement) ∘
-  ρ(scaffolding|offloading) ∘ λ(engagement|atrophy) ∘
-  β(metacognition|dependence) ∘ δγ(critical_thinking|complacency) ∘
-  μ(educational_design|default) + ε | :open
-siml_encoding: >-
-  ⟨LLM|tool⟩ ⊳ ⟨Cognition|scaffolded⟩ ⇄ ⟨Metacognition|developing⟩ ⊗
-  ⟨Offloading|atrophying⟩ → ⟨HybridIntelligence|symbiotic⟩
+nemetic: Φ(CognitiveLaziness) = σ(hybrid_intelligence|replacement) ∘ ρ(scaffolding|offloading) ∘ λ(engagement|atrophy) ∘ β(metacognition|dependence) ∘ δγ(critical_thinking|complacency) ∘ μ(educational_design|default) + ε | :open
+siml_encoding: ⟨LLM|tool⟩ ⊳ ⟨Cognition|scaffolded⟩ ⇄ ⟨Metacognition|developing⟩ ⊗ ⟨Offloading|atrophying⟩ → ⟨HybridIntelligence|symbiotic⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between AI as cognitive partner vs. cognitive substitute)"
-    - "∂Φ/∂ρ (relational continuum between educational scaffolding and cognitive offloading)"
-    - "∂Φ/∂λ (transformative tension between active cognitive engagement and passive atrophy)"
-    - "∂Φ/∂β (organic growth of metacognitive self-awareness vs. AI dependence)"
-    - "∂Φ/∂δγ (grounding of critical thinking against sedimentary complacency)"
-    - "∂Φ/∂μ (structural framework of intentional educational design vs. default implementation)"
+  - ∂Φ/∂σ (distinction between AI as cognitive partner vs. cognitive substitute)
+  - ∂Φ/∂ρ (relational continuum between educational scaffolding and cognitive offloading)
+  - ∂Φ/∂λ (transformative tension between active cognitive engagement and passive atrophy)
+  - ∂Φ/∂β (organic growth of metacognitive self-awareness vs. AI dependence)
+  - ∂Φ/∂δγ (grounding of critical thinking against sedimentary complacency)
+  - ∂Φ/∂μ (structural framework of intentional educational design vs. default implementation)
   Z_state: semi
-  tendency: "Engagement/Offloading → 0.55"
-  hex: ['0x01', '0x6B']
+  tendency: Engagement/Offloading → 0.55
+  hex:
+  - '0x01'
+  - '0x6B'
 coords:
   ontology:
     primary: I
-    secondary: [It, We]
+    secondary:
+    - It
+    - We
   epistemics:
     dsrp:
-      D: "Hybrid intelligence vs. cognitive replacement"
-      S: "Educational ecosystem of human-AI cognitive interaction"
-      R: "AI tool → scaffolding/offloading → metacognition/atrophy → learning outcome"
-      P: "Student, educator, cognitive scientist, educational designer"
+      D: Hybrid intelligence vs. cognitive replacement
+      S: Educational ecosystem of human-AI cognitive interaction
+      R: AI tool → scaffolding/offloading → metacognition/atrophy → learning outcome
+      P: Student, educator, cognitive scientist, educational designer
     learning: L2
   time:
     mode: anticipatory
-    phase: "vigilant monitoring — ongoing calibration of human-AI collaboration"
+    phase: vigilant monitoring — ongoing calibration of human-AI collaboration
   qualia:
-    affect: [concern, alertness, responsibility]
-    aesthetic: [paradoxical, seductive, cautionary]
-    symbolic: [scaffold, crutch, mirror]
-    energetic: [attentive, guarded, calibrating]
+    affect:
+    - concern
+    - alertness
+    - responsibility
+    aesthetic:
+    - paradoxical
+    - seductive
+    - cautionary
+    symbolic:
+    - scaffold
+    - crutch
+    - mirror
+    energetic:
+    - attentive
+    - guarded
+    - calibrating
   agency:
     type: collective
-    voice: [The Vigilant Educator, The Developing Mind]
+    voice:
+    - The Vigilant Educator
+    - The Developing Mind
     power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How do we distinguish AI as cognitive partner from AI as cognitive substitute?"
-  ≈: "What flows between learner and AI that either scaffolds or offloads thinking?"
-  ▲: "What engagement is lost when the productive struggle of learning is removed?"
-  𐂷: "How does metacognitive self-awareness grow when AI handles cognitive labor?"
-  ☷: "What grounds critical thinking against the complacency of unexamined AI output?"
-  ⛨: "What structural boundaries in educational design preserve cognitive development?"
-context_note: >-
-  The phenomenon wherein reliance on LLMs in education enhances short-term
-  performance while fostering metacognitive laziness — the erosion of critical
-  thinking and deep cognitive engagement. This creates a paradox where efficient
-  AI tools supplant rather than scaffold human intellectual development, demanding
-  hybrid intelligence frameworks.
-source: "Psychology Today / Grok synthesis; 1771907212862_1615265_.md"
+  ∴: How do we distinguish AI as cognitive partner from AI as cognitive substitute?
+  ≈: What flows between learner and AI that either scaffolds or offloads thinking?
+  ▲: What engagement is lost when the productive struggle of learning is removed?
+  𐂷: How does metacognitive self-awareness grow when AI handles cognitive labor?
+  ☷: What grounds critical thinking against the complacency of unexamined AI output?
+  ⛨: What structural boundaries in educational design preserve cognitive development?
+context_note: The phenomenon wherein reliance on LLMs in education enhances short-term performance while fostering metacognitive laziness — the erosion of critical thinking and deep cognitive engagement. This creates a paradox where efficient AI tools supplant rather than scaffold human intellectual development, demanding hybrid intelligence frameworks.
+source: Psychology Today / Grok synthesis; 1771907212862_1615265_.md
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

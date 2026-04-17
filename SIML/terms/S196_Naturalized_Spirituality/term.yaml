@@ -1,32 +1,151 @@
 ---
-term: "Naturalized Spirituality"
-hex_tag: "S196"
-series: "S"
-source_file: "1771907213700_2606972_Exploring+Naturalized+Spirituality%3A+A+Contemporary+Perspective.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "A framework that grounds spiritual experience in naturalistic terms, drawing moral action from gratitude, joy, mourning, and rage rather than supernatural belief. Advocates an ironic spirituality that simultaneously recognizes human limits and celebrates resilience."
-nemetic: "Φ(Naturalized Spirituality) = σ(sacred|secular) ∘ ρ(gratitude|rage) ∘ λ(supernatural|naturalized) ∘ β(resilience|transformation) ∘ δγ(irony|commitment) ∘ μ(religious_language|lived_experience) + ε | :ironic_reverence"
-siml_encoding: "⟨sacred, secular⟩ ⊳ ⟨gratitude, rage⟩ → ⟨supernatural, naturalized⟩ ⊗ ⟨resilience, transformation⟩ ⇄ ⟨language, experience⟩"
+term: Naturalized Spirituality
+hex_tag: S196
+series: S
+source_file: 1771907213700_2606972_Exploring+Naturalized+Spirituality%3A+A+Contemporary+Perspective.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: A framework that grounds spiritual experience in naturalistic terms, drawing moral action from gratitude, joy, mourning, and rage rather than supernatural belief. Advocates an ironic spirituality that simultaneously recognizes human limits and celebrates resilience.
+nemetic: Φ(Naturalized Spirituality) = σ(sacred|secular) ∘ ρ(gratitude|rage) ∘ λ(supernatural|naturalized) ∘ β(resilience|transformation) ∘ δγ(irony|commitment) ∘ μ(religious_language|lived_experience) + ε | :ironic_reverence
+siml_encoding: ⟨sacred, secular⟩ ⊳ ⟨gratitude, rage⟩ → ⟨supernatural, naturalized⟩ ⊗ ⟨resilience, transformation⟩ ⇄ ⟨language, experience⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: sacred / secular
+      S: resilience / transformation
+      R: gratitude / rage
+      P: supernatural / naturalized
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between sacred and secular without collapsing either, redefining sacredness as events of overriding importance rather than supernatural intervention."
-    - "∂Φ/∂ρ — Maps the relational wellspring of moral action in gratitude, joy, mourning, and rage, showing how emotional bonds generate ethical commitment."
-    - "∂Φ/∂λ — Transforms supernatural spirituality into naturalized forms, where scientific understanding enriches rather than replaces reverence and wonder."
-    - "∂Φ/∂β — Tracks resilience and transformation as growth processes emerging from the affirmation of life despite suffering, mortality, and moral failure."
-    - "∂Φ/∂δγ — Cycles between irony and commitment as dual postures, being simultaneously suspicious and celebrative without contradiction."
-    - "∂Φ/∂μ — Structures the tension between traditional religious language and lived experience, adapting words like 'sacred' to carry emotional weight without supernatural connotation."
-  Z_state: "ironic_reverence — holding spiritual commitment and epistemological skepticism simultaneously"
-  tendency: "δγ → 0.80"
+  - ∂Φ/∂σ — Distinguishes between sacred and secular without collapsing either, redefining sacredness as events of overriding importance rather than supernatural intervention.
+  - ∂Φ/∂ρ — Maps the relational wellspring of moral action in gratitude, joy, mourning, and rage, showing how emotional bonds generate ethical commitment.
+  - ∂Φ/∂λ — Transforms supernatural spirituality into naturalized forms, where scientific understanding enriches rather than replaces reverence and wonder.
+  - ∂Φ/∂β — Tracks resilience and transformation as growth processes emerging from the affirmation of life despite suffering, mortality, and moral failure.
+  - ∂Φ/∂δγ — Cycles between irony and commitment as dual postures, being simultaneously suspicious and celebrative without contradiction.
+  - ∂Φ/∂μ — Structures the tension between traditional religious language and lived experience, adapting words like 'sacred' to carry emotional weight without supernatural connotation.
+  Z_state: semi
+  z_note: ironic_reverence — holding spiritual commitment and epistemological skepticism simultaneously
+  tendency: δγ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.65, aspects: ["sacred-secular distinction", "redefined sacredness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.75, aspects: ["emotional wellspring", "gratitude-rage dynamics"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["supernatural to naturalized", "science-spirituality merge"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.65, aspects: ["resilience growth", "transformative action"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["irony-commitment cycling", "suspicion-celebration oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.60, aspects: ["language adaptation", "experiential grounding"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.65
+    aspects:
+    - sacred-secular distinction
+    - redefined sacredness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.75
+    aspects:
+    - emotional wellspring
+    - gratitude-rage dynamics
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - supernatural to naturalized
+    - science-spirituality merge
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.65
+    aspects:
+    - resilience growth
+    - transformative action
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - irony-commitment cycling
+    - suspicion-celebration oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.6
+    aspects:
+    - language adaptation
+    - experiential grounding
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.65
+    water_rho: 0.75
+    fire_lambda: 0.7
+    wood_beta: 0.65
+    earth_delta_gamma: 0.8
+    metal_mu: 0.6
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213700_2606972_Exploring+Naturalized+Spirituality%3A+A+Contemporary+Perspective.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

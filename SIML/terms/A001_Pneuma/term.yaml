@@ -1,9 +1,7 @@
 hex_tag: '#A001'
 term: Pneuma (Greek Breath/Soul)
-nemetic: Φ(Pneuma) = ρ(breath|life-force) ∘ σ(distinction|soul-vs-body) ∘ λ(intellect|directed-thought)
-  ∘ β(spiritual-movement|unbounded-flow) + ε | :open
-siml_encoding: ⟨Resource|breath⟩ ⊳ ⟨Actor|ensouled-being⟩ ⇄ ⟨Value|life⟩ ⊗ ⟨Frame|Greek-cosmology⟩
-  → ⟨Outcome|intellect-and-spirit⟩
+nemetic: Φ(Pneuma) = ρ(breath|life-force) ∘ σ(distinction|soul-vs-body) ∘ λ(intellect|directed-thought) ∘ β(spiritual-movement|unbounded-flow) + ε | :open
+siml_encoding: ⟨Resource|breath⟩ ⊳ ⟨Actor|ensouled-being⟩ ⇄ ⟨Value|life⟩ ⊗ ⟨Frame|Greek-cosmology⟩ → ⟨Outcome|intellect-and-spirit⟩
 formalism:
   math_operators:
   - ρ
@@ -65,6 +63,17 @@ coords:
     - Ensouled Intellect
     - Vital Spirit
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
   ∴: How is Pneuma distinguished from mere Aer (air)?
   ≈: What resonance does breath-as-life carry?
@@ -72,23 +81,66 @@ elemental_emphasis:
   𐂷: What spiritual possibilities open through breath?
   ☷: How does breathing cycle sustain life moment-to-moment?
   ⛨: What boundaries contain the soul against dispersal?
-context_note: 'Pneuma represents Air as vital principle—not just gas but animating
-  force. Key distinction: Greek tripartite air (Aer: lower air, Pneuma: breath/soul,
-  Aether: upper divine air). Pneuma is middle term—connecting body and spirit. The
-  octahedron (Platonic solid) symbolizes this mediation. Later Stoic philosophy extends
-  Pneuma to cosmic scale—the universe breathes.'
-source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic
-  Cowboy
+context_note: 'Pneuma represents Air as vital principle—not just gas but animating force. Key distinction: Greek tripartite air (Aer: lower air, Pneuma: breath/soul, Aether: upper divine air). Pneuma is middle term—connecting body and spirit. The octahedron (Platonic solid) symbolizes this mediation. Later Stoic philosophy extends Pneuma to cosmic scale—the universe breathes.'
+source: Air Symbolism in Ancient Philosophical and Indigenous Traditions — Memetic Cowboy
 date_processed: '2026-02-24'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Memetic Cowboy"
+  work: "Air Symbolism in Ancient Philosophical and Indigenous Traditions"
+  platform: "Memetic Ecology Substack"
+  url: "https://substack.com/@memeticcowboy"
+  source_domain: "framework/internal"
+  date_processed: "2026-02-24"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: framework_internal
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.3
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Earth
+  - Metal
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.3
+    Metal: 0.3
+    Meta: 0.3

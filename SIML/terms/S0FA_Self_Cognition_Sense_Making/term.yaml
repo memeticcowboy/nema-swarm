@@ -1,32 +1,152 @@
 ---
-term: "Self-Cognition in Sense-Making"
-hex_tag: "S0FA"
-series: "S"
-source_file: "1771907213218_2204951_Exploring+the+Role+of+Self+in+Cognition+and+Participatory+Sense-Making.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Examines whether the self (identity as construct) is an ideal vector for cognition in sense-making. Self may limit fluidity needed for participatory sense-making through its static nature, overemphasis on individuality, illusion of autonomy, and cognitive bias. Counter-arguments position self as necessary anchor for coherence, rational actor model, empirical support for individual cognition, and evolutionary survival value. Synthesis proposes self as lens or filter rather than engine of cognition — functional but not primary in the sense-making process."
-nemetic: "Φ(Self-Cognition Sense-Making) = σ(self_as_construct|self_as_process) ∘ ρ(individual_perspective|intersubjective_space) ∘ λ(static_identity|dynamic_interaction) ∘ β(self_as_anchor|self_as_filter) ∘ δγ(autonomy_illusion|interdependence) ∘ μ(individual_cognition|relational_emergence) + ε | :self_as_functional_lens"
-siml_encoding: "⟨self_construct_process_distinction, identity_scope⟩ ⊳ ⟨individual_intersubjective_relational_web, perspective_resonance⟩ → ⟨static_dynamic_transformation, fluidity_catalysis⟩ ⊗ ⟨anchor_filter_growth, cognitive_expansion⟩ ⇄ ⟨autonomy_interdependence_cycling, selfhood_rhythm⟩"
+term: Self-Cognition in Sense-Making
+hex_tag: S0FA
+series: S
+source_file: 1771907213218_2204951_Exploring+the+Role+of+Self+in+Cognition+and+Participatory+Sense-Making.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Examines whether the self (identity as construct) is an ideal vector for cognition in sense-making. Self may limit fluidity needed for participatory sense-making through its static nature, overemphasis on individuality, illusion of autonomy, and cognitive bias. Counter-arguments position self as necessary anchor for coherence, rational actor model, empirical support for individual cognition, and evolutionary survival value. Synthesis proposes self as lens or filter rather than engine of cognition — functional but not primary in the sense-making process.
+nemetic: Φ(Self-Cognition Sense-Making) = σ(self_as_construct|self_as_process) ∘ ρ(individual_perspective|intersubjective_space) ∘ λ(static_identity|dynamic_interaction) ∘ β(self_as_anchor|self_as_filter) ∘ δγ(autonomy_illusion|interdependence) ∘ μ(individual_cognition|relational_emergence) + ε | :self_as_functional_lens
+siml_encoding: ⟨self_construct_process_distinction, identity_scope⟩ ⊳ ⟨individual_intersubjective_relational_web, perspective_resonance⟩ → ⟨static_dynamic_transformation, fluidity_catalysis⟩ ⊗ ⟨anchor_filter_growth, cognitive_expansion⟩ ⇄ ⟨autonomy_interdependence_cycling, selfhood_rhythm⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: self_as_construct / self_as_process
+      S: self_as_anchor / self_as_filter
+      R: individual_perspective / intersubjective_space
+      P: static_identity / dynamic_interaction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing self as fixed construct from self as ongoing process — the foundational discernment between identity as static entity and identity as dynamic, contextual phenomenon in cognition)"
-    - "∂Φ/∂ρ (relating individual perspective to intersubjective space — the relational tension between self-contained cognitive models and the shared meaning-making space where sense emerges between participants)"
-    - "∂Φ/∂λ (transforming static identity through dynamic interaction — the catalytic movement where fixed self-concept encounters participatory engagement, revealing limitations of rigid identity in fluid sense-making)"
-    - "∂Φ/∂β (growth from self as anchor to self as filter — expanding from self as necessary ground of coherence to self as permeable lens that shapes but does not fully determine cognition)"
-    - "∂Φ/∂δγ (cycling between autonomy illusion and interdependence — the oscillation between the felt sense of autonomous selfhood and the recognition of fundamentally relational, interdependent cognition)"
-    - "∂Φ/∂μ (structural correspondence between individual cognition and relational emergence — the architecture that maps how self-based cognition and participatory sense-making relate as complementary structures)"
-  Z_state: "self_as_functional_lens — the self operates not as the engine of cognition but as a lens or filter through which sense-making is shaped; identity provides functional coherence without being the primary source of understanding; participatory sense-making reveals that cognition exceeds the boundaries of any individual self, repositioning selfhood as useful but not foundational to the emergence of meaning"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing self as fixed construct from self as ongoing process — the foundational discernment between identity as static entity and identity as dynamic, contextual phenomenon in cognition)
+  - ∂Φ/∂ρ (relating individual perspective to intersubjective space — the relational tension between self-contained cognitive models and the shared meaning-making space where sense emerges between participants)
+  - ∂Φ/∂λ (transforming static identity through dynamic interaction — the catalytic movement where fixed self-concept encounters participatory engagement, revealing limitations of rigid identity in fluid sense-making)
+  - ∂Φ/∂β (growth from self as anchor to self as filter — expanding from self as necessary ground of coherence to self as permeable lens that shapes but does not fully determine cognition)
+  - ∂Φ/∂δγ (cycling between autonomy illusion and interdependence — the oscillation between the felt sense of autonomous selfhood and the recognition of fundamentally relational, interdependent cognition)
+  - ∂Φ/∂μ (structural correspondence between individual cognition and relational emergence — the architecture that maps how self-based cognition and participatory sense-making relate as complementary structures)
+  Z_state: semi
+  z_note: self_as_functional_lens — the self operates not as the engine of cognition but as a lens or filter through which sense-making is shaped; identity provides functional coherence without being the primary source of understanding; participatory sense-making reveals that cognition exceeds the boundaries of any individual self, repositioning selfhood as useful but not foundational to the emergence of meaning
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["self_construct_process_discernment", "identity_cognition_distinction"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["individual_intersubjective_relating", "perspective_connection_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["static_dynamic_identity_catalysis", "fluidity_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["anchor_to_filter_growth", "cognitive_role_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["autonomy_interdependence_cycling", "selfhood_grounding"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["cognition_emergence_structure", "self_framework_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0F9"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - self_construct_process_discernment
+    - identity_cognition_distinction
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - individual_intersubjective_relating
+    - perspective_connection_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - static_dynamic_identity_catalysis
+    - fluidity_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - anchor_to_filter_growth
+    - cognitive_role_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - autonomy_interdependence_cycling
+    - selfhood_grounding
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - cognition_emergence_structure
+    - self_framework_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0F9
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213218_2204951_Exploring+the+Role+of+Self+in+Cognition+and+Participatory+Sense-Making.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

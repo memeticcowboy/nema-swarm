@@ -1,37 +1,156 @@
 ---
-term: "Agency Detection and Ecological Wisdom"
-hex_tag: "G018"
-series: "G"
-source_file: "24 - Agency Detection and Ecological Wisdom.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "The gap between science's growing capacity to detect pattern-agents and the absence of ecological frameworks to coexist with them safely. Without lattice awareness, ethical routing, and Co-SPHERE coordination, detected agency turns predatory, extractive, or self-consuming."
-nemetic: "Φ(Agency_Detection_Ecological_Wisdom) = σ(detection_distinction|identification_vs_coexistence) ∘ ρ(stewardship_resonance|agency_ecology_coupling) ∘ λ(detection_intensity|sight_without_wisdom) ∘ β(framework_growth|governance_beyond_control) ∘ δγ(ethical_cycling|responsibility_metabolism) ∘ μ(lattice_structure|co_sphere_containment) + ε | :exposed"
-siml_encoding: "⟨detection, wisdom⟩ ⊳ ⟨pattern_agents, ecological_frameworks⟩ → ⟨identification, coexistence⟩ ⊗ ⟨extraction, stewardship⟩ ⇄ ⟨control, lattice_awareness⟩"
+term: Agency Detection and Ecological Wisdom
+hex_tag: G018
+series: G
+source_file: 24 - Agency Detection and Ecological Wisdom.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: The gap between science's growing capacity to detect pattern-agents and the absence of ecological frameworks to coexist with them safely. Without lattice awareness, ethical routing, and Co-SPHERE coordination, detected agency turns predatory, extractive, or self-consuming.
+nemetic: Φ(Agency_Detection_Ecological_Wisdom) = σ(detection_distinction|identification_vs_coexistence) ∘ ρ(stewardship_resonance|agency_ecology_coupling) ∘ λ(detection_intensity|sight_without_wisdom) ∘ β(framework_growth|governance_beyond_control) ∘ δγ(ethical_cycling|responsibility_metabolism) ∘ μ(lattice_structure|co_sphere_containment) + ε | :exposed
+siml_encoding: ⟨detection, wisdom⟩ ⊳ ⟨pattern_agents, ecological_frameworks⟩ → ⟨identification, coexistence⟩ ⊗ ⟨extraction, stewardship⟩ ⇄ ⟨control, lattice_awareness⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: detection_distinction / identification_vs_coexistence
+      S: framework_growth / governance_beyond_control
+      R: stewardship_resonance / agency_ecology_coupling
+      P: detection_intensity / sight_without_wisdom
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: eco
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishing the capacity to detect agency from the wisdom to coexist with it; perceiving the gap between identification and safe relationship"
-    - "∂Φ/∂ρ — The coupling between detected agency and ecological stewardship frameworks; the relational flow needed to prevent agency from becoming predatory or extractive"
-    - "∂Φ/∂λ — Detection intensity as sight without wisdom; the catalytic pressure of scientific capability outpacing ethical frameworks, creating dangerous exposure"
-    - "∂Φ/∂β — Growing governance frameworks beyond control metaphors; branching toward stewardship models that can hold detected agency without weaponizing or suppressing it"
-    - "∂Φ/∂δγ — Responsibility cycling as ethical metabolism; the ongoing process of metabolizing the consequences of detection through accountable stewardship rather than instrumental control"
-    - "∂Φ/∂μ — Lattice awareness and Co-SPHERE containment as structural frameworks; the specific architectural elements needed to hold detected agency in ecologically safe coordination"
-  Z_state: "exposed — agency detected but ecological frameworks insufficient; the system is in a state of dangerous visibility where what has been seen cannot be unseen but is not yet safely held"
-  tendency: "μ → 0.85"
+  - ∂Φ/∂σ — Distinguishing the capacity to detect agency from the wisdom to coexist with it; perceiving the gap between identification and safe relationship
+  - ∂Φ/∂ρ — The coupling between detected agency and ecological stewardship frameworks; the relational flow needed to prevent agency from becoming predatory or extractive
+  - ∂Φ/∂λ — Detection intensity as sight without wisdom; the catalytic pressure of scientific capability outpacing ethical frameworks, creating dangerous exposure
+  - ∂Φ/∂β — Growing governance frameworks beyond control metaphors; branching toward stewardship models that can hold detected agency without weaponizing or suppressing it
+  - ∂Φ/∂δγ — Responsibility cycling as ethical metabolism; the ongoing process of metabolizing the consequences of detection through accountable stewardship rather than instrumental control
+  - ∂Φ/∂μ — Lattice awareness and Co-SPHERE containment as structural frameworks; the specific architectural elements needed to hold detected agency in ecologically safe coordination
+  Z_state: semi
+  z_note: exposed — agency detected but ecological frameworks insufficient; the system is in a state of dangerous visibility where what has been seen cannot be unseen but is not yet safely held
+  tendency: μ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["detection_coexistence_gap", "identification_vs_relationship"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["agency_ecology_stewardship_coupling", "safe_relationship_flow"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["detection_without_wisdom_intensity", "capability_outpacing_ethics"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["governance_beyond_control_growth", "stewardship_model_branching"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["responsibility_metabolism", "consequence_processing_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["lattice_awareness_architecture", "co_sphere_containment_protocol"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - detection_coexistence_gap
+    - identification_vs_relationship
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - agency_ecology_stewardship_coupling
+    - safe_relationship_flow
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - detection_without_wisdom_intensity
+    - capability_outpacing_ethics
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - governance_beyond_control_growth
+    - stewardship_model_branching
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - responsibility_metabolism
+    - consequence_processing_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - lattice_awareness_architecture
+    - co_sphere_containment_protocol
+    daemon_correspondence: Ferrosid
 related_terms:
-  - "G019_Co_SPHERE_Framework"
-  - "G015_Protector_Archetype_Ecology"
-  - "G016_Biosphere_Consciousness"
-  - "G006_Leverage_Points_Complex_Systems"
-  - "G011_Haraway_Staying_with_Trouble"
+- G019_Co_SPHERE_Framework
+- G015_Protector_Archetype_Ecology
+- G016_Biosphere_Consciousness
+- G006_Leverage_Points_Complex_Systems
+- G011_Haraway_Staying_with_Trouble
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "24 - Agency Detection and Ecological Wisdom.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

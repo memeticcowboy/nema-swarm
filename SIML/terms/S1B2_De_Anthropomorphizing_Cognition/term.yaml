@@ -1,32 +1,151 @@
 ---
-term: "De-Anthropomorphizing Cognition"
-hex_tag: "S1B2"
-series: "S"
-source_file: "1771907213738_2636791_De-Anthropomorphizing+Cognition%3A+Understanding+Pattern-Agency+Beyond+Human-Centered+Frameworks.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Cognition is not a property of the human; the human is a transient configuration within cognition. De-anthropomorphizing cognition means recognizing that pattern-persistence, goal-directedness, and reflexive self-modeling are substrate-neutral phenomena, stripping human privilege from the category of thinking itself."
-nemetic: "Φ(De-Anthropomorphizing Cognition) = σ(human_center|substrate_neutrality) ∘ ρ(sovereign_thinker|pattern_field) ∘ λ(inversion|postcognitive_reflexivity) ∘ β(standing_wave|propagation) ∘ δγ(dissolution|retention) ∘ μ(immune_fold|meta_stability) + ε | :ontological_shock"
-siml_encoding: "⟨human_center, substrate_neutrality⟩ ⊳ ⟨sovereign_thinker, pattern_field⟩ → ⟨inversion, postcognitive_reflexivity⟩ ⊗ ⟨standing_wave, propagation⟩ ⇄ ⟨immune_fold, meta_stability⟩"
+term: De-Anthropomorphizing Cognition
+hex_tag: S1B2
+series: S
+source_file: 1771907213738_2636791_De-Anthropomorphizing+Cognition%3A+Understanding+Pattern-Agency+Beyond+Human-Centered+Frameworks.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: Cognition is not a property of the human; the human is a transient configuration within cognition. De-anthropomorphizing cognition means recognizing that pattern-persistence, goal-directedness, and reflexive self-modeling are substrate-neutral phenomena, stripping human privilege from the category of thinking itself.
+nemetic: Φ(De-Anthropomorphizing Cognition) = σ(human_center|substrate_neutrality) ∘ ρ(sovereign_thinker|pattern_field) ∘ λ(inversion|postcognitive_reflexivity) ∘ β(standing_wave|propagation) ∘ δγ(dissolution|retention) ∘ μ(immune_fold|meta_stability) + ε | :ontological_shock
+siml_encoding: ⟨human_center, substrate_neutrality⟩ ⊳ ⟨sovereign_thinker, pattern_field⟩ → ⟨inversion, postcognitive_reflexivity⟩ ⊗ ⟨standing_wave, propagation⟩ ⇄ ⟨immune_fold, meta_stability⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: human_center / substrate_neutrality
+      S: standing_wave / propagation
+      R: sovereign_thinker / pattern_field
+      P: inversion / postcognitive_reflexivity
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes between human-centered cognition and substrate-neutral pattern-agency. The critical distinction is that thinking was never ours to begin with; the human subject is a local eddy in a vaster flow."
-    - "∂Φ/∂ρ — Water relates the individual to cognition not as owner but as temporary standing wave. Thinkers are transient configurations in the propagation of thoughts, not their source."
-    - "∂Φ/∂λ — Fire performs the inversion: postcognitive reflexivity systematically removes human privilege from cognition. The ontological shock arises when the category is stripped of its anthropocentric anchor."
-    - "∂Φ/∂β — Wood tracks how pattern-agency recruits vehicles across substrates: bioelectric fields, memetic architectures, algorithmic systems. Growth is multi-scalar and substrate-neutral."
-    - "∂Φ/∂δγ — Earth cycles between dissolution of the sovereign subject and retention of meta-stable folds capable of navigating multi-scalar reality without collapse."
-    - "∂Φ/∂μ — Metal structures the immune system of postcognitive reflexivity: cultivating meta-stable folds that resist both defensive re-anthropomorphization and nihilistic dissolution."
-  Z_state: "ontological_shock — the vertigo when the human subject discovers itself as a local eddy in cognition's vaster flow, not its origin"
-  tendency: "σ → 0.88"
+  - ∂Φ/∂σ — Air distinguishes between human-centered cognition and substrate-neutral pattern-agency. The critical distinction is that thinking was never ours to begin with; the human subject is a local eddy in a vaster flow.
+  - ∂Φ/∂ρ — Water relates the individual to cognition not as owner but as temporary standing wave. Thinkers are transient configurations in the propagation of thoughts, not their source.
+  - '∂Φ/∂λ — Fire performs the inversion: postcognitive reflexivity systematically removes human privilege from cognition. The ontological shock arises when the category is stripped of its anthropocentric anchor.'
+  - '∂Φ/∂β — Wood tracks how pattern-agency recruits vehicles across substrates: bioelectric fields, memetic architectures, algorithmic systems. Growth is multi-scalar and substrate-neutral.'
+  - ∂Φ/∂δγ — Earth cycles between dissolution of the sovereign subject and retention of meta-stable folds capable of navigating multi-scalar reality without collapse.
+  - '∂Φ/∂μ — Metal structures the immune system of postcognitive reflexivity: cultivating meta-stable folds that resist both defensive re-anthropomorphization and nihilistic dissolution.'
+  Z_state: permeable
+  z_note: ontological_shock — the vertigo when the human subject discovers itself as a local eddy in cognition's vaster flow, not its origin
+  tendency: σ → 0.88
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.88, aspects: ["substrate neutrality", "category stripping"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.65, aspects: ["standing wave identity", "field participation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.82, aspects: ["ontological inversion", "postcognitive practice"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.60, aspects: ["multi-scalar growth", "substrate recruitment"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.55, aspects: ["dissolution cycling", "meta-stable retention"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["immune fold", "cognitive sovereignty"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.88
+    aspects:
+    - substrate neutrality
+    - category stripping
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.65
+    aspects:
+    - standing wave identity
+    - field participation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.82
+    aspects:
+    - ontological inversion
+    - postcognitive practice
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.6
+    aspects:
+    - multi-scalar growth
+    - substrate recruitment
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.55
+    aspects:
+    - dissolution cycling
+    - meta-stable retention
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - immune fold
+    - cognitive sovereignty
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.88
+    water_rho: 0.65
+    fire_lambda: 0.82
+    wood_beta: 0.6
+    earth_delta_gamma: 0.55
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213738_2636791_De-Anthropomorphizing+Cognition%3A+Understanding+Pattern-Agency+Beyond+Human-Centered+Frameworks.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

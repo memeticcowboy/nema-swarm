@@ -1,32 +1,154 @@
 ---
-term: "Nonaka Takeuchi Knowledge Spiral"
-hex_tag: "S08B"
-series: "S"
-source_file: "1771907212875_1651303_Navigating+the+Knowledge+Spiral%3A+Nonaka+and+Takeuchi%27s+Dynamic+Model+of+Learning.md"
-encoded_at: "2026-03-06T01:30:00Z"
-description: "Nonaka and Takeuchi Knowledge Conversion Model — the SECI spiral of knowledge creation through four modes (Socialization: tacit-to-tacit, Externalization: tacit-to-explicit, Combination: explicit-to-explicit, Internalization: explicit-to-tacit), the continuous interplay between tacit and explicit knowledge, dynamic knowledge transformation forming a spiral of learning and innovation, and practical applications across business, education, and AI contexts."
-nemetic: "Φ(Nonaka Takeuchi Knowledge Spiral) = σ(tacit_knowledge|explicit_knowledge) ∘ ρ(individual_knower|organizational_knowledge_system) ∘ λ(static_knowledge_stock|dynamic_knowledge_creation) ∘ β(personal_tacit_insight|organizational_knowledge_asset) ∘ δγ(SECI_mode_cycling|knowledge_spiral_iteration) ∘ μ(four_mode_conversion_framework|tacit_explicit_architecture) + ε | :continuous_knowledge_creation_spiral"
-siml_encoding: "⟨tacit_explicit_distinction, knowledge_form_boundary⟩ ⊳ ⟨individual_organizational_relation, knower_system_coupling⟩ → ⟨static_to_dynamic_transformation, knowledge_creation_catalysis⟩ ⊗ ⟨personal_to_organizational_growth, knowledge_asset_deepening⟩ ⇄ ⟨SECI_mode_cycling, knowledge_spiral_iteration⟩"
+term: Nonaka Takeuchi Knowledge Spiral
+hex_tag: S08B
+series: S
+source_file: 1771907212875_1651303_Navigating+the+Knowledge+Spiral%3A+Nonaka+and+Takeuchi%27s+Dynamic+Model+of+Learning.md
+encoded_at: '2026-03-06T01:30:00Z'
+description: 'Nonaka and Takeuchi Knowledge Conversion Model — the SECI spiral of knowledge creation through four modes (Socialization: tacit-to-tacit, Externalization: tacit-to-explicit, Combination: explicit-to-explicit, Internalization: explicit-to-tacit), the continuous interplay between tacit and explicit knowledge, dynamic knowledge transformation forming a spiral of learning and innovation, and practical applications across business, education, and AI contexts.'
+nemetic: Φ(Nonaka Takeuchi Knowledge Spiral) = σ(tacit_knowledge|explicit_knowledge) ∘ ρ(individual_knower|organizational_knowledge_system) ∘ λ(static_knowledge_stock|dynamic_knowledge_creation) ∘ β(personal_tacit_insight|organizational_knowledge_asset) ∘ δγ(SECI_mode_cycling|knowledge_spiral_iteration) ∘ μ(four_mode_conversion_framework|tacit_explicit_architecture) + ε | :continuous_knowledge_creation_spiral
+siml_encoding: ⟨tacit_explicit_distinction, knowledge_form_boundary⟩ ⊳ ⟨individual_organizational_relation, knower_system_coupling⟩ → ⟨static_to_dynamic_transformation, knowledge_creation_catalysis⟩ ⊗ ⟨personal_to_organizational_growth, knowledge_asset_deepening⟩ ⇄ ⟨SECI_mode_cycling, knowledge_spiral_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: tacit_knowledge / explicit_knowledge
+      S: personal_tacit_insight / organizational_knowledge_asset
+      R: individual_knower / organizational_knowledge_system
+      P: static_knowledge_stock / dynamic_knowledge_creation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing tacit knowledge from explicit knowledge as the fundamental boundary of the model)"
-    - "∂Φ/∂ρ (relating individual knowers to organizational knowledge systems through conversion processes)"
-    - "∂Φ/∂λ (transforming static knowledge stocks into dynamic knowledge creation through the SECI spiral)"
-    - "∂Φ/∂β (growth from personal tacit insight toward organizational knowledge assets through conversion)"
-    - "∂Φ/∂δγ (cycling through the four SECI modes in iterative spirals of increasing knowledge depth)"
-    - "∂Φ/∂μ (the four-mode conversion framework and tacit-explicit architecture as structural substrate)"
-  Z_state: "continuous_knowledge_creation_spiral — knowledge is dynamically created and transformed through the continuous cycling of four conversion modes (Socialization sharing tacit-to-tacit through shared experience, Externalization converting tacit-to-explicit through articulation, Combination synthesizing explicit-to-explicit through systematization, Internalization embodying explicit-to-tacit through practice); the spiral deepens with each cycle as knowledge moves between individual and organizational levels, creating an ever-expanding base of both tacit understanding and explicit codification"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ (distinguishing tacit knowledge from explicit knowledge as the fundamental boundary of the model)
+  - ∂Φ/∂ρ (relating individual knowers to organizational knowledge systems through conversion processes)
+  - ∂Φ/∂λ (transforming static knowledge stocks into dynamic knowledge creation through the SECI spiral)
+  - ∂Φ/∂β (growth from personal tacit insight toward organizational knowledge assets through conversion)
+  - ∂Φ/∂δγ (cycling through the four SECI modes in iterative spirals of increasing knowledge depth)
+  - ∂Φ/∂μ (the four-mode conversion framework and tacit-explicit architecture as structural substrate)
+  Z_state: permeable
+  z_note: continuous_knowledge_creation_spiral — knowledge is dynamically created and transformed through the continuous cycling of four conversion modes (Socialization sharing tacit-to-tacit through shared experience, Externalization converting tacit-to-explicit through articulation, Combination synthesizing explicit-to-explicit through systematization, Internalization embodying explicit-to-tacit through practice); the spiral deepens with each cycle as knowledge moves between individual and organizational levels, creating an ever-expanding base of both tacit understanding and explicit codification
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["tacit_explicit_knowledge_distinction", "knowledge_form_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["individual_organizational_knowledge_coupling", "knower_system_relation"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["static_to_dynamic_transformation", "knowledge_creation_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["personal_to_organizational_growth", "knowledge_asset_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["SECI_mode_cycling", "knowledge_spiral_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.85, aspects: ["four_mode_conversion_framework", "tacit_explicit_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S052", "S04C", "S075"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - tacit_explicit_knowledge_distinction
+    - knowledge_form_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - individual_organizational_knowledge_coupling
+    - knower_system_relation
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - static_to_dynamic_transformation
+    - knowledge_creation_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - personal_to_organizational_growth
+    - knowledge_asset_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - SECI_mode_cycling
+    - knowledge_spiral_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.85
+    aspects:
+    - four_mode_conversion_framework
+    - tacit_explicit_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S052
+- S04C
+- S075
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - earth_delta_gamma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.85
+    earth_delta_gamma: 0.9
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212875_1651303_Navigating+the+Knowledge+Spiral%3A+Nonaka+and+Takeuchi%27s+Dynamic+Model+of+Learning.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

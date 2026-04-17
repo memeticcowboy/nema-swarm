@@ -1,105 +1,151 @@
 term_id: C13A
 hex_tag: '#C13A'
 name: Neiye_Chinese_Cognition
-term: "Neiye: A Chinese Model of Cognition"
-nemetic: >-
-  Φ(Neiye) = σ(heartmind|brain) ∘ ρ(harmony|disharmony) ∘ λ(cultivation|clarity)
-  ∘ β(breath|alignment) ∘ δγ(body|mind)
-  ∘ μ(internal|external) + ε | :open
-siml_encoding: >-
-  ⟨Xin|heartmind⟩ ⊳ ⟨Qi|cultivated⟩ ⊗ ⟨Harmony|embodied⟩ ⊗ ⟨Clarity|achieved⟩
-  ⊗ ⟨Nature|aligned⟩
+term: 'Neiye: A Chinese Model of Cognition'
+nemetic: Φ(Neiye) = σ(heartmind|brain) ∘ ρ(harmony|disharmony) ∘ λ(cultivation|clarity) ∘ β(breath|alignment) ∘ δγ(body|mind) ∘ μ(internal|external) + ε | :open
+siml_encoding: ⟨Xin|heartmind⟩ ⊳ ⟨Qi|cultivated⟩ ⊗ ⟨Harmony|embodied⟩ ⊗ ⟨Clarity|achieved⟩ ⊗ ⟨Nature|aligned⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between cardiocentric and cerebrocentric cognition)"
-    - "∂Φ/∂ρ (relational flow between harmonious and disharmonious states)"
-    - "∂Φ/∂λ (transformation through cultivation practices toward clarity)"
-    - "∂Φ/∂β (feedback between breath control and mental state alignment)"
-    - "∂Φ/∂δγ (cyclical unity of body-mind integration)"
-    - "∂Φ/∂μ (boundary between internal cultivation and external nature)"
+  - ∂Φ/∂σ (distinction between cardiocentric and cerebrocentric cognition)
+  - ∂Φ/∂ρ (relational flow between harmonious and disharmonious states)
+  - ∂Φ/∂λ (transformation through cultivation practices toward clarity)
+  - ∂Φ/∂β (feedback between breath control and mental state alignment)
+  - ∂Φ/∂δγ (cyclical unity of body-mind integration)
+  - ∂Φ/∂μ (boundary between internal cultivation and external nature)
   Z_state: permeable
-  tendency: "Cultivation/Clarity → 0.8"
+  tendency: Cultivation/Clarity → 0.8
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x06'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary:
-      - MoreThanHuman
+    - MoreThanHuman
   epistemics:
     dsrp:
-      D: "Heart-mind (xin) vs. brain-centered cognition"
-      S: "Holistic body-mind-nature cultivation system"
-      R: "Internal cultivation mirrors and aligns with cosmic patterns"
-      P: "Fourth-century BCE Daoist philosophical tradition"
+      D: Heart-mind (xin) vs. brain-centered cognition
+      S: Holistic body-mind-nature cultivation system
+      R: Internal cultivation mirrors and aligns with cosmic patterns
+      P: Fourth-century BCE Daoist philosophical tradition
     learning: L2
   time:
     mode: cyclical
-    phase: "cultivation practice"
+    phase: cultivation practice
   qualia:
     affect:
-      - serenity
-      - harmony
-      - clarity
+    - serenity
+    - harmony
+    - clarity
     aesthetic:
-      - holistic
-      - embodied
-      - integrated
+    - holistic
+    - embodied
+    - integrated
     symbolic:
-      - heartmind
-      - qi
-      - emptiness
+    - heartmind
+    - qi
+    - emptiness
     energetic:
-      - cultivating
-      - aligning
-      - unifying
+    - cultivating
+    - aligning
+    - unifying
   agency:
     type: ego
     voice:
-      - Inner Cultivator
-      - Embodied Practitioner
+    - Inner Cultivator
+    - Embodied Practitioner
     power_mode: Within
+  coherence:
+    state: integrated
+    loop: multi
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_emphasis:
-  ∴: "How does the Neiye distinguish cognition centered in heart-mind from brain-centered thinking?"
-  ≈: "What flows between balanced and imbalanced internal states during cultivation?"
-  ▲: "Where does cultivation practice lead — toward clarity or mere quietude?"
-  𐂷: "What forms of cognition emerge when body-mind dualism is dissolved?"
-  ☷: "What sustains the cyclical unity of physical and mental processes?"
-  ⛨: "What boundaries separate inner cultivation from outer alignment with nature?"
-context_note: >-
-  The Neiye (Inner Training) is a fourth-century BCE Chinese text presenting a holistic
-  model of cognition rooted in Daoist thought, where cognitive functions emerge from
-  integration of physical and mental cultivation rather than abstract reasoning.
-source: "Simonis, Fabien — A Chinese Model of Cognition: The Neiye, Fourth Century BCE"
+  ∴: How does the Neiye distinguish cognition centered in heart-mind from brain-centered thinking?
+  ≈: What flows between balanced and imbalanced internal states during cultivation?
+  ▲: Where does cultivation practice lead — toward clarity or mere quietude?
+  𐂷: What forms of cognition emerge when body-mind dualism is dissolved?
+  ☷: What sustains the cyclical unity of physical and mental processes?
+  ⛨: What boundaries separate inner cultivation from outer alignment with nature?
+context_note: The Neiye (Inner Training) is a fourth-century BCE Chinese text presenting a holistic model of cognition rooted in Daoist thought, where cognitive functions emerge from integration of physical and mental cultivation rather than abstract reasoning.
+source: 'Simonis, Fabien — A Chinese Model of Cognition: The Neiye, Fourth Century BCE'
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Simonis, Fabien"
+  work: "A Chinese Model of Cognition: The Neiye, Fourth Century BCE"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

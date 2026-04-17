@@ -2,97 +2,146 @@ term_id: A055
 hex_tag: '#A055'
 name: Spiral_of_Silence
 term: Spiral of Silence
-nemetic: >-
-  Φ(SpiralSilence) = σ(majority|minority) ∘ ρ(conformity|isolation)
-  ∘ λ(dominance|suppression) ∘ β(self-censorship|feedback)
-  ∘ δγ(anxiety|belonging) ∘ μ(boundary|policed) + ε | :silencing
-siml_encoding: >-
-  ⟨Opinion|minority⟩ ⊳ ⟨Fear|isolation⟩ → ⟨Silence|self-censored⟩
-  ⊗ ⟨Narrative|dominant⟩ ⇄ ⟨Consensus|illusory⟩
+nemetic: Φ(SpiralSilence) = σ(majority|minority) ∘ ρ(conformity|isolation) ∘ λ(dominance|suppression) ∘ β(self-censorship|feedback) ∘ δγ(anxiety|belonging) ∘ μ(boundary|policed) + ε | :silencing
+siml_encoding: ⟨Opinion|minority⟩ ⊳ ⟨Fear|isolation⟩ → ⟨Silence|self-censored⟩ ⊗ ⟨Narrative|dominant⟩ ⇄ ⟨Consensus|illusory⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (how the distinction between majority and minority is constructed and maintained)"
-    - "∂Φ/∂ρ (relational dynamics that make isolation feel like a credible threat)"
-    - "∂Φ/∂λ (directionality of suppression — how discourse gets channeled)"
-    - "∂Φ/∂β (feedback loop where silence begets more silence)"
-    - "∂Φ/∂δγ (metabolic trade-off between authenticity and belonging)"
-    - "∂Φ/∂μ (boundary work that determines whose speech is protected)"
-  Z_state: "sealing (dominant narrative becomes invisible as construction, treated as natural consensus)"
-  tendency: "Conformity/Dissent → 0.8 (strong pressure toward conformity)"
+  - ∂Φ/∂σ (how the distinction between majority and minority is constructed and maintained)
+  - ∂Φ/∂ρ (relational dynamics that make isolation feel like a credible threat)
+  - ∂Φ/∂λ (directionality of suppression — how discourse gets channeled)
+  - ∂Φ/∂β (feedback loop where silence begets more silence)
+  - ∂Φ/∂δγ (metabolic trade-off between authenticity and belonging)
+  - ∂Φ/∂μ (boundary work that determines whose speech is protected)
+  Z_state: semi
+  z_note: sealing (dominant narrative becomes invisible as construction, treated as natural consensus)
+  tendency: Conformity/Dissent → 0.8 (strong pressure toward conformity)
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: We
     secondary:
-      - I
-      - Its
+    - I
+    - Its
   epistemics:
     dsrp:
-      D: "Genuine consensus vs manufactured silence; majority opinion vs illusory agreement"
-      S: "Public discourse ecology — media, social platforms, institutional power, algorithmic amplification"
-      R: "Speaking ⇄ silence; majority ⇄ minority; conformity ⇄ isolation; visibility ⇄ suppression"
-      P: "Political scientist, media theorist, dissenter, algorithmic curator"
+      D: Genuine consensus vs manufactured silence; majority opinion vs illusory agreement
+      S: Public discourse ecology — media, social platforms, institutional power, algorithmic amplification
+      R: Speaking ⇄ silence; majority ⇄ minority; conformity ⇄ isolation; visibility ⇄ suppression
+      P: Political scientist, media theorist, dissenter, algorithmic curator
     learning: L2
   agency:
     type: collective
     power_mode: Over
   time:
     mode: cyclical
-    phase: "spiral — self-reinforcing cycle where silence amplifies perceived consensus"
+    phase: spiral — self-reinforcing cycle where silence amplifies perceived consensus
   qualia:
     affect:
-      - fearful
-      - constrained
-      - lonely
-      - compliant
+    - fearful
+    - constrained
+    - lonely
+    - compliant
     aesthetic:
-      - suffocating
-      - monolithic
-      - hollow
+    - suffocating
+    - monolithic
+    - hollow
     symbolic:
-      - empty podium
-      - echo chamber
-      - invisible gag
+    - empty podium
+    - echo chamber
+    - invisible gag
     energetic:
-      - suppressed
-      - anxious
-      - performative
+    - suppressed
+    - anxious
+    - performative
   coherence:
     state: metastable
     loop: double
     transcontext: high
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Macro-level social dynamics (perceived consensus, spiral effects) carry causal information beyond individual-level fear responses
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How is genuine majority consensus distinguished from manufactured silence? What would become visible if the silent spoke?"
-  ≈: "What flows between those who speak and those who remain silent? Who carries the weight of what cannot be said?"
-  ▲: "Where does the spiral want to go? Does this consensus serve understanding, or does it serve comfort?"
-  𐂷: "What forms of dissent haven't been silenced? What if silence itself became a form of speech?"
-  ☷: "What's the metabolic cost of self-censorship? What sustains the anxiety, and what would it cost to speak?"
-  ⛨: "What structures enable the spiral? What forms would enable genuine pluralism and guard against tyranny of the majority?"
-context_note: >-
-  The Spiral of Silence theory, developed by Elisabeth Noelle-Neumann in 1974, describes how
-  individuals who perceive their opinions as minority views tend to self-censor, while those
-  who perceive themselves as part of the majority speak more freely. This creates a feedback
-  loop where silence amplifies the appearance of consensus. The theory emerged from observation
-  of German public opinion dynamics and has been applied from Nazi-era suppression to contemporary
-  cancel culture debates. In digital contexts, the spiral interacts with filter bubbles,
-  algorithmic amplification, and the visibility asymmetries of online discourse.
+  ∴: How is genuine majority consensus distinguished from manufactured silence? What would become visible if the silent spoke?
+  ≈: What flows between those who speak and those who remain silent? Who carries the weight of what cannot be said?
+  ▲: Where does the spiral want to go? Does this consensus serve understanding, or does it serve comfort?
+  𐂷: What forms of dissent haven't been silenced? What if silence itself became a form of speech?
+  ☷: What's the metabolic cost of self-censorship? What sustains the anxiety, and what would it cost to speak?
+  ⛨: What structures enable the spiral? What forms would enable genuine pluralism and guard against tyranny of the majority?
+context_note: The Spiral of Silence theory, developed by Elisabeth Noelle-Neumann in 1974, describes how individuals who perceive their opinions as minority views tend to self-censor, while those who perceive themselves as part of the majority speak more freely. This creates a feedback loop where silence amplifies the appearance of consensus. The theory emerged from observation of German public opinion dynamics and has been applied from Nazi-era suppression to contemporary cancel culture debates. In digital contexts, the spiral interacts with filter bubbles, algorithmic amplification, and the visibility asymmetries of online discourse.
 source: Consolidated from 1 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Macro-level social dynamics (perceived consensus, spiral effects) carry causal information beyond individual-level fear responses"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

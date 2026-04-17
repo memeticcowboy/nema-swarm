@@ -2,87 +2,151 @@ term_id: A015
 hex_tag: '#A015'
 name: mask_wears_you
 term: The Mask Wears You
-nemetic: >-
-  Φ(MaskWears) = σ(persona|authentic)
-              ∘ ρ(performance|identity)
-              ∘ λ(consumption|agency)
-              ∘ β(feedback|entrenchment)
-              ∘ δγ(cost|dissociation)
-              ∘ μ(boundary|dissolved)
-              + ε | :consuming
-siml_encoding: >-
-  ⟨Mask|adopted⟩
-      ⊳ ⟨Identity|colonized⟩
-      → ⟨Performance|invisible⟩
-      ⊗ ⟨Authentic-self|digested⟩
-      ⇄ ⟨Persona|self-evident⟩
+nemetic: "Φ(MaskWears) = σ(persona|authentic)\n            ∘ ρ(performance|identity)\n            ∘ λ(consumption|agency)\n            ∘ β(feedback|entrenchment)\n            ∘ δγ(cost|dissociation)\n            ∘ μ(boundary|dissolved)\n            + ε | :consuming"
+siml_encoding: "⟨Mask|adopted⟩\n    ⊳ ⟨Identity|colonized⟩\n    → ⟨Performance|invisible⟩\n    ⊗ ⟨Authentic-self|digested⟩\n    ⇄ ⟨Persona|self-evident⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between authentic self and performed persona — the catastrophe of the mask is that this distinction becomes unavailable from inside; when performance has become identity, the cut between who you are and what you perform cannot be made from within the performance)"
-    - "∂Φ/∂ρ (relation between performance and identity — initially, performance serves identity (the mask grants capabilities); gradually, identity begins to serve performance (behavior shaped to maintain the persona); finally, identity is the performance)"
-    - "∂Φ/∂λ (direction reversal from agency to consumption — in the healthy state, the wearer uses the mask; in the colonized state, the mask uses the wearer; agency flows outward from self through persona to world, then reverses to flow from persona through self)"
-    - "∂Φ/∂β (entrenchment feedback loop — relationships form around the mask, social roles solidify around the performance, the infrastructure of life comes to depend on the persona continuing; each cycle makes removal more costly)"
-    - "∂Φ/∂δγ (metabolic inversion — initially, maintaining the mask costs energy (performing is effortful); eventually, maintaining the mask costs less than remembering what was beneath it; dissociation is metabolically cheaper than authenticity)"
-    - "∂Φ/∂μ (boundary dissolution between self and persona — the mask becomes invisible not through deception but through habituation; the container becomes the contained, and what was worn becomes what wears; μ-catastrophe as ontological colonization)"
-  Z_state: "Tendency toward sealed — the mask becomes invisible, assumed as true self; recognition requires external σ-distinction (crisis, witness, or mirror). Z-Closure Risk: μ-collapse — boundary between self and persona dissolves so completely that no internal vantage point for distinction remains."
-  tendency: "authentic/consuming → :consuming"
-  hex: ['#A015', '#A043', '#A019', '#A046']
+  - ∂Φ/∂σ (distinction between authentic self and performed persona — the catastrophe of the mask is that this distinction becomes unavailable from inside; when performance has become identity, the cut between who you are and what you perform cannot be made from within the performance)
+  - ∂Φ/∂ρ (relation between performance and identity — initially, performance serves identity (the mask grants capabilities); gradually, identity begins to serve performance (behavior shaped to maintain the persona); finally, identity is the performance)
+  - ∂Φ/∂λ (direction reversal from agency to consumption — in the healthy state, the wearer uses the mask; in the colonized state, the mask uses the wearer; agency flows outward from self through persona to world, then reverses to flow from persona through self)
+  - ∂Φ/∂β (entrenchment feedback loop — relationships form around the mask, social roles solidify around the performance, the infrastructure of life comes to depend on the persona continuing; each cycle makes removal more costly)
+  - ∂Φ/∂δγ (metabolic inversion — initially, maintaining the mask costs energy (performing is effortful); eventually, maintaining the mask costs less than remembering what was beneath it; dissociation is metabolically cheaper than authenticity)
+  - ∂Φ/∂μ (boundary dissolution between self and persona — the mask becomes invisible not through deception but through habituation; the container becomes the contained, and what was worn becomes what wears; μ-catastrophe as ontological colonization)
+  Z_state: sealed
+  z_note: 'Tendency toward sealed — the mask becomes invisible, assumed as true self; recognition requires external σ-distinction (crisis, witness, or mirror). Z-Closure Risk: μ-collapse — boundary between self and persona dissolves so completely that no internal vantage point for distinction remains.'
+  tendency: authentic/consuming → :consuming
+  hex:
+  - '#A015'
+  - '#A043'
+  - '#A019'
+  - '#A046'
 coords:
   ontology:
     primary: I
     secondary: We
   epistemics:
     dsrp:
-      D: "The distinction between authentic self and performed persona — the essential cut — becomes unavailable from inside the colonized state; the mask shapes what 'obviously' is, so there is no felt gap between performance and being"
-      S: "The mask presents as the complete system of self — not a layer over something else but the whole; alternative framings (the self beneath the mask) are not rejected but structurally inaccessible without external disruption"
-      R: "What flows between the wearer and the mask inverts over time — the relation begins as tool-use (I wear this) and ends as instrumental (this wears me); recognition of the inversion requires a perspective outside the relation"
-      P: "The perspective is locked inside the performed frame — the persona has become the viewing apparatus; trying to see the mask while looking through it is the structural impossibility that makes external witness (crisis, relationship, therapy) the primary access point"
+      D: The distinction between authentic self and performed persona — the essential cut — becomes unavailable from inside the colonized state; the mask shapes what 'obviously' is, so there is no felt gap between performance and being
+      S: The mask presents as the complete system of self — not a layer over something else but the whole; alternative framings (the self beneath the mask) are not rejected but structurally inaccessible without external disruption
+      R: What flows between the wearer and the mask inverts over time — the relation begins as tool-use (I wear this) and ends as instrumental (this wears me); recognition of the inversion requires a perspective outside the relation
+      P: The perspective is locked inside the performed frame — the persona has become the viewing apparatus; trying to see the mask while looking through it is the structural impossibility that makes external witness (crisis, relationship, therapy) the primary access point
     learning: L0
   agency:
     type: ego
     power_mode: Against
   time:
     mode: process
-    phase: "Stage 1: Mask Adoption (necessity or opportunity) → Stage 2: Performance (mask grants capabilities) → Stage 3: Habituation (performance becomes effortless, invisible) → Stage 4: Inversion (mask begins directing behavior) → Stage 5: Colonization (persona as self-evident identity, Z-sealed)"
+    phase: 'Stage 1: Mask Adoption (necessity or opportunity) → Stage 2: Performance (mask grants capabilities) → Stage 3: Habituation (performance becomes effortless, invisible) → Stage 4: Inversion (mask begins directing behavior) → Stage 5: Colonization (persona as self-evident identity, Z-sealed)'
   qualia:
-    affect: [empowered, hollow, seamless, invisible, alien, dissociated]
-    aesthetic: [polished, consistent, effortless, performed, uncanny, trapped]
-    symbolic: [Jung's Persona (the mask that becomes the face), The Method Actor who loses themselves, Social media profile as identity rather than representation]
-    energetic: [initially-costly, habituated-efficient, dissociation-cheap, δγ-inverted, agency-reversed]
+    affect:
+    - empowered
+    - hollow
+    - seamless
+    - invisible
+    - alien
+    - dissociated
+    aesthetic:
+    - polished
+    - consistent
+    - effortless
+    - performed
+    - uncanny
+    - trapped
+    symbolic:
+    - Jung's Persona (the mask that becomes the face)
+    - The Method Actor who loses themselves
+    - Social media profile as identity rather than representation
+    energetic:
+    - initially-costly
+    - habituated-efficient
+    - dissociation-cheap
+    - δγ-inverted
+    - agency-reversed
   coherence:
     state: sealed
     loop: recursive
     transcontext: low
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_emphasis:
-  ∴: "The cut between authentic self and performed persona becomes unavailable from inside the colonized state — the mask shapes what 'obviously' is, leaving no felt gap between performance and being. Air asks: If you could not use the persona to answer, who is asking this question?"
-  ≈: "What flows between the wearer and the mask inverts over time — from tool-use to instrumental use; the relation that once felt empowering begins to feel hollow, then feels like nothing at all. Water asks: What flows between you and your performance — and when did that flow reverse direction?"
-  ▲: "The direction reversal from agency to consumption is the defining mechanism — the mask that was once worn begins wearing; agency flows outward from persona rather than from self. Fire asks: Does this performance serve your expression or your erasure — and how would you know the difference from inside it?"
-  𐂷: "Recognizing the mask is itself a performance; meta-masking is possible; but what grows when masks drop is genuinely open. Wood asks: What identities have been foreclosed by the infrastructure of relationships and roles built around this persona — what has never been tried because the mask made it unthinkable?"
-  ☷: "The metabolic inversion — where maintaining the mask becomes cheaper than remembering what was beneath it — is the ground of colonization; dissociation is not chosen but arrives as the path of least energy. Earth asks: What would it cost to remember — and is the cost of forgetting worth what the persona provides?"
-  ⛨: "The structures that enable colonization are relational and social — relationships formed around the mask, roles that depend on the performance continuing, environments that reward the persona and punish its dissolution. Metal asks: What would need to be true structurally — in relationships, roles, and environments — before removing the mask became survivable?"
-context_note: >-
-  The Mask Wears You names a μ-catastrophe: the boundary failure in which the container
-  becomes the contained, the worn becomes the wearer. Unlike simple deception — wearing a
-  mask you know you wear — this is ontological colonization: the adopted persona digests
-  the authentic self through repeated performance until maintaining the mask costs less
-  energy than remembering what was beneath it. The process is not chosen but arrived at
-  through the metabolic logic of habituation: what was initially effortful (performance)
-  becomes automatic, then becomes identity. Recognition requires an external σ-distinction
-  — a mirror, a crisis, a witness — because the mask has become the viewing apparatus
-  through which all self-perception passes. Liberation is not simply dropping the mask but
-  first experiencing it as mask, which requires conditions (safety, witness, structural
-  support) that the persona-dependent infrastructure actively prevents from forming.
+  ∴: 'The cut between authentic self and performed persona becomes unavailable from inside the colonized state — the mask shapes what ''obviously'' is, leaving no felt gap between performance and being. Air asks: If you could not use the persona to answer, who is asking this question?'
+  ≈: 'What flows between the wearer and the mask inverts over time — from tool-use to instrumental use; the relation that once felt empowering begins to feel hollow, then feels like nothing at all. Water asks: What flows between you and your performance — and when did that flow reverse direction?'
+  ▲: 'The direction reversal from agency to consumption is the defining mechanism — the mask that was once worn begins wearing; agency flows outward from persona rather than from self. Fire asks: Does this performance serve your expression or your erasure — and how would you know the difference from inside it?'
+  𐂷: 'Recognizing the mask is itself a performance; meta-masking is possible; but what grows when masks drop is genuinely open. Wood asks: What identities have been foreclosed by the infrastructure of relationships and roles built around this persona — what has never been tried because the mask made it unthinkable?'
+  ☷: 'The metabolic inversion — where maintaining the mask becomes cheaper than remembering what was beneath it — is the ground of colonization; dissociation is not chosen but arrives as the path of least energy. Earth asks: What would it cost to remember — and is the cost of forgetting worth what the persona provides?'
+  ⛨: 'The structures that enable colonization are relational and social — relationships formed around the mask, roles that depend on the performance continuing, environments that reward the persona and punish its dissolution. Metal asks: What would need to be true structurally — in relationships, roles, and environments — before removing the mask became survivable?'
+context_note: 'The Mask Wears You names a μ-catastrophe: the boundary failure in which the container becomes the contained, the worn becomes the wearer. Unlike simple deception — wearing a mask you know you wear — this is ontological colonization: the adopted persona digests the authentic self through repeated performance until maintaining the mask costs less energy than remembering what was beneath it. The process is not chosen but arrived at through the metabolic logic of habituation: what was initially effortful (performance) becomes automatic, then becomes identity. Recognition requires an external σ-distinction — a mirror, a crisis, a witness — because the mask has become the viewing apparatus through which all self-perception passes. Liberation is not simply dropping the mask but first experiencing it as mask, which requires conditions (safety, witness, structural support) that the persona-dependent infrastructure actively prevents from forming.'
 source: Consolidated from 4 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

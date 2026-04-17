@@ -1,107 +1,177 @@
-term_id: "C003"
-hex_tag: "#C003"
-source_term: "KM Cognitive Pyramid"
-source_file: "1771907212354_235569_Understanding+the+KM+Cognitive+Pyramid.md"
-category: "critical_thinking"
-description: "The DIKW (Data-Information-Knowledge-Wisdom) hierarchy that models the transformation of raw data into actionable wisdom through progressive stages of contextualization, interpretation, and judgment."
-
-nemetic: "Φ(DIKW) = σ(data|wisdom) ∘ ρ(context|meaning) ∘ λ(ascend|transform) ∘ β(interpret|apply) ∘ δγ(cycle|refine) ∘ μ(boundary|hierarchical) + ε | :layered"
-
-siml_encoding: "⟨Data|raw⟩ ⊳ ⟨Context|added⟩ → ⟨Information|structured⟩ ⊗ ⟨Interpretation|applied⟩ → ⟨Knowledge|embodied⟩ ⇄ ⟨Wisdom|judged⟩"
-
+---
+term_id: C003
+hex_tag: '#C003'
+source_term: KM Cognitive Pyramid
+source_file: 1771907212354_235569_Understanding+the+KM+Cognitive+Pyramid.md
+category: critical_thinking
+description: The DIKW (Data-Information-Knowledge-Wisdom) hierarchy that models the transformation of raw data into actionable wisdom through progressive stages of contextualization, interpretation, and judgment.
+nemetic: Φ(DIKW) = σ(data|wisdom) ∘ ρ(context|meaning) ∘ λ(ascend|transform) ∘ β(interpret|apply) ∘ δγ(cycle|refine) ∘ μ(boundary|hierarchical) + ε | :layered
+siml_encoding: ⟨Data|raw⟩ ⊳ ⟨Context|added⟩ → ⟨Information|structured⟩ ⊗ ⟨Interpretation|applied⟩ → ⟨Knowledge|embodied⟩ ⇄ ⟨Wisdom|judged⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between raw data and synthesized wisdom; hierarchical classification)"
-    - "∂Φ/∂ρ (relational context that transforms data into meaningful information)"
-    - "∂Φ/∂λ (directional ascent through the pyramid toward wisdom)"
-    - "∂Φ/∂β (feedback loop between interpretation and practical application)"
-    - "∂Φ/∂δγ (cyclical refinement of understanding through practice)"
-    - "∂Φ/∂μ (boundary enforcement between hierarchical levels)"
-  Z_state: "structured (clear stratification from raw input to wise output)"
-  tendency: "Context/Raw → 0.8 (strong transformation dependency on contextualization)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between raw data and synthesized wisdom; hierarchical classification)
+  - ∂Φ/∂ρ (relational context that transforms data into meaningful information)
+  - ∂Φ/∂λ (directional ascent through the pyramid toward wisdom)
+  - ∂Φ/∂β (feedback loop between interpretation and practical application)
+  - ∂Φ/∂δγ (cyclical refinement of understanding through practice)
+  - ∂Φ/∂μ (boundary enforcement between hierarchical levels)
+  Z_state: semi
+  z_note: structured (clear stratification from raw input to wise output)
+  tendency: Context/Raw → 0.8 (strong transformation dependency on contextualization)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: It
     secondary: I
   agency:
-    type: individual
+    type: ego
     power_mode: With
-
+  epistemics:
+    dsrp:
+      D: data / wisdom
+      S: interpret / apply
+      R: context / meaning
+      P: ascend / transform
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Clear distinction between data, information, knowledge, and wisdom"
-      - "Logical hierarchy and classification"
-      - "Structural clarity of the pyramid model"
-    daemon_correspondence: "Aerunik - The daemon of clarity and distinction"
+    - Clear distinction between data, information, knowledge, and wisdom
+    - Logical hierarchy and classification
+    - Structural clarity of the pyramid model
+    daemon_correspondence: Aerunik - The daemon of clarity and distinction
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "Boundary enforcement between hierarchical levels"
-      - "Criteria for level transition (data→info→knowledge→wisdom)"
-      - "Validation of transformation quality"
-    daemon_correspondence: "Ferrosid - The daemon of structure and boundaries"
+    - Boundary enforcement between hierarchical levels
+    - Criteria for level transition (data→info→knowledge→wisdom)
+    - Validation of transformation quality
+    daemon_correspondence: Ferrosid - The daemon of structure and boundaries
   earth_delta_gamma:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "Cyclical refinement through practice and experience"
-      - "Grounding in real-world application"
-      - "Iterative deepening of understanding"
-    daemon_correspondence: "Humavita - The daemon of grounded presence"
+    - Cyclical refinement through practice and experience
+    - Grounding in real-world application
+    - Iterative deepening of understanding
+    daemon_correspondence: Humavita - The daemon of grounded presence
   fire_lambda:
-    emphasis: 0.60
+    emphasis: 0.6
     aspects:
-      - "Directional drive toward wisdom"
-      - "Purposeful transformation of raw data"
-      - "Aspiration for higher-order understanding"
-    daemon_correspondence: "Jvalion - The daemon of directed purpose"
+    - Directional drive toward wisdom
+    - Purposeful transformation of raw data
+    - Aspiration for higher-order understanding
+    daemon_correspondence: Jvalion - The daemon of directed purpose
   water_rho:
     emphasis: 0.55
     aspects:
-      - "Contextual flow that transforms data to meaning"
-      - "Relational connections between information elements"
-      - "Adaptive interpretation across situations"
-    daemon_correspondence: "Sentaria - The daemon of resonance and flow"
+    - Contextual flow that transforms data to meaning
+    - Relational connections between information elements
+    - Adaptive interpretation across situations
+    daemon_correspondence: Sentaria - The daemon of resonance and flow
   wood_beta:
-    emphasis: 0.50
+    emphasis: 0.5
     aspects:
-      - "Creative interpretation of information"
-      - "Novel application of knowledge"
-      - "Alternative pathways to wisdom"
-    daemon_correspondence: "Arboriel - The daemon of generative branching"
-
+    - Creative interpretation of information
+    - Novel application of knowledge
+    - Alternative pathways to wisdom
+    daemon_correspondence: Arboriel - The daemon of generative branching
 elemental_emphasis:
-  ∴: "How is data distinguished from wisdom? What cuts separate raw facts from contextualized understanding?"
-  ≈: "What flows between the levels? How does context transform data into meaning?"
-  ▲: "Where does the transformation want to go? Does the hierarchy serve understanding or oversimplify it?"
-  𐂷: "What forms of knowledge organization haven't been tried? What if the pyramid metaphor itself constrains thinking?"
-  ☷: "What's the metabolic cost of climbing the pyramid? What sustains the capacity for wisdom?"
-  ⛨: "What structures contain the DIKW hierarchy? What boundaries would enable or limit transformation between levels?"
-
+  ∴: How is data distinguished from wisdom? What cuts separate raw facts from contextualized understanding?
+  ≈: What flows between the levels? How does context transform data into meaning?
+  ▲: Where does the transformation want to go? Does the hierarchy serve understanding or oversimplify it?
+  𐂷: What forms of knowledge organization haven't been tried? What if the pyramid metaphor itself constrains thinking?
+  ☷: What's the metabolic cost of climbing the pyramid? What sustains the capacity for wisdom?
+  ⛨: What structures contain the DIKW hierarchy? What boundaries would enable or limit transformation between levels?
 related_terms:
-  - "Knowledge Management"
-  - "Information Architecture"
-  - "Epistemology"
-  - "Sensemaking"
-  - "Organizational Learning"
+- Knowledge Management
+- Information Architecture
+- Epistemology
+- Sensemaking
+- Organizational Learning
+context_note: The DIKW pyramid represents a foundational model in knowledge management, tracing the progression from raw Data (unprocessed facts), to Information (data with context), to Knowledge (applied and interpreted information), to Wisdom (sound judgment based on knowledge). While widely adopted, the model faces criticism for oversimplifying the recursive and non-linear nature of knowledge creation. In practice, wisdom often feeds back to reshape how we collect data, and knowledge can emerge directly from experience without passing through formal information stages. The pyramid serves as a pedagogical tool but may obscure the messy, iterative reality of sensemaking.
+timestamp: '2026-03-01T05:23:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    metal_mu: 0.75
+    earth_delta_gamma: 0.7
+    fire_lambda: 0.6
+    water_rho: 0.55
+    wood_beta: 0.5
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212354_235569_Understanding+the+KM+Cognitive+Pyramid.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - name_from_dirname
+  audit: SIML_STANDARDIZATION_2026-04-15
+name: km_cognitive_pyramid
 
-context_note: "The DIKW pyramid represents a foundational model in knowledge management, tracing the progression from raw Data (unprocessed facts), to Information (data with context), to Knowledge (applied and interpreted information), to Wisdom (sound judgment based on knowledge). While widely adopted, the model faces criticism for oversimplifying the recursive and non-linear nature of knowledge creation. In practice, wisdom often feeds back to reshape how we collect data, and knowledge can emerge directly from experience without passing through formal information stages. The pyramid serves as a pedagogical tool but may obscure the messy, iterative reality of sensemaking."
-
-timestamp: "2026-03-01T05:23:00+08:00"
-version: "1.0"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,156 +1,153 @@
 ---
-term: "Trust and Truth Relationship"
-hex_tag: "#C118"
-nemetic: "Φ(TrustTruth) = σ(trust|distrust) ∘ ρ(communication|breakdown) ∘ λ(intersubjectivity|emergence) ∘ β(dialogue|understanding) ∘ δγ(subjective|collective) ∘ μ(verification|faith) + ε | :intersubjective_truth"
-siml_encoding: "⟨Trust|present⟩ ⊳ ⟨Truth|intersubjective⟩ → ⟨Communication|enabled⟩ ⊗ ⟨Truth|co_constructed⟩ ⇄ ⟨Understanding|evolving⟩"
+term: Trust and Truth Relationship
+hex_tag: '#C118'
+nemetic: Φ(TrustTruth) = σ(trust|distrust) ∘ ρ(communication|breakdown) ∘ λ(intersubjectivity|emergence) ∘ β(dialogue|understanding) ∘ δγ(subjective|collective) ∘ μ(verification|faith) + ε | :intersubjective_truth
+siml_encoding: ⟨Trust|present⟩ ⊳ ⟨Truth|intersubjective⟩ → ⟨Communication|enabled⟩ ⊗ ⟨Truth|co_constructed⟩ ⇄ ⟨Understanding|evolving⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between trust and distrust; the logical separation of open communication from defensive closure)"
-    - "∂Φ/∂ρ (relational flow between meaningful dialogue and communicative breakdown; the channel connecting intersubjective engagement to isolation)"
-    - "∂Φ/∂λ (transformative spark when intersubjective engagement ignites emergent truth; the catalytic moment of co-constructed understanding)"
-    - "∂Φ/∂β (developmental cycle between dialogue and deepening understanding; the organic growth of shared meaning through iterative exchange)"
-    - "∂Φ/∂δγ (cyclical oscillation between subjective perspective and collective agreement; the rhythm of individual truth and shared reality)"
-    - "∂Φ/∂μ (boundary permeability between verification processes and faith in others; the threshold where evidence meets trust)"
-  Z_state: "intersubjective_truth (boundaries between subjective and objective dissolve through trust; individual perspective and collective understanding converge into emergent truth)"
-  tendency: "Trust/Dialogue → 0.88 (strong drive toward trust-based communication balanced by recognition of verification needs; achieving truth requires both faith in others and critical engagement)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between trust and distrust; the logical separation of open communication from defensive closure)
+  - ∂Φ/∂ρ (relational flow between meaningful dialogue and communicative breakdown; the channel connecting intersubjective engagement to isolation)
+  - ∂Φ/∂λ (transformative spark when intersubjective engagement ignites emergent truth; the catalytic moment of co-constructed understanding)
+  - ∂Φ/∂β (developmental cycle between dialogue and deepening understanding; the organic growth of shared meaning through iterative exchange)
+  - ∂Φ/∂δγ (cyclical oscillation between subjective perspective and collective agreement; the rhythm of individual truth and shared reality)
+  - ∂Φ/∂μ (boundary permeability between verification processes and faith in others; the threshold where evidence meets trust)
+  Z_state: permeable
+  z_note: intersubjective_truth (boundaries between subjective and objective dissolve through trust; individual perspective and collective understanding converge into emergent truth)
+  tendency: Trust/Dialogue → 0.88 (strong drive toward trust-based communication balanced by recognition of verification needs; achieving truth requires both faith in others and critical engagement)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
     secondary: I
   agency:
-    type: relational
+    type: collective
     power_mode: Between
+  epistemics:
+    dsrp:
+      D: trust / distrust
+      S: dialogue / understanding
+      R: communication / breakdown
+      P: intersubjectivity / emergence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: single
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "categorical distinction between trust and distrust"
-      - "logical taxonomy separating open communication from defensive closure"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between trust and distrust
+    - logical taxonomy separating open communication from defensive closure
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "fluid flow between meaningful dialogue and communicative breakdown"
-      - "relational dynamics connecting intersubjective engagement to isolation"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between meaningful dialogue and communicative breakdown
+    - relational dynamics connecting intersubjective engagement to isolation
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
     aspects:
-      - "transformative spark when intersubjective engagement ignites emergent truth"
-      - "energetic drive of co-constructed understanding through dialogue"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when intersubjective engagement ignites emergent truth
+    - energetic drive of co-constructed understanding through dialogue
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of shared meaning through iterative dialogue"
-      - "developmental cycle between communication and deepening understanding"
-    daemon_correspondence: "Arboriel"
+    - organic growth of shared meaning through iterative dialogue
+    - developmental cycle between communication and deepening understanding
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in the oscillation between subjective perspective and collective agreement"
-      - "cyclical rhythm of individual truth and shared reality"
-    daemon_correspondence: "Humavita"
+    - grounding in the oscillation between subjective perspective and collective agreement
+    - cyclical rhythm of individual truth and shared reality
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural boundaries between verification processes and faith in others"
-      - "discernment between evidence-based assessment and trust-based acceptance"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between verification processes and faith in others
+    - discernment between evidence-based assessment and trust-based acceptance
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the difference between trust and distrust? What categorical cuts separate open communication from defensive closure?"
-  ≈: "What flows between meaningful dialogue and communicative breakdown? How does the relational dynamic connect intersubjective engagement to isolation?"
-  ▲: "Where does the spark of intersubjectivity ignite emergent truth? What catalyzes the transformation from individual perspective to co-constructed understanding?"
-  𐂷: "What forms of growth emerge from iterative dialogue? What developmental potential exists between communication and deepening understanding?"
-  ☷: "What sustains the ground between subjective perspective and collective agreement? What are the cyclical returns between individual truth and shared reality?"
-  ⛨: "What structures contain the boundary between verification processes and faith in others? What thresholds separate evidence-based assessment from trust-based acceptance?"
-context_note: "Trust and Truth Relationship explores the foundational role of trust in establishing meaningful communication and co-constructing truth. The concept challenges objective truth paradigms, arguing that truth is inherently intersubjective and emerges through human interaction. Trust precedes truth verification—without trust, dialogue collapses and truth becomes irrelevant. The framework distinguishes between 'fake' as anything not corresponding to truth (including unintentional misinformation) and recognizes that labeling something 'fake' often devalues it rather than enabling constructive engagement. Multiple truths can coexist without contradiction, and truth evolves through memetic emergence in social contexts. This has profound implications for democracy, public relations, and human relationships, suggesting that fostering trust revitalizes communication and counters misinformation more effectively than combative fact-checking alone."
-source_file: "1771907212617_738556_Trust+and+Truth%3A+A+Complex+Relationship.md"
----
+  ∴: How do we classify the difference between trust and distrust? What categorical cuts separate open communication from defensive closure?
+  ≈: What flows between meaningful dialogue and communicative breakdown? How does the relational dynamic connect intersubjective engagement to isolation?
+  ▲: Where does the spark of intersubjectivity ignite emergent truth? What catalyzes the transformation from individual perspective to co-constructed understanding?
+  𐂷: What forms of growth emerge from iterative dialogue? What developmental potential exists between communication and deepening understanding?
+  ☷: What sustains the ground between subjective perspective and collective agreement? What are the cyclical returns between individual truth and shared reality?
+  ⛨: What structures contain the boundary between verification processes and faith in others? What thresholds separate evidence-based assessment from trust-based acceptance?
+context_note: Trust and Truth Relationship explores the foundational role of trust in establishing meaningful communication and co-constructing truth. The concept challenges objective truth paradigms, arguing that truth is inherently intersubjective and emerges through human interaction. Trust precedes truth verification—without trust, dialogue collapses and truth becomes irrelevant. The framework distinguishes between 'fake' as anything not corresponding to truth (including unintentional misinformation) and recognizes that labeling something 'fake' often devalues it rather than enabling constructive engagement. Multiple truths can coexist without contradiction, and truth evolves through memetic emergence in social contexts. This has profound implications for democracy, public relations, and human relationships, suggesting that fostering trust revitalizes communication and counters misinformation more effectively than combative fact-checking alone.
+source_file: 1771907212617_738556_Trust+and+Truth%3A+A+Complex+Relationship.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.9
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.75
+provenance:
+  source_file: "1771907212617_738556_Trust+and+Truth%3A+A+Complex+Relationship.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
 ---
-term: "Trust and Truth Relationship"
-hex_tag: "#C118"
-nemetic: "Φ(TrustTruth) = σ(trust|distrust) ∘ ρ(communication|breakdown) ∘ λ(intersubjectivity|emergence) ∘ β(dialogue|understanding) ∘ δγ(subjective|collective) ∘ μ(verification|faith) + ε | :intersubjective_truth"
-siml_encoding: "⟨Trust|present⟩ ⊳ ⟨Truth|intersubjective⟩ → ⟨Communication|enabled⟩ ⊗ ⟨Truth|co_constructed⟩ ⇄ ⟨Understanding|evolving⟩"
-formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
-  partials:
-    - "∂Φ/∂σ (categorical distinction between trust and distrust; the logical separation of open communication from defensive closure)"
-    - "∂Φ/∂ρ (relational flow between meaningful dialogue and communicative breakdown; the channel connecting intersubjective engagement to isolation)"
-    - "∂Φ/∂λ (transformative spark when intersubjective engagement ignites emergent truth; the catalytic moment of co-constructed understanding)"
-    - "∂Φ/∂β (developmental cycle between dialogue and deepening understanding; the organic growth of shared meaning through iterative exchange)"
-    - "∂Φ/∂δγ (cyclical oscillation between subjective perspective and collective agreement; the rhythm of individual truth and shared reality)"
-    - "∂Φ/∂μ (boundary permeability between verification processes and faith in others; the threshold where evidence meets trust)"
-  Z_state: "intersubjective_truth (boundaries between subjective and objective dissolve through trust; individual perspective and collective understanding converge into emergent truth)"
-  tendency: "Trust/Dialogue → 0.88 (strong drive toward trust-based communication balanced by recognition of verification needs; achieving truth requires both faith in others and critical engagement)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-coords:
-  ontology:
-    primary: We
-    secondary: I
-  agency:
-    type: relational
-    power_mode: Between
-elemental_mapping:
-  air_sigma:
-    emphasis: 0.90
-    aspects:
-      - "categorical distinction between trust and distrust"
-      - "logical taxonomy separating open communication from defensive closure"
-    daemon_correspondence: "Aerunik"
-  water_rho:
-    emphasis: 0.90
-    aspects:
-      - "fluid flow between meaningful dialogue and communicative breakdown"
-      - "relational dynamics connecting intersubjective engagement to isolation"
-    daemon_correspondence: "Sentaria"
-  fire_lambda:
-    emphasis: 0.85
-    aspects:
-      - "transformative spark when intersubjective engagement ignites emergent truth"
-      - "energetic drive of co-constructed understanding through dialogue"
-    daemon_correspondence: "Jvalion"
-  wood_beta:
-    emphasis: 0.80
-    aspects:
-      - "organic growth of shared meaning through iterative dialogue"
-      - "developmental cycle between communication and deepening understanding"
-    daemon_correspondence: "Arboriel"
-  earth_delta_gamma:
-    emphasis: 0.85
-    aspects:
-      - "grounding in the oscillation between subjective perspective and collective agreement"
-      - "cyclical rhythm of individual truth and shared reality"
-    daemon_correspondence: "Humavita"
-  metal_mu:
-    emphasis: 0.75
-    aspects:
-      - "structural boundaries between verification processes and faith in others"
-      - "discernment between evidence-based assessment and trust-based acceptance"
-    daemon_correspondence: "Ferrosid"
-elemental_emphasis:
-  ∴: "How do we classify the difference between trust and distrust? What categorical cuts separate open communication from defensive closure?"
-  ≈: "What flows between meaningful dialogue and communicative breakdown? How does the relational dynamic connect intersubjective engagement to isolation?"
-  ▲: "Where does the spark of intersubjectivity ignite emergent truth? What catalyzes the transformation from individual perspective to co-constructed understanding?"
-  𐂷: "What forms of growth emerge from iterative dialogue? What developmental potential exists between communication and deepening understanding?"
-  ☷: "What sustains the ground between subjective perspective and collective agreement? What are the cyclical returns between individual truth and shared reality?"
-  ⛨: "What structures contain the boundary between verification processes and faith in others? What thresholds separate evidence-based assessment from trust-based acceptance?"
-context_note: "Trust and Truth Relationship explores the foundational role of trust in establishing meaningful communication and co-constructing truth. The concept challenges objective truth paradigms, arguing that truth is inherently intersubjective and emerges through human interaction. Trust precedes truth verification—without trust, dialogue collapses and truth becomes irrelevant. The framework distinguishes between 'fake' as anything not corresponding to truth (including unintentional misinformation) and recognizes that labeling something 'fake' often devalues it rather than enabling constructive engagement. Multiple truths can coexist without contradiction, and truth evolves through memetic emergence in social contexts. This has profound implications for democracy, public relations, and human relationships, suggesting that fostering trust revitalizes communication and counters misinformation more effectively than combative fact-checking alone."
-source_file: "1771907212617_738556_Trust+and+Truth%3A+A+Complex+Relationship.md"
----
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Macro-level description increases causal informativeness over micro-level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"

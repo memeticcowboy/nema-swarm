@@ -1,107 +1,177 @@
-term_id: "C001"
-hex_tag: "#C001"
-source_term: "Critical Thinking Definitions"
-source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
-category: "critical_thinking"
-description: "The explicit teaching and practice of critical thinking to interpret, analyze, and evaluate ideas and arguments through reflective practice and structured decision-making."
-
-nemetic: "Φ(CritThink) = σ(analysis|synthesis) ∘ ρ(evaluation|evidence) ∘ λ(reasoning|conclusion) ∘ β(reflection|action) ∘ δγ(inquiry|understanding) ∘ μ(validity|fallacy) + ε | :discerning"
-
-siml_encoding: "⟨Claim|asserted⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Analysis|structured⟩ ⊗ ⟨Evaluation|reasoned⟩ ⇄ ⟨Conclusion|warranted⟩"
-
+---
+term_id: C001
+hex_tag: '#C001'
+source_term: Critical Thinking Definitions
+source_file: 1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md
+category: critical_thinking
+description: The explicit teaching and practice of critical thinking to interpret, analyze, and evaluate ideas and arguments through reflective practice and structured decision-making.
+nemetic: Φ(CritThink) = σ(analysis|synthesis) ∘ ρ(evaluation|evidence) ∘ λ(reasoning|conclusion) ∘ β(reflection|action) ∘ δγ(inquiry|understanding) ∘ μ(validity|fallacy) + ε | :discerning
+siml_encoding: ⟨Claim|asserted⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Analysis|structured⟩ ⊗ ⟨Evaluation|reasoned⟩ ⇄ ⟨Conclusion|warranted⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction between analysis and synthesis; breaking apart vs. integrating)"
-    - "∂Φ/∂ρ (relational evaluation between evidence and claim)"
-    - "∂Φ/∂λ (directional reasoning toward warranted conclusions)"
-    - "∂Φ/∂β (feedback loop between reflection and action)"
-    - "∂Φ/∂δγ (metabolic cycle of inquiry leading to understanding)"
-    - "∂Φ/∂μ (boundary enforcement between valid inference and fallacy)"
-  Z_state: "porous (open to evidence, resistant to fallacy)"
-  tendency: "Evidence/Belief → 0.7 (strong preference for evidence-based reasoning)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
-
+  - ∂Φ/∂σ (distinction between analysis and synthesis; breaking apart vs. integrating)
+  - ∂Φ/∂ρ (relational evaluation between evidence and claim)
+  - ∂Φ/∂λ (directional reasoning toward warranted conclusions)
+  - ∂Φ/∂β (feedback loop between reflection and action)
+  - ∂Φ/∂δγ (metabolic cycle of inquiry leading to understanding)
+  - ∂Φ/∂μ (boundary enforcement between valid inference and fallacy)
+  Z_state: permeable
+  z_note: porous (open to evidence, resistant to fallacy)
+  tendency: Evidence/Belief → 0.7 (strong preference for evidence-based reasoning)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: We
   agency:
-    type: individual
+    type: ego
     power_mode: With
-
+  epistemics:
+    dsrp:
+      D: analysis / synthesis
+      S: reflection / action
+      R: evaluation / evidence
+      P: reasoning / conclusion
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "Logical structure and distinction-making"
-      - "Clarity of argumentation"
-      - "Classification of reasoning types"
-    daemon_correspondence: "Claritas - The daemon of clear distinction"
+    - Logical structure and distinction-making
+    - Clarity of argumentation
+    - Classification of reasoning types
+    daemon_correspondence: Claritas - The daemon of clear distinction
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "Validity checking and boundary enforcement"
-      - "Fallacy detection"
-      - "Criteria for sound reasoning"
-    daemon_correspondence: "Krites - The daemon of judgment"
+    - Validity checking and boundary enforcement
+    - Fallacy detection
+    - Criteria for sound reasoning
+    daemon_correspondence: Krites - The daemon of judgment
   fire_lambda:
     emphasis: 0.65
     aspects:
-      - "Directional inquiry toward truth"
-      - "Purpose-driven reasoning"
-      - "Motivation to question assumptions"
-    daemon_correspondence: "Zetesis - The daemon of seeking"
+    - Directional inquiry toward truth
+    - Purpose-driven reasoning
+    - Motivation to question assumptions
+    daemon_correspondence: Zetesis - The daemon of seeking
   earth_delta_gamma:
-    emphasis: 0.60
+    emphasis: 0.6
     aspects:
-      - "Reflective cycles and iterative refinement"
-      - "Grounding in evidence"
-      - "Practical application"
-    daemon_correspondence: "Peira - The daemon of practice"
+    - Reflective cycles and iterative refinement
+    - Grounding in evidence
+    - Practical application
+    daemon_correspondence: Peira - The daemon of practice
   water_rho:
     emphasis: 0.55
     aspects:
-      - "Perspective-taking across frameworks"
-      - "Charitable interpretation of arguments"
-      - "Flow between evidence and conclusion"
-    daemon_correspondence: "Synesis - The daemon of understanding"
+    - Perspective-taking across frameworks
+    - Charitable interpretation of arguments
+    - Flow between evidence and conclusion
+    daemon_correspondence: Synesis - The daemon of understanding
   wood_beta:
-    emphasis: 0.50
+    emphasis: 0.5
     aspects:
-      - "Creative hypothesis generation"
-      - "Alternative explanation exploration"
-      - "Novel problem framing"
-    daemon_correspondence: "Euresis - The daemon of discovery"
-
+    - Creative hypothesis generation
+    - Alternative explanation exploration
+    - Novel problem framing
+    daemon_correspondence: Euresis - The daemon of discovery
 elemental_emphasis:
-  ∴: "How is valid reasoning distinguished from fallacy? What cuts separate sound argument from sophistry?"
-  ≈: "What flows between evidence and conclusion? What relational dynamics enable or distort inference?"
-  ▲: "Where does the inquiry want to go? Does reasoning serve truth-seeking or confirmation?"
-  𐂷: "What forms of reasoning haven't been tried? What alternative frameworks challenge current assumptions?"
-  ☷: "What's the metabolic cost of sustained critical inquiry? What sustains the practice of reflection?"
-  ⛨: "What structures contain or enable critical thinking? What boundaries separate valid from invalid inference?"
-
+  ∴: How is valid reasoning distinguished from fallacy? What cuts separate sound argument from sophistry?
+  ≈: What flows between evidence and conclusion? What relational dynamics enable or distort inference?
+  ▲: Where does the inquiry want to go? Does reasoning serve truth-seeking or confirmation?
+  𐂷: What forms of reasoning haven't been tried? What alternative frameworks challenge current assumptions?
+  ☷: What's the metabolic cost of sustained critical inquiry? What sustains the practice of reflection?
+  ⛨: What structures contain or enable critical thinking? What boundaries separate valid from invalid inference?
 related_terms:
-  - "Cognitive Biases"
-  - "Argument Evaluation"
-  - "Reflective Thinking"
-  - "Probabilistic Thinking"
-  - "Decision-Making"
+- Cognitive Biases
+- Argument Evaluation
+- Reflective Thinking
+- Probabilistic Thinking
+- Decision-Making
+context_note: 'Critical thinking encompasses multiple traditions: Dewey''s ''reflective thinking'' emphasizes active consideration of beliefs; Glaser''s definition includes attitude, knowledge of methods, and application skill; Ennis focuses on reasonable reflective thinking for decision-making; Scriven emphasizes skilled interpretation and evaluation. The concept bridges individual cognition (I) and collaborative discourse (We), requiring both internal reflection and external validation. Key challenges include overcoming cognitive biases, maintaining open-mindedness while exercising discernment, and translating analysis into action.'
+timestamp: '2026-03-01T05:03:00+08:00'
+version: '1.0'
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    metal_mu: 0.8
+    fire_lambda: 0.65
+    earth_delta_gamma: 0.6
+    water_rho: 0.55
+    wood_beta: 0.5
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212989_1891415_Exploring+Critical+Thinking%3A+Definitions+and+Applications.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - name_from_dirname
+  audit: SIML_STANDARDIZATION_2026-04-15
+name: critical_thinking_definitions
 
-context_note: "Critical thinking encompasses multiple traditions: Dewey's 'reflective thinking' emphasizes active consideration of beliefs; Glaser's definition includes attitude, knowledge of methods, and application skill; Ennis focuses on reasonable reflective thinking for decision-making; Scriven emphasizes skilled interpretation and evaluation. The concept bridges individual cognition (I) and collaborative discourse (We), requiring both internal reflection and external validation. Key challenges include overcoming cognitive biases, maintaining open-mindedness while exercising discernment, and translating analysis into action."
-
-timestamp: "2026-03-01T05:03:00+08:00"
-version: "1.0"
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,32 +1,155 @@
 ---
-term: "IIT vs Computational-Functionalism"
-hex_tag: "S0A1"
-series: "S"
-source_file: "1771907212963_1834505_Challenging+Computational-Functionalism%3A+Insights+from+Integrated+Information+Theory.md"
-encoded_at: "2026-03-06T03:00:00Z"
-description: "Integrated Information Theory (IIT) challenging computational-functionalism in neuroscience — consciousness-first approach beginning with subjective experience rather than treating consciousness as byproduct of computation; objective testability through mathematical framework quantifying consciousness; decades of conceptual, mathematical, and empirical development; paradigm crisis in neuroscience where computational-functionalist models fail to account for subjective experience; interdisciplinary implications for philosophy, psychology, and AI; debate on scientific validity with critics labeling IIT pseudoscientific; integration potential with other consciousness theories; ethical considerations for artificial intelligence and machine consciousness."
-nemetic: "Φ(IIT vs Computational-Functionalism) = σ(consciousness_as_primary|computation_as_primary) ∘ ρ(subjective_experience_objective_measurement_coupling|neuroscience_philosophy_AI_integration) ∘ λ(functionalist_paradigm|consciousness_first_paradigm) ∘ β(early_conceptual_framework|empirically_grounded_mathematical_theory) ∘ δγ(theory_critique_refinement_cycle|empirical_validation_iteration) ∘ μ(mathematical_quantification_framework|integrated_information_architecture) + ε | :consciousness_as_irreducible_to_computation"
-siml_encoding: "⟨consciousness_computation_distinction, primary_secondary_boundary⟩ ⊳ ⟨subjective_objective_coupling, neuroscience_philosophy_integration⟩ → ⟨functionalist_to_consciousness_first_transformation, paradigm_shift_catalysis⟩ ⊗ ⟨conceptual_to_empirical_growth, mathematical_rigor_development⟩ ⇄ ⟨theory_critique_cycling, empirical_validation_iteration⟩"
+term: IIT vs Computational-Functionalism
+hex_tag: S0A1
+series: S
+source_file: 1771907212963_1834505_Challenging+Computational-Functionalism%3A+Insights+from+Integrated+Information+Theory.md
+encoded_at: '2026-03-06T03:00:00Z'
+description: Integrated Information Theory (IIT) challenging computational-functionalism in neuroscience — consciousness-first approach beginning with subjective experience rather than treating consciousness as byproduct of computation; objective testability through mathematical framework quantifying consciousness; decades of conceptual, mathematical, and empirical development; paradigm crisis in neuroscience where computational-functionalist models fail to account for subjective experience; interdisciplinary implications for philosophy, psychology, and AI; debate on scientific validity with critics labeling IIT pseudoscientific; integration potential with other consciousness theories; ethical considerations for artificial intelligence and machine consciousness.
+nemetic: Φ(IIT vs Computational-Functionalism) = σ(consciousness_as_primary|computation_as_primary) ∘ ρ(subjective_experience_objective_measurement_coupling|neuroscience_philosophy_AI_integration) ∘ λ(functionalist_paradigm|consciousness_first_paradigm) ∘ β(early_conceptual_framework|empirically_grounded_mathematical_theory) ∘ δγ(theory_critique_refinement_cycle|empirical_validation_iteration) ∘ μ(mathematical_quantification_framework|integrated_information_architecture) + ε | :consciousness_as_irreducible_to_computation
+siml_encoding: ⟨consciousness_computation_distinction, primary_secondary_boundary⟩ ⊳ ⟨subjective_objective_coupling, neuroscience_philosophy_integration⟩ → ⟨functionalist_to_consciousness_first_transformation, paradigm_shift_catalysis⟩ ⊗ ⟨conceptual_to_empirical_growth, mathematical_rigor_development⟩ ⇄ ⟨theory_critique_cycling, empirical_validation_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: consciousness_as_primary / computation_as_primary
+      S: early_conceptual_framework / empirically_grounded_mathematical_theory
+      R: subjective_experience_objective_measurement_coupling / neuroscience_philosophy_AI_integration
+      P: functionalist_paradigm / consciousness_first_paradigm
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the consciousness-first position — subjective experience as the starting point for understanding cognition — from the computation-first position — consciousness as emergent byproduct of information processing; this is the fundamental paradigmatic divide)"
-    - "∂Φ/∂ρ (relating subjective experience to objective measurement through IIT's mathematical framework, and coupling neuroscience with philosophy and AI in an interdisciplinary network that the computational-functionalist paradigm cannot adequately support)"
-    - "∂Φ/∂λ (transforming the dominant functionalist paradigm — where consciousness is reduced to computational processes — into a consciousness-first paradigm where subjective experience is foundational and computation is secondary; this represents a potential Kuhnian paradigm shift)"
-    - "∂Φ/∂β (growth from early conceptual framework proposing consciousness as integrated information to an empirically grounded mathematical theory with decades of development, testable predictions, and rigorous quantification methods)"
-    - "∂Φ/∂δγ (cycling between theory development, critique from functionalist opponents labeling IIT pseudoscientific, and refinement through engagement with criticism; alongside iterative empirical validation through studies and preprints)"
-    - "∂Φ/∂μ (mathematical quantification as structural framework — IIT's formalism for measuring integrated information — alongside the architectural principle that consciousness requires integrated information that cannot be decomposed into independent parts)"
-  Z_state: "consciousness_as_irreducible_to_computation — IIT's fundamental claim is that consciousness cannot be reduced to computational processes; subjective experience is primary and must be the starting point for any adequate theory of mind; the mathematical framework quantifying integrated information provides objective testability while respecting the irreducibility of consciousness; the Z-state emerges when the paradigm crisis in neuroscience is recognized — computational-functionalism has failed to explain why there is something it is like to be conscious — and IIT is understood as a serious alternative that begins with what needs explaining (consciousness) rather than with what is convenient to model (computation)"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing the consciousness-first position — subjective experience as the starting point for understanding cognition — from the computation-first position — consciousness as emergent byproduct of information processing; this is the fundamental paradigmatic divide)
+  - ∂Φ/∂ρ (relating subjective experience to objective measurement through IIT's mathematical framework, and coupling neuroscience with philosophy and AI in an interdisciplinary network that the computational-functionalist paradigm cannot adequately support)
+  - ∂Φ/∂λ (transforming the dominant functionalist paradigm — where consciousness is reduced to computational processes — into a consciousness-first paradigm where subjective experience is foundational and computation is secondary; this represents a potential Kuhnian paradigm shift)
+  - ∂Φ/∂β (growth from early conceptual framework proposing consciousness as integrated information to an empirically grounded mathematical theory with decades of development, testable predictions, and rigorous quantification methods)
+  - ∂Φ/∂δγ (cycling between theory development, critique from functionalist opponents labeling IIT pseudoscientific, and refinement through engagement with criticism; alongside iterative empirical validation through studies and preprints)
+  - ∂Φ/∂μ (mathematical quantification as structural framework — IIT's formalism for measuring integrated information — alongside the architectural principle that consciousness requires integrated information that cannot be decomposed into independent parts)
+  Z_state: permeable
+  z_note: consciousness_as_irreducible_to_computation — IIT's fundamental claim is that consciousness cannot be reduced to computational processes; subjective experience is primary and must be the starting point for any adequate theory of mind; the mathematical framework quantifying integrated information provides objective testability while respecting the irreducibility of consciousness; the Z-state emerges when the paradigm crisis in neuroscience is recognized — computational-functionalism has failed to explain why there is something it is like to be conscious — and IIT is understood as a serious alternative that begins with what needs explaining (consciousness) rather than with what is convenient to model (computation)
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["consciousness_computation_distinction", "primary_secondary_paradigm_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["subjective_objective_coupling", "neuroscience_philosophy_AI_integration"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["functionalist_to_consciousness_first_transformation", "paradigm_shift_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["conceptual_to_empirical_growth", "mathematical_rigor_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["theory_critique_cycling", "empirical_validation_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["mathematical_quantification_framework", "integrated_information_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S027", "S089", "S093", "S097"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - consciousness_computation_distinction
+    - primary_secondary_paradigm_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - subjective_objective_coupling
+    - neuroscience_philosophy_AI_integration
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - functionalist_to_consciousness_first_transformation
+    - paradigm_shift_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - conceptual_to_empirical_growth
+    - mathematical_rigor_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - theory_critique_cycling
+    - empirical_validation_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - mathematical_quantification_framework
+    - integrated_information_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S027
+- S089
+- S093
+- S097
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.75
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212963_1834505_Challenging+Computational-Functionalism%3A+Insights+from+Integrated+Information+Theory.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

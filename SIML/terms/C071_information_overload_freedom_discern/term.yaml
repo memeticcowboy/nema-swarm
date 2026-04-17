@@ -1,82 +1,155 @@
 ---
-term: "Information Overload and Freedom to Discern"
-hex_tag: "#C071"
-nemetic: "Φ(InformationOverload) = σ(signal|noise) ∘ ρ(clarity|confusion) ∘ λ(discernment|overload) ∘ β(hygiene|contamination) ∘ δγ(grounding|fragmentation) ∘ μ(boundaries|flooding) + ε | :discerning"
-siml_encoding: "⟨Information|saturated⟩ ⊳ ⟨Discernment|active⟩ → ⟨Clarity|emergent⟩ ⊗ ⟨Signal|filtered⟩ ⇄ ⟨Understanding|deep⟩"
+term: Information Overload and Freedom to Discern
+hex_tag: '#C071'
+nemetic: Φ(InformationOverload) = σ(signal|noise) ∘ ρ(clarity|confusion) ∘ λ(discernment|overload) ∘ β(hygiene|contamination) ∘ δγ(grounding|fragmentation) ∘ μ(boundaries|flooding) + ε | :discerning
+siml_encoding: ⟨Information|saturated⟩ ⊳ ⟨Discernment|active⟩ → ⟨Clarity|emergent⟩ ⊗ ⟨Signal|filtered⟩ ⇄ ⟨Understanding|deep⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between signal and noise; the logical separation of valuable information from distraction)"
-    - "∂Φ/∂ρ (relational flow between cognitive clarity and confusion; the channel connecting analytic function to overwhelm)"
-    - "∂Φ/∂λ (transformative spark when discernment ignites amidst saturation; the ignition of viveka—inner knowing)"
-    - "∂Φ/∂β (developmental cycle between epistemic hygiene and contamination; the organic growth of truth-mapping resilience)"
-    - "∂Φ/∂δγ (cyclical oscillation between cognitive grounding and fragmentation; the rhythm of attention restoration)"
-    - "∂Φ/∂μ (boundary permeability between protected cognitive space and information flooding; the threshold of memetic defense)"
-  Z_state: "discerning (boundaries between signal and noise dissolve through cultivated attention; information becomes navigable rather than overwhelming)"
-  tendency: "Clarity/Confusion → 0.70 (strong drive toward epistemic clarity; achieving freedom to discern requires active filtering and analytic engagement)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between signal and noise; the logical separation of valuable information from distraction)
+  - ∂Φ/∂ρ (relational flow between cognitive clarity and confusion; the channel connecting analytic function to overwhelm)
+  - ∂Φ/∂λ (transformative spark when discernment ignites amidst saturation; the ignition of viveka—inner knowing)
+  - ∂Φ/∂β (developmental cycle between epistemic hygiene and contamination; the organic growth of truth-mapping resilience)
+  - ∂Φ/∂δγ (cyclical oscillation between cognitive grounding and fragmentation; the rhythm of attention restoration)
+  - ∂Φ/∂μ (boundary permeability between protected cognitive space and information flooding; the threshold of memetic defense)
+  Z_state: semi
+  z_note: discerning (boundaries between signal and noise dissolve through cultivated attention; information becomes navigable rather than overwhelming)
+  tendency: Clarity/Confusion → 0.70 (strong drive toward epistemic clarity; achieving freedom to discern requires active filtering and analytic engagement)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: We
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: signal / noise
+      S: hygiene / contamination
+      R: clarity / confusion
+      P: discernment / overload
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: low
+    ce_direction: submergent
+    scale_note: Over-abstraction risks losing causal structure; micro-level dynamics carry more information
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: low
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical distinction between signal and noise; logical analysis filtering valuable information from distraction"
-      - "intellectual clarity in applying the analytic function to break complex information into manageable pieces"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between signal and noise; logical analysis filtering valuable information from distraction
+    - intellectual clarity in applying the analytic function to break complex information into manageable pieces
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between cognitive clarity and confusion; the channeling of attention through information saturation"
-      - "relational dynamics between availability bias and genuine insight; the waters of discernment versus overwhelm"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between cognitive clarity and confusion; the channeling of attention through information saturation
+    - relational dynamics between availability bias and genuine insight; the waters of discernment versus overwhelm
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark of viveka—inner knowing that distinguishes reality from illusion"
-      - "energetic drive to resist premature coherence and achieve genuine understanding"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of viveka—inner knowing that distinguishes reality from illusion
+    - energetic drive to resist premature coherence and achieve genuine understanding
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of epistemic hygiene practices; the unfolding of truth-mapping resilience"
-      - "developmental progression from passive consumption to active discernment"
-    daemon_correspondence: "Arboriel"
+    - organic growth of epistemic hygiene practices; the unfolding of truth-mapping resilience
+    - developmental progression from passive consumption to active discernment
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "grounding in cognitive health practices; the embodied foundation of sleep, exercise, and social engagement"
-      - "cyclical nature of attention restoration; the rhythm of engagement and recovery"
-    daemon_correspondence: "Humavita"
+    - grounding in cognitive health practices; the embodied foundation of sleep, exercise, and social engagement
+    - cyclical nature of attention restoration; the rhythm of engagement and recovery
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.85
     aspects:
-      - "structural boundaries protecting cognitive space from memetic flooding; the architecture of information filtering"
-      - "discernment between healthy epistemic boundaries and restrictive echo chambers"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries protecting cognitive space from memetic flooding; the architecture of information filtering
+    - discernment between healthy epistemic boundaries and restrictive echo chambers
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we distinguish between signal and noise? What categorical cuts separate valuable information from memetic distraction?"
-  ≈: "What flows between cognitive clarity and confusion? How do we channel attention through the flood of information saturation?"
-  ▲: "Where does the spark of viveka ignite? What transforms passive consumption into active discernment?"
-  𐂷: "What forms of truth-mapping resilience remain dormant? What developmental potential lies in cultivating epistemic hygiene?"
-  ☷: "What sustains the ground of cognitive health? What are the cyclical returns between information engagement and attention restoration?"
-  ⛨: "What structures protect cognitive boundaries? What thresholds separate healthy filtering from restrictive denial?"
-context_note: "Information Overload and Freedom to Discern addresses the challenge of navigating an exponentially expanding information landscape while maintaining cognitive clarity and truth-mapping ability. The concept of 'viveka'—inner knowing that distinguishes reality from illusion—provides a philosophical foundation for developing discernment. Key practices include epistemic hygiene (cultivating accurate beliefs), analytic function engagement (breaking complex information into manageable pieces), and cognitive health maintenance (sleep, exercise, social connection). The framework addresses cognitive biases (confirmation, availability, anchoring), semantic drift, epistemic fatigue, and the fractures in shared sensemaking created by filter bubbles and echo chambers."
-source_file: "1771907213160_2158952_Navigating+Information+Overload%3A+Cultivating+%27Freedom+to+Discern%27+in+a+Saturated+Digital+World.md"
+  ∴: How do we distinguish between signal and noise? What categorical cuts separate valuable information from memetic distraction?
+  ≈: What flows between cognitive clarity and confusion? How do we channel attention through the flood of information saturation?
+  ▲: Where does the spark of viveka ignite? What transforms passive consumption into active discernment?
+  𐂷: What forms of truth-mapping resilience remain dormant? What developmental potential lies in cultivating epistemic hygiene?
+  ☷: What sustains the ground of cognitive health? What are the cyclical returns between information engagement and attention restoration?
+  ⛨: What structures protect cognitive boundaries? What thresholds separate healthy filtering from restrictive denial?
+context_note: Information Overload and Freedom to Discern addresses the challenge of navigating an exponentially expanding information landscape while maintaining cognitive clarity and truth-mapping ability. The concept of 'viveka'—inner knowing that distinguishes reality from illusion—provides a philosophical foundation for developing discernment. Key practices include epistemic hygiene (cultivating accurate beliefs), analytic function engagement (breaking complex information into manageable pieces), and cognitive health maintenance (sleep, exercise, social connection). The framework addresses cognitive biases (confirmation, availability, anchoring), semantic drift, epistemic fatigue, and the fractures in shared sensemaking created by filter bubbles and echo chambers.
+source_file: 1771907213160_2158952_Navigating+Information+Overload%3A+Cultivating+%27Freedom+to+Discern%27+in+a+Saturated+Digital+World.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.8
+    metal_mu: 0.85
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907213160_2158952_Navigating+Information+Overload%3A+Cultivating+%27Freedom+to+Discern%27+in+a+Saturated+Digital+World.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: low
-  ce_direction: submergent
-  scale_note: "Over-abstraction risks losing causal structure; micro-level dynamics carry more information"
-  determinism: low
-  degeneracy: high
-  sufficiency: low
-  necessity: low
-siml_version: "1.3"
+---

@@ -1,83 +1,153 @@
 ---
-term: "Murphyjitsu"
-hex_tag: "#C117"
-nemetic: "Φ(Murphyjitsu) = σ(plan|failure) ∘ ρ(optimism|realism) ∘ λ(insight|preparedness) ∘ β(strategy|resilience) ∘ δγ(hindsight|foresight) ∘ μ(intuition|analysis) + ε | :preemptive_failure_analysis"
-siml_encoding: "⟨Plan|formulated⟩ ⊳ ⟨Failure|visualized⟩ → ⟨Strategy|bulletproofed⟩ ⊗ ⟨Outcome|improved⟩ ⇄ ⟨Resilience|enhanced⟩"
+term: Murphyjitsu
+hex_tag: '#C117'
+nemetic: Φ(Murphyjitsu) = σ(plan|failure) ∘ ρ(optimism|realism) ∘ λ(insight|preparedness) ∘ β(strategy|resilience) ∘ δγ(hindsight|foresight) ∘ μ(intuition|analysis) + ε | :preemptive_failure_analysis
+siml_encoding: ⟨Plan|formulated⟩ ⊳ ⟨Failure|visualized⟩ → ⟨Strategy|bulletproofed⟩ ⊗ ⟨Outcome|improved⟩ ⇄ ⟨Resilience|enhanced⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between planned success and potential failure; the logical separation of optimistic projections from realistic obstacles)"
-    - "∂Φ/∂ρ (relational flow between optimism bias and realistic assessment; the channel connecting hopeful planning to grounded foresight)"
-    - "∂Φ/∂λ (transformative spark when pre-hindsight ignites actionable insight; the catalytic moment of failure visualization becoming preparedness)"
-    - "∂Φ/∂β (developmental cycle between strategy formulation and resilience building; the organic growth of robust planning through iterative bulletproofing)"
-    - "∂Φ/∂δγ (cyclical oscillation between retrospective hindsight and prospective foresight; the rhythm of learning from past failures to prevent future ones)"
-    - "∂Φ/∂μ (boundary permeability between intuitive inner simulator and analytical System 2; the threshold where gut feeling meets deliberate reasoning)"
-  Z_state: "preemptive_failure_analysis (boundaries between optimism and realism dissolve through pre-hindsight; intuitive prediction and analytical planning converge into bulletproofed strategy)"
-  tendency: "Preparedness/Realism → 0.86 (strong drive toward preemptive obstacle identification balanced by recognition of planning fallacy limits; achieving robust plans requires both intuitive simulation and analytical refinement)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between planned success and potential failure; the logical separation of optimistic projections from realistic obstacles)
+  - ∂Φ/∂ρ (relational flow between optimism bias and realistic assessment; the channel connecting hopeful planning to grounded foresight)
+  - ∂Φ/∂λ (transformative spark when pre-hindsight ignites actionable insight; the catalytic moment of failure visualization becoming preparedness)
+  - ∂Φ/∂β (developmental cycle between strategy formulation and resilience building; the organic growth of robust planning through iterative bulletproofing)
+  - ∂Φ/∂δγ (cyclical oscillation between retrospective hindsight and prospective foresight; the rhythm of learning from past failures to prevent future ones)
+  - ∂Φ/∂μ (boundary permeability between intuitive inner simulator and analytical System 2; the threshold where gut feeling meets deliberate reasoning)
+  Z_state: semi
+  z_note: preemptive_failure_analysis (boundaries between optimism and realism dissolve through pre-hindsight; intuitive prediction and analytical planning converge into bulletproofed strategy)
+  tendency: Preparedness/Realism → 0.86 (strong drive toward preemptive obstacle identification balanced by recognition of planning fallacy limits; achieving robust plans requires both intuitive simulation and analytical refinement)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: It
     secondary: I
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: plan / failure
+      S: strategy / resilience
+      R: optimism / realism
+      P: insight / preparedness
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical distinction between planned success and potential failure modes"
-      - "logical taxonomy separating optimistic projections from realistic obstacles"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between planned success and potential failure modes
+    - logical taxonomy separating optimistic projections from realistic obstacles
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between optimism bias and realistic assessment"
-      - "relational dynamics connecting hopeful planning to grounded foresight"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between optimism bias and realistic assessment
+    - relational dynamics connecting hopeful planning to grounded foresight
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.85
     aspects:
-      - "transformative spark when pre-hindsight ignites actionable insight"
-      - "energetic drive of failure visualization becoming preparedness"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when pre-hindsight ignites actionable insight
+    - energetic drive of failure visualization becoming preparedness
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of robust planning through iterative bulletproofing"
-      - "developmental cycle between strategy formulation and resilience building"
-    daemon_correspondence: "Arboriel"
+    - organic growth of robust planning through iterative bulletproofing
+    - developmental cycle between strategy formulation and resilience building
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "grounding in the oscillation between retrospective hindsight and prospective foresight"
-      - "cyclical rhythm of learning from past failures to prevent future ones"
-    daemon_correspondence: "Humavita"
+    - grounding in the oscillation between retrospective hindsight and prospective foresight
+    - cyclical rhythm of learning from past failures to prevent future ones
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "structural boundaries between intuitive inner simulator and analytical System 2"
-      - "discernment between gut feeling and deliberate reasoning"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between intuitive inner simulator and analytical System 2
+    - discernment between gut feeling and deliberate reasoning
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the difference between planned success and potential failure modes? What categorical cuts separate optimistic projections from realistic obstacles?"
-  ≈: "What flows between optimism bias and realistic assessment? How does the relational dynamic connect hopeful planning to grounded foresight?"
-  ▲: "Where does the spark of pre-hindsight ignite actionable insight? What catalyzes the transformation from failure visualization to preparedness?"
-  𐂷: "What forms of growth emerge from iterative bulletproofing? What developmental potential exists between strategy formulation and resilience building?"
-  ☷: "What sustains the ground between retrospective hindsight and prospective foresight? What are the cyclical returns between learning from past and preventing future failures?"
-  ⛨: "What structures contain the boundary between intuitive inner simulator and analytical System 2? What thresholds separate gut feeling from deliberate reasoning?"
-context_note: "Murphyjitsu is a technique designed to preemptively address potential plan failures by visualizing worst-case outcomes and adjusting strategies. It leverages the 'inner simulator' concept—a mental tool that predicts likely scenarios based on experience—to counter optimism bias and planning fallacy. The technique incorporates pre-hindsight, where individuals assume their plans have failed and analyze the reasons behind the failure. Key steps include goal selection, outlining plans with concrete next actions, and using a 'Surprise-O-Meter' to assess emotional responses to potential failure scenarios. By feeding the inner simulator with concrete examples and iterating through surprise assessment and bulletproofing, Murphyjitsu enables continuous improvement of strategies and enhanced resilience in planning."
-source_file: "1771907212657_855813_Mastering+Murphyjitsu+for+Better+Planning.md"
----
+  ∴: How do we classify the difference between planned success and potential failure modes? What categorical cuts separate optimistic projections from realistic obstacles?
+  ≈: What flows between optimism bias and realistic assessment? How does the relational dynamic connect hopeful planning to grounded foresight?
+  ▲: Where does the spark of pre-hindsight ignite actionable insight? What catalyzes the transformation from failure visualization to preparedness?
+  𐂷: What forms of growth emerge from iterative bulletproofing? What developmental potential exists between strategy formulation and resilience building?
+  ☷: What sustains the ground between retrospective hindsight and prospective foresight? What are the cyclical returns between learning from past and preventing future failures?
+  ⛨: What structures contain the boundary between intuitive inner simulator and analytical System 2? What thresholds separate gut feeling from deliberate reasoning?
+context_note: Murphyjitsu is a technique designed to preemptively address potential plan failures by visualizing worst-case outcomes and adjusting strategies. It leverages the 'inner simulator' concept—a mental tool that predicts likely scenarios based on experience—to counter optimism bias and planning fallacy. The technique incorporates pre-hindsight, where individuals assume their plans have failed and analyze the reasons behind the failure. Key steps include goal selection, outlining plans with concrete next actions, and using a 'Surprise-O-Meter' to assess emotional responses to potential failure scenarios. By feeding the inner simulator with concrete examples and iterating through surprise assessment and bulletproofing, Murphyjitsu enables continuous improvement of strategies and enhanced resilience in planning.
+source_file: 1771907212657_855813_Mastering+Murphyjitsu+for+Better+Planning.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - fire_lambda
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+provenance:
+  source_file: "1771907212657_855813_Mastering+Murphyjitsu+for+Better+Planning.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

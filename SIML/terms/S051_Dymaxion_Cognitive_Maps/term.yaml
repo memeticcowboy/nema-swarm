@@ -1,32 +1,155 @@
 ---
-term: "Dymaxion Cognitive Maps"
-hex_tag: "S051"
-series: "S"
-source_file: "1771907212643_820966_Navigating+Complexity%3A+The+Magic+of+Dymaxion+Cognitive+Maps.md"
-encoded_at: "2026-03-05T22:00:00Z"
-description: "Buckminster Fuller's Dymaxion projection merged with cognitive mapping to create adaptable, multi-perspective mental models that use geometric folding for minimal distortion, systems thinking, and dynamic reconfigurability across geodesic knowledge networks."
-nemetic: "Φ(DymaxCog) = σ(geodesic_perspective|flat_projection) ∘ ρ(systems_interconnection|siloed_domains) ∘ λ(geometric_folding|static_framing) ∘ β(adaptive_reconfiguration|fixed_model) ∘ δγ(fold_unfold_reframe|linear_mapping) ∘ μ(geodesic_network_structure|hierarchical_tree) + ε | :multi_perspective_coherence"
-siml_encoding: "⟨dymaxion_projection⟩ ⊳ ⟨cognitive_map_overlay⟩ → ⟨geometric_folding_transform⟩ ⊗ ⟨systems_interconnection⟩ ⇄ ⟨reconfigurable_knowledge_geodesic⟩"
+term: Dymaxion Cognitive Maps
+hex_tag: S051
+series: S
+source_file: 1771907212643_820966_Navigating+Complexity%3A+The+Magic+of+Dymaxion+Cognitive+Maps.md
+encoded_at: '2026-03-05T22:00:00Z'
+description: Buckminster Fuller's Dymaxion projection merged with cognitive mapping to create adaptable, multi-perspective mental models that use geometric folding for minimal distortion, systems thinking, and dynamic reconfigurability across geodesic knowledge networks.
+nemetic: Φ(DymaxCog) = σ(geodesic_perspective|flat_projection) ∘ ρ(systems_interconnection|siloed_domains) ∘ λ(geometric_folding|static_framing) ∘ β(adaptive_reconfiguration|fixed_model) ∘ δγ(fold_unfold_reframe|linear_mapping) ∘ μ(geodesic_network_structure|hierarchical_tree) + ε | :multi_perspective_coherence
+siml_encoding: ⟨dymaxion_projection⟩ ⊳ ⟨cognitive_map_overlay⟩ → ⟨geometric_folding_transform⟩ ⊗ ⟨systems_interconnection⟩ ⇄ ⟨reconfigurable_knowledge_geodesic⟩
+coords:
+  ontology:
+    primary: I
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: geodesic_perspective / flat_projection
+      S: adaptive_reconfiguration / fixed_model
+      R: systems_interconnection / siloed_domains
+      P: geometric_folding / static_framing
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing geodesic multi-perspective from flat projection)"
-    - "∂Φ/∂ρ (systems interconnection across domains vs siloed knowledge)"
-    - "∂Φ/∂λ (geometric folding transforming static conceptual frames)"
-    - "∂Φ/∂β (adaptive reconfiguration growing beyond fixed models)"
-    - "∂Φ/∂δγ (fold-unfold-reframe cycles vs linear mapping)"
-    - "∂Φ/∂μ (geodesic network structure vs hierarchical trees)"
-  Z_state: "multi_perspective_coherence — map achieves minimal distortion across all folding configurations"
-  tendency: "λ → 0.80"
+  - ∂Φ/∂σ (distinguishing geodesic multi-perspective from flat projection)
+  - ∂Φ/∂ρ (systems interconnection across domains vs siloed knowledge)
+  - ∂Φ/∂λ (geometric folding transforming static conceptual frames)
+  - ∂Φ/∂β (adaptive reconfiguration growing beyond fixed models)
+  - ∂Φ/∂δγ (fold-unfold-reframe cycles vs linear mapping)
+  - ∂Φ/∂μ (geodesic network structure vs hierarchical trees)
+  Z_state: semi
+  z_note: multi_perspective_coherence — map achieves minimal distortion across all folding configurations
+  tendency: λ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.78, aspects: ["geodesic_perspective_distinction", "minimal_distortion_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.74, aspects: ["systems_interconnection", "cross_domain_linking"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["geometric_folding", "perspective_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["adaptive_reconfiguration", "model_evolution"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["fold_unfold_reframe_cycles", "iterative_remapping"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["geodesic_network_architecture", "polyhedral_scaffolding"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S041", "S039", "S04F", "S028"]
+  air_sigma:
+    emphasis: 0.78
+    aspects:
+    - geodesic_perspective_distinction
+    - minimal_distortion_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.74
+    aspects:
+    - systems_interconnection
+    - cross_domain_linking
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - geometric_folding
+    - perspective_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - adaptive_reconfiguration
+    - model_evolution
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - fold_unfold_reframe_cycles
+    - iterative_remapping
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - geodesic_network_architecture
+    - polyhedral_scaffolding
+    daemon_correspondence: Ferrosid
+related_terms:
+- S041
+- S039
+- S04F
+- S028
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.78
+    water_rho: 0.74
+    fire_lambda: 0.8
+    wood_beta: 0.72
+    earth_delta_gamma: 0.7
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212643_820966_Navigating+Complexity%3A+The+Magic+of+Dymaxion+Cognitive+Maps.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

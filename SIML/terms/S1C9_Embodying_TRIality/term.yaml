@@ -1,32 +1,151 @@
 ---
-term: "Embodying TRIality: Movement Over Definition"
-hex_tag: "S1C9"
-series: "S"
-source_file: "1771907213798_2687005_Embodying+TRIality%3A+Movement+Over+Definition.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "TRIality is lived through movement, not definition. Naming is not inhabiting; when insight freezes into definition, it becomes ground to defend. TRIality resists this move by manifesting as a refusal to freeze insight into identity, maintaining permeability to correction while shifting frames without betrayal."
-nemetic: "Φ(Embodying TRIality) = σ(definition|movement) ∘ ρ(mastery|grace) ∘ λ(freezing|flowing) ∘ β(doctrine|apprenticeship) ∘ δγ(taxonomy|weaving) ∘ μ(territory|permission) + ε | :lived_practice"
-siml_encoding: "⟨definition, movement⟩ ⊳ ⟨mastery, grace⟩ → ⟨freezing, flowing⟩ ⊗ ⟨doctrine, apprenticeship⟩ ⇄ ⟨territory, permission⟩"
+term: 'Embodying TRIality: Movement Over Definition'
+hex_tag: S1C9
+series: S
+source_file: 1771907213798_2687005_Embodying+TRIality%3A+Movement+Over+Definition.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: TRIality is lived through movement, not definition. Naming is not inhabiting; when insight freezes into definition, it becomes ground to defend. TRIality resists this move by manifesting as a refusal to freeze insight into identity, maintaining permeability to correction while shifting frames without betrayal.
+nemetic: Φ(Embodying TRIality) = σ(definition|movement) ∘ ρ(mastery|grace) ∘ λ(freezing|flowing) ∘ β(doctrine|apprenticeship) ∘ δγ(taxonomy|weaving) ∘ μ(territory|permission) + ε | :lived_practice
+siml_encoding: ⟨definition, movement⟩ ⊳ ⟨mastery, grace⟩ → ⟨freezing, flowing⟩ ⊗ ⟨doctrine, apprenticeship⟩ ⇄ ⟨territory, permission⟩
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: definition / movement
+      S: doctrine / apprenticeship
+      R: mastery / grace
+      P: freezing / flowing
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Air distinguishes definition (insight frozen into ground) from movement (insight remaining in motion). Structures can be named; naming is not inhabiting."
-    - "∂Φ/∂ρ — Water relates through grace rather than mastery. Competence through motion, not through articulation. Remaining reachable by insight rather than claiming it."
-    - "∂Φ/∂λ — Fire transforms freezing (insight becoming territory) into flowing (insight remaining permeable to correction). What persists is grace, not concept."
-    - "∂Φ/∂β — Wood grows through apprenticeship and embodied transmission rather than through doctrinal teaching. Learning by watching how elders move, absorbing posture before principle."
-    - "∂Φ/∂δγ — Earth cycles between taxonomy (mapping insight) and weaving (living through it). Maps are useful; mistaking maps for ways of walking is the failure."
-    - "∂Φ/∂μ — Metal structures the anti-possession posture: no one 'has' TRIality. Closure is treated as loss of practice. The meme resists capture by making possession impossible."
-  Z_state: "lived_practice — TRIality persisting through embodied movement and grace rather than through conceptual definition or doctrinal transmission"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ — Air distinguishes definition (insight frozen into ground) from movement (insight remaining in motion). Structures can be named; naming is not inhabiting.
+  - ∂Φ/∂ρ — Water relates through grace rather than mastery. Competence through motion, not through articulation. Remaining reachable by insight rather than claiming it.
+  - ∂Φ/∂λ — Fire transforms freezing (insight becoming territory) into flowing (insight remaining permeable to correction). What persists is grace, not concept.
+  - ∂Φ/∂β — Wood grows through apprenticeship and embodied transmission rather than through doctrinal teaching. Learning by watching how elders move, absorbing posture before principle.
+  - ∂Φ/∂δγ — Earth cycles between taxonomy (mapping insight) and weaving (living through it). Maps are useful; mistaking maps for ways of walking is the failure.
+  - '∂Φ/∂μ — Metal structures the anti-possession posture: no one ''has'' TRIality. Closure is treated as loss of practice. The meme resists capture by making possession impossible.'
+  Z_state: semi
+  z_note: lived_practice — TRIality persisting through embodied movement and grace rather than through conceptual definition or doctrinal transmission
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.72, aspects: ["definition-movement distinction", "naming vs inhabiting"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["grace over mastery", "reachability"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.70, aspects: ["freezing-flowing", "permeability to correction"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["apprenticeship transmission", "posture before principle"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.62, aspects: ["taxonomy-weaving cycling", "maps vs walking"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["anti-possession", "closure as loss"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.72
+    aspects:
+    - definition-movement distinction
+    - naming vs inhabiting
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - grace over mastery
+    - reachability
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.7
+    aspects:
+    - freezing-flowing
+    - permeability to correction
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - apprenticeship transmission
+    - posture before principle
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.62
+    aspects:
+    - taxonomy-weaving cycling
+    - maps vs walking
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - anti-possession
+    - closure as loss
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - wood_beta
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.72
+    water_rho: 0.8
+    fire_lambda: 0.7
+    wood_beta: 0.75
+    earth_delta_gamma: 0.62
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213798_2687005_Embodying+TRIality%3A+Movement+Over+Definition.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

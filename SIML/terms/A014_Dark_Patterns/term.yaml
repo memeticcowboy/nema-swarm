@@ -1,89 +1,155 @@
+---
 term_id: A014
 hex_tag: '#A014'
 name: dark_patterns
 term: Dark Patterns
-nemetic: >-
-  Φ(DarkPattern) = σ(choice|coercion)
-                ∘ ρ(user|system)
-                ∘ λ(manipulation|profit)
-                ∘ β(exploitation|feedback)
-                ∘ δγ(cognitive|depletion)
-                ∘ μ(consent|illusory)
-                + ε | :deceiving
-siml_encoding: >-
-  ⟨Design|interface⟩
-      ⊳ ⟨User|deceived⟩
-      → ⟨Action|coerced⟩
-      ⊗ ⟨Autonomy|eroded⟩
-      ⇄ ⟨Profit|extracted⟩
+nemetic: "Φ(DarkPattern) = σ(choice|coercion)\n              ∘ ρ(user|system)\n              ∘ λ(manipulation|profit)\n              ∘ β(exploitation|feedback)\n              ∘ δγ(cognitive|depletion)\n              ∘ μ(consent|illusory)\n              + ε | :deceiving"
+siml_encoding: "⟨Design|interface⟩\n    ⊳ ⟨User|deceived⟩\n    → ⟨Action|coerced⟩\n    ⊗ ⟨Autonomy|eroded⟩\n    ⇄ ⟨Profit|extracted⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between genuine choice and coerced action — the cut that dark patterns deliberately blur; the interface appears to offer choice while structurally removing it, making extraction feel like agency)"
-    - "∂Φ/∂ρ (relational asymmetry between user and system — the system holds complete knowledge of cognitive vulnerabilities and applies that knowledge asymmetrically; what flows between user and platform is not exchange but extraction dressed as service)"
-    - "∂Φ/∂λ (direction of manipulation toward profit extraction — countdown timers, hidden subscriptions, guilt-tripping language all point the same way: toward corporate revenue at user expense, with the vector obscured by surface UX friendliness)"
-    - "∂Φ/∂β (self-reinforcing exploitation loop — dark pattern success increases design investment in dark patterns; user habituation normalizes coercive design, making each iteration harder to detect and easier to deploy)"
-    - "∂Φ/∂δγ (metabolic cost of constant vigilance — detecting and resisting manipulation imposes a hidden tax on attention and cognitive resources; this cost falls unevenly on those with less time, digital literacy, and cognitive surplus)"
-    - "∂Φ/∂μ (boundary dissolution between informed consent and illusory agency — the interface presents a boundary (the choice) that is structurally absent; users believe they are consenting to what they cannot actually perceive)"
-  Z_state: "Tendency toward sealed — manipulation becomes invisible, normalized as standard UX design. Z-Closure Risk: σ-collapse — the distinction between choice and coercion dissolves as users habituate to deceptive design, surrendering agency they no longer perceive themselves to have."
-  tendency: "autonomy/control → :deceiving"
-  hex: ['#A014', '#A04B', '#A049', '#A027']
+  - ∂Φ/∂σ (distinction between genuine choice and coerced action — the cut that dark patterns deliberately blur; the interface appears to offer choice while structurally removing it, making extraction feel like agency)
+  - ∂Φ/∂ρ (relational asymmetry between user and system — the system holds complete knowledge of cognitive vulnerabilities and applies that knowledge asymmetrically; what flows between user and platform is not exchange but extraction dressed as service)
+  - '∂Φ/∂λ (direction of manipulation toward profit extraction — countdown timers, hidden subscriptions, guilt-tripping language all point the same way: toward corporate revenue at user expense, with the vector obscured by surface UX friendliness)'
+  - ∂Φ/∂β (self-reinforcing exploitation loop — dark pattern success increases design investment in dark patterns; user habituation normalizes coercive design, making each iteration harder to detect and easier to deploy)
+  - ∂Φ/∂δγ (metabolic cost of constant vigilance — detecting and resisting manipulation imposes a hidden tax on attention and cognitive resources; this cost falls unevenly on those with less time, digital literacy, and cognitive surplus)
+  - ∂Φ/∂μ (boundary dissolution between informed consent and illusory agency — the interface presents a boundary (the choice) that is structurally absent; users believe they are consenting to what they cannot actually perceive)
+  Z_state: sealed
+  z_note: 'Tendency toward sealed — manipulation becomes invisible, normalized as standard UX design. Z-Closure Risk: σ-collapse — the distinction between choice and coercion dissolves as users habituate to deceptive design, surrendering agency they no longer perceive themselves to have.'
+  tendency: autonomy/control → :deceiving
+  hex:
+  - '#A014'
+  - '#A04B'
+  - '#A049'
+  - '#A027'
 coords:
   ontology:
     primary: It
     secondary: We
   epistemics:
     dsrp:
-      D: "The critical distinction — between ethical design that serves user agency and dark pattern design that exploits cognitive vulnerability — is deliberately obscured; the surface of the interface hides the architecture of coercion"
-      S: "Dark patterns present as a single coherent frame of helpfulness and service while structurally operating as extraction systems; the apparent system (useful interface) and the actual system (profit maximization) are discontinuous"
-      R: "The relation between user and platform is not the peer exchange it appears but an asymmetric extraction — the platform holds complete models of user vulnerabilities and applies them precisely; what flows is emotional energy and money in one direction"
-      P: "The user's perspective is captured inside the designed experience — manufactured urgency feels like genuine urgency, manufactured guilt feels like genuine guilt; the perspective of the exploited cannot easily distinguish felt experience from engineered experience"
+      D: The critical distinction — between ethical design that serves user agency and dark pattern design that exploits cognitive vulnerability — is deliberately obscured; the surface of the interface hides the architecture of coercion
+      S: Dark patterns present as a single coherent frame of helpfulness and service while structurally operating as extraction systems; the apparent system (useful interface) and the actual system (profit maximization) are discontinuous
+      R: The relation between user and platform is not the peer exchange it appears but an asymmetric extraction — the platform holds complete models of user vulnerabilities and applies them precisely; what flows is emotional energy and money in one direction
+      P: The user's perspective is captured inside the designed experience — manufactured urgency feels like genuine urgency, manufactured guilt feels like genuine guilt; the perspective of the exploited cannot easily distinguish felt experience from engineered experience
     learning: L0
   agency:
-    type: institutional
+    type: collective
     power_mode: Over
   time:
     mode: event
-    phase: "Stage 1: Interface Encounter (user enters designed space) → Stage 2: Vulnerability Activation (FOMO, loss aversion, urgency) → Stage 3: Coerced Action (click, subscribe, surrender data) → Stage 4: Normalization (repeated exposure habituates) → Stage 5: Agency Surrender (vigilance cost exceeds participation benefit)"
+    phase: 'Stage 1: Interface Encounter (user enters designed space) → Stage 2: Vulnerability Activation (FOMO, loss aversion, urgency) → Stage 3: Coerced Action (click, subscribe, surrender data) → Stage 4: Normalization (repeated exposure habituates) → Stage 5: Agency Surrender (vigilance cost exceeds participation benefit)'
   qualia:
-    affect: [urgency, guilt, FOMO, relief, regret, manipulation-recognition]
-    aesthetic: [frictionless, friendly, urgent, confusing, labyrinthine, inescapable]
-    symbolic: [Trap disguised as door (exit that leads deeper in), Friendly face over extractive hand, Fine print as structural feature rather than legal boilerplate]
-    energetic: [vigilance-depleting, attention-extracting, cognitively-taxing, δγ-costly, asymmetric-drain]
+    affect:
+    - urgency
+    - guilt
+    - FOMO
+    - relief
+    - regret
+    - manipulation-recognition
+    aesthetic:
+    - frictionless
+    - friendly
+    - urgent
+    - confusing
+    - labyrinthine
+    - inescapable
+    symbolic:
+    - Trap disguised as door (exit that leads deeper in)
+    - Friendly face over extractive hand
+    - Fine print as structural feature rather than legal boilerplate
+    energetic:
+    - vigilance-depleting
+    - attention-extracting
+    - cognitively-taxing
+    - δγ-costly
+    - asymmetric-drain
   coherence:
     state: sealed
     loop: recursive
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Complex system macro-dynamics carry causal information not present at component level
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The cut between ethical design and dark patterns is not between good and bad aesthetics but between design that makes choices legible and design that structurally removes choice while simulating it. Air asks: Where is the actual boundary between persuasion and manipulation — and who gets to draw it, and whose interests are served by keeping it blurry?"
-  ≈: "Dark patterns weaponize genuine emotional resonance — the urgency, guilt, and FOMO they trigger are real feelings manufactured by design. Water asks: Who feels the manipulation most acutely, and what does it mean that the feeling of empowerment ('I got a great deal!') can itself be the deepest trap?"
-  ▲: "The direction of dark pattern design is unambiguous: toward profit through user exploitation, with the vector obscured by surface friendliness. Fire asks: Who controls the trajectory of interface evolution — toward increasingly sophisticated AI-personalized manipulation, or toward regulatory intervention that restores user agency?"
-  𐂷: "The standard response (better regulation) may miss the deeper question: what if the optimization frame itself enables deception? Wood asks: What forms of digital interaction become possible when user flourishing replaces engagement metrics as the primary design target?"
-  ☷: "Dark patterns impose a hidden cognitive tax that falls unevenly — those with less time, education, and digital literacy pay most. Earth asks: What happens when the metabolic cost of vigilance exceeds the benefit of participation — do users withdraw, or do they surrender to exploitation as the path of least resistance?"
-  ⛨: "Dark patterns emerge from specific structural conditions: engagement-metric business models, regulatory gaps, platform architectures optimizing for attention. Metal asks: What economic structures would make dark patterns unprofitable rather than merely illegal — and whose material interests would such structures threaten?"
-context_note: >-
-  Dark patterns are deceptive UX designs that manipulate users into actions benefiting
-  companies by exploiting cognitive vulnerabilities — FOMO, loss aversion, urgency bias,
-  social proof — while simulating genuine choice. The defining structural feature is not
-  visual deception but the deliberate blurring of the σ-cut between choice and coercion:
-  the interface presents a boundary (the user's decision) that is architecturally absent.
-  The business model conflict is explicit — engagement optimization creates direct incentives
-  for the exact design patterns that erode user autonomy, making dark patterns not aberrations
-  but predictable outputs of current platform economics. AI-driven personalization threatens
-  to evolve dark patterns into hyper-targeted manipulation calibrated to individual cognitive
-  vulnerability profiles in real time. Regulatory responses (GDPR, Digital Services Act)
-  address symptoms; structural change requires redesigning the economic foundations that make
-  exploitation more profitable than service.
+  ∴: 'The cut between ethical design and dark patterns is not between good and bad aesthetics but between design that makes choices legible and design that structurally removes choice while simulating it. Air asks: Where is the actual boundary between persuasion and manipulation — and who gets to draw it, and whose interests are served by keeping it blurry?'
+  ≈: 'Dark patterns weaponize genuine emotional resonance — the urgency, guilt, and FOMO they trigger are real feelings manufactured by design. Water asks: Who feels the manipulation most acutely, and what does it mean that the feeling of empowerment (''I got a great deal!'') can itself be the deepest trap?'
+  ▲: 'The direction of dark pattern design is unambiguous: toward profit through user exploitation, with the vector obscured by surface friendliness. Fire asks: Who controls the trajectory of interface evolution — toward increasingly sophisticated AI-personalized manipulation, or toward regulatory intervention that restores user agency?'
+  𐂷: 'The standard response (better regulation) may miss the deeper question: what if the optimization frame itself enables deception? Wood asks: What forms of digital interaction become possible when user flourishing replaces engagement metrics as the primary design target?'
+  ☷: 'Dark patterns impose a hidden cognitive tax that falls unevenly — those with less time, education, and digital literacy pay most. Earth asks: What happens when the metabolic cost of vigilance exceeds the benefit of participation — do users withdraw, or do they surrender to exploitation as the path of least resistance?'
+  ⛨: 'Dark patterns emerge from specific structural conditions: engagement-metric business models, regulatory gaps, platform architectures optimizing for attention. Metal asks: What economic structures would make dark patterns unprofitable rather than merely illegal — and whose material interests would such structures threaten?'
+context_note: 'Dark patterns are deceptive UX designs that manipulate users into actions benefiting companies by exploiting cognitive vulnerabilities — FOMO, loss aversion, urgency bias, social proof — while simulating genuine choice. The defining structural feature is not visual deception but the deliberate blurring of the σ-cut between choice and coercion: the interface presents a boundary (the user''s decision) that is architecturally absent. The business model conflict is explicit — engagement optimization creates direct incentives for the exact design patterns that erode user autonomy, making dark patterns not aberrations but predictable outputs of current platform economics. AI-driven personalization threatens to evolve dark patterns into hyper-targeted manipulation calibrated to individual cognitive vulnerability profiles in real time. Regulatory responses (GDPR, Digital Services Act) address symptoms; structural change requires redesigning the economic foundations that make exploitation more profitable than service.'
 source: Consolidated from 5 insight(s)
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Complex system macro-dynamics carry causal information not present at component level"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

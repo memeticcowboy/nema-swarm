@@ -1,32 +1,151 @@
 ---
-term: "Reevaluating Human Nature"
-hex_tag: "S161"
-series: "S"
-source_file: "1771907213596_2534349_Reevaluating+Human+Nature%3A+Emphasizing+Imagination%2C+Empathy%2C+and+Spirituality+Over+Materialism.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "A challenge to dominant narratives that human nature is driven by money, power, and sex, arguing instead that humans are fundamentally imaginative, empathic, and spiritual beings whose capacities have been diminished by materialist civilization."
-nemetic: "Φ(HumanNature) = σ(imaginative_vision|materialist_reduction) ∘ ρ(empathic_communion|competitive_isolation) ∘ λ(spiritual_ignition|consumerist_extinguishing) ∘ β(communal_flourishing|hierarchical_domination) ∘ δγ(inclusive_embodiment|normative_exclusion) ∘ μ(ancestral_evidence|modern_mythology) + ε | :original_compassion"
-siml_encoding: "⟨imaginative_perception⟩ ⊳ ⟨empathic_bonding⟩ → ⟨spiritual_transformation⟩ ⊗ ⟨communal_growth⟩ ⇄ ⟨archaeological_grounding⟩"
+term: Reevaluating Human Nature
+hex_tag: S161
+series: S
+source_file: 1771907213596_2534349_Reevaluating+Human+Nature%3A+Emphasizing+Imagination%2C+Empathy%2C+and+Spirituality+Over+Materialism.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: A challenge to dominant narratives that human nature is driven by money, power, and sex, arguing instead that humans are fundamentally imaginative, empathic, and spiritual beings whose capacities have been diminished by materialist civilization.
+nemetic: Φ(HumanNature) = σ(imaginative_vision|materialist_reduction) ∘ ρ(empathic_communion|competitive_isolation) ∘ λ(spiritual_ignition|consumerist_extinguishing) ∘ β(communal_flourishing|hierarchical_domination) ∘ δγ(inclusive_embodiment|normative_exclusion) ∘ μ(ancestral_evidence|modern_mythology) + ε | :original_compassion
+siml_encoding: ⟨imaginative_perception⟩ ⊳ ⟨empathic_bonding⟩ → ⟨spiritual_transformation⟩ ⊗ ⟨communal_growth⟩ ⇄ ⟨archaeological_grounding⟩
+coords:
+  ontology:
+    primary: MoreThanHuman
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: imaginative_vision / materialist_reduction
+      S: communal_flourishing / hierarchical_domination
+      R: empathic_communion / competitive_isolation
+      P: spiritual_ignition / consumerist_extinguishing
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (imaginative vision perceives human potential beyond materialist frames)"
-    - "∂Φ/∂ρ (empathic communion reveals deep relational nature of early humans)"
-    - "∂Φ/∂λ (spiritual ignition transforms understanding of human motivation)"
-    - "∂Φ/∂β (communal flourishing grows through inclusive social structures)"
-    - "∂Φ/∂δγ (inclusive embodiment grounds human diversity as strength not deficit)"
-    - "∂Φ/∂μ (ancestral evidence provides structural challenge to modern myths)"
-  Z_state: "original compassion — the recovered recognition that care, imagination, and spiritual connection are primary human drives"
-  tendency: "ρ → 0.90"
+  - ∂Φ/∂σ (imaginative vision perceives human potential beyond materialist frames)
+  - ∂Φ/∂ρ (empathic communion reveals deep relational nature of early humans)
+  - ∂Φ/∂λ (spiritual ignition transforms understanding of human motivation)
+  - ∂Φ/∂β (communal flourishing grows through inclusive social structures)
+  - ∂Φ/∂δγ (inclusive embodiment grounds human diversity as strength not deficit)
+  - ∂Φ/∂μ (ancestral evidence provides structural challenge to modern myths)
+  Z_state: semi
+  z_note: original compassion — the recovered recognition that care, imagination, and spiritual connection are primary human drives
+  tendency: ρ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["imaginative_vision", "creative_consciousness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.90, aspects: ["empathic_communion", "compassionate_care"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["spiritual_ignition", "motivational_reframing"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["communal_flourishing", "matriarchal_structures"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["inclusive_embodiment", "disability_as_gift"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.65, aspects: ["archaeological_evidence", "historical_framework"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - imaginative_vision
+    - creative_consciousness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.9
+    aspects:
+    - empathic_communion
+    - compassionate_care
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - spiritual_ignition
+    - motivational_reframing
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - communal_flourishing
+    - matriarchal_structures
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - inclusive_embodiment
+    - disability_as_gift
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.65
+    aspects:
+    - archaeological_evidence
+    - historical_framework
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.9
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.7
+    metal_mu: 0.65
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213596_2534349_Reevaluating+Human+Nature%3A+Emphasizing+Imagination%2C+Empathy%2C+and+Spirituality+Over+Materialism.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

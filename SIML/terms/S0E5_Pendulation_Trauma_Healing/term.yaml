@@ -1,32 +1,153 @@
 ---
-term: "Pendulation Trauma Healing"
-hex_tag: "S0E5"
-series: "S"
-source_file: "1771907213172_2182906_Pendulation%3A+A+Dance+of+Trauma+Healing.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Peter Levine's pendulation — therapeutic oscillation between states of activation and calm to heal trauma. Mimics animals' natural threat response. Somatic experiencing approach. Helps regulate nervous system, build resilience, integrate traumatic memories without re-traumatization. Gentle back-and-forth between distress and safety increases tolerance window. 'A dance between fear and calm.'"
-nemetic: "Φ(Pendulation Trauma Healing) = σ(activation|calm) ∘ ρ(trauma|safety) ∘ λ(re_traumatization|integration) ∘ β(rigidity|resilience) ∘ δγ(fight_flight|rest_digest) ∘ μ(frozen_response|regulated_oscillation) + ε | :somatic_trauma_integration"
-siml_encoding: "⟨activation_calm_distinction, nervous_system_awareness⟩ ⊳ ⟨trauma_safety_relational_web, healing_network⟩ → ⟨retraumatization_to_integration_transformation, somatic_catalysis⟩ ⊗ ⟨rigidity_to_resilience_maturation, tolerance_evolution⟩ ⇄ ⟨sympathetic_parasympathetic_cycling, nervous_system_renewal⟩"
+term: Pendulation Trauma Healing
+hex_tag: S0E5
+series: S
+source_file: 1771907213172_2182906_Pendulation%3A+A+Dance+of+Trauma+Healing.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Peter Levine's pendulation — therapeutic oscillation between states of activation and calm to heal trauma. Mimics animals' natural threat response. Somatic experiencing approach. Helps regulate nervous system, build resilience, integrate traumatic memories without re-traumatization. Gentle back-and-forth between distress and safety increases tolerance window. 'A dance between fear and calm.'
+nemetic: Φ(Pendulation Trauma Healing) = σ(activation|calm) ∘ ρ(trauma|safety) ∘ λ(re_traumatization|integration) ∘ β(rigidity|resilience) ∘ δγ(fight_flight|rest_digest) ∘ μ(frozen_response|regulated_oscillation) + ε | :somatic_trauma_integration
+siml_encoding: ⟨activation_calm_distinction, nervous_system_awareness⟩ ⊳ ⟨trauma_safety_relational_web, healing_network⟩ → ⟨retraumatization_to_integration_transformation, somatic_catalysis⟩ ⊗ ⟨rigidity_to_resilience_maturation, tolerance_evolution⟩ ⇄ ⟨sympathetic_parasympathetic_cycling, nervous_system_renewal⟩
+coords:
+  ontology:
+    primary: I
+    confidence: high
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: activation / calm
+      S: rigidity / resilience
+      R: trauma / safety
+      P: re_traumatization / integration
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing states of activation from states of calm as poles of therapeutic oscillation)"
-    - "∂Φ/∂ρ (relating traumatic activation to felt safety in the pendulation dance of somatic experiencing)"
-    - "∂Φ/∂λ (transforming re-traumatization risk into integrative healing through gentle titrated oscillation)"
-    - "∂Φ/∂β (growth from rigid frozen trauma responses to resilient adaptive nervous system regulation)"
-    - "∂Φ/∂δγ (cycling between sympathetic fight-flight activation and parasympathetic rest-digest restoration)"
-    - "∂Φ/∂μ (structural contrast between frozen dysregulated response patterns and regulated therapeutic oscillation)"
-  Z_state: "somatic_trauma_integration — pendulation enables traumatic memory integration through gentle oscillation between activation and calm, mimicking animals' natural threat response discharge, expanding the window of tolerance and building nervous system resilience without re-traumatization"
-  tendency: "δγ → 0.90"
+  - ∂Φ/∂σ (distinguishing states of activation from states of calm as poles of therapeutic oscillation)
+  - ∂Φ/∂ρ (relating traumatic activation to felt safety in the pendulation dance of somatic experiencing)
+  - ∂Φ/∂λ (transforming re-traumatization risk into integrative healing through gentle titrated oscillation)
+  - ∂Φ/∂β (growth from rigid frozen trauma responses to resilient adaptive nervous system regulation)
+  - ∂Φ/∂δγ (cycling between sympathetic fight-flight activation and parasympathetic rest-digest restoration)
+  - ∂Φ/∂μ (structural contrast between frozen dysregulated response patterns and regulated therapeutic oscillation)
+  Z_state: semi
+  z_note: somatic_trauma_integration — pendulation enables traumatic memory integration through gentle oscillation between activation and calm, mimicking animals' natural threat response discharge, expanding the window of tolerance and building nervous system resilience without re-traumatization
+  tendency: δγ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["activation_calm_state_distinction", "nervous_system_pole_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.80, aspects: ["trauma_safety_relational_mapping", "somatic_healing_connectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["retraumatization_to_integration_transformation", "somatic_experiencing_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["rigidity_to_resilience_growth", "tolerance_window_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.90, aspects: ["fight_flight_rest_digest_cycling", "nervous_system_oscillation_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["frozen_vs_regulated_response_structure", "pendulation_rhythm_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S09A", "S0BC"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - activation_calm_state_distinction
+    - nervous_system_pole_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.8
+    aspects:
+    - trauma_safety_relational_mapping
+    - somatic_healing_connectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - retraumatization_to_integration_transformation
+    - somatic_experiencing_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - rigidity_to_resilience_growth
+    - tolerance_window_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.9
+    aspects:
+    - fight_flight_rest_digest_cycling
+    - nervous_system_oscillation_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - frozen_vs_regulated_response_structure
+    - pendulation_rhythm_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S09A
+- S0BC
 status: canonical
+elemental_signature:
+  dominant:
+  - earth_delta_gamma
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.8
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.9
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213172_2182906_Pendulation%3A+A+Dance+of+Trauma+Healing.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

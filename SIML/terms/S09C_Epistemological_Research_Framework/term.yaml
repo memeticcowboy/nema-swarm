@@ -1,32 +1,155 @@
 ---
-term: "Epistemological Research Framework"
-hex_tag: "S09C"
-series: "S"
-source_file: "1771907212941_1819861_Navigating+the+Epistemological+Landscape%3A+A+Framework+for+Research+Methodologies.md"
-encoded_at: "2026-03-06T02:30:00Z"
-description: "Structured epistemological framework for research methodologies — distinguishing objectivist (objective reality studied independently of perception, empirical methods), constructionist (meaning emerging through world-interaction, qualitative methods like ethnography), and subjectivist (individuals imposing meaning on reality, interpretive approaches like phenomenology) epistemological stances; ontological dimensions from realist (single independent reality) through relativist (multiple socially shaped realities) to dynamic/process ontology (emergent contextual realities); systemic interconnections and feedback loops between epistemology, methodology, and methods; strategic applications in education, organizational decision-making, and healthcare; limitations including binary classifications oversimplifying overlaps, lack of non-linearity in recursive knowledge formation, and need for hybrid contextual approaches; recognizing fluidity between epistemologies and embracing non-linearity, emergent complexity, and adaptive methodologies."
-nemetic: "Φ(Epistemological Research Framework) = σ(objectivist_epistemology|constructionist_subjectivist_epistemology) ∘ ρ(epistemology_methodology_method_coupling|ontology_knowledge_justification_feedback) ∘ λ(rigid_methodological_alignment|fluid_adaptive_methodology) ∘ β(single_stance_research|integrative_mixed_methods_maturity) ∘ δγ(data_collection_knowledge_justification_cycle|epistemological_refinement_iteration) ∘ μ(realist_ontological_framework|relativist_process_ontological_architecture) + ε | :epistemological_fluidity_as_research_strength"
-siml_encoding: "⟨objectivist_constructionist_distinction, empirical_qualitative_boundary⟩ ⊳ ⟨epistemology_methodology_relation, ontology_knowledge_coupling⟩ → ⟨rigid_to_fluid_transformation, adaptive_methodology_catalysis⟩ ⊗ ⟨single_to_integrative_growth, mixed_methods_trajectory⟩ ⇄ ⟨data_knowledge_cycling, epistemological_refinement_iteration⟩"
+term: Epistemological Research Framework
+hex_tag: S09C
+series: S
+source_file: 1771907212941_1819861_Navigating+the+Epistemological+Landscape%3A+A+Framework+for+Research+Methodologies.md
+encoded_at: '2026-03-06T02:30:00Z'
+description: Structured epistemological framework for research methodologies — distinguishing objectivist (objective reality studied independently of perception, empirical methods), constructionist (meaning emerging through world-interaction, qualitative methods like ethnography), and subjectivist (individuals imposing meaning on reality, interpretive approaches like phenomenology) epistemological stances; ontological dimensions from realist (single independent reality) through relativist (multiple socially shaped realities) to dynamic/process ontology (emergent contextual realities); systemic interconnections and feedback loops between epistemology, methodology, and methods; strategic applications in education, organizational decision-making, and healthcare; limitations including binary classifications oversimplifying overlaps, lack of non-linearity in recursive knowledge formation, and need for hybrid contextual approaches; recognizing fluidity between epistemologies and embracing non-linearity, emergent complexity, and adaptive methodologies.
+nemetic: Φ(Epistemological Research Framework) = σ(objectivist_epistemology|constructionist_subjectivist_epistemology) ∘ ρ(epistemology_methodology_method_coupling|ontology_knowledge_justification_feedback) ∘ λ(rigid_methodological_alignment|fluid_adaptive_methodology) ∘ β(single_stance_research|integrative_mixed_methods_maturity) ∘ δγ(data_collection_knowledge_justification_cycle|epistemological_refinement_iteration) ∘ μ(realist_ontological_framework|relativist_process_ontological_architecture) + ε | :epistemological_fluidity_as_research_strength
+siml_encoding: ⟨objectivist_constructionist_distinction, empirical_qualitative_boundary⟩ ⊳ ⟨epistemology_methodology_relation, ontology_knowledge_coupling⟩ → ⟨rigid_to_fluid_transformation, adaptive_methodology_catalysis⟩ ⊗ ⟨single_to_integrative_growth, mixed_methods_trajectory⟩ ⇄ ⟨data_knowledge_cycling, epistemological_refinement_iteration⟩
+coords:
+  ontology:
+    primary: Its
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: objectivist_epistemology / constructionist_subjectivist_epistemology
+      S: single_stance_research / integrative_mixed_methods_maturity
+      R: epistemology_methodology_method_coupling / ontology_knowledge_justification_feedback
+      P: rigid_methodological_alignment / fluid_adaptive_methodology
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing objectivist epistemology — objective reality, empirical methods, closed surveys — from constructionist and subjectivist epistemologies — socially constructed or individually imposed meaning, qualitative and interpretive methods)"
-    - "∂Φ/∂ρ (relating epistemological stances to methodological choices to specific methods, and coupling ontological assumptions to knowledge justification through feedback loops)"
-    - "∂Φ/∂λ (transforming rigid methodological alignment locked to single epistemological stances into fluid adaptive methodology that embraces non-linearity and emergent complexity)"
-    - "∂Φ/∂β (growth from single-stance research locked within one epistemological paradigm to integrative mixed-methods maturity that draws from multiple traditions)"
-    - "∂Φ/∂δγ (cycling through data collection, analysis, and knowledge justification, iterating epistemological refinement as insights from one stance reshape understanding in another)"
-    - "∂Φ/∂μ (realist ontology assuming single independent reality as structural framework alongside relativist and dynamic process ontologies assuming multiple emergent contextual realities as architectural complement)"
-  Z_state: "epistemological_fluidity_as_research_strength — recognizing that no single epistemology or method operates in isolation; research is a systemic process where methodological choices recursively shape the knowledge produced; the Z-state emerges when researchers embrace epistemological fluidity — moving between objectivist, constructionist, and subjectivist stances as the inquiry demands — and recognize that the most integrative research acknowledges non-linearity, emergent complexity, and adaptive methodology rather than rigid categorical adherence"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing objectivist epistemology — objective reality, empirical methods, closed surveys — from constructionist and subjectivist epistemologies — socially constructed or individually imposed meaning, qualitative and interpretive methods)
+  - ∂Φ/∂ρ (relating epistemological stances to methodological choices to specific methods, and coupling ontological assumptions to knowledge justification through feedback loops)
+  - ∂Φ/∂λ (transforming rigid methodological alignment locked to single epistemological stances into fluid adaptive methodology that embraces non-linearity and emergent complexity)
+  - ∂Φ/∂β (growth from single-stance research locked within one epistemological paradigm to integrative mixed-methods maturity that draws from multiple traditions)
+  - ∂Φ/∂δγ (cycling through data collection, analysis, and knowledge justification, iterating epistemological refinement as insights from one stance reshape understanding in another)
+  - ∂Φ/∂μ (realist ontology assuming single independent reality as structural framework alongside relativist and dynamic process ontologies assuming multiple emergent contextual realities as architectural complement)
+  Z_state: permeable
+  z_note: epistemological_fluidity_as_research_strength — recognizing that no single epistemology or method operates in isolation; research is a systemic process where methodological choices recursively shape the knowledge produced; the Z-state emerges when researchers embrace epistemological fluidity — moving between objectivist, constructionist, and subjectivist stances as the inquiry demands — and recognize that the most integrative research acknowledges non-linearity, emergent complexity, and adaptive methodology rather than rigid categorical adherence
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["objectivist_constructionist_distinction", "empirical_qualitative_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["epistemology_methodology_relation", "ontology_knowledge_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["rigid_to_fluid_transformation", "adaptive_methodology_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["single_to_integrative_growth", "mixed_methods_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["data_knowledge_cycling", "epistemological_refinement_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["realist_ontological_framework", "relativist_process_ontological_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["C006", "S00D", "S09B", "C021"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - objectivist_constructionist_distinction
+    - empirical_qualitative_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - epistemology_methodology_relation
+    - ontology_knowledge_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - rigid_to_fluid_transformation
+    - adaptive_methodology_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - single_to_integrative_growth
+    - mixed_methods_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - data_knowledge_cycling
+    - epistemological_refinement_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - realist_ontological_framework
+    - relativist_process_ontological_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- C006
+- S00D
+- S09B
+- C021
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212941_1819861_Navigating+the+Epistemological+Landscape%3A+A+Framework+for+Research+Methodologies.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

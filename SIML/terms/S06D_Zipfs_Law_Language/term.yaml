@@ -1,32 +1,155 @@
 ---
-term: "Zipfs Law Language"
-hex_tag: "S06D"
-series: "S"
-source_file: "1771907212725_1048829_Understanding+Zipf%27s+Law+Across+Languages.md"
-encoded_at: "2026-03-05T23:30:00Z"
-description: "Word frequency inversely proportional to rank in frequency lists. Consistent across languages despite structural differences. Underlying reasons remain unclear, spanning efficiency, cognitive, and statistical explanations. Mathematical regularity in linguistic systems revealing deep structural properties of language."
-nemetic: "Φ(Zipfs Law Language) = σ(high_frequency|low_frequency) ∘ ρ(word_rank|usage_frequency) ∘ λ(random_distribution|power_law_emergence) ∘ β(surface_observation|deep_structural_understanding) ∘ δγ(language_use|frequency_stabilization_cycling) ∘ μ(mathematical_law|cross_linguistic_invariance) + ε | :inverse_frequency_regularity"
-siml_encoding: "⟨frequency_rank_distinction, high_low_mapping⟩ ⊳ ⟨rank_frequency_relation, inverse_proportionality⟩ → ⟨random_to_power_law_transformation, distributional_emergence⟩ ⊗ ⟨surface_to_structural_understanding_growth, explanatory_deepening⟩ ⇄ ⟨use_stabilization_cycling, frequency_distribution_maintenance⟩"
+term: Zipfs Law Language
+hex_tag: S06D
+series: S
+source_file: 1771907212725_1048829_Understanding+Zipf%27s+Law+Across+Languages.md
+encoded_at: '2026-03-05T23:30:00Z'
+description: Word frequency inversely proportional to rank in frequency lists. Consistent across languages despite structural differences. Underlying reasons remain unclear, spanning efficiency, cognitive, and statistical explanations. Mathematical regularity in linguistic systems revealing deep structural properties of language.
+nemetic: Φ(Zipfs Law Language) = σ(high_frequency|low_frequency) ∘ ρ(word_rank|usage_frequency) ∘ λ(random_distribution|power_law_emergence) ∘ β(surface_observation|deep_structural_understanding) ∘ δγ(language_use|frequency_stabilization_cycling) ∘ μ(mathematical_law|cross_linguistic_invariance) + ε | :inverse_frequency_regularity
+siml_encoding: ⟨frequency_rank_distinction, high_low_mapping⟩ ⊳ ⟨rank_frequency_relation, inverse_proportionality⟩ → ⟨random_to_power_law_transformation, distributional_emergence⟩ ⊗ ⟨surface_to_structural_understanding_growth, explanatory_deepening⟩ ⇄ ⟨use_stabilization_cycling, frequency_distribution_maintenance⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: high_frequency / low_frequency
+      S: surface_observation / deep_structural_understanding
+      R: word_rank / usage_frequency
+      P: random_distribution / power_law_emergence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing high-frequency core vocabulary from low-frequency peripheral vocabulary)"
-    - "∂Φ/∂ρ (relating word rank position to usage frequency through inverse proportionality)"
-    - "∂Φ/∂λ (transformation from apparent random distribution to emergent power law regularity)"
-    - "∂Φ/∂β (growth from surface observation of frequency patterns to deep structural understanding)"
-    - "∂Φ/∂δγ (cycling between language use and frequency distribution stabilization)"
-    - "∂Φ/∂μ (mathematical law structure and cross-linguistic invariance)"
-  Z_state: "inverse_frequency_regularity — word frequency is inversely proportional to rank across all languages, revealing a deep mathematical regularity in linguistic systems whose underlying mechanism remains unclear but whose consistency suggests fundamental structural properties of language and communication"
-  tendency: "μ → 0.90"
+  - ∂Φ/∂σ (distinguishing high-frequency core vocabulary from low-frequency peripheral vocabulary)
+  - ∂Φ/∂ρ (relating word rank position to usage frequency through inverse proportionality)
+  - ∂Φ/∂λ (transformation from apparent random distribution to emergent power law regularity)
+  - ∂Φ/∂β (growth from surface observation of frequency patterns to deep structural understanding)
+  - ∂Φ/∂δγ (cycling between language use and frequency distribution stabilization)
+  - ∂Φ/∂μ (mathematical law structure and cross-linguistic invariance)
+  Z_state: semi
+  z_note: inverse_frequency_regularity — word frequency is inversely proportional to rank across all languages, revealing a deep mathematical regularity in linguistic systems whose underlying mechanism remains unclear but whose consistency suggests fundamental structural properties of language and communication
+  tendency: μ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.75, aspects: ["high_low_frequency_distinction", "core_peripheral_vocabulary_differentiation"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["rank_frequency_inverse_relation", "word_usage_proportionality_dynamics"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["random_to_power_law_emergence", "distributional_pattern_crystallization"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.70, aspects: ["surface_to_structural_understanding_growth", "explanatory_deepening_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["use_stabilization_cycling", "frequency_distribution_maintenance"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["mathematical_law_invariance", "cross_linguistic_structural_regularity"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S067", "S056", "S052", "S031"]
+  air_sigma:
+    emphasis: 0.75
+    aspects:
+    - high_low_frequency_distinction
+    - core_peripheral_vocabulary_differentiation
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - rank_frequency_inverse_relation
+    - word_usage_proportionality_dynamics
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - random_to_power_law_emergence
+    - distributional_pattern_crystallization
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.7
+    aspects:
+    - surface_to_structural_understanding_growth
+    - explanatory_deepening_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - use_stabilization_cycling
+    - frequency_distribution_maintenance
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - mathematical_law_invariance
+    - cross_linguistic_structural_regularity
+    daemon_correspondence: Ferrosid
+related_terms:
+- S067
+- S056
+- S052
+- S031
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - water_rho
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.75
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.75
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212725_1048829_Understanding+Zipf%27s+Law+Across+Languages.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

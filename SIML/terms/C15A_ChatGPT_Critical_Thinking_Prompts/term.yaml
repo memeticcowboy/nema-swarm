@@ -2,104 +2,151 @@ term_id: C15A
 hex_tag: '#C15A'
 name: ChatGPT_Critical_Thinking_Prompts
 term: ChatGPT Critical Thinking Prompts
-nemetic: >-
-  Φ(PromptThink) = σ(introspection|projection) ∘ ρ(question|assumption) ∘ λ(challenge|growth)
-  ∘ β(feedback|insight) ∘ δγ(pattern|disruption)
-  ∘ μ(bias|awareness) + ε | :open
-siml_encoding: >-
-  ⟨Query|posed⟩ ⊳ ⟨Reflection|engaged⟩ ⊗ ⟨Assumption|surfaced⟩
-  ⊗ ⟨Challenge|embraced⟩ ⊗ ⟨Insight|integrated⟩
+nemetic: Φ(PromptThink) = σ(introspection|projection) ∘ ρ(question|assumption) ∘ λ(challenge|growth) ∘ β(feedback|insight) ∘ δγ(pattern|disruption) ∘ μ(bias|awareness) + ε | :open
+siml_encoding: ⟨Query|posed⟩ ⊳ ⟨Reflection|engaged⟩ ⊗ ⟨Assumption|surfaced⟩ ⊗ ⟨Challenge|embraced⟩ ⊗ ⟨Insight|integrated⟩
 formalism:
   math_operators:
-    - σ
-    - ρ
-    - λ
-    - β
-    - δγ
-    - μ
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   dim_operators:
-    - χ
-    - Q_in
-    - Q_fwd
-    - Ψ_exp
-    - Ψ_reg
-    - Ψ_str
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
   partials:
-    - "∂Φ/∂σ (distinction between self-examination and externalized thinking)"
-    - "∂Φ/∂ρ (relational flow between questioning and underlying assumptions)"
-    - "∂Φ/∂λ (direction from comfort zone toward growth edge)"
-    - "∂Φ/∂β (feedback between AI response and human insight)"
-    - "∂Φ/∂δγ (cycle of pattern recognition and pattern breaking)"
-    - "∂Φ/∂μ (boundary between biased and unbiased cognition)"
+  - ∂Φ/∂σ (distinction between self-examination and externalized thinking)
+  - ∂Φ/∂ρ (relational flow between questioning and underlying assumptions)
+  - ∂Φ/∂λ (direction from comfort zone toward growth edge)
+  - ∂Φ/∂β (feedback between AI response and human insight)
+  - ∂Φ/∂δγ (cycle of pattern recognition and pattern breaking)
+  - ∂Φ/∂μ (boundary between biased and unbiased cognition)
   Z_state: permeable
-  tendency: "Awareness/Automation → 0.6"
+  tendency: Awareness/Automation → 0.6
   hex:
-    - '0x01'
-    - '0x05'
-    - '0x0A'
-    - '0x0F'
-    - '0x14'
-    - '0x19'
+  - '0x01'
+  - '0x05'
+  - '0x0A'
+  - '0x0F'
+  - '0x14'
+  - '0x19'
 coords:
   ontology:
     primary: I
     secondary:
-      - Its
+    - Its
   epistemics:
     dsrp:
-      D: "Internal reflection vs. externalized AI-mediated inquiry"
-      S: "Five prompt archetypes as cognitive mirror system"
-      R: "Prompts externalize dialogue, making thought patterns examinable"
-      P: "Socratic method applied through AI augmentation"
+      D: Internal reflection vs. externalized AI-mediated inquiry
+      S: Five prompt archetypes as cognitive mirror system
+      R: Prompts externalize dialogue, making thought patterns examinable
+      P: Socratic method applied through AI augmentation
     learning: L1
   time:
     mode: event
-    phase: "reflective provocation"
+    phase: reflective provocation
   qualia:
     affect:
-      - discomfort
-      - curiosity
-      - liberation
+    - discomfort
+    - curiosity
+    - liberation
     aesthetic:
-      - confrontational
-      - reflective
-      - clarifying
+    - confrontational
+    - reflective
+    - clarifying
     symbolic:
-      - cognitive-mirror
-      - excuse-interrogator
-      - belief-dissolver
+    - cognitive-mirror
+    - excuse-interrogator
+    - belief-dissolver
     energetic:
-      - provoking
-      - surfacing
-      - integrating
+    - provoking
+    - surfacing
+    - integrating
   agency:
     type: ego
     voice:
-      - Socratic Questioner
-      - Cognitive Mirror
+    - Socratic Questioner
+    - Cognitive Mirror
     power_mode: Within
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_emphasis:
-  ∴: "How is genuine self-examination distinguished from comfortable self-talk?"
-  ≈: "What flows between the AI prompt and the human's hidden assumptions?"
-  ▲: "Where does provoked discomfort lead — toward growth or defensive retreat?"
-  𐂷: "What beliefs might dissolve if systematically challenged by external inquiry?"
-  ☷: "What habitual patterns of thought does structured AI questioning disrupt?"
-  ⛨: "What boundaries between bias and awareness do these prompts enforce?"
-context_note: >-
-  Five ChatGPT prompt archetypes function as cognitive mirrors — the Excuse Interrogator,
-  Belief Assumption, Fear Visualizer, Perspective Shifter, and Attachment Dissolver —
-  using AI-mediated inquiry to extend the range and depth of self-examination.
-source: "Forbes — 5 Hard-Hitting ChatGPT Prompts That Will Change The Way You Think (Jodie Cook)"
+  ∴: How is genuine self-examination distinguished from comfortable self-talk?
+  ≈: What flows between the AI prompt and the human's hidden assumptions?
+  ▲: Where does provoked discomfort lead — toward growth or defensive retreat?
+  𐂷: What beliefs might dissolve if systematically challenged by external inquiry?
+  ☷: What habitual patterns of thought does structured AI questioning disrupt?
+  ⛨: What boundaries between bias and awareness do these prompts enforce?
+context_note: Five ChatGPT prompt archetypes function as cognitive mirrors — the Excuse Interrogator, Belief Assumption, Fear Visualizer, Perspective Shifter, and Attachment Dissolver — using AI-mediated inquiry to extend the range and depth of self-examination.
+source: Forbes — 5 Hard-Hitting ChatGPT Prompts That Will Change The Way You Think (Jodie Cook)
 date_processed: '2026-03-16'
 processed_by: Claude/SIML
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  author: "Jodie Cook"
+  work: "5 Hard-Hitting ChatGPT Prompts That Will Change The Way You Think"
+  source_domain: "journalism/AI"
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: working
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

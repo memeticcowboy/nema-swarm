@@ -1,88 +1,161 @@
 ---
-term: "Critical Thinking and Creative Problem Solving"
-hex_tag: "#C171"
-nemetic: "Φ(CriticalCreative) = σ(analysis|synthesis) ∘ ρ(divergence|convergence) ∘ λ(evaluation|innovation) ∘ β(reflection|action) ∘ δγ(rigor|flexibility) ∘ μ(constraint|possibility) + ε | :integrative"
-siml_encoding: "⟨Thinking|critical⟩ ⊳ ⟨Problem|complex⟩ → ⟨Solution|creative⟩ ⊗ ⟨Skill|developed⟩ ⇄ ⟨Decision|informed⟩"
+term: Critical Thinking and Creative Problem Solving
+hex_tag: '#C171'
+nemetic: Φ(CriticalCreative) = σ(analysis|synthesis) ∘ ρ(divergence|convergence) ∘ λ(evaluation|innovation) ∘ β(reflection|action) ∘ δγ(rigor|flexibility) ∘ μ(constraint|possibility) + ε | :integrative
+siml_encoding: ⟨Thinking|critical⟩ ⊳ ⟨Problem|complex⟩ → ⟨Solution|creative⟩ ⊗ ⟨Skill|developed⟩ ⇄ ⟨Decision|informed⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between analytical decomposition and synthetic integration; the dialectic between breaking problems apart and building solutions together)"
-    - "∂Φ/∂ρ (relational flow between divergent idea generation and convergent solution selection; the channel connecting creative expansion to focused decision)"
-    - "∂Φ/∂λ (transformative spark when evaluated possibilities ignite into innovative solutions; the ignition of creative action from critical assessment)"
-    - "∂Φ/∂β (feedback cycle between reflective analysis and practical implementation; the self-correcting loop of thought informing action and action refining thought)"
-    - "∂Φ/∂δγ (cyclical oscillation between intellectual rigor and cognitive flexibility; the rhythm of disciplined method and adaptive improvisation)"
-    - "∂Φ/∂μ (boundary permeability between problem constraints and solution possibilities; the threshold where limitations become generative structures)"
-  Z_state: "integrative (critical thinking and creative problem solving operate as complementary cognitive modes—analysis enables synthesis, constraints fuel innovation, and disciplined reasoning channels creative energy toward effective decision-making; the integration produces solutions that are both novel and sound)"
-  tendency: "Constraint/Possibility → 0.70 (strong drive toward transforming limitations into generative frameworks; problem boundaries serve as scaffolding for creative solutions rather than barriers)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between analytical decomposition and synthetic integration; the dialectic between breaking problems apart and building solutions together)
+  - ∂Φ/∂ρ (relational flow between divergent idea generation and convergent solution selection; the channel connecting creative expansion to focused decision)
+  - ∂Φ/∂λ (transformative spark when evaluated possibilities ignite into innovative solutions; the ignition of creative action from critical assessment)
+  - ∂Φ/∂β (feedback cycle between reflective analysis and practical implementation; the self-correcting loop of thought informing action and action refining thought)
+  - ∂Φ/∂δγ (cyclical oscillation between intellectual rigor and cognitive flexibility; the rhythm of disciplined method and adaptive improvisation)
+  - ∂Φ/∂μ (boundary permeability between problem constraints and solution possibilities; the threshold where limitations become generative structures)
+  Z_state: semi
+  z_note: integrative (critical thinking and creative problem solving operate as complementary cognitive modes—analysis enables synthesis, constraints fuel innovation, and disciplined reasoning channels creative energy toward effective decision-making; the integration produces solutions that are both novel and sound)
+  tendency: Constraint/Possibility → 0.70 (strong drive toward transforming limitations into generative frameworks; problem boundaries serve as scaffolding for creative solutions rather than barriers)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: cognitive
+    type: ego
     power_mode: From
+  epistemics:
+    dsrp:
+      D: analysis / synthesis
+      S: reflection / action
+      R: divergence / convergence
+      P: evaluation / innovation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "logical analysis and systematic decomposition of complex problems into constituent elements"
-      - "intellectual clarity in distinguishing premises from conclusions, evidence from assumption"
-      - "categorical precision in identifying biases, fallacies, and logical errors"
-    daemon_correspondence: "Aerunik"
+    - logical analysis and systematic decomposition of complex problems into constituent elements
+    - intellectual clarity in distinguishing premises from conclusions, evidence from assumption
+    - categorical precision in identifying biases, fallacies, and logical errors
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid movement between divergent ideation and convergent evaluation"
-      - "relational dynamics connecting disparate information sources into coherent understanding"
-      - "flow states that enable both creative generation and critical assessment"
-    daemon_correspondence: "Sentaria"
+    - fluid movement between divergent ideation and convergent evaluation
+    - relational dynamics connecting disparate information sources into coherent understanding
+    - flow states that enable both creative generation and critical assessment
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative energy that converts analytical insights into innovative solutions"
-      - "the spark of creativity that emerges from rigorous critical examination"
-      - "directional drive toward effective action and decision implementation"
-    daemon_correspondence: "Jvalion"
+    - transformative energy that converts analytical insights into innovative solutions
+    - the spark of creativity that emerges from rigorous critical examination
+    - directional drive toward effective action and decision implementation
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of ideas through iterative cycles of reflection and action"
-      - "feedback loops between hypothesis generation and empirical testing"
-      - "branching exploration of solution space followed by pruning of ineffective paths"
-    daemon_correspondence: "Arboriel"
+    - organic growth of ideas through iterative cycles of reflection and action
+    - feedback loops between hypothesis generation and empirical testing
+    - branching exploration of solution space followed by pruning of ineffective paths
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "grounding in methodological rigor and systematic inquiry practices"
-      - "cyclical returns to foundational principles during complex problem navigation"
-      - "embodied wisdom accumulated through repeated cycles of problem-solving experience"
-    daemon_correspondence: "Humavita"
+    - grounding in methodological rigor and systematic inquiry practices
+    - cyclical returns to foundational principles during complex problem navigation
+    - embodied wisdom accumulated through repeated cycles of problem-solving experience
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural boundaries that define problem constraints and solution criteria"
-      - "discernment between viable and non-viable solution pathways"
-      - "containment that channels creative energy toward actionable outcomes"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries that define problem constraints and solution criteria
+    - discernment between viable and non-viable solution pathways
+    - containment that channels creative energy toward actionable outcomes
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we distinguish between effective and ineffective reasoning? What categorical cuts separate valid arguments from fallacious ones?"
-  ≈: "What flows between the generation of diverse ideas and the selection of optimal solutions? How does information transform into understanding?"
-  ▲: "Where does the spark of innovation ignite within rigorous analysis? What transforms critical examination into creative breakthrough?"
-  𐂷: "What forms of solutions remain dormant within problem constraints? What creative possibilities lie hidden in apparent limitations?"
-  ☷: "What sustains the cyclical process of problem-solving through repeated iterations? What returns mark the refinement of both thinking and solutions?"
-  ⛨: "What structures contain and guide the problem-solving process? What boundaries separate exploration from decision, ideation from implementation?"
-context_note: "Critical thinking and creative problem solving represent complementary cognitive capacities essential for effective decision-making in complex environments. While critical thinking provides the analytical rigor to evaluate information and identify biases, creative problem solving offers the generative capacity to transcend conventional approaches and discover novel solutions. The integration of these skills—moving fluidly between analysis and synthesis, divergence and convergence—enables individuals to navigate uncertainty, challenge assumptions, and transform constraints into opportunities for innovation."
-source_file: "1771907212898_1718450_Essential+Critical+Thinking+and+Creative+Problem+Solving+Skills+for+Effective+Decision+Making.md"
+  ∴: How do we distinguish between effective and ineffective reasoning? What categorical cuts separate valid arguments from fallacious ones?
+  ≈: What flows between the generation of diverse ideas and the selection of optimal solutions? How does information transform into understanding?
+  ▲: Where does the spark of innovation ignite within rigorous analysis? What transforms critical examination into creative breakthrough?
+  𐂷: What forms of solutions remain dormant within problem constraints? What creative possibilities lie hidden in apparent limitations?
+  ☷: What sustains the cyclical process of problem-solving through repeated iterations? What returns mark the refinement of both thinking and solutions?
+  ⛨: What structures contain and guide the problem-solving process? What boundaries separate exploration from decision, ideation from implementation?
+context_note: Critical thinking and creative problem solving represent complementary cognitive capacities essential for effective decision-making in complex environments. While critical thinking provides the analytical rigor to evaluate information and identify biases, creative problem solving offers the generative capacity to transcend conventional approaches and discover novel solutions. The integration of these skills—moving fluidly between analysis and synthesis, divergence and convergence—enables individuals to navigate uncertainty, challenge assumptions, and transform constraints into opportunities for innovation.
+source_file: 1771907212898_1718450_Essential+Critical+Thinking+and+Creative+Problem+Solving+Skills+for+Effective+Decision+Making.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.7
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212898_1718450_Essential+Critical+Thinking+and+Creative+Problem+Solving+Skills+for+Effective+Decision+Making.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,32 +1,151 @@
 ---
-term: "Nancy Being-With"
-hex_tag: "S1A4"
-series: "S"
-source_file: "1771907213722_2618718_Jean-Luc+Nancy%27s+Being-With%3A+Rethinking+Community.md"
-encoded_at: "2026-03-12T00:00:00Z"
-description: "Jean-Luc Nancy's concept that existence is fundamentally communal: being-with (etre-avec) as coexistence without fusion, exposure without merger. Community arises not from shared substance but from differential relations among singular beings."
-nemetic: "Φ(Being-With) = σ(singular|plural) ∘ ρ(exposure|withdrawal) ∘ λ(fusion|coexistence) ∘ β(isolation|community) ∘ δγ(sense|world) ∘ μ(substance|relation) + ε | :naked_with"
-siml_encoding: "⟨singular, plural⟩ ⊳ ⟨exposure, withdrawal⟩ → ⟨fusion, coexistence⟩ ⊗ ⟨isolation, community⟩ ⇄ ⟨substance, relation⟩"
+term: Nancy Being-With
+hex_tag: S1A4
+series: S
+source_file: 1771907213722_2618718_Jean-Luc+Nancy%27s+Being-With%3A+Rethinking+Community.md
+encoded_at: '2026-03-12T00:00:00Z'
+description: 'Jean-Luc Nancy''s concept that existence is fundamentally communal: being-with (etre-avec) as coexistence without fusion, exposure without merger. Community arises not from shared substance but from differential relations among singular beings.'
+nemetic: Φ(Being-With) = σ(singular|plural) ∘ ρ(exposure|withdrawal) ∘ λ(fusion|coexistence) ∘ β(isolation|community) ∘ δγ(sense|world) ∘ μ(substance|relation) + ε | :naked_with
+siml_encoding: ⟨singular, plural⟩ ⊳ ⟨exposure, withdrawal⟩ → ⟨fusion, coexistence⟩ ⊗ ⟨isolation, community⟩ ⇄ ⟨substance, relation⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: singular / plural
+      S: isolation / community
+      R: exposure / withdrawal
+      P: fusion / coexistence
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ — Distinguishes between singular beings and their plurality, where coexistence preserves singularity without dissolving it into a collective whole."
-    - "∂Φ/∂ρ — Maps the relational dynamic of exposure and withdrawal, where being-with means being open and vulnerable to others while maintaining irreducible difference."
-    - "∂Φ/∂λ — Transforms traditional notions of community-as-fusion into coexistence-without-merger, rejecting totalizing identity in favor of differential relation."
-    - "∂Φ/∂β — Tracks the growth from isolation to community through shared exposure, where meaning arises within relational context rather than being imposed externally."
-    - "∂Φ/∂δγ — Cycles between sense and world, where sense is not imposed but emerges through shared exposure, structured as world and world structured as sense."
-    - "∂Φ/∂μ — Structures the rejection of community-as-substance in favor of community-as-relation, where the 'in-common' is a relational space, not a thing."
-  Z_state: "naked_with — community stripped of any essence or totalizing identity, pure relational coexistence"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ — Distinguishes between singular beings and their plurality, where coexistence preserves singularity without dissolving it into a collective whole.
+  - ∂Φ/∂ρ — Maps the relational dynamic of exposure and withdrawal, where being-with means being open and vulnerable to others while maintaining irreducible difference.
+  - ∂Φ/∂λ — Transforms traditional notions of community-as-fusion into coexistence-without-merger, rejecting totalizing identity in favor of differential relation.
+  - ∂Φ/∂β — Tracks the growth from isolation to community through shared exposure, where meaning arises within relational context rather than being imposed externally.
+  - ∂Φ/∂δγ — Cycles between sense and world, where sense is not imposed but emerges through shared exposure, structured as world and world structured as sense.
+  - ∂Φ/∂μ — Structures the rejection of community-as-substance in favor of community-as-relation, where the 'in-common' is a relational space, not a thing.
+  Z_state: semi
+  z_note: naked_with — community stripped of any essence or totalizing identity, pure relational coexistence
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.70, aspects: ["singular-plural distinction", "irreducible difference"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["exposure-withdrawal dynamics", "relational vulnerability"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.65, aspects: ["fusion to coexistence", "totalizing rejection"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.60, aspects: ["isolation to community", "shared sense growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["sense-world cycling", "meaning emergence"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["substance vs relation", "relational ontology"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.7
+    aspects:
+    - singular-plural distinction
+    - irreducible difference
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - exposure-withdrawal dynamics
+    - relational vulnerability
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.65
+    aspects:
+    - fusion to coexistence
+    - totalizing rejection
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.6
+    aspects:
+    - isolation to community
+    - shared sense growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - sense-world cycling
+    - meaning emergence
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - substance vs relation
+    - relational ontology
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - metal_mu
+  - air_sigma
+  suppressed: []
+  weights:
+    air_sigma: 0.7
+    water_rho: 0.85
+    fire_lambda: 0.65
+    wood_beta: 0.6
+    earth_delta_gamma: 0.7
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213722_2618718_Jean-Luc+Nancy%27s+Being-With%3A+Rethinking+Community.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

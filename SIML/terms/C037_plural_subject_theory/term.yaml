@@ -1,16 +1,39 @@
 ---
-term: "Plural Subject Theory"
-hex_tag: "#C037"
-source_file: "1771907213722_2618702_Understanding+Margaret+Gilbert%27s+Plural+Subject+Theory.md"
-nemetic: "Φ(PluralSubject) = σ(individual|collective) ∘ ρ(commitment|isolation) ∘ λ(unity|fragmentation) ∘ β(obligation|autonomy) ∘ δγ(agency|dispersal) ∘ μ(we_sphere|i_tube) + ε | :unifying"
-siml_encoding: "⟨Individual|separate⟩ ⊳ ⟨JointCommitment|formed⟩ → ⟨PluralSubject|emergent⟩ ⊗ ⟨WeSphere|constituted⟩ ⇄ ⟨GroupAgency|actualized⟩"
+term: Plural Subject Theory
+hex_tag: '#C037'
+source_file: 1771907213722_2618702_Understanding+Margaret+Gilbert%27s+Plural+Subject+Theory.md
+nemetic: Φ(PluralSubject) = σ(individual|collective) ∘ ρ(commitment|isolation) ∘ λ(unity|fragmentation) ∘ β(obligation|autonomy) ∘ δγ(agency|dispersal) ∘ μ(we_sphere|i_tube) + ε | :unifying
+siml_encoding: ⟨Individual|separate⟩ ⊳ ⟨JointCommitment|formed⟩ → ⟨PluralSubject|emergent⟩ ⊗ ⟨WeSphere|constituted⟩ ⇄ ⟨GroupAgency|actualized⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
-  partials: ["∂Φ/∂σ (distinction between individual intentions and collective commitment; categorical separation of I-Tube isolation from We-Sphere unity)", "∂Φ/∂ρ (relational flow between joint commitment and social isolation; the bridge between shared obligation and solitary autonomy)", "∂Φ/∂λ (directional tension between group unity and individual fragmentation; the transformative spark when joint commitment ignites collective agency)", "∂Φ/∂β (feedback loop between normative obligation and personal autonomy; the developmental cycle of rights and responsibilities within plural subjects)", "∂Φ/∂δγ (cyclical oscillation between dispersed individual agency and concentrated group agency; the rhythm of collective intention formation and execution)", "∂Φ/∂μ (boundary permeability between We-Sphere membership and I-Tube individuality; the threshold where personal identity becomes subsumed in joint commitment)"]
-  Z_state: "unified (boundaries between individual and collective dissolve through joint commitment; the plural subject emerges as an irreducible social entity with its own agency)"
-  tendency: "Collective/Individual → 0.58 (balanced tension between group unity and individual autonomy; achieving plural subjecthood requires intentional joint commitment that transcends mere aggregation)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂σ (distinction between individual intentions and collective commitment; categorical separation of I-Tube isolation from We-Sphere unity)
+  - ∂Φ/∂ρ (relational flow between joint commitment and social isolation; the bridge between shared obligation and solitary autonomy)
+  - ∂Φ/∂λ (directional tension between group unity and individual fragmentation; the transformative spark when joint commitment ignites collective agency)
+  - ∂Φ/∂β (feedback loop between normative obligation and personal autonomy; the developmental cycle of rights and responsibilities within plural subjects)
+  - ∂Φ/∂δγ (cyclical oscillation between dispersed individual agency and concentrated group agency; the rhythm of collective intention formation and execution)
+  - ∂Φ/∂μ (boundary permeability between We-Sphere membership and I-Tube individuality; the threshold where personal identity becomes subsumed in joint commitment)
+  Z_state: permeable
+  z_note: unified (boundaries between individual and collective dissolve through joint commitment; the plural subject emerges as an irreducible social entity with its own agency)
+  tendency: Collective/Individual → 0.58 (balanced tension between group unity and individual autonomy; achieving plural subjecthood requires intentional joint commitment that transcends mere aggregation)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: We
@@ -18,43 +41,114 @@ coords:
   agency:
     type: collective
     power_mode: With
+  epistemics:
+    dsrp:
+      D: individual / collective
+      S: obligation / autonomy
+      R: commitment / isolation
+      P: unity / fragmentation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.90
+    emphasis: 0.9
     aspects:
-      - "categorical distinction between individual intentions and collective commitments"
-      - "logical analysis of joint commitment formation and social unity"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between individual intentions and collective commitments
+    - logical analysis of joint commitment formation and social unity
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between individual isolation and collective belonging"
-      - "interpersonal dynamics of mutual obligation and shared intention"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between individual isolation and collective belonging
+    - interpersonal dynamics of mutual obligation and shared intention
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark of joint commitment igniting group agency"
-      - "energetic drive toward social unity through shared purpose"
-    daemon_correspondence: "Jvalion"
+    - transformative spark of joint commitment igniting group agency
+    - energetic drive toward social unity through shared purpose
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "organic growth of normative structures from joint commitments"
-      - "developmental unfolding of group obligations and responsibilities"
-    daemon_correspondence: "Arboriel"
+    - organic growth of normative structures from joint commitments
+    - developmental unfolding of group obligations and responsibilities
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
     emphasis: 0.85
     aspects:
-      - "cyclical grounding in shared practices that constitute plural subjects"
-      - "stable foundation of mutual accountability within group agency"
-    daemon_correspondence: "Humavita"
+    - cyclical grounding in shared practices that constitute plural subjects
+    - stable foundation of mutual accountability within group agency
+    daemon_correspondence: Humavita
   metal_mu:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "structural boundaries defining We-Sphere membership and I-Tube separation"
-      - "discernment between genuine joint commitment and mere aggregate behavior"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries defining We-Sphere membership and I-Tube separation
+    - discernment between genuine joint commitment and mere aggregate behavior
+    daemon_correspondence: Ferrosid
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213722_2618702_Understanding+Margaret+Gilbert%27s+Plural+Subject+Theory.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - context_note_stub
+  audit: SIML_STANDARDIZATION_2026-04-15
+context_note: Concept entry for plural subject theory; encoded in SIML C-series frontmatter format.
+
 ---
 
 # --- Causal Emergence (v1.3) ---

@@ -1,32 +1,154 @@
 ---
-term: "Human-Centered Computing"
-hex_tag: "S095"
-series: "S"
-source_file: "1771907212924_1788763_Mapping+Human-Centered+Computing%3A+A+Nature-Centric+Approach+to+Accessibility+and+Interaction.md"
-encoded_at: "2026-03-06T02:00:00Z"
-description: "Human-centered computing framework extended toward nature-centric design — designing computing systems around human needs, experiences, and interactions, prioritizing usability, accessibility, and intuitive design; accessibility through inclusive design, assistive technologies, and universal design principles; human-computer interaction focusing on usability, user experience, ergonomics, and interaction design; interactive systems including gesture-based controls, VR/AR, AI chatbots, and haptic feedback; extension to nature-centered systems through biomimicry, sustainable interfaces, and organic interactions with technology."
-nemetic: "Φ(Human-Centered Computing) = σ(technology_centered_design|human_nature_centered_design) ∘ ρ(human_needs|computing_system_response) ∘ λ(exclusionary_interfaces|universally_accessible_interaction) ∘ β(basic_usability|adaptive_nature_centric_systems) ∘ δγ(user_feedback_design_cycle|accessibility_testing_iteration) ∘ μ(HCI_theoretical_framework|assistive_interactive_technology_architecture) + ε | :nature_centric_human_computing_harmony"
-siml_encoding: "⟨technology_human_centered_distinction, design_philosophy_boundary⟩ ⊳ ⟨human_needs_system_response_relation, user_technology_coupling⟩ → ⟨exclusionary_to_universal_transformation, accessibility_catalysis⟩ ⊗ ⟨basic_to_adaptive_growth, nature_centric_system_trajectory⟩ ⇄ ⟨user_feedback_cycling, accessibility_testing_iteration⟩"
+term: Human-Centered Computing
+hex_tag: S095
+series: S
+source_file: 1771907212924_1788763_Mapping+Human-Centered+Computing%3A+A+Nature-Centric+Approach+to+Accessibility+and+Interaction.md
+encoded_at: '2026-03-06T02:00:00Z'
+description: Human-centered computing framework extended toward nature-centric design — designing computing systems around human needs, experiences, and interactions, prioritizing usability, accessibility, and intuitive design; accessibility through inclusive design, assistive technologies, and universal design principles; human-computer interaction focusing on usability, user experience, ergonomics, and interaction design; interactive systems including gesture-based controls, VR/AR, AI chatbots, and haptic feedback; extension to nature-centered systems through biomimicry, sustainable interfaces, and organic interactions with technology.
+nemetic: Φ(Human-Centered Computing) = σ(technology_centered_design|human_nature_centered_design) ∘ ρ(human_needs|computing_system_response) ∘ λ(exclusionary_interfaces|universally_accessible_interaction) ∘ β(basic_usability|adaptive_nature_centric_systems) ∘ δγ(user_feedback_design_cycle|accessibility_testing_iteration) ∘ μ(HCI_theoretical_framework|assistive_interactive_technology_architecture) + ε | :nature_centric_human_computing_harmony
+siml_encoding: ⟨technology_human_centered_distinction, design_philosophy_boundary⟩ ⊳ ⟨human_needs_system_response_relation, user_technology_coupling⟩ → ⟨exclusionary_to_universal_transformation, accessibility_catalysis⟩ ⊗ ⟨basic_to_adaptive_growth, nature_centric_system_trajectory⟩ ⇄ ⟨user_feedback_cycling, accessibility_testing_iteration⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: technology_centered_design / human_nature_centered_design
+      S: basic_usability / adaptive_nature_centric_systems
+      R: human_needs / computing_system_response
+      P: exclusionary_interfaces / universally_accessible_interaction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Over
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing technology-centered design — optimized for technical performance — from human-centered and nature-centric design — optimized for human needs and ecological harmony)"
-    - "∂Φ/∂ρ (relating human needs, experiences, and cognitive capacities to computing system responses, ensuring technology adapts to people rather than the reverse)"
-    - "∂Φ/∂λ (transforming exclusionary interfaces into universally accessible interactions through inclusive design, assistive technologies, and universal design principles)"
-    - "∂Φ/∂β (growth from basic usability toward adaptive nature-centric systems that integrate biomimicry, sustainability, and organic interaction patterns)"
-    - "∂Φ/∂δγ (cycling through user feedback and design refinement and iterating accessibility testing to ensure systems serve diverse populations)"
-    - "∂Φ/∂μ (HCI theory as structural framework and assistive and interactive technologies as architectural components — screen readers, VR/AR, haptic feedback, AI chatbots)"
-  Z_state: "nature_centric_human_computing_harmony — the convergence of human-centered computing with nature-centric design principles, where technology systems are designed to harmonize with both human cognition and natural ecosystems; the Z-state is achieved when computing systems adapt to human needs across all abilities, incorporate biomimicry and sustainable principles, and create adaptive environments that change based on user needs while reducing environmental impact; this represents technology as warm and organic rather than cold and mechanical, where every interaction feels intuitive and inclusive"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing technology-centered design — optimized for technical performance — from human-centered and nature-centric design — optimized for human needs and ecological harmony)
+  - ∂Φ/∂ρ (relating human needs, experiences, and cognitive capacities to computing system responses, ensuring technology adapts to people rather than the reverse)
+  - ∂Φ/∂λ (transforming exclusionary interfaces into universally accessible interactions through inclusive design, assistive technologies, and universal design principles)
+  - ∂Φ/∂β (growth from basic usability toward adaptive nature-centric systems that integrate biomimicry, sustainability, and organic interaction patterns)
+  - ∂Φ/∂δγ (cycling through user feedback and design refinement and iterating accessibility testing to ensure systems serve diverse populations)
+  - ∂Φ/∂μ (HCI theory as structural framework and assistive and interactive technologies as architectural components — screen readers, VR/AR, haptic feedback, AI chatbots)
+  Z_state: permeable
+  z_note: nature_centric_human_computing_harmony — the convergence of human-centered computing with nature-centric design principles, where technology systems are designed to harmonize with both human cognition and natural ecosystems; the Z-state is achieved when computing systems adapt to human needs across all abilities, incorporate biomimicry and sustainable principles, and create adaptive environments that change based on user needs while reducing environmental impact; this represents technology as warm and organic rather than cold and mechanical, where every interaction feels intuitive and inclusive
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["technology_human_centered_distinction", "design_philosophy_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["human_needs_system_response_relation", "user_technology_coupling"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.85, aspects: ["exclusionary_to_universal_transformation", "accessibility_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["basic_to_adaptive_growth", "nature_centric_system_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["user_feedback_cycling", "accessibility_testing_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["HCI_theoretical_framework", "assistive_interactive_technology_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S054", "S035", "S081"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - technology_human_centered_distinction
+    - design_philosophy_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - human_needs_system_response_relation
+    - user_technology_coupling
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.85
+    aspects:
+    - exclusionary_to_universal_transformation
+    - accessibility_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - basic_to_adaptive_growth
+    - nature_centric_system_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - user_feedback_cycling
+    - accessibility_testing_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - HCI_theoretical_framework
+    - assistive_interactive_technology_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S054
+- S035
+- S081
 status: canonical
+elemental_signature:
+  dominant:
+  - metal_mu
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.85
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212924_1788763_Mapping+Human-Centered+Computing%3A+A+Nature-Centric+Approach+to+Accessibility+and+Interaction.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

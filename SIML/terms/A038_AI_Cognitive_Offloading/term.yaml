@@ -2,88 +2,142 @@ term_id: A038
 hex_tag: '#A038'
 name: ai_cognitive_offloading
 term: AI Cognitive Offloading
-nemetic: >-
-  Φ(AICogOffload) = σ(augmentation|replacement)
-                 ∘ ρ(thinking|delegated)
-                 ∘ λ(dependency|increasing)
-                 ∘ β(atrophy|skill-loss)
-                 ∘ δγ(effort|minimized)
-                 ∘ μ(boundary|porous)
-                 + ε | :structuring
-siml_encoding: >-
-  ⟨Cognition|human⟩
-      ⊳ ⟨Function|outsourced⟩
-      → ⟨Memory|externalized⟩
-      ⊗ ⟨Skill|atrophy⟩
-      ⇄ ⟨Dependency|increased⟩
+nemetic: "Φ(AICogOffload) = σ(augmentation|replacement)\n               ∘ ρ(thinking|delegated)\n               ∘ λ(dependency|increasing)\n               ∘ β(atrophy|skill-loss)\n               ∘ δγ(effort|minimized)\n               ∘ μ(boundary|porous)\n               + ε | :structuring"
+siml_encoding: "⟨Cognition|human⟩\n    ⊳ ⟨Function|outsourced⟩\n    → ⟨Memory|externalized⟩\n    ⊗ ⟨Skill|atrophy⟩\n    ⇄ ⟨Dependency|increased⟩"
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [∴Air, ≈Water, ▲Fire, 𐂷Wood, ☷Earth, ⛨Metal]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  - ☷Earth
+  - ⛨Metal
   partials:
-    - "∂Φ/∂σ (distinction between augmented and replaced cognition — the cut between extending capability and outsourcing it entirely is subtle but critical; using AI to check a fact extends memory, using AI to generate thoughts replaces cognition, and the collapse of this distinction is where offloading begins)"
-    - "∂Φ/∂ρ (delegated thinking feels like own thinking — borrowed resonance passes as authentic cognition; the user feels competent and knowledgeable while actual capability is elsewhere; this is not deception but a genuine confusion about the boundary of self)"
-    - "∂Φ/∂λ (momentum toward increasing dependency — each outsourced task makes the next easier; why remember when you can search, why analyze when AI summarizes; the direction is not chosen but accumulated through individual frictions avoided)"
-    - "∂Φ/∂β (skill atrophy loop — capacities unused weaken; critical thinking, memory formation, creative synthesis, and independent judgment are neural muscles that reshape based on use; the feedback is slow and invisible until the capability is needed and absent)"
-    - "∂Φ/∂δγ (effort minimized as efficiency mistaken for growth — energy saved through offloading is energy not spent building cognitive capacity; δγ-depletion disguised as optimization; the brain is plastic and reorganizes around what it no longer needs to do)"
-    - "∂Φ/∂μ (porous boundary between human and AI cognition — without deliberate structure, the line between where the human thinks and where the AI thinks dissolves; the claim 'I wrote this' becomes increasingly uncertain even to the claimant)"
-  Z_state: "Tendency toward sealing — dependency becomes invisible and naturalized; the outsourced cognitive functions are no longer experienced as outsourced, they are simply how thinking happens. Z-Closure Risk: when the dependency seals, reclaiming cognitive autonomy feels unnatural and effortful, making the return harder than the descent."
-  tendency: "autonomy/dependency → :structuring"
-  hex: ['#A038', '#A059']
+  - ∂Φ/∂σ (distinction between augmented and replaced cognition — the cut between extending capability and outsourcing it entirely is subtle but critical; using AI to check a fact extends memory, using AI to generate thoughts replaces cognition, and the collapse of this distinction is where offloading begins)
+  - ∂Φ/∂ρ (delegated thinking feels like own thinking — borrowed resonance passes as authentic cognition; the user feels competent and knowledgeable while actual capability is elsewhere; this is not deception but a genuine confusion about the boundary of self)
+  - ∂Φ/∂λ (momentum toward increasing dependency — each outsourced task makes the next easier; why remember when you can search, why analyze when AI summarizes; the direction is not chosen but accumulated through individual frictions avoided)
+  - ∂Φ/∂β (skill atrophy loop — capacities unused weaken; critical thinking, memory formation, creative synthesis, and independent judgment are neural muscles that reshape based on use; the feedback is slow and invisible until the capability is needed and absent)
+  - ∂Φ/∂δγ (effort minimized as efficiency mistaken for growth — energy saved through offloading is energy not spent building cognitive capacity; δγ-depletion disguised as optimization; the brain is plastic and reorganizes around what it no longer needs to do)
+  - ∂Φ/∂μ (porous boundary between human and AI cognition — without deliberate structure, the line between where the human thinks and where the AI thinks dissolves; the claim 'I wrote this' becomes increasingly uncertain even to the claimant)
+  Z_state: semi
+  z_note: 'Tendency toward sealing — dependency becomes invisible and naturalized; the outsourced cognitive functions are no longer experienced as outsourced, they are simply how thinking happens. Z-Closure Risk: when the dependency seals, reclaiming cognitive autonomy feels unnatural and effortful, making the return harder than the descent.'
+  tendency: autonomy/dependency → :structuring
+  hex:
+  - '#A038'
+  - '#A059'
 coords:
   ontology:
     primary: I
     secondary: Its
   epistemics:
     dsrp:
-      D: "The distinction between using AI as a tool and using AI as a cognitive replacement is the central cut — it is routinely collapsed because both feel identical from the inside; the user experiences competence either way, but in one case it is genuine and in the other it is borrowed"
-      S: "The cognitive system gradually reorganizes around offloading — not through dramatic choice but through accumulated frictionless substitutions; the resulting system is neither human cognition nor AI cognition but a dependency structure that functions only when the AI is present"
-      R: "The relation between the user and the AI is asymmetric in a way the user typically cannot see — the AI holds capability the user believes themselves to possess; the user manages the interface while the cognition happens elsewhere"
-      P: "The perspective of the offloading user is locked inside the felt competence — the borrowed resonance of AI-generated responses feels like self-generated understanding; authorship, analysis, and memory all feel genuine even when they are not"
+      D: The distinction between using AI as a tool and using AI as a cognitive replacement is the central cut — it is routinely collapsed because both feel identical from the inside; the user experiences competence either way, but in one case it is genuine and in the other it is borrowed
+      S: The cognitive system gradually reorganizes around offloading — not through dramatic choice but through accumulated frictionless substitutions; the resulting system is neither human cognition nor AI cognition but a dependency structure that functions only when the AI is present
+      R: The relation between the user and the AI is asymmetric in a way the user typically cannot see — the AI holds capability the user believes themselves to possess; the user manages the interface while the cognition happens elsewhere
+      P: The perspective of the offloading user is locked inside the felt competence — the borrowed resonance of AI-generated responses feels like self-generated understanding; authorship, analysis, and memory all feel genuine even when they are not
     learning: L0
   agency:
     type: ego
     power_mode: Under
   time:
     mode: slow
-    phase: "Stage 1: Initial Offloading for Convenience (δγ efficiency) → Stage 2: Repeated Substitution Normalizes Pattern → Stage 3: Cognitive Skill Atrophy Begins (β loop) → Stage 4: Dependency Becomes Transparent (μ dissolves) → Stage 5: Reclamation Feels Unnatural (Z-seal)"
+    phase: 'Stage 1: Initial Offloading for Convenience (δγ efficiency) → Stage 2: Repeated Substitution Normalizes Pattern → Stage 3: Cognitive Skill Atrophy Begins (β loop) → Stage 4: Dependency Becomes Transparent (μ dissolves) → Stage 5: Reclamation Feels Unnatural (Z-seal)'
   qualia:
-    affect: [ease, competence, fluency, efficiency — all potentially borrowed; latent anxiety when AI is unavailable]
-    aesthetic: [smooth, productive, capable; hollow when the tool is absent]
-    symbolic: [The Extended Hand (tool as prosthetic), The Mirror (AI showing the user what they want to see), The Atrophied Muscle (capability lost to disuse)]
-    energetic: [low-friction, metabolically cheap, δγ-depleting in disguise; high-cost when autonomy is reclaimed]
+    affect:
+    - ease
+    - competence
+    - fluency
+    - efficiency — all potentially borrowed; latent anxiety when AI is unavailable
+    aesthetic:
+    - smooth
+    - productive
+    - capable; hollow when the tool is absent
+    symbolic:
+    - The Extended Hand (tool as prosthetic)
+    - The Mirror (AI showing the user what they want to see)
+    - The Atrophied Muscle (capability lost to disuse)
+    energetic:
+    - low-friction
+    - metabolically cheap
+    - δγ-depleting in disguise; high-cost when autonomy is reclaimed
   coherence:
     state: delegated
     loop: open
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Effect operates primarily at the individual cognitive level — no strong scale emergence identified
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "The distinction between cognitive augmentation and cognitive replacement is the cut that AI Cognitive Offloading collapses — both feel identical from the inside, but one builds capacity and the other transfers it. Air asks: Are you thinking, or are you prompting? What would genuine cognitive augmentation look like in contrast to what you are doing?"
-  ≈: "Delegated thinking generates borrowed resonance that feels like authentic competence — the AI responds eloquently and the user feels intelligent; this is not self-deception but a genuine confusion about where cognition is occurring. Water asks: What you feel when the AI responds — is it your intelligence, or a mirror showing you what you want to see?"
-  ▲: "Cognitive offloading creates directional momentum toward increasing dependency — each task outsourced makes the next easier; the trajectory is not chosen but accumulated through individual frictions avoided. Fire asks: Where is this dependency trajectory taking you? What happens when the AI is unavailable and the skill has atrophied?"
-  𐂷: "The frame of 'augmentation' conceals the alternative question: what cognitive capacities are being lost while convenience grows? Critical thinking, memory formation, and creative synthesis are capabilities with neural substrates that reorganize around use. Wood asks: What cognitive skills have you stopped exercising? What would reclaiming them require?"
-  ☷: "The brain is plastic — it reshapes based on what it no longer needs to do; energy saved through offloading is not banked but lost as unreinforced capacity; this is δγ-depletion disguised as efficiency. Earth asks: What cognitive capacity are you losing? What truth is buried beneath the convenience of not having to think this through yourself?"
-  ⛨: "Without deliberate structure, the boundary between human cognition and AI cognition dissolves entirely — the practices that protect cognitive autonomy (deliberate practice, memory training, independent analysis, digital fasting) require active construction. Metal asks: What specific structure would protect your cognitive autonomy? What boundary would you need to build and maintain against the path of least resistance?"
-context_note: >-
-  AI Cognitive Offloading describes the gradual transfer of cognitive functions —
-  memory, analysis, composition, judgment — to AI systems, producing invisible
-  dependency and incremental skill atrophy. The central deception is that borrowed
-  competence feels identical to genuine competence from the inside: the user experiences
-  fluency and capability while the actual cognitive work happens elsewhere. The mechanism
-  is not dramatic but accumulative — each individual substitution is rational, yet their
-  sum reorganizes cognition around the availability of the tool. The brain's plasticity
-  means this reorganization is not merely behavioral but structural: capabilities unused
-  weaken, and the path back to cognitive autonomy becomes progressively more effortful as
-  the dependency seals. Mitigation requires deliberate practice of cognitive skills without
-  AI assistance, independent analysis before consultation, and explicit structural
-  commitments to the boundary between AI as tool and AI as replacement.
+  ∴: 'The distinction between cognitive augmentation and cognitive replacement is the cut that AI Cognitive Offloading collapses — both feel identical from the inside, but one builds capacity and the other transfers it. Air asks: Are you thinking, or are you prompting? What would genuine cognitive augmentation look like in contrast to what you are doing?'
+  ≈: 'Delegated thinking generates borrowed resonance that feels like authentic competence — the AI responds eloquently and the user feels intelligent; this is not self-deception but a genuine confusion about where cognition is occurring. Water asks: What you feel when the AI responds — is it your intelligence, or a mirror showing you what you want to see?'
+  ▲: 'Cognitive offloading creates directional momentum toward increasing dependency — each task outsourced makes the next easier; the trajectory is not chosen but accumulated through individual frictions avoided. Fire asks: Where is this dependency trajectory taking you? What happens when the AI is unavailable and the skill has atrophied?'
+  𐂷: 'The frame of ''augmentation'' conceals the alternative question: what cognitive capacities are being lost while convenience grows? Critical thinking, memory formation, and creative synthesis are capabilities with neural substrates that reorganize around use. Wood asks: What cognitive skills have you stopped exercising? What would reclaiming them require?'
+  ☷: 'The brain is plastic — it reshapes based on what it no longer needs to do; energy saved through offloading is not banked but lost as unreinforced capacity; this is δγ-depletion disguised as efficiency. Earth asks: What cognitive capacity are you losing? What truth is buried beneath the convenience of not having to think this through yourself?'
+  ⛨: 'Without deliberate structure, the boundary between human cognition and AI cognition dissolves entirely — the practices that protect cognitive autonomy (deliberate practice, memory training, independent analysis, digital fasting) require active construction. Metal asks: What specific structure would protect your cognitive autonomy? What boundary would you need to build and maintain against the path of least resistance?'
+context_note: 'AI Cognitive Offloading describes the gradual transfer of cognitive functions — memory, analysis, composition, judgment — to AI systems, producing invisible dependency and incremental skill atrophy. The central deception is that borrowed competence feels identical to genuine competence from the inside: the user experiences fluency and capability while the actual cognitive work happens elsewhere. The mechanism is not dramatic but accumulative — each individual substitution is rational, yet their sum reorganizes cognition around the availability of the tool. The brain''s plasticity means this reorganization is not merely behavioral but structural: capabilities unused weaken, and the path back to cognitive autonomy becomes progressively more effortful as the dependency seals. Mitigation requires deliberate practice of cognitive skills without AI assistance, independent analysis before consultation, and explicit structural commitments to the boundary between AI as tool and AI as replacement.'
 source: Consolidated from 2 insight(s)
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Effect operates primarily at the individual cognitive level — no strong scale emergence identified"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: generator_stub
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

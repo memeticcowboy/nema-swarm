@@ -1,12 +1,40 @@
 term_id: A063
 name: Ecology_of_Mind
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: distinction / man plus environment
+      S: distributed exploration / patterns across elements
+      R: circuit resonance / interaction loops
+      P: system cycling / feedback dynamics
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce: &id001
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across multiple description levels
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 element: Air
 phonetic_key: ☁/β
-description: Mind as immanent in circuits of interaction among organisms, tools, environments—not
-  located in individual skull
-nemetic_string: Φ(Ecology_of_Mind) = ρ(circuit-resonance|interaction-loops) ∘ β(distributed-exploration|patterns-across-elements)
-  ∘ γ(system-cycling|feedback-dynamics) ∘ σ(distinction|man-plus-environment) + ε
-  | :cycling
+description: Mind as immanent in circuits of interaction among organisms, tools, environments—not located in individual skull
+nemetic_string: Φ(Ecology_of_Mind) = ρ(circuit-resonance|interaction-loops) ∘ β(distributed-exploration|patterns-across-elements) ∘ γ(system-cycling|feedback-dynamics) ∘ σ(distinction|man-plus-environment) + ε | :cycling
 operators:
   primary: ρ
   secondary:
@@ -17,37 +45,93 @@ operators:
   - λ
   - μ
   - δ
-z_state: :cycling
+Z_state: permeable
 tendency: Resonance/Exploration → 1
 habitat_affinity: 4_LIVING / 9_WORLD-STATES
 daemon_correspondence: R (relational) primary, W (witness) secondary
-bateson_project: Ecology of ideas—how ideas interact, undergo selection, form stable/unstable
-  systems
-mind_location: Not inside individual skull but immanent in circuits of interaction
-  among organisms, tools, environments
-relevant_unit: 'The system: the man plus the environment; man and the ax and the tree
-  and the feedback between them'
-rejection: Any notion that cognition resides in one component abstracted from larger
-  circuit
+bateson_project: Ecology of ideas—how ideas interact, undergo selection, form stable/unstable systems
+mind_location: Not inside individual skull but immanent in circuits of interaction among organisms, tools, environments
+relevant_unit: 'The system: the man plus the environment; man and the ax and the tree and the feedback between them'
+rejection: Any notion that cognition resides in one component abstracted from larger circuit
 distributed_cognition: Dynamic patterns of correlation across elements
-nematic_translation: Cognition is property of patterned relations—feedback loops,
-  constraints, flows—not of isolated entities
+nematic_translation: Cognition is property of patterned relations—feedback loops, constraints, flows—not of isolated entities
 key_insight: Mind is not substance in unit but relational pattern in system
 _source_meta:
   version: SIML v1.2.1
   encoding_date: '2026-02-25T07:00:00+08:00'
   encoder: Kimi Claw
-  source_material: Gregory Bateson—ecology of mind, information as difference that
-    makes a difference, double bind as pathological pattern
+  source_material: Gregory Bateson—ecology of mind, information as difference that makes a difference, double bind as pathological pattern
   total_terms: 3
-
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: multiscale
-  scale_note: "Causal power distributed across multiple description levels"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+source: Gregory Bateson—ecology of mind, information as difference that makes a difference, double bind as pathological pattern
+formalism:
+  math_operators:
+  - ρ
+  - β
+  - γ
+  - σ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂ρ (circuit-resonance|interaction-loops)
+  - ∂Φ/∂β (distributed-exploration|patterns-across-elements)
+  - ∂Φ/∂γ (system-cycling|feedback-dynamics)
+  - ∂Φ/∂σ (distinction|man-plus-environment)
+  Z_state: permeable
+  tendency: auto-backfilled tendency placeholder (revise after human review)
+elemental_mapping: &id002
+  Air: 0.9
+  Water: 0.8
+  Fire: 0.3
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.3
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Wood
+  suppressed:
+  - Fire
+  - Metal
+  - Meta
+  weights: *id002
+provenance:
+  author: "Gregory Bateson"
+  work: "ecology of mind, information as difference that makes a difference, double bind as pathological pattern"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: false
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_probable
+  resolver: mvc_recovery_script
+  mvc_pass: True
+lifecycle: working
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - source_from_meta
+  - formalism+['Z_state', 'dim_operators', 'math_operators', 'partials', 'tendency']
+  - dsrp
+  - coherence
+  - agency
+  - ce_from_legacy
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'

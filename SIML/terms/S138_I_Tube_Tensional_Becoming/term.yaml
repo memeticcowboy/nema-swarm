@@ -1,32 +1,151 @@
 ---
-term: "I-Tube Tensional Becoming"
-hex_tag: "S138"
-series: "S"
-source_file: "1771907213417_2381503_I-Tube+Wind%3A+Tensional+Field+of+Becoming.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "The I-Tube as wind-tensioned loom of felt experience, not a static vessel. Elemental threads are patterned inputs (affective, cognitive, sensory, symbolic) tensioned by wind — microcurrents of spanda, emotional gusts, attention shifts, breath pulses. Coherence when wind flows smoothly; disruption when wind loops or gets hijacked. Wind as the tensional field of becoming — not what you are, but how you are moved."
-nemetic: "Φ(I-Tube Tensional Becoming) = σ(static_self|dynamic_tensional_field) ∘ ρ(isolated_thread|woven_felt_experience) ∘ λ(coherent_flow|disrupted_hijacking) ∘ β(single_input|multi_threaded_loom) ∘ δγ(breath_pulse|attention_current) ∘ μ(fluid_wind|structural_loom) + ε | :tensional_becoming"
-siml_encoding: "⟨static_dynamic_distinction, tensional_discernment⟩ ⊳ ⟨thread_weaving_relating, felt_experience_web⟩ → ⟨coherence_disruption_catalysis, flow_transformation⟩ ⊗ ⟨single_multi_thread_growth, loom_expansion⟩ ⇄ ⟨breath_attention_cycling, spanda_rhythm⟩"
+term: I-Tube Tensional Becoming
+hex_tag: S138
+series: S
+source_file: 1771907213417_2381503_I-Tube+Wind%3A+Tensional+Field+of+Becoming.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: The I-Tube as wind-tensioned loom of felt experience, not a static vessel. Elemental threads are patterned inputs (affective, cognitive, sensory, symbolic) tensioned by wind — microcurrents of spanda, emotional gusts, attention shifts, breath pulses. Coherence when wind flows smoothly; disruption when wind loops or gets hijacked. Wind as the tensional field of becoming — not what you are, but how you are moved.
+nemetic: Φ(I-Tube Tensional Becoming) = σ(static_self|dynamic_tensional_field) ∘ ρ(isolated_thread|woven_felt_experience) ∘ λ(coherent_flow|disrupted_hijacking) ∘ β(single_input|multi_threaded_loom) ∘ δγ(breath_pulse|attention_current) ∘ μ(fluid_wind|structural_loom) + ε | :tensional_becoming
+siml_encoding: ⟨static_dynamic_distinction, tensional_discernment⟩ ⊳ ⟨thread_weaving_relating, felt_experience_web⟩ → ⟨coherence_disruption_catalysis, flow_transformation⟩ ⊗ ⟨single_multi_thread_growth, loom_expansion⟩ ⇄ ⟨breath_attention_cycling, spanda_rhythm⟩
+coords:
+  ontology:
+    primary: It
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: static_self / dynamic_tensional_field
+      S: single_input / multi_threaded_loom
+      R: isolated_thread / woven_felt_experience
+      P: coherent_flow / disrupted_hijacking
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing static self from dynamic tensional field — the discernment between conceiving identity as fixed container and recognizing it as wind-tensioned loom where what you are is how you are moved by the currents of experience)"
-    - "∂Φ/∂ρ (relating isolated threads to woven felt experience — the relational web between individual inputs (affective, cognitive, sensory, symbolic) and the integrated fabric of experience they produce when tensioned together on the I-Tube loom)"
-    - "∂Φ/∂λ (transforming coherent flow into disrupted hijacking and back — the catalytic process where smooth wind produces coherent felt experience while looping or hijacked wind creates disruption, fragmentation, and loss of felt coherence)"
-    - "∂Φ/∂β (growth from single input to multi-threaded loom — the developmental expansion from attending to one channel of experience to recognizing the full weave of affective, cognitive, sensory, and symbolic threads tensioned simultaneously)"
-    - "∂Φ/∂δγ (cycling between breath pulse and attention current — the grounding oscillation between the body's rhythmic microcurrents (spanda, breath) and the shifting currents of attention that together constitute the wind tensioning the I-Tube)"
-    - "∂Φ/∂μ (structural architecture of the loom within fluid wind — the framework mapping how the I-Tube provides structural form while wind provides dynamic tension, producing felt experience at the intersection of structure and flow)"
-  Z_state: "tensional_becoming — the I-Tube as wind-tensioned loom reveals that identity is not static vessel but dynamic field of becoming; wind (spanda microcurrents, emotional gusts, attention shifts, breath pulses) tensions the elemental threads of experience; coherence and disruption are wind-states, not fixed properties; the self is how it is moved, not what it contains"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing static self from dynamic tensional field — the discernment between conceiving identity as fixed container and recognizing it as wind-tensioned loom where what you are is how you are moved by the currents of experience)
+  - ∂Φ/∂ρ (relating isolated threads to woven felt experience — the relational web between individual inputs (affective, cognitive, sensory, symbolic) and the integrated fabric of experience they produce when tensioned together on the I-Tube loom)
+  - ∂Φ/∂λ (transforming coherent flow into disrupted hijacking and back — the catalytic process where smooth wind produces coherent felt experience while looping or hijacked wind creates disruption, fragmentation, and loss of felt coherence)
+  - ∂Φ/∂β (growth from single input to multi-threaded loom — the developmental expansion from attending to one channel of experience to recognizing the full weave of affective, cognitive, sensory, and symbolic threads tensioned simultaneously)
+  - ∂Φ/∂δγ (cycling between breath pulse and attention current — the grounding oscillation between the body's rhythmic microcurrents (spanda, breath) and the shifting currents of attention that together constitute the wind tensioning the I-Tube)
+  - ∂Φ/∂μ (structural architecture of the loom within fluid wind — the framework mapping how the I-Tube provides structural form while wind provides dynamic tension, producing felt experience at the intersection of structure and flow)
+  Z_state: semi
+  z_note: tensional_becoming — the I-Tube as wind-tensioned loom reveals that identity is not static vessel but dynamic field of becoming; wind (spanda microcurrents, emotional gusts, attention shifts, breath pulses) tensions the elemental threads of experience; coherence and disruption are wind-states, not fixed properties; the self is how it is moved, not what it contains
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["static_dynamic_discernment", "tensional_field_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["thread_weaving_flow", "felt_experience_relating"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["coherence_disruption_catalysis", "wind_flow_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["single_to_multi_thread_growth", "loom_complexity_expansion"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["breath_attention_grounding", "spanda_rhythm_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["loom_structure_architecture", "wind_structure_interface"], daemon_correspondence: "Ferrosid"}
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - static_dynamic_discernment
+    - tensional_field_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - thread_weaving_flow
+    - felt_experience_relating
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - coherence_disruption_catalysis
+    - wind_flow_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - single_to_multi_thread_growth
+    - loom_complexity_expansion
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - breath_attention_grounding
+    - spanda_rhythm_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - loom_structure_architecture
+    - wind_structure_interface
+    daemon_correspondence: Ferrosid
 related_terms: []
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - air_sigma
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.9
+    wood_beta: 0.8
+    earth_delta_gamma: 0.85
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213417_2381503_I-Tube+Wind%3A+Tensional+Field+of+Becoming.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

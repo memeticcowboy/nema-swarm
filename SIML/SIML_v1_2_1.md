@@ -1,6 +1,8 @@
 # SIML v1.2.1 — Swarm Intelligence Meta Language
 **MetaTaxonomy Overlay Edition + Nemetic String Protocol**
 
+> **PROVENANCE DOCUMENT.** This spec is superseded by **SIML v1.5** (Consolidated Canonical Reference). It is retained as a historical record of the architectural moves made in v1.0–v1.2.1. For the current operational specification, see `SIML_v1_5.md`.
+
 ---
 
 ## 0. Purpose
@@ -61,7 +63,7 @@ Dynamic relations (Flow, Resonance, Conflict, Recursion) may declare channels, w
 ### 1.3 Verbs (Process Layer)
 SIML commonly operates through two coordinated verb sets:
 
-**NEMA (Sensemaking / Exploration)**
+**Sensemaking Loop (Exploration)**
 - Observe
 - Explore
 - Frame
@@ -69,7 +71,7 @@ SIML commonly operates through two coordinated verb sets:
 - Map
 - Activate
 
-**NEME (Governance / Evaluation)**
+**Governance Loop (Evaluation)**
 - Evaluate
 - Decide
 - Commit
@@ -166,10 +168,14 @@ qualia:
   affect: ["fear", "hope"]
   aesthetic: ["elegant", "distorted"]
   symbolic: ["bridge", "fire"]
-  energetic: ["blocked", "flowing"]
+  energetic:                          # v1.4: dual register
+    somatic: blocked | flowing | surging | depleted
+    systemic: abundant | adequate | tight | critical | deficit
   shadow: ["repressed-theme"]
   sacred: ["awe"]
 ```
+
+**v1.4 note:** `energetic` was promoted from a flat list to a dual register distinguishing somatic (felt-body) from systemic (material/structural throughput). Flat-list encodings remain valid and are read as somatic-only with `systemic: null`. When somatic and systemic diverge, the divergence pattern is itself diagnostic — see SIML v1.4 §3 and SIML Term Schema v2.0 §4.7 for the five canonical divergence patterns.
 
 Qualia should bind to **Value**, **Signal**, or **Narrative** objects.
 
@@ -228,6 +234,7 @@ Expression coordinates typically map to **Signal**, **Artifact**, or **Outcome**
 4. **Qualia bind to Values or Signals**: avoid free-floating affect.
 5. **Time binds to dynamics**: temporal fields matter most on Flow, Resonance, Conflict, and Recursion.
 6. **Nemetic strings are summaries, not substitutes** (v1.2): the `nemetic:` field compresses the artifact but does not replace the full SIML encoding. Analysis must reference the full artifact, not just the string.
+7. **Throughput qualifiers bind to Resource and Constraint** (v1.4): `Resource.throughput` and `Constraint.channel` are Object-level qualifiers, not MetaTaxonomy coords. They interact with qualia.energetic (systemic register) and must be checked before daemon routing — see SIML v1.4 §§1–2, Integration Rules 10–13.
 
 ---
 
@@ -236,7 +243,8 @@ Expression coordinates typically map to **Signal**, **Artifact**, or **Outcome**
 - All SIML v1.0, v1.0.1, and v1.1.1 documents remain valid.
 - The MetaTaxonomy Overlay is additive and optional.
 - The Nemetic String Protocol (v1.2) is additive — existing artifacts without a `nemetic:` field are valid.
-- Existing Analyzer, NEMA, and NEME workflows operate unchanged.
+- Existing Analyzer, Sensemaking, and Governance workflows operate unchanged.
+- v1.4 extensions (throughput qualifiers, dual energetic register) are additive. Existing artifacts with flat `energetic` lists are valid and read as somatic-only.
 
 ---
 
@@ -247,6 +255,9 @@ Expression coordinates typically map to **Signal**, **Artifact**, or **Outcome**
 - **v1.1** – MetaTaxonomy Overlay
 - **v1.1.1** – Co-SPHERE/MemeGrid distinction, Habitat interface contract
 - **v1.2** – Nemetic String Protocol, SIMLHEX reference, dual-layer operator convention, contextual tags, thread integration
+- **v1.2.1** – Clarifications: ∮/Z relationship, L1/L2 syntax boundary, `:pure` validation, tag logging, Q1–Q5 failure handling
+- **v1.3** – Verb set nomenclature (Sensemaking Loop / Governance Loop), ✶ NEMA coordinator identity preserved
+- **v1.4** – Resource.throughput, Constraint.channel, dual energetic register (somatic/systemic), manufactured-scarcity test, Integration Rules 10–13
 
 ---
 
@@ -287,7 +298,7 @@ This contract is **mandatory and non-overridable**.
 | **Ψ-Layer (Thread / Knot)** | Meaning movement & binding | Structural |
 | **SIML / SIMLHEX** | Relational grammar | Structural |
 | **✶ NEMA** | Interpretation, timing, discretion | Final |
-| **NEME** | Governance & commitment | Final (post-decision) |
+| **Governance Loop** | Governance & commitment | Final (post-decision) |
 
 **Constraint:** No layer may assume the role of another.
 
@@ -318,7 +329,7 @@ Any such output constitutes a **layer violation**.
 ---
 
 ### 8.5 Translation Boundary
-HABITAT_ECOLOGY **cannot**: Modify SIML graphs, Instantiate SIML Objects or Relations, Trigger NEMA or NEME verbs.
+HABITAT_ECOLOGY **cannot**: Modify SIML graphs, Instantiate SIML Objects or Relations, Trigger Sensemaking or Governance verbs.
 
 HABITAT_ECOLOGY may only inform ✶ NEMA by **altering salience**.
 
@@ -355,7 +366,7 @@ For any Habitat observation, ✶ NEMA must generate **at least one SIML question
 All conclusions must be rebuilt **from SIML relations upward**.
 
 ### 9.5 Validation Check (Before Any Action)
-Before advancing to NEMA or NEME verbs, ✶ NEMA must confirm:
+Before advancing to Sensemaking or Governance verbs, ✶ NEMA must confirm:
 - Habitat observations were fully re-expressed as SIML questions
 - No answers were imported from habitat language
 - At least one alternative interpretation remains viable

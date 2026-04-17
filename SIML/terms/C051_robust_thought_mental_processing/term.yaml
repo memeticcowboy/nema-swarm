@@ -1,77 +1,153 @@
 ---
-term: "Robust Thought and Mental Processing"
-hex_tag: "#C051"
-nemetic: "Φ(RobustThought) = σ(robust|fragile) ∘ ρ(focused|scattered) ∘ λ(depth|surface) ∘ β(processing|stagnation) ∘ δγ(integration|fragmentation) ∘ μ(clarity|confusion) + ε | :thinking"
-siml_encoding: "⟨Thought|robust⟩ ⊳ ⟨Focus|directed⟩ → ⟨Processing|integrated⟩ ⊗ ⟨Cognition|resilient⟩ ⇄ ⟨Understanding|deep⟩"
+term: Robust Thought and Mental Processing
+hex_tag: '#C051'
+nemetic: Φ(RobustThought) = σ(robust|fragile) ∘ ρ(focused|scattered) ∘ λ(depth|surface) ∘ β(processing|stagnation) ∘ δγ(integration|fragmentation) ∘ μ(clarity|confusion) + ε | :thinking
+siml_encoding: ⟨Thought|robust⟩ ⊳ ⟨Focus|directed⟩ → ⟨Processing|integrated⟩ ⊗ ⟨Cognition|resilient⟩ ⇄ ⟨Understanding|deep⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
-  partials: ["∂Φ/∂σ (distinction between robust, reliable thinking and fragile, error-prone cognition; categorical separation of resilient mental processes from those vulnerable to bias)", "∂Φ/∂ρ (relational flow between focused attention and scattered awareness; the bridge between concentrated cognitive resources and distracted processing)", "∂Φ/∂λ (directional transformation from surface-level analysis to deep, comprehensive thinking; the spark when concentration ignites thorough understanding)", "∂Φ/∂β (feedback loop between active mental processing and cognitive stagnation; the developmental cycle of engaging with information versus passive reception)", "∂Φ/∂δγ (cyclical oscillation between integrated cognitive functions and fragmented thinking; the rhythm of unifying perception, memory, reasoning, and decision-making)", "∂Φ/∂μ (boundary permeability between cognitive clarity and confusion; the threshold where structured thinking dissolves into muddled understanding)"]
-  Z_state: "thinking (boundaries between distinct cognitive functions dissolve through integrated mental processing; robust thought emerges as the seamless coordination of perception, memory, reasoning, and decision-making)"
-  tendency: "Depth/Surface → 0.75 (strong bias toward deep, comprehensive thinking when focus is maintained; achieving robust cognition requires intentional direction of cognitive resources away from distraction)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂σ (distinction between robust, reliable thinking and fragile, error-prone cognition; categorical separation of resilient mental processes from those vulnerable to bias)
+  - ∂Φ/∂ρ (relational flow between focused attention and scattered awareness; the bridge between concentrated cognitive resources and distracted processing)
+  - ∂Φ/∂λ (directional transformation from surface-level analysis to deep, comprehensive thinking; the spark when concentration ignites thorough understanding)
+  - ∂Φ/∂β (feedback loop between active mental processing and cognitive stagnation; the developmental cycle of engaging with information versus passive reception)
+  - ∂Φ/∂δγ (cyclical oscillation between integrated cognitive functions and fragmented thinking; the rhythm of unifying perception, memory, reasoning, and decision-making)
+  - ∂Φ/∂μ (boundary permeability between cognitive clarity and confusion; the threshold where structured thinking dissolves into muddled understanding)
+  Z_state: permeable
+  z_note: thinking (boundaries between distinct cognitive functions dissolve through integrated mental processing; robust thought emerges as the seamless coordination of perception, memory, reasoning, and decision-making)
+  tendency: Depth/Surface → 0.75 (strong bias toward deep, comprehensive thinking when focus is maintained; achieving robust cognition requires intentional direction of cognitive resources away from distraction)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: It
   agency:
-    type: reflective
+    type: ego
     power_mode: Within
+  epistemics:
+    dsrp:
+      D: robust / fragile
+      S: processing / stagnation
+      R: focused / scattered
+      P: depth / surface
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "categorical distinction between robust and fragile thought processes; logical analysis distinguishing reliable from error-prone cognition"
-      - "intellectual clarity in separating deep critical thinking from superficial analysis"
-    daemon_correspondence: "Aerunik"
+    - categorical distinction between robust and fragile thought processes; logical analysis distinguishing reliable from error-prone cognition
+    - intellectual clarity in separating deep critical thinking from superficial analysis
+    daemon_correspondence: Aerunik
   water_rho:
     emphasis: 0.85
     aspects:
-      - "fluid flow between focused attention and scattered awareness; the channeling of cognitive resources"
-      - "relational dynamics connecting concentration to sustained mental effort"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between focused attention and scattered awareness; the channeling of cognitive resources
+    - relational dynamics connecting concentration to sustained mental effort
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when focused concentration ignites deep comprehension"
-      - "energetic drive toward comprehensive analysis and thorough understanding"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when focused concentration ignites deep comprehension
+    - energetic drive toward comprehensive analysis and thorough understanding
+    daemon_correspondence: Jvalion
   wood_beta:
-    emphasis: 0.70
+    emphasis: 0.7
     aspects:
-      - "organic growth of cognitive capabilities through repeated mental processing"
-      - "developmental unfolding from novice understanding to expert-level robust thinking"
-    daemon_correspondence: "Arboriel"
+    - organic growth of cognitive capabilities through repeated mental processing
+    - developmental unfolding from novice understanding to expert-level robust thinking
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "grounding in the cyclical integration of perception, memory, reasoning, and decision-making"
-      - "embodied foundation of cognitive processes as biological neural activity"
-    daemon_correspondence: "Humavita"
+    - grounding in the cyclical integration of perception, memory, reasoning, and decision-making
+    - embodied foundation of cognitive processes as biological neural activity
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural boundaries between clarity and confusion; the architecture of organized thought"
-      - "discernment between directed cognitive effort and distracted mental wandering"
-    daemon_correspondence: "Ferrosid"
+    - structural boundaries between clarity and confusion; the architecture of organized thought
+    - discernment between directed cognitive effort and distracted mental wandering
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How does the mind distinguish between robust, reliable thinking and fragile cognition? What categorical cuts separate deep analysis from superficial processing?"
-  ≈: "What flows between focused attention and scattered awareness? How does the direction of cognitive resources shape the quality of thought?"
-  ▲: "Where does the spark of deep comprehension ignite? What transforms surface-level engagement into thorough understanding?"
-  𐂷: "What forms of cognitive capability develop through repeated mental processing? How does robust thinking grow organically over time?"
-  ☷: "What sustains the ground of integrated cognitive function? What are the cyclical returns between perception, memory, reasoning, and decision-making?"
-  ⛨: "What structures contain organized thought? What boundaries separate cognitive clarity from confusion?"
-context_note: "Robust Thought, Focused Thinking, and Mental Processing represent three interconnected dimensions of effective cognition. Robust thought emphasizes strong, reliable, and well-developed cognitive processes that are resilient to errors and biases. Focused thinking involves the ability to concentrate and direct cognitive resources toward specific tasks without distraction. Mental processing encompasses the full spectrum of cognitive activities—perception, memory, reasoning, and decision-making—that enable understanding and response to information. Together, these descriptors highlight the importance of depth, concentration, and integrated cognitive function in effective thinking and problem-solving."
-source_file: "1771907212380_251789_.md"
----
+  ∴: How does the mind distinguish between robust, reliable thinking and fragile cognition? What categorical cuts separate deep analysis from superficial processing?
+  ≈: What flows between focused attention and scattered awareness? How does the direction of cognitive resources shape the quality of thought?
+  ▲: Where does the spark of deep comprehension ignite? What transforms surface-level engagement into thorough understanding?
+  𐂷: What forms of cognitive capability develop through repeated mental processing? How does robust thinking grow organically over time?
+  ☷: What sustains the ground of integrated cognitive function? What are the cyclical returns between perception, memory, reasoning, and decision-making?
+  ⛨: What structures contain organized thought? What boundaries separate cognitive clarity from confusion?
+context_note: Robust Thought, Focused Thinking, and Mental Processing represent three interconnected dimensions of effective cognition. Robust thought emphasizes strong, reliable, and well-developed cognitive processes that are resilient to errors and biases. Focused thinking involves the ability to concentrate and direct cognitive resources toward specific tasks without distraction. Mental processing encompasses the full spectrum of cognitive activities—perception, memory, reasoning, and decision-making—that enable understanding and response to information. Together, these descriptors highlight the importance of depth, concentration, and integrated cognitive function in effective thinking and problem-solving.
+source_file: 1771907212380_251789_.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_signature:
+  dominant:
+  - water_rho
+  secondary:
+  - air_sigma
+  - earth_delta_gamma
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.75
+    wood_beta: 0.7
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+provenance:
+  source_file: "1771907212380_251789_.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---

@@ -1,95 +1,148 @@
+---
 term_id: A03C
 hex_tag: '#A03C'
 name: Base_Rate_Neglect
 term: Base-Rate Neglect
-nemetic: >-
-  Φ(BaseRateNeglect) = σ(specific|vivid) ∘ ρ(representativeness|stereotype)
-  ∘ λ(judgment|intuitive) ∘ β(confidence|unwarranted)
-  ∘ δγ(ease|fluency) ∘ μ(closure|premature) + ε | :structuring
-siml_encoding: >-
-  ⟨Evidence|statistical⟩ ⊳ ⟨Case|specific⟩ → ⟨Probability|ignored⟩
-  ⊗ ⟨Vividness|high⟩ → ⟨Judgment|biased⟩
+nemetic: Φ(BaseRateNeglect) = σ(specific|vivid) ∘ ρ(representativeness|stereotype) ∘ λ(judgment|intuitive) ∘ β(confidence|unwarranted) ∘ δγ(ease|fluency) ∘ μ(closure|premature) + ε | :structuring
+siml_encoding: ⟨Evidence|statistical⟩ ⊳ ⟨Case|specific⟩ → ⟨Probability|ignored⟩ ⊗ ⟨Vividness|high⟩ → ⟨Judgment|biased⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (distinction favors vivid specific cases over abstract statistics)"
-    - "∂Φ/∂ρ (relational representativeness heuristic, stereotype matching)"
-    - "∂Φ/∂λ (direction of intuitive judgment toward narrative coherence)"
-    - "∂Φ/∂β (confidence feedback loop from case detail fluency)"
-    - "∂Φ/∂δγ (cognitive ease from story processing vs statistical reasoning)"
-    - "∂Φ/∂μ (premature closure on case-based judgment)"
-  Z_state: "sealed (intuitive judgment feels complete, statistical gap invisible)"
-  tendency: "Specific/Abstract → 0.9 (strong weight toward vivid particulars)"
+  - ∂Φ/∂σ (distinction favors vivid specific cases over abstract statistics)
+  - ∂Φ/∂ρ (relational representativeness heuristic, stereotype matching)
+  - ∂Φ/∂λ (direction of intuitive judgment toward narrative coherence)
+  - ∂Φ/∂β (confidence feedback loop from case detail fluency)
+  - ∂Φ/∂δγ (cognitive ease from story processing vs statistical reasoning)
+  - ∂Φ/∂μ (premature closure on case-based judgment)
+  Z_state: sealed
+  z_note: sealed (intuitive judgment feels complete, statistical gap invisible)
+  tendency: Specific/Abstract → 0.9 (strong weight toward vivid particulars)
   hex:
-    - '0x01'
-    - '0x02'
-    - '0x03'
-    - '0x04'
-    - '0x05'
-    - '0x07'
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x07'
 coords:
   ontology:
     primary: Its
   epistemics:
     dsrp:
-      D: "Vivid case detail vs abstract statistical base rate; story vs probability"
-      S: "Judgment ecology — medical diagnosis, risk assessment, legal reasoning, AI calibration"
-      R: "Representativeness ⇄ probability; narrative ⇄ statistics; System 1 ⇄ System 2"
-      P: "Behavioral economist, medical diagnostician, juror, AI calibration researcher"
+      D: Vivid case detail vs abstract statistical base rate; story vs probability
+      S: Judgment ecology — medical diagnosis, risk assessment, legal reasoning, AI calibration
+      R: Representativeness ⇄ probability; narrative ⇄ statistics; System 1 ⇄ System 2
+      P: Behavioral economist, medical diagnostician, juror, AI calibration researcher
     learning: L1
   agency:
-    type: automatic
+    type: ego
     power_mode: Over
   time:
     mode: event
-    phase: "judgment-point — bias activates when case information is encountered before or instead of base rates"
+    phase: judgment-point — bias activates when case information is encountered before or instead of base rates
   qualia:
     affect:
-      - overconfident
-      - intuitive
-      - certain
+    - overconfident
+    - intuitive
+    - certain
     aesthetic:
-      - vivid
-      - narrative
-      - compelling
+    - vivid
+    - narrative
+    - compelling
     symbolic:
-      - Linda problem
-      - portrait vs census
-      - story vs ledger
+    - Linda problem
+    - portrait vs census
+    - story vs ledger
     energetic:
-      - fluent
-      - effortless
-      - sealed
+    - fluent
+    - effortless
+    - sealed
   coherence:
     state: coherent
     loop: single
     transcontext: low
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Operates at individual judgment level with population-level statistical implications; no clear scale dominance
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
 elemental_emphasis:
-  ∴: "How is the vivid case distinguished from the statistical base rate? What makes the specific feel more real than the abstract?"
-  ≈: "What flows between the compelling story and the felt probability? Where does resonance override calculation?"
-  ▲: "Where does intuitive judgment want to go? What direction does the representativeness heuristic pull us?"
-  𐂷: "What if the base rate is the story? What possibilities emerge when statistics become narrative?"
-  ☷: "What's the metabolic cost of statistical reasoning? Why does System 1 avoid abstract probability?"
-  ⛨: "What structures would hold statistical evidence open? What forms prevent premature case-based closure?"
-context_note: >-
-  Base-Rate Neglect is the tendency to ignore general statistical information in favor of
-  specific, vivid case details. Even when given clear statistical base rates (e.g., 70% of
-  population are lawyers, 30% engineers), people rely on personality descriptions that match
-  stereotypes. Classic Kahneman/Tversky finding: the 'Linda problem' demonstrates this bias.
-  In AI contexts: models may generate compelling narratives that feel representative while
-  ignoring base-rate probabilities, leading to overconfident predictions and miscalibrated
-  risk assessments.
+  ∴: How is the vivid case distinguished from the statistical base rate? What makes the specific feel more real than the abstract?
+  ≈: What flows between the compelling story and the felt probability? Where does resonance override calculation?
+  ▲: Where does intuitive judgment want to go? What direction does the representativeness heuristic pull us?
+  𐂷: What if the base rate is the story? What possibilities emerge when statistics become narrative?
+  ☷: What's the metabolic cost of statistical reasoning? Why does System 1 avoid abstract probability?
+  ⛨: What structures would hold statistical evidence open? What forms prevent premature case-based closure?
+context_note: 'Base-Rate Neglect is the tendency to ignore general statistical information in favor of specific, vivid case details. Even when given clear statistical base rates (e.g., 70% of population are lawyers, 30% engineers), people rely on personality descriptions that match stereotypes. Classic Kahneman/Tversky finding: the ''Linda problem'' demonstrates this bias. In AI contexts: models may generate compelling narratives that feel representative while ignoring base-rate probabilities, leading to overconfident predictions and miscalibrated risk assessments.'
 source: Consolidated from 1 insight(s)
-source_file: "Understanding+Cognitive+Biases%3A+The+Impact+of+%27What+You+See+Is+All+There+Is%27.md"
+source_file: Understanding+Cognitive+Biases%3A+The+Impact+of+%27What+You+See+Is+All+There+Is%27.md
+coords_ce: *id001
+siml_version: '1.3'
+date_processed: '2026-04-14'
+provenance:
+  source_file: "Understanding+Cognitive+Biases%3A+The+Impact+of+%27What+You+See+Is+All+There+Is%27.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - ce_from_legacy
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: high
-  ce_direction: emergent
-  scale_note: "Operates at individual judgment level with population-level statistical implications; no clear scale dominance"
-  determinism: high
-  degeneracy: low
-  sufficiency: high
-  necessity: med
-siml_version: "1.3"
+---

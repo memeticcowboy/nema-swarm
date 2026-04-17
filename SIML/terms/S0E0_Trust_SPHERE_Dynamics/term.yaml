@@ -1,32 +1,154 @@
 ---
-term: "Trust SPHERE Dynamics"
-hex_tag: "S0E0"
-series: "S"
-source_file: "1771907213159_2155388_Exploring+Diverse+Concepts+to+Enhance+Trust+and+Mistrust+Dynamics+in+Communication.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Cross-disciplinary framework augmenting trust/mistrust models with concepts from diverse fields. Integrates cognitive load theory, Bayesian updating, signal-to-noise ratio, tacit knowledge, and error-correction codes alongside philosophical concepts like Heideggerian thrownness and hyperobjects. Trust as dynamic recalibration rather than fixed state. Trust breaks under cognitive burden; simplify to restore coordination. Emphasizes noise filtration, embodied knowledge, and proxy trust structures."
-nemetic: "Φ(Trust SPHERE Dynamics) = σ(trust|mistrust) ∘ ρ(explicit_knowledge|tacit_knowledge) ∘ λ(cognitive_burden|restored_coordination) ∘ β(individual_trust|systemic_coordination) ∘ δγ(signal|noise) ∘ μ(certainty|thrownness) + ε | :dynamic_trust_recalibration"
-siml_encoding: "⟨trust_mistrust_distinction, calibration_awareness⟩ ⊳ ⟨explicit_tacit_relational_web, knowledge_network⟩ → ⟨burden_to_coordination_transformation, trust_catalysis⟩ ⊗ ⟨individual_to_systemic_maturation, coordination_evolution⟩ ⇄ ⟨signal_noise_cycling, filtration_adaptation⟩"
+term: Trust SPHERE Dynamics
+hex_tag: S0E0
+series: S
+source_file: 1771907213159_2155388_Exploring+Diverse+Concepts+to+Enhance+Trust+and+Mistrust+Dynamics+in+Communication.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: Cross-disciplinary framework augmenting trust/mistrust models with concepts from diverse fields. Integrates cognitive load theory, Bayesian updating, signal-to-noise ratio, tacit knowledge, and error-correction codes alongside philosophical concepts like Heideggerian thrownness and hyperobjects. Trust as dynamic recalibration rather than fixed state. Trust breaks under cognitive burden; simplify to restore coordination. Emphasizes noise filtration, embodied knowledge, and proxy trust structures.
+nemetic: Φ(Trust SPHERE Dynamics) = σ(trust|mistrust) ∘ ρ(explicit_knowledge|tacit_knowledge) ∘ λ(cognitive_burden|restored_coordination) ∘ β(individual_trust|systemic_coordination) ∘ δγ(signal|noise) ∘ μ(certainty|thrownness) + ε | :dynamic_trust_recalibration
+siml_encoding: ⟨trust_mistrust_distinction, calibration_awareness⟩ ⊳ ⟨explicit_tacit_relational_web, knowledge_network⟩ → ⟨burden_to_coordination_transformation, trust_catalysis⟩ ⊗ ⟨individual_to_systemic_maturation, coordination_evolution⟩ ⇄ ⟨signal_noise_cycling, filtration_adaptation⟩
+coords:
+  ontology:
+    primary: We
+    confidence: medium
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: trust / mistrust
+      S: individual_trust / systemic_coordination
+      R: explicit_knowledge / tacit_knowledge
+      P: cognitive_burden / restored_coordination
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing trust from mistrust as dynamic recalibration states rather than binary opposites)"
-    - "∂Φ/∂ρ (relating explicit codified knowledge to tacit embodied knowledge in trust-building contexts)"
-    - "∂Φ/∂λ (transforming cognitive burden into restored coordination through simplification and noise filtration)"
-    - "∂Φ/∂β (growth from individual trust assessments to systemic coordination architectures and proxy structures)"
-    - "∂Φ/∂δγ (cycling between signal clarity and noise interference in communication trust dynamics)"
-    - "∂Φ/∂μ (structural contrast between certainty-seeking frameworks and Heideggerian thrownness into indeterminate contexts)"
-  Z_state: "dynamic_trust_recalibration — trust functions as continuous Bayesian updating rather than fixed assessment, breaking under cognitive overload and restoring through simplification, noise filtration, and proxy trust structures that distribute epistemic burden across communities"
-  tendency: "ρ → 0.85"
+  - ∂Φ/∂σ (distinguishing trust from mistrust as dynamic recalibration states rather than binary opposites)
+  - ∂Φ/∂ρ (relating explicit codified knowledge to tacit embodied knowledge in trust-building contexts)
+  - ∂Φ/∂λ (transforming cognitive burden into restored coordination through simplification and noise filtration)
+  - ∂Φ/∂β (growth from individual trust assessments to systemic coordination architectures and proxy structures)
+  - ∂Φ/∂δγ (cycling between signal clarity and noise interference in communication trust dynamics)
+  - ∂Φ/∂μ (structural contrast between certainty-seeking frameworks and Heideggerian thrownness into indeterminate contexts)
+  Z_state: semi
+  z_note: dynamic_trust_recalibration — trust functions as continuous Bayesian updating rather than fixed assessment, breaking under cognitive overload and restoring through simplification, noise filtration, and proxy trust structures that distribute epistemic burden across communities
+  tendency: ρ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["trust_mistrust_dynamic_distinction", "recalibration_awareness"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["explicit_tacit_knowledge_relational_mapping", "bayesian_updating_networks"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["cognitive_burden_to_coordination_transformation", "trust_restoration_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["individual_to_systemic_trust_growth", "proxy_structure_development"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["signal_noise_cycling", "communication_filtration_renewal"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["certainty_vs_thrownness_structural_tension", "error_correction_frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S00D", "S00E", "S08B"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - trust_mistrust_dynamic_distinction
+    - recalibration_awareness
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - explicit_tacit_knowledge_relational_mapping
+    - bayesian_updating_networks
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - cognitive_burden_to_coordination_transformation
+    - trust_restoration_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - individual_to_systemic_trust_growth
+    - proxy_structure_development
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - signal_noise_cycling
+    - communication_filtration_renewal
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - certainty_vs_thrownness_structural_tension
+    - error_correction_frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S00D
+- S00E
+- S08B
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213159_2155388_Exploring+Diverse+Concepts+to+Enhance+Trust+and+Mistrust+Dynamics+in+Communication.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

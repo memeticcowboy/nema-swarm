@@ -1,32 +1,155 @@
 ---
-term: "Shared Hallucinations Social Construction"
-hex_tag: "S07D"
-series: "S"
-source_file: "1771907212791_1258283_Exploring+Shared+Hallucinations+in+Social+Constructionism+and+Philosophy.md"
-encoded_at: "2026-03-06T01:00:00Z"
-description: "Social constructionism and the concept of shared hallucinations as knowledge — certain aspects of reality (money, gender, time) as socially constructed rather than objectively real, Foucault's power-shaped knowledge, Berger and Luckmann's social construction of reality, Baudrillard's simulacra where copies exist without originals, and the collective challenge to objective reality."
-nemetic: "Φ(Shared Hallucinations Social Construction) = σ(objective_reality|socially_constructed_reality) ∘ ρ(individual_knowledge|collective_social_agreement) ∘ λ(naive_realism|constructionist_awareness) ∘ β(unreflective_acceptance|critical_reality_evaluation) ∘ δγ(social_interaction_knowledge_cycling|construction_reinforcement_iteration) ∘ μ(foucault_power_knowledge_structure|simulacra_construction_framework) + ε | :consensual_reality_construction"
-siml_encoding: "⟨objective_constructed_reality_distinction, real_hallucinated_boundary⟩ ⊳ ⟨individual_collective_knowledge_relation, social_agreement_dynamics⟩ → ⟨naive_to_constructionist_transformation, reality_critique_catalysis⟩ ⊗ ⟨acceptance_to_evaluation_growth, critical_awareness_deepening⟩ ⇄ ⟨social_interaction_knowledge_cycling, construction_reinforcement_iteration⟩"
+term: Shared Hallucinations Social Construction
+hex_tag: S07D
+series: S
+source_file: 1771907212791_1258283_Exploring+Shared+Hallucinations+in+Social+Constructionism+and+Philosophy.md
+encoded_at: '2026-03-06T01:00:00Z'
+description: Social constructionism and the concept of shared hallucinations as knowledge — certain aspects of reality (money, gender, time) as socially constructed rather than objectively real, Foucault's power-shaped knowledge, Berger and Luckmann's social construction of reality, Baudrillard's simulacra where copies exist without originals, and the collective challenge to objective reality.
+nemetic: Φ(Shared Hallucinations Social Construction) = σ(objective_reality|socially_constructed_reality) ∘ ρ(individual_knowledge|collective_social_agreement) ∘ λ(naive_realism|constructionist_awareness) ∘ β(unreflective_acceptance|critical_reality_evaluation) ∘ δγ(social_interaction_knowledge_cycling|construction_reinforcement_iteration) ∘ μ(foucault_power_knowledge_structure|simulacra_construction_framework) + ε | :consensual_reality_construction
+siml_encoding: ⟨objective_constructed_reality_distinction, real_hallucinated_boundary⟩ ⊳ ⟨individual_collective_knowledge_relation, social_agreement_dynamics⟩ → ⟨naive_to_constructionist_transformation, reality_critique_catalysis⟩ ⊗ ⟨acceptance_to_evaluation_growth, critical_awareness_deepening⟩ ⇄ ⟨social_interaction_knowledge_cycling, construction_reinforcement_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: objective_reality / socially_constructed_reality
+      S: unreflective_acceptance / critical_reality_evaluation
+      R: individual_knowledge / collective_social_agreement
+      P: naive_realism / constructionist_awareness
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing objective reality from socially constructed reality)"
-    - "∂Φ/∂ρ (relating individual knowledge to collective social agreement and power structures)"
-    - "∂Φ/∂λ (transforming naive realism into constructionist awareness of shared hallucinations)"
-    - "∂Φ/∂β (growth from unreflective acceptance of reality to critical evaluation of its social construction)"
-    - "∂Φ/∂δγ (cycling through social interactions that construct, reinforce, and reconstruct shared knowledge)"
-    - "∂Φ/∂μ (Foucault's power-knowledge and Baudrillard's simulacra as structural frameworks for understanding constructed reality)"
-  Z_state: "consensual_reality_construction — knowledge and reality are recognized as products of social interaction, power structures, and collective agreement rather than objective givens, where concepts like money, gender, and time function as shared hallucinations that gain their reality through social consensus, and the distinction between original and copy dissolves in Baudrillard's world of simulacra"
-  tendency: "σ → 0.90"
+  - ∂Φ/∂σ (distinguishing objective reality from socially constructed reality)
+  - ∂Φ/∂ρ (relating individual knowledge to collective social agreement and power structures)
+  - ∂Φ/∂λ (transforming naive realism into constructionist awareness of shared hallucinations)
+  - ∂Φ/∂β (growth from unreflective acceptance of reality to critical evaluation of its social construction)
+  - ∂Φ/∂δγ (cycling through social interactions that construct, reinforce, and reconstruct shared knowledge)
+  - ∂Φ/∂μ (Foucault's power-knowledge and Baudrillard's simulacra as structural frameworks for understanding constructed reality)
+  Z_state: semi
+  z_note: consensual_reality_construction — knowledge and reality are recognized as products of social interaction, power structures, and collective agreement rather than objective givens, where concepts like money, gender, and time function as shared hallucinations that gain their reality through social consensus, and the distinction between original and copy dissolves in Baudrillard's world of simulacra
+  tendency: σ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.90, aspects: ["objective_constructed_reality_distinction", "real_hallucinated_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["individual_collective_knowledge_relation", "power_shaped_social_agreement"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["naive_to_constructionist_transformation", "reality_critique_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["acceptance_to_critical_evaluation_trajectory", "constructionist_awareness_deepening"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.85, aspects: ["social_interaction_knowledge_cycling", "construction_reinforcement_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.90, aspects: ["foucault_power_knowledge_structure", "baudrillard_simulacra_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03E", "S068", "S00E", "S016"]
+  air_sigma:
+    emphasis: 0.9
+    aspects:
+    - objective_constructed_reality_distinction
+    - real_hallucinated_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - individual_collective_knowledge_relation
+    - power_shaped_social_agreement
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - naive_to_constructionist_transformation
+    - reality_critique_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - acceptance_to_critical_evaluation_trajectory
+    - constructionist_awareness_deepening
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.85
+    aspects:
+    - social_interaction_knowledge_cycling
+    - construction_reinforcement_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.9
+    aspects:
+    - foucault_power_knowledge_structure
+    - baudrillard_simulacra_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03E
+- S068
+- S00E
+- S016
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - metal_mu
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.9
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.85
+    metal_mu: 0.9
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212791_1258283_Exploring+Shared+Hallucinations+in+Social+Constructionism+and+Philosophy.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

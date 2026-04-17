@@ -1,32 +1,157 @@
 ---
-term: "Subjective Idealism, Memes, and Reality"
-hex_tag: "S03E"
-series: "S"
-source_file: "1771907212618_739415_Untitled.md"
-encoded_at: "2026-03-05T20:30:00Z"
-description: "Synthesis of Berkeley's subjective idealism and Kant's perception theory with memetic theory, where memes function as cultural a priori categories shaping perceived reality, constructing a fragmented, dynamic world of competing and cooperating memetic agents."
-nemetic: "Φ(SubjectiveIdealismMemes) = σ(perception|reality) ∘ ρ(meme|mind) ∘ λ(objective_world|memetically_constructed_reality) ∘ β(memetic_proliferation|reality_fragmentation) ∘ δγ(competition|cooperation) ∘ μ(Kantian_categories|memetic_frameworks) + ε | :constructing"
-siml_encoding: "⟨esse_est_percipi∧memetic_construction⟩ ⊳ ⟨Kantian_categories∧cultural_a_priori⟩ → ⟨fragmented_reality⟩ ⊗ ⟨competing_agents⟩ ⇄ ⟨dynamic_worldmaking⟩"
+term: Subjective Idealism, Memes, and Reality
+hex_tag: S03E
+series: S
+source_file: 1771907212618_739415_Untitled.md
+encoded_at: '2026-03-05T20:30:00Z'
+description: Synthesis of Berkeley's subjective idealism and Kant's perception theory with memetic theory, where memes function as cultural a priori categories shaping perceived reality, constructing a fragmented, dynamic world of competing and cooperating memetic agents.
+nemetic: Φ(SubjectiveIdealismMemes) = σ(perception|reality) ∘ ρ(meme|mind) ∘ λ(objective_world|memetically_constructed_reality) ∘ β(memetic_proliferation|reality_fragmentation) ∘ δγ(competition|cooperation) ∘ μ(Kantian_categories|memetic_frameworks) + ε | :constructing
+siml_encoding: ⟨esse_est_percipi∧memetic_construction⟩ ⊳ ⟨Kantian_categories∧cultural_a_priori⟩ → ⟨fragmented_reality⟩ ⊗ ⟨competing_agents⟩ ⇄ ⟨dynamic_worldmaking⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: perception / reality
+      S: memetic_proliferation / reality_fragmentation
+      R: meme / mind
+      P: objective_world / memetically_constructed_reality
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: fragmented
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinction between perception/appearance and objective reality)"
-    - "∂Φ/∂ρ (relationship between memes as mental constructs and the minds that host them)"
-    - "∂Φ/∂λ (transformation of objective world into memetically constructed perceived reality)"
-    - "∂Φ/∂β (growth through memetic proliferation leading to reality fragmentation)"
-    - "∂Φ/∂δγ (cycling between memetic competition and cooperation in reality construction)"
-    - "∂Φ/∂μ (structural frameworks: Kantian categories as memetic analogues organizing perception)"
-  Z_state: "constructing — reality is actively being constructed through memetic perception rather than passively received"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinction between perception/appearance and objective reality)
+  - ∂Φ/∂ρ (relationship between memes as mental constructs and the minds that host them)
+  - ∂Φ/∂λ (transformation of objective world into memetically constructed perceived reality)
+  - ∂Φ/∂β (growth through memetic proliferation leading to reality fragmentation)
+  - ∂Φ/∂δγ (cycling between memetic competition and cooperation in reality construction)
+  - '∂Φ/∂μ (structural frameworks: Kantian categories as memetic analogues organizing perception)'
+  Z_state: semi
+  z_note: constructing — reality is actively being constructed through memetic perception rather than passively received
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["perception vs reality", "esse est percipi", "appearance vs thing-in-itself"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.78, aspects: ["meme-mind coupling", "memetic shaping of subjectivity"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.75, aspects: ["reality construction", "memetic world-making"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.72, aspects: ["memetic proliferation", "reality fragmentation"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.70, aspects: ["memetic competition-cooperation cycles", "worldview oscillation"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.76, aspects: ["Kantian categorical structure", "a priori memetic frameworks"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S03D_Extended_Mind_Memes", "S03A_Map_Is_Not_Territory", "S031_Language_Reality_Interconnected", "A011_Conscious_Realism", "A009_Linguistic_Organism"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - perception vs reality
+    - esse est percipi
+    - appearance vs thing-in-itself
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.78
+    aspects:
+    - meme-mind coupling
+    - memetic shaping of subjectivity
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.75
+    aspects:
+    - reality construction
+    - memetic world-making
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.72
+    aspects:
+    - memetic proliferation
+    - reality fragmentation
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.7
+    aspects:
+    - memetic competition-cooperation cycles
+    - worldview oscillation
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.76
+    aspects:
+    - Kantian categorical structure
+    - a priori memetic frameworks
+    daemon_correspondence: Ferrosid
+related_terms:
+- S03D_Extended_Mind_Memes
+- S03A_Map_Is_Not_Territory
+- S031_Language_Reality_Interconnected
+- A011_Conscious_Realism
+- A009_Linguistic_Organism
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - metal_mu
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.78
+    fire_lambda: 0.75
+    wood_beta: 0.72
+    earth_delta_gamma: 0.7
+    metal_mu: 0.76
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212618_739415_Untitled.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

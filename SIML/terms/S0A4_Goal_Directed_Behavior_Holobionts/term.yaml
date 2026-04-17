@@ -1,32 +1,155 @@
 ---
-term: "Goal-Directed Behavior in Holobionts"
-hex_tag: "S0A4"
-series: "S"
-source_file: "1771907212975_1863765_Exploring+Goal-Directed+Behavior+in+Holobionts.md"
-encoded_at: "2026-03-06T03:00:00Z"
-description: "Goal-directed behavior in holobionts (superorganisms) — interdisciplinary research combining philosophy and mathematics to study emergence and evolution of collective goal-directed behavior in entities like coral reefs and lichens; holobionts as host organisms plus symbiotic partners functioning as single ecological units; challenge to traditional notions of biological individuality; implications for rethinking agency, intentionality, and individuality in biology; evolutionary trajectories of cooperation and competition within holobionts; funded by John Templeton Foundation; researchers Derek Skillings, Benjamin Allen, Patrick Forber, Rory Smead; broader implications for understanding humans as holobionts and for conservation ethics."
-nemetic: "Φ(Goal-Directed Behavior in Holobionts) = σ(individual_organism|collective_holobiont_entity) ∘ ρ(host_symbiont_coupling|interspecies_cooperative_network) ∘ λ(independent_species_behavior|emergent_collective_goal_direction) ∘ β(simple_symbiosis|complex_superorganism_agency) ∘ δγ(cooperation_competition_balance_cycle|evolutionary_adaptation_iteration) ∘ μ(philosophical_mathematical_framework|holobiont_ecological_architecture) + ε | :collective_agency_as_emergent_biological_phenomenon"
-siml_encoding: "⟨individual_collective_distinction, organism_holobiont_boundary⟩ ⊳ ⟨host_symbiont_coupling, cooperative_network_relation⟩ → ⟨independent_to_collective_transformation, emergent_goal_catalysis⟩ ⊗ ⟨symbiosis_to_superorganism_growth, agency_development_trajectory⟩ ⇄ ⟨cooperation_competition_cycling, evolutionary_adaptation_iteration⟩"
+term: Goal-Directed Behavior in Holobionts
+hex_tag: S0A4
+series: S
+source_file: 1771907212975_1863765_Exploring+Goal-Directed+Behavior+in+Holobionts.md
+encoded_at: '2026-03-06T03:00:00Z'
+description: Goal-directed behavior in holobionts (superorganisms) — interdisciplinary research combining philosophy and mathematics to study emergence and evolution of collective goal-directed behavior in entities like coral reefs and lichens; holobionts as host organisms plus symbiotic partners functioning as single ecological units; challenge to traditional notions of biological individuality; implications for rethinking agency, intentionality, and individuality in biology; evolutionary trajectories of cooperation and competition within holobionts; funded by John Templeton Foundation; researchers Derek Skillings, Benjamin Allen, Patrick Forber, Rory Smead; broader implications for understanding humans as holobionts and for conservation ethics.
+nemetic: Φ(Goal-Directed Behavior in Holobionts) = σ(individual_organism|collective_holobiont_entity) ∘ ρ(host_symbiont_coupling|interspecies_cooperative_network) ∘ λ(independent_species_behavior|emergent_collective_goal_direction) ∘ β(simple_symbiosis|complex_superorganism_agency) ∘ δγ(cooperation_competition_balance_cycle|evolutionary_adaptation_iteration) ∘ μ(philosophical_mathematical_framework|holobiont_ecological_architecture) + ε | :collective_agency_as_emergent_biological_phenomenon
+siml_encoding: ⟨individual_collective_distinction, organism_holobiont_boundary⟩ ⊳ ⟨host_symbiont_coupling, cooperative_network_relation⟩ → ⟨independent_to_collective_transformation, emergent_goal_catalysis⟩ ⊗ ⟨symbiosis_to_superorganism_growth, agency_development_trajectory⟩ ⇄ ⟨cooperation_competition_cycling, evolutionary_adaptation_iteration⟩
+coords:
+  ontology:
+    primary: We
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: individual_organism / collective_holobiont_entity
+      S: simple_symbiosis / complex_superorganism_agency
+      R: host_symbiont_coupling / interspecies_cooperative_network
+      P: independent_species_behavior / emergent_collective_goal_direction
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  agency:
+    type: social-ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing the individual organism — traditionally conceived as the unit of biological agency and natural selection — from the holobiont as a collective entity where multiple species function as a single ecological unit with shared goals and behaviors)"
-    - "∂Φ/∂ρ (relating host organisms to their symbiotic partners in tightly coupled relationships, and mapping the cooperative network dynamics that enable interspecies coordination within holobionts like coral reefs and lichens)"
-    - "∂Φ/∂λ (transforming the behavior of independent species into emergent collective goal-direction — the holobiont exhibits purposive behavior that cannot be reduced to the actions of its individual component species)"
-    - "∂Φ/∂β (growth from simple symbiotic associations to complex superorganism agency, tracing the developmental trajectory by which collective entities acquire increasingly sophisticated goal-directed behaviors)"
-    - "∂Φ/∂δγ (cycling between cooperation and competition among constituent species within the holobiont, iterated through evolutionary time as adaptive strategies are tested, selected, and refined across generations)"
-    - "∂Φ/∂μ (philosophical-mathematical framework combining philosophical inquiry into agency, intentionality, and individuality with mathematical modeling of evolutionary dynamics, providing structural architecture for understanding holobiont behavior)"
-  Z_state: "collective_agency_as_emergent_biological_phenomenon — goal-directed behavior in holobionts is an emergent property that cannot be reduced to the actions of individual component species; coral reefs, lichens, and potentially humans as holobionts exhibit purposive behavior arising from the coordinated interaction of hosts and symbionts; the Z-state emerges when biological individuality is reconceived from discrete organism to interconnected collective, revealing that agency, intentionality, and goal-directedness can operate at the level of multi-species assemblages; this challenges fundamental assumptions in evolutionary biology and raises philosophical questions about the nature of life, cooperation, and the boundaries of the self"
-  tendency: "σ → 0.85"
+  - ∂Φ/∂σ (distinguishing the individual organism — traditionally conceived as the unit of biological agency and natural selection — from the holobiont as a collective entity where multiple species function as a single ecological unit with shared goals and behaviors)
+  - ∂Φ/∂ρ (relating host organisms to their symbiotic partners in tightly coupled relationships, and mapping the cooperative network dynamics that enable interspecies coordination within holobionts like coral reefs and lichens)
+  - ∂Φ/∂λ (transforming the behavior of independent species into emergent collective goal-direction — the holobiont exhibits purposive behavior that cannot be reduced to the actions of its individual component species)
+  - ∂Φ/∂β (growth from simple symbiotic associations to complex superorganism agency, tracing the developmental trajectory by which collective entities acquire increasingly sophisticated goal-directed behaviors)
+  - ∂Φ/∂δγ (cycling between cooperation and competition among constituent species within the holobiont, iterated through evolutionary time as adaptive strategies are tested, selected, and refined across generations)
+  - ∂Φ/∂μ (philosophical-mathematical framework combining philosophical inquiry into agency, intentionality, and individuality with mathematical modeling of evolutionary dynamics, providing structural architecture for understanding holobiont behavior)
+  Z_state: permeable
+  z_note: collective_agency_as_emergent_biological_phenomenon — goal-directed behavior in holobionts is an emergent property that cannot be reduced to the actions of individual component species; coral reefs, lichens, and potentially humans as holobionts exhibit purposive behavior arising from the coordinated interaction of hosts and symbionts; the Z-state emerges when biological individuality is reconceived from discrete organism to interconnected collective, revealing that agency, intentionality, and goal-directedness can operate at the level of multi-species assemblages; this challenges fundamental assumptions in evolutionary biology and raises philosophical questions about the nature of life, cooperation, and the boundaries of the self
+  tendency: σ → 0.85
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["individual_collective_distinction", "organism_holobiont_boundary"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["host_symbiont_coupling", "interspecies_cooperative_network"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["independent_to_collective_transformation", "emergent_goal_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.80, aspects: ["symbiosis_to_superorganism_growth", "agency_development_trajectory"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["cooperation_competition_cycling", "evolutionary_adaptation_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.75, aspects: ["philosophical_mathematical_framework", "holobiont_ecological_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S059", "S04A", "S04B", "S076"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - individual_collective_distinction
+    - organism_holobiont_boundary
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - host_symbiont_coupling
+    - interspecies_cooperative_network
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - independent_to_collective_transformation
+    - emergent_goal_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.8
+    aspects:
+    - symbiosis_to_superorganism_growth
+    - agency_development_trajectory
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - cooperation_competition_cycling
+    - evolutionary_adaptation_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.75
+    aspects:
+    - philosophical_mathematical_framework
+    - holobiont_ecological_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S059
+- S04A
+- S04B
+- S076
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.8
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212975_1863765_Exploring+Goal-Directed+Behavior+in+Holobionts.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

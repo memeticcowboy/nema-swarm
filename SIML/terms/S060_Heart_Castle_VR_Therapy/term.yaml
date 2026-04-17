@@ -1,32 +1,155 @@
 ---
-term: "Heart Castle VR Therapy"
-hex_tag: "S060"
-series: "S"
-source_file: "1771907212697_982822_Exploring+the+Heart+Castle.md"
-encoded_at: "2026-03-05T23:00:00Z"
-description: "VR therapeutic metaphor where patients explore emotions, memories, and personal challenges within a 'Heart Castle' — a virtual fortress of emotion, memory, and shadow rendered through neural VR. Guided self-discovery through confronting past decisions, understanding emotional landscapes, and unlocking new growth paths."
-nemetic: "Φ(Heart Castle VR Therapy) = σ(emotion|shadow) ∘ ρ(memory|relational_context) ∘ λ(confrontation|transformation) ∘ β(wounded_self|integrated_growth) ∘ δγ(exploration|return_cycling) ∘ μ(VR_architecture|therapeutic_structure) + ε | :emotional_integration"
-siml_encoding: "⟨emotion_mapping, shadow_detection⟩ ⊳ ⟨memory_retrieval, relational_resonance⟩ → ⟨confrontation_catalyst, therapeutic_transformation⟩ ⊗ ⟨wound_recognition, growth_emergence⟩ ⇄ ⟨castle_exploration_cycling, insight_consolidation⟩"
+term: Heart Castle VR Therapy
+hex_tag: S060
+series: S
+source_file: 1771907212697_982822_Exploring+the+Heart+Castle.md
+encoded_at: '2026-03-05T23:00:00Z'
+description: VR therapeutic metaphor where patients explore emotions, memories, and personal challenges within a 'Heart Castle' — a virtual fortress of emotion, memory, and shadow rendered through neural VR. Guided self-discovery through confronting past decisions, understanding emotional landscapes, and unlocking new growth paths.
+nemetic: Φ(Heart Castle VR Therapy) = σ(emotion|shadow) ∘ ρ(memory|relational_context) ∘ λ(confrontation|transformation) ∘ β(wounded_self|integrated_growth) ∘ δγ(exploration|return_cycling) ∘ μ(VR_architecture|therapeutic_structure) + ε | :emotional_integration
+siml_encoding: ⟨emotion_mapping, shadow_detection⟩ ⊳ ⟨memory_retrieval, relational_resonance⟩ → ⟨confrontation_catalyst, therapeutic_transformation⟩ ⊗ ⟨wound_recognition, growth_emergence⟩ ⇄ ⟨castle_exploration_cycling, insight_consolidation⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: emotion / shadow
+      S: wounded_self / integrated_growth
+      R: memory / relational_context
+      P: confrontation / transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: Within
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing authentic emotion from defensive shadow)"
-    - "∂Φ/∂ρ (relating memories to their relational and emotional context)"
-    - "∂Φ/∂λ (transforming confrontation with past decisions into therapeutic breakthrough)"
-    - "∂Φ/∂β (growth from wounded self-concept to integrated emotional maturity)"
-    - "∂Φ/∂δγ (cycling through castle exploration and reflective return)"
-    - "∂Φ/∂μ (VR architectural scaffolding and therapeutic session structure)"
-  Z_state: "emotional_integration — navigating the virtual fortress of emotion and memory to achieve integrated self-understanding through guided confrontation and reflection"
-  tendency: "λ → 0.90"
+  - ∂Φ/∂σ (distinguishing authentic emotion from defensive shadow)
+  - ∂Φ/∂ρ (relating memories to their relational and emotional context)
+  - ∂Φ/∂λ (transforming confrontation with past decisions into therapeutic breakthrough)
+  - ∂Φ/∂β (growth from wounded self-concept to integrated emotional maturity)
+  - ∂Φ/∂δγ (cycling through castle exploration and reflective return)
+  - ∂Φ/∂μ (VR architectural scaffolding and therapeutic session structure)
+  Z_state: semi
+  z_note: emotional_integration — navigating the virtual fortress of emotion and memory to achieve integrated self-understanding through guided confrontation and reflection
+  tendency: λ → 0.90
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.80, aspects: ["emotion_shadow_distinction", "pattern_recognition_in_feeling"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["memory_relational_context", "empathic_resonance_with_past"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.90, aspects: ["confrontation_as_catalyst", "decision_transformation"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.85, aspects: ["wounded_self_integration", "personal_growth_emergence"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.75, aspects: ["exploration_return_cycling", "therapeutic_iteration"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.70, aspects: ["VR_architectural_design", "therapeutic_session_framework"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S04D", "S055", "S053", "S058"]
+  air_sigma:
+    emphasis: 0.8
+    aspects:
+    - emotion_shadow_distinction
+    - pattern_recognition_in_feeling
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - memory_relational_context
+    - empathic_resonance_with_past
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.9
+    aspects:
+    - confrontation_as_catalyst
+    - decision_transformation
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.85
+    aspects:
+    - wounded_self_integration
+    - personal_growth_emergence
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.75
+    aspects:
+    - exploration_return_cycling
+    - therapeutic_iteration
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.7
+    aspects:
+    - VR_architectural_design
+    - therapeutic_session_framework
+    daemon_correspondence: Ferrosid
+related_terms:
+- S04D
+- S055
+- S053
+- S058
 status: canonical
+elemental_signature:
+  dominant:
+  - fire_lambda
+  secondary:
+  - water_rho
+  - wood_beta
+  suppressed: []
+  weights:
+    air_sigma: 0.8
+    water_rho: 0.85
+    fire_lambda: 0.9
+    wood_beta: 0.85
+    earth_delta_gamma: 0.75
+    metal_mu: 0.7
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907212697_982822_Exploring+the+Heart+Castle.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

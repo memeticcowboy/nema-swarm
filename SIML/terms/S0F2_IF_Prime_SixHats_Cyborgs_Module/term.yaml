@@ -1,32 +1,155 @@
 ---
-term: "IF-Prime SixHats Cyborgs Module"
-hex_tag: "S0F2"
-series: "S"
-source_file: "1771907213202_2196356_Exploring+IF-Prime+and+SixHats_Cyborgs_Module.md"
-encoded_at: "2026-03-06T00:00:00Z"
-description: "Integration of IF-Prime freedoms across Head, Heart, Hands, and Health with the Six Thinking Hats and Six Cyborgs framework. Each Thinking Hat maps to a corresponding Cyborg archetype: White Hat to Analyzer Cyborg (clarity and discernment), Red Hat to Empath Cyborg (emotional resonance), Black Hat to Protector Cyborg (risk assessment and safety), Yellow Hat to Optimizer Cyborg (benefits and improvement), Green Hat to Innovator Cyborg (creativity and new ideas). Freedom understood as embodied, interconnected experience lived through the body's intelligence rather than abstract cognitive exercise."
-nemetic: "Φ(IF-Prime SixHats Cyborgs Module) = σ(analysis|empathy) ∘ ρ(risk|opportunity) ∘ λ(clarity|creativity) ∘ β(individual_freedom|interconnected_experience) ∘ δγ(cognitive_mode|embodied_intelligence) ∘ μ(hat_archetype|cyborg_function) + ε | :embodied_freedom_integration"
-siml_encoding: "⟨analysis_empathy_distinction, discernment_resonance⟩ ⊳ ⟨risk_opportunity_relational_web, protection_optimization⟩ → ⟨clarity_creativity_transformation, innovative_catalysis⟩ ⊗ ⟨individual_interconnected_freedom_growth, embodied_expansion⟩ ⇄ ⟨cognitive_embodied_cycling, integrated_intelligence⟩"
+term: IF-Prime SixHats Cyborgs Module
+hex_tag: S0F2
+series: S
+source_file: 1771907213202_2196356_Exploring+IF-Prime+and+SixHats_Cyborgs_Module.md
+encoded_at: '2026-03-06T00:00:00Z'
+description: 'Integration of IF-Prime freedoms across Head, Heart, Hands, and Health with the Six Thinking Hats and Six Cyborgs framework. Each Thinking Hat maps to a corresponding Cyborg archetype: White Hat to Analyzer Cyborg (clarity and discernment), Red Hat to Empath Cyborg (emotional resonance), Black Hat to Protector Cyborg (risk assessment and safety), Yellow Hat to Optimizer Cyborg (benefits and improvement), Green Hat to Innovator Cyborg (creativity and new ideas). Freedom understood as embodied, interconnected experience lived through the body''s intelligence rather than abstract cognitive exercise.'
+nemetic: Φ(IF-Prime SixHats Cyborgs Module) = σ(analysis|empathy) ∘ ρ(risk|opportunity) ∘ λ(clarity|creativity) ∘ β(individual_freedom|interconnected_experience) ∘ δγ(cognitive_mode|embodied_intelligence) ∘ μ(hat_archetype|cyborg_function) + ε | :embodied_freedom_integration
+siml_encoding: ⟨analysis_empathy_distinction, discernment_resonance⟩ ⊳ ⟨risk_opportunity_relational_web, protection_optimization⟩ → ⟨clarity_creativity_transformation, innovative_catalysis⟩ ⊗ ⟨individual_interconnected_freedom_growth, embodied_expansion⟩ ⇄ ⟨cognitive_embodied_cycling, integrated_intelligence⟩
+coords:
+  ontology:
+    primary: I
+    confidence: low
+    source: heuristic_backfill
+  epistemics:
+    dsrp:
+      D: analysis / empathy
+      S: individual_freedom / interconnected_experience
+      R: risk / opportunity
+      P: clarity / creativity
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: integrated
+    loop: multi
+  agency:
+    type: ego
+    voice: []
+    power_mode: With
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
   partials:
-    - "∂Φ/∂σ (distinguishing analysis from empathy — White Hat/Analyzer Cyborg clarity mapped against Red Hat/Empath Cyborg emotional resonance)"
-    - "∂Φ/∂ρ (relating risk to opportunity — Black Hat/Protector Cyborg safety assessment held in tension with Yellow Hat/Optimizer Cyborg benefit-seeking)"
-    - "∂Φ/∂λ (transforming clarity into creativity — the catalytic movement from discernment to innovation through Green Hat/Innovator Cyborg generative capacity)"
-    - "∂Φ/∂β (growth from individual freedom to interconnected experience — IF-Prime freedoms expanding across Head, Heart, Hands, Health as integrated embodiment)"
-    - "∂Φ/∂δγ (cycling between cognitive mode and embodied intelligence — thinking hats as cognitive tools grounded in the body's lived intelligence)"
-    - "∂Φ/∂μ (structural correspondence between hat archetype and cyborg function — each Thinking Hat mapped to its Cyborg embodiment with specific operational capacities)"
-  Z_state: "embodied_freedom_integration — the Six Thinking Hats find embodied expression through the Six Cyborgs framework, grounded in IF-Prime's four-domain freedom model (Head, Heart, Hands, Health), creating a system where cognitive modes become lived, interconnected experiences rather than abstract mental exercises"
-  tendency: "ρ → 0.80"
+  - ∂Φ/∂σ (distinguishing analysis from empathy — White Hat/Analyzer Cyborg clarity mapped against Red Hat/Empath Cyborg emotional resonance)
+  - ∂Φ/∂ρ (relating risk to opportunity — Black Hat/Protector Cyborg safety assessment held in tension with Yellow Hat/Optimizer Cyborg benefit-seeking)
+  - ∂Φ/∂λ (transforming clarity into creativity — the catalytic movement from discernment to innovation through Green Hat/Innovator Cyborg generative capacity)
+  - ∂Φ/∂β (growth from individual freedom to interconnected experience — IF-Prime freedoms expanding across Head, Heart, Hands, Health as integrated embodiment)
+  - ∂Φ/∂δγ (cycling between cognitive mode and embodied intelligence — thinking hats as cognitive tools grounded in the body's lived intelligence)
+  - ∂Φ/∂μ (structural correspondence between hat archetype and cyborg function — each Thinking Hat mapped to its Cyborg embodiment with specific operational capacities)
+  Z_state: semi
+  z_note: embodied_freedom_integration — the Six Thinking Hats find embodied expression through the Six Cyborgs framework, grounded in IF-Prime's four-domain freedom model (Head, Heart, Hands, Health), creating a system where cognitive modes become lived, interconnected experiences rather than abstract mental exercises
+  tendency: ρ → 0.80
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
 elemental_mapping:
-  air_sigma: {emphasis: 0.85, aspects: ["analysis_discernment_white_hat", "analyzer_cyborg_clarity"], daemon_correspondence: "Aerunik"}
-  water_rho: {emphasis: 0.85, aspects: ["empathy_emotional_resonance_red_hat", "empath_cyborg_connection"], daemon_correspondence: "Sentaria"}
-  fire_lambda: {emphasis: 0.80, aspects: ["creativity_innovation_green_hat", "innovator_cyborg_catalysis"], daemon_correspondence: "Jvalion"}
-  wood_beta: {emphasis: 0.75, aspects: ["individual_to_interconnected_freedom", "four_domain_expansion_growth"], daemon_correspondence: "Arboriel"}
-  earth_delta_gamma: {emphasis: 0.80, aspects: ["embodied_intelligence_grounding", "cognitive_to_somatic_cycling"], daemon_correspondence: "Humavita"}
-  metal_mu: {emphasis: 0.80, aspects: ["hat_cyborg_structural_mapping", "protector_cyborg_risk_architecture"], daemon_correspondence: "Ferrosid"}
-related_terms: ["S0D1", "S0D4", "S06F", "S042"]
+  air_sigma:
+    emphasis: 0.85
+    aspects:
+    - analysis_discernment_white_hat
+    - analyzer_cyborg_clarity
+    daemon_correspondence: Aerunik
+  water_rho:
+    emphasis: 0.85
+    aspects:
+    - empathy_emotional_resonance_red_hat
+    - empath_cyborg_connection
+    daemon_correspondence: Sentaria
+  fire_lambda:
+    emphasis: 0.8
+    aspects:
+    - creativity_innovation_green_hat
+    - innovator_cyborg_catalysis
+    daemon_correspondence: Jvalion
+  wood_beta:
+    emphasis: 0.75
+    aspects:
+    - individual_to_interconnected_freedom
+    - four_domain_expansion_growth
+    daemon_correspondence: Arboriel
+  earth_delta_gamma:
+    emphasis: 0.8
+    aspects:
+    - embodied_intelligence_grounding
+    - cognitive_to_somatic_cycling
+    daemon_correspondence: Humavita
+  metal_mu:
+    emphasis: 0.8
+    aspects:
+    - hat_cyborg_structural_mapping
+    - protector_cyborg_risk_architecture
+    daemon_correspondence: Ferrosid
+related_terms:
+- S0D1
+- S0D4
+- S06F
+- S042
 status: canonical
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - water_rho
+  - fire_lambda
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.85
+    fire_lambda: 0.8
+    wood_beta: 0.75
+    earth_delta_gamma: 0.8
+    metal_mu: 0.8
+date_processed: '2026-04-14'
+siml_version: '1.5'
+provenance:
+  source_file: "1771907213202_2196356_Exploring+IF-Prime+and+SixHats_Cyborgs_Module.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - agency
+  - ce_stub
+  - elemental_signature
+  - formalism+['dim_operators']
+  - date_processed
+  - siml_version
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+
 ---
 
 # --- Causal Emergence (v1.3) ---

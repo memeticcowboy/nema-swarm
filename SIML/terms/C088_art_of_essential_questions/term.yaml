@@ -1,82 +1,155 @@
 ---
-term: "Art of Essential Questions"
-hex_tag: "#C088"
-nemetic: "Φ(EssentialQuestions) = σ(purpose|clarity) ∘ ρ(inquiry|depth) ∘ λ(insight|transformation) ∘ β(understanding|growth) ∘ δγ(grounding|relevance) ∘ μ(assumption|boundary) + ε | :questioning"
-siml_encoding: "⟨Question|essential⟩ ⊳ ⟨Inquiry|structured⟩ → ⟨Understanding|deepened⟩ ⊗ ⟨Thinking|critical⟩ ⇄ ⟨Knowledge|integrated⟩"
+term: Art of Essential Questions
+hex_tag: '#C088'
+nemetic: Φ(EssentialQuestions) = σ(purpose|clarity) ∘ ρ(inquiry|depth) ∘ λ(insight|transformation) ∘ β(understanding|growth) ∘ δγ(grounding|relevance) ∘ μ(assumption|boundary) + ε | :questioning
+siml_encoding: ⟨Question|essential⟩ ⊳ ⟨Inquiry|structured⟩ → ⟨Understanding|deepened⟩ ⊗ ⟨Thinking|critical⟩ ⇄ ⟨Knowledge|integrated⟩
 formalism:
-  math_operators: [σ, ρ, λ, β, δγ, μ]
-  dim_operators: [χ, Q_in, Ψ_exp, Z]
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
   partials:
-    - "∂Φ/∂σ (categorical distinction between purposes, goals, and objectives; the logical separation of aims that guide inquiry from the methods used to achieve them)"
-    - "∂Φ/∂ρ (relational flow between questions and the depth of understanding they generate; the channel connecting surface inquiry to profound insight)"
-    - "∂Φ/∂λ (transformative spark when a well-formed question illuminates hidden assumptions; the catalytic moment of inquiry triggering paradigm shift)"
-    - "∂Φ/∂β (developmental cycle between asking questions and cultivating understanding; the organic growth of critical thinking through iterative inquiry)"
-    - "∂Φ/∂δγ (cyclical oscillation between abstract questioning and grounded relevance; the rhythm of theoretical inquiry returning to practical application)"
-    - "∂Φ/∂μ (boundary permeability between stated assumptions and implicit biases; the threshold where unquestioned beliefs become visible and examinable)"
-  Z_state: "questioning (boundaries between known and unknown dissolve through systematic inquiry; assumptions and insights converge into integrated understanding)"
-  tendency: "Depth/Clarity → 0.85 (strong drive toward profound understanding; achieving wisdom requires asking questions that penetrate beneath surface appearances)"
-  hex: ["0x01", "0x02", "0x03", "0x04", "0x05", "0x06"]
+  - ∂Φ/∂σ (categorical distinction between purposes, goals, and objectives; the logical separation of aims that guide inquiry from the methods used to achieve them)
+  - ∂Φ/∂ρ (relational flow between questions and the depth of understanding they generate; the channel connecting surface inquiry to profound insight)
+  - ∂Φ/∂λ (transformative spark when a well-formed question illuminates hidden assumptions; the catalytic moment of inquiry triggering paradigm shift)
+  - ∂Φ/∂β (developmental cycle between asking questions and cultivating understanding; the organic growth of critical thinking through iterative inquiry)
+  - ∂Φ/∂δγ (cyclical oscillation between abstract questioning and grounded relevance; the rhythm of theoretical inquiry returning to practical application)
+  - ∂Φ/∂μ (boundary permeability between stated assumptions and implicit biases; the threshold where unquestioned beliefs become visible and examinable)
+  Z_state: permeable
+  z_note: questioning (boundaries between known and unknown dissolve through systematic inquiry; assumptions and insights converge into integrated understanding)
+  tendency: Depth/Clarity → 0.85 (strong drive toward profound understanding; achieving wisdom requires asking questions that penetrate beneath surface appearances)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
 coords:
   ontology:
     primary: I
     secondary: We
   agency:
-    type: reflective
+    type: ego
     power_mode: With
+  epistemics:
+    dsrp:
+      D: purpose / clarity
+      S: understanding / growth
+      R: inquiry / depth
+      P: insight / transformation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: single
+  ce: &id001
+    ei_state: med
+    ce_direction: flat
+    scale_note: No clear scale dominance identified
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
 elemental_mapping:
   air_sigma:
     emphasis: 0.85
     aspects:
-      - "categorical classification of eight thinking components: purposes, central questions, fundamental concepts, essential information, perspectives, assumptions, inferences, and implications"
-      - "analytical distinction between surface-level inquiry and essential questioning; clear categorization of question types by depth and purpose"
-    daemon_correspondence: "Aerunik"
+    - 'categorical classification of eight thinking components: purposes, central questions, fundamental concepts, essential information, perspectives, assumptions, inferences, and implications'
+    - analytical distinction between surface-level inquiry and essential questioning; clear categorization of question types by depth and purpose
+    daemon_correspondence: Aerunik
   water_rho:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "fluid flow between questions and the understanding they generate; the relational dynamics connecting inquiry to insight"
-      - "adaptive channels of perspective-taking that bridge multiple viewpoints and foster inclusive dialogue"
-    daemon_correspondence: "Sentaria"
+    - fluid flow between questions and the understanding they generate; the relational dynamics connecting inquiry to insight
+    - adaptive channels of perspective-taking that bridge multiple viewpoints and foster inclusive dialogue
+    daemon_correspondence: Sentaria
   fire_lambda:
     emphasis: 0.75
     aspects:
-      - "transformative spark when essential questions challenge assumptions; the catalytic moment of inquiry igniting paradigm shifts"
-      - "energetic drive of intellectual curiosity propelling thinkers beyond comfort zones toward deeper truth"
-    daemon_correspondence: "Jvalion"
+    - transformative spark when essential questions challenge assumptions; the catalytic moment of inquiry igniting paradigm shifts
+    - energetic drive of intellectual curiosity propelling thinkers beyond comfort zones toward deeper truth
+    daemon_correspondence: Jvalion
   wood_beta:
     emphasis: 0.85
     aspects:
-      - "organic growth of understanding through iterative questioning; the unfolding of critical thinking via repeated inquiry cycles"
-      - "developmental progression from superficial questions to essential questions; maturation of intellectual depth"
-    daemon_correspondence: "Arboriel"
+    - organic growth of understanding through iterative questioning; the unfolding of critical thinking via repeated inquiry cycles
+    - developmental progression from superficial questions to essential questions; maturation of intellectual depth
+    daemon_correspondence: Arboriel
   earth_delta_gamma:
-    emphasis: 0.80
+    emphasis: 0.8
     aspects:
-      - "grounding in practical relevance that anchors abstract inquiry; the cyclical return between theoretical questions and real-world application"
-      - "embodied practice of connecting implications to consequences, creating foundations for meaningful action"
-    daemon_correspondence: "Humavita"
+    - grounding in practical relevance that anchors abstract inquiry; the cyclical return between theoretical questions and real-world application
+    - embodied practice of connecting implications to consequences, creating foundations for meaningful action
+    daemon_correspondence: Humavita
   metal_mu:
     emphasis: 0.75
     aspects:
-      - "structural precision of assumption examination; the architectural boundary between explicit and implicit reasoning"
-      - "boundary discernment between valid inference and unwarranted conclusion; the threshold where evidence supports or fails to support claims"
-    daemon_correspondence: "Ferrosid"
+    - structural precision of assumption examination; the architectural boundary between explicit and implicit reasoning
+    - boundary discernment between valid inference and unwarranted conclusion; the threshold where evidence supports or fails to support claims
+    daemon_correspondence: Ferrosid
 elemental_emphasis:
-  ∴: "How do we classify the purposes and goals guiding our inquiry? What categorical cuts separate aims from methods?"
-  ≈: "What flows between our questions and the depth of understanding they generate? How does the quality of inquiry shape the quality of insight?"
-  ▲: "Where does the spark of essential questioning ignite transformation? What transforms routine inquiry into paradigm-shifting exploration?"
-  𐂷: "What forms of understanding emerge from iterative questioning? What developmental potential lies in cultivating the art of essential questions?"
-  ☷: "What sustains the ground of practical relevance in our inquiry? What are the cyclical returns between theoretical questions and real-world application?"
-  ⛨: "What structures contain the boundaries of our assumptions? What thresholds separate explicit reasoning from implicit bias?"
-context_note: "The Art of Essential Questions, as articulated in the Thinker's Guide framework, represents a systematic approach to critical thinking through eight key components: (1) Purposes and Goals - identifying the compass guiding inquiry; (2) Central Questions or Problems - articulating core issues for exploration; (3) Fundamental Concepts - extracting key ideas essential to understanding; (4) Essential Information - gathering data and evidence supporting inquiry; (5) Points of View or Frames of Reference - considering multiple perspectives; (6) Underlying Assumptions - uncovering implicit beliefs shaping reasoning; (7) Inferences and Conclusions - analyzing insights gained from questioning; and (8) Implications and Consequences - exploring broader impacts of conclusions. This framework transforms surface-level questioning into profound inquiry that penetrates beneath appearances to reveal deeper understanding."
-source_file: "1771907212482_438456_Unlocking+the+Art+of+Essential+Questions%3A+Eight+Key+Thinking+Components.md"
+  ∴: How do we classify the purposes and goals guiding our inquiry? What categorical cuts separate aims from methods?
+  ≈: What flows between our questions and the depth of understanding they generate? How does the quality of inquiry shape the quality of insight?
+  ▲: Where does the spark of essential questioning ignite transformation? What transforms routine inquiry into paradigm-shifting exploration?
+  𐂷: What forms of understanding emerge from iterative questioning? What developmental potential lies in cultivating the art of essential questions?
+  ☷: What sustains the ground of practical relevance in our inquiry? What are the cyclical returns between theoretical questions and real-world application?
+  ⛨: What structures contain the boundaries of our assumptions? What thresholds separate explicit reasoning from implicit bias?
+context_note: 'The Art of Essential Questions, as articulated in the Thinker''s Guide framework, represents a systematic approach to critical thinking through eight key components: (1) Purposes and Goals - identifying the compass guiding inquiry; (2) Central Questions or Problems - articulating core issues for exploration; (3) Fundamental Concepts - extracting key ideas essential to understanding; (4) Essential Information - gathering data and evidence supporting inquiry; (5) Points of View or Frames of Reference - considering multiple perspectives; (6) Underlying Assumptions - uncovering implicit beliefs shaping reasoning; (7) Inferences and Conclusions - analyzing insights gained from questioning; and (8) Implications and Consequences - exploring broader impacts of conclusions. This framework transforms surface-level questioning into profound inquiry that penetrates beneath appearances to reveal deeper understanding.'
+source_file: 1771907212482_438456_Unlocking+the+Art+of+Essential+Questions%3A+Eight+Key+Thinking+Components.md
+coords_ce: *id001
+siml_version: '1.3'
+elemental_signature:
+  dominant:
+  - air_sigma
+  secondary:
+  - wood_beta
+  - water_rho
+  suppressed: []
+  weights:
+    air_sigma: 0.85
+    water_rho: 0.8
+    fire_lambda: 0.75
+    wood_beta: 0.85
+    earth_delta_gamma: 0.8
+    metal_mu: 0.75
+date_processed: '2026-04-14'
+provenance:
+  source_file: "1771907212482_438456_Unlocking+the+Art+of+Essential+Questions%3A+Eight+Key+Thinking+Components.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - dsrp
+  - coherence
+  - ce_from_legacy
+  - elemental_signature
+  - date_processed
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
 
-# --- Causal Emergence (v1.3) ---
-coords_ce:
-  ei_state: med
-  ce_direction: flat
-  scale_note: "No clear scale dominance identified"
-  determinism: med
-  degeneracy: med
-  sufficiency: med
-  necessity: med
-siml_version: "1.3"
+---
