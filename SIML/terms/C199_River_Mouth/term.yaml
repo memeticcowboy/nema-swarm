@@ -1,0 +1,131 @@
+term_id: C199
+hex_tag: '#C199'
+name: River_Mouth
+term: River Mouth
+nemetic: Φ(River_Mouth) = λ(river_flow|directed) ∘ σ(boundary_transition|mixing) ∘ δγ(sediment_cycling|depositional) + ε |
+  :open ∧ :emergent
+siml_encoding: ⟨river⟩ ⇄ ⟨receiving_water_body⟩ ⟨river⟩ ⇄ ⟨sediments⟩ ⟨sediments⟩ ⊳ ⟨delta_landform⟩ ⟨river_mouth⟩ ⊳ ⟨coastal_city⟩
+  ⟨climate_change⟩ ⊳ ⟨coastal_city⟩
+formalism:
+  math_operators:
+  - λ
+  - σ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from permeable toward sealed — the natural, open sediment cycling is being constrained by damming and
+    climate change, risking a collapse into a static or eroded state. Z-Closure Risk: δγ-lock — the disruption of sediment
+    flow would starve the metabolic cycle, halting landform formation and leading to systemic collapse.'
+  tendency: cyclical | :open
+  hex:
+  - '#C199'
+  - '0x05'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - Its
+    - We
+  epistemics:
+    dsrp:
+      D: The river mouth is distinguished as the boundary where a river's flow terminates into a larger, distinct body of
+        water, marking a sharp transition in energy, salinity, and sediment dynamics.
+      S: It is a system comprising the flowing river, transported sediments, the receiving water body, emergent landforms
+        like deltas, and human settlements, all interacting within a frame of climate change.
+      R: Key relationships include the flow of water and sediment from river to sea, the transformation of sediment into landforms,
+        and the constraining conflict between natural deposition and human interventions like damming.
+      P: Perspectives range from the geomorphological (landform formation), ecological (habitat support), and human (settlement
+        risk and resource management), each viewing the mouth's stability and function differently.
+    learning: L2
+    intervention_stance:
+      mode: constrained
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: continuous
+    phase: A phase of accelerated transformation where long-term sedimentary processes are disrupted by human constraints
+      and climatic forcing, leading to increased instability.
+  qualia:
+    affect:
+    - awe
+    - concern
+    - urgency
+    - vulnerability
+    aesthetic:
+    - geological
+    - fluid
+    - transformative
+    - fragile
+    symbolic:
+    - threshold
+    - confluence
+    - deposition
+    - starvation
+    energetic:
+      somatic: flowing
+      systemic: critical
+    divergence_note: The somatic sense of flowing contrasts with the systemic criticality, signaling a lived experience of
+      natural process amidst a structural condition of breakdown and heightened risk.
+  agency:
+    type: more_than_human
+    voice:
+    - river
+    - sediment
+    - coastal_city
+    - climate_change
+    - river_damming
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: contested
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Macro-scale climatic and human constraints actively reshape the micro-scale sediment dynamics and landform
+      emergence at the local river mouth.
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'The river mouth cuts the river''s continuous flow from the vast sea, marking a boundary where sediment deposition defines
+    new land. The critical distinction is between natural sediment supply that builds protective deltas and human-induced
+    starvation that leads to erosion, blurring the line between process and intervention. Air asks: What distinction must
+    be sharpened between river management and natural flow to ensure the mouth remains a creator rather than a victim of change?'
+  ≈: 'The river mouth resonates with the harmonic coupling of freshwater inflow and saline tides, creating a brackish mixing
+    zone felt by thriving ecosystems. This resonance is being flattened by reduced sediment flow and rising seas, dampening
+    the ecological vitality. Water asks: What subtle resonance between river pulse and coastal life is most vulnerable to
+    being silenced by human disruptions?'
+  ▲: 'The river mouth''s fire directs energy towards sediment deposition to build and sustain deltas, a metabolic commitment
+    to coastal growth. This direction is simulated by engineering projects that prioritize flood control over natural land-building,
+    redirecting the metabolic charge. Fire asks: Which commitment—to engineered stability or to adaptive sediment flow—carries
+    the true directional energy for long-term resilience?'
+  𐂷: 'The river mouth branches into possible morphologies, from fan-shaped deltas to drowned estuaries, depending on sediment
+    supply and sea level. Human damming has foreclosed the branch of abundant sediment, constraining the mouth''s adaptive
+    potential. Wood asks: What foreclosed branch of natural sediment replenishment could be restored to allow the mouth to
+    reshape itself sustainably?'
+  ☷: 'The river mouth''s earth cycles sediments from erosion upstream to deposition downstream, composting them into fertile
+    deltas that support ecosystems and settlements. This cycle is now stagnant, with sediments trapped behind dams, requiring
+    the release of stored materials or old paradigms. Earth asks: What must be composted—the accumulated sediments in reservoirs
+    or the human insistence on controlling rivers—to regenerate the land-building metabolism?'
+  ⛨: 'The river mouth''s metal is the structural balance between river outflow and sea level, held by the gate of sediment
+    accumulation that resists erosion. Pressure is asymmetric, with rising seas exerting force while reduced sediment weakens
+    the land''s resistance, threatening stability. Metal asks: What structural reinforcement—in sediment management or coastal
+    defenses—is needed to withstand the asymmetric pressures of climate change?'
+context_note: The river mouth balances natural sediment deposition that builds protective landforms against human disruptions
+  like damming and climate change, which starve sediment flow and increase flood vulnerability, threatening ecosystems and
+  settlements.
+source: https://en.wikipedia.org/wiki/River_mouth
+date_processed: '2026-04-24'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft

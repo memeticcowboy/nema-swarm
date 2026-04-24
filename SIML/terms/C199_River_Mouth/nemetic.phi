@@ -1,0 +1,16 @@
+# NEMETIC STRING
+# River Mouth (C199)
+# Generated: 2026-04-24 20:21
+# SIML: v1.5
+
+Φ(River_Mouth) = λ(river_flow|directed) ∘ σ(boundary_transition|mixing) ∘ δγ(sediment_cycling|depositional) + ε | :open ∧ :emergent
+
+# OPERATOR BREAKDOWN
+# Primary: δγ
+# Secondary: λ, σ
+
+# Z-STATE: Tendency from permeable toward sealed — the natural, open sediment cycling is being constrained by damming and climate change, risking a collapse into a static or eroded state. Z-Closure Risk: δγ-lock — the disruption of sediment flow would starve the metabolic cycle, halting landform formation and leading to systemic collapse.
+# TENDENCY: cyclical | :open
+
+# CE-STATE: emergent
+# EI-NOTE: The core dynamic is the Earth operator (δγ) — the continuous, metabolic cycling of sediments into landforms. This is initiated and driven by the Fire operator (λ) — the directed, purposeful flow of the river. The Air operator (σ) is essential as the distinction and mixing at the boundary that enables the transition and deposition.
