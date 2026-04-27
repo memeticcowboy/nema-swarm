@@ -82,3 +82,40 @@ This encoding is pattern-matched by an LLM against SIML v1.5 vocabulary. It does
 - **Files:** `term.yaml`, `nemetic.phi`, `insight.md`
 - **Cross-references:** **#C199 (Value Extraction Vortex), #B045 (Communal Metabolism), #A112 (Structural Dissonance)**
 - **Open questions:** The encoding under-determines the specific mechanisms by which activist pressure (λ) can successfully bend or break the Metal (μ) structure of the petrodollar model. What is the tensile strength of that gate?
+
+---
+
+## External Reading & Source Trace (added 2026-04-26)
+
+The oracle output above is the structural SIML encoding. The reading below is a complementary plain-English interpretation supplied by Daniel after MC's initial encoding, with external sources cited so the operator-by-operator reading sits inside the existing literature on capitalism and food waste — not just inside the framework's internal grammar.
+
+### Operator-by-operator reading
+
+- **σ(commodity_necessity_split | systemic)** — A structural separation between what people need and what markets recognize as profitable or legitimate. Capitalist food systems make it "economic sense" to waste edible food rather than redirect it to need. [1][5]
+- **ρ(moral_outrage | collective)** — Fits the public framing of food loss and waste as an ethical outrage — the kind of moral language that often catalyzes collective action. [10]
+- **λ(activist_harvesting | direct)** — Maps to food-rescue practices: volunteer harvest programs, imperfect-produce campaigns, and other direct interventions that recover food before it becomes waste. [2][7]
+- **ε | :open ∧ :multiscale** — Leaves room for residual effects across scales: household habits, supply chains, policy, and broader political economy all shape the outcome. [4][8][9]
+
+### Plain-English translation
+
+Food waste under capitalism is produced by structural market incentives, morally condemned by publics, and partially mitigated by direct activist recovery efforts — but the problem remains open and multiscale because it is embedded in the whole food system. [8][9][1][5]
+
+### Possible further treatments
+
+The encoding is open to:
+- A **Marxian reading** (metabolic rift, commodification of subsistence)
+- A **systems-theory interpretation** (wicked problem, multi-stakeholder feedback)
+- A **formal symbolic rewrite** in cleaner notation (e.g., compact category-theoretic composition)
+
+### Sources
+
+1. *An economic trauma: Capitalism says food waste is OK* — Street Roots. https://www.streetroots.org/opinion/2018/06/01/economic-trauma-capitalism-says-food-waste-ok/
+2. *Inspirational People Working to Reduce Food Waste* — Giving Compass. https://givingcompass.org/article/inspirational-people-working-to-reduce-food-waste
+3. *How Activist Rob Greenfield Lived Off His Own Food for a Year* — YouTube. https://www.youtube.com/watch?v=Jn6Gaumlib4
+4. ProQuest record. https://www.proquest.com/docview/2530164267
+5. *Is Capitalism a Barrier to Food Justice?* — Civil Eats. https://civileats.com/2017/12/08/capitalism-is-a-barrier-to-food-justice/
+6. *How one activist got 30,000 people thinking about food waste* — New Hope. https://www.newhope.com/food-and-beverage/how-one-activist-got-30-000-people-thinking-about-food-waste
+7. *Food-Waste Rebel Wants You to Eat Ugly Food* — National Geographic / YouTube. https://www.youtube.com/watch?v=H7RE-BENuQM
+8. *Food Waste in the UK* — UCLan repository. https://clok.uclan.ac.uk/7388/4/7338_OBrian.pdf
+9. *US Systemic Drivers on Food Loss and Waste* — WRAP. https://www.wrap.ngo/resources/report/us-systemic-drivers-food-loss-and-waste
+10. *Food loss and waste 'an ethical outrage', UN chief says* — UN News. https://news.un.org/en/story/2020/09/1074122
