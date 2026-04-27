@@ -1,0 +1,98 @@
+term_id: C194
+concept_name: Compost_Time
+concept_human: Compost Time
+series: C
+source_ref: /var/folders/vh/2mmzw5l901b5ndl27gl87g7h0000gn/T/encode-g02adzou.md
+lifecycle: draft
+confidence: 0.88
+
+nemetic:
+  string: "Φ(Compost_Time) = σ(institutional|earth) ∘ λ(extraction|compost) ⊗ ρ(urgency|patience) ∘ μ(process|structure) ⊗ δγ(decay|renewal) + ε | :drift ∧ :emergent"
+  z_state: permeable
+  tendency: drift
+  active_operators:
+    - σ
+    - λ
+    - ρ
+    - μ
+    - δγ
+  tags:
+    operational: :drift
+    ce: :emergent
+
+taxonomy:
+  ontology_position: "Process ontology grounded in metabolic transformation; being is not static but decompositional, with identity becoming soil for future growth."
+  epistemic_stance: "Embodied and patient; knowledge accrues through sustained attention to process rather than extraction of conclusions."
+  temporal_orientation: "Deep time and seasonal; the relevant unit is the cycle of decay and renewal, not the sprint or quarter."
+  qualia_signature: "The warmth of active patience, the ache of resisted urgency, the vertigo of trusting invisible transformation."
+  agency_gradient: "Distributed across gardener, microbe, and moisture; no single actor controls the outcome, yet each element is necessary."
+  coherence_topology: "Rhizomatic and mycelial—decentralized networks of meaning that hold without rigid structure, robust through redundancy and connection."
+  ce_potential: "Very high—the frame dissolves the false binary of fast-vs-slow, revealing different metabolisms as different intelligences."
+
+dsrp:
+  distinctions:
+    - institutional_time vs earth_time
+    - deadline_culture vs organic_temporality
+    - extraction vs composting
+  systems:
+    - composting_process
+    - mycelial_network
+    - institutional_metabolism
+  relationships:
+    - urgency_masks_absence_of_direction
+    - compression_prevents_transformation
+    - gardener_tends_without_controlling
+  perspectives:
+    - deadline_animal_perspective
+    - gardener_perspective
+    - compost_perspective
+
+objects:
+  - name: Actor
+    role: The Gardener who tends process without forcing outcome
+  - name: Observer
+    role: The Deadline Animal who measures worth by velocity
+  - name: Frame
+    role: Institutional time that compresses process into quarterly metrics
+  - name: Value
+    role: Patience as practice and active waiting
+  - name: Resource
+    role: Organic tempo and natural rhythms of transformation
+  - name: Environment
+    role: Wetland or compost pile where unhurried change occurs
+  - name: Boundary
+    role: Line between urgency and genuine process
+  - name: Protocol
+    role: Active patience—turning, watering, inoculating
+  - name: Signal
+    role: Aphorism and parable that spread through resonance
+  - name: Narrative
+    role: Progress as acceleration and growth-for-growth's-sake
+  - name: Memory
+    role: Centuries of growth and slow accumulation
+  - name: Outcome
+    role: Soil and genuine transformation
+  - name: Artifact
+    role: Sticky quote or symbol that carries the meme
+
+relations:
+  - name: Distinction
+    between: [Frame, Protocol]
+  - name: Containment
+    between: [Frame, Signal]
+  - name: Flow
+    between: [Resource, Environment, Actor]
+  - name: Resonance
+    between: [Value, Outcome]
+  - name: Conflict
+    between: [Narrative, Protocol]
+  - name: Constraint
+    between: [Boundary, Signal]
+  - name: Mapping
+    between: [Memory, Artifact]
+  - name: Recursion
+    between: [Outcome, Memory]
+  - name: Transformation
+    between: [Environment, Resource]
+
+central_tension: "The institutional demand for speed and compression actively prevents the transformation it claims to seek, while genuine change requires the uncompressible time of composting—yet those who tend process must survive inside systems that punish slowness."
