@@ -1,0 +1,133 @@
+term_id: C200
+hex_tag: '#C200'
+name: Food_Waste_Under_Capitalism
+term: Food Waste Under Capitalism
+nemetic: Φ(Food_Waste_Under_Capitalism) = σ(commodity_necessity_split|systemic) ∘ ρ(moral_outrage|collective) ∘ λ(activist_harvesting|direct)
+  + ε | :open ∧ :multiscale
+siml_encoding: ⟨capitalism⟩ ⊳ ⟨commercial_agriculture⟩ ⟨commercial_agriculture⟩ ⇄ ⟨food⟩ ⟨food⟩ ⊳ ⟨waste⟩ ⟨activist_network⟩
+  ⊳ ⟨commercial_agriculture⟩ ⟨communities⟩ ⇄ ⟨food⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — the rigid capitalist structure is being challenged by grassroots action.
+    Z-Closure Risk: μ-lock — the structural boundaries of the profit-driven system may resist transformation, perpetuating
+    the waste-starvation cycle.'
+  tendency: directed | :open
+  hex:
+  - '#C200'
+  - '0x03'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - It
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: The concept distinguishes between food production and food access, waste and starvation, and capitalist versus community-led
+        models, highlighting a fundamental contradiction.
+      S: It frames a system involving capitalist economic structures, commercial agriculture, activist networks, and community
+        efforts, all interconnected within global food distribution networks.
+      R: Relationships include constraints from capitalism on agriculture, flows of food and activist pressure, transformations
+        of food into waste, and conflicts between profit-driven and humanitarian actors.
+      P: Perspectives include those of capitalists prioritizing profit, activists advocating for change, communities suffering
+        from hunger, and agricultural entities caught in market constraints.
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: layered
+    phase: in a phase of systemic failure where historical economic layers perpetuate waste and starvation, with emergent
+      pressure for transformative change.
+  qualia:
+    affect:
+    - angry
+    - frustrated
+    - hopeful
+    - determined
+    aesthetic:
+    - decaying
+    - abundant
+    - industrial
+    - communal
+    symbolic:
+    - rot
+    - harvest
+    - pressure
+    - model
+    energetic:
+      somatic: surging
+      systemic: critical
+    divergence_note: The surging somatic energy of activist efforts contrasts with the critical systemic condition of waste
+      and starvation, signaling a potential for rupture or transformation.
+  agency:
+    type: collective
+    voice:
+    - activist
+    - agricultural_corporation
+    - starving_community
+    - economic_theorist
+    power_mode: Against
+  coherence:
+    state: dissonant
+    loop: double
+    transcontext: high
+    ei_stability: collapsing
+    scale_dominance: contested
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Macro-economic constraints generate emergent waste phenomena at local scales, while micro-level community
+      actions seek to create submergent alternatives.
+    determinism: high
+    degeneracy: high
+    sufficiency: high
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the sharp cut between food''s economic value as a commodity and its life-sustaining value as nourishment,
+    a distinction blurred by market signals that prioritize profit over need. The noise of ''efficiency'' obscures the signal
+    of systemic failure where waste and starvation coexist. Air asks: What distinction is capitalism enforcing between profitable
+    distribution and necessary distribution, and what critical separation between surplus and scarcity are we missing?'
+  ≈: 'Water resonates with the silent, felt injustice of rotting harvests amidst hungry communities, a dissonance that is
+    palpable but often unnamed in economic discourse. The coupling between the petrodollar model''s cold logic and the warm,
+    urgent need for food creates a flat resonance that fails to motivate change. Water asks: What submerged current of collective
+    grief and anger could realign the flow of nourishment, and why does this deep resonance not yet rupture the system?'
+  ▲: 'Fire directs the metabolic energy of commercial agriculture toward capital accumulation, where the alive commitment
+    is to profit maximization, not hunger alleviation. The simulated direction of corporate responsibility reflects a flickering,
+    insincere promise to address waste while the true drive consumes resources for market gain. Fire asks: Which fiery imperative—endless
+    growth or community survival—will ultimately dictate the harvest''s fate, and what new purpose must be kindled to redirect
+    the flow?'
+  𐂷: 'Wood branches into alternative networks where communities directly harvest and distribute food, possibilities foreclosed
+    by the rigid petrodollar model that prunes such paths for efficiency''s sake. The unseen growth of local solidarity is
+    stifled, maintaining a linear trajectory from field to landfill instead of field to table. Wood asks: What graft of decentralized,
+    community-led action onto the global agricultural system could bear fruit, and which cut branch of mutual aid must we
+    regrow?'
+  ☷: 'Earth composts the wasted food into decay, but under capitalism, this cycling does not nourish the hungry; it signifies
+    a stale metabolic substrate where profit extraction depletes both land and people. The rot of economic logic must be released
+    to allow fertile ground for a just system to grow. Earth asks: What dead framework of value must decompose to feed the
+    roots of community resilience, and what rot is fertile for transformative change?'
+  ⛨: 'Metal structures the system with the rigid gate of the petrodollar model, which only opens for profitable transactions,
+    holding food waste in place through asymmetric pressure favoring capital over need. The activist network applies leverage,
+    but the structural weld of commercial agriculture''s practices resists bending. Metal asks: What load-bearing joint in
+    the economic architecture concentrates the stress of this contradiction, and where must we strike to collapse the barrier
+    between abundance and access?'
+context_note: The tension between the abundance of food production and the scarcity of food access under capitalism, where
+  waste and starvation coexist despite potential plenty.
+source: (pasted text)
+date_processed: '2026-04-26'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
