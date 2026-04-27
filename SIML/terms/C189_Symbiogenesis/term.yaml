@@ -1,0 +1,129 @@
+term_id: C189
+hex_tag: '#C189'
+name: Symbiogenesis
+term: Symbiogenesis (Endosymbiotic Theory)
+nemetic: Φ(Symbiogenesis) = σ(engulfment|physical) ∘ ρ(gene_transfer|integrative) ∘ λ(organelle_formation|committed) + ε |
+  :open ∧ :emergent
+siml_encoding: ⟨host_cell⟩ ⊳ ⟨endosymbiont⟩ ⟨endosymbiont⟩ ⊳ ⟨organelle⟩ ⟨endosymbiont⟩ ⇄ ⟨genes⟩ ⟨nucleus⟩ ⊳ ⟨genes⟩ ⟨evidence⟩
+  ⇄ ⟨symbiogenesis_theory⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — the symbiotic merger process dissolves rigid boundaries between independent
+    organisms, enabling evolutionary innovation. Z-Closure Risk: σ-lock — if the distinction between host and endosymbiont
+    becomes absolute or the conflict between theories rigidifies, it would prevent the loss of autonomy and integration, collapsing
+    the dynamic.'
+  tendency: directed | :open
+  hex:
+  - '#C189'
+  - '0x03'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: Distinction between host cell and endosymbiont, between prokaryotic and eukaryotic life, and between competitive
+        and cooperative evolutionary narratives.
+      S: System of eukaryotic cell as an integrated whole formed from symbiotic mergers; the evolutionary system where endosymbiosis
+        drives major innovation.
+      R: Relationships of containment, transformation, gene flow, and theoretical conflict, binding biological entities and
+        scientific ideas.
+      P: Perspectives from traditional Darwinian gradualism versus symbiogenesis, and from the internal dynamics of cellular
+        integration to external evolutionary pressures.
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: theoretical
+      counterfactual_access: med
+  time:
+    mode: continuous
+    phase: ongoing evolutionary process punctuated by symbiotic events over billions of years.
+  qualia:
+    affect:
+    - awe
+    - controversial
+    - integrated
+    aesthetic:
+    - intricate
+    - merging
+    - layered
+    symbolic:
+    - merger
+    - integration
+    - cradle
+    energetic:
+      somatic: surging
+      systemic: adequate
+    divergence_note: The surging somatic energy of symbiotic merger contrasts with the adequate systemic conditions of evolutionary
+      stability.
+  agency:
+    type: more_than_human
+    voice:
+    - host_cell
+    - endosymbiont
+    - scientist
+    - symbiogenesis_theory
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Symbiogenesis demonstrates emergence of eukaryotic complexity from prokaryotic interactions through symbiotic
+      integration.
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the pivotal cut in symbiogenesis: the shift from evolution as competitive gradualism to evolution
+    as cooperative merger. The signal is the robust evidence for endosymbiosis, while the noise is the lingering adherence
+    to purely competitive narratives. Air asks: What precise distinction separates a symbiotic integration that births new
+    complexity from one that remains merely parasitic, and why does that distinction redefine life''s trajectory?'
+  ≈: 'Water reveals the resonant coupling between host cell and endosymbiont, a felt harmony of metabolic exchange and genetic
+    compatibility that made the merger stable. This resonance vibrates through the evidence, from similar DNA to division
+    patterns, unspoken yet foundational. Water asks: What deeper, pre-biotic affinity—beyond ATP or protection—made this ancient
+    embrace resonate into an irreversible, life-altering fusion?'
+  ▲: 'Fire directs symbiogenesis as a metabolic commitment to cooperative innovation, actively challenging the reflected dogma
+    of competition as the sole evolutionary driver. This theory is alive, propelling biology toward recognizing mergers as
+    sources of major transitions. Fire asks: Does symbiogenesis point evolution toward a future where life''s complexity accrues
+    through ever-more integrated alliances, or is it merely a historical explanation with no directional thrust?'
+  𐂷: 'Wood branches into the possibilities symbiogenesis opens: that other evolutionary leaps—like the nucleus or multicellularity—may
+    have symbiotic origins, and that synthetic endosymbioses could be engineered. The foreclosed branch is a world where eukaryotic
+    complexity never emerged, locked in prokaryotic simplicity. Wood asks: What alternate evolutionary trees were pruned when
+    mitochondria became essential, and what dormant branches of partnership might yet sprout from life''s neglected symbioses?'
+  ☷: 'Earth composts the endosymbiont''s autonomy, cycling its genes into the host nucleus and its functions into specialized
+    organelles like mitochondria. This metabolic substrate—the genetic material and cellular structures—is alive, continuously
+    evolving within the eukaryotic framework, not stale but actively decomposing independence. Earth asks: What vestigial
+    selfhood—genetic redundancy or reproductive freedom—had to be decomposed and recycled to transform two distinct organisms
+    into one indivisible being?'
+  ⛨: 'Metal structures symbiogenesis through the rigid evidence of organelle DNA and the asymmetric pressure of host control,
+    which gates gene transfer and constrains division. The theory itself is held together by this structural reinforcement,
+    making the volatile partnership a fixed cellular institution. Metal asks: What architectural rule—in genome organization
+    or membrane dynamics—now maintains this hard-won integration, preventing it from unraveling back into separate, competitive
+    entities?'
+context_note: Symbiogenesis holds together the idea that major evolutionary innovation arises from cooperative, integrative
+  mergers, which fundamentally conflicts with the traditional Darwinian narrative of evolution driven primarily by competitive,
+  gradualistic change.
+source: https://en.wikipedia.org/wiki/Symbiogenesis
+date_processed: '2026-04-22'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
