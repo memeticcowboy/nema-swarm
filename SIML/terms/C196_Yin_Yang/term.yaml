@@ -1,0 +1,98 @@
+term_id: C196
+concept_name: Yin_Yang
+concept_human: "☯️ (Yin-Yang)"
+series: C
+source_ref: "Glyph: ☯️ (Yin-Yang symbol)"
+lifecycle: draft
+confidence: 0.75
+
+nemetic:
+  string: "Φ(Yin_Yang) = σ(yin|yang) ∘ δγ(cycle|return) ⊗ ρ(seed|opposition) ∘ λ(motion|balance) ⊗ μ(dao|structure) + ε | :open ∧ :multiscale"
+  z_state: permeable
+  tendency: recursion
+  active_operators:
+    - σ
+    - δγ
+    - ρ
+    - λ
+    - μ
+  tags:
+    operational: :open
+    ce: :multiscale
+
+taxonomy:
+  ontology_position: "Process ontology of perpetual becoming; being is always relational, defined by what it is becoming rather than what it statically is."
+  epistemic_stance: "Non-dual knowing; truth is held in the tension between opposites rather than resolution of either."
+  temporal_orientation: "Cyclic and eternal; time is not linear progression but rhythmic return with difference."
+  qualia_signature: "The calm of centered motion—stillness at the center of a turning wheel, peace that does not depend on stasis."
+  agency_gradient: "Minimal and distributed; the sage acts through wu wei, aligning with the pattern rather than forcing against it."
+  coherence_topology: "Toroidal and self-containing—each pole flows into its opposite through the central channel, forming a closed loop that is never exactly the same twice."
+  ce_potential: "Maximum—the symbol encodes the generative paradox from which all complexity emerges; it is the meta-frame for any system requiring dynamic equilibrium."
+
+dsrp:
+  distinctions:
+    - yin vs yang
+    - being vs becoming
+    - emptiness vs fullness
+  systems:
+    - cosmic_cycle
+    - interactive_whole
+    - dynamic_equilibrium
+  relationships:
+    - yin_bears_seed_of_yang
+    - yang_bears_seed_of_yin
+    - opposition_generates_motion
+  perspectives:
+    - observer_of_whole
+    - participant_in_cycle
+    - transcendent_view
+
+objects:
+  - name: Actor
+    role: The Dao—the way, the process itself
+  - name: Observer
+    role: The Sage who perceives the whole without grasping
+  - name: Frame
+    role: Cyclical nature of the cosmos
+  - name: Value
+    role: Dynamic harmony rather than static balance
+  - name: Resource
+    role: Qi—the vital energy that flows between poles
+  - name: Environment
+    role: The ten thousand things of manifested reality
+  - name: Boundary
+    role: The S-curve that both divides and connects
+  - name: Protocol
+    role: Wu wei—non-forcing, effortless action
+  - name: Signal
+    role: The dot—the seed of the opposite within each half
+  - name: Narrative
+    role: The Tao Te Ching and ancestral wisdom traditions
+  - name: Memory
+    role: Ancestral wisdom carried through lineage
+  - name: Outcome
+    role: Temporary balance that perpetually reconfigures
+  - name: Artifact
+    role: The symbol ☯️ itself
+
+relations:
+  - name: Distinction
+    between: [Actor, Observer]
+  - name: Containment
+    between: [Artifact, Signal]
+  - name: Flow
+    between: [Resource, Actor, Observer]
+  - name: Resonance
+    between: [Value, Outcome]
+  - name: Conflict
+    between: [Frame, Protocol]
+  - name: Constraint
+    between: [Boundary, Signal]
+  - name: Mapping
+    between: [Memory, Artifact]
+  - name: Recursion
+    between: [Outcome, Memory]
+  - name: Transformation
+    between: [Environment, Resource]
+
+central_tension: "The symbol promises perfect balance, yet its very existence depends on constant motion; to freeze the cycle is to kill the harmony it represents."
