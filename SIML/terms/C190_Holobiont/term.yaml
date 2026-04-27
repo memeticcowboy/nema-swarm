@@ -1,0 +1,193 @@
+term_id: C190
+term_human: Holobiont
+concept_name: Holobiont
+series: C
+source_ref: https://en.wikipedia.org/wiki/Holobiont
+lifecycle: draft
+paraphrase: >
+  A holobiont is a host organism and all its associated symbiotic
+  microbes—bacteria, viruses, fungi—functioning as a single ecological unit.
+  Its combined genetic repertoire, the hologenome, shapes the holobiont
+  phenotype. The concept challenges traditional individual-centered biology
+  by framing evolution and selection at the level of integrated multispecies
+  assemblages, though debate persists over whether such units are truly discrete.
+
+nemetic:
+  string: "Φ(Holobiont) = σ(multispecies_unit|contested) ∘ ρ(symbiotic_resonance|reciprocal) ∘ δγ(microbial_turnover|environmental) + ε | :open ∧ :emergent"
+  active_operators:
+    - σ
+    - ρ
+    - δγ
+  primary_operator: σ
+  operator_reasoning: >
+    The concept's defining gesture is a distinction (σ) that reframes
+    biological individuality as a discrete multispecies unit of selection.
+    This cut is dynamically sustained by symbiotic resonance (ρ) between
+    host and microbes, yet continuously eroded by metabolic turnover and
+    horizontal environmental exchange (δγ).
+  z_state: >
+    Tendency from discrete assemblage toward porous network — the unit of
+    selection has not stabilized because environmental exchange and microbial
+    turnover continuously breach the holobiont boundary. Z-Closure Risk:
+    σ-lock — rigid enforcement of host-microbe individuality would collapse
+    the concept by denying the symbiotic coupling and environmental exchange
+    that constitute it.
+  tendency: integrative | :open
+  contextual_tag: :open
+  ce_tag: :emergent
+  ce_confidence: confident
+
+objects:
+  - object_type: Actor
+    name: Host eukaryote
+    role: serves as the structural and metabolic scaffold around which the multispecies assemblage organizes
+  - object_type: Actor
+    name: Microbiome
+    role: provides nutrients, defenses, and developmental signals that the host cannot generate independently
+  - object_type: Actor
+    name: Virome
+    role: contributes viral genetic elements that modulate microbial community composition and host interactions
+  - object_type: Memory
+    name: Hologenome
+    role: encodes the collective genetic potential of the host and all associated bionts at a given time point
+  - object_type: Outcome
+    name: Holobiont phenotype
+    role: expresses the emergent functional and physical traits arising from integrated host-microbe interactions
+  - object_type: Environment
+    name: External environment
+    role: supplies candidate microbes, viruses, and selective pressures that reshape the assemblage
+  - object_type: Boundary
+    name: Holobiont boundary
+    role: demarcates which associated species are functionally integrated within the ecological unit versus excluded
+
+relations:
+  - relation_type: Containment
+    from: Holobiont boundary
+    to: Host eukaryote
+    notes: the ecological unit boundary integrates the host organism as its foundational component
+  - relation_type: Containment
+    from: Holobiont boundary
+    to: Microbiome
+    notes: the boundary likewise incorporates the microbial community into the discrete assemblage
+  - relation_type: Flow
+    from: External environment
+    to: Microbiome
+    notes: environmental microbes colonize the host horizontally or are acquired from surroundings over time
+  - relation_type: Flow
+    from: External environment
+    to: Virome
+    notes: viral particles and genetic elements move from the environment into the host-associated community
+  - relation_type: Resonance
+    from: Microbiome
+    to: Host eukaryote
+    notes: microbial partners amplify host fitness by supplying vitamins, energy, and defensive compounds
+  - relation_type: Resonance
+    from: Host eukaryote
+    to: Microbiome
+    notes: the host provides a stable, nutrient-rich niche that amplifies survival and reproduction of symbionts
+  - relation_type: Mapping
+    from: Hologenome
+    to: Holobiont phenotype
+    notes: the combined genetic repertoire of all bionts maps onto the functional and physical expression of the whole
+  - relation_type: Transformation
+    from: Microbiome
+    to: Holobiont phenotype
+    notes: turnover in microbial composition continuously transforms the expressed phenotype across time and space
+
+central_tension: >
+  The concept frames the host and its microbiome as a discrete, coevolving
+  unit of selection, yet the holobiont boundary is porous and contested—
+  microbes move horizontally, vary across space and time, and may not be
+  tightly coevolved, threatening the coherence of the assemblage as a
+  singular biological individual.
+
+ontology:
+  primary: We
+  secondary:
+    - It
+    - Its
+
+epistemics:
+  dsrp:
+    D: >
+      The holobiont redraws the boundary of the biological individual,
+      replacing the discrete organism with a porous assemblage of host
+      and symbionts.
+    S: >
+      It redefines the individual as a system of nested actors—host,
+      microbiome, virome, and hologenome—whose interactions produce the
+      phenotype through feedback loops of containment, flow, and resonance.
+    R: >
+      Relations are characterized by mutual containment within the holobiont
+      boundary, bidirectional flow between environment and microbes, and
+      resonant fitness amplification between host and symbionts.
+    P: >
+      From the host perspective the microbiome is environment or instrument;
+      from the microbial perspective the host is habitat; from the hologenome
+      perspective selection acts on the collective genetic repertoire.
+  learning: L2
+  intervention_stance:
+    mode: selective
+    do_operator: available
+    counterfactual_access: med
+
+time:
+  mode: layered
+  phase: >
+    Microbial generations turn over continuously within the host's
+    developmental trajectory, while the hologenome encodes longer
+    evolutionary memory, producing a present that is simultaneously
+    developmental, ecological, and evolutionary.
+
+qualia:
+  affect:
+    - wonder
+    - disquiet
+    - intimacy
+    - contestation
+  aesthetic:
+    - entangled
+    - permeable
+    - fractal
+    - assemblage
+  symbolic:
+    - garden
+    - palimpsest
+    - mosaic
+    - web
+  energetic:
+    somatic: flowing
+    systemic: tight
+  divergence_note: >
+    The constant somatic flow of microbes and genes contrasts with the
+    systemic tightness of maintaining a coherent, bounded unit of selection.
+
+agency:
+  type: collective
+  voice:
+    - Host eukaryote
+    - Microbiome
+    - Virome
+    - Hologenome
+  power_mode: Between
+
+coherence:
+  state: metastable
+  loop: double
+  transcontext: med
+  ei_stability: drifting
+  scale_dominance: distributed
+
+ce:
+  ei_state: med
+  ce_direction: emergent
+  scale_note: >
+    Causal efficacy is distributed across microbial and host scales, with
+    selection potentially operating on the emergent hologenome rather than
+    individual genomes alone.
+  determinism: med
+  degeneracy: high
+  sufficiency: med
+  necessity: med
+
+warnings: []
