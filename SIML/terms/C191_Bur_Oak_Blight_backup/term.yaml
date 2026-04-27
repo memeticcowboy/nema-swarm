@@ -1,0 +1,96 @@
+term_id: C191
+hex_tag: '#C191'
+name: Bur_Oak_Blight
+term: Bur Oak Blight (Tubakia iowensis)
+nemetic: Φ(Bur_Oak_Blight) = σ(host_pathogen_distinction|emergent) ∘ ρ(climate_resonance|wet_spring) ∘ δγ(metabolic_collapse|cycling) + ε | :open ∧ :emergent
+siml_encoding: ⟨Tubakia_iowensis⟩ ⊳ ⟨leaf_tissue⟩ ⟨leaf_tissue⟩ ⊳ ⟨necrotic_lesion⟩ ⟨wet_spring⟩ ⇄ ⟨spore_dispersal⟩ ⟨climate_warming⟩ ⊳ ⟨range_expansion⟩ ⟨tree_death⟩ ⇄ ⟨forest_canopy_gap⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ☷Earth
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: Air distinguishes the emergent cut between healthy bur oak tissue and Tubakia iowensis infection. The signal is the wedge-shaped necrotic lesion; the noise is abiotic leaf scorch and other oak pathogens. The distinction itself is unstable — early infection mimics drought stress, making the cut hard to perceive until the lesion consolidates.'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: Water resonates the coupling between wet spring weather and spore dispersal. The fungus requires moisture for infection; climate patterns that extend wet seasons into summer amplify this resonance. The felt-but-not-named pressure is the Midwestern forester''s dread of a cool wet May.'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: Earth metabolizes the tree''s vascular integrity, cycling carbohydrates downward until the root system starves. Premature defoliation in consecutive years depletes stored reserves. What composts is the tree''s capacity to reflush — each infection season consumes metabolic substrate that cannot be recovered.'
+  Z_state: 'Tendency from permeable toward sealed — the infected tree loses its capacity to distinguish self from pathogen as systemic colonization progresses. Z-Closure Risk: δγ-lock — if the tree''s metabolic reserves are exhausted before the growing season ends, the boundary between living and dead tissue collapses irreversibly.'
+  tendency: expanding | :open
+  hex:
+  - '#C191'
+  - '0xBF'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: Distinction between Tubakia iowensis and other Tubakia species, between pathogenic and endophytic fungal states, and between bur oak blight and abiotic leaf stressors.
+      S: System of oak-fungus interaction spanning phyllosphere colonization, lesion expansion, premature defoliation, and cumulative decline across multiple growing seasons.
+      R: Relationships of containment (fungus within leaf tissue), flow (vascular transport of toxins/nutrients), and conflict (tree defense vs. pathogen virulence).
+      P: Perspectives from the tree (resource allocation under infection), the pathogen (reproduction through host exploitation), the forester (management intervention), and the climate modeler (range shift prediction).
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: management
+      counterfactual_access: med
+  time:
+    mode: cyclical
+    phase: annual infection cycles punctuated by wet spring ephemera; multi-year cumulative decline with potential sudden mortality after 3-5 consecutive severe seasons.
+  qualia:
+    affect:
+    - dread
+    - resignation
+    - vigilance
+    aesthetic:
+    - brown-edged
+    - withered
+    - canopy-thin
+    symbolic:
+    - blight
+    - warning
+    - sentinel
+    energetic:
+      somatic: heavy
+      systemic: depleted
+    divergence_note: The heavy somatic feeling of a diseased canopy — leaves hanging brown in August — contrasts with the depleted systemic energy of the tree attempting to reflush with insufficient reserves.
+  agency:
+    type: more_than_human
+    voice:
+    - Tubakia_iowensis
+    - Quercus_macrocarpa
+    - forester
+    - climate_system
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: degrading
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Bur oak blight demonstrates emergence at the forest-landscape scale — individual tree infections aggregate into canopy gap dynamics that alter microclimate, understory succession, and carbon sequestration across decades.
+    determinism: low
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the diagnostic cut in bur oak blight: the wedge-shaped lesion with a chlorotic halo, veins remaining green while interveinal tissue necroses. The signal is Tubakia iowensis sporulating on dead tissue; the noise is anthracnose, leaf scorch, and insect damage. Air asks: What precise morphological distinction separates bur oak blight from Tubakia dryina on other oak species, and why does that distinction remain invisible to most observers until late summer?'
+  ≈: 'Water resonates the wet spring that Tubakia iowensis requires for spore dispersal and infection. The felt coupling is between rain events in May and the forester''s anxiety in August — a resonance delayed by three months but unmistakable once learned. Water asks: What deeper climatic pattern — beyond simple rainfall totals — determines whether a spring resonates into epidemic conditions or dissipates into endemic background?'
+  ▲: 'Fire directs the pathogen''s metabolic commitment to host exploitation. Tubakia iowensis does not drift; it acts — colonizing vascular tissue, producing phytotoxins, forcing premature abscission. The tree''s counter-commitment is reflush, drawing down reserves. Fire asks: Does bur oak blight point toward a future where climate-driven pathogen range expansion becomes the primary directional force reshaping North American oak forests?'
+  𐂷: 'Wood branches into the possibilities bur oak blight opens: resistant cultivars, phyllosphere microbiome manipulation, predictive climate-based risk models. The foreclosed branch is a world where Quercus macrocarpa remains a dominant urban and rural canopy tree across the Midwest. Wood asks: What alternate forest compositions are pruned when bur oak blight removes mature canopy trees, and what species will sprout from the gap?'
+  ☷: 'Earth composts the infected leaf tissue, cycling fungal mycelium into litter and releasing spores for next spring. But Earth also tracks the tree''s metabolic cost: each defoliation season consumes starch reserves that would otherwise support root growth and defense compound synthesis. Earth asks: What vestigial carbohydrate economy — what unspent metabolic reserve — had to be depleted before the tree shifted from compensating to dying?'
+  ⛨: 'Metal structures bur oak blight through the rigid temperature and moisture thresholds that govern spore germination, the genetic bottlenecks that constrain host range primarily to Quercus macrocarpa, and the management protocols — fungicide timing, sanitation schedules — that attempt to hold the epidemic at bay. Metal asks: What architectural rule in the bur oak genome — what receptor or defense pathway — maintains susceptibility to this specific pathogen, and what would it cost to alter it?'
+context_note: Bur oak blight holds together the tension between an emerging fungal pathogen and a culturally significant native tree species, revealing how climate-driven disease range expansion threatens both ecological stability and urban forest heritage across the Midwestern United States.
+source: https://en.wikipedia.org/wiki/Bur_oak_blight
+date_processed: '2026-04-23'
+processed_by: NemaSwarm/simlab (direct encode)
+siml_version: '1.5'
+lifecycle: draft
