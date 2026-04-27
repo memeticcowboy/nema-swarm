@@ -1,0 +1,98 @@
+term_id: C193
+concept_name: Second_Probe_Referral
+concept_human: Second Probe Referral
+series: C
+source_ref: https://en.wikipedia.org/wiki/Cross-cultural_communication
+lifecycle: draft
+confidence: 0.78
+
+nemetic:
+  string: "Φ(Second_Probe_Referral) = σ(probe|direct_vs_referral) ∘ λ(failure|shift) ⊗ ρ(dominant|co_culture) ∘ μ(mediation|capture) ⊗ δγ(loop|reinforce) + ε | :drift ∧ :emergent"
+  z_state: semi
+  tendency: drift
+  active_operators:
+    - σ
+    - λ
+    - ρ
+    - μ
+    - δγ
+  tags:
+    operational: :drift
+    ce: :emergent
+
+taxonomy:
+  ontology_position: "Situated at the collision point between assumed universal pragmatics and the hierarchical escalation of interpretive frameworks."
+  epistemic_stance: "Critical—exposes the parochialism of universalist communicative assumptions and the authority structures embedded in mediation."
+  temporal_orientation: "Sequential and recursive: initial failure triggers referral, yet the act loops back to reinforce the epistemic hierarchy it attempts to bridge."
+  qualia_signature: "The vertigo of watching your own frame dissolve, replaced by a mediator whose neutrality itself is a power move."
+  agency_gradient: "Asymmetric: dominant-culture speaker initiates, co-cultural respondent is subjected to referral, and the mediating framework absorbs the agency of both."
+  coherence_topology: "A paradox attractor: the surface structure is cooperative repair, the deep structure is epistemic capture—the more it 'helps,' the more it homogenizes."
+  ce_potential: "High: extends to AI intent-alignment, diplomatic protocol, translation ethics, and any system where 'neutral' mediation masks embedded cultural authority."
+
+dsrp:
+  distinctions:
+    - first_probe vs second_probe
+    - direct_communication vs mediated_referral
+    - dominant_norm vs co_culture_strategy
+  systems:
+    - cross_cultural_encounter
+    - communicative_stack
+    - mediation_network
+  relationships:
+    - failure_of_first_probe_triggers_referral
+    - dominant_culture_constrains_initial_probe
+    - co_culture_strategy_enables_second_probe
+  perspectives:
+    - dominant_culture_perspective
+    - co_culture_perspective
+    - mediator_or_broker_perspective
+
+objects:
+  - name: Actor
+    role: Initial communicator attempting cross-cultural contact
+  - name: Observer
+    role: Cultural recipient interpreting the probe
+  - name: Frame
+    role: Dominant cultural norm assumed as default
+  - name: Value
+    role: Mutual understanding sought across divide
+  - name: Resource
+    role: Shared language, translation, or symbolic tool
+  - name: Environment
+    role: Cross-cultural milieu where dominant and co-cultures meet
+  - name: Boundary
+    role: Cultural divide between communicators
+  - name: Protocol
+    role: Referral protocol for second probe mediation
+  - name: Signal
+    role: Verbal and nonverbal cues exchanged
+  - name: Narrative
+    role: Stereotypical assumptions about the other culture
+  - name: Memory
+    role: Past cross-cultural encounters and their outcomes
+  - name: Outcome
+    role: Successful mediation or persistent misunderstanding
+  - name: Artifact
+    role: Translated document or mediated message produced
+
+relations:
+  - name: Distinction
+    between: [Frame, Protocol]
+  - name: Containment
+    between: [Frame, Signal]
+  - name: Flow
+    between: [Resource, Actor, Observer]
+  - name: Resonance
+    between: [Value, Outcome]
+  - name: Conflict
+    between: [Narrative, Protocol]
+  - name: Constraint
+    between: [Boundary, Signal]
+  - name: Mapping
+    between: [Memory, Artifact]
+  - name: Recursion
+    between: [Outcome, Memory]
+  - name: Transformation
+    between: [Environment, Protocol]
+
+central_tension: "The initial communicator assumes their cultural frame is universal (first probe), and when this fails they must refer to a secondary mediating framework (second probe), yet the act of referral itself may reinforce dominant-culture authority and further marginalize co-cultural communicative strategies."
