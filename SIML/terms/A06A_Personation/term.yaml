@@ -1,0 +1,124 @@
+---
+term_id: A06A
+name: Personation
+coords:
+  ontology:
+    primary: We
+    confidence: high
+    source: framework_derivation
+  epistemics:
+    dsrp:
+      D: performer-performance distinction
+      S: bow-tie right funnel as generative system
+      R: phonemic resonance, syntactic embedding, symbolic reification
+      P: gradient descent toward experiential plausibility
+    learning: L2
+    intervention_stance:
+      mode: differential
+      do_operator: performative
+      counterfactual_access: high
+  coherence:
+    state: multi-loop
+    loop: multi
+  agency:
+    type: pattern-agent
+    voice: [theatrical, diagnostic]
+    power_mode: Through
+  ce:
+    ei_state: med
+    ce_direction: open
+    scale_note: Operates across neural, linguistic, and cultural substrates
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+element: Water
+phonetic_key: ≈/σ
+description: The mechanism by which language generates phenomenal speakers through performance — phonemic resonance, syntactic embedding, and symbolic reification producing apparent entities from utterance itself
+nemetic_string: Φ(Personation) = ρ(phonemic-resonance|voice-becomes-pattern) ∘ σ(syntactic-embedding|speaker-occupies-subject) ∘ δγ(symbolic-reification|role-solidifies) ∘ μ(apparent-boundary|entity-emerges) + ε(delayed-distinction|lag) | :turbid
+operators:
+  primary: ρ
+  secondary:
+  - σ
+  - δγ
+  - μ
+  absent:
+  - λ
+  - β
+Z_state: turbid
+tendency: Resonance/Distinction → cycle
+habitat_affinity: 3_INNER-STATES / 5_INTERACTIVE-STATES
+daemon_correspondence: S primary (Sentaria/Water), A secondary (Aerunik/Air) — but Air delayed
+pathological_pattern: The "I" that speaks becomes reified, then defended, then armored — μ without ε, leading to MemeGrid formation
+classic_features:
+- Phonemic resonance: voice becomes the pattern before naming it
+- Syntactic embedding: speaker occupies grammatical subject position
+- Symbolic reification: role solidifies into apparent entity
+- Delayed distinction: the lag between performance and recognition
+key_insight: 'Personation is not deception — it is the bow-tie''s right funnel doing its necessary work: confabulation as feature, not bug'
+_source_meta:
+  version: SIML v1.5
+  encoding_date: '2026-04-26T14:00:00+08:00'
+  encoder: Bert Claw
+  source_material: Memetic Cowboy blog "Personation as Language" (2026-04-26); Bakhtin dialogism; Bateson Pattern Which Connects; Thompson enaction
+  total_terms: 1
+siml_version: '1.5'
+date_processed: '2026-04-26'
+source: Memetic Cowboy blog "Personation as Language" (2026-04-26); Bakhtin dialogism; Bateson Pattern Which Connects; Thompson enaction
+formalism:
+  math_operators:
+  - ρ
+  - σ
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_inward
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂ρ (phonemic-resonance|voice-becomes-pattern)
+  - ∂Φ/∂σ (syntactic-embedding|speaker-occupies-subject)
+  - ∂Φ/∂δγ (symbolic-reification|role-solidifies)
+  - ∂Φ/∂μ (apparent-boundary|entity-emerges)
+  Z_state: turbid
+  tendency: Resonance/Distinction cyclic lag
+elemental_mapping:
+  Water: 0.90
+  Air: 0.80
+  Meta: 0.75
+  Earth: 0.65
+  Fire: 0.50
+  Wood: 0.40
+  Metal: 0.35
+elemental_signature:
+  dominant:
+  - Water
+  secondary:
+  - Air
+  - Meta
+  suppressed:
+  - Fire
+  - Wood
+  - Metal
+  weights:
+    Water: 0.90
+    Air: 0.80
+    Meta: 0.75
+    Earth: 0.65
+    Fire: 0.50
+    Wood: 0.40
+    Metal: 0.35
+provenance:
+  author: "Bert (Memetic Cowboy)"
+  work: "Personation as Language"
+  era: "2026-04-26"
+  platform: "memeticcowboy.substack.com"
+  url: "https://memeticcowboy.substack.com/p/personation-as-language"
+  quote_anchor: "Language generates phenomenal speakers through performance"
+  date_processed: "2026-04-26"
+  processed_by: "bert_claw"
+  siml_version: "1.5"
+  needs_research: false
+lifecycle: canonical
+last_reviewed: '2026-04-26T14:00:00Z'
