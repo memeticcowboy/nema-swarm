@@ -1,0 +1,98 @@
+term_id: C195
+concept_name: LIFO_Delayering
+concept_human: LIFO (Last-In First-Out) Delayering
+series: C
+source_ref: https://en.wikipedia.org/wiki/Intercultural_communication_principles
+lifecycle: draft
+confidence: 0.82
+
+nemetic:
+  string: "Φ(LIFO_Delayering) = μ(layer|stack) ∘ σ(recent|deep) ⊗ λ(peel|lifo) ∘ ρ(ignorance|defense) ⊗ β(assumed|emergent) + ε | :drift ∧ :emergent"
+  z_state: permeable
+  tendency: drift
+  active_operators:
+    - μ
+    - σ
+    - λ
+    - ρ
+    - β
+  tags:
+    operational: :drift
+    ce: :emergent
+
+taxonomy:
+  ontology_position: "Straddles process and substance ontology, treating cultural identity as a layered stack where emergent protocols form only through deliberate retrograde peeling of recent assumptions."
+  epistemic_stance: "Knowledge is interaction-indexed and perspectival; valid understanding emerges from mutual deconstruction of assumed frames rather than pre-existing normative truths."
+  temporal_orientation: "Retrograde—progress demands moving backward through accumulated layers, dissolving the most recent adaptations first to expose deeper shared structure."
+  qualia_signature: "Vulnerability-as-peeling: the disorienting sensation of shedding comfortable assumptions to reveal raw communicative potential beneath the boundary."
+  agency_gradient: "Distributed and iterative—neither party controls the frame; agency arises through recursive negotiation of protocol within constrained misalignment."
+  coherence_topology: "Layered-stack with toroidal closure—surface assumptions wrap and defend a core; coherence emerges when parties recognize depth beneath crossed boundaries."
+  ce_potential: "High—the metaprotocol transforms defensive boundary encounters into generative synthesis, crystallizing new symbolic resources from disciplined layer-shedding."
+
+dsrp:
+  distinctions:
+    - recent_cultural_layer vs deep_cultural_structure
+    - assumed_protocol vs emergent_protocol
+    - threatening_boundary vs inviting_boundary
+  systems:
+    - intercultural_encounter_as_stack
+    - symbolic_exchange_system
+    - layered_identity_system
+  relationships:
+    - recent_layer_maps_to_first_vulnerability
+    - boundary_contains_and_constrains_flow
+    - mutual_ignorance_feeds_defensive_response
+  perspectives:
+    - insider_perspective_on_respect
+    - outsider_perspective_on_disrespect
+    - systemic_observer_viewing_stack_operations
+
+objects:
+  - name: Actor
+    role: Communicator carrying layered cultural norms
+  - name: Observer
+    role: Cultural other perceiving and interpreting signals
+  - name: Frame
+    role: Normative rules shaping right and wrong within each culture
+  - name: Value
+    role: Mutual respect sought across the boundary
+  - name: Resource
+    role: Shared symbols available for exchange
+  - name: Environment
+    role: Unstructured milieu where stable cultures collide
+  - name: Boundary
+    role: Cultural boundary that is both crossed and defended
+  - name: Protocol
+    role: Emergent communication principles negotiated in real time
+  - name: Signal
+    role: Behavioral cues like eye contact, tone, gesture
+  - name: Narrative
+    role: Pre-existing assumptions about how respect is shown
+  - name: Memory
+    role: Cultural knowledge of golden rules and past encounters
+  - name: Outcome
+    role: Meaningful exchange or antagonistic misunderstanding
+  - name: Artifact
+    role: Symbolic expressions produced during interaction
+
+relations:
+  - name: Distinction
+    between: [Frame, Protocol]
+  - name: Containment
+    between: [Frame, Signal]
+  - name: Flow
+    between: [Resource, Actor, Observer]
+  - name: Resonance
+    between: [Value, Outcome]
+  - name: Conflict
+    between: [Narrative, Protocol]
+  - name: Constraint
+    between: [Boundary, Signal]
+  - name: Mapping
+    between: [Memory, Artifact]
+  - name: Recursion
+    between: [Outcome, Memory]
+  - name: Transformation
+    between: [Environment, Protocol]
+
+central_tension: "The communicator must shed their most recent, most superficial cultural layers (last-in) first in order to prevent defensive responses and allow emergent protocols to form, yet these recent layers are precisely what feel most natural and are hardest to recognize as removable."
