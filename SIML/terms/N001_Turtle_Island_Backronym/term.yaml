@@ -1,0 +1,127 @@
+term_id: N001
+hex_tag: '#N001'
+name: Turtle_Island_Backronym
+term: Turtle Island Backronym
+nemetic: Φ(Turtle_Island_Backronym) = σ(worldview_dichotomy|sacred_vs_extractive) ∘ ρ(ancestral_resonance|reciprocal) ∘ λ(pilgrim_transformation|integrative)
+  + ε | :open ∧ :multiscale
+siml_encoding: ⟨extractive backronym⟩ ⊳ ⟨reciprocal backronym⟩ ⟨reciprocal backronym⟩ ⊳ ⟨pilgrim⟩ ⟨Turtle Island narrative⟩
+  ⊳ ⟨land⟩ ⟨land⟩ ⇄ ⟨pilgrim⟩ ⟨colonial map⟩ ⇄ ⟨land⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from semi toward permeable — the backronym holds a dynamic tension between worldviews, facilitating a
+    shift from objectification to participatory care. Z-Closure Risk: σ-lock — if the distinction hardens into a rigid dichotomy,
+    it would collapse the fluid interplay necessary for genuine transformation and resonance.'
+  tendency: directed | :open
+  hex:
+  - '#N001'
+  - '0x03'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: Distinguishes between the reciprocal backronym (land as kin for care) and extractive backronym (land as resource
+        for exploitation).
+      S: The system encompasses the Turtle Island narrative, physical land, pilgrim participants, and their interrelationships,
+        forming a holistic, participatory ecosystem.
+      R: Relationships include flow of care and attention, resonance with ancestral memory, and conflict between indigenous
+        and colonial frames.
+      P: Perspectives range from the sacred, participatory view of land as living story to the instrumental, managerial view
+        of land as commodified territory.
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: layered
+    phase: ongoing remembrance and participation in the land's living story, blending ancestral memory with present engagement.
+  qualia:
+    affect:
+    - sacred
+    - connected
+    - conflicted
+    - reverent
+    aesthetic:
+    - topographic
+    - earthy
+    - narrative
+    - sacred
+    symbolic:
+    - cradle
+    - ember
+    - vein
+    energetic:
+      somatic: flowing
+      systemic: tight
+    divergence_note: The pilgrim's somatic flow of attention contrasts with the systemic tightness of legal and resource constraints
+      on land.
+  agency:
+    type: more_than_human
+    voice:
+    - pilgrim
+    - land
+    - Turtle Island narrative
+    - colonial frame
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: triple
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: The concept operates across nested scales, from the pilgrim's attention to the watershed's ecology, with emergence
+      at each level.
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the fundamental cut between land as living kin and land as commodified resource, embodied in the reciprocal
+    backronym versus the extractive one. The signal is the sacred, participatory narrative of Turtle Island; the noise is
+    the instrumental mapping of colonial territory. Air asks: What precise distinction separates a territory under life-exchange
+    from one under legal enclosure, and who wields the power to make that cut?'
+  ≈: 'Water reveals the resonant coupling between the pilgrim and the land''s memory, a felt connection that dissolves separation
+    through attention and dance. This resonance enables a flow of care and nourishment, contrasting with the flat, objectified
+    relation in extractive views. Water asks: What unspoken current must flow between human and land for true reciprocity
+    to emerge, and when does that resonance become a mere echo of forgotten kinship?'
+  ▲: 'Fire directs the metabolic energy towards either sustaining reciprocal kinship or fueling exploitative extraction, with
+    the alive commitment being to land as participant in story. The simulated direction is reflected in colonial management
+    that treats land as dead asset. Fire asks: Which path consumes vitality more authentically—the dance of participatory
+    remembrance or the tracking of resources—and what is that energy ultimately destined to create?'
+  𐂷: 'Wood branches into alternative possibilities for reframing land beyond the binary opposition of reciprocal versus extractive
+    backronyms. Other narratives or hybrid forms could emerge, such as transitional or integrated relationships, but are foreclosed
+    by the entrenched conflict. Wood asks: What third way of relating to land could sprout if we allowed the branches of sacred
+    connection and practical use to grow together rather than apart?'
+  ☷: 'Earth composts the stale, extractive frameworks that treat land as a surveyed commodity, cycling them into substrate
+    for new, living relationships of reciprocal exchange. The metabolic substrate is the land itself, which must be released
+    from colonial maps to nourish ancestral memory and care. Earth asks: What residues of instrumental thinking must fully
+    decay before the land can be composted back into a story of kin rather than a resource to be managed?'
+  ⛨: 'Metal structures the tension between worldviews through the backronym''s gatekeeping function, holding together opposing
+    meanings of territory under a single acronymic frame. The asymmetric pressure favors extractive views in colonial systems,
+    but the reciprocal frame acts as a resistant counter-structure. Metal asks: What structural hinge allows a pilgrim to
+    pass from seeing land as resource to experiencing it as kin, and what holds that gate firm against collapse into one worldview?'
+context_note: The concept holds together the reciprocal, indigenous worldview of land as living kin with the extractive, colonial
+  worldview of land as resource, revealing the tension between participation in sacred exchange and exploitation for commodification.
+source: (pasted text)
+date_processed: '2026-04-27'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
