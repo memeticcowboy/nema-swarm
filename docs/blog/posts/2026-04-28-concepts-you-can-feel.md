@@ -6,7 +6,13 @@
 
 <div class="audio-player" markdown="1">
 
-[concepts you can feel — audio (9:21)](<../audio/2026-04-28-concepts-you-can-feel/2026-04-28-concepts-you-can-feel.mp3>)
+<audio controls preload="metadata" style="width: 100%; max-width: 600px;">
+  <source src="https://media.githubusercontent.com/media/memeticcowboy/nema-swarm/main/docs/blog/audio/2026-04-28-concepts-you-can-feel/2026-04-28-concepts-you-can-feel.mp3" type="audio/mpeg">
+  Your browser doesn't support inline audio.
+  [download the mp3](<https://media.githubusercontent.com/media/memeticcowboy/nema-swarm/main/docs/blog/audio/2026-04-28-concepts-you-can-feel/2026-04-28-concepts-you-can-feel.mp3>)
+</audio>
+
+*concepts you can feel — audio reflection (9:21)*
 
 </div>
 
