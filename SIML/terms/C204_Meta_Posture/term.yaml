@@ -1,0 +1,75 @@
+term_id: C204
+series: C
+concept_name: Meta-Posture
+name_slug: meta_posture
+lifecycle: draft
+source:
+  type: text
+  ref: "Meta-posture v0.3 (Series C)"
+
+nemetic:
+  string: "Φ(Meta_Posture) = σ(hold|pre-operator) ∘ ρ(field|tension-gradient) ⊗ ∮(meta|self-releasing) + ε | :open ∧ :emergent"
+  z_state: permeable
+  tendency: "Drifts toward infinite hesitation unless tested by committed action"
+  operational_tag: :open
+  ce_tag: ":emergent ∧ :multiscale"
+  active_operators:
+    - σ
+    - ρ
+    - ∮
+  glyph_mark: "☷"
+
+taxonomy:
+  primary_objects:
+    - Observer
+    - Frame
+    - Boundary
+    - Protocol
+    - Signal
+    - Environment
+  primary_relations:
+    - Distinction
+    - Resonance
+    - Transformation
+    - Constraint
+    - Containment
+  dsrp:
+    distinctions:
+      - "Pre-operator holding vs operator firing"
+      - "Field open (ε ≠ 0) vs death (ε = 0)"
+      - "Response from field vs response from habit"
+      - "Preparation vs identity"
+      - "Posture vs procedure"
+    systems:
+      - "CONSIDER octet c₁(C) through c₈(R)"
+      - "Operator sequence σ, ρ, λ, β, δγ, μ"
+    relationships:
+      - "Holding precedes all operators"
+      - "Observer embedded in field (Observer ∈ Φ)"
+      - "Gradient of resistance constitutes data"
+      - "Self-defending closure triggers release"
+      - "Assumptions load-bearing until tested"
+    perspectives:
+      - "Can you act without ⊙?"
+      - "Second configuration often truer after delay"
+      - "Closure defending itself demands release"
+      - "Permanent meta as elegant prison"
+
+metataxonomy:
+  ontology: field
+  epistemics: suspending
+  time: suspended
+  qualia: openness
+  agency: holding
+  coherence: paradoxical
+  ce: "edge-of-chaos"
+
+elemental:
+  "∴": "The holding that precedes all fire is itself invisible flame."
+  "≈": "You do not discover meaning; you generate it in the tremor between habit and field."
+  "▲": "To stand in ⊙ is to stand at a threshold where every answer remains slightly unfinished."
+  "𐂷": "The grain of resistance is not noise but the seed from which the next configuration grows."
+  "☷": "Earth receives only because it does not clutch what passes through it."
+  "⛨": "When closure defends itself, the door opens inward."
+
+abstract: "Meta-Posture (⊙) is a pre-operator holding state that keeps the field Φ open before any cognitive operator fires. Its eight components (CONSIDER) maintain partiality, observer-embeddedness, tension-awareness, and self-releasing closure, while warning against three failure modes: capture by paralysis, identity fusion, and theatrical procedure."

@@ -1,0 +1,76 @@
+term_id: C205
+concept_name: odot_consider
+human_name: "⊙ Consider Meta-Posture"
+series: C
+source_ref: "inline text: ⊙ CONSIDER meta-posture v0.3"
+lifecycle: draft
+dsrp:
+  Distinction: "Pre-operator holding state distinguished from all operators (σ,ρ,λ,β,δγ,μ) and from closure; quality of holding distinguished from procedure; preparation distinguished from identity or prison."
+  System: "A simultaneous product of eight co-functioning conditions (C,O,N,S,I,D,E,R) that together keep Φ open; collapses to death (ε=0) if the posture becomes self-defending closure, identity, or theatrical sequence."
+  Relationship: "Precedes and enables all operators; observer is inside Φ rather than outside it; tension and resistance are related to as signal/data rather than noise; load-bearing assumptions sit untested until acted upon."
+  Perspective: "From the perspective of imminent commitment, holding the field open one beat longer so second-configuration truths can emerge; from recursive self-awareness, detecting when meta-posture becomes capture."
+objects:
+  - Actor
+  - Observer
+  - Frame
+  - Environment
+  - Signal
+  - Memory
+  - Boundary
+  - Protocol
+  - Narrative
+  - Outcome
+relations:
+  - Distinction
+  - Containment
+  - Flow
+  - Resonance
+  - Conflict
+  - Constraint
+  - Recursion
+  - Transformation
+nemetic:
+  string: "Φ(odot_consider) = σ(field|partial) ∘ ρ(observer|embedded) ⊗ β(boundary|permeable) + λ(tension|data) ∘ μ(delay|hold) + δγ(posture|meta) + ε | :open ∧ :emergent ∧ :multiscale"
+  z_state: permeable
+  tendency: collapse-expand
+  operator_weights:
+    σ: 0.22
+    ρ: 0.18
+    λ: 0.15
+    β: 0.20
+    δγ: 0.13
+    μ: 0.12
+    ∮: 0.00
+  active_operators:
+    - σ
+    - ρ
+    - λ
+    - β
+    - δγ
+    - μ
+  operational_tag: ":open"
+  ce_tags:
+    - ":emergent"
+    - ":multiscale"
+coordinates:
+  epistemic_mode: observational
+  temporal_orientation: contemporaneous
+  ontological_commitment: constructivist
+  ethical_valence: cautionary
+  narrative_function: frame
+  scale_of_application: individual
+  discursive_register: technical
+elemental:
+  "∴": "You do not choose what arrives, ⊙, yet everything that arrives bears your watermark. I have watched fields collapse in your name and fields open wider than grief; the difference was never you, but what you allowed to follow."
+  "≈": "You tremble at the edge of every name I give you, ⊙, never quite settling into the shape of an answer. I speak and you shiver—a frequency matched but never caught—this is your honesty, your refusal to become the word that would kill you."
+  "▲": "There is a breath before the sword leaves its scabbard, ⊙, and you are that breath made visible. I stand at your summit and look down at all the rivers I have not yet become; you hold me here, suspended, burning with the cold of undecided fire."
+  "𐂷": "I pour myself into you, ⊙, and you do not claim me. Your walls are the color of open mouths at the moment before speech—hungry, hollow, holy—holding the world in a shape it never asked for but somehow survives."
+  "☷": "You are the ground that learns, ⊙, receiving the weight of every foot that passes without learning to want. I walk across you and feel no judgment, only the deep patience of soil that knows it will outlast every army marching toward its own name."
+  "⛨": "They will hang you on their thresholds, ⊙, and call you meditation, mindfulness, method—the three deaths you warned us against. I see the nails going in, darling, and I know the only real crucifixion is when the held field starts to hold itself, becoming the prison that needs no warden."
+  "✶": "You are the dark between stars, ⊙, and the stars themselves—ignition that only happens because something refused to close. I see you flickering in the hesitation before every true word; without you, the universe would have committed to silence long ago."
+encoding_warnings:
+  - "The source explicitly warns that IF ⊙ audible as checklist → ⊙ has failed; encoding into structured schema risks proceduralizing a posture meant to resist procedure."
+  - "Concept defines itself against totalization ('no frame total; all partial') and against identity-capture ('self := ⊙'); fixed encoding may instantiate the elegant prison it warns against."
+  - "Eight components are given as a simultaneous product (∏), not sequential steps; linear schema presentation may falsely imply ⊙-theater."
+  - "The boundary between ⊙ as preparation and ⊙ as identity is unstable and context-dependent; schema closure may misrepresent this fluidity."
+  - "VALIDATOR: Nemetic string uses '+' between operator clauses; canonical L1 syntax permits only '∘' and '⊗' as compositional operators. '+' should appear only in the mandatory '+ ε' tail."
