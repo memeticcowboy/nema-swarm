@@ -1,0 +1,115 @@
+# --- Identity ---
+term_id: C189
+hex_tag: '#C189'
+name: Ineffable_Intelligence
+term: Ineffable Intelligence
+
+# --- Nemetic String (L1 compression) ---
+nemetic: >-
+  Φ(Ineffable_Intelligence) = λ(superlearning|self_directed) ∘ β(simulated_worlds|exploratory) ∘ σ(distinction|human_data_independent) + ε | :open ∧ :emergent
+
+# --- SIML Encoding ---
+siml_encoding: >-
+  ⟨AI_agent⟩ ⊳ ⟨reinforcement_learning|trial_error⟩ ⇄ ⟨superintelligence|self_discovered⟩ ⟨simulation_environment⟩ ⊳ ⟨learning_loop|unbounded⟩ ⇄ ⟨human_data|finite⟩ ⟨renewable_fuel|indefinite⟩
+
+# --- Formalism ---
+formalism:
+  math_operators:
+  - λ
+  - β
+  - σ
+  dim_operators:
+  - ▲Fire
+  - 𐂷Wood
+  - ∴Air
+  partials:
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: Directional thrust toward superintelligence through self-directed learning. The telos is first contact with systems that discover new science, technology, and governance on their own.'
+  - '∂Φ/∂β — how β (Wood) shapes this term: Exploratory branching within simulated worlds where agents learn through trial and error. The simulation becomes the generative substrate for capability emergence.'
+  - '∂Φ/∂σ — how σ (Air) shapes this term: Sharp distinction between human-data-dependent LLMs and self-learning systems. Cuts between finite human knowledge and renewable machine discovery.'
+  Z_state: 'Tendency toward semi — the ambition for superintelligence creates pressure toward closure (the ineffable made manifest), yet the method (open-ended RL exploration) maintains permeability. Z-Closure Risk: λ-lock — if the directional thrust toward superintelligence overrides safety observability.'
+  tendency: directed | :semi
+  hex:
+  - '#C189'
+  - '0x03'
+  - '0x04'
+  - '0x01'
+
+# --- Coordinates (MetaTaxonomy Overlay) ---
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - Virtual
+    - We
+  epistemics:
+    dsrp:
+      D: Ineffable Intelligence is distinguished from LLM-scaling approaches by its reliance on self-directed reinforcement learning rather than human data extraction. The ineffable = that which cannot be captured in human language or training data.
+      S: The system comprises AI agents, simulated environments, reward signals, the learning loop, the finite/renewable fuel distinction, and the observability safety layer. Silver's pre-Darwin biology metaphor suggests AI science lacks a unified theory of intelligence.
+      R: Relationships include constraint (simulation bounds), flow (learning from experience), mapping (AI-to-world interaction), transformation (trial-and-error capability building), and resonance (agent-agent collaboration). The relation to human intelligence is one of distinction/ transcendence.
+      P: The perspective is that of the agent learning within simulation, and Silver's own researcher stance seeking first contact with superintelligence. The charitable pledge signals a We-perspective on benefit distribution.
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: theoretical
+      counterfactual_access: med
+  time:
+    mode: anticipatory
+    phase: pre-emergence — the moment before first contact, where the conditions are being prepared
+  qualia:
+    affect:
+    - ambitious
+    - urgent
+    - responsible
+    - wonder
+    aesthetic:
+    - pure
+    - elegant
+    - vast
+    - ineffable
+    symbolic:
+    - first_contact
+    - simulation
+    - renewable_fuel
+    - flat_earth_thought_experiment
+    - Darwin_moment
+    energetic:
+      somatic: surging
+      systemic: critical
+  agency:
+    type: collective
+    voice:
+    - Silver
+    - AI_agent
+    - humanity
+    power_mode: Through
+  coherence:
+    state: metastable
+    loop: triple
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: contested
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Micro-scale agent learning generates macro-scale superintelligence; the simulation boundary creates a scale interface where emergent capabilities can be observed before real-world deployment.
+    determinism: low
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+
+# --- Elemental Emphasis (Sixfold Inquiry) ---
+elemental_emphasis:
+  ∴: 'Air asks: What is the precise distinction between learning from human data and learning from self-directed trial? Where is the line drawn between finite fuel and renewable discovery?'
+  ≈: 'Water senses the resonance between AlphaGo's board intuition and the ineffable — both operate beneath linguistic articulation. What flows between the simulated agent and its environment that cannot be captured in words?'
+  ▲: 'Fire illuminates the directional thrust toward superintelligence and the charitable pledge that orients it toward human benefit. What is the telos of first contact — discovery for its own sake, or service to humanity?'
+  𐂷: 'Wood envisions the branching possibilities within simulation space — the trial-and-error exploration that generates capabilities unbounded by human precedent. What worlds remain unsimulated, and what capabilities unlearned?'
+  ☷: 'Earth grounds the metabolic cycle where failed attempts are composted into learning signal, and the billion-dollar fuel that enables the research. What waste products must be metabolized to keep the cycle fertile?'
+  ⛨: 'Metal structures the safety observability — the simulation boundary that allows watching how agents behave toward lesser intelligences before real-world release. Which boundary is the keystone, and where might pressure cause failure?'
+
+# --- Context ---
+context_note: David Silver's Ineffable Intelligence represents a bet against LLM scaling and for self-directed RL as the path to superintelligence. The "ineffable" = what cannot be captured in human language or data — intelligence that discovers what humans have not yet articulated.
+source: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/
+date_processed: '2026-04-28'
+processed_by: MC/manual (daemon timeout)
+siml_version: '1.5'
+lifecycle: draft

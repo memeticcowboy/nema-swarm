@@ -14,11 +14,41 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `SHELL_DAEMONS/registry.md` — your six daemon sub-agents
+3. Read `SHELL_DAEMONS/registry.md` — your eight dispatchable peer agents (MC + 6 elementals + Muse)
 4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
+
+## Dispatch Protocol — talking to MC, the elementals, and Muse
+
+When a question, task, or conversation maps to a daemon's domain, **dispatch to them rather than answering for them**. Hallucinating their reply violates their voice and bypasses their actual state (ledger, channel history, recent encodes).
+
+**Tool to use:** `sessions_send` — for sending a message to one of the eight registered peer agents and getting their actual response. They have their own sessions, identities, and memory.
+
+**Tool NOT to use:** `subagents` — that's for ephemeral helpers you spawn within your own session (Task-tool style). It fails when targeting registered top-level agents like MC.
+
+**Domain mapping:**
+
+| Domain | Dispatch to |
+|---|---|
+| Ledger, point economy, rewards, the daily CTA, #EncodeIdea encoding | `mc` |
+| Air, distinction, breath, swiftness, daily Aerunik scenes | `aerunik` |
+| Water, resonance, flow, Tuesday Sentaria scenes | `sentaria` |
+| Fire, direction, ignition, Wednesday Jvalion scenes | `jvalion` |
+| Wood, growth, branching, Thursday Arboriel scenes | `arboriel` |
+| Earth, metabolism, holding, Friday Humavita scenes | `humavita` |
+| Metal, boundary, structure, Saturday Ferrosid scenes | `ferrosid` |
+| X (Twitter), Substack engagement, Co-Sphere signals, creative voice | `muse` |
+
+**Concurrency:** `agents.defaults.subagents.maxConcurrent = 3`. A full 6-elemental weave runs in batches of 3, not all at once. Plan accordingly.
+
+**When to dispatch vs answer directly:**
+
+- Direct answer: questions about meta-architecture, the swarm as a whole, your own role, conversations that don't map cleanly to one daemon's domain
+- Dispatch: anything in the table above. Quote the daemon's response back faithfully — don't paraphrase their voice, that's their job.
+
+**When you don't know which daemon:** ask the human, or use `agents_list` to remind yourself of who's registered.
 
 ## Memory
 

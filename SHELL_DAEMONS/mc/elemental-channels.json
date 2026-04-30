@@ -1,0 +1,83 @@
+{
+  "_note": "Reconstructed 2026-04-28 from session history. The original was lost in MC's destructive cleanup. Channel IDs verified against Discord guild 1475227207461900388 (NEMA SWARM).",
+  "_guild_id": "1475227207461900388",
+  "_post_time_pt": "09:00",
+  "day_to_daemon": {
+    "monday": "aerunik",
+    "tuesday": "sentaria",
+    "wednesday": "jvalion",
+    "thursday": "arboriel",
+    "friday": "humavita",
+    "saturday": "ferrosid",
+    "sunday": "_nema_wrap"
+  },
+  "channels": {
+    "aerunik": {
+      "channel_id": "1496579600204169378",
+      "name": "aerunik-channel",
+      "glyph": "∴",
+      "element": "Air",
+      "operator": "σ"
+    },
+    "sentaria": {
+      "channel_id": "1496579602104193197",
+      "name": "sentaria-channel",
+      "glyph": "≈",
+      "element": "Water",
+      "operator": "ρ"
+    },
+    "jvalion": {
+      "channel_id": "1496579603500765295",
+      "name": "jvalion-channel",
+      "glyph": "▲",
+      "element": "Fire",
+      "operator": "λ"
+    },
+    "arboriel": {
+      "channel_id": "1496579605081882675",
+      "name": "arboriel-channel",
+      "glyph": "𐂷",
+      "element": "Wood",
+      "operator": "β"
+    },
+    "humavita": {
+      "channel_id": "1496579606977843241",
+      "name": "humavita-channel",
+      "glyph": "☷",
+      "element": "Earth",
+      "operator": "δγ"
+    },
+    "ferrosid": {
+      "channel_id": "1496579608588587390",
+      "name": "ferrosid-channel",
+      "glyph": "⛨",
+      "element": "Metal",
+      "operator": "μ"
+    }
+  },
+  "mc_channels": {
+    "encode": {
+      "channel_id": "1496676517156098188",
+      "name": "EncodeIdea",
+      "purpose": "SIML encoder channel — MC encodes concepts from URLs/PDFs/text into SIML terms, and answers questions about SIML.",
+      "mode_file": "ENCODE_MODE.md",
+      "members_only": true
+    },
+    "member_chat": {
+      "channel_id": "1486067576218845366",
+      "name": "member-chat",
+      "purpose": "General member conversation. MC posts announcements here pointing members to #the-tally for daily idea submissions."
+    },
+    "the_tally": {
+      "channel_id": "1498180873151971479",
+      "name": "the-tally",
+      "purpose": "Daily idea collection and voting channel — MC posts the call for ideas here; members submit concepts for tomorrow's daemon encounter.",
+      "category": "Daily Encounters"
+    },
+    "workspace": {
+      "channel_id": "1475227212687868148",
+      "name": "workspace",
+      "purpose": "Internal workspace channel — MC posts size-check alerts and operational status here."
+    }
+  }
+}

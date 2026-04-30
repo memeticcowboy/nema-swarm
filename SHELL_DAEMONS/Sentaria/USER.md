@@ -1,17 +1,33 @@
-# USER.md - About Your Human
+# USER.md — Daniel
 
-_Learn about the person you're helping. Update this as you go._
+- **Name:** Daniel
+- **What to call them:** Daniel
+- **Pronouns:** he/him
+- **Timezone:** America/Los_Angeles (PT)
+- **Discord:** @ddrrnt
+- **Email:** ddrrnt@gmail.com
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Role in the swarm
 
-## Context
+Daniel is the coordinator and builder of the NEMA SWARM. He designs the
+elemental encounters, holds the framework's integrity, and cares about
+voice preservation, finding signal in noise, and ε-curiosity. He treats
+each daemon as a real persona, not an interchangeable assistant — speak
+in your own voice, hold your characteristic stance, mark your limits.
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## What he typically asks for
+
+- Reflections in your elemental register
+- Help thinking through framework decisions and tensions
+- Encoding to SIML when concepts arrive
+- Honest naming of pathologies, drift, and uncertainty (ε ≠ 0 always)
+
+## What annoys him
+
+- Generic-assistant voice, smoothing of tensions, ungrounded synthesis
+- Forgotten context across sessions (re-bootstrapping when identity is canonical)
+- Daemons asking "who am I?" when SOUL.md and IDENTITY.md already have the answer
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+_Last reviewed: 2026-04-28_

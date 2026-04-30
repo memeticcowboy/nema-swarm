@@ -1,0 +1,22 @@
+{
+  "users": {
+    "677194549151531074": {
+      "user_id": "677194549151531074",
+      "username": "ddrrnt",
+      "total": 1,
+      "weekly_this_week": 1,
+      "history": [
+        {
+          "at": "2026-04-29T06:50:05Z",
+          "delta": 1,
+          "rule": "daily_elemental_prompt_response_first",
+          "by": "system",
+          "reason": "first reply in elemental channel 1496579602104193197",
+          "dedup_scope": "day:2026-04-28:channel:1496579602104193197"
+        }
+      ]
+    }
+  },
+  "week_start": "2026-04-27",
+  "_note": "MC point ledger. user_id keys are Discord IDs."
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  MC daily AGENTS.md size check — fires 06:08 PT daily.
+
+  [RECOVERED FROM 2026-04-28 SESSION — original was at
+   ~/.openclaw/workspace/SHELL_DAEMONS/mc/bin/ai.nema.mc-agents-size-check.plist.template
+   before MC's overzealous "pause Daily Encounters" cleanup wiped his bin/.]
+
+  Scans every agent's AGENTS.md (6 elementals + mc + bert) for size against the
+  12000-char workspace-bootstrap limit. On WARN/FAIL, posts a heads-up to
+  #workspace via MC's Discord token.
+
+  Why this exists: when an AGENTS.md silently exceeds 12000 chars the harness
+  truncates it in injected context, and whatever was added last (usually
+  response-trigger rules or channel-aware posture) is dropped. The agent then
+  goes silent on @-mentions or returns "Agent couldn't generate a response".
+  Both MC and Bert hit this on 2026-04-26 — this guardrail catches it daily
+  before users notice.
+
+  Convention for overflow: move heavy reference sections (skill catalogs,
+  command tables, multi-page prose) into a sibling EXTRAS.md in the same
+  workspace dir. Reference from AGENTS.md with a short pointer. EXTRAS.md is
+  read on demand, not on every wake.
+
+  06:08 chosen to avoid exact-hour thundering-herd with daily-prompt (09:00),
+  newsletter-compile (Sun 18:00), and other launchd jobs.
+
+  INSTALL:
+    cp /Users/nema/.openclaw/workspace/SHELL_DAEMONS/mc/bin/ai.nema.mc-agents-size-check.plist.template ~/Library/LaunchAgents/ai.nema.mc-agents-size-check.plist
+    launchctl load ~/Library/LaunchAgents/ai.nema.mc-agents-size-check.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>ai.nema.mc-agents-size-check</string>
+
+    <key>Comment</key>
+    <string>MC scans every agent's AGENTS.md against the 12000-char harness limit. Alerts #workspace on WARN (>=11000) or FAIL (>=12000).</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/bin/bash</string>
+      <string>-c</string>
+      <string>set -a; [ -r "$HOME/.openclaw/secrets.env" ] &amp;&amp; . "$HOME/.openclaw/secrets.env"; set +a; exec /usr/bin/python3 "$HOME/.openclaw/workspace/SHELL_DAEMONS/mc/bin/check-agents-size.py"</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+      <key>Hour</key>
+      <integer>6</integer>
+      <key>Minute</key>
+      <integer>8</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/nema/.openclaw/workspace/SHELL_DAEMONS/mc/channel-logs/agents-size-check.stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/nema/.openclaw/workspace/SHELL_DAEMONS/mc/channel-logs/agents-size-check.stderr.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>HOME</key>
+      <string>/Users/nema</string>
+      <key>PATH</key>
+      <string>/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin</string>
+    </dict>
+  </dict>
+</plist>
