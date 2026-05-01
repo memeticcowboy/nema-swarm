@@ -177,3 +177,9 @@ capabilities it describes.]
 **Scale Note:** Causal power distributed across multiple description levels
 
 **Assessment Basis:** Content analysis of existing insight.md for emergence-related semantics. CE direction determined by presence of collective dynamics, self-organization patterns, consciousness references, complexity markers, and reductionist indicators.
+
+---
+
+## Pre-merge framing — Cognitive Babel (A016)
+
+An earlier sibling term, *Cognitive Babel*, framed this same territory through a multilingual-chaos lens: each user's personalized AI develops a private epistemic dialect, yielding a sealed `Z_state` and progressive fragmentation of shared sense-making (σ shared|fragmented · ρ translation|breakdown · μ boundary|porous). Folded in here as a cross-domain framing on the same generalisable concept.
