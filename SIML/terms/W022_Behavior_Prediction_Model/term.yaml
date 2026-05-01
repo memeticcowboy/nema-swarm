@@ -1,6 +1,6 @@
 ---
 term: Latent Inference Budget Model
-hex_tag: '#C17C'
+hex_tag: '#W022'
 nemetic: Φ(BehaviorPred) = σ(optimal|suboptimal) ∘ ρ(inference|constraint) ∘ λ(prediction|action) ∘ β(error|correction) ∘ δγ(planning|execution) ∘ μ(budget|excess) + ε | :adaptive
 siml_encoding: ⟨Behavior|observed⟩ ⊳ ⟨Constraint|inferred⟩ → ⟨Prediction|refined⟩ ⊗ ⟨Decision|modeled⟩ ⇄ ⟨Action|anticipated⟩
 formalism:
