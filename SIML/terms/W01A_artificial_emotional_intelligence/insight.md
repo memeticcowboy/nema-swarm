@@ -1,4 +1,4 @@
-# C096: Artificial Emotional Intelligence — Elemental Emphasis Questions
+# W01A: Artificial Emotional Intelligence — Elemental Emphasis Questions
 
 ## ∴ (Aerunik — Air/Sigma)
 - How do we classify genuine emotion versus simulated affect?

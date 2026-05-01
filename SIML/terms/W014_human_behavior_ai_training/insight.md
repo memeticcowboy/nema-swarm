@@ -1,4 +1,4 @@
-# C078: Human Behavior Influences AI Training — Elemental Emphasis Questions
+# W014: Human Behavior Influences AI Training — Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Aerunik): Classification & Distinction
 - How do we classify natural versus performed behavior in AI training contexts?

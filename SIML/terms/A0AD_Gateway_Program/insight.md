@@ -124,10 +124,10 @@ In critical thinking contexts, this creates opportunities for:
 - Considering the ethics of consciousness research and access restriction
 
 **Related Concepts:**
-- Consciousness beyond materialism (C007)
-- Nature of consciousness (C045)
-- Exploring consciousness (C009)
-- Meditation brain stimulation (C13C)
+- Consciousness beyond materialism (M016)
+- Nature of consciousness (E024)
+- Exploring consciousness (A06F)
+- Meditation brain stimulation (M01D)
 - Consciousness as reality window (C14C)
 
 ---

@@ -44,17 +44,17 @@ status: draft
 
 - **Shared Operators:**
   - λ+μ with Iron Mars (M013), Steel Bismarck (M015) — directed force through material strength
-  - δγ+σ with Cool Burning (F004) — civilizational cycling distinguished from chaos
+  - δγ+σ with Cool Burning (W025) — civilizational cycling distinguished from chaos
 - **Unique Operators:** λ∘μ∘δγ (directed-structural-cycling) — the specific combination of martial aim, utilitarian form, and agricultural sustainability
-- **Pattern Family:** IRON_CLUSTER (cluster with Iron MET003, Iron Mars M013, Blacksmith MET004)
+- **Pattern Family:** IRON_CLUSTER (cluster with Iron A0DF, Iron Mars M013, Blacksmith W02F)
 
 ### 3.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Martial** | Iron Mars (M013) | Iron as directed force — but MET003 includes the plow alongside the sword |
+| **Martial** | Iron Mars (M013) | Iron as directed force — but A0DF includes the plow alongside the sword |
 | **Sacred** | Bronze Age Sacred (M014) | Contrast: bronze was sacred first; iron is utilitarian first |
-| **Transformation** | Blacksmith (MET004) | The smith who shapes iron as ritual-technical act |
+| **Transformation** | Blacksmith (W02F) | The smith who shapes iron as ritual-technical act |
 | **Counter-narrative** | Swords to Plowshares (MET008) | Iron's dual nature — same metal, different direction |
 
 ## 4. NEMA SWARM Integration

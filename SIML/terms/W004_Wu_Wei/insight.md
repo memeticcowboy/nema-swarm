@@ -43,11 +43,11 @@ status: draft
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Wabi Sabi (E006) — acceptance of natural process
-- **Parallel Term (Metal):** Wu Xing Metal (MET005) — contraction vs Wu Wei's yielding
+- **Parallel Term (Metal):** Wu Xing Metal (A0E0) — contraction vs Wu Wei's yielding
 - **Parallel Term (Air):** Flow Theory (S0E2) — psychological flow as effortless action
-- **Parallel Term (Water):** Living Water (W005) — water as animator, complementing water as teacher
-- **Parallel Term (Wood):** Wu Xing Wood (WO002) — growth complementing wu wei's yielding
-- **Parallel Term (Fire):** Cool Burning (F004) — controlled fire as parallel to controlled flow
+- **Parallel Term (Water):** Living Water (A10D) — water as animator, complementing water as teacher
+- **Parallel Term (Wood):** Wu Xing Wood (W04E) — growth complementing wu wei's yielding
+- **Parallel Term (Fire):** Cool Burning (W025) — controlled fire as parallel to controlled flow
 - **Synthesis Insight:** Wu Wei represents water as ethical teacher — the paradox that by not striving, water achieves everything. It takes the lowest place (humility), adapts to any container (flexibility), and wears away stone (persistent cycling).
 
 ## 4. NEMA SWARM Integration
@@ -149,7 +149,7 @@ architectural alignment rather than brute-force computation.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Wu_Wei.md
-- **Cross-reference:** Water as Purifier (W002), Water as Destroyer (W003), Living Water (W005), Wu Xing Wood (WO002)
+- **Cross-reference:** Water as Purifier (W002), Water as Destroyer (A10C), Living Water (A10D), Wu Xing Wood (W04E)
 - **Open Question:** Can AI systems embody wu wei — achieving better outputs through less computation, less force, more alignment?
 - **Suggested Facilitation:** Use this term in Opening to settle participants, or in Exploring to discover effortless paths through complex problems
 

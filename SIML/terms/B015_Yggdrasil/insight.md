@@ -37,7 +37,7 @@ status: draft
 ## 4. Cross-Elemental Synthesis
 
 ### 4.1 Operator Pattern Analysis
-- **Shared Operators:** μ (structure) with Gaia (E001), δγ (cycling) with Wu Xing Earth (E004)
+- **Shared Operators:** μ (structure) with Gaia (F012), δγ (cycling) with Wu Xing Earth (A0D3)
 - **Unique Operators:** β (connective-possibility) as vertical axis rather than horizontal spread
 - **Pattern Family:** cosmic_infrastructure (terms that uphold existence itself)
 
@@ -45,9 +45,9 @@ status: draft
 - **Parallel Term (Earth):** Gaia — both uphold existence, but Gaia is substrate, Yggdrasil is axis
 - **Parallel Term (Metal):** Gold (M001) — both sacred/precious, but Gold stores value, Yggdrasil transmits it
 - **Parallel Term (Air):** Pneuma (A001) — both connect realms, but Pneuma is breath, Yggdrasil is structure
-- **Parallel Term (Water):** Thales' Arche (W001) — both foundational, but Water flows, Tree stands
-- **Parallel Term (Wood):** Bodhi Tree (WO005) — both sacred trees, but Bodhi enables enlightenment, Yggdrasil enables existence
-- **Parallel Term (Fire):** Agni (F002) — both mediate between realms, but Fire transforms, Tree connects
+- **Parallel Term (Water):** Thales' Arche (A10B) — both foundational, but Water flows, Tree stands
+- **Parallel Term (Wood):** Bodhi Tree (W050) — both sacred trees, but Bodhi enables enlightenment, Yggdrasil enables existence
+- **Parallel Term (Fire):** Agni (W024) — both mediate between realms, but Fire transforms, Tree connects
 - **Synthesis Insight:** Yggdrasil represents the *vertical* axis of cosmic connection—unlike horizontal elemental flows, it creates ontological hierarchy (heaven/earth/underworld) through structural presence
 
 ## 5. NEMA SWARM Integration
@@ -144,7 +144,7 @@ concurrency/distributed processing/explicit multiplicity.]
 
 ## 11. Next Action
 - **File to:** /docs/SIML/insights/INSIGHT_20250226_1339_Yggdrasil_0x06.md
-- **Cross-reference:** [Gaia E001, Bodhi Tree WO005, Agni F002]
+- **Cross-reference:** [Gaia F012, Bodhi Tree W050, Agni W024]
 - **Open Question:** Can AI systems serve as Yggdrasil-like infrastructure—upholding meaning without being meaning themselves?
 - **Suggested Facilitation:** Use this term in Opening with W/L questions to establish cosmic context before grounded exploration
 

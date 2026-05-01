@@ -1,6 +1,6 @@
 # Indian Functionalism and Memetic Philosophy — Insight
 
-**Tag:** S049 | **Series:** S — Sensemaking & Epistemics
+**Tag:** W033 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212634_802144_Integrating+Indian+Functionalism+and+Memetic+Philosophy.md
 
 ## Overview

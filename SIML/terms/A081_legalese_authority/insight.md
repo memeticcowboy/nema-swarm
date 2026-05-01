@@ -36,10 +36,10 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with A007_Information_Bateson (distinction); ρ with C133_cognitive_sovereignty (authority/self flow); μ with C090_modular_intelligence (boundary/limitation)
 - **Unique Operators:** All six operators active — rare in SIML; the full operator saturation reflects legalese's total interpenetration of cognitive, social, structural, and cultural dimensions
-- **Pattern Family:** Language-Power Cluster (C079, C133)
+- **Pattern Family:** Language-Power Cluster (A081, E02A)
 
 ### 3.2 Cross-Cultural Bridge
-- Cognitive Sovereignty (C133): Autonomous thought vs. manipulation → Legalese: Language complexity as manipulation tool
+- Cognitive Sovereignty (E02A): Autonomous thought vs. manipulation → Legalese: Language complexity as manipulation tool
 - Linguistic Organism (A009): Language speaks through us → Legalese: Legal language speaks authority through syntax
 - **Synthesis Insight:** Legalese reveals a crucial SIML insight: linguistic form can carry social power independently of semantic content. The MIT research shows that center-embedded clauses function as "magic spells" — implicitly understood markers of special status. Even non-lawyers adopt this style when writing laws, demonstrating that authority-signaling is contagious. The tension between comprehensibility and authority is not a bug but a feature: the incomprehensibility IS the authority signal.
 

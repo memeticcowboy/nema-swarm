@@ -1,7 +1,7 @@
-# C142 — Human Enhancement Ethics
+# A0A1 — Human Enhancement Ethics
 
 ## Term Information
-- **Tag**: C142
+- **Tag**: A0A1
 - **Series**: C (Critical Thinking)
 - **Source File**: 1771907212664_869771_Exploring+Human+Enhancement+and+Ethics.md
 - **Encoded At**: 2026-03-03T21:43:00+08:00
@@ -71,5 +71,5 @@ Based on analysis of *Nexus* by Yuval Noah Harari (via SoBrief summary), explori
 ## SIML Metadata
 - **Confidence**: 0.82
 - **Complexity Score**: 0.78
-- **Cross-Series Links**: A057 (Confirmation Bias—enhancement decisions), C041 (Human Augmentation)
+- **Cross-Series Links**: A057 (Confirmation Bias—enhancement decisions), M017 (Human Augmentation)
 - **Encoding Version**: 1.0

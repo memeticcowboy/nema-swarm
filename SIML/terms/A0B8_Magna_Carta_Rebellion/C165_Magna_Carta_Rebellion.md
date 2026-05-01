@@ -1,8 +1,8 @@
-# C165 - Magna Carta Rebellion
+# A0B8 - Magna Carta Rebellion
 
 ## Header
 ```yaml
-term_tag: "C165"
+term_tag: "A0B8"
 term_name: "Magna_Carta_Rebellion"
 source_file: "1771907212832_1458278_.md"
 series: "C"
@@ -56,7 +56,7 @@ The structural durability of written law against the corrosive forces of time an
 state: dormant
 activation_potential: high
 resonance_frequency: constitutional_crisis
-entanglement: [C150, C151, C155]
+entanglement: [A0A7, A0A8, A0AB]
 ```
 
 ## Commentary

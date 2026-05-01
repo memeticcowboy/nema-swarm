@@ -60,21 +60,21 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - σ+ρ with Nature of Consciousness (C045) — belief and vibration as consciousness constituents
-  - λ+δγ with Consciousness Evolution (C159) — evolution through earth-life cycling
-  - μ+σ with Gateway Program (C158) — technology enabling belief-structured exploration
+  - σ+ρ with Nature of Consciousness (E024) — belief and vibration as consciousness constituents
+  - λ+δγ with Consciousness Evolution (A0AE) — evolution through earth-life cycling
+  - μ+σ with Gateway Program (A0AD) — technology enabling belief-structured exploration
 - **Unique Operators:** ρ∘σ∘λ (vibration-belief-evolution) — the chain where resonant frequency determines which belief-band one occupies, and evolution requires transcending belief-formed limitations
-- **Pattern Family:** CONSCIOUSNESS_CARTOGRAPHY (cluster with C158, C159, C164, C045)
+- **Pattern Family:** CONSCIOUSNESS_CARTOGRAPHY (cluster with A0AD, A0AE, A0B7, E024)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Consciousness Studies** | Gateway Program (C158) | Technology-mediated consciousness exploration |
-| **Reincarnation** | Gateway Process Reincarnation (C164) | Soul cycling through earth-life and beyond |
-| **Philosophy of Mind** | Nature of Consciousness (C045) | Consciousness as fundamental rather than emergent |
-| **Contemplative** | Exploring Consciousness (C009) | Systematic investigation of non-ordinary states |
-| **Neuroscience** | Consciousness Beyond Materialism (C007) | Consciousness exceeding physical substrate |
+| **Consciousness Studies** | Gateway Program (A0AD) | Technology-mediated consciousness exploration |
+| **Reincarnation** | Gateway Process Reincarnation (A0B7) | Soul cycling through earth-life and beyond |
+| **Philosophy of Mind** | Nature of Consciousness (E024) | Consciousness as fundamental rather than emergent |
+| **Contemplative** | Exploring Consciousness (A06F) | Systematic investigation of non-ordinary states |
+| **Neuroscience** | Consciousness Beyond Materialism (M016) | Consciousness exceeding physical substrate |
 
 ## 5. NEMA SWARM Integration
 

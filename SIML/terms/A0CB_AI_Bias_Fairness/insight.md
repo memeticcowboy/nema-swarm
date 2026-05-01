@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with A057_Confirmation_Bias; λ with C128_bias_labyrinth_ai
 - **Unique Operators:** β(diverse|homogeneous) — the organic divergence of team perspectives as bias mitigation
-- **Pattern Family:** AI-Ethics-Bias cluster (C182, C128, C120, C156, A057)
+- **Pattern Family:** AI-Ethics-Bias cluster (A0CB, A09A, E028, E02B, A057)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** A057_Confirmation_Bias — cognitive bias in human judgment
@@ -49,7 +49,7 @@ status: draft
 - **Parallel Term (Fire):** C156_Chaos_Navigation_AI_Ethics — the urgency of ethical AI transformation
 - **Parallel Term (Wood):** C120_ai_manifest_destiny_bias — embedded cultural assumptions in AI
 - **Parallel Term (Earth):** C107_skepticism_vs_bias_science — grounding in scientific skepticism
-- **Parallel Term (Metal):** C182 itself (μ) — structural constraints for fairness
+- **Parallel Term (Metal):** A0CB itself (μ) — structural constraints for fairness
 - **Synthesis Insight:** AI bias is not merely a technical problem but a sociotechnical one, requiring diverse human perspectives to identify what algorithms alone cannot see.
 
 ## 4. NEMA SWARM Integration

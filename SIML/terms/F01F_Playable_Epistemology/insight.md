@@ -1,4 +1,4 @@
-# Insight — Playable Epistemology (S118)
+# Insight — Playable Epistemology (F01F)
 
 ## Overview
 
@@ -6,7 +6,7 @@ Playable Epistemology asks a deceptively simple question: why do people learn so
 
 The contrast with traditional knowledge environments is stark. Work, education, and civic life typically offer delayed feedback, opaque affordances, high-stakes failure, and abstract knowledge that never becomes embodied. The source material uses the vivid metaphor of "games as optimized feedback machines versus work as unstructured swamp" to capture this gap. The proposal is not to gamify everything (which typically means adding points and badges to broken systems) but to make systems genuinely playable — engineered from the ground up for learnability, agency, and experiential iteration.
 
-The most ambitious extensions propose a Memetic Simulation Engine for testing ideas in safe sandboxes, real-time feedback overlays that make complex systems legible, A/B meme testing for evaluating the clarity and effectiveness of ideas, and dynamic AI guidance that adapts to the learner's current state. These tools would bridge the gap between the optimized feedback environment of games and the messy, illegible environments where actual sensemaking occurs. Playable epistemology thus connects to S112 (Epistemic Games) as a design philosophy and to S117 (Integrative Pluralistic Sensemaking) as a participatory method for engaging diverse knowledge traditions.
+The most ambitious extensions propose a Memetic Simulation Engine for testing ideas in safe sandboxes, real-time feedback overlays that make complex systems legible, A/B meme testing for evaluating the clarity and effectiveness of ideas, and dynamic AI guidance that adapts to the learner's current state. These tools would bridge the gap between the optimized feedback environment of games and the messy, illegible environments where actual sensemaking occurs. Playable epistemology thus connects to A0F2 (Epistemic Games) as a design philosophy and to A0F4 (Integrative Pluralistic Sensemaking) as a participatory method for engaging diverse knowledge traditions.
 
 ## Elemental Analysis
 

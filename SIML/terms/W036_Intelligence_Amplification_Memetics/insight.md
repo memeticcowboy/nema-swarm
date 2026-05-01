@@ -1,6 +1,6 @@
 # Intelligence Amplification Memetics — Insight
 
-**Tag:** S057 | **Series:** S — Sensemaking & Epistemics
+**Tag:** W036 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212659_860071_Amplifying+Intelligence+through+Memetic+Philosophy.md
 
 ## Overview

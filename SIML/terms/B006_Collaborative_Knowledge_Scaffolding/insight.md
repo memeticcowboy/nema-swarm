@@ -1,6 +1,6 @@
 # Collaborative Knowledge Scaffolding — Insight
 
-**Tag:** S04C | **Series:** S — Sensemaking & Epistemics
+**Tag:** B006 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212639_815770_Building+Knowledge+Together%3A+The+Power+of+Collaboration+and+Scaffolding.md
 
 ## Overview

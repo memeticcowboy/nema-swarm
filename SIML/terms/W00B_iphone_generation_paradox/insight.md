@@ -1,4 +1,4 @@
-# Elemental Emphasis Questions: iPhone Generation Paradox (C005)
+# Elemental Emphasis Questions: iPhone Generation Paradox (W00B)
 
 Generated: 2026-03-01 05:53 AM Asia/Shanghai
 Source: The iPhone Generation Paradox — Technology and the Decline of Critical Thinking

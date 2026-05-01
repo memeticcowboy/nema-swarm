@@ -58,18 +58,18 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - ρ+μ with Prithvi (E002) — resonance and structure, but Sacred Relative is relational where Prithvi is physiological
-  - δγ+σ with Chinese Earth (E004) — cycling and distinction, but Sacred Relative grounds in sacred law where Wu Xing grounds in natural law
-  - ρ+δγ with Terroir (E005) — resonance and cycling, but Sacred Relative exceeds cultural memory into sacred kinship
+  - ρ+μ with Prithvi (W023) — resonance and structure, but Sacred Relative is relational where Prithvi is physiological
+  - δγ+σ with Chinese Earth (A0D3) — cycling and distinction, but Sacred Relative grounds in sacred law where Wu Xing grounds in natural law
+  - ρ+δγ with Terroir (A0D4) — resonance and cycling, but Sacred Relative exceeds cultural memory into sacred kinship
 - **Unique Operators:** ρ∘μ (kinship-land) — the radical encoding where resonance IS the boundary, where care defines the edge of the sacred, where belonging is not ownership but mutual recognition
-- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with E001-E010)
+- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with F012-E010)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Ayurvedic** | Prithvi (E002) | Earth as living presence, though Sacred Relative is relational |
-| **Chinese** | Wu Xing Earth (E004) | Earth as center, though Sacred Relative exceeds systematic cosmology |
+| **Ayurvedic** | Prithvi (W023) | Earth as living presence, though Sacred Relative is relational |
+| **Chinese** | Wu Xing Earth (A0D3) | Earth as center, though Sacred Relative exceeds systematic cosmology |
 | **Ecology** | Deep Ecology (Naess) | Intrinsic value of nature beyond human utility |
 | **Law** | Rights of Nature | Legal personhood for rivers, forests, ecosystems |
 | **Theology** | Creation Spirituality | Sacred immanence in the material world |

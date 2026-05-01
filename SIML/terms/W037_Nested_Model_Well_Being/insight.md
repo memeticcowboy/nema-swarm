@@ -1,6 +1,6 @@
 # Nested Model Well Being — Insight
 
-**Tag:** S06A | **Series:** S — Sensemaking & Epistemics
+**Tag:** W037 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212719_1036434_Understanding+the+Nested+Model+of+Well-Being.md
 
 ## Overview

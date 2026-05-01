@@ -1,4 +1,4 @@
-# C094: The Metaman Dilemma - Elemental Emphasis Questions
+# M019: The Metaman Dilemma - Elemental Emphasis Questions
 
 ## Air (σ) - Distinction: Individual vs Collective
 - How do we maintain categorical clarity between individual autonomy and collective consciousness?

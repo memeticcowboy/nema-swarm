@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with C011_ai_romance_artificial_intimacy; σ with C109_emotionally_aware_ai
 - **Unique Operators:** β(bridge|chasm) — AI simultaneously bridges care gaps and widens human disconnection
-- **Pattern Family:** AI-Human-Relationship cluster (C187, C011, C109, C13E, C168)
+- **Pattern Family:** AI-Human-Relationship cluster (A0CF, W00C, A08C, A09F, A0BB)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C109_emotionally_aware_ai — distinctions in affective computing
@@ -49,7 +49,7 @@ status: draft
 - **Parallel Term (Fire):** C168_Cognitive_Entrapment — the burning trap of AI intellectual capture
 - **Parallel Term (Wood):** C13E_AI_Personality_Assessment — algorithmic psychological evaluation growing in sophistication
 - **Parallel Term (Earth):** C182_AI_Bias_Fairness — grounding fairness in mental health AI
-- **Parallel Term (Metal):** C187 itself (μ) — structural cost-value boundaries in care delivery
+- **Parallel Term (Metal):** A0CF itself (μ) — structural cost-value boundaries in care delivery
 - **Synthesis Insight:** AI chatbot therapy occupies a liminal space where the promise of democratized mental health care meets the irreducible requirement of embodied human presence in genuine healing.
 
 ## 4. NEMA SWARM Integration

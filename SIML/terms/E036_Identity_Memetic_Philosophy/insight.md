@@ -1,6 +1,6 @@
 # Identity Memetic Philosophy — Insight
 
-**Tag:** S053 | **Series:** S — Sensemaking & Epistemics
+**Tag:** E036 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212651_846225_Exploring+Identity+in+Memetic+Philosophy.md
 
 ## Overview

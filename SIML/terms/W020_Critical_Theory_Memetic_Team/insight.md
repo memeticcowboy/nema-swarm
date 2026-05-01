@@ -34,13 +34,13 @@ status: draft
 
 ## 3. Cross-Elemental Synthesis
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** σ with C133_cognitive_sovereignty (autonomous/manipulated distinction); ρ with C079_legalese_authority (authority flow through language); λ with C133 (awakening/compliance transformation)
+- **Shared Operators:** σ with C133_cognitive_sovereignty (autonomous/manipulated distinction); ρ with C079_legalese_authority (authority flow through language); λ with E02A (awakening/compliance transformation)
 - **Unique Operators:** All six active with ρ leading — the narrative/consciousness flow is signature; the media/reality distinction (σ) is specifically about constructed vs. lived
-- **Pattern Family:** Critical-Awareness Cluster (C145, C133, C079, C002_fragmented_media_consumption)
+- **Pattern Family:** Critical-Awareness Cluster (W020, E02A, A081, C002_fragmented_media_consumption)
 
 ### 3.2 Cross-Cultural Bridge
-- Cognitive Sovereignty (C133): Individual mental autonomy → Critical Theory: Collective critical consciousness
-- Legalese Authority (C079): Language as power mechanism → Critical Theory: Media as power mechanism
+- Cognitive Sovereignty (E02A): Individual mental autonomy → Critical Theory: Collective critical consciousness
+- Legalese Authority (A081): Language as power mechanism → Critical Theory: Media as power mechanism
 - Ecology of Mind (A063): Mind in relational circuit → Critical Theory: Power in cultural circuit
 - **Synthesis Insight:** Critical Theory and Memetic Team Enhancement bridges academic critique with practical digital literacy. Frankfurt School analysis of cultural industry becomes actionable through the "meme team" framework — conscious architects of cultural narratives rather than unwitting transmitters. The key move: from passive media consumption to active cultural production, from being memed to memeing intentionally. This requires both deconstructive skill (seeing power structures) and constructive capacity (building ethical alternative narratives).
 

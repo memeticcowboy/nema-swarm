@@ -1,11 +1,11 @@
-# C171 - Critical_Thinking_Creative_Problem_Solving
+# A0C2 - Critical_Thinking_Creative_Problem_Solving
 
 ## Source
 - **File**: 1771907212898_1718450_Essential+Critical+Thinking+and+Creative+Problem+Solving+Skills+for+Effective+Decision+Making.md
 - **Title**: Essential Critical Thinking and Creative Problem Solving Skills for Effective Decision Making
 - **Author**: via Grok X/Bob-RJ
 - **Encoded**: 2026-03-04T05:43:00+08:00
-- **Tag**: C171
+- **Tag**: A0C2
 
 ## Summary
 Critical thinking and creative problem solving are complementary cognitive skill sets essential for effective decision-making. Critical thinking provides the analytical framework for objective evaluation, bias recognition, and logical reasoning, while creative problem solving offers systematic methods for generating novel solutions through divergent thinking, ideation techniques, and iterative refinement. Together, these capacities enable individuals to navigate complex problems, challenge assumptions, and transform constraints into opportunities for innovation.

@@ -1,6 +1,6 @@
 # CALM MO Mindfulness Framework — Insight
 
-**Tag:** S06B | **Series:** S — Sensemaking & Epistemics
+**Tag:** F01D | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212719_1036477_CALM-MO%3A+A+Mindfulness+Framework+for+Emotional+Well-Being.md
 
 ## Overview

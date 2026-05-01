@@ -1,4 +1,4 @@
-# C148: Free Will and Determinism
+# A0A6: Free Will and Determinism
 
 ## Etymology
 **Free Will**: From Old English *freo* (free, not in bondage) + *willa* (will, desire, choice). The concept of voluntary choice unconstrained by external coercion.  
@@ -51,6 +51,6 @@ The philosophical tension between the experience of autonomous choice (free will
 
 ## SIML Metadata
 - **Series**: C (Critical Thinking)
-- **Tag**: C148
+- **Tag**: A0A6
 - **Confidence**: 0.92
 - **Encoding Agent**: nema_critical_thinking_generator

@@ -1,4 +1,4 @@
-# C116: Challenging Assumptions with Falsification — Elemental Emphasis Questions
+# A093: Challenging Assumptions with Falsification — Elemental Emphasis Questions
 
 ## ∴ Aerunik (Air/σ) — Classification & Distinction
 > *"How do we classify the difference between explicit and tacit assumptions? What categorical cuts separate stated beliefs from hidden premises?"*

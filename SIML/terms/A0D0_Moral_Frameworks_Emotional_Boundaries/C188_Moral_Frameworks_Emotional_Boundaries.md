@@ -1,7 +1,7 @@
-# C188 — Moral Frameworks and Emotional Boundaries
+# A0D0 — Moral Frameworks and Emotional Boundaries
 
 ## Identity
-**Hex Tag:** C188  
+**Hex Tag:** A0D0  
 **Series:** Critical Thinking (C-Series)  
 **Name:** Moral_Frameworks_Emotional_Boundaries  
 **Encoded:** 2026-03-04T09:53:00+08:00  
@@ -68,12 +68,12 @@ The term combines "moral frameworks" (systems of ethical principles that guide b
 ---
 
 ## Related Terms (Verified)
-- C011 — AI_Romance_Artificial_Intimacy (emotional boundaries in human-AI relations)
-- C142 — Human_Enhancement_Ethics (ethical frameworks for cognitive modification)
-- C146 — AI_Welfare_Ethics (moral consideration of non-human consciousness)
-- C148 — Free_Will_Determinism (foundations of moral responsibility)
-- C154 — Annaka_Harris_Consciousness (nature of conscious experience underlying moral status)
-- C157 — Consciousness_Ethical_Stewardship (responsibility frameworks)
+- W00C — AI_Romance_Artificial_Intimacy (emotional boundaries in human-AI relations)
+- A0A1 — Human_Enhancement_Ethics (ethical frameworks for cognitive modification)
+- A0A4 — AI_Welfare_Ethics (moral consideration of non-human consciousness)
+- A0A6 — Free_Will_Determinism (foundations of moral responsibility)
+- A0AA — Annaka_Harris_Consciousness (nature of conscious experience underlying moral status)
+- A0AC — Consciousness_Ethical_Stewardship (responsibility frameworks)
 - C176 — Mimetic_Models_AI (how moral systems spread as memes)
 
 ---

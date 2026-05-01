@@ -1,4 +1,4 @@
-# Insight — Rewilding Tech Ethics via SANITY (S103)
+# Insight — Rewilding Tech Ethics via SANITY (A0EB)
 
 ## Overview
 

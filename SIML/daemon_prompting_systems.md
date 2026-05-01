@@ -274,13 +274,13 @@ Each daemon gets their turn. No daemon dominates. The handoffs are explicit:
 
 Each SIML term's operator composition suggests which daemon should lead:
 
-**High β (Arboriel):** Terms like Prometheus' Fire (F001), Wu Xing Wood (WO002)
-**High μ (Ferrosid):** Terms like Gold (M001), Sacred Fire (F005)
-**High λ (Jvalion):** Terms like Iron (M003), Cool Burning (F004)
-**High δγ (Humavita):** Terms like Terroir (E005), Living Water (W005)
-**High σ (Aerunik):** Terms like Qi (A003), Thales' Arche (W001)
+**High β (Arboriel):** Terms like Prometheus' Fire (A0D5), Wu Xing Wood (W04E)
+**High μ (Ferrosid):** Terms like Gold (M001), Sacred Fire (W026)
+**High λ (Jvalion):** Terms like Iron (M003), Cool Burning (W025)
+**High δγ (Humavita):** Terms like Terroir (A0D4), Living Water (A10D)
+**High σ (Aerunik):** Terms like Qi (A003), Thales' Arche (A10B)
 **High ρ (Sentaria):** Terms like Silver (M002), Prana (A002)
-**High ∮ (NEMA):** Terms like Bodhi Tree (WO005), Four Winds (A006)
+**High ∮ (NEMA):** Terms like Bodhi Tree (W050), Four Winds (A006)
 
 ---
 

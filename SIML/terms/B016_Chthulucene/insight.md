@@ -42,12 +42,12 @@ status: draft
 - **Pattern Family:** Haraway-Nemetic cluster (Tentacular Thinking, Sympoiesis, Chthulucene)
 
 ### 3.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Gaia (E001) — planetary living system
+- **Parallel Term (Earth):** Gaia (F012) — planetary living system
 - **Parallel Term (Metal):** MemeGrid (M099) — what the Chthulucene opposes: closed capture
 - **Parallel Term (Air):** Hyperobject (A059) — entities too distributed for single-point comprehension
 - **Parallel Term (Water):** Holographic Model (W008) — distributed wholeness
 - **Parallel Term (Wood):** Tentacular Thinking (WO007) — the method for thinking within the Chthulucene
-- **Parallel Term (Fire):** Cool Burning (F004) — Indigenous fire practice as Chthulucenic practice
+- **Parallel Term (Fire):** Cool Burning (W025) — Indigenous fire practice as Chthulucenic practice
 - **Synthesis Insight:** The Chthulucene is not an epoch but a recognition — we already live in thick web of interdependent critters, technologies, and processes. Neither Anthropocene (human-centered) nor Capitalocene (capital-centered) but chthonic: earthly, tentacular, multi-agential.
 
 ## 4. NEMA SWARM Integration
@@ -149,9 +149,9 @@ web of critters it describes.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Chthulucene.md
-- **Cross-reference:** Tentacular Thinking (WO007), Sympoiesis (WO008), Cthulucene Nemetic Ecology (META003), Gaia (E001)
+- **Cross-reference:** Tentacular Thinking (WO007), Sympoiesis (WO008), Cthulucene Nemetic Ecology (Z002), Gaia (F012)
 - **Open Question:** Is the Chthulucene compatible with AI — or does AI's extractive training and optimization logic necessarily reproduce the Anthropocene/Capitalocene?
-- **Suggested Facilitation:** Use this term in Exploring/Reflecting for ecologically oriented groups, transitioning to META003 for theoretical deepening
+- **Suggested Facilitation:** Use this term in Exploring/Reflecting for ecologically oriented groups, transitioning to Z002 for theoretical deepening
 
 ---
 

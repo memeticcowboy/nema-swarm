@@ -1,6 +1,6 @@
 # DIKUW Memetic Consciousness — Insight
 
-**Tag:** S052 | **Series:** S — Sensemaking & Epistemics
+**Tag:** F01A | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212644_823800_DIKUW+Pyramid+and+Memetic+Consciousness.md
 
 ## Overview

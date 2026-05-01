@@ -1,6 +1,6 @@
 # Universal Behaviorism — Insight
 
-**Tag:** S069 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E9 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212717_1035309_Critiquing+Physicalism%3A+Embracing+Universal+Behaviorism.md
 
 ## Overview

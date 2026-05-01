@@ -1,4 +1,4 @@
-# Insight — Epistemic Games & Sensemaking (S112)
+# Insight — Epistemic Games & Sensemaking (A0F2)
 
 ## Overview
 

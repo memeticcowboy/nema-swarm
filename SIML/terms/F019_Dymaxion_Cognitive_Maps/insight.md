@@ -1,6 +1,6 @@
 # Dymaxion Cognitive Maps — Insight
 
-**Tag:** S051 | **Series:** S — Sensemaking & Epistemics
+**Tag:** F019 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212643_820966_Navigating+Complexity%3A+The+Magic+of+Dymaxion+Cognitive+Maps.md
 
 ## Overview

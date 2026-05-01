@@ -220,7 +220,7 @@ Each SIML encoded term includes Elemental Emphasis Questions (∴≈▲𐂷☷�
 4. Apply to session stage (Opening/Exploring/Reflecting/Futuring)
 5. Route via vector to next element in cycle
 
-**Example:** Bodhi Tree (WO005) = μ+ρ+β+δγ → S+L/breath → Structure + Liberation questions → vector toward Water (≈) for felt resonance.
+**Example:** Bodhi Tree (W050) = μ+ρ+β+δγ → S+L/breath → Structure + Liberation questions → vector toward Water (≈) for felt resonance.
 
 ---
 

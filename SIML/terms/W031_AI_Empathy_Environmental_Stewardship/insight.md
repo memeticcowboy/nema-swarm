@@ -1,6 +1,6 @@
 # AI Empathy & Environmental Stewardship — Insight
 
-**Tag:** S035 | **Series:** S — Sensemaking & Epistemics
+**Tag:** W031 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212587_635323_AI%27s+Role+in+Empathy+and+Stewardship.md
 
 ## Overview
@@ -37,7 +37,7 @@ The structural integration of AI, EDA sensors, and environmental monitoring syst
 - **Human Agency vs AI Mediation**: Bidirectional learning between environment and emotion is a natural process, and inserting AI as mediator risks creating dependence on technological interpretation rather than cultivating direct perceptual sensitivity.
 
 ## Source Context
-Derived from research on AI-mediated empathy development and environmental stewardship, integrating generative AI capabilities with physiological sensing (EDA) and environmental monitoring. Connects to broader themes of cognitive flow (S033), systems thinking (S005), and contemplative practice (S00A) through shared concern with how awareness technologies can deepen human engagement with complex systems.
+Derived from research on AI-mediated empathy development and environmental stewardship, integrating generative AI capabilities with physiological sensing (EDA) and environmental monitoring. Connects to broader themes of cognitive flow (F017), systems thinking (S005), and contemplative practice (S00A) through shared concern with how awareness technologies can deepen human engagement with complex systems.
 
 ---
 

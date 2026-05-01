@@ -37,17 +37,17 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** β with Tentacular Thinking (WO007), δγ with Red Cedar (WO004)
+- **Shared Operators:** β with Tentacular Thinking (WO007), δγ with Red Cedar (W04F)
 - **Unique Operators:** ρ as benevolence-resonance (Ren) — growth as virtuous process, not just biological
 - **Pattern Family:** Wood element cluster (Wu Xing, Yggdrasil, Celtic Trees, Red Cedar, Bodhi Tree)
 
 ### 3.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Chinese Earth Element (E004) — stability complementing Wood's growth
-- **Parallel Term (Metal):** Wu Xing Metal (MET005) — Metal controls Wood (cutting)
+- **Parallel Term (Earth):** Chinese Earth Element (A0D3) — stability complementing Wood's growth
+- **Parallel Term (Metal):** Wu Xing Metal (A0E0) — Metal controls Wood (cutting)
 - **Parallel Term (Air):** Qi (A003) — vital breath that moves through Wood
 - **Parallel Term (Water):** Wu Wei (W004) — Water nourishes Wood in Wu Xing cycle
-- **Parallel Term (Wood):** Yggdrasil (WO001) — cosmic tree as structural parallel
-- **Parallel Term (Fire):** Wu Xing Fire (F003) — Wood creates Fire (fuel for transformation)
+- **Parallel Term (Wood):** Yggdrasil (B015) — cosmic tree as structural parallel
+- **Parallel Term (Fire):** Wu Xing Fire (A0D6) — Wood creates Fire (fuel for transformation)
 - **Synthesis Insight:** Chinese Wood represents not substance but directional process — expansion as seasonal force. Born from Water (nourishment), creating Fire (fuel), controlled by Metal (cutting). The association with benevolence (Ren) and Lesser Yang shows Wood's ethical dimension.
 
 ## 4. NEMA SWARM Integration
@@ -149,7 +149,7 @@ generation.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Wu_Xing_Wood.md
-- **Cross-reference:** Yggdrasil (WO001), Red Cedar (WO004), Wu Wei (W004), Wu Xing Fire (F003)
+- **Cross-reference:** Yggdrasil (B015), Red Cedar (W04F), Wu Wei (W004), Wu Xing Fire (A0D6)
 - **Open Question:** Can AI scaling embody Wood's flexibility (Ren) — growing benevolently rather than invasively?
 - **Suggested Facilitation:** Use this term in Opening to activate growth energy, or in Exploring to examine the ethics of expansion
 

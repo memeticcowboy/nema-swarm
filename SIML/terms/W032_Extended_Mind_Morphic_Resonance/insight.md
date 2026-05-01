@@ -1,6 +1,6 @@
 # Extended Mind Morphic Resonance — Insight
 
-**Tag:** S044 | **Series:** S — Sensemaking & Epistemics
+**Tag:** W032 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212627_771239_Exploring+the+Extended+Mind+and+Morphic+Resonance.md
 
 ## Overview

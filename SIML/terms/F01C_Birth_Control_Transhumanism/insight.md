@@ -1,6 +1,6 @@
 # Birth Control Transhumanism — Insight
 
-**Tag:** S065 | **Series:** S — Sensemaking & Epistemics
+**Tag:** F01C | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212711_1020170_Birth+Control%3A+A+Transhumanist+Catalyst+for+Gender+Equality.md
 
 ## Overview

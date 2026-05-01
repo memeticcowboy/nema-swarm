@@ -54,7 +54,7 @@ status: draft
 |--------|--------------|----------------|
 | **Counter-martial** | Swords to Plowshares (MET008) | Material transformation as narrative transformation |
 | **Sacred** | Bronze Age Sacred (M014) | Metal as vehicle for spiritual connection |
-| **Cosmology** | Metal in Wu Xing (MET005) | Metal as phase in transformation cycle |
+| **Cosmology** | Metal in Wu Xing (A0E0) | Metal as phase in transformation cycle |
 | **Martial** | Iron Mars (M013) | Explicit contrast: alchemy rejects martial associations for inner transformation |
 
 ## 4. NEMA SWARM Integration

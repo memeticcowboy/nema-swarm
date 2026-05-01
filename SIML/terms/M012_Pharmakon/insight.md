@@ -42,12 +42,12 @@ status: draft
 - **Pattern Family:** Metal structural terms with cycling tendency
 
 ### 4.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Wu_Xing_Earth (E004) — transformation through grounding
+- **Parallel Term (Earth):** Wu_Xing_Earth (A0D3) — transformation through grounding
 - **Parallel Term (Metal):** Tertiary_Retention (M010) — external memory structure
 - **Parallel Term (Air):** Pneuma (A001) — breath that can sustain or suffocate
 - **Parallel Term (Water):** Wu_Wei (W004) — effortless action that can become stagnation
-- **Parallel Term (Wood):** Bodhi_Tree (WO005) — growth toward awakening or entanglement
-- **Parallel Term (Fire):** Cool_Burning (F004) — fire that sustains without consuming
+- **Parallel Term (Wood):** Bodhi_Tree (W050) — growth toward awakening or entanglement
+- **Parallel Term (Fire):** Cool_Burning (W025) — fire that sustains without consuming
 - **Synthesis Insight:** The pharmakon structure appears across all elements as the necessary ambivalence of any enabling condition—each element carries its own poison/cure dialectic
 
 ## 5. NEMA SWARM Integration

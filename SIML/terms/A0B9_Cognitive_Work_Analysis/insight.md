@@ -1,11 +1,11 @@
-# C166 - Cognitive_Work_Analysis
+# A0B9 - Cognitive_Work_Analysis
 
 ## Source
 - **File**: 1771907212832_1458329_Understanding+Cognitive+Work+Analysis%3A+Framework+for+Enhancing+Human+Factors+in+Complex+Systems.md
 - **Title**: Understanding Cognitive Work Analysis: Framework for Enhancing Human Factors in Complex Systems
 - **Author**: Jens Rasmussen (framework originator, 1980s)
 - **Encoded**: 2026-03-04T03:53:00+08:00
-- **Tag**: C166
+- **Tag**: A0B9
 
 ## Summary
 Cognitive Work Analysis (CWA) is a comprehensive framework developed by Jens Rasmussen for analyzing and designing complex sociotechnical systems. It focuses on understanding cognitive demands placed on workers—how they perceive information, make decisions, and adapt to dynamic environments. Unlike traditional task analysis, CWA examines the entire work system including constraints, strategies, and worker competencies.

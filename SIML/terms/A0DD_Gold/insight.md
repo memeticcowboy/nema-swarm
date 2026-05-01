@@ -37,7 +37,7 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** λ with Prometheus' Fire (F001); μ with Yggdrasil (W001); ρ with Pneuma (A001)
+- **Shared Operators:** λ with Prometheus' Fire (A0D5); μ with Yggdrasil (A10B); ρ with Pneuma (A001)
 - **Unique Operators:** σ(distinction) at heroic-excellence intensity is uniquely concentrated in Gold
 - **Pattern Family:** Solar-Divine cluster (Gold, Ra, Inti, Apollo)
 

@@ -1,6 +1,6 @@
 # GPT4 Cross Cultural Personality — Insight
 
-**Tag:** S066 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E6 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212712_1022378_GPT-4%27s+Cross-Cultural+Personality+Simulation+Insights.md
 
 ## Overview

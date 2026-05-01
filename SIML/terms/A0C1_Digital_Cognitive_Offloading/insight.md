@@ -1,11 +1,11 @@
-# C16F - Digital_Cognitive_Offloading
+# A0C1 - Digital_Cognitive_Offloading
 
 ## Source
 - **File**: 1771907212898_1713614_.md
 - **Title**: Internet, AI, and Memory: The Cognitive Offloading Debate
 - **Author**: MemeticCowboy GPT / via x/change rajendra  
 - **Encoded**: 2026-03-04T05:23:00+08:00
-- **Tag**: C16F
+- **Tag**: A0C1
 
 ## Summary
 The Internet and AI influence human memory by encouraging cognitive offloading—the tendency to rely on digital tools for information storage and retrieval rather than internal memory processes. While some studies suggest technology weakens memory for specific tasks, evidence of broad cognitive decline remains contested. AI-driven search may alter learning by fostering false confidence in knowledge, creating a transactive memory system where humans remember where to find information rather than the information itself.

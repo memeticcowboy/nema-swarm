@@ -1,11 +1,11 @@
-# C170 - Infant_Consciousness_Studies
+# E02C - Infant_Consciousness_Studies
 
 ## Source
 - **File**: 1771907212898_1713654_Rethinking+Consciousness%3A+Insights+from+Infant+Studies.md
 - **Title**: Rethinking Consciousness: Insights from Infant Studies
 - **Author**: via New Scientist / Research Synthesis
 - **Encoded**: 2026-03-04T05:33:00+08:00
-- **Tag**: C170
+- **Tag**: E02C
 
 ## Summary
 Research on infant brain activity and behavior is challenging traditional views on the onset and nature of consciousness, suggesting that consciousness may emerge earlier than previously believed—potentially even before birth. Innovative measurement techniques including Event-Related Potentials (ERPs) and brain imaging are providing new insights into early cognitive development and forcing a reevaluation of what constitutes conscious experience.

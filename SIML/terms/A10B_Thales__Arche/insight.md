@@ -37,17 +37,17 @@ status: draft
 ## 4. Cross-Elemental Synthesis
 
 ### 4.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Gaia (E001), Prithvi (E002); μ with Iron (M003), Gold (M001)
+- **Shared Operators:** δγ with Gaia (F012), Prithvi (W023); μ with Iron (M003), Gold (M001)
 - **Unique Operators:** σ(distinction) uniquely emphasizes water's differentiation from other elements as THE arche
 - **Pattern Family:** Primordial Substrates — terms that encode first principles and cosmogonic origins
 
 ### 4.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Gaia (E001) — both ground primordial existence, but Gaia emphasizes living/biological substrate while Arche emphasizes transformative/rational principle
+- **Parallel Term (Earth):** Gaia (F012) — both ground primordial existence, but Gaia emphasizes living/biological substrate while Arche emphasizes transformative/rational principle
 - **Parallel Term (Metal):** Gold (M001) — both represent value concentration, but Gold is extracted/accumulated while Arche is distributed/flowing
 - **Parallel Term (Air):** Pneuma (A001) — both are invisible substrates, but Pneuma emphasizes breath/spirit while Arche emphasizes material foundation
-- **Parallel Term (Water):** Living Water (W005) — both water, but Living Water emphasizes biological vitality while Arche emphasizes philosophical primacy
-- **Parallel Term (Wood):** Yggdrasil (WO001) — both are world-supporting structures, but Yggdrasil is arboreal/connective while Arche is liquid/transformative
-- **Parallel Term (Fire):** Prometheus Fire (F001) — both are origin stories, but Prometheus emphasizes gift/transgression while Arche emphasizes natural principle
+- **Parallel Term (Water):** Living Water (A10D) — both water, but Living Water emphasizes biological vitality while Arche emphasizes philosophical primacy
+- **Parallel Term (Wood):** Yggdrasil (B015) — both are world-supporting structures, but Yggdrasil is arboreal/connective while Arche is liquid/transformative
+- **Parallel Term (Fire):** Prometheus Fire (A0D5) — both are origin stories, but Prometheus emphasizes gift/transgression while Arche emphasizes natural principle
 - **Synthesis Insight:** Thales' Arche occupies a unique position as the rationalized, philosophical substrate — the moment when mythic cosmogony transforms into natural explanation, marking the birth of Western scientific thinking.
 
 ## 5. NEMA SWARM Integration
@@ -144,7 +144,7 @@ concurrency/distributed processing/explicit multiplicity.]
 
 ## 11. Next Action
 - **File to:** /docs/SIML/insights/INSIGHT_20260226_1439_Thales_Arche_W001.md
-- **Cross-reference:** Gaia (E001), Pneuma (A001), Prometheus Fire (F001), Living Water (W005)
+- **Cross-reference:** Gaia (F012), Pneuma (A001), Prometheus Fire (A0D5), Living Water (A10D)
 - **Open Question:** How does the shift from mythic to rational arche inform contemporary debates about scientific materialism vs. spiritual frameworks?
 - **Suggested Facilitation:** Use this term in Opening stage with L (Letting) daemon questions, particularly when establishing philosophical ground for sessions on epistemology, cosmology, or systems thinking.
 

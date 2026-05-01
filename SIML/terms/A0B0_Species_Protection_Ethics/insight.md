@@ -125,10 +125,10 @@ The framework emphasizes:
 - Collective responsibility for planetary conditions that support consciousness diversity
 
 **Related Concepts:**
-- Animal Consciousness Evolution (C119)
-- Consciousness Beyond Materialism (C007)
-- AI Welfare Ethics (C146)
-- Technology Environmental Adaptation (C147)
+- Animal Consciousness Evolution (W01C)
+- Consciousness Beyond Materialism (M016)
+- AI Welfare Ethics (A0A4)
+- Technology Environmental Adaptation (A0A5)
 - Consciousness as Reality Window (C14C)
 
 ---

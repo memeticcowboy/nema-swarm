@@ -1,6 +1,6 @@
 # Fungi and Memetic Consciousness — Insight
 
-**Tag:** S04B | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E4 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212635_806278_Fungi+and+Memetic+Philosophy+Insights.md
 
 ## Overview

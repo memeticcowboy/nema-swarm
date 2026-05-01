@@ -1,6 +1,6 @@
 # Neural Coupling Between Dogs and Humans — Insight
 
-**Tag:** S04E | **Series:** S — Sensemaking & Epistemics
+**Tag:** W034 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212641_816884_Neural+Connections+Between+Dogs+and+Humans.md
 
 ## Overview

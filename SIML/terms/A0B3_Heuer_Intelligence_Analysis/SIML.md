@@ -1,9 +1,9 @@
 # SIML Entry
-# C160: Heuer_Intelligence_Analysis
+# A0B3: Heuer_Intelligence_Analysis
 
 ## Metadata
 - **series**: C (Critical Thinking)
-- **tag**: C160
+- **tag**: A0B3
 - **source_file**: 1771907212809_1306032_Enhancing+Intelligence+Analysis%3A+Overcoming+Cognitive+Biases.md
 - **encoded_at**: 2026-03-04T02:53:00+08:00
 

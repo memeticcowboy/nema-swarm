@@ -1,4 +1,4 @@
-# SIML Insight: AI Writing Pitfalls (C127)
+# SIML Insight: AI Writing Pitfalls (A099)
 
 **Generated:** March 2, 2026
 **Source:** Avoiding AI Writing Pitfalls

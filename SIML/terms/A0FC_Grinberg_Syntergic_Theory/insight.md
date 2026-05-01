@@ -1,4 +1,4 @@
-# Insight — Grinberg Syntergic Theory (S153)
+# Insight — Grinberg Syntergic Theory (A0FC)
 
 ## Overview
 

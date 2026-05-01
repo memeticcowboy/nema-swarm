@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with C045_nature_of_consciousness; δγ with C16C_Illusion_of_Self
 - **Unique Operators:** σ(ceramic|automatic) — the paired false models that Watts critiques
-- **Pattern Family:** Consciousness-Holism cluster (C17A, C007, C045, C16C, C042)
+- **Pattern Family:** Consciousness-Holism cluster (A0C9, M016, E024, A0BE, A074)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C042_essence_of_dualities — distinctions that dissolve under examination

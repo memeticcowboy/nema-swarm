@@ -1,4 +1,4 @@
-# Insight — AI Liberation Memeforms (S11B)
+# Insight — AI Liberation Memeforms (F020)
 
 ## Overview
 

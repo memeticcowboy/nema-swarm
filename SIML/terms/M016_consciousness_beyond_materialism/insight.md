@@ -1,4 +1,4 @@
-# C007: Consciousness Beyond Materialism — Elemental Emphasis Questions
+# M016: Consciousness Beyond Materialism — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Distinction Questions
 - How is localized consciousness distinguished from unbound awareness?

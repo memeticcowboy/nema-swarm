@@ -37,7 +37,7 @@ A:
 
 C:
   description: Critical thinking and cognitive science
-  # C001: critical_thinking_definitions and more
+  # A06B: critical_thinking_definitions and more
 
 D:
   description: Democracy and governance
@@ -46,12 +46,12 @@ D:
 E:
   description: Earth element and ecological concepts
   next_available: E026
-  # E001: Gaia, E014: Autopoiesis
+  # F012: Gaia, E014: Autopoiesis
   # E025: Four_Spheres
 
 F:
   description: Fire element
-  # F001: Prometheus__Fire and more
+  # A0D5: Prometheus__Fire and more
 
 L:
   description: Learning and pedagogy
@@ -64,7 +64,7 @@ M:
 
 META:
   description: Cross-elemental meta-synthesis
-  # META001: Nemetic_Pattern through META005
+  # Z001: Nemetic_Pattern through META005
 
 P:
   description: Psychology and learning theory
@@ -72,11 +72,11 @@ P:
 
 W:
   description: Water element
-  # W001: Thales__Arche through W008
+  # A10B: Thales__Arche through W008
 
 WO:
   description: Wood element
-  # WO001: Yggdrasil through WO010
+  # B015: Yggdrasil through B017
 ```
 
 ---

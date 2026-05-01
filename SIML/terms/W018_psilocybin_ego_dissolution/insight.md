@@ -1,4 +1,4 @@
-# C089: Psilocybin Ego Dissolution — Elemental Emphasis Questions
+# W018: Psilocybin Ego Dissolution — Elemental Emphasis Questions
 
 ## Source
 Psilocybin's Impact on Brain Activity — Research on default mode network desynchronization and therapeutic potential

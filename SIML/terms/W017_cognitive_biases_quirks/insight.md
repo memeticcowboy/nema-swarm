@@ -1,4 +1,4 @@
-# C087: Cognitive Biases Quirks — Elemental Emphasis Questions
+# W017: Cognitive Biases Quirks — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Classification Questions
 - How do we classify the types of cognitive biases? What categorical cuts separate memory biases, decision-making flaws, information overload effects, and pattern-seeking errors?

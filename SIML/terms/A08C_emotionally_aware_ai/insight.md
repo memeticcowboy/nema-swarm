@@ -1,4 +1,4 @@
-# C109: The Rise of Emotionally Aware AI — Elemental Emphasis Questions
+# A08C: The Rise of Emotionally Aware AI — Elemental Emphasis Questions
 
 ## Air (σ) — Categorical Distinction
 **How do we classify the difference between simulated emotion and authentic feeling? What categorical cuts separate affective computing from genuine affect?**

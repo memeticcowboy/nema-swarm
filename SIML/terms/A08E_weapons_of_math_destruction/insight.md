@@ -1,4 +1,4 @@
-# C111 — Weapons of Math Destruction: Elemental Emphasis Questions
+# A08E — Weapons of Math Destruction: Elemental Emphasis Questions
 
 ## ∴ Aerunik (Air/σ): Classification & Distinction
 - How do we classify the difference between transparent and opaque algorithms?

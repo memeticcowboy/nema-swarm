@@ -1,7 +1,7 @@
-# C187 — AI Chatbot Therapy
+# A0CF — AI Chatbot Therapy
 
 ## Identity
-**Hex Tag:** C187  
+**Hex Tag:** A0CF  
 **Series:** Critical Thinking (C-Series)  
 **Name:** AI_Chatbot_Therapy  
 **Encoded:** 2026-03-04T09:43:00+08:00  
@@ -68,11 +68,11 @@ The term combines "AI" (artificial intelligence) with "chatbot" (conversational 
 ---
 
 ## Related Terms (Verified)
-- C011 — AI_Romance_Artificial_Intimacy (parasocial AI relationships)
-- C109 — Emotionally_Aware_AI (affective computing dimensions)
-- C13E — AI_Personality_Assessment (algorithmic psychological evaluation)
-- C168 — Cognitive_Entrapment (AI's intellectual capture dynamics)
-- C182 — AI_Bias_Fairness (algorithmic fairness in mental health)
+- W00C — AI_Romance_Artificial_Intimacy (parasocial AI relationships)
+- A08C — Emotionally_Aware_AI (affective computing dimensions)
+- A09F — AI_Personality_Assessment (algorithmic psychological evaluation)
+- A0BB — Cognitive_Entrapment (AI's intellectual capture dynamics)
+- A0CB — AI_Bias_Fairness (algorithmic fairness in mental health)
 
 ---
 

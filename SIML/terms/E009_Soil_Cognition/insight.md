@@ -60,7 +60,7 @@ status: draft
 - **Shared Operators:**
   - ρ+γ with Fermented Knowledge (E008) — resonance and cycling in microbial communities
   - μ+σ with Autopoiesis (E014) — structural boundary distinguishing system from environment
-  - ρ+μ with Terroir (E005) — microbial resonance within geological structure
+  - ρ+μ with Terroir (A0D4) — microbial resonance within geological structure
 - **Unique Operators:** ρ∘γ (microbial-resonance-cycling) — the specific encoding where soil bacteria communicate across decomposition cycles, creating a distributed cognitive system that directly affects human neurochemistry through serotonin activation
 - **Pattern Family:** COMPOST_METAPHYSICS (cluster with E006, E008, E010, E014)
 
@@ -71,7 +71,7 @@ status: draft
 | **Neuroscience** | Mycobacterium vaccae Research | Soil bacteria activating serotonin-producing brain cells |
 | **Immunology** | Hygiene Hypothesis | Microbial exposure modulating immune response |
 | **Ecology** | Fermented Knowledge (E008) | Microbial collaboration producing emergent properties |
-| **Agriculture** | Terroir (E005) | Soil composition as cognitive-cultural memory |
+| **Agriculture** | Terroir (A0D4) | Soil composition as cognitive-cultural memory |
 | **Enactivism** | Enactive Cognition (E011) | Cognition as embodied action, not representation |
 
 ## 5. NEMA SWARM Integration

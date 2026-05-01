@@ -1,4 +1,4 @@
-# Insight — Value-to-Power Map (S11C)
+# Insight — Value-to-Power Map (W040)
 
 ## Overview
 

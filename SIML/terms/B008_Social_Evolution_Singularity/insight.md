@@ -1,6 +1,6 @@
 # Social Evolution Singularity — Insight
 
-**Tag:** S064 | **Series:** S — Sensemaking & Epistemics
+**Tag:** B008 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212707_1009831_.md
 
 ## Overview

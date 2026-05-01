@@ -37,7 +37,7 @@
 - What thresholds mark the transition from tool to cognitive prosthesis?
 
 ---
-*Generated: C053 | Brain-Computer Interfaces | March 1, 2026*
+*Generated: A076 | Brain-Computer Interfaces | March 1, 2026*
 
 ## Causal Emergence Assessment (SIML v1.3)
 

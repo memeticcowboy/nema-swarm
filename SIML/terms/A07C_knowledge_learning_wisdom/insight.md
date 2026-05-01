@@ -1,4 +1,4 @@
-# C063: Insights on Knowledge and Learning — Elemental Emphasis Questions
+# A07C: Insights on Knowledge and Learning — Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Aerunik): Categorical Distinction
 - How do we distinguish between genuine knowledge and assumed understanding?

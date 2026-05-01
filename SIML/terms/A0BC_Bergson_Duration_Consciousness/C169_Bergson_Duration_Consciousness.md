@@ -1,4 +1,4 @@
-# C169: Bergson Duration Consciousness
+# A0BC: Bergson Duration Consciousness
 
 ## Etymology
 **Duration**: From Old French *duracion* (lasting, continuance), from Latin *duratio* (a lasting, continuing), from *durare* (to harden, last, endure). Bergson's *durée* refers to the subjective, continuous flow of time as experienced by consciousness.  
@@ -52,6 +52,6 @@ Henri Bergson's philosophy posits that true understanding emerges not from stati
 
 ## SIML Metadata
 - **Series**: C (Critical Thinking)
-- **Tag**: C169
+- **Tag**: A0BC
 - **Confidence**: 0.88
 - **Encoding Agent**: nema_critical_thinking_generator

@@ -1,4 +1,4 @@
-# Insight — Integrative Pluralistic Sensemaking (S117)
+# Insight — Integrative Pluralistic Sensemaking (A0F4)
 
 ## Overview
 
@@ -6,7 +6,7 @@ Integrative Pluralistic Sensemaking represents perhaps the most ambitious episte
 
 The scope is deliberately vast. Ubuntu's relational epistemology ("I am because we are") sits alongside Indigenous Wholistic Theory's land-based, ceremonial knowing. Daoist epistemology — where the Dao that can be told is not the eternal Dao — coexists with Buddhist catuskoti logic, which transcends Western binary true/false with a four-valued system (true, false, both, neither). Cybernetics contributes feedback-loop thinking. Feminist Standpoint Epistemology insists that knowledge is shaped by social position. Metamodernism adds the oscillation between sincerity and irony — the capacity to be earnestly committed to a framework while simultaneously maintaining critical distance from it.
 
-The framework's most generative concept may be playable epistemology — the idea that knowledge traditions are not merely studied but played, inhabited experimentally, and explored through participatory engagement. This connects directly to S112 (Epistemic Games) and S118 (Playable Epistemology), forming a conceptual cluster around the idea that knowing is something you do, not something you have. The radical pluralism of the Z-state is not relativism — it does not claim all epistemologies are equally valid for all purposes — but it does insist that no single tradition can claim universal sovereignty over the territory of knowledge.
+The framework's most generative concept may be playable epistemology — the idea that knowledge traditions are not merely studied but played, inhabited experimentally, and explored through participatory engagement. This connects directly to A0F2 (Epistemic Games) and F01F (Playable Epistemology), forming a conceptual cluster around the idea that knowing is something you do, not something you have. The radical pluralism of the Z-state is not relativism — it does not claim all epistemologies are equally valid for all purposes — but it does insist that no single tradition can claim universal sovereignty over the territory of knowledge.
 
 ## Elemental Analysis
 

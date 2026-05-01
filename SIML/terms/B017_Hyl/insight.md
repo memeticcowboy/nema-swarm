@@ -43,11 +43,11 @@ status: draft
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Concrescence (E021) — Whitehead's process of becoming from potentiality
-- **Parallel Term (Metal):** Alchemical Gold (MET006) — transformation from base matter
+- **Parallel Term (Metal):** Alchemical Gold (M021) — transformation from base matter
 - **Parallel Term (Air):** Actual Occasion (A064) — process philosophy parallel
-- **Parallel Term (Water):** Thales Arche (W001) — water as prime matter
-- **Parallel Term (Wood):** Wu Xing Wood (WO002) — wood as growth from raw potential
-- **Parallel Term (Fire):** Prometheus Fire (F001) — fire that transforms matter into artifact
+- **Parallel Term (Water):** Thales Arche (A10B) — water as prime matter
+- **Parallel Term (Wood):** Wu Xing Wood (W04E) — wood as growth from raw potential
+- **Parallel Term (Fire):** Prometheus Fire (A0D5) — fire that transforms matter into artifact
 - **Synthesis Insight:** Hyle reveals Wood's deepest paradox: matter is most potential when least formed. The Greek word for "matter" (hyle) literally means "wood" — the paradigmatic raw material, the substance that awaits the carpenter's form.
 
 ## 4. NEMA SWARM Integration
@@ -149,7 +149,7 @@ any pattern has been impressed.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Hyle.md
-- **Cross-reference:** Concrescence (E021), Thales Arche (W001), Wu Xing Wood (WO002), Alchemical Gold (MET006)
+- **Cross-reference:** Concrescence (E021), Thales Arche (A10B), Wu Xing Wood (W04E), Alchemical Gold (M021)
 - **Open Question:** Is AI training a hylomorphic process — impressing form (patterns) onto matter (parameters) — and if so, what is lost in the determination?
 - **Suggested Facilitation:** Use this term in Opening stage to honor the potential of the unformed, or in philosophical inquiry about the nature of creation
 

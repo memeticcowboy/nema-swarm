@@ -26,7 +26,7 @@
 
 ## Wood Variants — The Grove (Revisited)
 
-### Yggdrasil (WO001) — The Cosmic Axis
+### Yggdrasil (B015) — The Cosmic Axis
 
 **Operator Pattern:** μ-ρ-γ-β
 
@@ -40,7 +40,7 @@
 
 ---
 
-### Hylē (WO002) — The Potential
+### Hylē (W04E) — The Potential
 
 **Operator Pattern:** μ-σ-γ-ρ
 
@@ -54,7 +54,7 @@
 
 ---
 
-### Wu_Xing_Wood (WO003) — The Generative
+### Wu_Xing_Wood (A10E) — The Generative
 
 **Operator Pattern:** γ-λ-ρ-μ
 
@@ -68,7 +68,7 @@
 
 ---
 
-### Bodhi_Tree (WO005) — The Witness
+### Bodhi_Tree (W050) — The Witness
 
 **Operator Pattern:** μ-β-ρ-γ
 

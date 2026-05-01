@@ -44,7 +44,7 @@ status: draft
 
 - **Shared Operators:**
   - σ+μ with Bloom's Taxonomy (L029) — categorical distinction within structural framework
-  - δγ with Cool Burning (F004) — cyclical transformation as natural process
+  - δγ with Cool Burning (W025) — cyclical transformation as natural process
 - **Unique Operators:** σ∘β (concentrative-contraction) — the specific combination of inward distinction with autumnal gathering, unique to Wu Xing's Metal phase
 - **Pattern Family:** ELEMENTAL_SYSTEMS (cluster with Wu Xing Metal, SIML elements, Aristotelian elements)
 
@@ -53,9 +53,9 @@ status: draft
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
 | **Medicine** | TCM Lung/Grief correspondence | Metal as autumnal contraction, letting go, grief as concentration |
-| **Western Metal** | Iron (MET003) | Contrast: Western iron is substance; Wu Xing metal is process |
-| **Alchemy** | Alchemical Gold (MET006) | Both encode metal as transformation — but alchemy aims at perfection while Wu Xing cycles |
-| **Meta** | Nemetic Pattern (META001) | Distributed fields — Wu Xing understands elements as dynamic relationships, not fixed substances |
+| **Western Metal** | Iron (A0DF) | Contrast: Western iron is substance; Wu Xing metal is process |
+| **Alchemy** | Alchemical Gold (M021) | Both encode metal as transformation — but alchemy aims at perfection while Wu Xing cycles |
+| **Meta** | Nemetic Pattern (Z001) | Distributed fields — Wu Xing understands elements as dynamic relationships, not fixed substances |
 
 ## 4. NEMA SWARM Integration
 

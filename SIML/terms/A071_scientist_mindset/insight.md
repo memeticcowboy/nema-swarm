@@ -1,4 +1,4 @@
-# C021: Scientist Mindset — Elemental Emphasis Questions
+# A071: Scientist Mindset — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Classification & Distinction
 - How do we classify hypotheses versus conclusions?

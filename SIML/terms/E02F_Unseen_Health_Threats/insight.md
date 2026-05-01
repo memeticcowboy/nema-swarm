@@ -60,19 +60,19 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - σ+ρ with Technology Environmental Adaptation (C147) — visibility of systemic problems through technological lens
+  - σ+ρ with Technology Environmental Adaptation (A0A5) — visibility of systemic problems through technological lens
   - δγ+μ with Taste Trap (C14A) — normalized consumption patterns undermining health
-  - β+λ with Cognitive Laziness and LLM Education (C16B) — communal vs isolated response to digital-age challenges
+  - β+λ with Cognitive Laziness and LLM Education (A0BD) — communal vs isolated response to digital-age challenges
 - **Unique Operators:** σ∘ρ∘λ (invisible-denial-action) — the chain from hidden threat to denied reality to eventual awakening, a uniquely public-health pattern
-- **Pattern Family:** SYSTEMIC_HEALTH (cluster with C147, C14A, C16B)
+- **Pattern Family:** SYSTEMIC_HEALTH (cluster with A0A5, C14A, A0BD)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Environmental** | Technology Environmental Adaptation (C147) | Invisible systemic threats requiring collective awareness |
+| **Environmental** | Technology Environmental Adaptation (A0A5) | Invisible systemic threats requiring collective awareness |
 | **Nutrition** | Taste Trap (C14A) | Normalized consumption patterns undermining health |
-| **Education** | Cognitive Laziness (C16B) | Digital-age threats to cognitive function |
+| **Education** | Cognitive Laziness (A0BD) | Digital-age threats to cognitive function |
 | **Psychology** | Slow Violence (E010) | Gradual, dispersed harm escaping conscious notice |
 | **Ecology** | Microplastic contamination | Pervasive invisible pollutants accumulating in bodies |
 

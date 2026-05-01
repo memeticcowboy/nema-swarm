@@ -39,7 +39,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with A038_AI_Cognitive_Offloading (distinction degradation via technology); δγ with C16F_Digital_Cognitive_Offloading (metabolic cost of outsourced cognition)
 - **Unique Operators:** β as compulsive-switching (novelty-seeking turned pathological) — distinct from β as creative branching
-- **Pattern Family:** Digital cognition cluster (A038, C16F, C168_Cognitive_Entrapment, C184_Cognitive_Decline_Technology_Education)
+- **Pattern Family:** Digital cognition cluster (A038, A0C1, C168_Cognitive_Entrapment, C184_Cognitive_Decline_Technology_Education)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** A016_Cognitive_Babel — fragmentation at the linguistic level mirrors fragmentation at the attentional level

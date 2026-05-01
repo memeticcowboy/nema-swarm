@@ -1,4 +1,4 @@
-# Insight — Constructive Hallucination (S14B)
+# Insight — Constructive Hallucination (A0F8)
 
 ## Overview
 

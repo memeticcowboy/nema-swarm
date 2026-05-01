@@ -1,4 +1,4 @@
-# C092: Quantum Entanglement and Consciousness — Elemental Emphasis Questions
+# A087: Quantum Entanglement and Consciousness — Elemental Emphasis Questions
 
 ## Air (σ) — Aerunik | Emphasis: 0.85
 **Categorical Distinction Questions:**

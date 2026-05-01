@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Huxley Education Ethics (C152), σ with Base Rate Neglect (A03C), λ with Freedom of Expression (C155)
+- **Shared Operators:** δγ with Huxley Education Ethics (A0A9), σ with Base Rate Neglect (A03C), λ with Freedom of Expression (A0AB)
 - **Unique Operators:** The full δγ(means|ends) loop is uniquely central here — means and ends are not separate but metabolically connected
-- **Pattern Family:** Ethical praxis cluster (C151, C152, C150, C188 Moral Frameworks)
+- **Pattern Family:** Ethical praxis cluster (A0A8, A0A9, A0A7, A0D0 Moral Frameworks)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Slow Violence — the gradual consequences of chosen methods

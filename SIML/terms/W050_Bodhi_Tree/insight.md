@@ -37,17 +37,17 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** ρ with Red Cedar (WO004), μ with Baobab (WO006)
+- **Shared Operators:** ρ with Red Cedar (W04F), μ with Baobab (WO006)
 - **Unique Operators:** μ as sacred-site — not essence but historical specificity, THE tree where awakening happened
 - **Pattern Family:** Sacred tree cluster (Yggdrasil, Celtic Trees, Bodhi Tree, Baobab, Red Cedar)
 
 ### 3.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Terroir (E005) — place as determinant of character
-- **Parallel Term (Metal):** Alchemical Gold (MET006) — transformation of base into enlightened
+- **Parallel Term (Earth):** Terroir (A0D4) — place as determinant of character
+- **Parallel Term (Metal):** Alchemical Gold (M021) — transformation of base into enlightened
 - **Parallel Term (Air):** Pneuma (A001) — breath of awakening under the tree
 - **Parallel Term (Water):** Wu Wei (W004) — effortless action as parallel spiritual practice
-- **Parallel Term (Wood):** Red Cedar (WO004) — sacred tree in different tradition
-- **Parallel Term (Fire):** Sacred Fire (F005) — parallel technology of spiritual transformation
+- **Parallel Term (Wood):** Red Cedar (W04F) — sacred tree in different tradition
+- **Parallel Term (Fire):** Sacred Fire (W026) — parallel technology of spiritual transformation
 - **Synthesis Insight:** The Bodhi Tree reveals that Wood becomes sacred not through essence but through event — Ficus religiosa is common, but THIS tree is sacred because Siddhartha became Buddha beneath it. Place matters (μ); resonance draws seekers across centuries (ρ).
 
 ## 4. NEMA SWARM Integration
@@ -149,7 +149,7 @@ claiming to embody it.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Bodhi_Tree.md
-- **Cross-reference:** Red Cedar (WO004), Baobab (WO006), Yggdrasil (WO001), Terroir (E005)
+- **Cross-reference:** Red Cedar (W04F), Baobab (WO006), Yggdrasil (B015), Terroir (A0D4)
 - **Open Question:** Can digital spaces become Bodhi trees — sites where event creates sacredness in virtual geography?
 - **Suggested Facilitation:** Use this term in Reflecting stage for contemplative groups, transitioning to Air element (Pneuma) for breath-awakening connection
 

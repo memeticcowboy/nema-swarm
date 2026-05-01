@@ -1,4 +1,4 @@
-# C153 — Kuhn's Taxonomy: Consciousness and AI Insights
+# B003 — Kuhn's Taxonomy: Consciousness and AI Insights
 
 ## Source
 - **Original File:** 1771907212727_1051749_Kuhn's Taxonomy: Consciousness and AI Insights.md
@@ -117,7 +117,7 @@ The framework's value lies not in resolving the consciousness debate but in clar
 
 ---
 
-*Encoded: 2026-03-04T00:33:00+08:00 | Series: C | Tag: C153*
+*Encoded: 2026-03-04T00:33:00+08:00 | Series: C | Tag: B003*
 
 ---
 

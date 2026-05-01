@@ -1,6 +1,6 @@
 # Language Consciousness Link — Insight
 
-**Tag:** S067 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E7 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212713_1025080_Exploring+the+Link+Between+Language+and+Consciousness.md
 
 ## Overview

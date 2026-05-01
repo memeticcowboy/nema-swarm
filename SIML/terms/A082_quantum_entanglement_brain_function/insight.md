@@ -1,4 +1,4 @@
-# C082: Quantum Entanglement in Brain Function — Elemental Emphasis Questions
+# A082: Quantum Entanglement in Brain Function — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Classification
 - How do we classify quantum versus classical phenomena in biological systems?

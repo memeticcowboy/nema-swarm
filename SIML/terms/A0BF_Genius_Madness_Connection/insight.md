@@ -1,11 +1,11 @@
-# C16D - Genius_Madness_Connection
+# A0BF - Genius_Madness_Connection
 
 ## Source
 - **File**: 1771907212891_1693593_Exploring+the+Genius-Madness+Connection.md
 - **Title**: Exploring the Genius-Madness Connection
 - **Author**: MemeticCowboy GPT / via x/change rajendra
 - **Encoded**: 2026-03-04T05:03:00+08:00
-- **Tag**: C16D
+- **Tag**: A0BF
 
 ## Summary
 The Genius-Madness Connection explores the historical and contemporary debate on the relationship between exceptional creativity and psychopathology. Empirical evidence from historiometric, psychiatric, and psychometric research suggests a positive association between creativity and mental health conditions, though this relationship is complex, nuanced, and not absolute.

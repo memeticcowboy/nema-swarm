@@ -102,7 +102,7 @@
 
 ## Earth Variants — The Ground-Matrix (Revisited)
 
-### Gaia (E001) — The Primordial
+### Gaia (F012) — The Primordial
 
 **Operator Pattern:** δγ-β-μ-λ
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Autopoiesis (E003) — The Self-Maker
+### Autopoiesis (A0D2) — The Self-Maker
 
 **Operator Pattern:** γ-μ-ρ-σ
 

@@ -33,7 +33,7 @@
 ---
 
 *Generated from Critical Thinking source: Human Augmentation Insights*
-*SIML Entry: C041 | Elemental daemon mapping applied*
+*SIML Entry: M017 | Elemental daemon mapping applied*
 *Daemon Correspondences: Aerunik (Air), Sentaria (Water), Jvalion (Fire), Arboriel (Wood), Humavita (Earth), Ferrosid (Metal)*
 
 ## Causal Emergence Assessment (SIML v1.3)

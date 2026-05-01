@@ -1,4 +1,4 @@
-# C128 — Bias Labyrinth in AI: Elemental Emphasis Questions
+# A09A — Bias Labyrinth in AI: Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Aerunik): Categorical Distinction
 - How do we classify the difference between biased and fair AI systems?

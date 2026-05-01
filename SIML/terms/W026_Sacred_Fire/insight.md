@@ -43,8 +43,8 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - μ+ρ with Agni (F002) — structured ritual enabling resonance
-  - δγ+λ with Cool Burning (F004) — cycling toward illumination
+  - μ+ρ with Agni (W024) — structured ritual enabling resonance
+  - δγ+λ with Cool Burning (W025) — cycling toward illumination
 - **Unique Operators:** μ∘ρ (portal-resonance) — the specific combination of structural doorway with spiritual connection
 - **Pattern Family:** PORTAL_FIRE (cluster with Sacred Fire, Agni, Vestal Flame)
 
@@ -52,8 +52,8 @@ status: draft
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Vedic** | Agni (F002) | Fire as divine intermediary, physically present deity |
-| **Aboriginal** | Cool Burning (F004) | Fire as communal knowledge transmission, generational cycling |
+| **Vedic** | Agni (W024) | Fire as divine intermediary, physically present deity |
+| **Aboriginal** | Cool Burning (W025) | Fire as communal knowledge transmission, generational cycling |
 | **Cognitive** | Global Workspace Theory (F006) | Central hub broadcasting to many — fire as information space |
 | **Memory** | Tertiary Retention (M010) | External structure holding what individual memory cannot |
 

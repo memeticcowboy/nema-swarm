@@ -116,11 +116,11 @@ The CTMU represents a radical challenge to materialist paradigms, emphasizing:
 - Direct insight over institutional authority
 
 **Related Concepts:**
-- Consciousness Beyond Materialism (C007)
-- Nature of Consciousness (C045)
-- Exploring Consciousness (C009)
-- Consciousness and AI (C129)
-- Quantum Entanglement Consciousness (C092)
+- Consciousness Beyond Materialism (M016)
+- Nature of Consciousness (E024)
+- Exploring Consciousness (A06F)
+- Consciousness and AI (F00F)
+- Quantum Entanglement Consciousness (A087)
 
 ---
 

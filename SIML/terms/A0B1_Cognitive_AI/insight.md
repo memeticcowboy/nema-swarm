@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** σ with Consciousness in AI (C141), λ with AGI Consciousness Requirements (C14D), δγ with Metacognition AI (C149)
+- **Shared Operators:** σ with Consciousness in AI (A0A0), λ with AGI Consciousness Requirements (C14D), δγ with Metacognition AI (C149)
 - **Unique Operators:** β(transfer|growth) — the specific capacity for cross-domain knowledge transfer without catastrophic forgetting
-- **Pattern Family:** AI cognition cluster (C15C, C141, C149, C14D, C058)
+- **Pattern Family:** AI cognition cluster (A0B1, A0A0, C149, C14D, A079)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Autopoiesis — self-organizing systems that maintain identity through change

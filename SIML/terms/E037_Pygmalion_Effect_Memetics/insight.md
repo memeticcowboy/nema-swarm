@@ -1,6 +1,6 @@
 # Pygmalion Effect Memetics — Insight
 
-**Tag:** S063 | **Series:** S — Sensemaking & Epistemics
+**Tag:** E037 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212704_997171_Harnessing+the+Pygmalion+Effect.md
 
 ## Overview

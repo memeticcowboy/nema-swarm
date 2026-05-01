@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** σ with MEbot Consciousness (C13D), λ with Cognitive AI (C15C), δγ with AGI Consciousness Requirements (C14D)
+- **Shared Operators:** σ with MEbot Consciousness (A09E), λ with Cognitive AI (A0B1), δγ with AGI Consciousness Requirements (C14D)
 - **Unique Operators:** ρ(neuronal|interaction) — the specifically biological substrate of consciousness as competitive neuronal selection
-- **Pattern Family:** Machine consciousness cluster (C141, C13D, C14D, C129)
+- **Pattern Family:** Machine consciousness cluster (A0A0, A09E, C14D, F00F)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Autopoiesis — self-organizing systems that generate their own boundaries

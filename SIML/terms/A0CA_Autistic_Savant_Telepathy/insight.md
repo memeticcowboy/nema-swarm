@@ -91,7 +91,7 @@ If validated, would require fundamental revision of:
 ---
 
 **Encoded:** 2026-03-04  
-**Tag:** C180  
+**Tag:** A0CA  
 **Source File:** 1771907212954_1831477_Exploring+Telepathy+in+Autistic+Savants%3A+Insights+from+Dr.+Diane+Powell%27s+Research.md
 
 ---

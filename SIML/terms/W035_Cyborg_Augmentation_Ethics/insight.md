@@ -1,6 +1,6 @@
 # Cyborg Augmentation Ethics — Insight
 
-**Tag:** S054 | **Series:** S — Sensemaking & Epistemics
+**Tag:** W035 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212652_847892_Cyborg+Augmentation%3A+Ethical+Insights.md
 
 ## Overview

@@ -1,11 +1,11 @@
-# C160 - Heuer_Intelligence_Analysis
+# A0B3 - Heuer_Intelligence_Analysis
 
 ## Source
 - **File**: 1771907212809_1306032_Enhancing+Intelligence+Analysis%3A+Overcoming+Cognitive+Biases.md
 - **Title**: The Psychology of Intelligence Analysis
 - **Author**: Richards J. Heuer Jr.
 - **Encoded**: 2026-03-04T02:53:00+08:00
-- **Tag**: C160
+- **Tag**: A0B3
 
 ## Summary
 Richards J. Heuer Jr.'s *The Psychology of Intelligence Analysis* examines how cognitive biases affect intelligence analysis and introduces structured techniques—particularly the Analysis of Competing Hypotheses (ACH)—to enhance critical thinking and decision-making in uncertain environments.

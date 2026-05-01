@@ -52,9 +52,9 @@ This case illuminates broader patterns in religious emergence:
 
 ## Related Concepts
 
-- Epistemology of religious experience (C006)
-- Jungian analysis of religious transformation (C043)
-- Cultural evolution of belief systems (C159)
+- Epistemology of religious experience (E023)
+- Jungian analysis of religious transformation (W00D)
+- Cultural evolution of belief systems (A0AE)
 - The sociology of new religious movements
 - Material religion and sacred objects
 

@@ -36,11 +36,11 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with C079_legalese_authority (distinction between manipulative and clear); ρ with A008_Double_Bind (self/external relational trap); μ with C090_modular_intelligence (boundary/limitation)
 - **Unique Operators:** All six active with Earth/δγ leading at 0.90 emphasis — making this a uniquely grounded metacognitive concept; the awareness/distraction oscillation is its signature rhythm
-- **Pattern Family:** Autonomy-Agency Cluster (C133, C079, S133_Cognitive_Firewalls)
+- **Pattern Family:** Autonomy-Agency Cluster (E02A, A081, S133_Cognitive_Firewalls)
 
 ### 3.2 Cross-Cultural Bridge
 - Double Bind (A008): Trapped in paradoxical communication → Cognitive Sovereignty: The capacity to recognize and resist the trap
-- Legalese Authority (C079): Language complexity as manipulation → Cognitive Sovereignty: Critical awareness that detects the manipulation
+- Legalese Authority (A081): Language complexity as manipulation → Cognitive Sovereignty: Critical awareness that detects the manipulation
 - Ecology of Mind (A063): Mind in relational circuit → Cognitive Sovereignty: Maintaining individual agency within the circuit
 - **Synthesis Insight:** Cognitive Sovereignty is the counterforce to every memetic pathology in the SIML system. Where double binds trap, legalese manipulates, and echo chambers confirm, cognitive sovereignty guards. But the concept contains its own tension: complete autonomy from external influence is neither possible nor desirable — the goal is conscious navigation, not isolation. The digital age makes this urgent: algorithmic influence and persuasive technologies threaten mental autonomy at unprecedented scale.
 

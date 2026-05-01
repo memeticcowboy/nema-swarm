@@ -1,4 +1,4 @@
-# C030 — Psychological Power of Words
+# A072 — Psychological Power of Words
 
 **Generated:** March 1, 2026  
 **Source:** 1771907212470_347427_The+Psychological+Power+of+Words.md  

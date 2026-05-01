@@ -43,7 +43,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - ρ+β with Silver (MET002) — resonance enabling exploration of distributed fields
+  - ρ+β with Silver (A0DE) — resonance enabling exploration of distributed fields
   - γ+σ with Tertiary Retention (M010) — ongoing process manifesting in local distinctions
 - **Unique Operators:** ρ∘β∘γ (resonant-exploratory-processual) — the specific combination of field constraint, nonlocal tendency, and ongoing unfinished process
 - **Pattern Family:** META_FRAMEWORK (cluster with Nemetic Pattern, Technics, Tertiary Retention)

@@ -58,18 +58,18 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - γ+σ with Unseen Health Threats (C181) — temporal cycling and visibility as shared challenges
-  - μ+ρ with DODO Loop (D069) — structural embeddedness and unequal resonance as control mechanisms
+  - γ+σ with Unseen Health Threats (E02F) — temporal cycling and visibility as shared challenges
+  - μ+ρ with DODO Loop (A0D1) — structural embeddedness and unequal resonance as control mechanisms
   - γ+μ with Wabi-Sabi (E006) — temporal processes and structural change, though Wabi-Sabi finds beauty where Slow Violence finds harm
 - **Unique Operators:** γ∘σ (temporal-invisibility) — the specific encoding where temporal dispersal creates invisibility, where the speed of destruction determines its visibility, where slowness IS the mechanism of violence
-- **Pattern Family:** COMPOST_METAPHYSICS / SYSTEMIC_HARM (cluster with C181, D069, E006)
+- **Pattern Family:** COMPOST_METAPHYSICS / SYSTEMIC_HARM (cluster with E02F, A0D1, E006)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Health** | Unseen Health Threats (C181) | Invisible systemic harm normalized by ubiquity |
-| **Politics** | DODO Loop (D069) | Structural control operating beneath awareness |
+| **Health** | Unseen Health Threats (E02F) | Invisible systemic harm normalized by ubiquity |
+| **Politics** | DODO Loop (A0D1) | Structural control operating beneath awareness |
 | **Ecology** | Climate Change | Gradual destruction dispersed across time and geography |
 | **Literature** | Nixon's "Slow Violence" | Representational challenge of making gradual harm visible |
 | **Justice** | Environmental Racism | Unequal distribution of slow harm across communities |

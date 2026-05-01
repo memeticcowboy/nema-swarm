@@ -1,4 +1,4 @@
-# Insight — Resonant Cognitive Architecture (S10E)
+# Insight — Resonant Cognitive Architecture (W03C)
 
 ## Overview
 

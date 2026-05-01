@@ -37,7 +37,7 @@
 - What thresholds determine whether power concentrates or distributes?
 
 ---
-*Generated from C080: Global Development and Inequality*
+*Generated from W015: Global Development and Inequality*
 *Source: Denis Galvan's 2008 Lecture*
 
 ## Causal Emergence Assessment (SIML v1.3)

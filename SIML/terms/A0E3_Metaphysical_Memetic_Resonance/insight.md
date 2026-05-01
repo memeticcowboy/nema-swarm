@@ -1,6 +1,6 @@
 # Metaphysical Memetic Resonance — Insight
 
-**Tag:** S045 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E3 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212629_777101_Metaphysical+Foundations+of+Memetic+Resonance.md
 
 ## Overview

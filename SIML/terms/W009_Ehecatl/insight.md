@@ -34,12 +34,12 @@ status: draft
 
 ## 3. Cross-Elemental Synthesis
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** ρ with A001–A004 (divine breath); λ with A004_Shu (directional force); μ with A004_Shu (structural form)
+- **Shared Operators:** ρ with A001–W008 (divine breath); λ with A004_Shu (directional force); μ with A004_Shu (structural form)
 - **Unique Operators:** β as change-agent — Ehecatl is uniquely agricultural, linking wind to rain to fertility
-- **Pattern Family:** Cosmogonic-Air Cluster (A004, A005) and Agricultural-Air
+- **Pattern Family:** Cosmogonic-Air Cluster (W008, W009) and Agricultural-Air
 
 ### 3.2 Cross-Cultural Bridge
-- Shu (A004): Air separates cosmic realms → Ehecatl: Air brings rain that connects sky to soil
+- Shu (W008): Air separates cosmic realms → Ehecatl: Air brings rain that connects sky to soil
 - Four Winds (A006): Air as cyclical teaching → Ehecatl: Air as seasonal catalyst
 - **Synthesis Insight:** Ehecatl is Air-as-messenger between divine and human, nature and culture. Where Shu creates space by separating, Ehecatl fills space with consequence — wind becomes rain becomes crop. The conch shell (breath symbol) and duck-bill mask (wind-blowing beak) encode Air's dual nature: internal breath and external force.
 
@@ -66,7 +66,7 @@ status: draft
 IF wind brings rain brings life AND the wind-god wears a mask (duck-bill) that distinguishes him from his feathered-serpent form THEN Air operates as both identity-carrier and identity-mask — what arrives is shaped by what the wind chooses to wear WITH ε (the gap between meteorological event and mythological meaning)
 
 ### 5.3 Lattice Position
-- **Thread:** Cosmogonic-Air (A004→A005)
+- **Thread:** Cosmogonic-Air (W008→W009)
 - **Knot:** Messenger-Between-Realms
 - **Threadplex:** Agricultural-Air × Masked-Identity
 - **Twist Potential:** High — the mask concept bridges Air mythology to identity theory

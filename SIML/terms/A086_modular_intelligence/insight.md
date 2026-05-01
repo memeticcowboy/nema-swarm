@@ -36,7 +36,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with A007_Information_Bateson (distinction); μ with C079_legalese_authority (boundary); β with C133_cognitive_sovereignty (agency growth)
 - **Unique Operators:** All six active, with σ and β emphasized — the pattern of domain-specific intelligence growing through practice is distinctive
-- **Pattern Family:** Intelligence-Architecture Cluster (C090, C14D_AGI_Consciousness_Requirements)
+- **Pattern Family:** Intelligence-Architecture Cluster (A086, C14D_AGI_Consciousness_Requirements)
 
 ### 3.2 Cross-Cultural Bridge
 - Virtual Machine Consciousness (A010): Layered software → Modular Intelligence: Parallel specialized modules

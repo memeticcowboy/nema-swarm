@@ -1,4 +1,4 @@
-# C104: Understanding Hallucinations in LLMs — Elemental Emphasis Questions
+# F00C: Understanding Hallucinations in LLMs — Elemental Emphasis Questions
 
 ## ∴ (Aerunik — Air/σ): Classification Questions
 - How do we classify truth versus fabrication in LLM outputs?

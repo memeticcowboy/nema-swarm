@@ -119,8 +119,8 @@ The framework emphasizes:
 - Separating identity from beliefs ("I was wrong" ≠ "I am wrong")
 
 **Related Concepts:**
-- Scientist Mindset (C021)
-- Heuristics and Biases (C052)
+- Scientist Mindset (A071)
+- Heuristics and Biases (A075)
 - Cognitive Biases (C050)
 - Motivated Reasoning (A017)
 - Confirmation Bias (A057)

@@ -43,8 +43,8 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - ρ+μ with Sacred Fire (F005) — resonance through ritual structure
-  - δγ+λ with Cool Burning (F004) — cycling toward purification
+  - ρ+μ with Sacred Fire (W026) — resonance through ritual structure
+  - δγ+λ with Cool Burning (W025) — cycling toward purification
 - **Unique Operators:** ρ∘δγ (resonant-cycling) — the specific combination of divine communication through cosmic process
 - **Pattern Family:** DIVINE_FIRE (cluster with Agni, Sacred Fire, Prometheus' Fire)
 
@@ -52,10 +52,10 @@ status: draft
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Ecology** | Cool Burning (F004) | Fire as regenerative mediator, not mere destruction |
+| **Ecology** | Cool Burning (W025) | Fire as regenerative mediator, not mere destruction |
 | **Philosophy** | Tertiary Retention (M010) | External medium carrying what individual memory cannot |
 | **Technology** | Global Workspace Theory (F006) | Broadcast hub making information globally available |
-| **Metallurgy** | Blacksmith (MET004) | Fire as transformative agent in ritual context |
+| **Metallurgy** | Blacksmith (W02F) | Fire as transformative agent in ritual context |
 
 ## 4. NEMA SWARM Integration
 

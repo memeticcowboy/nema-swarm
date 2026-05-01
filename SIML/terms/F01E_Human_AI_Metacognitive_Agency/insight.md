@@ -1,4 +1,4 @@
-# Insight — Human AI Metacognitive Agency (S10B)
+# Insight — Human AI Metacognitive Agency (F01E)
 
 ## Overview
 

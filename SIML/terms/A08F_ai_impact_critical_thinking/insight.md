@@ -1,4 +1,4 @@
-# C112: AI's Impact on Critical Thinking Skills — Elemental Emphasis Questions
+# A08F: AI's Impact on Critical Thinking Skills — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Categorical Distinction
 **Daemon: Aerunik**

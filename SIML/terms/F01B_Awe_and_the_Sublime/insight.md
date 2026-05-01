@@ -1,6 +1,6 @@
 # Awe and the Sublime — Insight
 
-**Tag:** S055 | **Series:** S — Sensemaking & Epistemics
+**Tag:** F01B | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212653_849746_Exploring+Awe+and+the+Sublime.md
 
 ## Overview

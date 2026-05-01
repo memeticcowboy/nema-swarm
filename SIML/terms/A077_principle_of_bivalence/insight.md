@@ -1,4 +1,4 @@
-# C054: Principle of Bivalence - Elemental Emphasis Questions
+# A077: Principle of Bivalence - Elemental Emphasis Questions
 
 ## ∴ (Air/σ - Aerunik): Distinction
 How does logic distinguish between true and false? What categorical cuts separate declarative sentences into binary truth values?

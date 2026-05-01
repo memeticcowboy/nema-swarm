@@ -1,4 +1,4 @@
-# C107: Skepticism vs. Bias in Science — Elemental Emphasis Questions
+# A08B: Skepticism vs. Bias in Science — Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Classification)
 - How do we classify the difference between healthy skepticism and bias-driven rejection?

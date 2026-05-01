@@ -1,6 +1,6 @@
 # Cognitive Models Storytelling — Insight
 
-**Tag:** S046 | **Series:** S — Sensemaking & Epistemics
+**Tag:** M023 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212630_784444_Cognitive+Models+in+Storytelling.md
 
 ## Overview

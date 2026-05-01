@@ -1,4 +1,4 @@
-# C059: Subconscious Games in Decision-Making — Elemental Emphasis Questions
+# A07A: Subconscious Games in Decision-Making — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Categorical Distinction
 **Emphasis: 0.85 | Daemon: Aerunik**

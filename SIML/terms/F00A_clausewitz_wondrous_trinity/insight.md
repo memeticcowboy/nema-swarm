@@ -1,4 +1,4 @@
-# C075: Clausewitz's Wondrous Trinity — Elemental Emphasis Questions
+# F00A: Clausewitz's Wondrous Trinity — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Categorical Distinction
 - How do we classify the three elements of war? What categorical cuts separate passion, chance, and reason as distinct yet interdependent forces?

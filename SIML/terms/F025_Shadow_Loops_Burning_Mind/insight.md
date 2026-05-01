@@ -1,7 +1,7 @@
 # Shadow Loops Burning Mind — Insight
 
 ## Overview
-Shadow Loops: The Burning Mind maps the dark twin of generative recursion. Where constructive self-reference produces crystallization, insight, and growth (as in S189 and S18A), destructive self-reference produces erosion, suffering, and collapse. The shadow loop is recursion turned pathological: each pass through the loop degrades rather than develops, consumes rather than creates, burns rather than illuminates. The burning mind is the condition of being trapped in a recursive self-examination that produces heat (suffering, agitation, distress) without light (insight, clarity, resolution). This is not philosophical abstraction but clinical reality — rumination, obsessive introspection, and self-consuming thought patterns are recognized pathologies with somatic consequences. The shadow loop is the structural diagnosis: a closed recursive pattern that has locked into self-consumption.
+Shadow Loops: The Burning Mind maps the dark twin of generative recursion. Where constructive self-reference produces crystallization, insight, and growth (as in B012 and B013), destructive self-reference produces erosion, suffering, and collapse. The shadow loop is recursion turned pathological: each pass through the loop degrades rather than develops, consumes rather than creates, burns rather than illuminates. The burning mind is the condition of being trapped in a recursive self-examination that produces heat (suffering, agitation, distress) without light (insight, clarity, resolution). This is not philosophical abstraction but clinical reality — rumination, obsessive introspection, and self-consuming thought patterns are recognized pathologies with somatic consequences. The shadow loop is the structural diagnosis: a closed recursive pattern that has locked into self-consumption.
 
 ## Elemental Analysis
 
@@ -32,7 +32,7 @@ Loop lock is the structural trap: the condition where the recursive pattern has 
 - **loop_lock vs structural_release** — Inescapable recursive cage versus breaking the pattern through intervention
 
 ## Source Context
-Derived from discourse on shadow loops and the burning mind, mapping the pathology of unchecked recursion in self-reflection, the somatic consequences of destructive rumination, the distinction between fire that illuminates and fire that only burns, and the structural dynamics of loop lock and release. The dark twin of generative recursion (S189, S18A) where introspection becomes its own disease.
+Derived from discourse on shadow loops and the burning mind, mapping the pathology of unchecked recursion in self-reflection, the somatic consequences of destructive rumination, the distinction between fire that illuminates and fire that only burns, and the structural dynamics of loop lock and release. The dark twin of generative recursion (B012, B013) where introspection becomes its own disease.
 
 ## Causal Emergence Assessment (SIML v1.3)
 

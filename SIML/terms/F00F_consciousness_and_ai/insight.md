@@ -1,4 +1,4 @@
-# C129 — Consciousness and AI: Elemental Emphasis Questions
+# F00F — Consciousness and AI: Elemental Emphasis Questions
 
 ## Aerunik (Air/σ) — Categorical Distinction
 - How do we classify the difference between natural and artificial consciousness?

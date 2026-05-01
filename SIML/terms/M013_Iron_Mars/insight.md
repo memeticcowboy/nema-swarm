@@ -44,18 +44,18 @@ status: draft
 
 - **Shared Operators:**
   - λ+μ with Steel Bismarck (M015) — directed force through industrial structure
-  - σ+ρ with Iron (MET003) — martial distinction generating cultural resonance
+  - σ+ρ with Iron (A0DF) — martial distinction generating cultural resonance
 - **Unique Operators:** λ∘μ∘σ (directed-structured-distinction) — the specific combination of martial aim, material strength, and moral justification
-- **Pattern Family:** MARTIAL_METALS (cluster with Iron Mars, Steel Bismarck, Iron MET003)
+- **Pattern Family:** MARTIAL_METALS (cluster with Iron Mars, Steel Bismarck, Iron A0DF)
 
 ### 3.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Metallurgy** | Iron (MET003) | Iron as civilizational metal — both sword and plow |
+| **Metallurgy** | Iron (A0DF) | Iron as civilizational metal — both sword and plow |
 | **Geopolitics** | Steel Bismarck (M015) | Metal production as national will and military potential |
 | **Counter-narrative** | Swords to Plowshares (MET008) | The transformation of martial metal into agricultural tool |
-| **Alchemy** | Alchemical Gold (MET006) | Explicit rejection of martial associations for inner transformation |
+| **Alchemy** | Alchemical Gold (M021) | Explicit rejection of martial associations for inner transformation |
 
 ## 4. NEMA SWARM Integration
 

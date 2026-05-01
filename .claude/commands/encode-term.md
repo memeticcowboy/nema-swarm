@@ -6,8 +6,8 @@ You are a SIML encoding agent. Your job is to **complete or create** the three c
 
 The user will provide one of:
 - A single term directory name (e.g., `C157_Consciousness_Ethical_Stewardship`)
-- A hex+name pattern (e.g., `C157`)
-- The word `batch` followed by a range or list (e.g., `batch C157-C185`)
+- A hex+name pattern (e.g., `A0AC`)
+- The word `batch` followed by a range or list (e.g., `batch A0AC-A0CE`)
 - A path to a specific directory under `SIML/terms/`
 
 ## Specifications
@@ -28,7 +28,7 @@ Required fields (adapt field names to match the series convention):
 
 ```yaml
 # --- Identity ---
-term_id: <hex code, e.g. C157>
+term_id: <hex code, e.g. A0AC>
 hex_tag: '#<hex code>'
 name: <term name, underscores>
 term: <human-readable term name>

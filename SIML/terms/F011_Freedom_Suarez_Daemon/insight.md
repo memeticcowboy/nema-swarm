@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with C073_Freedom_Within_Constraints; λ with C177_Fourth_Political_Theory
 - **Unique Operators:** β(decentralization|power) — the paradox of decentralized systems generating new power concentrations
-- **Pattern Family:** Freedom-Technology cluster (C17F, C073, C177, C16E)
+- **Pattern Family:** Freedom-Technology cluster (F011, F009, A0C6, A0C0)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C073_Freedom_Within_Constraints — the distinction between freedom and constraint
@@ -49,7 +49,7 @@ status: draft
 - **Parallel Term (Fire):** C177_Fourth_Political_Theory — revolutionary transformation of political order
 - **Parallel Term (Wood):** C146_AI_Welfare_Ethics — organic growth of ethical frameworks for technology
 - **Parallel Term (Earth):** A037_Overton_Window — grounding of acceptable discourse
-- **Parallel Term (Metal):** C17F itself (μ) — structural boundaries of the Daemon system
+- **Parallel Term (Metal):** F011 itself (μ) — structural boundaries of the Daemon system
 - **Synthesis Insight:** Suarez's Daemon reveals that technological liberation creates new forms of governance that may reproduce the very power structures they sought to dismantle, making freedom a perpetually unstable achievement.
 
 ## 4. NEMA SWARM Integration

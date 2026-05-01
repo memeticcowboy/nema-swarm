@@ -1,11 +1,11 @@
-# C162 - Demon_Haunted_World
+# A0B5 - Demon_Haunted_World
 
 ## Source
 - **File**: 1771907212811_1339499_.md
 - **Title**: The Demon-Haunted World: Science as a Candle in the Dark
 - **Created**: 2024/12/27
 - **Encoded**: 2026-03-04T03:13:00+08:00
-- **Tag**: C162
+- **Tag**: A0B5
 
 ## Summary
 Carl Sagan's seminal work advocating for scientific skepticism and critical thinking as essential tools against superstition, pseudoscience, and misinformation. The text introduces the "Baloney Detection Kit"—a toolkit of critical thinking tactics for identifying logical fallacies, assessing sources, and seeking independent verification.

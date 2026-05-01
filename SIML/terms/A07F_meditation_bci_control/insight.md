@@ -1,4 +1,4 @@
-# SIML Insight: Meditation Enhances BCI Control (C067)
+# SIML Insight: Meditation Enhances BCI Control (A07F)
 
 **Generated:** March 1, 2026
 **Hex Tag:** #A07F
@@ -44,7 +44,7 @@ Boundaries between mind and machine dissolve through meditative training; consci
 
 ## Elemental Emphasis Questions (Prior Analysis)
 
-# C067: Meditation Enhances BCI Control — Elemental Emphasis Questions
+# A07F: Meditation Enhances BCI Control — Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Categorical Distinction
 - How do we distinguish between focused attention and mental distraction during BCI operation?

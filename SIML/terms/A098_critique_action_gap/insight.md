@@ -1,4 +1,4 @@
-# C125: Critique and Action Gap — Elemental Emphasis Questions
+# A098: Critique and Action Gap — Elemental Emphasis Questions
 
 ## Aerunik (Air σ) — Classification & Distinction
 - How do we classify the difference between analytical critique and actionable implementation?

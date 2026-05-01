@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with C155_Freedom_of_Expression; ρ with C010_authority_influence
 - **Unique Operators:** λ(contract|rupture) — the paradox of a contract containing its own dissolution clause
-- **Pattern Family:** Governance-Resistance cluster (C165, C155, C115, C073)
+- **Pattern Family:** Governance-Resistance cluster (A0B8, A0AB, A092, F009)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C155_Freedom_of_Expression — rights as codified distinctions

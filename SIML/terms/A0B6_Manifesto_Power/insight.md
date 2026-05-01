@@ -1,11 +1,11 @@
-# C163 - Manifesto_Power
+# A0B6 - Manifesto_Power
 
 ## Source
 - **File**: 1771907212814_1356415_.md
 - **Title**: Examples of Manifestos
 - **Author**: Daniel Durrant (via Perplexity)
 - **Encoded**: 2026-03-04T03:23:00+08:00
-- **Tag**: C163
+- **Tag**: A0B6
 
 ## Summary
 Manifestos represent a distinct genre of transformative discourse that combines philosophical critique with revolutionary praxis. Through analysis of four canonical manifestos—Marx and Engels' Communist Manifesto, Marinetti's Futurist Manifesto, Haraway's Cyborg Manifesto, and Solanas' SCUM Manifesto—this entry explores how manifestos function as memetic engines for social and intellectual change.

@@ -37,17 +37,17 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Wu Xing Wood (WO002), ρ with Bodhi Tree (WO005)
+- **Shared Operators:** δγ with Wu Xing Wood (W04E), ρ with Bodhi Tree (W050)
 - **Unique Operators:** δγ as generous-cycling — every part of the tree serves, not just the wood
 - **Pattern Family:** Sacred tree cluster (Yggdrasil, Celtic Trees, Bodhi Tree, Baobab, Red Cedar)
 
 ### 3.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Earth as Sacred Relative (E003) — more-than-human kinship
+- **Parallel Term (Earth):** Earth as Sacred Relative (A0D2) — more-than-human kinship
 - **Parallel Term (Metal):** Silver Healing (MET007) — healing through sacred material
 - **Parallel Term (Air):** Pneuma (A001) — breath of smudging as spiritual technology
 - **Parallel Term (Water):** Water as Purifier (W002) — parallel purification technology
-- **Parallel Term (Wood):** Bodhi Tree (WO005) — sacred tree as enlightenment site
-- **Parallel Term (Fire):** Sacred Fire (F005) — fire as parallel ceremonial technology
+- **Parallel Term (Wood):** Bodhi Tree (W050) — sacred tree as enlightenment site
+- **Parallel Term (Fire):** Sacred Fire (W026) — fire as parallel ceremonial technology
 - **Synthesis Insight:** Red Cedar represents Wood as total generosity — every part serves (bark for baskets, wood for canoes, roots for rope, branches for smudging). This is cycling (δγ) as giving, not just growing, and sacred resonance (ρ) as Creator's gift making use an act of gratitude.
 
 ## 4. NEMA SWARM Integration
@@ -149,7 +149,7 @@ knowledge systems without claiming to embody them.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Red_Cedar.md
-- **Cross-reference:** Bodhi Tree (WO005), Baobab (WO006), Water as Purifier (W002), Earth as Sacred Relative (E003)
+- **Cross-reference:** Bodhi Tree (W050), Baobab (WO006), Water as Purifier (W002), Earth as Sacred Relative (A0D2)
 - **Open Question:** Can technological design embody cedar's principle — total generosity where every component serves multiple purposes?
 - **Suggested Facilitation:** Use this term in Opening as purification practice (smudging metaphor), or in Reflecting for gratitude and reciprocity exploration
 

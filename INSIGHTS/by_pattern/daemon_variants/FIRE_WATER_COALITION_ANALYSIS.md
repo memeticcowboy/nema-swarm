@@ -26,7 +26,7 @@
 
 ## Fire Variants — The Forge (Revisited)
 
-### Prometheus' Fire (F001) — The Thief
+### Prometheus' Fire (A0D5) — The Thief
 
 **Operator Pattern:** λ-β-δ-μ
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Agni (F002) — The Messenger
+### Agni (W024) — The Messenger
 
 **Operator Pattern:** ρ-δγ-μ-λ
 
@@ -72,7 +72,7 @@
 
 ---
 
-### Water as Destroyer (W003) — Fire's Shadow
+### Water as Destroyer (A10C) — Fire's Shadow
 
 **Operator Pattern:** λ-δγ-σ-ρ
 
@@ -108,7 +108,7 @@
 
 ---
 
-### Living Water (W005) — The Kin
+### Living Water (A10D) — The Kin
 
 **Operator Pattern:** ρ-δγ-μ-σ
 

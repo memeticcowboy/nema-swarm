@@ -1,4 +1,4 @@
-# C115 — Protecting Freedom of Thought
+# A092 — Protecting Freedom of Thought
 ## Elemental Emphasis Questions
 
 ### ∴ Air (σ) — Categorical Distinction
@@ -49,7 +49,7 @@
 ## Source Context
 **File:** 1771907212658_859415_Protecting+Freedom+of+Thought.md  
 **Generated:** March 2, 2026 — 2:23 AM (Asia/Shanghai)  
-**SIML Entry:** C115
+**SIML Entry:** A092
 
 ## Causal Emergence Assessment (SIML v1.3)
 

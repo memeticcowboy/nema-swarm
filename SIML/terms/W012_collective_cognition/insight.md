@@ -1,4 +1,4 @@
-# C070 Collective Cognition - Elemental Emphasis Questions
+# W012 Collective Cognition - Elemental Emphasis Questions
 
 ## ∴ Air (Aerunik) - Categorical Distinction
 - How do we distinguish between individual intelligence and emergent collective cognition?

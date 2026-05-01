@@ -37,7 +37,7 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** σ with Barnum Effect (A01B), μ with Cognitive Sovereignty (C133)
+- **Shared Operators:** σ with Barnum Effect (A01B), μ with Cognitive Sovereignty (E02A)
 - **Unique Operators:** δγ(intimacy|distance) — the paradox of feeling known by a system that does not know
 - **Pattern Family:** AI-mediated self-knowledge cluster (AI Personality Assessment, AI Emotions, MEbot Consciousness)
 

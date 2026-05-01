@@ -1,6 +1,6 @@
 # Memes, Motivation, and the Dance of Autonomy — Insight
 
-**Tag:** S047 | **Series:** S — Sensemaking & Epistemics
+**Tag:** E035 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212631_793858_Memes%2C+Motivation%2C+and+the+Dance+of+Autonomy.md
 
 ## Overview

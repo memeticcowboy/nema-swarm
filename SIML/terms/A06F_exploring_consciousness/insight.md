@@ -1,4 +1,4 @@
-# C009: Exploring Consciousness - Elemental Emphasis Questions
+# A06F: Exploring Consciousness - Elemental Emphasis Questions
 
 ## SIML Entry: Exploring Consciousness
 **Source:** 1771907212404_262647_Exploring+Consciousness.md  

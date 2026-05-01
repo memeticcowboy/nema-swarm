@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Rewilding (G00A), σ with Authority Influence (C010), λ with Freedom Within Constraints (C073)
+- **Shared Operators:** δγ with Rewilding (W029), σ with Authority Influence (A070), λ with Freedom Within Constraints (F009)
 - **Unique Operators:** The combination of δγ(exploitation|sustainability) with μ(hierarchy|balance) is distinctive — ecological and political structure as inseparable
-- **Pattern Family:** Power-ecology cluster (C15D, G00C Biocentric Governance, G00D Great Simplification, E007 Chthulucene)
+- **Pattern Family:** Power-ecology cluster (A0B2, A0D8 Biocentric Governance, A0D9 Great Simplification, E007 Chthulucene)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Terroir — place as the ground of all identity and value

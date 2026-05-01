@@ -1,5 +1,5 @@
 # Neiye: A Chinese Model of Cognition
-## SIML Term Entry C13A
+## SIML Term Entry A09D
 ### Source: 1771907212445_279603_.md
 
 ## Overview
@@ -132,7 +132,7 @@ Discovered via [X/Rotkapchen](https://x.com/rotkapchen/status/181139622760464826
 
 ## Encoding Metadata
 
-- **SIML Tag**: C13A
+- **SIML Tag**: A09D
 - **Term Name**: Neiye_Chinese_Cognition
 - **Series**: C (Critical Thinking)
 - **Encoded**: 2026-03-03T20:23:00+08:00

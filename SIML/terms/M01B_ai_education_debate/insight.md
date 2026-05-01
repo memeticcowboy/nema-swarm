@@ -1,4 +1,4 @@
-# C098: AI's Impact on Education Debate — Elemental Emphasis Questions
+# M01B: AI's Impact on Education Debate — Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Categorical Distinction)
 - How do we classify authentic learning versus automated completion?

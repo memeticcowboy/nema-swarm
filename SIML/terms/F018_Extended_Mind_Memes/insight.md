@@ -1,6 +1,6 @@
 # Extended Mind and Memes — Insight
 
-**Tag:** S03D | **Series:** S — Sensemaking & Epistemics
+**Tag:** F018 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212617_739188_Untitled.md
 
 ## Overview
@@ -36,7 +36,7 @@ The structural embedding of memes in cultural systems — languages, media, inst
 - **Individual vs. Distributed Cognition**: The extended mind dissolves individual cognitive boundaries, but human experience remains stubbornly first-personal. The phenomenological unity of consciousness sits uneasily with the distributed, memetic nature of thought content.
 
 ## Source Context
-Based on an analysis applying Clark and Chalmers' Extended Mind Hypothesis to memetic theory, treating memes as cognitive prosthetics and active cognitive agents that co-evolve with human cognition and generate emergent cultural complexity. Closely related to S03E (Subjective Idealism, Memes, and Reality).
+Based on an analysis applying Clark and Chalmers' Extended Mind Hypothesis to memetic theory, treating memes as cognitive prosthetics and active cognitive agents that co-evolve with human cognition and generate emergent cultural complexity. Closely related to A0E2 (Subjective Idealism, Memes, and Reality).
 
 ---
 

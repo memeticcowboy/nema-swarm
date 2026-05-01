@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with C045_nature_of_consciousness; σ with C148_Free_Will_Determinism
 - **Unique Operators:** β(intuition|intellect) — the organic mode of knowing that enters reality from within
-- **Pattern Family:** Consciousness-Temporality cluster (C169, C045, C009, C007)
+- **Pattern Family:** Consciousness-Temporality cluster (A0BC, E024, A06F, M016)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C006_epistemology_truth_knowledge_belief — knowing through distinction

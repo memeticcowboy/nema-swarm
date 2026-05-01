@@ -1,4 +1,4 @@
-# C006: Epistemology — Elemental Emphasis Questions
+# E023: Epistemology — Elemental Emphasis Questions
 
 ## ∴ (Air/Sigma — Distinction)
 **How is truth distinguished from belief? What cuts separate justified knowledge from mere opinion?**

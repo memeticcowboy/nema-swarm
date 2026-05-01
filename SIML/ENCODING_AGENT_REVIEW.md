@@ -33,40 +33,40 @@ Example — "Subconscious Games in Decision-Making" was encoded **3 times**:
 | Term | Nemetic String | Tag |
 |------|---------------|-----|
 | C012 | `Φ(SubconsciousGames) = σ(hidden\|manifest) ∘ ρ(automatic\|deliberate) ∘ λ(avoidance\|awareness) ∘ β(pattern\|choice) ∘ δγ(repetition\|growth) ∘ μ(illusion\|reality) + ε \| :illuminating` | `:illuminating` |
-| C059 | `Φ(SubconsciousGames) = σ(hidden\|explicit) ∘ ρ(influence\|awareness) ∘ λ(revelation\|concealment) ∘ β(pattern\|chaos) ∘ δγ(belief\|truth) ∘ μ(boundary\|transgression) + ε \| :awakening` | `:awakening` |
+| A07A | `Φ(SubconsciousGames) = σ(hidden\|explicit) ∘ ρ(influence\|awareness) ∘ λ(revelation\|concealment) ∘ β(pattern\|chaos) ∘ δγ(belief\|truth) ∘ μ(boundary\|transgression) + ε \| :awakening` | `:awakening` |
 | C136 | `Φ(SubconsciousGames) = σ(hidden\|explicit) ∘ ρ(unawareness\|awareness) ∘ λ(influence\|autonomy) ∘ β(pattern\|breakthrough) ∘ δγ(routine\|reflection) ∘ μ(automatic\|conscious) + ε \| :revealing` | `:revealing` |
 
 **Full list of C-series exact-name duplicates:**
 
 | Concept | Duplicate Terms | Count |
 |---------|----------------|-------|
-| subconscious_games_decision_making | C012, C059, C136 | 3x |
-| mastering_critical_thinking_skills | C027, C035, C076 | 3x |
-| ai_emotions_truthfulness_security | C031, C081 | 2x |
-| analyzer_cyborg | C038, C102 | 2x |
-| beliefs_structure_impact | C014, C062 | 2x |
-| brain_learning_ux | C029, C077 | 2x |
-| clausewitz_wondrous_trinity | C032, C075 | 2x |
-| cognitive_adaptability_ai | C036, C058 | 2x |
-| collective_cognition | C025, C070 | 2x |
-| consciousness_reductionism_debate | C008, C040 | 2x |
-| contrarian_thinking | C016, C064 | 2x |
-| epistemic_challenges_open_societies | C024, C069 | 2x |
-| heuristics_and_biases | C019, C052 | 2x |
-| human_behavior_ai_training | C044, C078 | 2x |
-| ignorance_map | C004, C056 | 2x |
-| jazz_improvisation_neural_mechanisms | C023, C068 | 2x |
-| meditation_bci_control | C022, C067 | 2x |
-| modular_intelligence | C039, C090 | 2x |
-| multiple_intelligences_theory | C049, C085 | 2x |
-| post_singularity_education | C017, C060 | 2x |
-| principle_of_bivalence | C054, C126 | 2x |
-| psilocybin_brain_activity | C026, C072 | 2x |
-| psychological_power_of_words | C030, C046 | 2x |
-| quantum_entanglement_consciousness | C028, C092 | 2x |
-| social_context_cognition | C013, C061 | 2x |
+| subconscious_games_decision_making | C012, A07A, C136 | 3x |
+| mastering_critical_thinking_skills | C027, C035, M018 | 3x |
+| ai_emotions_truthfulness_security | C031, E027 | 2x |
+| analyzer_cyborg | C038, A089 | 2x |
+| beliefs_structure_impact | C014, A07B | 2x |
+| brain_learning_ux | C029, W013 | 2x |
+| clausewitz_wondrous_trinity | C032, F00A | 2x |
+| cognitive_adaptability_ai | C036, A079 | 2x |
+| collective_cognition | C025, W012 | 2x |
+| consciousness_reductionism_debate | A06E, C040 | 2x |
+| contrarian_thinking | C016, A07D | 2x |
+| epistemic_challenges_open_societies | C024, E025 | 2x |
+| heuristics_and_biases | C019, A075 | 2x |
+| human_behavior_ai_training | C044, W014 | 2x |
+| ignorance_map | C004, A078 | 2x |
+| jazz_improvisation_neural_mechanisms | C023, F007 | 2x |
+| meditation_bci_control | C022, A07F | 2x |
+| modular_intelligence | C039, A086 | 2x |
+| multiple_intelligences_theory | C049, A084 | 2x |
+| post_singularity_education | C017, F006 | 2x |
+| principle_of_bivalence | A077, C126 | 2x |
+| psilocybin_brain_activity | C026, F008 | 2x |
+| psychological_power_of_words | A072, C046 | 2x |
+| quantum_entanglement_consciousness | C028, A087 | 2x |
+| social_context_cognition | C013, W011 | 2x |
 | status_quo_bias | C018, C065 | 2x |
-| wisdom_focused_collaborative_ai | C020, C066 | 2x |
+| wisdom_focused_collaborative_ai | C020, A07E | 2x |
 
 **Near-duplicates (similar concepts, different names):**
 
@@ -94,7 +94,7 @@ The Democracy domain is the worst affected. The agent appears to have re-encoded
 | integrated_governance_synthesis | 3 variants |
 | deliberation_attention_economy | 2 variants |
 
-Only ~13 of 69 D-series terms appear to be unique concepts (D001-D008, D030, D031, D042, D056, D069).
+Only ~13 of 69 D-series terms appear to be unique concepts (D001-D008, D030, D031, D042, D056, A0D1).
 
 ### L-Series Duplicates (14 exact-name duplicate pairs)
 
@@ -125,7 +125,7 @@ These terms share a hex tag number, meaning the tag is no longer a unique identi
 | Tag | Concept 1 | Concept 2 |
 |-----|-----------|-----------|
 | A060 | Actual_Occasion | Attention_Fragmentation |
-| C001 | Confabulation | critical_thinking_definitions |
+| A06B | Confabulation | critical_thinking_definitions |
 | E012 | Ethnomethodology | Structural_Coupling |
 | E013 | Contexture | Sense_Making |
 | E015 | Sequential_Organization | Whitehead_Concrescence |
@@ -162,7 +162,7 @@ These 36 C-series terms have no `source_file` field in their `term.yaml`, making
 
 C001_Confabulation, C004_ignorance_map, C012-C029 (range), C031-C036, C038-C040, C044, C046-C050, C089_psilocybin_ego_dissolution, C136_subconscious_games_decision_making
 
-**Pattern:** The C012-C050 range appears to be an earlier encoding pass that did not track source files. The C056-C136 range (later pass) does include `source_file` references. This suggests the agent was improved at some point to add provenance tracking, but the older terms were never backfilled.
+**Pattern:** The C012-C050 range appears to be an earlier encoding pass that did not track source files. The A078-C136 range (later pass) does include `source_file` references. This suggests the agent was improved at some point to add provenance tracking, but the older terms were never backfilled.
 
 ### One Source File Encoded Twice
 
@@ -176,11 +176,11 @@ The glossary file `SWARM_BASE/swarm_base_01.md` (9,295 lines, 157 entries) has i
 
 ### Internal Duplicates
 23 term names appear 2+ times in swarm_base_01.md with different hex tags. Notable triples:
-- "Subconscious Games in Decision-Making" appears at C012, C021, and C059
+- "Subconscious Games in Decision-Making" appears at C012, A071, and A07A
 - "Status Quo Bias" appears at C018, C065, and A053
-- "Mastering Critical Thinking Skills" appears at C027, C035, and C076
+- "Mastering Critical Thinking Skills" appears at C027, C035, and M018
 
-### Hex Tag Conflict: C021
+### Hex Tag Conflict: A071
 Within swarm_base_01.md, hex tag **#A071** is assigned to two different terms:
 - "Scientist Mindset" (line ~2296)
 - "Subconscious Games in Decision-Making" (line ~4778)
@@ -190,15 +190,15 @@ Within swarm_base_01.md, hex tag **#A071** is assigned to two different terms:
 
 ### 19 Orphaned Tags
 19 hex tags in swarm_base_01.md have no corresponding directory in SIML/terms/:
-`A042, A043, A044, A046, A047, A048, A049, A04B, A04C, A04E, A04F, A050, A051, A052, A054, A056, A05C, A05D`, and the second C021 usage.
+`A042, A043, A044, A046, A047, A048, A049, A04B, A04C, A04E, A04F, A050, A051, A052, A054, A056, A05C, A05D`, and the second A071 usage.
 
 Some of these topics DO exist in SIML/terms/ under different tags (e.g., swarm_base's `A043_Barnum_Effect` corresponds to SIML/terms' `A01B_Barnum_Effect`).
 
 ### Cross-Series Duplicates
 Some concepts are duplicated across different series prefixes:
-- `Chthulucene`: E007 and WO009
+- `Chthulucene`: E007 and B016
 - `Cognitive_Dissonance`: A01A and P005
-- `Wu_Xing_Wood`: WO002 and WO011
+- `Wu_Xing_Wood`: W04E and WO011
 - `Status_Quo_Bias`: A053, C018, and C065
 - `Cognitive_Flexibility_Theory`: L033, L056, and P008
 - `Connectivism`: L023 and P009
@@ -234,7 +234,7 @@ Before encoding a source file, the agent must check a manifest (e.g., `SIML/mani
 entries:
   - source_file: "1771907212348_230827_Impact+of+Fragmented+Media+Consumption.md"
     term_dir: "C002_fragmented_media_consumption"
-    hex_tag: "C002"
+    hex_tag: "A06C"
     encoded_at: "2026-01-15T03:00:00Z"
 ```
 
@@ -252,8 +252,8 @@ Maintain a `SIML/hex_registry.yaml` that is the single source of truth for all a
 C:
   next_available: "C137"
   assigned:
-    C001: "critical_thinking_definitions"
-    C002: "fragmented_media_consumption"
+    A06B: "critical_thinking_definitions"
+    A06C: "fragmented_media_consumption"
     # ...
 D:
   next_available: "D070"

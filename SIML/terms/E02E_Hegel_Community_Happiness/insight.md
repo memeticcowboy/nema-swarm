@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with C135_Social_Capital_Types; δγ with C167_Frankl_Logotherapy_Meaning
 - **Unique Operators:** β(Moralitaet|ethical_life) — the feedback between personal morality and institutional ethics
-- **Pattern Family:** Social-Integration cluster (C17E, C135, C167, C150)
+- **Pattern Family:** Social-Integration cluster (E02E, W01F, A0BA, A0A7)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C150_Individuality_Huxley_Dystopia — the distinction between genuine and manufactured community
@@ -49,7 +49,7 @@ status: draft
 - **Parallel Term (Fire):** C177_Fourth_Political_Theory — the drive toward collective political transformation
 - **Parallel Term (Wood):** C167_Frankl_Logotherapy_Meaning — organic growth of meaning through community
 - **Parallel Term (Earth):** M005_Triality — grounding dialectical synthesis
-- **Parallel Term (Metal):** C17E itself (μ) — structural boundaries between integration and absorption
+- **Parallel Term (Metal):** E02E itself (μ) — structural boundaries between integration and absorption
 - **Synthesis Insight:** Hegel reveals that happiness is not an individual achievement but a social accomplishment, requiring the dialectical integration of personal autonomy with ethical community.
 
 ## 4. NEMA SWARM Integration

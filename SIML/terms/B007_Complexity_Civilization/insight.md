@@ -1,6 +1,6 @@
 # Complexity Civilization — Insight
 
-**Tag:** S056 | **Series:** S — Sensemaking & Epistemics
+**Tag:** B007 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212658_859763_Understanding+Complexity+in+Civilization.md
 
 ## Overview

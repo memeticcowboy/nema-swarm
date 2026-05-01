@@ -1,6 +1,6 @@
 # Cognition Without Language — Insight
 
-**Tag:** S04D | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E5 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212640_816743_Thinking+Beyond+Words%3A+Cognition+Unleashed.md
 
 ## Overview

@@ -69,7 +69,7 @@ This insight derives from an exploration of how AI systems may implicitly perpet
 
 ## Related Concepts
 
-- Cognitive Bias (C001)
+- Cognitive Bias (A06B)
 - Epistemic Challenges in Open Societies
 - AI Ethics and Cultural Representation
 - Decolonial Technology Frameworks

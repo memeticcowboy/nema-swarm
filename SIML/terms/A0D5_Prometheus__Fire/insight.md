@@ -43,8 +43,8 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - λ+β with Agni (F002), Sacred Fire (F005) — directed fire opening possibility
-  - σ+ρ with Cool Burning (F004), Global Workspace Theory (F006) — distinction generating resonance
+  - λ+β with Agni (W024), Sacred Fire (W026) — directed fire opening possibility
+  - σ+ρ with Cool Burning (W025), Global Workspace Theory (F006) — distinction generating resonance
 - **Unique Operators:** λ∘β (directed-possibility) — the specific combination of civilizational aim with knowledge exploration
 - **Pattern Family:** CIVILIZATIONAL_FIRE (cluster with Prometheus, Agni, Sacred Fire, Cool Burning)
 
@@ -54,7 +54,7 @@ status: draft
 |--------|--------------|----------------|
 | **Technology** | Open Source Movement | Knowledge stolen from proprietary gods, gifted to mortals at personal cost |
 | **Education** | Transformative Learning (L004) | Knowledge that changes the knower, not just informs |
-| **Ecology** | Cool Burning (F004) | Fire as gift to land, controlled destruction enabling renewal |
+| **Ecology** | Cool Burning (W025) | Fire as gift to land, controlled destruction enabling renewal |
 | **Philosophy** | Technics (M011) | Tools as constitutive of the human — fire is the first technics |
 
 ## 4. NEMA SWARM Integration

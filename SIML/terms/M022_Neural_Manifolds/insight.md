@@ -1,6 +1,6 @@
 # Neural Manifolds — Insight
 
-**Tag:** S041 | **Series:** S — Sensemaking & Epistemics
+**Tag:** M022 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212621_746687_Understanding+Neural+Manifolds+in+Neuroscience.md
 
 ## Overview

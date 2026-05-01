@@ -1,4 +1,4 @@
-# C16B: Cognitive Laziness with LLMs in Education
+# A0BD: Cognitive Laziness with LLMs in Education
 
 ## Etymology
 **Cognitive**: From Latin *cognoscere* (to get to know, recognize), from *co-* (together) + *gnoscere* (to know). Related to the processes of thinking, knowing, and understanding.  
@@ -53,6 +53,6 @@ The phenomenon wherein reliance on Large Language Models (LLMs) in educational c
 
 ## SIML Metadata
 - **Series**: C (Critical Thinking)
-- **Tag**: C16B
+- **Tag**: A0BD
 - **Confidence**: 0.85
 - **Encoding Agent**: nema_critical_thinking_generator

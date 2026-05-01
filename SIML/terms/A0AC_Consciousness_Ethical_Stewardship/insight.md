@@ -122,11 +122,11 @@ In AI and technology contexts, this creates opportunities for:
 - Building frameworks for responsible innovation that honors planetary boundaries
 
 **Related Concepts:**
-- Consciousness beyond materialism (C007)
-- Nature of consciousness (C045)
-- AI welfare ethics (C146)
-- Technology environmental adaptation (C147)
-- Human enhancement ethics (C142)
+- Consciousness beyond materialism (M016)
+- Nature of consciousness (E024)
+- AI welfare ethics (A0A4)
+- Technology environmental adaptation (A0A5)
+- Human enhancement ethics (A0A1)
 
 ---
 

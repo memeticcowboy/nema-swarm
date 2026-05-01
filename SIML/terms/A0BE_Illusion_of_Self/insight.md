@@ -1,11 +1,11 @@
-# C16C - Illusion_of_Self
+# A0BE - Illusion_of_Self
 
 ## Source
 - **File**: 1771907212879_1661815_Illusion+of+Self%3A+Merging+Cognitive+Science+and+Vedanta.md
 - **Title**: Illusion of Self: Merging Cognitive Science and Vedanta
 - **Author**: MemeticCowboy GPT / via x/change rajendra
 - **Encoded**: 2026-03-04T04:53:00+08:00
-- **Tag**: C16C
+- **Tag**: A0BE
 
 ## Summary
 The Illusion of Self represents the convergence of Daniel Dennett's Multiple Drafts Theory from cognitive science and Vedanta's ancient philosophical framework. Both perspectives challenge the conventional belief in a singular, unified self—one through neurocognitive mechanisms, the other through metaphysical inquiry—revealing the self as a constructed narrative rather than an essential, permanent entity.

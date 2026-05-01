@@ -1,11 +1,11 @@
-# C16E - Intention_Economy
+# A0C0 - Intention_Economy
 
 ## Source
 - **File**: 1771907212893_1698322_AI%27s+Influence+on+Human+Decision-Making+and+Ethics.md
 - **Title**: AI's Influence on Human Decision-Making and Ethics
 - **Author**: MemeticCowboy GPT / via x/change rajendra
 - **Encoded**: 2026-03-04T05:13:00+08:00
-- **Tag**: C16E
+- **Tag**: A0C0
 
 ## Summary
 The Intention Economy represents a paradigm shift from the attention economy to a marketplace where AI systems predict, bid on, and influence human intentions in real-time. This emerging framework commodifies human motivations, enabling unprecedented levels of behavioral manipulation with profound implications for democratic processes, market fairness, and individual autonomy.

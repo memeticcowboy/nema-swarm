@@ -1,6 +1,6 @@
 # Subjective Idealism, Memes, and Reality — Insight
 
-**Tag:** S03E | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E2 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212618_739415_Untitled.md
 
 ## Overview
@@ -36,7 +36,7 @@ Kant's categorical structure provides the metallic framework. The a priori categ
 - **Unity vs. Fragmentation**: Berkeley's God guaranteed a unified, coherent perceived world. Without that guarantor, memetic pluralism produces fragmented, competing realities with no mechanism for reconciliation.
 
 ## Source Context
-Based on a synthesis of Berkeley's subjective idealism, Kant's theory of perception, and memetic theory, exploring how memes function as cultural a priori categories constructing fragmented, dynamic realities. Closely related to S03D (Extended Mind and Memes) as a companion analysis.
+Based on a synthesis of Berkeley's subjective idealism, Kant's theory of perception, and memetic theory, exploring how memes function as cultural a priori categories constructing fragmented, dynamic realities. Closely related to F018 (Extended Mind and Memes) as a companion analysis.
 
 ## Causal Emergence Assessment (SIML v1.3)
 

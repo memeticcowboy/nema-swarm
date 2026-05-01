@@ -1,4 +1,4 @@
-# Insight — Great Simplification (G00D)
+# Insight — Great Simplification (A0D9)
 
 ## Overview
 

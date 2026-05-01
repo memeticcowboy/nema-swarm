@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Huxley Ends and Means (C151), σ with Cognitive Sovereignty (C133), β with Epistemic Plurality (L113)
+- **Shared Operators:** δγ with Huxley Ends and Means (A0A8), σ with Cognitive Sovereignty (E02A), β with Epistemic Plurality (L113)
 - **Unique Operators:** ρ(dogma|spirituality) — the specifically religious dimension of educational transformation
-- **Pattern Family:** Transformative education cluster (C152, C060, C098, L004)
+- **Pattern Family:** Transformative education cluster (A0A9, F006, M01B, L004)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Waldorf Education — holistic development grounding mind, body, and spirit

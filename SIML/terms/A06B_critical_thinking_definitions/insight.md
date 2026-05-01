@@ -1,5 +1,5 @@
 # ELEMENTAL INSIGHT: Critical Thinking Definitions
-## C001 | Critical Thinking | #A06B
+## A06B | Critical Thinking | #A06B
 
 **Source:** Exploring Critical Thinking: Definitions and Applications  
 **Generated:** 2026-03-01 05:03 AM Asia/Shanghai

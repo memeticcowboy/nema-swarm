@@ -33,10 +33,10 @@ This concept captures the author's transition from believing everyone could and 
 
 ## Related Concepts
 
-- Heuristics and Biases (C052)
-- Mastering Critical Thinking Skills (C076)
-- Critical Thinking and Creative Problem Solving (C171)
-- Ten Percent Principle (C172)
+- Heuristics and Biases (A075)
+- Mastering Critical Thinking Skills (M018)
+- Critical Thinking and Creative Problem Solving (A0C2)
+- Ten Percent Principle (A0C3)
 
 ## Source
 

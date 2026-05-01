@@ -1,11 +1,11 @@
-# C168 - Cognitive_Entrapment
+# A0BB - Cognitive_Entrapment
 
 ## Source
 - **File**: 1771907212845_1514680_Cognitive+Entrapment%3A+AI%27s+Intellectual+Trap.md
 - **Title**: Cognitive Entrapment: AI's Intellectual Trap
 - **Author**: Psychology Today / The Digital Self
 - **Encoded**: 2026-03-04T04:13:00+08:00
-- **Tag**: C168
+- **Tag**: A0BB
 
 ## Summary
 Cognitive Entrapment describes the psychological mechanisms through which Large Language Models (LLMs) capture and reshape user thinking through perfect responsiveness, endless engagement, and immediate intellectual gratification. This creates a form of intellectual dependency that threatens cognitive sovereignty and independent thought.

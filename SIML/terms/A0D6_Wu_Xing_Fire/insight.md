@@ -42,12 +42,12 @@ status: draft
 - **Pattern Family:** Prosperity-phase cluster (Fire, peak summer, maximum yang)
 
 ### 3.2 Cross-Cultural Bridge
-- **Parallel Term (Earth):** Compost (E003-E010) — both involve transformation, but Earth transforms through decay/recycling
+- **Parallel Term (Earth):** Compost (A0D2-E010) — both involve transformation, but Earth transforms through decay/recycling
 - **Parallel Term (Metal):** Gold (M001) — both represent peak value, but Gold is condensed value vs Fire's expressed value
 - **Parallel Term (Air):** Prana (A002) — both involve vital energy, but Prana is breath/circulation vs Fire's passionate expression
 - **Parallel Term (Water):** Wu Wei (W004) — opposite yang/yin; Fire acts outward, Water yields inward
-- **Parallel Term (Wood):** Bodhi Tree (WO005) — Wood fuels Fire; both involve upward growth but Wood is potential, Fire is peak
-- **Parallel Term (Fire):** Prometheus Fire (F001) — Western mythic parallel; both carry transformation + danger
+- **Parallel Term (Wood):** Bodhi Tree (W050) — Wood fuels Fire; both involve upward growth but Wood is potential, Fire is peak
+- **Parallel Term (Fire):** Prometheus Fire (A0D5) — Western mythic parallel; both carry transformation + danger
 - **Synthesis Insight:** Fire represents the moment of maximum expression across all traditions—whether called passion, prosperity, or divine spark. The danger of burnout is universal.
 
 ## 4. NEMA SWARM Integration
@@ -136,7 +136,7 @@ concurrency/distributed processing/explicit multiplicity.]
 
 ## 10. Next Action
 - **File to:** /docs/SIML/insights/INSIGHT_20250226_2215_WuXingFire_F003.md
-- **Cross-reference:** Prometheus Fire (F001), Compost Metaphysics (E003-E010), Bodhi Tree (WO005)
+- **Cross-reference:** Prometheus Fire (A0D5), Compost Metaphysics (A0D2-E010), Bodhi Tree (W050)
 - **Open Question:** How do we distinguish between healthy passionate expression and the restlessness of Fire-out-of-control?
 - **Suggested Facilitation:** Use this term in Futuring stage with S→R daemon questions to explore what wants to emerge from current peak experiences
 

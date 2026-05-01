@@ -1,5 +1,5 @@
 # Elemental Insight: Fragmented Media Consumption
-## C002 — Critical Thinking Series
+## A06C — Critical Thinking Series
 
 **Source:** Impact of Fragmented Media Consumption on Critical Thinking  
 **Generated:** March 1, 2026 — 5:13 AM Asia/Shanghai
@@ -96,7 +96,7 @@ The supporting elements (Earth, Water, Fire, Wood) describe the conditions that 
 
 ## Related Concepts
 
-- **C001 Critical Thinking Definitions** — The foundational capacity that fragmentation undermines
+- **A06B Critical Thinking Definitions** — The foundational capacity that fragmentation undermines
 - **Cognitive Load** — The processing cost of information intake
 - **Attention Economy** — The systemic driver of fragmentation
 - **Deep Work** — Practices for sustained cognitive focus

@@ -58,19 +58,19 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - δγ+μ with Prithvi (E002) — cycling and structure, but Wu Xing Earth is relational (between elements) where Prithvi is somatic (within body)
-  - σ+β with Earth as Sacred Relative (E003) — distinction and branching, but Wu Xing is prescriptive cosmology where Sacred Relative is sacred kinship
-  - μ+δγ with Terroir (E005) — structure holding cycling, with Terroir adding cultural memory
+  - δγ+μ with Prithvi (W023) — cycling and structure, but Wu Xing Earth is relational (between elements) where Prithvi is somatic (within body)
+  - σ+β with Earth as Sacred Relative (A0D2) — distinction and branching, but Wu Xing is prescriptive cosmology where Sacred Relative is sacred kinship
+  - μ+δγ with Terroir (A0D4) — structure holding cycling, with Terroir adding cultural memory
 - **Unique Operators:** δγ∘β (cycling-transformation) — the specific Wu Xing encoding where Earth's central position means it CREATES Metal, embedding generative branching within cycling stability
-- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with E001-E010)
+- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with F012-E010)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Ayurvedic** | Prithvi (E002) | Earth as stabilizing element, though Prithvi is physiological |
-| **Indigenous** | Sacred Relative (E003) | Earth as relational, though Wu Xing is cosmological |
-| **Ecology** | Terroir (E005) | Earth as cultural-material ground, seasonal cycling |
+| **Ayurvedic** | Prithvi (W023) | Earth as stabilizing element, though Prithvi is physiological |
+| **Indigenous** | Sacred Relative (A0D2) | Earth as relational, though Wu Xing is cosmological |
+| **Ecology** | Terroir (A0D4) | Earth as cultural-material ground, seasonal cycling |
 | **TCM** | Spleen/Stomach Organ System | Earth element governing digestion and transformation |
 | **Architecture** | Feng Shui | Earth as spatial center enabling harmonious arrangement |
 

@@ -1,4 +1,4 @@
-# C068: Neural Mechanisms of Jazz Improvisation — Elemental Emphasis Questions
+# F007: Neural Mechanisms of Jazz Improvisation — Elemental Emphasis Questions
 
 ## ∴ (Aerunik — Air/σ): Distinction & Clarity
 - How do we distinguish between conscious composition and spontaneous improvisation?

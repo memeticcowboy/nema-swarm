@@ -1,4 +1,4 @@
-# C037: Plural Subject Theory — Elemental Emphasis Questions
+# A073: Plural Subject Theory — Elemental Emphasis Questions
 
 ## Aerunik (Air/σ) — 0.90 emphasis
 - How does the categorical distinction between individual and collective intentions shape our understanding of group formation?

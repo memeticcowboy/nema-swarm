@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** σ with C130_AI_Critical_Thinking_Decline; β with C168_Cognitive_Entrapment
 - **Unique Operators:** ρ(scaffolding|offloading) — the fluid continuum between support and substitution
-- **Pattern Family:** AI-Cognition cluster (C16B, C130, C112, C168, A038)
+- **Pattern Family:** AI-Cognition cluster (A0BD, F010, A08F, A0BB, A038)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C160_Heuer_Intelligence_Analysis — cognitive rigor under tool pressure

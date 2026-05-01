@@ -1,11 +1,11 @@
-# C161 - Global_Fertility_Collapse
+# A0B4 - Global_Fertility_Collapse
 
 ## Source
 - **File**: 1771907212811_1338962_Understanding+Global+Fertility+Collapse+Factors.md
 - **Title**: Understanding Global Fertility Collapse Factors
 - **Created**: 2024/12/27
 - **Encoded**: 2026-03-04T03:03:00+08:00
-- **Tag**: C161
+- **Tag**: A0B4
 
 ## Summary
 An examination of the multifaceted factors contributing to global fertility decline, encompassing historical contexts, emerging demographic trajectories, cultural paradigm shifts, economic pressures, and technological influences on reproductive decision-making.

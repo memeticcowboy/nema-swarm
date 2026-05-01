@@ -1,6 +1,6 @@
 # Goffman Framing Theory — Insight
 
-**Tag:** S068 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E8 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212714_1025800_Understanding+Goffman%27s+Framing+Theory+in+Communication.md
 
 ## Overview

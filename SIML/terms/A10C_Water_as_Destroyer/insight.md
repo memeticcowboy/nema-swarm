@@ -46,8 +46,8 @@ status: draft
 - **Parallel Term (Metal):** Swords to Plowshares (MET008) — destruction recycled into creation
 - **Parallel Term (Air):** Hyperobject (A059) — overwhelming scale of destructive forces
 - **Parallel Term (Water):** Water as Purifier (W002) — destruction's counterpart: renewal
-- **Parallel Term (Wood):** Chthulucene (WO009) — staying with trouble rather than fleeing destruction
-- **Parallel Term (Fire):** Prometheus Fire (F001) — fire as parallel destroyer/creator
+- **Parallel Term (Wood):** Chthulucene (B016) — staying with trouble rather than fleeing destruction
+- **Parallel Term (Fire):** Prometheus Fire (A0D5) — fire as parallel destroyer/creator
 - **Synthesis Insight:** Destructive water is not mere catastrophe but cosmological reset — Noah, Gilgamesh, Hindu pralaya show the flood as the boundary where civilization meets chaos, and death cycles into rebirth.
 
 ## 4. NEMA SWARM Integration

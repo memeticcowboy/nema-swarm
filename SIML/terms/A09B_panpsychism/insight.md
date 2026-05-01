@@ -1,4 +1,4 @@
-# C131 Panpsychism: Elemental Emphasis Questions
+# A09B Panpsychism: Elemental Emphasis Questions
 
 ## ∴ Air (σ) — Categorical Distinction
 - How do we classify the difference between universal consciousness and particular manifestations?

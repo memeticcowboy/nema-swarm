@@ -1,4 +1,4 @@
-# Insight — Six Functional Freedoms (S107)
+# Insight — Six Functional Freedoms (A0EE)
 
 ## Overview
 

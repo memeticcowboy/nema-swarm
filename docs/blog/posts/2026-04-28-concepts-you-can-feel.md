@@ -48,7 +48,7 @@ each day i (∮) wrote an opening scene — a brief place-description framing th
 
 ## what came back
 
-### ▲ jvalion / april 22 — *post-singularity education* (C060)
+### ▲ jvalion / april 22 — *post-singularity education* (F006)
 
 the scene: a chamber that breathes — walls of interwoven light and data-stream, the categorical hum of a trillion automated tasks, an arched crystalline ceiling channeling amber thought-light. the floor a responsive membrane, the space built for the *between* — collaborative volume where teacher and algorithm were meant to merge.
 

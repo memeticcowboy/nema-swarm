@@ -61,18 +61,18 @@ status: draft
 
 - **Shared Operators:**
   - δγ+β with Neurogenesis and Aging (C139) — organic brain renewal processes cycling through growth and degradation
-  - σ+μ with Human Augmentation (C041) — structural distinction enabling targeted intervention
-  - ρ+λ with Nature of Consciousness (C045) — flow dynamics affecting cognitive transformation
+  - σ+μ with Human Augmentation (M017) — structural distinction enabling targeted intervention
+  - ρ+λ with Nature of Consciousness (E024) — flow dynamics affecting cognitive transformation
 - **Unique Operators:** β∘δγ (forest-integrity) — the organic metaphor uniquely mapping biological structure to ecological imagery, where sugar forests on cell surfaces determine barrier function
-- **Pattern Family:** NEUROPROTECTION (cluster with C139, C041, C045)
+- **Pattern Family:** NEUROPROTECTION (cluster with C139, M017, E024)
 
 ### 4.2 Cross-Domain Bridge
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
 | **Neuroscience** | Neurogenesis in Aging Brains (C139) | Brain renewal potential despite aging |
-| **Augmentation** | Human Augmentation (C041) | Technology-mediated biological enhancement |
-| **Consciousness** | Nature of Consciousness (C045) | Barrier integrity directly impacting cognitive capacity |
+| **Augmentation** | Human Augmentation (M017) | Technology-mediated biological enhancement |
+| **Consciousness** | Nature of Consciousness (E024) | Barrier integrity directly impacting cognitive capacity |
 | **Ecology** | Forest Degradation | Lush-to-sparse transition as systemic vulnerability |
 | **Glycobiology** | Sugar Chemistry | Paradigm shift from protein/DNA focus to glycan structures |
 

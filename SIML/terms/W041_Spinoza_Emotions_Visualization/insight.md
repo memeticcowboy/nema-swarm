@@ -1,4 +1,4 @@
-# Insight — Spinoza's Emotions Visualization (S127)
+# Insight — Spinoza's Emotions Visualization (W041)
 
 ## Overview
 

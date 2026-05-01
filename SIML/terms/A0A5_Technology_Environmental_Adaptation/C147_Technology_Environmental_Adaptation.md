@@ -1,9 +1,9 @@
-# C147 - Technology Environmental Adaptation
+# A0A5 - Technology Environmental Adaptation
 
 ## SIML Definition
 
 **Term:** Technology Environmental Adaptation  
-**Hex Tag:** C147  
+**Hex Tag:** A0A5  
 **Series:** Critical Thinking (C-Series)  
 **Source:** 1771907212690_958905_Adapting+to+Environmental+Changes+with+Technology.md
 

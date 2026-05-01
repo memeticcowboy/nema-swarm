@@ -1,4 +1,4 @@
-# Insight — Cognitive Entanglement Human AI (S10A)
+# Insight — Cognitive Entanglement Human AI (W03A)
 
 ## Overview
 

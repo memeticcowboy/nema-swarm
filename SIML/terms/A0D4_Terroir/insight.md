@@ -58,11 +58,11 @@ status: draft
 ### 4.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - μ+ρ with Prithvi (E002) — structure holding sensory resonance, though Terroir is cultural where Prithvi is physiological
-  - δγ+σ with Chinese Earth (E004) — cycling and distinction, with Terroir grounding in specific place rather than cosmological center
-  - ρ+μ with Sacred Relative (E003) — resonance and boundary, though Terroir is aesthetic where Sacred Relative is sacred
+  - μ+ρ with Prithvi (W023) — structure holding sensory resonance, though Terroir is cultural where Prithvi is physiological
+  - δγ+σ with Chinese Earth (A0D3) — cycling and distinction, with Terroir grounding in specific place rather than cosmological center
+  - ρ+μ with Sacred Relative (A0D2) — resonance and boundary, though Terroir is aesthetic where Sacred Relative is sacred
 - **Unique Operators:** μ∘ρ (strata-culture) — the specific encoding where geological stratification becomes cultural meaning through taste, where material history IS cultural identity, where human/humus share etymological and ontological ground
-- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with E001-E010)
+- **Pattern Family:** EARTH_ELEMENT_TRADITIONS (cluster with F012-E010)
 
 ### 4.2 Cross-Domain Bridge
 

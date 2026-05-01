@@ -1,4 +1,4 @@
-# Insight — Arctic-Amazon Climate Connection (G010)
+# Insight — Arctic-Amazon Climate Connection (W02D)
 
 ## Overview
 

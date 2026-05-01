@@ -1,4 +1,4 @@
-# C101 — o1 Model Illusion: Deconstructing AI Reasoning
+# M01C — o1 Model Illusion: Deconstructing AI Reasoning
 
 ## Elemental Emphasis Questions
 

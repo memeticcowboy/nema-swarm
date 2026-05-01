@@ -1,11 +1,11 @@
-# C164 - Gateway_Process_Reincarnation
+# A0B7 - Gateway_Process_Reincarnation
 
 ## Source
 - **File**: 1771907212823_1394873_The+Gateway+Process%3A+Exploring+Reincarnation+and+Consciousness.md
 - **Title**: The Gateway Process: Exploring Reincarnation and Consciousness
 - **Author**: Daniel Durrant (via Perplexity)
 - **Encoded**: 2026-03-04T03:33:00+08:00
-- **Tag**: C164
+- **Tag**: A0B7
 
 ## Summary
 A declassified U.S. Army study led by Lt. Col. Wayne M. McDonnell proposes that consciousness operates as a form of energy that does not die and can carry memories across lifetimes. The Gateway Process, developed by the Monroe Institute, explores techniques to expand human consciousness beyond physical and temporal limits, including applications in psychic spycraft during the Cold War.

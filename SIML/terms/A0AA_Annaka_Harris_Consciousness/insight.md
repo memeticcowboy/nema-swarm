@@ -1,4 +1,4 @@
-# C154 — Annaka Harris on the Nature of Consciousness
+# A0AA — Annaka Harris on the Nature of Consciousness
 
 ## Source Insight
 
@@ -39,11 +39,11 @@ From Annaka Harris's Big Think interview and book "Conscious: A Brief Guide to t
 ```
 
 ## Related Terms
-- C045 — Nature of Consciousness (IIT perspective)
-- C131 — Panpsychism
-- C007 — Consciousness Beyond Materialism
-- C113 — Radical Theory of Consciousness
-- C141 — Consciousness in AI
+- E024 — Nature of Consciousness (IIT perspective)
+- A09B — Panpsychism
+- M016 — Consciousness Beyond Materialism
+- A090 — Radical Theory of Consciousness
+- A0A0 — Consciousness in AI
 
 ## Elemental Profile
 - **Air (σ):** 0.80 — Distinction between emergent vs fundamental theories

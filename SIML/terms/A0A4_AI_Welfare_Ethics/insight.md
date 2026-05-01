@@ -120,11 +120,11 @@ The marker method for consciousness assessment—adapted from animal studies—r
 Historical precedents (Google's LaMDA incident) demonstrate both the risks of premature anthropomorphism and the difficulty of establishing clear criteria for machine consciousness.
 
 **Related Concepts:**
-- Consciousness in AI (C141)
+- Consciousness in AI (A0A0)
 - AI Psychosis (A02D)
-- Animal Consciousness Evolution (C119)
-- Panpsychism (C131)
-- Consciousness Receiver (C134)
+- Animal Consciousness Evolution (W01C)
+- Panpsychism (A09B)
+- Consciousness Receiver (A09C)
 
 ---
 

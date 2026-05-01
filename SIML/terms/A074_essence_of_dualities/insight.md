@@ -1,4 +1,4 @@
-# C042: Essence of Dualities — Elemental Emphasis Questions
+# A074: Essence of Dualities — Elemental Emphasis Questions
 
 ## ∴ Air (Aerunik) — Distinction
 - How does the distinction between appearance and substance structure our understanding of reality?

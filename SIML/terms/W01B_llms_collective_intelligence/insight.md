@@ -1,4 +1,4 @@
-# C103: LLMs Transforming Collective Intelligence — Elemental Emphasis Questions
+# W01B: LLMs Transforming Collective Intelligence — Elemental Emphasis Questions
 
 ## ∴ Air (Aerunik) — Categorical Distinction
 - How do we classify individual cognition versus collective intelligence?

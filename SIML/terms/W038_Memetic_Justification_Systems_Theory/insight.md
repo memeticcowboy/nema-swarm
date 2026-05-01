@@ -1,6 +1,6 @@
 # Memetic Justification Systems Theory — Insight
 
-**Tag:** S06C | **Series:** S — Sensemaking & Epistemics
+**Tag:** W038 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212720_1036612_Integrating+Justification+Systems+in+Memetic+Philosophy.md
 
 ## Overview

@@ -1,4 +1,4 @@
-# C051: Robust Thought and Mental Processing - Elemental Emphasis Questions
+# W00E: Robust Thought and Mental Processing - Elemental Emphasis Questions
 
 ## ∴ (Aerunik - Air/Sigma)
 How does the mind distinguish between robust, reliable thinking and fragile cognition? What categorical cuts separate deep analysis from superficial processing?

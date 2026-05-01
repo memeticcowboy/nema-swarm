@@ -41,7 +41,7 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with C146_AI_Welfare_Ethics; σ with C148_Free_Will_Determinism
 - **Unique Operators:** λ(certainty|curiosity) — the fire of conviction that can burn away openness
-- **Pattern Family:** Ethics-Consciousness cluster (C188, C146, C148, C154, C157)
+- **Pattern Family:** Ethics-Consciousness cluster (A0D0, A0A4, A0A6, A0AA, A0AC)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Air):** C148_Free_Will_Determinism — moral responsibility requires distinction-making

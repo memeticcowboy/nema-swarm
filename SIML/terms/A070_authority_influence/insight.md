@@ -1,4 +1,4 @@
-# C010: Influence of Authority Figures — Elemental Emphasis Questions
+# A070: Influence of Authority Figures — Elemental Emphasis Questions
 
 ## ∴ Air (Aerunik) — Distinction & Categorization
 - How is legitimate authority distinguished from illegitimate influence?

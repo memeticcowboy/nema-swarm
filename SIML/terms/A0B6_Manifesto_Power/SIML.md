@@ -1,9 +1,9 @@
 # SIML Entry
-# C163: Manifesto_Power
+# A0B6: Manifesto_Power
 
 ## Metadata
 - **series**: C (Critical Thinking)
-- **tag**: C163
+- **tag**: A0B6
 - **source_file**: 1771907212814_1356415_.md
 - **encoded_at**: 2026-03-04T03:23:00+08:00
 

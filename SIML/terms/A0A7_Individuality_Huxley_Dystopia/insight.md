@@ -37,9 +37,9 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** μ with Cognitive Sovereignty (C133), σ with Status Quo Bias (A053), δγ with Huxley Ends and Means (C151)
+- **Shared Operators:** μ with Cognitive Sovereignty (E02A), σ with Status Quo Bias (A053), δγ with Huxley Ends and Means (A0A8)
 - **Unique Operators:** β(stability|chaos) — the World State's central bargain: eliminate chaos by eliminating freedom
-- **Pattern Family:** Dystopian control cluster (C150, C151, C152, A055 Spiral of Silence)
+- **Pattern Family:** Dystopian control cluster (A0A7, A0A8, A0A9, A055 Spiral of Silence)
 
 ### 3.2 Cross-Cultural Bridge
 - **Parallel Term (Earth):** Slow Violence — the gradual erosion of personhood through systemic comfort

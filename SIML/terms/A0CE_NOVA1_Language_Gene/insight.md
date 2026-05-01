@@ -14,8 +14,8 @@ The NOVA1 gene operates at the boundary between biological substrate and emergen
 
 ## Connections
 
-- Infant consciousness studies (C170): Both explore the emergence of cognitive capabilities
-- Cognitive immobility (C121): The inverse—what happens when cognitive evolution stalls
+- Infant consciousness studies (E02C): Both explore the emergence of cognitive capabilities
+- Cognitive immobility (E029): The inverse—what happens when cognitive evolution stalls
 
 ## Source
 

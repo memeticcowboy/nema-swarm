@@ -1,4 +1,4 @@
-# C130: AI Impact on Critical Thinking Skills — Elemental Emphasis Questions
+# F010: AI Impact on Critical Thinking Skills — Elemental Emphasis Questions
 
 ## Air (σ) — Aerunik: Classification & Distinction
 **Emphasis: 0.85**

@@ -1,4 +1,4 @@
-# C108: Posthumanism - Elemental Emphasis Questions
+# F00E: Posthumanism - Elemental Emphasis Questions
 
 ## ∴ Air (σ) - Categorical Distinction
 - How do we classify the boundary between human and posthuman?

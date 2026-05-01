@@ -45,10 +45,10 @@ The nemetic string captures the dialectical tensions:
 - Framework vs. Entropy (the structural challenge)
 
 ## Related Concepts
-- Jungian shadow integration (C043, C132)
-- AI ethics frameworks (C011, C057, C142, C146)
-- Complexity and cognition (C052, C069)
-- Cultural dynamics (C030, C145)
+- Jungian shadow integration (W00D, W01E)
+- AI ethics frameworks (W00C, W010, A0A1, A0A4)
+- Complexity and cognition (A075, E025)
+- Cultural dynamics (A072, W020)
 
 ## Causal Emergence Assessment (SIML v1.3)
 

@@ -36,11 +36,11 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 - **Shared Operators:** ρ with A001–A003 (divine breath resonance); λ with A005_Ehecatl (directional force)
 - **Unique Operators:** μ as cosmogonic separator — Shu is the only Air term where Metal/structure leads, making Air an architectural force
-- **Pattern Family:** Cosmogonic-Air Cluster (A004, A005)
+- **Pattern Family:** Cosmogonic-Air Cluster (W008, W009)
 
 ### 3.2 Cross-Cultural Bridge
 - Pneuma (A001): Air within body → Shu: Air that creates world
-- Ehecatl (A005): Air as change-bringer → Shu: Air as space-maker
+- Ehecatl (W009): Air as change-bringer → Shu: Air as space-maker
 - **Synthesis Insight:** Shu shifts Air from medium to agent. Unlike internal breath-concepts (Pneuma, Prana, Qi), Shu is personified deity with will — Air as cosmogonic protagonist who creates by separating, not by filling. The ostrich feather symbolizes lightness-as-emptiness: the value of what is absent.
 
 ## 4. NEMA SWARM Integration
@@ -66,7 +66,7 @@ status: draft
 IF Air's primary cosmogonic function is separation (Shu lifting Nut from Geb) AND habitable space requires a gap between sky and earth THEN Air is not medium but architecture — the structural precondition for all other elements to operate WITH ε (the irreducible mystery of why separation creates rather than destroys)
 
 ### 5.3 Lattice Position
-- **Thread:** Cosmogonic-Air (A004→A005)
+- **Thread:** Cosmogonic-Air (W008→W009)
 - **Knot:** Separation-as-Creation
 - **Threadplex:** Architecture-of-Air × Personified-Element
 - **Twist Potential:** High — Shu reframes emptiness as creation's first gift

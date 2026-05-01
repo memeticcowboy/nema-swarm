@@ -1,6 +1,6 @@
 # Elite Athlete Cognitive Patterns — Insight
 
-**Tag:** S034 | **Series:** S — Sensemaking & Epistemics
+**Tag:** A0E1 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212568_616316_Cognitive+Insights+from+Elite+Athletes.md
 
 ## Overview
@@ -37,7 +37,7 @@ The structural dimension is defined by the measurement apparatus — fMRI and be
 - **Specialization vs Generalization**: Closed-skill training narrows and deepens cognitive focus while open-skill training broadens and diversifies it, raising questions about which approach transfers better to non-sport cognitive demands.
 
 ## Source Context
-Derived from fMRI-based research comparing cognitive processing in elite closed-skill and open-skill athletes. Relates to EMF-based cognitive flow enhancement (S033) through shared interest in neural mechanisms of peak cognitive performance, and to slow practices and flow states (S00A) through the connection between training environments and cognitive state access.
+Derived from fMRI-based research comparing cognitive processing in elite closed-skill and open-skill athletes. Relates to EMF-based cognitive flow enhancement (F017) through shared interest in neural mechanisms of peak cognitive performance, and to slow practices and flow states (S00A) through the connection between training environments and cognitive state access.
 
 ## Causal Emergence Assessment (SIML v1.3)
 

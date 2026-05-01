@@ -71,7 +71,7 @@ status: draft
 | **Biology** | Microbiome Science | Multi-species collaboration producing emergent properties |
 | **Aesthetics** | Wabi-Sabi (E006) | Beauty through aging, decomposition as creative process |
 | **Ecology** | Soil Cognition (E009) | Microbial intelligence as cognitive system |
-| **Viticulture** | Terroir (E005) | Place-specific, time-dependent, non-reproducible products |
+| **Viticulture** | Terroir (A0D4) | Place-specific, time-dependent, non-reproducible products |
 | **Education** | Deep Learning | Knowledge requiring incubation time, not just exposure |
 
 ## 5. NEMA SWARM Integration

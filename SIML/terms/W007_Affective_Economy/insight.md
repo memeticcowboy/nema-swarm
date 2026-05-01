@@ -47,7 +47,7 @@ status: draft
 - **Parallel Term (Air):** Framing Effects (A026) — how framing directs emotional response
 - **Parallel Term (Water):** Orientation (W006) — bodily directionality shaped by circulating affect
 - **Parallel Term (Wood):** Sympoiesis (WO008) — co-production across heterogeneous beings
-- **Parallel Term (Fire):** Agni (F002) — transformative fire as metabolic parallel
+- **Parallel Term (Fire):** Agni (W024) — transformative fire as metabolic parallel
 - **Synthesis Insight:** Affective economies are pattern metabolism — as affects circulate between signs and bodies, they transform both the feeling and the felt, depositing fear, love, and hate into certain bodies through repeated attachment.
 
 ## 4. NEMA SWARM Integration

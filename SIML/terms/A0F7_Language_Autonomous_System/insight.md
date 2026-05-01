@@ -1,4 +1,4 @@
-# Insight — Language as Autonomous System (S126)
+# Insight — Language as Autonomous System (A0F7)
 
 ## Overview
 

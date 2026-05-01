@@ -1,6 +1,6 @@
 # Zipfs Law Language — Insight
 
-**Tag:** S06D | **Series:** S — Sensemaking & Epistemics
+**Tag:** M024 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212725_1048829_Understanding+Zipf%27s+Law+Across+Languages.md
 
 ## Overview

@@ -43,8 +43,8 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - ρ+β with Nemetic Pattern (META001) — resonance enabling exploratory possibility
-  - μ+σ with Metal in Wu Xing (MET005) — structural containment with distinction
+  - ρ+β with Nemetic Pattern (Z001) — resonance enabling exploratory possibility
+  - μ+σ with Metal in Wu Xing (A0E0) — structural containment with distinction
 - **Unique Operators:** ρ∘β∘μ (reflective-magical-portal) — the specific combination of lunar resonance, magical possibility, and mirror-structure
 - **Pattern Family:** PRECIOUS_METALS (cluster with Silver, Alchemical Gold, Bronze Sacred)
 
@@ -53,9 +53,9 @@ status: draft
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
 | **Healing** | Silver Healing (MET007) | Silver's resonance with living systems — antimicrobial action |
-| **Alchemy** | Alchemical Gold (MET006) | Precious metal as spiritual vehicle — silver as moon to gold's sun |
-| **Cosmology** | Metal in Wu Xing (MET005) | Metal's contractive quality — silver's inward-drawing mystery |
-| **Fire** | Sacred Fire (F005) | Portal between worlds — silver mirror and sacred flame as doorways |
+| **Alchemy** | Alchemical Gold (M021) | Precious metal as spiritual vehicle — silver as moon to gold's sun |
+| **Cosmology** | Metal in Wu Xing (A0E0) | Metal's contractive quality — silver's inward-drawing mystery |
+| **Fire** | Sacred Fire (W026) | Portal between worlds — silver mirror and sacred flame as doorways |
 
 ## 4. NEMA SWARM Integration
 

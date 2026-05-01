@@ -44,7 +44,7 @@ status: draft
 
 - **Shared Operators:**
   - δγ+μ with Tertiary Retention (M010) — cycling through structured knowledge
-  - ρ+β with Agni (F002) — resonance opening ecological possibility
+  - ρ+β with Agni (W024) — resonance opening ecological possibility
 - **Unique Operators:** δγ∘μ (structured-cycling) — the specific combination of regenerative process with inherited knowledge protocol
 - **Pattern Family:** RELATIONAL_FIRE (cluster with Cool Burning, Sacred Fire, Blacksmith)
 
@@ -52,8 +52,8 @@ status: draft
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Mythology** | Prometheus' Fire (F001) | Fire as civilizational gift — but Cool Burning never steals; it partners |
-| **Metallurgy** | Blacksmith (MET004) | Fire as skilled practice requiring generational transmission |
+| **Mythology** | Prometheus' Fire (A0D5) | Fire as civilizational gift — but Cool Burning never steals; it partners |
+| **Metallurgy** | Blacksmith (W02F) | Fire as skilled practice requiring generational transmission |
 | **Education** | Communities of Practice (L083) | Knowledge held in community, transmitted through doing |
 | **Ecology** | Mycorrhizal Networks | Controlled disturbance enabling regeneration, hidden connections |
 

@@ -43,8 +43,8 @@ status: draft
 ### 3.1 Operator Pattern Analysis
 
 - **Shared Operators:**
-  - β+μ with Cool Burning (F004) — transformative practice through structured knowledge
-  - ρ+λ with Agni (F002) — ancestral resonance directed through skilled fire
+  - β+μ with Cool Burning (W025) — transformative practice through structured knowledge
+  - ρ+λ with Agni (W024) — ancestral resonance directed through skilled fire
 - **Unique Operators:** β∘μ∘ρ (transformative-structured-ancestral) — the specific combination of raw-to-refined making, ritual form, and lineage wisdom
 - **Pattern Family:** SACRED_CRAFT (cluster with Blacksmith, Cool Burning, Bronze Sacred)
 
@@ -52,9 +52,9 @@ status: draft
 
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
-| **Fire** | Cool Burning (F004) | Skilled fire practice requiring generational transmission |
-| **Fire** | Prometheus' Fire (F001) | Fire as transformer — but the smith works with fire, not stolen from gods |
-| **Metals** | Iron (MET003) | The material the smith transforms — Ogun as smith-deity |
+| **Fire** | Cool Burning (W025) | Skilled fire practice requiring generational transmission |
+| **Fire** | Prometheus' Fire (A0D5) | Fire as transformer — but the smith works with fire, not stolen from gods |
+| **Metals** | Iron (A0DF) | The material the smith transforms — Ogun as smith-deity |
 | **Memory** | Technics (M011) | Making as constitutive human activity, tools shaping the maker |
 
 ## 4. NEMA SWARM Integration

@@ -1,6 +1,6 @@
 # EMF Cognitive Flow Enhancement — Insight
 
-**Tag:** S033 | **Series:** S — Sensemaking & Epistemics
+**Tag:** F017 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212556_582740_Enhancing+Cognitive+Flow+with+EMFs.md
 
 ## Overview
@@ -37,7 +37,7 @@ Structure enters through the empirical measurement framework: EEG provides the n
 - **Entrain vs Disrupt**: The same electromagnetic intervention that entrains beneficial neural patterns could theoretically disrupt them if poorly calibrated, highlighting the fine line between cognitive enhancement and interference.
 
 ## Source Context
-Derived from research on EMF effects on cognitive flow states, with empirical grounding in EEG measurement and Flow Short Scale assessment. Relates to broader work on slow practices and flow state cultivation (S00A) and cognitive pattern differences among trained populations (S034).
+Derived from research on EMF effects on cognitive flow states, with empirical grounding in EEG measurement and Flow Short Scale assessment. Relates to broader work on slow practices and flow state cultivation (S00A) and cognitive pattern differences among trained populations (A0E1).
 
 ---
 

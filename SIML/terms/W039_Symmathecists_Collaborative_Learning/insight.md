@@ -1,6 +1,6 @@
 # Symmathecists Collaborative Learning — Insight
 
-**Tag:** S06E | **Series:** S — Sensemaking & Epistemics
+**Tag:** W039 | **Series:** S — Sensemaking & Epistemics
 **Source:** 1771907212728_1055105_Understanding+Symmathecists%3A+Collaborative+Learning+in+Complex+Systems.md
 
 ## Overview

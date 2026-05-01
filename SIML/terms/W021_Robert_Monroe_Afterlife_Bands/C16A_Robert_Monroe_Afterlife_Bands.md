@@ -1,4 +1,4 @@
-# C16A: Robert Monroe Afterlife Bands
+# W021: Robert Monroe Afterlife Bands
 
 ## Etymology
 **Monroe**: Named after Robert Allan Monroe (1915–1995), American radio broadcasting executive who became a pioneering researcher of altered states of consciousness and out-of-body experiences.  
@@ -56,6 +56,6 @@ Monroe's Hemi-Sync technology provides a systematic method for accessing these e
 
 ## SIML Metadata
 - **Series**: C (Critical Thinking)
-- **Tag**: C16A
+- **Tag**: W021
 - **Confidence**: 0.85
 - **Encoding Agent**: nema_critical_thinking_generator

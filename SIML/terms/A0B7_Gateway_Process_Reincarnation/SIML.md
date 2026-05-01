@@ -1,9 +1,9 @@
 # SIML Entry
-# C164: Gateway_Process_Reincarnation
+# A0B7: Gateway_Process_Reincarnation
 
 ## Metadata
 - **series**: C (Critical Thinking)
-- **tag**: C164
+- **tag**: A0B7
 - **source_file**: 1771907212823_1394873_The+Gateway+Process%3A+Exploring+Reincarnation+and+Consciousness.md
 - **encoded_at**: 2026-03-04T03:33:00+08:00
 

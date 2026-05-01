@@ -37,7 +37,7 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** ρ with Sympoiesis (WO008), γ with Chthulucene (WO009), β with Tentacular Thinking (WO007)
+- **Shared Operators:** ρ with Sympoiesis (WO008), γ with Chthulucene (B016), β with Tentacular Thinking (WO007)
 - **Unique Operators:** σ as incommensurable distinction — no common currency across substrates
 - **Pattern Family:** Haraway-Nemetic cluster (Tentacular Thinking, Sympoiesis, Chthulucene, Cthulucene Nemetic Ecology)
 
@@ -46,7 +46,7 @@ status: draft
 - **Parallel Term (Metal):** MemeGrid — what happens when coordination becomes capture
 - **Parallel Term (Air):** Ecology of Mind (Bateson) — pattern that connects across substrates
 - **Parallel Term (Water):** Holographic Model (W008) — every part contains the whole
-- **Parallel Term (Wood):** Chthulucene (WO009) — the epoch of tentacular worlding
+- **Parallel Term (Wood):** Chthulucene (B016) — the epoch of tentacular worlding
 - **Parallel Term (Fire):** Global Workspace Theory — broadcast across modules
 - **Synthesis Insight:** The Cthulucene IS nemetic ecology — pattern coordination across microbes, forests, servers, capital flows, and myths without reduction to any common currency like carbon, DNA, or memes.
 
@@ -148,7 +148,7 @@ token prediction across training substrates, not tentacular worlding.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Cthulucene_Nemetic_Ecology.md
-- **Cross-reference:** Tentacular Thinking (WO007), Sympoiesis (WO008), Chthulucene (WO009), Ecology of Mind (A063)
+- **Cross-reference:** Tentacular Thinking (WO007), Sympoiesis (WO008), Chthulucene (B016), Ecology of Mind (A063)
 - **Open Question:** Can AI systems operate as nemetic ecologies — coordinating across incommensurable substrates without forcing commensuration?
 - **Suggested Facilitation:** Use this term in deep Exploring stage when participants are ready to hold incommensurability, transitioning to WO007 (Tentacular Thinking) for method
 

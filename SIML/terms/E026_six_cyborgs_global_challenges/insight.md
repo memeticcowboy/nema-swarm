@@ -37,7 +37,7 @@ The Optimizer Cyborg addresses Freedom of Speech through digital rights, platfor
 The Six Cyborgs framework recognizes that global challenges require coordinated multi-domain intervention. No single freedom can be fully realized in isolation—the freedoms from ignorance, warfare, fear, and want intertwine with freedoms of worship and speech. The six specialized archetypes must operate in concert, their distinct capabilities integrated through shared purpose toward civilizational advancement.
 
 **Source:** Taxonomy of Global Challenges Addressed by Six Cyborgs  
-**SIML ID:** C074  
+**SIML ID:** E026  
 **Generated:** 2026-03-01
 
 ## Causal Emergence Assessment (SIML v1.3)

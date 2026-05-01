@@ -1,4 +1,4 @@
-# Insight — Biosphere Consciousness (G016)
+# Insight — Biosphere Consciousness (W02E)
 
 ## Overview
 
