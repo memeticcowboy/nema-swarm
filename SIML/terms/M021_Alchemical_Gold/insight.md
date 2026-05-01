@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Metal
 source_term: Alchemical Gold
-hex_tag: "#MET006"
+hex_tag: "#M021"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Alchemy's radical claim is non-dualist: lead becoming gold is not metaphor for s
 
 ```
 SIML/terms/MET006_Alchemical_Gold/insight.md
-Hex: #MET006
+Hex: #M021
 Element: Metal (γ primary)
 Z-State: :open
 Operators: γ ∘ β ∘ ρ ∘ μ

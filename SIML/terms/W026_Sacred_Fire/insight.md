@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Fire
 source_term: Sacred Fire (Indigenous Portal)
-hex_tag: "#F005"
+hex_tag: "#W026"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ The eternal flame encodes communal continuity in material form. When the fire go
 
 ```
 SIML/terms/F005_Sacred_Fire/insight.md
-Hex: #F005
+Hex: #W026
 Element: Fire (μ primary)
 Z-State: permeable
 Operators: μ ∘ ρ ∘ δγ ∘ λ

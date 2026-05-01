@@ -1,7 +1,7 @@
 # SIML Insight: Meditation Enhances BCI Control (C067)
 
 **Generated:** March 1, 2026
-**Hex Tag:** #C067
+**Hex Tag:** #A07F
 **Source:** 1771907212449_283053_Meditation+Enhances+BCI+Control.md
 
 ## Nemetic String

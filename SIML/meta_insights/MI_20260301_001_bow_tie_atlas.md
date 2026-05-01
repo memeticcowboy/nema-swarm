@@ -1,6 +1,6 @@
 ---
 meta_insight_id: MI_20260301_001
-source: SWARM_BASE corpus analysis (A-series #A043-#A058, C-series #C001-#C031)
+source: SWARM_BASE corpus analysis (A-series #A043-#A058, C-series #A06B-#C031)
 analyst: MemeticCowboy
 hex_tag: #META_001
 generated_at: 2026-03-01T12:00:00+08:00

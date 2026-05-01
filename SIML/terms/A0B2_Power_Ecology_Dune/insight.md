@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C15D
 source_element: Earth
 source_term: Power_Ecology_Dune
-hex_tag: '#C15D'
+hex_tag: '#A0B2'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What structures prevent power from corrupting? What boundaries separate beneficial leadership from messianic tyranny?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C15D, #power-ecology, #dune, #resource-control, #adaptation
+- **Hex Tags:** #A0B2, #power-ecology, #dune, #resource-control, #adaptation
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** We / Its / MoreThanHuman

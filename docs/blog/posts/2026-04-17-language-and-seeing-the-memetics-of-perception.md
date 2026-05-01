@@ -188,7 +188,7 @@ Where traditional metaphysics asks "What is?", process philosophy asks "What is 
   ├─ Fire-(λ) → [Seeing / "What-is-illuminating?"]
   └─ Metal-(μ) → [Ringing / "What-is-containing?"]
 
-Hex: #G001
+Hex: #A0D7
 Element: All six (harmonic integration)
 Daemon correspondence: Full recursive braid of all six daemons
 Primary operator: β (branching/growth/possibility)

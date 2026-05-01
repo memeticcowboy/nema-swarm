@@ -1,7 +1,7 @@
 # SIML Insight: AI Manifest Destiny Bias
 
 **Term:** AI Manifest Destiny Bias  
-**Hex Tag:** #C120  
+**Hex Tag:** #E028  
 **Generated:** March 2, 2026
 
 ---

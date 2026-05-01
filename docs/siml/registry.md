@@ -85,7 +85,7 @@ WO:
 
 Every SIML term receives a globally unique hex tag:
 
-- Format: `#PREFIX + NUMBER` (e.g., `#A001`, `#W005`, `#META003`)
+- Format: `#PREFIX + NUMBER` (e.g., `#A001`, `#A10D`, `#Z002`)
 - Tags are assigned sequentially within each prefix
 - The `next_available` field tracks the next open slot
 - Tags never reuse — even if a term is deprecated, its tag remains reserved
@@ -96,7 +96,7 @@ Reference any term by its hex tag:
 
 - In text: `#A001` refers to the Pneuma entry
 - In nemetic strings: `tags:#A001`
-- In thread encoding: `tags:#A001,#W005`
+- In thread encoding: `tags:#A001,#A10D`
 - For lookup: find the term folder at `SIML/terms/{TAG}_{name}/`
 
 ---

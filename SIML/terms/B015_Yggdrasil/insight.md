@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20250226_1339
 source_element: Wood
 source_term: Yggdrasil (Norse World Tree)
-hex_tag: "#W001"
+hex_tag: "#A10B"
 generated_at: "2026-02-26T13:39:00+08:00"
 status: draft
 ---

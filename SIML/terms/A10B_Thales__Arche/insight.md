@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260226_1439_Thales_Arche
 source_element: Water
 source_term: Thales' Arche (Water as First Principle)
-hex_tag: #W001
+hex_tag: #A10B
 generated_at: 2026-02-26T14:39:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does water's fluidity respect or dissolve?
 
 ### 5.2 SWARM BASE Routing
-- **Hex Tags:** #W001, #arche, #primordial, #Ionian
+- **Hex Tags:** #A10B, #arche, #primordial, #Ionian
 - **Formal Operators:** δγ, μ, β, σ
 - **Dim Operators:** Ψ_regenerative, Ψ_structural, Ψ_exploratory, χ
 - **Coord Ontology:** Its/I (collective agency, monistic cosmos)

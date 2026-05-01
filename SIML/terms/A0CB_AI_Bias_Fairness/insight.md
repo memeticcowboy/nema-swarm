@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C182
 source_element: Earth
 source_term: AI Bias Fairness
-hex_tag: '#C182'
+hex_tag: '#A0CB'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C182
+- **Hex Tag:** #A0CB
 - **Term:** AI Bias Fairness
 - **Nemetic String:** Φ(AIBiasFairness) = σ(algorithmic|human) ∘ ρ(data|context) ∘ λ(perpetuation|mitigation) ∘ β(diverse|homogeneous) ∘ δγ(transparency|opacity) ∘ μ(constraint|fairness) + ε | :open
 - **SIML Encoding:** ⟨Bias|systemic⟩ ⊳ ⟨Algorithm|amplifying⟩ ⇄ ⟨Data|contextual⟩ ⊗ ⟨Team|diverse⟩ → ⟨Fairness|measured⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural constraints achieve fairness without sacrificing performance?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C182, #C128, #A057, #C120, #C156
+- **Hex Tags:** #A0CB, #A09A, #A057, #E028, #E02B
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** Its / We / It

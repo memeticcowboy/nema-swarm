@@ -102,7 +102,7 @@ James C. Scott's *Against the Grain* traces the grain-state as domestication pac
                    ∘ λ(direction|toward_compliance) ∘ δγ(metabolism|epistemic_narrowing) 
                    + ε | :hostile
 
-Hex: #G001
+Hex: #A0D7
 Element: Metal/Earth
 Daemon correspondence: Ferrosid (μ-structure) + Humavita (δγ-cycling)
 

@@ -21,7 +21,7 @@ What structures contain organized thought? What boundaries separate cognitive cl
 ---
 
 **Source:** Robust Thought, Focused Thinking, and Mental Processing  
-**SIML Tag:** #C051  
+**SIML Tag:** #W00E  
 **Generated:** 2026-03-01
 
 ## Causal Emergence Assessment (SIML v1.3)

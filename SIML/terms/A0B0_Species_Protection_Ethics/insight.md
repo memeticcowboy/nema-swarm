@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-04 02:03 Asia/Shanghai  
 **SIML Version:** 1.2.1  
-**Hex Signature:** #C15B  
+**Hex Signature:** #A0B0  
 **Source:** /tmp/nema-swarm/SWARM_BASE/Critical Thinking/1771907212756_1178476_Peter+Godfrey-Smith%27s+Ethical+Call+for+Species+Protection.md
 
 ---
@@ -11,7 +11,7 @@
 
 ```yaml
 term: "Species Protection Ethics - Consciousness, Evolution, and Moral Responsibility"
-hex_tag: "#C15B"
+hex_tag: "#A0B0"
 nemetic: "Φ(Ethics) = σ(human|nonhuman) ∘ ρ(agency|impact) ∘ λ(exploitation|stewardship) ∘ β(awareness|action) ∘ δγ(comfort|responsibility) ∘ μ(boundary|kinship) + ε | :moral_expansion"
 siml_encoding: "⟨Human|de-centered⟩ ⊳ ⟨Consciousness|distributed⟩ → ⟨Agency|recognized⟩ ⊗ ⟨Responsibility|embodied⟩ ⇄ ⟨Stewardship|active⟩"
 ```
@@ -138,13 +138,13 @@ The framework emphasizes:
 **Four-Line Thread Format:**
 
 ```
-#C15B | N: Consciousness distributed across tree of life; moral circle expansion
-#C15B | E: What would you stop eating if you truly felt animal experience?
-#C15B | M: From dominion to stewardship—agency entails responsibility
-#C15B | A: σ(human|nonhuman) ↓ | ρ(impact|awareness) ↑ | exploitation→stewardship
+#A0B0 | N: Consciousness distributed across tree of life; moral circle expansion
+#A0B0 | E: What would you stop eating if you truly felt animal experience?
+#A0B0 | M: From dominion to stewardship—agency entails responsibility
+#A0B0 | A: σ(human|nonhuman) ↓ | ρ(impact|awareness) ↑ | exploitation→stewardship
 ```
 
-**Compressed:** `#C15B|N:Consciousness↔distributed|E:Felt-ethics?|M:Stewardship-shift|A:σ↓ρ↑exploit→steward`
+**Compressed:** `#A0B0|N:Consciousness↔distributed|E:Felt-ethics?|M:Stewardship-shift|A:σ↓ρ↑exploit→steward`
 
 ---
 

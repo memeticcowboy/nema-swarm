@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C141
 source_element: Earth
 source_term: Consciousness_in_AI
-hex_tag: '#C141'
+hex_tag: '#A0A0'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What ethical boundaries must contain research into potentially conscious machines?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C141, #machine-consciousness, #neuronal-selection, #emergence
+- **Hex Tags:** #A0A0, #machine-consciousness, #neuronal-selection, #emergence
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** It / MoreThanHuman / I

@@ -35,24 +35,24 @@ Every term folder contains:
 
 ### Water (W-prefix) — Resonance & Connection
 
-- `#W001` **Thales' Arche** — Water as first principle
-- `#W005` **Living Water** — Indigenous kinship with water-as-relative
+- `#A10B` **Thales' Arche** — Water as first principle
+- `#A10D` **Living Water** — Indigenous kinship with water-as-relative
 - `#W008` and more...
 
 ### Fire (F-prefix) — Purpose & Direction
 
-- `#F001` **Prometheus' Fire** — Stolen fire as directional force
+- `#A0D5` **Prometheus' Fire** — Stolen fire as directional force
 
 ### Wood (WO-prefix) — Growth & Exploration
 
-- `#WO001` **Yggdrasil** — World tree as branching archetype
-- Through `#WO010` and growing...
+- `#B015` **Yggdrasil** — World tree as branching archetype
+- Through `#B017` and growing...
 
 ### Earth (E-prefix) — Ecology & Metabolism
 
 ~25 terms covering ecological and regenerative concepts.
 
-- `#E001` **Gaia** — Earth as living system
+- `#F012` **Gaia** — Earth as living system
 - `#E014` **Autopoiesis** — Self-creating systems
 - `#E025` **Four Spheres** — Atmosphere, hydrosphere, lithosphere, biosphere
 
@@ -63,7 +63,7 @@ Every term folder contains:
 
 ### Meta (META-prefix) — Cross-Elemental
 
-- `#META001` **Nemetic Pattern** — The pattern that recognizes patterns
+- `#Z001` **Nemetic Pattern** — The pattern that recognizes patterns
 - Through `#META005`
 
 ### Learning (L-prefix) — Pedagogy
@@ -75,7 +75,7 @@ Every term folder contains:
 
 ### Critical Thinking (C-prefix)
 
-- `#C001` **Critical Thinking Definitions** — Foundational concepts
+- `#A06B` **Critical Thinking Definitions** — Foundational concepts
 
 ### Democracy (D-prefix)
 

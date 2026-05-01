@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Metal
 source_term: Blacksmith (Metal Transformer)
-hex_tag: "#MET004"
+hex_tag: "#W02F"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ The smith is universally sacred because smithing is the original transformation 
 
 ```
 SIML/terms/MET004_Blacksmith/insight.md
-Hex: #MET004
+Hex: #W02F
 Element: Metal (β primary)
 Z-State: permeable
 Operators: β ∘ μ ∘ ρ ∘ λ

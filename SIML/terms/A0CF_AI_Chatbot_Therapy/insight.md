@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C187
 source_element: Earth
 source_term: AI Chatbot Therapy
-hex_tag: '#C187'
+hex_tag: '#A0CF'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C187
+- **Hex Tag:** #A0CF
 - **Term:** AI Chatbot Therapy
 - **Nemetic String:** Φ(AIChatbotTherapy) = σ(access|intimacy) ∘ ρ(empathy|algorithm) ∘ λ(immediacy|depth) ∘ β(bridge|chasm) ∘ δγ(virtual|embodied) ∘ μ(cost|value) + ε | :drift
 - **SIML Encoding:** ⟨AI|conversational⟩ ⊳ ⟨Therapy|simulated⟩ ⇄ ⟨Access|scaled⟩ ⊗ ⟨Empathy|algorithmic⟩ → ⟨Outcome|liminal⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural boundaries define where AI support ends and human therapy must begin?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C187, #C011, #C109, #C168, #C182
+- **Hex Tags:** #A0CF, #W00C, #A08C, #A0BB, #A0CB
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** It / I / We

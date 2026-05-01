@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C17F
 source_element: Fire
 source_term: Freedom Suarez Daemon
-hex_tag: '#C17F'
+hex_tag: '#F011'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C17F
+- **Hex Tag:** #F011
 - **Term:** Freedom Suarez Daemon
 - **Nemetic String:** Φ(FreedomDaemon) = σ(autonomy|control) ∘ ρ(individual|collective) ∘ λ(liberation|consequence) ∘ β(decentralization|power) ∘ δγ(desire|fulfillment) ∘ μ(boundary|transgression) + ε | :drift
 - **SIML Encoding:** ⟨Freedom|pursued⟩ ⊳ ⟨Technology|enabling⟩ ⇄ ⟨Daemon|emergent⟩ ⊗ ⟨Power|decentralized⟩ → ⟨Consequence|unforeseen⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What boundaries separate legitimate resistance from chaotic destruction?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C17F, #C073, #C177, #C16E, #A037
+- **Hex Tags:** #F011, #F009, #A0C6, #A0C0, #A037
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** Its / I / We

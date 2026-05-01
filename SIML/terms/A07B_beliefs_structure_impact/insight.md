@@ -40,7 +40,7 @@
 
 ## SIML Context
 **Term:** Understanding Beliefs and Their Impact  
-**Hex Tag:** #C062  
+**Hex Tag:** #A07B  
 **Z-State:** discerning  
 **Tendency:** Empowerment/Limitation → 0.65
 

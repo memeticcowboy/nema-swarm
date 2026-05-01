@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C188
 source_element: Water
 source_term: Moral Frameworks Emotional Boundaries
-hex_tag: '#C188'
+hex_tag: '#A0D0'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C188
+- **Hex Tag:** #A0D0
 - **Term:** Moral Frameworks Emotional Boundaries
 - **Nemetic String:** Φ(MoralFrameworks) = σ(unity|division) ∘ ρ(empathy|limitation) ∘ λ(certainty|curiosity) ∘ β(cohesion|constraint) ∘ δγ(grounding|rigidity) ∘ μ(structure|flexibility) + ε | :open
 - **SIML Encoding:** ⟨MoralFramework|collective⟩ ⊳ ⟨EmotionalBoundary|individual⟩ ⇄ ⟨Empathy|channeled⟩ ⊗ ⟨Values|shared⟩ → ⟨Tension|productive⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural balance maintains ethical frameworks between rigidity and adaptive flexibility?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C188, #C146, #C148, #C154, #C157
+- **Hex Tags:** #A0D0, #A0A4, #A0A6, #A0AA, #A0AC
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** We / I / MoreThanHuman

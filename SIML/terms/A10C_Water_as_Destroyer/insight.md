@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Water
 source_term: Water as Destroyer
-hex_tag: #W003
+hex_tag: #A10C
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does floodwater breach?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #W003, #flood, #deluge, #destruction, #sublime
+- **Hex Tags:** #A10C, #flood, #deluge, #destruction, #sublime
 - **Formal Operators:** λ, δγ, σ, ρ
 - **Dim Operators:** Q_forward, Ψ_regenerative, χ, Q_inward
 - **Coord Ontology:** Its / We / I

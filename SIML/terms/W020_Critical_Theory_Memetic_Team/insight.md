@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0918
 source_element: Air
 source_term: Critical Theory and Memetic Team Enhancement
-hex_tag: '#C145'
+hex_tag: '#W020'
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

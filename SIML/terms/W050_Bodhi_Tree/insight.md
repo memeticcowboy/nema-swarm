@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Wood
 source_term: Bodhi Tree
-hex_tag: #WO005
+hex_tag: #W050
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries separate the sacred site from ordinary space?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #WO005, #bodhi, #enlightenment, #sacred-tree
+- **Hex Tags:** #W050, #bodhi, #enlightenment, #sacred-tree
 - **Formal Operators:** μ, ρ, β, δγ
 - **Dim Operators:** Ψ_structural, Q_inward, Ψ_exploratory, Ψ_regenerative
 - **Coord Ontology:** MoreThanHuman / I / We

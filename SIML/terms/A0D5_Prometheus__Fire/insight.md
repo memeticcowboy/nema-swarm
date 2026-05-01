@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Fire
 source_term: "Prometheus' Fire (Civilization/Knowledge)"
-hex_tag: "#F001"
+hex_tag: "#A0D5"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Prometheus' theft encodes a deep truth: genuine knowledge is never freely given 
 
 ```
 SIML/terms/F001_Prometheus__Fire/insight.md
-Hex: #F001
+Hex: #A0D5
 Element: Fire (λ primary)
 Z-State: permeable
 Operators: λ ∘ β ∘ σ ∘ ρ

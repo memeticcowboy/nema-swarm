@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Meta
 source_term: Cthulucene Nemetic Ecology
-hex_tag: #META003
+hex_tag: #Z002
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries prevent reduction to common currency?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #META003, #nemetic-ecology, #cross-substrate, #worlding
+- **Hex Tags:** #Z002, #nemetic-ecology, #cross-substrate, #worlding
 - **Formal Operators:** ρ, β, γ, σ
 - **Dim Operators:** Q_inward, Ψ_exploratory, Ψ_regenerative, χ
 - **Coord Ontology:** MoreThanHuman / Its / We

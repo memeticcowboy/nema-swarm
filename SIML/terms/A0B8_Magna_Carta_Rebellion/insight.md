@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C165
 source_element: Air
 source_term: Magna Carta Rebellion
-hex_tag: '#C165'
+hex_tag: '#A0B8'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C165
+- **Hex Tag:** #A0B8
 - **Term:** Magna Carta Rebellion
 - **Nemetic String:** Φ(MagnaCartaRebellion) = σ(law|resistance) ∘ ρ(authority|consent) ∘ λ(contract|rupture) ∘ β(legacy|interpretation) ∘ δγ(rights|enforcement) ∘ μ(charter|history) + ε | :drift
 - **SIML Encoding:** ⟨Law|codified⟩ ⊳ ⟨Rebellion|institutionalized⟩ ⇄ ⟨Authority|conditional⟩ ⊗ ⟨Consent|withdrawable⟩ → ⟨Rights|enforceable⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural boundaries preserve the charter against political erosion?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C165, #C155, #C115, #C010
+- **Hex Tags:** #A0B8, #A0AB, #A092, #A070
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** We / Its

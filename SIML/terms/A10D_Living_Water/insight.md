@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260226_1321
 source_element: Water
 source_term: Living Water (Indigenous Kinship)
-hex_tag: #W005
+hex_tag: #A10D
 hex_suffix: a3f7d2
 generated_at: 2026-02-26T13:21:00+08:00
 status: draft
@@ -62,7 +62,7 @@ status: draft
 - ⛨ (Boundary): What boundaries protect sacred waters?
 
 ### 5.2 SWARM BASE Routing
-- **Hex Tags:** #W005, #kinship, #indigenous, #reciprocity
+- **Hex Tags:** #A10D, #kinship, #indigenous, #reciprocity
 - **Formal Operators:** ρ, δγ, μ, σ
 - **Dim Operators:** Q_inward, Ψ_regenerative, Ψ_structural, χ
 - **Coord Ontology:** MoreThanHuman → We → Its (kinship-first epistemics)

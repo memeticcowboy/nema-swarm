@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C15C
 source_element: Fire
 source_term: Cognitive_AI
-hex_tag: '#C15C'
+hex_tag: '#A0B1'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What structural constraints ensure safety and explainability in continuously adapting systems?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C15C, #cognitive-ai, #continuous-learning, #metacognition, #agi
+- **Hex Tags:** #A0B1, #cognitive-ai, #continuous-learning, #metacognition, #agi
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** It / Virtual / MoreThanHuman

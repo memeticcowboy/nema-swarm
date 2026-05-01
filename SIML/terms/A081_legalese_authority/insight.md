@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0914
 source_element: Air
 source_term: Legalese Conveys Authority
-hex_tag: '#C079'
+hex_tag: '#A081'
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

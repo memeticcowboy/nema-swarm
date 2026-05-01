@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Meta
 source_term: Nemetic Pattern
-hex_tag: "#META001"
+hex_tag: "#Z001"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ The nemetic pattern corrects classical memetics' core assumption: that culture p
 
 ```
 SIML/terms/META001_Nemetic_Pattern/insight.md
-Hex: #META001
+Hex: #Z001
 Element: Meta (ρ primary)
 Z-State: :turbid
 Operators: ρ ∘ β ∘ γ ∘ σ

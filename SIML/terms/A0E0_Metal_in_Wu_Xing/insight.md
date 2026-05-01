@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Metal
 source_term: Metal in Wu Xing (Chinese Five Elements)
-hex_tag: "#MET005"
+hex_tag: "#A0E0"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Wu Xing Metal is fundamentally different from Western metallic symbolism. It rep
 
 ```
 SIML/terms/MET005_Metal_in_Wu_Xing/insight.md
-Hex: #MET005
+Hex: #A0E0
 Element: Metal (σ primary)
 Z-State: permeable
 Operators: σ ∘ μ ∘ β ∘ δγ

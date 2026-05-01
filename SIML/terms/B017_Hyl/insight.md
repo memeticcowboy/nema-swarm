@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Wood
 source_term: Hyle
-hex_tag: #WO010
+hex_tag: #B017
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does the matter/form distinction enforce?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #WO010, #hyle, #prime-matter, #potentiality
+- **Hex Tags:** #B017, #hyle, #prime-matter, #potentiality
 - **Formal Operators:** μ, σ, γ, ρ
 - **Dim Operators:** Ψ_structural, χ, Ψ_regenerative, Q_inward
 - **Coord Ontology:** It / Its / I

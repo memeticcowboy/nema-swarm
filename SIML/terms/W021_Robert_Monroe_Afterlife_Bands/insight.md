@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Water
 source_term: Robert Monroe Afterlife Bands
-hex_tag: #C16A
+hex_tag: #W021
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -16,7 +16,7 @@ status: draft
 insight_id: INSIGHT_20260316_0900
 source_element: Water
 source_term: Robert Monroe Afterlife Bands
-hex_tag: #C16A
+hex_tag: #W021
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

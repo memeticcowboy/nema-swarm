@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Wood
 source_term: Chthulucene
-hex_tag: #WO009
+hex_tag: #B016
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does the Chthulucene refuse (human/nature, inside/outside)?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #WO009, #Chthulucene, #multispecies, #worlding
+- **Hex Tags:** #B016, #Chthulucene, #multispecies, #worlding
 - **Formal Operators:** γ, ρ, β, μ
 - **Dim Operators:** Ψ_regenerative, Q_inward, Ψ_exploratory, Ψ_structural
 - **Coord Ontology:** MoreThanHuman / We / Its

@@ -1,5 +1,5 @@
 # Elemental Insight: KM Cognitive Pyramid (DIKW Model)
-## Hex: #C003 | Category: Critical Thinking
+## Hex: #A06D | Category: Critical Thinking
 
 ---
 

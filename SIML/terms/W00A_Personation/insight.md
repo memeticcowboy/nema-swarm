@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260426_1400
 source_element: Water
 source_term: Personation
-hex_tag: '#A06A'
+hex_tag: '#W00A'
 generated_at: 2026-04-26T14:00:00+00:00
 status: canonical
 ---

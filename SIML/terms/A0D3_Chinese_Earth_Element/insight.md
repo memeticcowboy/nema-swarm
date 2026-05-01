@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Earth
 source_term: Chinese Earth Element (Wu Xing)
-hex_tag: #E004
+hex_tag: #A0D3
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -16,7 +16,7 @@ status: draft
 insight_id: INSIGHT_20260316_0900
 source_element: Earth
 source_term: Chinese Earth Element (Wu Xing)
-hex_tag: #E004
+hex_tag: #A0D3
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

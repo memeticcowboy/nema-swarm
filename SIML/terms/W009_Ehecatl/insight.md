@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0903
 source_element: Air
 source_term: Ehecatl (Mesoamerican Wind God)
-hex_tag: '#A005'
+hex_tag: '#W009'
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

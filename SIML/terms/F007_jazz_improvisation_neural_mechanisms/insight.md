@@ -33,7 +33,7 @@
 ---
 
 **Source**: Neural Mechanisms of Jazz Improvisation: MRI Insights  
-**Hex Tag**: #C068  
+**Hex Tag**: #F007  
 **Generated**: 2026-03-01T18:13:00+08:00
 
 ---

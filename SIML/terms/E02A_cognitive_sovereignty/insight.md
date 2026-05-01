@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0916
 source_element: Air
 source_term: Cognitive Sovereignty
-hex_tag: '#C133'
+hex_tag: '#E02A'
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

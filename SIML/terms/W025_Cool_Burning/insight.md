@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Fire
 source_term: Cool Burning (Aboriginal Fire Management)
-hex_tag: "#F004"
+hex_tag: "#W025"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Cool Burning inverts the Western Promethean frame entirely. Fire is not stolen f
 
 ```
 SIML/terms/F004_Cool_Burning/insight.md
-Hex: #F004
+Hex: #W025
 Element: Fire (δγ primary)
 Z-State: permeable
 Operators: δγ ∘ μ ∘ ρ ∘ β

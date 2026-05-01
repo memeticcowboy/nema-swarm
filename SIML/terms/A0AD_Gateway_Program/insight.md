@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-04 01:33 Asia/Shanghai  
 **SIML Version:** 1.2.1  
-**Hex Signature:** #C158  
+**Hex Signature:** #A0AD  
 **Source:** /tmp/nema-swarm/SWARM_BASE/Critical Thinking/1771907212749_1147409_Exploring+Consciousness%3A+The+Gateway+Program+Insights.md
 
 ---
@@ -11,7 +11,7 @@
 
 ```yaml
 term: "Gateway Program"
-hex_tag: "#C158"
+hex_tag: "#A0AD"
 nemetic: "Φ(Traveler) = σ(physical|nonphysical) ∘ ρ(brain|consciousness) ∘ λ(technology|transcendence) ∘ β(frequency|awareness) ∘ δγ(individual|institutional) ∘ μ(access|secrecy) + ε | :expanded"
 siml_encoding: "⟨Consciousness|expandable⟩ ⊳ ⟨Technology|Hemi-Sync⟩ → ⟨State|altered⟩ ⊗ ⟨Experience|non-physical⟩ ⇄ ⟨Agency|trained⟩"
 ```
@@ -137,13 +137,13 @@ In critical thinking contexts, this creates opportunities for:
 **Four-Line Thread Format:**
 
 ```
-#C158 | N: Audio entrainment expands trainable consciousness capacities
-#C158 | E: What is the ontological status of non-physical experiences?
-#C158 | M: Technology can systematically access altered states of awareness
-#C158 | A: σ(physical|nonphysical) ↔ | ρ(technology|consciousness) ↑
+#A0AD | N: Audio entrainment expands trainable consciousness capacities
+#A0AD | E: What is the ontological status of non-physical experiences?
+#A0AD | M: Technology can systematically access altered states of awareness
+#A0AD | A: σ(physical|nonphysical) ↔ | ρ(technology|consciousness) ↑
 ```
 
-**Compressed:** `#C158|N:Audio→expanded+consciousness|E:Ontological+status?|M:Tech→altered+states|A:σ↔ρ↑`
+**Compressed:** `#A0AD|N:Audio→expanded+consciousness|E:Ontological+status?|M:Tech→altered+states|A:σ↔ρ↑`
 
 ---
 

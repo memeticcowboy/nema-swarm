@@ -2,7 +2,7 @@
 
 **Generated:** March 1, 2026  
 **Source:** 1771907212470_347427_The+Psychological+Power+of+Words.md  
-**Hex Tag:** #C030
+**Hex Tag:** #A072
 
 ---
 

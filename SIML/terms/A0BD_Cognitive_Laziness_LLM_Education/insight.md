@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C16B
 source_element: Fire
 source_term: Cognitive Laziness LLM Education
-hex_tag: '#C16B'
+hex_tag: '#A0BD'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C16B
+- **Hex Tag:** #A0BD
 - **Term:** Cognitive Laziness LLM Education
 - **Nemetic String:** Φ(CognitiveLaziness) = σ(hybrid_intelligence|replacement) ∘ ρ(scaffolding|offloading) ∘ λ(engagement|atrophy) ∘ β(metacognition|dependence) ∘ δγ(critical_thinking|complacency) ∘ μ(educational_design|default) + ε | :open
 - **SIML Encoding:** ⟨LLM|tool⟩ ⊳ ⟨Cognition|scaffolded⟩ ⇄ ⟨Metacognition|developing⟩ ⊗ ⟨Offloading|atrophying⟩ → ⟨HybridIntelligence|symbiotic⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural boundaries in educational design preserve cognitive development?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C16B, #C130, #C112, #A038, #C168
+- **Hex Tags:** #A0BD, #F010, #A08F, #A038, #A0BB
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** I / It / We

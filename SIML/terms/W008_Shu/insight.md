@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0902
 source_element: Air
 source_term: Shu (Egyptian Air God)
-hex_tag: '#A004'
+hex_tag: '#W008'
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C151
 source_element: Earth
 source_term: Huxley_Ends_and_Means
-hex_tag: '#C151'
+hex_tag: '#A0A8'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What structures contain human potential? What boundaries separate just reform from totalitarian control?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C151, #ends-means, #non-violence, #social-reform, #huxley
+- **Hex Tags:** #A0A8, #ends-means, #non-violence, #social-reform, #huxley
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Ψ_exp, Z
 - **Coord Ontology:** We / It

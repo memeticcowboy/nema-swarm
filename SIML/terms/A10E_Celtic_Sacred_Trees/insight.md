@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260226_1710
 source_element: Wood
 source_term: Celtic Sacred Trees (Oak/Ash/Birch)
-hex_tag: #WO003
+hex_tag: #A10E
 generated_at: 2026-02-26T17:10:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries protect the sacred groves?
 
 ### 5.2 SWARM BASE Routing
-- **Hex Tags:** #WO003, #sacred-taxonomy, #ogham, #druidic
+- **Hex Tags:** #A10E, #sacred-taxonomy, #ogham, #druidic
 - **Formal Operators:** σ, ρ, μ, δγ
 - **Dim Operators:** χ, Q_inward, Ψ_structural, Ψ_regenerative
 - **Coord Ontology:** MoreThanHuman primary, We/I secondary

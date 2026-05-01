@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-03 22:03 Asia/Shanghai  
 **SIML Version:** 1.2.1  
-**Hex Signature:** #C144  
+**Hex Signature:** #A0A3  
 **Source:** /tmp/nema-swarm/SWARM_BASE/Critical Thinking/1771907212679_913204_Rethinking+Success%3A+Insights+from+Adam+Grant.md
 
 ---
@@ -11,7 +11,7 @@
 
 ```yaml
 term: "Rethinking Success - The Power of Knowing What You Don't Know"
-hex_tag: "#C144"
+hex_tag: "#A0A3"
 nemetic: "Φ(Rethink) = σ(certainty|doubt) ∘ ρ(belief|evidence) ∘ λ(unlearning|growth) ∘ β(feedback|revision) ∘ δγ(identity|adaptation) ∘ μ(humility|confidence) + ε | :intellectual_flexibility"
 siml_encoding: "⟨Certainty|suspended⟩ ⊳ ⟨Evidence|weighted⟩ → ⟨Unlearning|active⟩ ⊗ ⟨Revision|iterative⟩ ⇄ ⟨Growth|sustained⟩"
 ```
@@ -132,13 +132,13 @@ The framework emphasizes:
 **Four-Line Thread Format:**
 
 ```
-#C144 | N: Beliefs as hypotheses; identity separate from opinions
-#C144 | E: What would convince you that you're wrong about this?
-#C144 | M: The scientist mindset—testing rather than defending
-#C144 | A: σ(certainty|doubt) ↓ | ρ(belief|evidence) ↑ | unlearning→growth
+#A0A3 | N: Beliefs as hypotheses; identity separate from opinions
+#A0A3 | E: What would convince you that you're wrong about this?
+#A0A3 | M: The scientist mindset—testing rather than defending
+#A0A3 | A: σ(certainty|doubt) ↓ | ρ(belief|evidence) ↑ | unlearning→growth
 ```
 
-**Compressed:** `#C144|N:Beliefs↔hypotheses|E:Disconfirm?|M:Scientist-mode|A:σ↓ρ↑unlearn→`
+**Compressed:** `#A0A3|N:Beliefs↔hypotheses|E:Disconfirm?|M:Scientist-mode|A:σ↓ρ↑unlearn→`
 
 ---
 

@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Wood
 source_term: Wu Xing Wood
-hex_tag: #WO002
+hex_tag: #W04E
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does Wood's growth respect or push?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #WO002, #wu-xing, #wood, #growth, #Ren
+- **Hex Tags:** #W04E, #wu-xing, #wood, #growth, #Ren
 - **Formal Operators:** β, δγ, μ, ρ
 - **Dim Operators:** Ψ_exploratory, Ψ_regenerative, Ψ_structural, Q_inward
 - **Coord Ontology:** Its / We / I

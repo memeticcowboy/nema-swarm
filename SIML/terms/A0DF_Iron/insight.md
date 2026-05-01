@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Metal
 source_term: Iron (Martial/Civilizational Metal)
-hex_tag: "#MET003"
+hex_tag: "#A0DF"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Iron's civilizational significance comes from its availability and versatility. 
 
 ```
 SIML/terms/MET003_Iron/insight.md
-Hex: #MET003
+Hex: #A0DF
 Element: Metal (λ primary)
 Z-State: permeable
 Operators: λ ∘ μ ∘ δγ ∘ σ

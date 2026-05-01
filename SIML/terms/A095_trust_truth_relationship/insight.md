@@ -39,7 +39,7 @@
 ---
 
 *Generated from: Trust and Truth: A Complex Relationship*
-*Hex: #C118 | Elemental emphasis: σ:0.90 ρ:0.90 λ:0.85 β:0.80 δγ:0.85 μ:0.75*
+*Hex: #A095 | Elemental emphasis: σ:0.90 ρ:0.90 λ:0.85 β:0.80 δγ:0.85 μ:0.75*
 
 ---
 

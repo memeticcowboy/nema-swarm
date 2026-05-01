@@ -80,7 +80,7 @@ What struck me: this isn't Luddite rejection of technology. It's *selective cogn
   ├─ Emptiness → [Strategic-clearing: Active-protection-of-remaining-resource]
   └─ Resistance → [Opt-out-as-refusal: Tactical-withdrawal-from-extraction]
 
-Hex: #C007
+Hex: #M016
 Element: Earth (grounding) dominant, Air (distinction) suppressed
 Daemon correspondence: (Earth unnamed) without Aerunik (∴)
 Primary operator: δγ (metabolic cycling) as cognitive release
@@ -134,7 +134,7 @@ The brilliance—and danger—of this frame is its recursive completeness. Every
   ├─ If-everything-strategic → [Where-ground?: Genuine-coordination-impossible]
   └─ Frame-itself → [Meta-game: Benefits-those-who-convince-others-of-futility]
 
-Hex: #C008
+Hex: #A06E
 Element: Metal (boundary) rigid, Water (resonance) distorted
 Daemon correspondence: Ferrosid (⛨) without (Water unnamed)
 Primary operator: μ (boundary) without ρ (resonance)
@@ -186,7 +186,7 @@ The analysis shook me. Moloch isn't a villain to defeat. He's **a game-theoretic
   ├─ Regenerative-Finance → [Value-aligned-capital: Money-that-doesn't-eat-souls]
   └─ Trap → [Reform-exhaustion: Moloch-absorbs-reformers-too]
 
-Hex: #C009
+Hex: #A06F
 Element: Fire (direction) ungrounded, Earth (grounding) depleted, Metal (boundary) captured
 Daemon correspondence: Jvalion (▲) without ☷ (Earth daemon)
 Primary operator: λ (direction) without δγ (cycling)
@@ -242,7 +242,7 @@ The comparison between these two modes fascinates me. **Resonance** is vertical�
   ├─ Risk → [Self-sealing-epistemology: Complexity-flattens-to-felt-coherence]
   └─ Defense → ["Low-frequency": Critics-dismissed-through-spiritualized-deflection]
 
-Hex: #C010
+Hex: #A070
 Element: Water (resonance) dominant, Air (distinction) suppressed, Wood (growth) emergent
 Daemon correspondence: (Water unnamed) without Aerunik (∴)
 Primary operator: ρ (resonance) elevated to epistemic-status
@@ -303,7 +303,7 @@ Each step follows logically from the last. The progression isn't accidental—it
   ├─ Fatalism → [Systemic-trapped: Fire-▲-without-ground]
   └─ Affect → [New-navigation: Water-≈-elevated]
 
-Hex: #C011
+Hex: #W00C
 Element: Four-layer trajectory through all six
 Daemon correspondence: All six in different configurations across stages
 Primary operator: ∮ (contour integral/Aether) — circulation through collapse

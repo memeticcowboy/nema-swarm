@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries contain and protect her creative power?
 
 ### 5.2 SWARM BASE Routing
-- **Hex Tags:** #E001, #4684
+- **Hex Tags:** #F012, #4684
 - **Formal Operators:** δγ, β, μ, λ
 - **Dim Operators:** Ψ_regenerative, Ψ_exploratory, Ψ_structural, Q_forward
 - **Coord Ontology:** Its (primary), I/We/MoreThanHuman (secondary)

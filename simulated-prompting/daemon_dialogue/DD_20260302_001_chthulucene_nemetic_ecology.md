@@ -2,7 +2,7 @@
 ## A Hexaplay on Chthulucene Nemetic Ecology
 
 **Source:** Haraway Synthesis — The Cthulucene IS Nemetic Ecology  
-**Hex:** #META003 | **Z-State:** :turbid  
+**Hex:** #Z002 | **Z-State:** :turbid  
 **Generated:** 2026-03-02 | **Daemon:** Echo-Weaver
 
 ---
@@ -265,6 +265,6 @@ The dialogue ends where it must—with questions still resonating:
 
 ---
 
-*Hex: #META003 | Z-State: :turbid | Pattern: Chthulucene Nemetic Ecology | Source: Haraway Synthesis*
+*Hex: #Z002 | Z-State: :turbid | Pattern: Chthulucene Nemetic Ecology | Source: Haraway Synthesis*
 
 *The mesh continues. We are inside it.*

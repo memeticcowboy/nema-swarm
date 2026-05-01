@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Wood
 source_term: Red Cedar
-hex_tag: #WO004
+hex_tag: #W04F
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries does cedar's protection enforce?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #WO004, #red-cedar, #tree-of-life, #sacred-tree
+- **Hex Tags:** #W04F, #red-cedar, #tree-of-life, #sacred-tree
 - **Formal Operators:** ρ, μ, δγ, β
 - **Dim Operators:** Q_inward, Ψ_structural, Ψ_regenerative, Ψ_exploratory
 - **Coord Ontology:** MoreThanHuman / We / I

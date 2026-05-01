@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Earth
 source_term: Glycocalyx and Brain Aging
-hex_tag: #C17B
+hex_tag: #E02D
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -16,7 +16,7 @@ status: draft
 insight_id: INSIGHT_20260316_0900
 source_element: Earth
 source_term: Glycocalyx and Brain Aging
-hex_tag: #C17B
+hex_tag: #E02D
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---

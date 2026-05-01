@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C17A
 source_element: Water
 source_term: Alan Watts Interdependence
-hex_tag: '#C17A'
+hex_tag: '#A0C9'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C17A
+- **Hex Tag:** #A0C9
 - **Term:** Alan Watts Interdependence
 - **Nemetic String:** Φ(AlanWattsInterdependence) = σ(ceramic|automatic) ∘ ρ(separation|interdependence) ∘ λ(alienation|integration) ∘ β(entity|field) ∘ δγ(self|universe) ∘ μ(model|experience) + ε | :open
 - **SIML Encoding:** ⟨Model|ceramic⟩ ⊳ ⟨Model|automatic⟩ ⇄ ⟨Reality|interdependent⟩ ⊗ ⟨Self|field-embedded⟩ → ⟨Experience|holistic⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural limits of models must be dissolved for direct experience?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C17A, #C007, #C045, #C16C, #C042
+- **Hex Tags:** #A0C9, #M016, #E024, #A0BE, #A074
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** MoreThanHuman / I / We

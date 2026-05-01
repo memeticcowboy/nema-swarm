@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C17E
 source_element: Earth
 source_term: Hegel Community Happiness
-hex_tag: '#C17E'
+hex_tag: '#E02E'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C17E
+- **Hex Tag:** #E02E
 - **Term:** Hegel Community Happiness
 - **Nemetic String:** Φ(HegelCommunity) = σ(individual|social) ∘ ρ(Recht|Sittlichkeit) ∘ λ(autonomy|recognition) ∘ β(Moralitaet|ethical_life) ∘ δγ(desire|fulfillment) ∘ μ(boundary|integration) + ε | :open
 - **SIML Encoding:** ⟨Individual|abstract⟩ ⊳ ⟨SocialContext|constitutive⟩ ⇄ ⟨Recht|limited⟩ ⊗ ⟨Sittlichkeit|unifying⟩ → ⟨Freedom|actualized⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What boundaries separate ethical community from mere conformity? How does integration avoid becoming absorption?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C17E, #C150, #C135, #C167, #C177
+- **Hex Tags:** #E02E, #A0A7, #W01F, #A0BA, #A0C6
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** We / I

@@ -2,7 +2,7 @@
 
 **Generated:** March 2, 2026
 **Source:** Avoiding AI Writing Pitfalls
-**Hex Tag:** #C127
+**Hex Tag:** #A099
 
 ---
 

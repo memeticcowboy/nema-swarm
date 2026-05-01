@@ -1,6 +1,6 @@
 # SIML Insight: Mastering Critical Thinking Skills
 
-**Hex Tag:** #C076  
+**Hex Tag:** #M018  
 **Generated:** 2026-03-01  
 **Source:** Mastering Critical Thinking Skills (Rasmussen University)
 

@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-01T06:23:00+08:00  
 **Term ID:** C008  
-**Hex Tag:** #C008
+**Hex Tag:** #A06E
 
 ---
 

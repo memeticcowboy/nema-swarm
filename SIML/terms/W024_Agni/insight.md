@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Fire
 source_term: Agni (Vedic Fire God)
-hex_tag: "#F002"
+hex_tag: "#W024"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Agni's uniqueness among Vedic gods is accessibility — the divine is not distan
 
 ```
 SIML/terms/F002_Agni/insight.md
-Hex: #F002
+Hex: #W024
 Element: Fire (ρ primary, λ secondary)
 Z-State: permeable
 Operators: ρ ∘ δγ ∘ μ ∘ λ

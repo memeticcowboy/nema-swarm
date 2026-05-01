@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_0900
 source_element: Metal
 source_term: Silver (Lunar/Mysterious Metal)
-hex_tag: "#MET002"
+hex_tag: "#A0DE"
 generated_at: 2026-03-16T09:00:00+00:00
 status: draft
 ---
@@ -101,7 +101,7 @@ Silver's symbolic power comes from its paradox: it reflects (shows you yourself)
 
 ```
 SIML/terms/MET002_Silver/insight.md
-Hex: #MET002
+Hex: #A0DE
 Element: Metal (ρ primary)
 Z-State: permeable
 Operators: ρ ∘ β ∘ μ ∘ σ

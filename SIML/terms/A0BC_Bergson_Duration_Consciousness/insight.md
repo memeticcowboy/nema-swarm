@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C169
 source_element: Water
 source_term: Bergson Duration Consciousness
-hex_tag: '#C169'
+hex_tag: '#A0BC'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -11,7 +11,7 @@ status: draft
 
 ## 1. SIML Term Summary
 
-- **Hex Tag:** #C169
+- **Hex Tag:** #A0BC
 - **Term:** Bergson Duration Consciousness
 - **Nemetic String:** Φ(Bergson) = σ(duration|spatialized) ∘ ρ(flow|discrete) ∘ λ(novelty|determinism) ∘ β(intuition|intellect) ∘ δγ(memory|instant) ∘ μ(elan|mechanism) + ε | :open
 - **SIML Encoding:** ⟨Duration|continuous⟩ ⊳ ⟨Consciousness|temporal⟩ ⇄ ⟨Intuition|sympathetic⟩ ⊗ ⟨Intellect|spatializing⟩ → ⟨FreeWill|creative⟩
@@ -63,7 +63,7 @@ status: draft
 - ⛨ (Boundary): What structural boundaries separate elan vital from mechanistic explanation?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C169, #C045, #C009, #C007, #C148
+- **Hex Tags:** #A0BC, #E024, #A06F, #M016, #A0A6
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** I / MoreThanHuman

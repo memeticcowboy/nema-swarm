@@ -181,7 +181,7 @@ The glossary file `SWARM_BASE/swarm_base_01.md` (9,295 lines, 157 entries) has i
 - "Mastering Critical Thinking Skills" appears at C027, C035, and C076
 
 ### Hex Tag Conflict: C021
-Within swarm_base_01.md, hex tag **#C021** is assigned to two different terms:
+Within swarm_base_01.md, hex tag **#A071** is assigned to two different terms:
 - "Scientist Mindset" (line ~2296)
 - "Subconscious Games in Decision-Making" (line ~4778)
 

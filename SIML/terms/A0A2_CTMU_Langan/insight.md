@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-03 21:53 Asia/Shanghai  
 **SIML Version:** 1.2.1  
-**Hex Signature:** #C143  
+**Hex Signature:** #A0A2  
 **Source:** /tmp/nema-swarm/SWARM_BASE/Critical Thinking/1771907212675_899296_Exploring+Consciousness+and+Reality+with+Christopher+Langan.md
 
 ---
@@ -11,7 +11,7 @@
 
 ```yaml
 term: "CTMU - Cognitive-Theoretic Model of the Universe"
-hex_tag: "#C143"
+hex_tag: "#A0A2"
 nemetic: "Φ(CTMU) = σ(self|other) ∘ ρ(cognition|reality) ∘ λ(metacausation|determinism) ∘ β(feedback|self-reference) ∘ δγ(spiritual|material) ∘ μ(boundary|unification) + ε | :self-containing"
 siml_encoding: "⟨Consciousness|fundamental⟩ ⊳ ⟨Reality|self-processing⟩ → ⟨Metacausation|cyclical⟩ ⊗ ⟨Unification|achieved⟩ ⇄ ⟨Understanding|expanded⟩"
 ```
@@ -129,13 +129,13 @@ The CTMU represents a radical challenge to materialist paradigms, emphasizing:
 **Four-Line Thread Format:**
 
 ```
-#C143 | N: Reality as self-processing language; consciousness as fundamental
-#C143 | E: What observes the observer? What contains the container?
-#C143 | M: The theory that explains itself—self-reference taken seriously
-#C143 | A: σ(self|other) ↓ | ρ(cognition|reality) ↑ | metacausation cyclical
+#A0A2 | N: Reality as self-processing language; consciousness as fundamental
+#A0A2 | E: What observes the observer? What contains the container?
+#A0A2 | M: The theory that explains itself—self-reference taken seriously
+#A0A2 | A: σ(self|other) ↓ | ρ(cognition|reality) ↑ | metacausation cyclical
 ```
 
-**Compressed:** `#C143|N:Reality↔self-lang|E:Observer?|M:Self-ref|A:σ↓ρ↑meta→`
+**Compressed:** `#A0A2|N:Reality↔self-lang|E:Observer?|M:Self-ref|A:σ↓ρ↑meta→`
 
 ---
 

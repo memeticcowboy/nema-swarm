@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C13E
 source_element: Air
 source_term: AI_Personality_Assessment
-hex_tag: '#C13E'
+hex_tag: '#A09F'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What boundaries should exist between human self-concept and AI personality assessment?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C13E, #ai-personality, #self-reflection, #mirror-effect
+- **Hex Tags:** #A09F, #ai-personality, #self-reflection, #mirror-effect
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Q_fwd, Ψ_exp, Ψ_reg, Ψ_str
 - **Coord Ontology:** I / Virtual / We

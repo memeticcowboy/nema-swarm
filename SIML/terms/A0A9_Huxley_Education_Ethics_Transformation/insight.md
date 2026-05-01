@@ -2,7 +2,7 @@
 insight_id: INSIGHT_20260316_C152
 source_element: Earth
 source_term: Huxley_Education_Ethics_Transformation
-hex_tag: '#C152'
+hex_tag: '#A0A9'
 generated_at: 2026-03-16T09:00:00+08:00
 status: draft
 ---
@@ -61,7 +61,7 @@ status: draft
 - ⛨ (Boundary): What structures contain human potential for goodness? What boundaries separate authentic ethics from performative morality?
 
 ### 4.2 SWARM BASE Routing
-- **Hex Tags:** #C152, #education-ethics, #transformation, #huxley, #moral-development
+- **Hex Tags:** #A0A9, #education-ethics, #transformation, #huxley, #moral-development
 - **Formal Operators:** σ, ρ, λ, β, δγ, μ
 - **Dim Operators:** χ, Q_in, Ψ_exp, Z
 - **Coord Ontology:** We / I
