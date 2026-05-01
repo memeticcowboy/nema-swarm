@@ -16,7 +16,7 @@ This schema replaces series-letter classification with a **seven-facet taxonomy*
 
 1. **`lifecycle:`** — new field, independent of `Z_state:`. Lifecycle describes the *entry's maturity*. Z_state describes the *concept's closure dynamics*. These are orthogonal: an entry can be `lifecycle: canonical` with `Z_state: open` (mature encoding of an inherently permeable concept).
 
-2. **`operator_hex:` / `related_terms:`** — split from the former `hex:` field, which conflated operator SIMLHEX codes (`0x01`–`0x07`) with term cross-references (`#A01B`, `#C16D`). Now two distinct fields with clear semantics.
+2. **`operator_hex:` / `related_terms:`** — split from the former `hex:` field, which conflated operator SIMLHEX codes (`0x01`–`0x07`) with term cross-references (`#A01B`, `#A0BF`). Now two distinct fields with clear semantics.
 
 3. **`elemental_signature:`** — unified format replacing the inconsistent mix of qualitative `elemental_emphasis` (A/C-series) and quantified `emphasis: {0.XX}` (S-series). Supports both ranked and weighted representations.
 

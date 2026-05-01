@@ -36,8 +36,8 @@ The `nema_critical_thinking_generator` cron job will:
 ## Hex Tag Series
 
 Critical thinking entries use C-series hex tags:
-- C001-C099: Core critical thinking concepts
-- C100+: Extended applications
+- A06B-B002: Core critical thinking concepts
+- F00B+: Extended applications
 
 ## Elemental Focus
 

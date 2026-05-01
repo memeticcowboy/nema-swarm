@@ -123,19 +123,19 @@ Each SIML encoded term can be mapped to optimal session stage:
 
 **Terms optimal for OPENING:**
 - High β (exploration) + moderate σ (distinction)
-- Examples: Prometheus' Fire (F001), Celtic Trees (WO003)
+- Examples: Prometheus' Fire (A0D5), Celtic Trees (A10E)
 
 **Terms optimal for EXPLORING:**
 - Balanced operator distribution
-- Examples: Gaia (E001), Pneuma (A001), Agni (F002)
+- Examples: Gaia (F012), Pneuma (A001), Agni (W024)
 
 **Terms optimal for REFLECTING:**
 - High ρ (resonance) + δγ (cycling)
-- Examples: Sacred Relative (E003), Living Water (W005), Bodhi Tree (WO005)
+- Examples: Sacred Relative (A0D2), Living Water (A10D), Bodhi Tree (W050)
 
 **Terms optimal for FUTURING:**
 - High β (exploration) + λ (direction)
-- Examples: Wu Xing Wood (WO002), Cool Burning (F004)
+- Examples: Wu Xing Wood (W04E), Cool Burning (W025)
 
 ---
 

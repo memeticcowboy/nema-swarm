@@ -37,7 +37,7 @@ A:
 
 C:
   description: Critical thinking and cognitive science
-  # C001: critical_thinking_definitions and more
+  # A06B: critical_thinking_definitions and more
 
 D:
   description: Democracy and governance
@@ -46,12 +46,12 @@ D:
 E:
   description: Earth element and ecological concepts
   next_available: E026
-  # E001: Gaia, E014: Autopoiesis
+  # F012: Gaia, E014: Autopoiesis
   # E025: Four_Spheres
 
 F:
   description: Fire element
-  # F001: Prometheus__Fire and more
+  # A0D5: Prometheus__Fire and more
 
 L:
   description: Learning and pedagogy
@@ -64,7 +64,7 @@ M:
 
 META:
   description: Cross-elemental meta-synthesis
-  # META001: Nemetic_Pattern through META005
+  # Z001: Nemetic_Pattern through META005
 
 P:
   description: Psychology and learning theory
@@ -72,11 +72,11 @@ P:
 
 W:
   description: Water element
-  # W001: Thales__Arche through W008
+  # A10B: Thales__Arche through W008
 
 WO:
   description: Wood element
-  # WO001: Yggdrasil through WO010
+  # B015: Yggdrasil through B017
 ```
 
 ---
@@ -85,7 +85,7 @@ WO:
 
 Every SIML term receives a globally unique hex tag:
 
-- Format: `#PREFIX + NUMBER` (e.g., `#A001`, `#W005`, `#META003`)
+- Format: `#PREFIX + NUMBER` (e.g., `#A001`, `#A10D`, `#Z002`)
 - Tags are assigned sequentially within each prefix
 - The `next_available` field tracks the next open slot
 - Tags never reuse — even if a term is deprecated, its tag remains reserved
@@ -96,7 +96,7 @@ Reference any term by its hex tag:
 
 - In text: `#A001` refers to the Pneuma entry
 - In nemetic strings: `tags:#A001`
-- In thread encoding: `tags:#A001,#W005`
+- In thread encoding: `tags:#A001,#A10D`
 - For lookup: find the term folder at `SIML/terms/{TAG}_{name}/`
 
 ---

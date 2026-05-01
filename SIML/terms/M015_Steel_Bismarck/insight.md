@@ -55,7 +55,7 @@ status: draft
 | **Martial** | Iron Mars (M013) | Metal as martial instrument — but Bismarck adds industrial scale |
 | **Geopolitics** | Strategic Metals (MET009) | Supply chain control as national security |
 | **Counter-narrative** | Swords to Plowshares (MET008) | The transformation Bismarck's logic would forbid |
-| **Alchemy** | Alchemical Gold (MET006) | Inner transformation vs. outer domination |
+| **Alchemy** | Alchemical Gold (M021) | Inner transformation vs. outer domination |
 
 ## 4. NEMA SWARM Integration
 

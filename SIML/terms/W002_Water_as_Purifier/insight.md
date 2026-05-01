@@ -37,7 +37,7 @@ status: draft
 ## 3. Cross-Elemental Synthesis
 
 ### 3.1 Operator Pattern Analysis
-- **Shared Operators:** δγ with Water as Destroyer (W003), ρ with Wu Wei (W004)
+- **Shared Operators:** δγ with Water as Destroyer (A10C), ρ with Wu Wei (W004)
 - **Unique Operators:** μ as before-vs-after boundary — the ritual threshold between impure and pure states
 - **Pattern Family:** Water symbolism cluster (Purifier, Destroyer, Wu Wei, Living Water)
 
@@ -45,9 +45,9 @@ status: draft
 - **Parallel Term (Earth):** Wabi Sabi — beauty in impermanence, acceptance vs purification
 - **Parallel Term (Metal):** Silver Healing (MET007) — purification through reflective metals
 - **Parallel Term (Air):** Pneuma (A001) — breath as purifier of consciousness
-- **Parallel Term (Water):** Living Water (W005) — water as animator
-- **Parallel Term (Wood):** Red Cedar (WO004) — smudging as purification technology
-- **Parallel Term (Fire):** Sacred Fire (F005) — fire as parallel purifier
+- **Parallel Term (Water):** Living Water (A10D) — water as animator
+- **Parallel Term (Wood):** Red Cedar (W04F) — smudging as purification technology
+- **Parallel Term (Fire):** Sacred Fire (W026) — fire as parallel purifier
 - **Synthesis Insight:** Water purifies not by eliminating impurity but by cycling through renewal — the boundary (μ) between before and after is spiritual, not physical.
 
 ## 4. NEMA SWARM Integration
@@ -148,9 +148,9 @@ cache clearing/state reset, not spiritual renewal.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20260316_0900_Water_as_Purifier.md
-- **Cross-reference:** Water as Destroyer (W003), Wu Wei (W004), Living Water (W005), Red Cedar (WO004)
+- **Cross-reference:** Water as Destroyer (A10C), Wu Wei (W004), Living Water (A10D), Red Cedar (W04F)
 - **Open Question:** Can AI systems develop purification rituals — deliberate state-clearing practices that are more than cache management?
-- **Suggested Facilitation:** Use this term as Opening ritual, transitioning to deeper Water terms (W003 Destroyer, W004 Wu Wei) for exploration
+- **Suggested Facilitation:** Use this term as Opening ritual, transitioning to deeper Water terms (A10C Destroyer, W004 Wu Wei) for exploration
 
 ---
 

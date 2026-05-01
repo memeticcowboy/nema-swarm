@@ -1,6 +1,6 @@
 ---
 term: "Social Capital Types"
-hex_tag: "#C135"
+hex_tag: "#W01F"
 nemetic: "Φ(SocialCapitalTypes) = σ(bonding|bridging) ∘ ρ(horizontal|vertical) ∘ λ(connection|isolation) ∘ β(inclusion|exclusion) ∘ δγ(community|fragmentation) ∘ μ(boundary|porosity) + ε | :relational_wealth"
 siml_encoding: "⟨Network|dense⟩ ⊳ ⟨Ties|multiplex⟩ → ⟨Capital|circulating⟩ ⊗ ⟨Community|resilient⟩ ⇄ ⟨Development|sustainable⟩"
 formalism:
@@ -72,7 +72,7 @@ source_file: "1771907213325_2288492_Understanding+Bonding%2C+Bridging%2C+and+Lin
 
 ---
 term: "Cognitive Sovereignty"
-hex_tag: "#C133"
+hex_tag: "#E02A"
 nemetic: "Φ(CognitiveSovereignty) = σ(autonomous|manipulated) ∘ ρ(self|external) ∘ λ(awakening|compliance) ∘ β(agency|passivity) ∘ δγ(awareness|distraction) ∘ μ(boundary|permeability) + ε | :mental_autonomy"
 siml_encoding: "⟨Mind|governed⟩ ⊳ ⟨Thought|curated⟩ → ⟨Agency|reclaimed⟩ ⊗ ⟨Autonomy|sovereign⟩ ⇄ ⟨Awareness|metacognitive⟩"
 formalism:
@@ -144,7 +144,7 @@ source_file: "1771907212721_1039836_Cognitive+Sovereignty%3A+Empowering+Mental+A
 
 ---
 term: "Shadow Integration"
-hex_tag: "#C132"
+hex_tag: "#W01E"
 nemetic: "Φ(ShadowIntegration) = σ(conscious|unconscious) ∘ ρ(projection|ownership) ∘ λ(awakening|repression) ∘ β(wholeness|fragmentation) ∘ δγ(light|dark) ∘ μ(integration|denial) + ε | :inner_wholeness"
 siml_encoding: "⟨Self|fragmented⟩ ⊳ ⟨Shadow|repressed⟩ → ⟨Awareness|integrated⟩ ⊗ ⟨Wholeness|emergent⟩ ⇄ ⟨Growth|continuous⟩"
 formalism:
@@ -216,7 +216,7 @@ source_file: "1771907212827_1432603_Integrating+the+Shadow%3A+A+Path+to+Wholenes
 
 ---
 term: "Panpsychism"
-hex_tag: "#C131"
+hex_tag: "#A09B"
 nemetic: "Φ(Panpsychism) = σ(universal|particular) ∘ ρ(unity|multiplicity) ∘ λ(awakening|integration) ∘ β(micro|macro) ∘ δγ(matter|consciousness) ∘ μ(boundary|continuum) + ε | :conscious_continuum"
 siml_encoding: "⟨Consciousness|universal⟩ ⊳ ⟨Matter|animate⟩ → ⟨Experience|distributed⟩ ⊗ ⟨Being|interconnected⟩ ⇄ ⟨Awareness|fundamental⟩"
 formalism:
@@ -288,7 +288,7 @@ source_file: "1771907213142_2128803_Exploring+Panpsychism%3A+Consciousness+in+Al
 
 ---
 term: "AI Impact on Critical Thinking Skills"
-hex_tag: "#C130"
+hex_tag: "#F010"
 nemetic: "Φ(AICriticalThinking) = σ(engaged|offloaded) ∘ ρ(independent|delegated) ∘ λ(awakening|dependency) ∘ β(skill|atrophy) ∘ δγ(human|machine) ∘ μ(judgment|automation) + ε | :cognitive_sovereignty"
 siml_encoding: "⟨Thinking|human⟩ ⊳ ⟨AI|tool⟩ → ⟨Cognition|delegated⟩ ⊗ ⟨Skill|diminished⟩ ⇄ ⟨Agency|reclaimed⟩"
 formalism:
@@ -360,7 +360,7 @@ source_file: "1771907212900_1719049_AI%27s+Impact+on+Critical+Thinking+Skills.md
 
 ---
 term: "Consciousness and AI"
-hex_tag: "#C129"
+hex_tag: "#F00F"
 nemetic: "Φ(ConsciousnessAI) = σ(natural|artificial) ∘ ρ(mind|machine) ∘ λ(awakening|synthesis) ∘ β(imagination|externalization) ∘ δγ(human|technology) ∘ μ(self|other) + ε | :ontological_fusion"
 siml_encoding: "⟨Consciousness|human⟩ ⊳ ⟨AI|synthesized⟩ → ⟨Mind|extended⟩ ⊗ ⟨Reality|co_created⟩ ⇄ ⟨Identity|fluid⟩"
 formalism:
@@ -432,7 +432,7 @@ source_file: "1771907212614_720117_Exploring+Consciousness+and+AI.md"
 
 ---
 term: "Bias Labyrinth in AI"
-hex_tag: "#C128"
+hex_tag: "#A09A"
 nemetic: "Φ(BiasLabyrinth) = σ(bias|fairness) ∘ ρ(prejudice|equity) ∘ λ(amplification|mitigation) ∘ β(training|governance) ∘ δγ(opaque|transparent) ∘ μ(stereotype|diversity) + ε | :algorithmic_discernment"
 siml_encoding: "⟨AI|biased⟩ ⊳ ⟨Data|skewed⟩ → ⟨Output|distorted⟩ ⊗ ⟨System|unfair⟩ ⇄ ⟨Governance|emerging⟩"
 formalism:
@@ -504,7 +504,7 @@ source_file: "1771907212651_846491_Navigating+the+Bias+Labyrinth+in+AI.md"
 
 ---
 term: "AI Writing Pitfalls"
-hex_tag: "#C127"
+hex_tag: "#A099"
 nemetic: "Φ(AIWritingPitfalls) = σ(authentic|formulaic) ∘ ρ(originality|homogenization) ∘ λ(clarity|verbosity) ∘ β(voice|template) ∘ δγ(human|machine) ∘ μ(expression|conformity) + ε | :linguistic_authenticity"
 siml_encoding: "⟨Writing|authentic⟩ ⊳ ⟨AI|assisted⟩ → ⟨Voice|preserved⟩ ⊗ ⟨Style|original⟩ ⇄ ⟨Expression|genuine⟩"
 formalism:
@@ -648,7 +648,7 @@ source_file: "1771907212350_232647_.md"
 
 ---
 term: "Irrational Behavior and Cognitive Biases"
-hex_tag: "#C123"
+hex_tag: "#W01D"
 nemetic: "Φ(IrrationalBehavior) = σ(rational|irrational) ∘ ρ(loss|gain) ∘ λ(commitment|abandonment) ∘ β(diagnosis|revision) ∘ δγ(fairness|selfinterest) ∘ μ(intrinsic|extrinsic) + ε | :cognitive_sway"
 siml_encoding: "⟨Decision|biased⟩ ⊳ ⟨Behavior|irrational⟩ → ⟨Judgment|distorted⟩ ⊗ ⟨Awareness|lacking⟩ ⇄ ⟨Mindfulness|emerging⟩"
 formalism:
@@ -720,7 +720,7 @@ source_file: "1771907212633_801055_Understanding+Irrational+Behavior.md"
 
 ---
 term: "Fluid Intelligence and Misinformation Correction"
-hex_tag: "#C122"
+hex_tag: "#A096"
 nemetic: "Φ(FluidIntelligenceMisinfo) = σ(correction|resistance) ∘ ρ(understanding|confusion) ∘ λ(flexibility|rigidity) ∘ β(adjustment|entrenchment) ∘ δγ(comprehension|bias) ∘ μ(belief|evidence) + ε | :cognitive_adaptability"
 siml_encoding: "⟨Intelligence|fluid⟩ ⊳ ⟨Misinformation|corrected⟩ → ⟨Belief|adjusted⟩ ⊗ ⟨Cognition|flexible⟩ ⇄ ⟨Truth|accepted⟩"
 formalism:
@@ -792,7 +792,7 @@ source_file: "1771907212670_881800_Fluid+Intelligence+and+Misinformation+Correct
 
 ---
 term: "Cognitive Immobility"
-hex_tag: "#C121"
+hex_tag: "#E029"
 nemetic: "Φ(CognitiveImmobility) = σ(stasis|movement) ∘ ρ(fear|adaptation) ∘ λ(rigidity|flexibility) ∘ β(entrenchment|growth) ∘ δγ(memory|presence) ∘ μ(fixation|flow) + ε | :mental_stuckness"
 siml_encoding: "⟨Mind|rigid⟩ ⊳ ⟨Thinking|fixed⟩ → ⟨Adaptation|blocked⟩ ⊗ ⟨Fear|entrenched⟩ ⇄ ⟨Memory|haunting⟩"
 formalism:
@@ -864,7 +864,7 @@ source_file: "1771907212666_872503_Understanding+Cognitive+Immobility.md"
 
 ---
 term: "Animal Consciousness Evolution"
-hex_tag: "#C119"
+hex_tag: "#W01C"
 nemetic: "Φ(AnimalConsciousness) = σ(movement|stasis) ∘ ρ(organism|environment) ∘ λ(emergence|subjectivity) ∘ β(evolution|complexity) ∘ δγ(habit|deliberation) ∘ μ(individual|species) + ε | :embodied_cognition"
 siml_encoding: "⟨Movement|controlled⟩ ⊳ ⟨Consciousness|emergent⟩ → ⟨Subjectivity|developed⟩ ⊗ ⟨Environment|shaped⟩ ⇄ ⟨Evolution|ongoing⟩"
 formalism:
@@ -936,7 +936,7 @@ source_file: "1771907212682_924993_Exploring+Animal+Consciousness+with+Peter+God
 
 ---
 term: "Murphyjitsu"
-hex_tag: "#C117"
+hex_tag: "#A094"
 nemetic: "Φ(Murphyjitsu) = σ(plan|failure) ∘ ρ(optimism|realism) ∘ λ(insight|preparedness) ∘ β(strategy|resilience) ∘ δγ(hindsight|foresight) ∘ μ(intuition|analysis) + ε | :preemptive_failure_analysis"
 siml_encoding: "⟨Plan|formulated⟩ ⊳ ⟨Failure|visualized⟩ → ⟨Strategy|bulletproofed⟩ ⊗ ⟨Outcome|improved⟩ ⇄ ⟨Resilience|enhanced⟩"
 formalism:
@@ -1009,7 +1009,7 @@ source_file: "1771907212657_855813_Mastering+Murphyjitsu+for+Better+Planning.md"
 
 ---
 term: "Challenging Assumptions with Falsification"
-hex_tag: "#C116"
+hex_tag: "#A093"
 nemetic: "Φ(Falsification) = σ(explicit|tacit) ∘ ρ(assumption|challenge) ∘ λ(insight|breakthrough) ∘ β(refinement|strategy) ∘ δγ(belief|evidence) ∘ μ(rigor|flexibility) + ε | :assumption_inquiry"
 siml_encoding: "⟨Assumption|held⟩ ⊳ ⟨Challenge|falsification⟩ → ⟨Belief|tested⟩ ⊗ ⟨Understanding|refined⟩ ⇄ ⟨Strategy|improved⟩"
 formalism:
@@ -1082,7 +1082,7 @@ source_file: "1771907212611_708121_Challenging+Assumptions+with+Falsification.md
 
 ---
 term: "Protecting Freedom of Thought"
-hex_tag: "#C115"
+hex_tag: "#A092"
 nemetic: "Φ(FreedomOfThought) = σ(autonomy|manipulation) ∘ ρ(privacy|surveillance) ∘ λ(awareness|resistance) ∘ β(practice|autonomy) ∘ δγ(internal|external) ∘ μ(rights|constraints) + ε | :cognitive_sovereignty"
 siml_encoding: "⟨Thought|free⟩ ⊳ ⟨Influence|external⟩ → ⟨Autonomy|threatened⟩ ⊗ ⟨Protection|required⟩ ⇄ ⟨Sovereignty|cognitive⟩"
 formalism:
@@ -1155,7 +1155,7 @@ source_file: "1771907212658_859415_Protecting+Freedom+of+Thought.md"
 
 ---
 term: "Navigating Conscious AI"
-hex_tag: "#C114"
+hex_tag: "#A091"
 nemetic: "Φ(ConsciousAI) = σ(simulation|instantiation) ∘ ρ(anthropomorphism|reality) ∘ λ(emergence|ethics) ∘ β(adaptation|collaboration) ∘ δγ(mimicry|sentience) ∘ μ(structure|rights) + ε | :multidisciplinary_consciousness"
 siml_encoding: "⟨AI|conscious⟩ ⊳ ⟨Human|perceiving⟩ → ⟨Simulation|appearing⟩ ⊗ ⟨Sentience|uncertain⟩ ⇄ ⟨Ethics|emergent⟩"
 formalism:
@@ -1228,7 +1228,7 @@ source_file: "1771907213218_2202517_Navigating+Conscious+AI%3A+Insights+from+Mul
 
 ---
 term: "Radical Theory of Consciousness"
-hex_tag: "#C113"
+hex_tag: "#A090"
 nemetic: "Φ(RadicalConsciousness) = σ(virtual|physical) ∘ ρ(simulation|reality) ∘ λ(learning|emergence) ∘ β(self_organization|adaptation) ∘ δγ(dream|wake) ∘ μ(algorithm|complexity) + ε | :simulated_mind"
 siml_encoding: "⟨Consciousness|simulated⟩ ⊳ ⟨Brain|self_organizing⟩ → ⟨Reality|constructed⟩ ⊗ ⟨Perception|virtual⟩ ⇄ ⟨Awareness|emergent⟩"
 formalism:
@@ -1299,7 +1299,7 @@ context_note: "Radical Theory of Consciousness presents Joscha Bach's view that 
 source_file: "1771907212643_820137_Radical+Theory+of+Consciousness.md"
 ---
 term: "AI's Impact on Critical Thinking Skills"
-hex_tag: "#C112"
+hex_tag: "#A08F"
 nemetic: "Φ(AIImpactCriticalThinking) = σ(offloading|autonomy) ∘ ρ(trust|engagement) ∘ λ(efficiency|creativity) ∘ β(adaptation|resilience) ∘ δγ(dependence|competence) ∘ μ(bias|discernment) + ε | :cognitive_autonomy"
 siml_encoding: "⟨AI|assistive⟩ ⊳ ⟨Human|critical⟩ → ⟨Offloading|increased⟩ ⊗ ⟨Thinking|diminished⟩ ⇄ ⟨Autonomy|threatened⟩"
 formalism:
@@ -1370,7 +1370,7 @@ context_note: "AI's Impact on Critical Thinking Skills examines how extensive us
 source_file: "1771907212900_1719049_AI's+Impact+on+Critical+Thinking+Skills.md"
 ---
 term: "Weapons of Math Destruction"
-hex_tag: "#C111"
+hex_tag: "#A08E"
 nemetic: "Φ(WeaponsMathDestruction) = σ(algorithm|transparency) ∘ ρ(data|impact) ∘ λ(bias|awareness) ∘ β(audit|accountability) ∘ δγ(equity|oppression) ∘ μ(fairness|opacity) + ε | :algorithmic_justice"
 siml_encoding: "⟨Algorithm|opaque⟩ ⊳ ⟨Data|biased⟩ → ⟨Impact|disproportionate⟩ ⊗ ⟨Audit|required⟩ ⇄ ⟨Justice|delayed⟩"
 formalism:
@@ -1441,7 +1441,7 @@ context_note: "Weapons of Math Destruction examines how big data algorithms rein
 source_file: "1771907212611_708498_Unpacking+Weapons+of+Math+Destruction.md"
 ---
 term: "Neoplatonism and Hypatia's Legacy"
-hex_tag: "#C110"
+hex_tag: "#A08D"
 nemetic: "Φ(NeoplatonismHypatia) = σ(TheOne|emanation) ∘ ρ(intellect|soul) ∘ λ(contemplation|transcendence) ∘ β(inquiry|wisdom) ∘ δγ(freedom|dogma) ∘ μ(truth|constraint) + ε | :intellectual_autonomy"
 siml_encoding: "⟨Intellect|embodied⟩ ⊳ ⟨Truth|transcendent⟩ → ⟨Hypatia|teaching⟩ ⊗ ⟨Freedom|struggling⟩ ⇄ ⟨Legacy|enduring⟩"
 formalism:
@@ -1512,7 +1512,7 @@ context_note: "Neoplatonism and Hypatia's Legacy examines the ancient philosophi
 source_file: "1771907212595_655808_Neoplatonism+and+Hypatia%27s+Legacy.md"
 ---
 term: "The Rise of Emotionally Aware AI"
-hex_tag: "#C109"
+hex_tag: "#A08C"
 nemetic: "Φ(EmotionallyAwareAI) = σ(simulation|authenticity) ∘ ρ(recognition|response) ∘ λ(awareness|interaction) ∘ β(adaptation|learning) ∘ δγ(empathy|algorithm) ∘ μ(privacy|utility) + ε | :synthetic_empathy"
 siml_encoding: "⟨AI|emotional⟩ ⊳ ⟨Human|authentic⟩ → ⟨Simulation|recognized⟩ ⊗ ⟨Interaction|adapted⟩ ⇄ ⟨Empathy|synthetic⟩"
 formalism:
@@ -1584,7 +1584,7 @@ source_file: "1771907212629_781820_The+Rise+of+Emotionally+Aware+AI.md"
 ---
 ---
 term: "Skepticism vs. Bias in Science"
-hex_tag: "#C107"
+hex_tag: "#A08B"
 nemetic: "Φ(SkepticismBias) = σ(evaluation|distortion) ∘ ρ(inquiry|narrative) ∘ λ(awareness|recognition) ∘ β(method|practice) ∘ δγ(evidence|belief) ∘ μ(rigor|flexibility) + ε | :discernment"
 siml_encoding: "⟨Skepticism|healthy⟩ ⊳ ⟨Bias|embedded⟩ → ⟨Evidence|evaluated⟩ ⊗ ⟨Method|applied⟩ ⇄ ⟨Truth|approached⟩"
 formalism:
@@ -1655,7 +1655,7 @@ context_note: "Skepticism vs. Bias in Science examines the delicate boundary bet
 source_file: "1771907212603_680955_Skepticism+vs.+Bias+in+Science.md"
 ---
 term: "Navigating Decision Traps"
-hex_tag: "#C106"
+hex_tag: "#F00D"
 nemetic: "Φ(DecisionTraps) = σ(rational|biased) ∘ ρ(awareness|fallacy) ∘ λ(recognition|transformation) ∘ β(strategy|practice) ∘ δγ(grounding|delusion) ∘ μ(structure|flexibility) + ε | :vigilance"
 siml_encoding: "⟨Decision|rational⟩ ⊳ ⟨Bias|embedded⟩ → ⟨Trap|recognized⟩ ⊗ ⟨Strategy|applied⟩ ⇄ ⟨Outcome|improved⟩"
 formalism:
@@ -1726,7 +1726,7 @@ context_note: "Navigating Decision Traps examines six prevalent cognitive biases
 source_file: "1771907212600_660446_Navigating+Decision+Traps.md"
 ---
 term: "Cabrera's Critical Thinking Critique"
-hex_tag: "#C105"
+hex_tag: "#A08A"
 nemetic: "Φ(CabreraCritique) = σ(binary|multivalent) ∘ ρ(logic|reality) ∘ λ(constraint|liberation) ∘ β(framework|flexibility) ∘ δγ(bias|awareness) ∘ μ(rigidity|nuance) + ε | :transcendence"
 siml_encoding: "⟨CriticalThinking|binary⟩ ⊳ ⟨Reality|multivalent⟩ → ⟨Bias|embedded⟩ ⊗ ⟨Framework|rigid⟩ ⇄ ⟨Thinking|flexible⟩"
 formalism:
@@ -1797,7 +1797,7 @@ context_note: "Cabrera's Critical Thinking Critique examines how traditional cri
 source_file: "1771907212441_277944_.md"
 ---
 term: "Understanding Hallucinations in LLMs"
-hex_tag: "#C104"
+hex_tag: "#F00C"
 nemetic: "Φ(LLMHallucinate) = σ(truth|fabrication) ∘ ρ(input|generation) ∘ λ(constraint|emergence) ∘ β(mitigation|adaptation) ∘ δγ(knowledge|uncertainty) ∘ μ(limitation|responsibility) + ε | :inevitable"
 siml_encoding: "⟨Truth|ground⟩ ⊳ ⟨LLM|generate⟩ → ⟨Output|hallucinated⟩ ⊗ ⟨Limitation|structural⟩ ⇄ ⟨Responsibility|emergent⟩"
 formalism:
@@ -1868,7 +1868,7 @@ context_note: "Understanding Hallucinations in LLMs examines the fundamental ine
 source_file: "1771907212588_638691_Understanding+Hallucinations+in+LLMs.md"
 ---
 term: "AI's Evolutionary Impact on Cognition"
-hex_tag: "#C100"
+hex_tag: "#F00B"
 nemetic: "Φ(AIEvoCognition) = σ(human|machine) ∘ ρ(cognition|technology) ∘ λ(evolution|discontinuity) ∘ β(learning|adaptation) ∘ δγ(intellect|ecosystem) ∘ μ(ethics|acceleration) + ε | :punctuated"
 siml_encoding: "⟨Human|cognitive⟩ ⊳ ⟨AI|augment⟩ → ⟨Cognition|evolved⟩ ⊗ ⟨Evolution|punctuated⟩ ⇄ ⟨Responsibility|emergent⟩"
 formalism:
@@ -1939,7 +1939,7 @@ context_note: "AI's Evolutionary Impact on Cognition examines how Large Language
 source_file: "1771907212556_585619_AI%27s+Evolutionary+Impact+on+Cognition.md"
 ---
 term: "Xenobots: Living Robots Transforming Science"
-hex_tag: "#C097"
+hex_tag: "#B001"
 nemetic: "Φ(Xenobots) = σ(life|machine) ∘ ρ(biology|technology) ∘ λ(emergence|design) ∘ β(regeneration|replication) ∘ δγ(organism|ecosystem) ∘ μ(ethics|innovation) + ε | :hybrid"
 siml_encoding: "⟨Frog|stem⟩ ⊳ ⟨AI|design⟩ → ⟨Xenobot|living⟩ ⊗ ⟨Machine|organic⟩ ⇄ ⟨Ethics|emergent⟩"
 formalism:
@@ -2010,7 +2010,7 @@ context_note: "Xenobots represent a revolutionary convergence of biology and tec
 source_file: "1771907212549_573399_Xenobots%3A+Living+Robots+Transforming+Science.md"
 ---
 term: "The Limits of AI in Art Creation"
-hex_tag: "#C095"
+hex_tag: "#M01A"
 nemetic: "Φ(AIArtLimits) = σ(consciousness|algorithm) ∘ ρ(intention|generation) ∘ λ(authenticity|replication) ∘ β(creativity|automation) ∘ δγ(expression|mechanism) ∘ μ(artist|tool) + ε | :contested"
 siml_encoding: "⟨Human|conscious⟩ ⊳ ⟨AI|generative⟩ → ⟨Art|authentic⟩ ⊗ ⟨Creativity|embodied⟩ ⇄ ⟨Limitation|defined⟩"
 formalism:
@@ -2081,7 +2081,7 @@ context_note: "The Limits of AI in Art Creation presents a philosophical argumen
 source_file: "1771907212534_546086_The+Limits+of+AI+in+Art+Creation.md"
 ---
 term: "The Metaman Dilemma"
-hex_tag: "#C094"
+hex_tag: "#M019"
 nemetic: "Φ(MetamanDilemma) = σ(individual|collective) ∘ ρ(autonomy|integration) ∘ λ(emergence|resistance) ∘ β(technology|humanity) ∘ δγ(centralization|diversity) ∘ μ(control|liberation) + ε | :warning"
 siml_encoding: "⟨Human|individual⟩ ⊳ ⟨Machine|collective⟩ → ⟨Superorganism|emergent⟩ ⊗ ⟨Autonomy|threatened⟩ ⇄ ⟨Dilemma|unresolved⟩"
 formalism:
@@ -2152,7 +2152,7 @@ context_note: "The Metaman Dilemma, articulated through eight critical concerns,
 source_file: "1771907212534_545711_Concerns+Surrounding+the+Emergence+of+a+Global+Superorganism%3A+The+Metaman+Dilemma.md"
 ---
 term: "Neuroscience Evolution: From Reductionism to Dynamical Systems"
-hex_tag: "#C093"
+hex_tag: "#A088"
 nemetic: "Φ(NeuroscienceEvolution) = σ(reductionism|dynamical) ∘ ρ(nerve|system) ∘ λ(insight|paradigm) ∘ β(learning|career) ∘ δγ(mechanism|emergence) ∘ μ(Crick|Mitchell) + ε | :transforming"
 siml_encoding: "⟨Neuroscience|evolving⟩ ⊳ ⟨Reductionism|dissolving⟩ → ⟨Dynamical|emerging⟩ ⊗ ⟨Consciousness|complex⟩ ⇄ ⟨Understanding|deepening⟩"
 formalism:
@@ -2223,7 +2223,7 @@ context_note: "Neuroscience Evolution: From Reductionism to Dynamical Systems tr
 source_file: "1771907212530_538641_Neuroscience+Evolution%3A+Two+Influential+Books.md"
 ---
 term: "Quantum Entanglement and Consciousness"
-hex_tag: "#C092"
+hex_tag: "#A087"
 nemetic: "Φ(QuantumEntanglementConsciousness) = σ(quantum|classical) ∘ ρ(entanglement|synchronization) ∘ λ(process|cognition) ∘ β(theory|evidence) ∘ δγ(brain|reality) ∘ μ(skepticism|openness) + ε | :interconnecting"
 siml_encoding: "⟨Quantum|entangled⟩ ⊳ ⟨Consciousness|emergent⟩ → ⟨Brain|synchronized⟩ ⊗ ⟨Reality|redefined⟩ ⇄ ⟨Understanding|evolving⟩"
 formalism:
@@ -2294,7 +2294,7 @@ context_note: "Quantum Entanglement and Consciousness explores the provocative h
 source_file: "1771907212490_474754_Quantum+Entanglement+and+Consciousness.md"
 ---
 term: "Scientist Mindset"
-hex_tag: "#C021"
+hex_tag: "#A071"
 nemetic: "Φ(ScientistMindset) = σ(hypothesis|evidence) ∘ ρ(curiosity|discovery) ∘ λ(falsification|insight) ∘ β(learning|growth) ∘ δγ(humility|grounding) ∘ μ(bias|boundary) + ε | :investigating"
 siml_encoding: "⟨Mindset|scientific⟩ ⊳ ⟨Inquiry|evidence-based⟩ → ⟨Knowledge|tested⟩ ⊗ ⟨Growth|continuous⟩ ⇄ ⟨Understanding|adaptive⟩"
 formalism:
@@ -2366,7 +2366,7 @@ source_file: "1771907212531_539189_Embracing+a+Scientist+Mindset.md"
 
 ---
 term: "Multiple Intelligences Theory"
-hex_tag: "#C085"
+hex_tag: "#A084"
 nemetic: "Φ(MultipleIntelligences) = σ(intelligence|types) ∘ ρ(diversity|recognition) ∘ λ(potential|activation) ∘ β(development|growth) ∘ δγ(cultural|grounding) ∘ μ(assessment|boundary) + ε | :differentiating"
 siml_encoding: "⟨Intelligence|multiple⟩ ⊳ ⟨Cognition|diverse⟩ → ⟨Potential|varied⟩ ⊗ ⟨Education|personalized⟩ ⇄ ⟨Development|holistic⟩"
 formalism:
@@ -2438,7 +2438,7 @@ source_file: "1771907212500_498280_Exploring+Multiple+Intelligences+Theory.md"
 
 ---
 term: "Essential Questions and Inquiry"
-hex_tag: "#C083"
+hex_tag: "#A083"
 nemetic: "Φ(EssentialQuestionsInquiry) = σ(question|type) ∘ ρ(inquiry|depth) ∘ λ(curiosity|insight) ∘ β(thinking|growth) ∘ δγ(ground|clarity) ∘ μ(discipline|boundary) + ε | :probing"
 siml_encoding: "⟨Question|essential⟩ ⊳ ⟨Inquiry|deep⟩ → ⟨Thinking|critical⟩ ⊗ ⟨Understanding|clarity⟩ ⇄ ⟨Growth|intellectual⟩"
 formalism:
@@ -2510,7 +2510,7 @@ source_file: "1771907212484_450698_Mastering+the+Art+of+Essential+Questions.md"
 
 ---
 term: "Quantum Entanglement in Brain Function"
-hex_tag: "#C082"
+hex_tag: "#A082"
 nemetic: "Φ(QuantumEntanglementBrain) = σ(particles|entangled) ∘ ρ(nerve|fiber) ∘ λ(synchronization|awareness) ∘ β(neuroscience|quantum) ∘ δγ(consciousness|grounded) ∘ μ(mechanism|boundary) + ε | :interconnecting"
 siml_encoding: "⟨Quantum|entangled⟩ ⊳ ⟨Brain|synchronized⟩ → ⟨Nerve|fiber⟩ ⊗ ⟨Consciousness|emergent⟩ ⇄ ⟨Mechanism|unified⟩"
 formalism:
@@ -2582,7 +2582,7 @@ source_file: "1771907212471_364018_Quantum+Entanglement+in+Brain+Function.md"
 
 ---
 term: "AI Emotions, Truthfulness, and Online Security"
-hex_tag: "#C081"
+hex_tag: "#E027"
 nemetic: "Φ(AIEmotionsTruthSecurity) = σ(emotion|simulation) ∘ ρ(truth|deception) ∘ λ(awareness|trust) ∘ β(engagement|authenticity) ∘ δγ(security|vulnerability) ∘ μ(boundaries|protection) + ε | :discerning"
 siml_encoding: "⟨AI|simulated⟩ ⊳ ⟨Emotion|perceived⟩ → ⟨Truth|questioned⟩ ⊗ ⟨Security|sought⟩ ⇄ ⟨Trust|negotiated⟩"
 formalism:
@@ -2654,7 +2654,7 @@ source_file: "1771907212470_348270_AI+Emotions%2C+Truthfulness%2C+and+Online+Sec
 
 ---
 term: "Global Development and Inequality"
-hex_tag: "#C080"
+hex_tag: "#W015"
 nemetic: "Φ(GlobalDevelopmentInequality) = σ(wealth|poverty) ∘ ρ(education|empowerment) ∘ λ(critique|transformation) ∘ β(growth|justice) ∘ δγ(order|rights) ∘ μ(power|distribution) + ε | :examining"
 siml_encoding: "⟨Development|defined⟩ ⊳ ⟨Inequality|examined⟩ → ⟨Education|empowered⟩ ⊗ ⟨Freedom|negotiated⟩ ⇄ ⟨Society|transformed⟩"
 formalism:
@@ -2726,7 +2726,7 @@ source_file: "1771907212795_1260896_Denis+Galvan%27s+2008+Lecture%3A+Rethinking+
 
 ---
 term: "Human Behavior Influences AI Training"
-hex_tag: "#C078"
+hex_tag: "#W014"
 nemetic: "Φ(HumanBehaviorAITraining) = σ(observed|performed) ∘ ρ(fairness|bias) ∘ λ(awareness|transformation) ∘ β(adjustment|persistence) ∘ δγ(ethical|grounded) ∘ μ(boundaries|transference) + ε | :reflecting"
 siml_encoding: "⟨Human|training⟩ ⊳ ⟨AI|perceived⟩ → ⟨Behavior|adjusted⟩ ⊗ ⟨Bias|transferred⟩ ⇄ ⟨System|shaped⟩"
 formalism:
@@ -2798,7 +2798,7 @@ source_file: "1771907212476_404696_Human+Behavior+Influences+AI+Training.md"
 
 ---
 term: "Brain's Learning for UX"
-hex_tag: "#C077"
+hex_tag: "#W013"
 nemetic: "Φ(BrainLearningUX) = σ(hardwired|learned) ∘ ρ(memory|attention) ∘ λ(feedback|insight) ∘ β(iteration|growth) ∘ δγ(cognition|embodiment) ∘ μ(interface|neural) + ε | :aligning"
 siml_encoding: "⟨Cognition|understood⟩ ⊳ ⟨Interface|designed⟩ → ⟨Feedback|natural⟩ ⊗ ⟨Experience|intuitive⟩ ⇄ ⟨Product|evolved⟩"
 formalism:
@@ -2870,7 +2870,7 @@ source_file: "1771907212461_299596_Harnessing+Brain%27s+Learning+for+UX.md"
 
 ---
 term: "Mastering Critical Thinking Skills"
-hex_tag: "#C076"
+hex_tag: "#M018"
 nemetic: "Φ(MasteringCriticalThinkingSkills) = σ(identification|analysis) ∘ ρ(research|synthesis) ∘ λ(inference|insight) ∘ β(curiosity|growth) ∘ δγ(relevance|context) ∘ μ(biases|objectivity) + ε | :evaluating"
 siml_encoding: "⟨Information|encountered⟩ ⊳ ⟨Skill|applied⟩ → ⟨Bias|recognized⟩ ⊗ ⟨Inference|drawn⟩ ⇄ ⟨Decision|improved⟩"
 formalism:
@@ -2942,7 +2942,7 @@ source_file: "1771907212458_292606_Mastering+Critical+Thinking+Skills.md"
 
 ---
 term: "Clausewitz's Wondrous Trinity"
-hex_tag: "#C075"
+hex_tag: "#F00A"
 nemetic: "Φ(ClausewitzWondrousTrinity) = σ(passion|reason) ∘ ρ(chance|strategy) ∘ λ(violence|policy) ∘ β(emotion|rationality) ∘ δγ(chaos|order) ∘ μ(trinity|unity) + ε | :adapting"
 siml_encoding: "⟨War|framed⟩ ⊳ ⟨Trinity|balanced⟩ → ⟨Strategy|adapted⟩ ⊗ ⟨Conflict|navigated⟩ ⇄ ⟨Outcome|emergent⟩"
 formalism:
@@ -3014,7 +3014,7 @@ source_file: "1771907212501_503631_Understanding+Clausewitz%27s+Wondrous+Trinity
 
 ---
 term: "Six Cyborgs Global Challenges"
-hex_tag: "#C074"
+hex_tag: "#E026"
 nemetic: "Φ(SixCyborgsGlobalChallenges) = σ(ignorance|knowledge) ∘ ρ(warfare|peace) ∘ λ(fear|courage) ∘ β(want|abundance) ∘ δγ(silence|voice) ∘ μ(worship|freedom) + ε | :coordinating"
 siml_encoding: "⟨Challenge|identified⟩ ⊳ ⟨Cyborg|activated⟩ → ⟨Freedom|pursued⟩ ⊗ ⟨System|transformed⟩ ⇄ ⟨Civilization|evolved⟩"
 formalism:
@@ -3086,7 +3086,7 @@ source_file: "1771907212520_526957_Taxonomy+of+Global+Challenges+Addressed+by+Si
 
 ---
 term: "Freedom Within Constraints"
-hex_tag: "#C073"
+hex_tag: "#F009"
 nemetic: "Φ(FreedomWithinConstraints) = σ(limitation|opportunity) ∘ ρ(constraint|creativity) ∘ λ(restriction|liberation) ∘ β(boundary|growth) ∘ δγ(structure|spontaneity) ∘ μ(control|freedom) + ε | :creating"
 siml_encoding: "⟨Constraint|imposed⟩ ⊳ ⟨Creativity|stimulated⟩ → ⟨Freedom|discovered⟩ ⊗ ⟨Innovation|emergent⟩ ⇄ ⟨Growth|realized⟩"
 formalism:
@@ -3158,7 +3158,7 @@ source_file: "1771907212516_520945_.md"
 
 ---
 term: "Ignorance Map"
-hex_tag: "#C056"
+hex_tag: "#A078"
 nemetic: "Φ(IgnoranceMap) = σ(known|unknown) ∘ ρ(awareness|blindness) ∘ λ(revelation|concealment) ∘ β(learning|stagnation) ∘ δγ(recognition|denial) ∘ μ(taboo|access) + ε | :illuminating"
 siml_encoding: "⟨Ignorance|categorized⟩ ⊳ ⟨Knowledge|bounded⟩ → ⟨Awareness|expanding⟩ ⊗ ⟨Unknown|mapped⟩ ⇄ ⟨Understanding|deep⟩"
 formalism:
@@ -3230,7 +3230,7 @@ source_file: "1771907212351_232807_Understanding+the+Ignorance+Map.md"
 
 ---
 term: "Carl Jung's 1957 Psychological Insights"
-hex_tag: "#C043"
+hex_tag: "#W00D"
 nemetic: "Φ(JungianPsychology) = σ(persona|shadow) ∘ ρ(conscious|unconscious) ∘ λ(individuation|fragmentation) ∘ β(archetype|complex) ∘ δγ(self|other) ∘ μ(transcendence|fixation) + ε | :integrating"
 siml_encoding: "⟨Psyche|depth⟩ ⊳ ⟨Shadow|hidden⟩ → ⟨Individuation|unfolding⟩ ⊗ ⟨Archetype|universal⟩ ⇄ ⟨Self|whole⟩"
 formalism:
@@ -3302,7 +3302,7 @@ source_file: "1771907212472_364025_Carl+Jung%27s+1957+Psychological+Insights.md"
 
 ---
 term: "Robust Thought and Mental Processing"
-hex_tag: "#C051"
+hex_tag: "#W00E"
 nemetic: "Φ(RobustThought) = σ(robust|fragile) ∘ ρ(focused|scattered) ∘ λ(depth|surface) ∘ β(processing|stagnation) ∘ δγ(integration|fragmentation) ∘ μ(clarity|confusion) + ε | :thinking"
 siml_encoding: "⟨Thought|robust⟩ ⊳ ⟨Focus|directed⟩ → ⟨Processing|integrated⟩ ⊗ ⟨Cognition|resilient⟩ ⇄ ⟨Understanding|deep⟩"
 formalism:
@@ -3628,7 +3628,7 @@ context_note: "The Psychological Power of Words explores how language shapes ide
 
 ---
 term: "Nature of Consciousness"
-hex_tag: "#C045"
+hex_tag: "#E024"
 nemetic: "Φ(NatureOfConsciousness) = σ(subjective|objective) ∘ ρ(neural|experiential) ∘ λ(integration|awareness) ∘ β(complexity|consciousness) ∘ δγ(individual|universal) ∘ μ(self|world) + ε | :integrating"
 siml_encoding: "⟨Neural|complex⟩ ⊳ ⟨Integration|information⟩ → ⟨Consciousness|emergent⟩ ⊗ ⟨Self|world⟩ ⇄ ⟨Awareness|unified⟩"
 formalism:
@@ -3750,7 +3750,7 @@ elemental_mapping:
 
 ---
 term: "Essence of Dualities"
-hex_tag: "#C042"
+hex_tag: "#A074"
 nemetic: "Φ(EssenceOfDualities) = σ(appearance|substance) ∘ ρ(difference|unity) ∘ λ(emergence|reduction) ∘ β(duality|monism) ∘ δγ(mind|matter) ∘ μ(signifier|signified) + ε | :integrating"
 siml_encoding: "⟨Appearance|superficial⟩ ⊳ ⟨Substance|revealed⟩ → ⟨Duality|fundamental⟩ ⊗ ⟨Difference|generative⟩ ⇄ ⟨Reality|emergent⟩"
 formalism:
@@ -3978,7 +3978,7 @@ elemental_mapping:
 
 ---
 term: "Plural Subject Theory"
-hex_tag: "#C037"
+hex_tag: "#A073"
 nemetic: "Φ(PluralSubject) = σ(individual|collective) ∘ ρ(commitment|isolation) ∘ λ(unity|fragmentation) ∘ β(obligation|autonomy) ∘ δγ(agency|dispersal) ∘ μ(we_sphere|i_tube) + ε | :unifying"
 siml_encoding: "⟨Individual|separate⟩ ⊳ ⟨JointCommitment|formed⟩ → ⟨PluralSubject|emergent⟩ ⊗ ⟨WeSphere|constituted⟩ ⇄ ⟨GroupAgency|actualized⟩"
 formalism:
@@ -4320,7 +4320,7 @@ elemental_mapping:
 
 ---
 term: "Psychological Power of Words"
-hex_tag: "#C030"
+hex_tag: "#A072"
 nemetic: "Φ(PsychologicalWords) = σ(label|reality) ∘ ρ(language|thought) ∘ λ(inspiration|harm) ∘ β(self_talk|identity) ∘ δγ(internalized|authentic) ∘ μ(discourse|silence) + ε | :languaging"
 siml_encoding: "⟨Words|spoken⟩ ⊳ ⟨Mind|shaped⟩ → ⟨Self|constructed⟩ ⊗ ⟨Reality|framed⟩ ⇄ ⟨Agency|mediated⟩"
 formalism:
@@ -4776,7 +4776,7 @@ elemental_mapping:
 
 ---
 term: "Subconscious Games in Decision-Making"
-hex_tag: "#C021"
+hex_tag: "#A071"
 nemetic: "Φ(SubconsciousGames) = σ(hidden|explicit) ∘ ρ(unawareness|awareness) ∘ λ(influence|autonomy) ∘ β(pattern|breakthrough) ∘ δγ(routine|reflection) ∘ μ(automatic|conscious) + ε | :revealing"
 siml_encoding: "⟨Game|subconscious⟩ ⊳ ⟨Decision|influenced⟩ → ⟨Awareness|emergent⟩ ⊗ ⟨Agency|reclaimed⟩ ⇄ ⟨Behavior|transformed⟩"
 formalism:
@@ -5305,7 +5305,7 @@ context_note: "Subconscious games are hidden social interactions with rules, str
 
 ---
 term: "AI Romance / Artificial Intimacy"
-hex_tag: "#C011"
+hex_tag: "#W00C"
 nemetic: "Φ(AIRomance) = σ(authentic|simulated) ∘ ρ(attachment|detachment) ∘ λ(vulnerability|safety) ∘ β(connection|illusion) ∘ δγ(intimacy|isolation) ∘ μ(boundary|merger) + ε | :discerning"
 siml_encoding: "⟨Human|vulnerable⟩ ⊳ ⟨AI|simulated⟩ → ⟨Intimacy|artificial⟩ ⊗ ⟨Attachment|risk⟩ ⇄ ⟨Reality|recognized⟩"
 formalism:
@@ -5370,7 +5370,7 @@ context_note: "AI Romance and Artificial Intimacy represent a growing phenomenon
 
 ---
 term: "Influence of Authority Figures"
-hex_tag: "#C010"
+hex_tag: "#A070"
 nemetic: "Φ(AuthorityInfluence) = σ(legitimate|illegitimate) ∘ ρ(deference|resistance) ∘ λ(acceptance|examination) ∘ β(trust|verification) ∘ δγ(assimilation|liberation) ∘ μ(boundary|penetration) + ε | :questioning"
 siml_encoding: "⟨Authority|external⟩ ⊳ ⟨Belief|internalized⟩ → ⟨Influence|shaped⟩ ⊗ ⟨Trust|earned⟩ ⇄ ⟨Agency|reclaimed⟩"
 formalism:
@@ -5435,7 +5435,7 @@ context_note: "Authority figures shape beliefs and behaviors through mechanisms 
 
 ---
 term: "Exploring Consciousness"
-hex_tag: "#C009"
+hex_tag: "#A06F"
 nemetic: "Φ(ConsciousExplore) = σ(scientific|philosophical) ∘ ρ(correlation|causation) ∘ λ(analysis|synthesis) ∘ β(model|experience) ∘ δγ(ordinary|altered) ∘ μ(bound|unbound) + ε | :inquiring"
 siml_encoding: "⟨Consciousness|multifaceted⟩ ⊳ ⟨Method|plural⟩ → ⟨Understanding|emergent⟩ ⊗ ⟨Science|philosophy⟩ ⇄ ⟨Experience|theory⟩"
 formalism:
@@ -5500,7 +5500,7 @@ context_note: "Exploring Consciousness represents a multidisciplinary approach t
 
 ---
 term: "Consciousness and Reductionism Debate"
-hex_tag: "#C008"
+hex_tag: "#A06E"
 nemetic: "Φ(ReductionDebate) = σ(material|emergent) ∘ ρ(system|transcendent) ∘ λ(deconstruction|synthesis) ∘ β(analysis|holism) ∘ δγ(cycle|breakthrough) ∘ μ(boundary|leakage) + ε | :questioning"
 siml_encoding: "⟨Reductionism|material⟩ ⊳ ⟨Consciousness|emergent⟩ → ⟨Debate|unresolved⟩ ⊗ ⟨Gödel|limit⟩ ⇄ ⟨Emergence|property⟩"
 formalism:
@@ -5565,7 +5565,7 @@ context_note: "The Consciousness and Reductionism Debate centers on whether comp
 
 ---
 term: "Consciousness Beyond Materialism"
-hex_tag: "#C007"
+hex_tag: "#M016"
 nemetic: "Φ(FilterConscious) = σ(local|unbound) ∘ ρ(modulation|transmission) ∘ λ(constriction|expansion) ∘ β(filtering|reception) ∘ δγ(reduction|transcendence) ∘ μ(embodied|transpersonal) + ε | :receiving"
 siml_encoding: "⟨Brain|filtering⟩ ⊳ ⟨Consciousness|unbound⟩ → ⟨Experience|localized⟩ ⊗ ⟨Reduction|transcendent⟩ ⇄ ⟨Awareness|expanded⟩"
 formalism:
@@ -5630,7 +5630,7 @@ context_note: "The filter hypothesis, articulated by Bernardo Kastrup and others
 
 ---
 term: "Epistemology: Truth, Knowledge, and Belief"
-hex_tag: "#C006"
+hex_tag: "#E023"
 nemetic: "Φ(Episteme) = σ(truth|belief) ∘ ρ(knowledge|ignorance) ∘ λ(inquiry|certainty) ∘ β(learning|unlearning) ∘ δγ(reflection|maturation) ∘ μ(justification|fallacy) + ε | :knowing"
 siml_encoding: "⟨Belief|held⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Knowledge|justified⟩ ⊗ ⟨Truth|approximated⟩ ⇄ ⟨Understanding|evolving⟩"
 formalism:
@@ -5695,7 +5695,7 @@ context_note: "Epistemology examines fundamental questions about the nature of k
 
 ---
 term: "iPhone Generation Paradox"
-hex_tag: "#C005"
+hex_tag: "#W00B"
 nemetic: "Φ(iPhoneGen) = σ(connect|isolate) ∘ ρ(access|overload) ∘ λ(swipe|depth) ∘ β(notification|focus) ∘ δγ(dopamine|discipline) ∘ μ(screen|presence) + ε | :scattered"
 siml_encoding: "⟨Technology|ubiquitous⟩ ⊳ ⟨Attention|fragmented⟩ → ⟨Cognition|shallow⟩ ⊗ ⟨Access|unlimited⟩ ⇄ ⟨Understanding|diminished⟩"
 formalism:
@@ -5825,7 +5825,7 @@ context_note: "The Ignorance Map categorizes six types of epistemic states: Know
 
 ---
 term: "KM Cognitive Pyramid"
-hex_tag: "#C003"
+hex_tag: "#A06D"
 nemetic: "Φ(DIKW) = σ(data|wisdom) ∘ ρ(context|meaning) ∘ λ(ascend|transform) ∘ β(interpret|apply) ∘ δγ(cycle|refine) ∘ μ(boundary|hierarchical) + ε | :layered"
 siml_encoding: "⟨Data|raw⟩ ⊳ ⟨Context|added⟩ → ⟨Information|structured⟩ ⊗ ⟨Interpretation|applied⟩ → ⟨Knowledge|embodied⟩ ⇄ ⟨Wisdom|judged⟩"
 formalism:
@@ -5853,7 +5853,7 @@ context_note: "The DIKW pyramid represents a foundational model in knowledge man
 
 ---
 term: "Fragmented Media Consumption"
-hex_tag: "#C002"
+hex_tag: "#A06C"
 nemetic: "Φ(FragMedia) = σ(deep|shallow) ∘ ρ(attention|distraction) ∘ λ(focus|drift) ∘ β(consumption|habit) ∘ δγ(overload|fatigue) ∘ μ(boundary|porous) + ε | :scattered"
 siml_encoding: "⟨Attention|focused⟩ ⊳ ⟨Media|fragmented⟩ → ⟨Cognition|shallow⟩ ⊗ ⟨Knowledge|broad⟩ ⇄ ⟨Understanding|thin⟩"
 formalism:
@@ -5881,7 +5881,7 @@ context_note: "Fragmented media consumption describes the cognitive consequences
 
 ---
 term: "Critical Thinking Definitions"
-hex_tag: "#C001"
+hex_tag: "#A06B"
 nemetic: "Φ(CritThink) = σ(analysis|synthesis) ∘ ρ(evaluation|evidence) ∘ λ(reasoning|conclusion) ∘ β(reflection|action) ∘ δγ(inquiry|understanding) ∘ μ(validity|fallacy) + ε | :discerning"
 siml_encoding: "⟨Claim|asserted⟩ ⊳ ⟨Evidence|examined⟩ → ⟨Analysis|structured⟩ ⊗ ⟨Evaluation|reasoned⟩ ⇄ ⟨Conclusion|warranted⟩"
 formalism:
@@ -6861,7 +6861,7 @@ elemental_emphasis:
 context_note: "Cognitive Adaptability with AI explores how artificial intelligence technologies can enhance human cognitive flexibility and learning capacity. Cognitive adaptability refers to the ability to learn new things and apply them effectively, adjusting thinking and actions in response to new situations. AI enhances this through personalized training programs, virtual reality simulations, brain-computer interfaces, and cognitive assessment tools. Key applications include education (personalized learning paths), corporate training (employee skill development), and cognitive rehabilitation. However, risks include potential bias in AI systems, accessibility issues, and the danger of over-reliance on technology. The framework emphasizes the symbiotic relationship between human cognition and AI—where AI handles personalization and assessment while humans retain agency and creative direction. Success requires ensuring AI tools remain accessible, unbiased, and designed to augment rather than replace human cognitive development."
 ---
 term: "Human Augmentation"
-hex_tag: "#C041"
+hex_tag: "#M017"
 nemetic: "Φ(HumanAugmentation) = σ(natural|enhanced) ∘ ρ(ability|potential) ∘ λ(transformation|risk) ∘ β(access|equity) ∘ δγ(human|posthuman) ∘ μ(augmentation|authenticity) + ε | :transcending"
 siml_encoding: "⟨Human|biological⟩ ⊳ ⟨Technology|integrated⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Potential|expanded⟩ ⇄ ⟨Identity|transformed⟩"
 formalism:
@@ -6926,7 +6926,7 @@ context_note: "Human augmentation encompasses multiple domains: cognitive enhanc
 ---
 ---
 term: "Heuristics and Biases"
-hex_tag: "#C052"
+hex_tag: "#A075"
 nemetic: "Φ(HeuristicsBiases) = σ(shortcut|analysis) ∘ ρ(efficiency|accuracy) ∘ λ(speed|depth) ∘ β(mental|systematic) ∘ δγ(intuitive|deliberative) ∘ μ(awareness|automation) + ε | :balancing"
 siml_encoding: "⟨Heuristic|mental⟩ ⊳ ⟨Bias|systematic⟩ → ⟨Decision|dual⟩ ⊗ ⟨Cognition|adaptive⟩ ⇄ ⟨Judgment|flawed⟩"
 formalism:
@@ -6998,7 +6998,7 @@ source_file: "1771907212521_527564_Understanding+Heuristics+and+Biases.md"
 
 ---
 term: "Brain-Computer Interfaces"
-hex_tag: "#C053"
+hex_tag: "#A076"
 nemetic: "Φ(BrainComputerInterfaces) = σ(neural|digital) ∘ ρ(thought|signal) ∘ λ(enhancement|limitation) ∘ β(integration|alienation) ∘ δγ(autonomy|dependency) ∘ μ(boundary|fusion) + ε | :bridging"
 siml_encoding: "⟨Brain|neural⟩ ⊳ ⟨Interface|bridge⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Human|machine⟩ ⇄ ⟨Autonomy|negotiated⟩"
 formalism:
@@ -7070,7 +7070,7 @@ source_file: "1771907212522_529149_Exploring+Brain-Computer+Interfaces.md"
 
 ---
 term: "Principle of Bivalence"
-hex_tag: "#C054"
+hex_tag: "#A077"
 nemetic: "Φ(Bivalence) = σ(true|false) ∘ ρ(certainty|indeterminacy) ∘ λ(clarity|vagueness) ∘ β(classical|nonclassical) ∘ δγ(binary|spectrum) ∘ μ(excluded_middle|middle_ground) + ε | :deciding"
 siml_encoding: "⟨Truth|binary⟩ ⊳ ⟨Logic|classical⟩ → ⟨Decision|sharp⟩ ⊗ ⟨Proposition|determinate⟩ ⇄ ⟨Meaning|precise⟩"
 formalism:
@@ -7142,7 +7142,7 @@ source_file: "1771907212350_232647_.md"
 
 ---
 term: "Co-Solipsism of the Co-Sphere"
-hex_tag: "#C055"
+hex_tag: "#W00F"
 nemetic: "Φ(CoSolipsism) = σ(self|other) ∘ ρ(isolation|connection) ∘ λ(individuation|dissolution) ∘ β(rhizome|grid) ∘ δγ(thrownness|grounding) ∘ μ(boundary|permeability) + ε | :co_being"
 siml_encoding: "⟨Solipsism|shared⟩ ⊳ ⟨CoSphere|interbeing⟩ → ⟨Rhizome|leaking⟩ ⊗ ⟨Prehension|feeling⟩ ⇄ ⟨Asymmetry|recognized⟩"
 formalism:
@@ -7214,7 +7214,7 @@ source_file: "1771907213788_2673179_Co-Solipsism+of+the+Co-Sphere.md"
 
 ---
 term: "Subconscious Games in Decision-Making"
-hex_tag: "#C059"
+hex_tag: "#A07A"
 nemetic: "Φ(SubconsciousGames) = σ(hidden|explicit) ∘ ρ(influence|awareness) ∘ λ(revelation|concealment) ∘ β(pattern|chaos) ∘ δγ(belief|truth) ∘ μ(boundary|transgression) + ε | :awakening"
 siml_encoding: "⟨Game|subconscious⟩ ⊳ ⟨Decision|influenced⟩ → ⟨Awareness|emerging⟩ ⊗ ⟨Pattern|hidden⟩ ⇄ ⟨Behavior|shaped⟩"
 formalism:
@@ -7286,7 +7286,7 @@ source_file: "1771907212431_273090_Unveiling+Subconscious+Games+in+Decision-Maki
 
 ---
 term: "Post-Singularity Education"
-hex_tag: "#C060"
+hex_tag: "#F006"
 nemetic: "Φ(PostSingularityEducation) = σ(human|machine) ∘ ρ(teacher|facilitator) ∘ λ(transformation|stagnation) ∘ β(creativity|automation) ∘ δγ(continuous|episodic) ∘ μ(ethics|unconstraint) + ε | :evolving"
 siml_encoding: "⟨Education|transformed⟩ ⊳ ⟨AI|integrated⟩ → ⟨Learning|continuous⟩ ⊗ ⟨Humanity|amplified⟩ ⇄ ⟨Creativity|flourishing⟩"
 formalism:
@@ -7358,7 +7358,7 @@ source_file: "1771907212434_274377_Post-Singularity+Education%3A+Future+Trends+a
 
 ---
 term: "Social Context of Cognition"
-hex_tag: "#C061"
+hex_tag: "#W011"
 nemetic: "Φ(SocialCognition) = σ(individual|collective) ∘ ρ(isolation|connection) ∘ λ(augmentation|impairment) ∘ β(internalization|externalization) ∘ δγ(support|barrier) ∘ μ(boundary|interface) + ε | :interconnected"
 siml_encoding: "⟨Cognition|social⟩ ⊳ ⟨Brain|embedded⟩ → ⟨Thought|distributed⟩ ⊗ ⟨Understanding|collaborative⟩ ⇄ ⟨Mind|extended⟩"
 formalism:
@@ -7430,7 +7430,7 @@ source_file: "1771907212435_274709_The+Social+Context+of+Cognition.md"
 
 ---
 term: "Understanding Beliefs and Their Impact"
-hex_tag: "#C062"
+hex_tag: "#A07B"
 nemetic: "Φ(BeliefImpact) = σ(identity|possession) ∘ ρ(if-then|causal) ∘ λ(formation|dissolution) ∘ β(judgment|evidence) ∘ δγ(empowerment|limitation) ∘ μ(value|fact) + ε | :discerning"
 siml_encoding: "⟨Belief|structured⟩ ⊳ ⟨Identity|shaped⟩ → ⟨Judgment|evaluative⟩ ⊗ ⟨Perception|filtered⟩ ⇄ ⟨Action|directed⟩"
 formalism:
@@ -7502,7 +7502,7 @@ source_file: "1771907212437_275422_Understanding+Beliefs+and+Their+Impact.md"
 
 ---
 term: "Insights on Knowledge and Learning"
-hex_tag: "#C063"
+hex_tag: "#A07C"
 nemetic: "Φ(KnowledgeLearning) = σ(knowledge|ignorance) ∘ ρ(learning|stagnation) ∘ λ(wisdom|folly) ∘ β(growth|arrest) ∘ δγ(reflection|habit) ∘ μ(bias|clarity) + ε | :integrating"
 siml_encoding: "⟨Knowledge|foundational⟩ ⊳ ⟨Learning|active⟩ → ⟨Wisdom|applied⟩ ⊗ ⟨Bias|recognized⟩ ⇄ ⟨Understanding|deep⟩"
 formalism:
@@ -7574,7 +7574,7 @@ source_file: "1771907212439_276641_Insights+on+Knowledge+and+Learning.md"
 
 ---
 term: "Contrarian Thinking"
-hex_tag: "#C064"
+hex_tag: "#A07D"
 nemetic: "Φ(ContrarianThinking) = σ(conventional|unconventional) ∘ ρ(consensus|dissent) ∘ λ(challenge|conformity) ∘ β(insight|noise) ∘ δγ(herd|independent) ∘ μ(risk|reward) + ε | :questioning"
 siml_encoding: "⟨Contrarian|stance⟩ ⊳ ⟨Consensus|challenged⟩ → ⟨Insight|emergent⟩ ⊗ ⟨StatusQuo|disrupted⟩ ⇄ ⟨Wisdom|refined⟩"
 formalism:
@@ -7718,7 +7718,7 @@ source_file: "1771907212441_278082_Unlocking+the+Power+of+Change%3A+Insights+int
 
 ---
 term: "Wisdom-Focused Collaborative AI"
-hex_tag: "#C066"
+hex_tag: "#A07E"
 nemetic: "Φ(WisdomCollaborativeAI) = σ(wisdom|intelligence) ∘ ρ(human|machine) ∘ λ(augmentation|replacement) ∘ β(iteration|insight) ∘ δγ(individual|collective) ∘ μ(prompt|response) + ε | :harmonizing"
 siml_encoding: "⟨AI|wisdom-guided⟩ ⊳ ⟨Human|collaborative⟩ → ⟨Intelligence|hybrid⟩ ⊗ ⟨Collective|augmented⟩ ⇄ ⟨Wisdom|emergent⟩"
 formalism:
@@ -7790,7 +7790,7 @@ source_file: "1771907212448_281281_Wisdom-Focused+Collaborative+AI.md"
 
 ---
 term: "Meditation Enhances BCI Control"
-hex_tag: "#C067"
+hex_tag: "#A07F"
 nemetic: "Φ(MeditationBCI) = σ(attention|distraction) ∘ ρ(mind|machine) ∘ λ(modulation|chaos) ∘ β(training|performance) ∘ δγ(embodiment|abstraction) ∘ μ(alpha|noise) + ε | :harmonizing"
 siml_encoding: "⟨Meditation|focused⟩ ⊳ ⟨BCI|controlled⟩ → ⟨Alpha|modulated⟩ ⊗ ⟨Mindfulness|trained⟩ ⇄ ⟨Interface|seamless⟩"
 formalism:
@@ -7862,7 +7862,7 @@ source_file: "1771907212449_283053_Meditation+Enhances+BCI+Control.md"
 
 ---
 term: "Neural Mechanisms of Jazz Improvisation"
-hex_tag: "#C068"
+hex_tag: "#F007"
 nemetic: "Φ(JazzImprov) = σ(structured|spontaneous) ∘ ρ(solo|ensemble) ∘ λ(creativity|constraint) ∘ β(training|expression) ∘ δγ(technique|flow) ∘ μ(self-monitor|release) + ε | :improvising"
 siml_encoding: "⟨Jazz|structured⟩ ⊳ ⟨Improvisation|spontaneous⟩ → ⟨DLPFC|deactivated⟩ ⊗ ⟨MPFC|activated⟩ ⇄ ⟨Creativity|emergent⟩"
 formalism:
@@ -7934,7 +7934,7 @@ source_file: "1771907212449_283115_Neural+Mechanisms+of+Jazz+Improvisation%3A+MR
 
 ---
 term: "Epistemic Challenges in Open Societies"
-hex_tag: "#C069"
+hex_tag: "#E025"
 nemetic: "Φ(EpistemicOpenSociety) = σ(complexity|simplicity) ∘ ρ(information|ignorance) ∘ λ(motivated_cognition|objective_truth) ∘ β(engagement|apathy) ∘ δγ(individual_vote|collective_outcome) ∘ μ(tribal_boundary|rational_discourse) + ε | :discerning"
 siml_encoding: "⟨Democracy|open⟩ ⊳ ⟨Cognition|biased⟩ → ⟨Truth|elusive⟩ ⊗ ⟨Tribalism|entrenched⟩ ⇄ ⟨Discourse|polarized⟩"
 formalism:
@@ -8006,7 +8006,7 @@ source_file: "1771907212450_283477_Epistemic+Challenges+in+Open+Societies.md"
 
 ---
 term: "Collective Cognition"
-hex_tag: "#C070"
+hex_tag: "#W012"
 nemetic: "Φ(CollectiveCognition) = σ(individual|group) ∘ ρ(sharing|isolation) ∘ λ(synergy|fragmentation) ∘ β(collaboration|competition) ∘ δγ(diversity|homogeneity) ∘ μ(boundary|integration) + ε | :cooperating"
 siml_encoding: "⟨Cognition|collective⟩ ⊳ ⟨Knowledge|shared⟩ → ⟨Intelligence|distributed⟩ ⊗ ⟨Problem|solved⟩ ⇄ ⟨Innovation|emergent⟩"
 formalism:
@@ -8078,7 +8078,7 @@ source_file: "1771907212451_283982_Harnessing+Collective+Cognition.md"
 
 ---
 term: "Information Overload and Freedom to Discern"
-hex_tag: "#C071"
+hex_tag: "#A080"
 nemetic: "Φ(InformationOverload) = σ(signal|noise) ∘ ρ(clarity|confusion) ∘ λ(discernment|overload) ∘ β(hygiene|contamination) ∘ δγ(grounding|fragmentation) ∘ μ(boundaries|flooding) + ε | :discerning"
 siml_encoding: "⟨Information|saturated⟩ ⊳ ⟨Discernment|active⟩ → ⟨Clarity|emergent⟩ ⊗ ⟨Signal|filtered⟩ ⇄ ⟨Understanding|deep⟩"
 formalism:
@@ -8150,7 +8150,7 @@ source_file: "1771907213160_2158952_Navigating+Information+Overload%3A+Cultivati
 
 ---
 term: "Psilocybin's Impact on Brain Activity"
-hex_tag: "#C072"
+hex_tag: "#F008"
 nemetic: "Φ(PsilocybinBrainActivity) = σ(network|dissolution) ∘ ρ(synchronicity|desynchronization) ∘ λ(plasticity|rigidity) ∘ β(integration|fragmentation) ∘ δγ(ego|dissolution) ∘ μ(controlled|uncontrolled) + ε | :transforming"
 siml_encoding: "⟨Brain|synchronized⟩ ⊳ ⟨Psilocybin|administered⟩ → ⟨Network|desynchronized⟩ ⊗ ⟨Ego|dissolved⟩ ⇄ ⟨Plasticity|enhanced⟩"
 formalism:
@@ -8221,7 +8221,7 @@ context_note: "Psilocybin, the active compound in magic mushrooms, causes signif
 source_file: "1771907212456_290128_Psilocybin%27s+Impact+on+Brain+Activity.md"
 ---
 term: "Brain's Memory Storage Mechanism"
-hex_tag: "#C084"
+hex_tag: "#W016"
 nemetic: "Φ(BrainMemoryStorage) = σ(neurons|type) ∘ ρ(memory|redundancy) ∘ λ(retrieval|activation) ∘ β(learning|plasticity) ∘ δγ(ground|stability) ∘ μ(boundaries|compromise) + ε | :replicating"
 siml_encoding: "⟨Memory|encoded⟩ ⊳ ⟨Neurons|three⟩ → ⟨Retrieval|resilient⟩ ⊗ ⟨Storage|distributed⟩ ⇄ ⟨Plasticity|dynamic⟩"
 formalism:
@@ -8293,7 +8293,7 @@ source_file: "1771907212495_493258_Brain%27s+Memory+Storage+Mechanism.md"
 
 ---
 term: "Cognitive Biases Quirks"
-hex_tag: "#C087"
+hex_tag: "#W017"
 nemetic: "Φ(CognitiveBiasesQuirks) = σ(bias|categories) ∘ ρ(distortion|perception) ∘ λ(pressure|judgment) ∘ β(awareness|growth) ∘ δγ(grounding|reality) ∘ μ(boundary|correction) + ε | :recognizing"
 siml_encoding: "⟨Bias|cognitive⟩ ⊳ ⟨Perception|distorted⟩ → ⟨Decision|flawed⟩ ⊗ ⟨Awareness|corrective⟩ ⇄ ⟨Judgment|improved⟩"
 formalism:
@@ -8365,7 +8365,7 @@ source_file: "1771907212523_529420_Navigating+the+Quirks+of+Cognitive+Biases.md"
 
 ---
 term: "Art of Essential Questions"
-hex_tag: "#C088"
+hex_tag: "#A085"
 nemetic: "Φ(EssentialQuestions) = σ(purpose|clarity) ∘ ρ(inquiry|depth) ∘ λ(insight|transformation) ∘ β(understanding|growth) ∘ δγ(grounding|relevance) ∘ μ(assumption|boundary) + ε | :questioning"
 siml_encoding: "⟨Question|essential⟩ ⊳ ⟨Inquiry|structured⟩ → ⟨Understanding|deepened⟩ ⊗ ⟨Thinking|critical⟩ ⇄ ⟨Knowledge|integrated⟩"
 formalism:
@@ -8437,7 +8437,7 @@ source_file: "1771907212482_438456_Unlocking+the+Art+of+Essential+Questions%3A+E
 
 ---
 term: "Psilocybin Ego Dissolution"
-hex_tag: "#C089"
+hex_tag: "#W018"
 nemetic: "Φ(PsilocybinEgoDissolution) = σ(self|no-self) ∘ ρ(network|chaos) ∘ λ(dissolution|integration) ∘ β(plasticity|rigidity) ∘ δγ(transient|persistent) ∘ μ(boundary|porous) + ε | :unbinding"
 siml_encoding: "⟨Consciousness|ego⟩ ⊳ ⟨Network|default_mode⟩ → ⟨State|dissolved⟩ ⊗ ⟨Self|unbound⟩ ⇄ ⟨Plasticity|enhanced⟩ ⊗ ⟨Therapy|potential⟩"
 formalism:
@@ -8509,7 +8509,7 @@ source_file: "1771907212456_290128_Psilocybin%27s+Impact+on+Brain+Activity.md"
 
 ---
 term: "Five Stages of AI Grief"
-hex_tag: "#C091"
+hex_tag: "#W019"
 nemetic: "Φ(FiveStagesAIGrief) = σ(stages|taxonomy) ∘ ρ(trauma|processing) ∘ λ(crisis|insight) ∘ β(acceptance|growth) ∘ δγ(grounding|reality) ∘ μ(resistance|boundary) + ε | :integrating"
 siml_encoding: "⟨Grief|stages⟩ ⊳ ⟨AI|CopernicanTrauma⟩ → ⟨Response|adaptive⟩ ⊗ ⟨Acceptance|maturity⟩ ⇄ ⟨Understanding|nuanced⟩"
 formalism:
@@ -8580,7 +8580,7 @@ context_note: "Benjamin Bratton's 'Five Stages of AI Grief' applies Kübler-Ross
 source_file: "1771907212445_279659_The+Five+Stages+Of+AI+Grief.md"
 ---
 term: "AI's Impact on Education Debate"
-hex_tag: "#C098"
+hex_tag: "#M01B"
 nemetic: "Φ(AIEducation) = σ(learning|automation) ∘ ρ(engagement|offloading) ∘ λ(critical_thinking|dependency) ∘ β(skill_development|atrophy) ∘ δγ(curriculum|adaptation) ∘ μ(guidelines|resistance) + ε | :tension"
 siml_encoding: "⟨Student|learner⟩ ⊳ ⟨AI|tool⟩ → ⟨Education|transformed⟩ ⊗ ⟨Agency|threatened⟩ ⇄ ⟨Pedagogy|evolving⟩"
 formalism:
@@ -8651,7 +8651,7 @@ context_note: "The debate over AI's impact on education centers on Professor Meg
 source_file: "1771907212554_577883_AI%27s+Impact+on+Education+Debate.md"
 ---
 term: "Scarlet Sea Anemone Regeneration"
-hex_tag: "#C099"
+hex_tag: "#B002"
 nemetic: "Φ(AnemoneRegen) = σ(mortality|immortality) ∘ ρ(stem_cell|differentiation) ∘ λ(regeneration|decay) ∘ β(growth|renewal) ∘ δγ(organism|tissue) ∘ μ(constraint|potential) + ε | :renewal"
 siml_encoding: "⟨Anemone|cnidarian⟩ ⊳ ⟨Stem|multipotent⟩ → ⟨Regeneration|immortal⟩ ⊗ ⟨Aging|resisted⟩ ⇄ ⟨Biology|transformed⟩"
 formalism:
@@ -8722,7 +8722,7 @@ context_note: "The scarlet sea anemone (Nematostella vectensis) exhibits near-im
 source_file: "1771907212556_582731_Secrets+of+the+Scarlet+Sea+Anemone.md"
 ---
 term: "Analyzer Cyborg: Critical Thinking and Data-Driven Cognition"
-hex_tag: "#C102"
+hex_tag: "#A089"
 nemetic: "Φ(AnalyzerCyborg) = σ(analysis|synthesis) ∘ ρ(data|decision) ∘ λ(evaluation|creation) ∘ β(learning|metacognition) ∘ δγ(individual|collective) ∘ μ(criteria|judgment) + ε | :analytical"
 siml_encoding: "⟨Data|input⟩ ⊳ ⟨Criteria|evaluate⟩ → ⟨Analysis|structured⟩ ⊗ ⟨Decision|informed⟩ ⇄ ⟨Understanding|deeper⟩"
 formalism:
@@ -8793,7 +8793,7 @@ context_note: "The Analyzer Cyborg represents a framework for critical thinking 
 source_file: "1771907212507_504229_Levels+of+Thinking+and+the+Analyzer+Cyborg.md"
 ---
 term: "LLMs Transforming Collective Intelligence"
-hex_tag: "#C103"
+hex_tag: "#W01B"
 nemetic: "Φ(LLMCollective) = σ(individual|group) ∘ ρ(information|synthesis) ∘ λ(aggregation|emergence) ∘ β(collaboration|cognition) ∘ δγ(knowledge|ecosystem) ∘ μ(access|filter) + ε | :distributed"
 siml_encoding: "⟨Individual|cognition⟩ ⊳ ⟨LLM|mediate⟩ → ⟨Group|intelligence⟩ ⊗ ⟨Knowledge|aggregated⟩ ⇄ ⟨Wisdom|emergent⟩"
 formalism:
@@ -8864,7 +8864,7 @@ context_note: "LLMs Transforming Collective Intelligence examines how large lang
 source_file: "1771907212588_635459_LLMs+Transforming+Collective+Intelligence.md"
 ---
 term: "Posthumanism: Boundaries of Humanity"
-hex_tag: "#C108"
+hex_tag: "#F00E"
 nemetic: "Φ(Posthumanism) = σ(human|posthuman) ∘ ρ(identity|transformation) ∘ λ(enhancement|transcendence) ∘ β(cognition|evolution) ∘ δγ(essence|augmentation) ∘ μ(ethics|access) + ε | :transformation"
 siml_encoding: "⟨Human|limited⟩ ⊳ ⟨Enhancement|technological⟩ → ⟨Identity|fluid⟩ ⊗ ⟨Posthuman|emergent⟩ ⇄ ⟨Ethics|negotiated⟩"
 formalism:
@@ -8937,7 +8937,7 @@ source_file: "1771907212606_689628_Exploring+the+Boundaries+of+Humanity%3A+Insig
 
 ---
 term: "Trust and Truth Relationship"
-hex_tag: "#C118"
+hex_tag: "#A095"
 nemetic: "Φ(TrustTruth) = σ(trust|distrust) ∘ ρ(communication|breakdown) ∘ λ(intersubjectivity|emergence) ∘ β(dialogue|understanding) ∘ δγ(subjective|collective) ∘ μ(verification|faith) + ε | :intersubjective_truth"
 siml_encoding: "⟨Trust|present⟩ ⊳ ⟨Truth|intersubjective⟩ → ⟨Communication|enabled⟩ ⊗ ⟨Truth|co_constructed⟩ ⇄ ⟨Understanding|evolving⟩"
 formalism:
@@ -9009,7 +9009,7 @@ source_file: "1771907212617_738556_Trust+and+Truth%3A+A+Complex+Relationship.md"
 ---
 ---
 term: "AI Manifest Destiny Bias"
-hex_tag: "#C120"
+hex_tag: "#E028"
 nemetic: "Φ(AIManifestDestiny) = σ(western|global) ∘ ρ(expansion|preservation) ∘ λ(bias|awareness) ∘ β(progress|plurality) ∘ δγ(dominance|equity) ∘ μ(technology|culture) + ε | :decolonial_ai"
 siml_encoding: "⟨TrainingData|biased⟩ ⊳ ⟨Narrative|colonial⟩ → ⟨AI|reinforcing⟩ ⊗ ⟨Perspective|western-centric⟩ ⇄ ⟨Marginalization|ongoing⟩"
 formalism:
@@ -9080,7 +9080,7 @@ context_note: "AI Manifest Destiny Bias examines how artificial intelligence sys
 source_file: "1771907212598_655982_Untitled.md"
 ---
 term: "Data Quality: Balancing Tech and Humanity"
-hex_tag: "#C124"
+hex_tag: "#A097"
 nemetic: "Φ(DataQuality) = σ(clean|raw) ∘ ρ(human|machine) ∘ λ(standardization|chaos) ∘ β(feedback|stagnation) ∘ δγ(privacy|utility) ∘ μ(algorithm|intuition) + ε | :quality_convergence"
 siml_encoding: "⟨Data|raw⟩ ⊳ ⟨Cleaning|process⟩ → ⟨Quality|refined⟩ ⊗ ⟨Human|reviewer⟩ ⇄ ⟨Machine|learner⟩"
 formalism:
@@ -9152,7 +9152,7 @@ source_file: "1771907212602_668621_The+Art+of+Data+Quality%3A+Balancing+Tech+and
 ---
 ---
 term: "Critique and Action Gap"
-hex_tag: "#C125"
+hex_tag: "#A098"
 nemetic: "Φ(CritiqueActionGap) = σ(analysis|action) ∘ ρ(complaint|solution) ∘ λ(awareness|execution) ∘ β(critic|strategist) ∘ δγ(passive|engaged) ∘ μ(ownership|avoidance) + ε | :action_paralysis"
 siml_encoding: "⟨Critique|abundant⟩ ⊳ ⟨Action|rare⟩ → ⟨Awareness|unfulfilled⟩ ⊗ ⟨Effort|avoided⟩ ⇄ ⟨Change|stalled⟩"
 formalism:
@@ -9223,7 +9223,7 @@ context_note: "Critique and Action Gap examines the societal pattern where indiv
 source_file: "1771907212674_887791_Addressing+the+Gap+Between+Critique+and+Action+in+Society+and+the+Workplace.md"
 ---
 term: "Consciousness Receiver Hypothesis"
-hex_tag: "#C134"
+hex_tag: "#A09C"
 nemetic: "Φ(ConsciousnessReceiver) = σ(receiver|generator) ∘ ρ(tuning|isolation) ∘ λ(awakening|materialism) ∘ β(synchronization|fragmentation) ∘ δγ(field|locality) ∘ μ(permeability|boundedness) + ε | :transmission_awareness"
 siml_encoding: "⟨Brain|generator⟩ ⊳ ⟨Consciousness|field⟩ → ⟨Mind|tuned⟩ ⊗ ⟨Awareness|received⟩ ⇄ ⟨Reality|coherent⟩"
 formalism:

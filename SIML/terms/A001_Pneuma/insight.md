@@ -148,7 +148,7 @@ concurrency/distributed processing/explicit multiplicity.]
 ## 10. Next Action
 
 - **File to:** /docs/SIML/insights/INSIGHT_20250226_1609_Pneuma_a7f3.md
-- **Cross-reference:** Prana (A002), Qi (A003), Shu (A004), Ehecatl (A005)
+- **Cross-reference:** Prana (A002), Qi (A003), Shu (W008), Ehecatl (W009)
 - **Open Question:** Can AI systems develop something analogous to Pneuma—a distributed "breath" that animates rather than merely processes?
 - **Suggested Facilitation:** Use this term in Opening stage with breath-focused questions, transitioning to Water element for depth exploration
 

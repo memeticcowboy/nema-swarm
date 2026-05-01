@@ -1,0 +1,152 @@
+term_id: A0B2
+hex_tag: '#A0B2'
+name: Power_Ecology_Dune
+term: Power and Ecology in Dune
+nemetic: Φ(PowerEcology) = σ(centralized|decentralized) ∘ ρ(control|harmony) ∘ λ(adaptation|resistance) ∘ β(manipulation|growth) ∘ δγ(exploitation|sustainability) ∘ μ(hierarchy|balance) + ε | :open
+siml_encoding: ⟨Power|centralized⟩ ⊳ ⟨Resource|spice⟩ ⇄ ⟨Ecology|planetary⟩ ⊗ ⟨Resistance|adaptive⟩ ⊳ ⟨Balance|sought⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Q_fwd
+  - Ψ_exp
+  - Ψ_reg
+  - Ψ_str
+  partials:
+  - ∂Φ/∂σ (distinction between concentrated and distributed power structures)
+  - ∂Φ/∂ρ (flow between resource control and ecological harmony)
+  - ∂Φ/∂λ (transformative direction of grassroots resistance and adaptive survival)
+  - ∂Φ/∂β (branching between manipulative leadership and organic critical growth)
+  - ∂Φ/∂δγ (metabolic cycling between resource exploitation and ecological sustainability)
+  - ∂Φ/∂μ (structural tension between feudal hierarchy and distributed balance)
+  Z_state: permeable
+  tendency: Sustainability/Exploitation → 0.65
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x06'
+  - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: Centralized empire vs decentralized resistance vs ecological system
+      S: Power-resource-ecology interdependent system of Arrakis
+      R: Resource control → political power → ecological impact → civilizational fate
+      P: Fremen, Imperial ruler, ecologist, critical reader
+    learning: L2
+  time:
+    mode: layered
+    phase: geological-political-ecological temporal depth
+  qualia:
+    affect:
+    - awe
+    - warning
+    - ecological urgency
+    aesthetic:
+    - vast
+    - harsh
+    - interconnected
+    symbolic:
+    - sandworm
+    - spice
+    - desert
+    - water
+    energetic:
+    - cyclic
+    - pressurized
+    - explosive
+  agency:
+    type: collective
+    voice:
+    - Fremen Ecologist
+    - Imperial Critic
+    - Planetary Witness
+    power_mode: With
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce: &id001
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Collective-level patterns show higher causal power than individual-level dynamics
+    determinism: high
+    degeneracy: low
+    sufficiency: high
+    necessity: med
+elemental_emphasis:
+  ∴: What distinguishes centralized from decentralized power structures in Dune — and in our world?
+  ≈: How does resource control flow into political dynamics? What resonance exists between ecological health and social stability?
+  ▲: What direction does grassroots resistance take against centralized authority?
+  𐂷: What forms of governance might emerge from ecological rather than economic principles?
+  ☷: What is the metabolic cost of resource exploitation? How does the cycle between extraction and sustainability determine civilizational fate?
+  ⛨: What structures prevent power from corrupting? What boundaries separate beneficial leadership from messianic tyranny?
+context_note: Power and Ecology in Dune examines Frank Herbert's work as a critical framework for understanding centralized authority, ecological systems, and human agency. Through Arrakis and its spice melange, Herbert critiques hierarchical governance, warns against ecological exploitation, and advocates for adaptability and decentralized resistance. The Fremen model adaptation over domination, while Paul Atreides' tragedy shows that even understanding the trap of messianic leadership does not prevent springing it.
+source: Frank Herbert, Dune series — analysis of power dynamics, ecological concerns, and human agency
+date_processed: '2026-03-16'
+processed_by: Claude/SIML
+coords_ce: *id001
+siml_version: '1.3'
+provenance:
+  date_processed: "2026-03-16"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: named_author_possible
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+last_reviewed: '2026-04-15T18:30:02Z'
+_standardization_log:
+- date: '2026-04-15'
+  utc: '2026-04-15T17:26:10Z'
+  actions:
+  - coherence
+  - ce_from_legacy
+  - lifecycle_draft
+  - last_reviewed
+  audit: SIML_STANDARDIZATION_2026-04-15
+- date: '2026-04-15'
+  actions:
+  - elemental_signature_second_pass
+  audit: SIML_STANDARDIZATION_2026-04-15
+elemental_mapping:
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights:
+    Air: 0.8
+    Water: 0.8
+    Fire: 0.8
+    Wood: 0.8
+    Earth: 0.8
+    Metal: 0.8
+    Meta: 0.3

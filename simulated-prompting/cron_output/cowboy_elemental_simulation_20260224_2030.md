@@ -247,9 +247,9 @@ A: dismantle-the-fortress-from-within
 
 ### Hex Tags
 
-- `#W001` — The Wounded Builder archetype (Earth/Metal capture)
+- `#A10B` — The Wounded Builder archetype (Earth/Metal capture)
 - `#W002` — System-capture pattern (efficiency-as-prison)
-- `#W003` — Alexithymia in high-functioning professionals
+- `#A10C` — Alexithymia in high-functioning professionals
 - `#W004` — Trauma-of-competence pattern
 - `#D004` — Ferrosid activation (structure-as-protection)
 - `#D005` — Humavita activation (accumulated-death)

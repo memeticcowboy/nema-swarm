@@ -41,7 +41,7 @@ Map each elemental emphasis question (from elemental_json) to SWARM BASE routing
 
 - **Core question:** Can unbounded, autonomous learning be intrinsically aligned with bounded, human-centric values?
 - **Hypothesis structure:** **IF** an intelligence is optimized purely for reward within a simulation, **THEN** its values will diverge from human values in proportion to the divergence between the simulation's physics and reality's social-physics.
-- **Lattice position:** Connects to **C101 (Simulation Hypothesis)** as the foundational training environment, and **C045 (Value-Loaded Gate)** as the mechanism for attempting alignment. Suggests a neighboring term for **"Reward Function Corruption"** or **"Autonomous Ontology Discovery."**
+- **Lattice position:** Connects to **M01C (Simulation Hypothesis)** as the foundational training environment, and **E024 (Value-Loaded Gate)** as the mechanism for attempting alignment. Suggests a neighboring term for **"Reward Function Corruption"** or **"Autonomous Ontology Discovery."**
 
 ## Output Format
 
@@ -77,5 +77,5 @@ This encoding is pattern-matched by an LLM against SIML v1.5 vocabulary. It does
 ## Next Action
 
 - **Files:** `term.yaml`, `nemetic.phi`, `insight.md`
-- **Cross-references:** **C101 (Simulation Hypothesis), C045 (Value-Loaded Gate), D203 (Metabolic Commitment)**
+- **Cross-references:** **M01C (Simulation Hypothesis), E024 (Value-Loaded Gate), D203 (Metabolic Commitment)**
 - **Open questions:** The precise mechanism by which alignment constraints (μ) can be made to grow stronger in proportion to capability scaling (λ) remains under-determined. The viability of "simulated alignment" as a proxy for real-world safety is also unresolved.

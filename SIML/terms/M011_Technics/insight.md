@@ -44,7 +44,7 @@ status: draft
 
 - **Shared Operators:**
   - μ+γ with Tertiary Retention (M010) — external structure extending across generations
-  - ρ+σ with Nemetic Pattern (META001) — collective resonance generating distinctions
+  - ρ+σ with Nemetic Pattern (Z001) — collective resonance generating distinctions
 - **Unique Operators:** μ∘γ∘ρ (infrastructural-historical-resonance) — the triple combination of tools, time, and shared pattern
 - **Pattern Family:** STIEGLERIAN_TECHNICS (cluster with Technics, Tertiary Retention, Pharmakon)
 
@@ -53,9 +53,9 @@ status: draft
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
 | **Memory** | Tertiary Retention (M010) | External inscription as condition of cognition, not supplement |
-| **Metallurgy** | Blacksmith (MET004) | Making as constitutive human activity, not mere utility |
-| **Fire** | Prometheus' Fire (F001) | Fire as the first technics — tool that makes the human |
-| **Meta** | Nemetic Pattern (META001) | Distributed fields shaped by technical infrastructure |
+| **Metallurgy** | Blacksmith (W02F) | Making as constitutive human activity, not mere utility |
+| **Fire** | Prometheus' Fire (A0D5) | Fire as the first technics — tool that makes the human |
+| **Meta** | Nemetic Pattern (Z001) | Distributed fields shaped by technical infrastructure |
 
 ## 4. NEMA SWARM Integration
 

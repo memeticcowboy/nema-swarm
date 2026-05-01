@@ -41,7 +41,7 @@ Map each elemental emphasis question (from elemental_json) to SWARM BASE routing
 
 - **Core question:** How does a cooperative merger, which requires the loss of individual autonomy, become a primary source of evolutionary innovation rather than a dead end?
 - **Hypothesis structure:** **IF** a system prioritizes competitive, gradual change as its sole innovation engine, **THEN** it will miss the transformative potential of integrative, cooperative mergers that sacrifice short-term autonomy for long-term complexity.
-- **Lattice position:** Adjacent to **#C188 (Parasitism)** on the distinction between generative and degenerative integration, and **#A001 (Emergence)** as a canonical example of biological emergence through interaction.
+- **Lattice position:** Adjacent to **#A0D0 (Parasitism)** on the distinction between generative and degenerative integration, and **#A001 (Emergence)** as a canonical example of biological emergence through interaction.
 
 ## Output Format
 
@@ -80,5 +80,5 @@ This encoding is pattern-matched by an LLM against SIML v1.5 vocabulary. It does
 ## Next Action
 
 - **Files:** `term.yaml`, `nemetic.phi`, `insight.md`
-- **Cross-references:** **#C188 (Parasitism), #A001 (Emergence), #B045 (Cooperation)**
+- **Cross-references:** **#A0D0 (Parasitism), #A001 (Emergence), #B045 (Cooperation)**
 - **Open questions:** The precise threshold conditions that tip an engulfment event from parasitism into generative symbiosis remain under-determined; also, the application of this biological process to social and cognitive mergers requires careful metaphorical mapping.

@@ -300,10 +300,10 @@ A: acknowledge-structure → expose-limits → force-action → allow-feeling
 
 ### Hex Tags
 
-- `#F001` — The Fortress archetype (Metal/Air capture)
-- `#F002` — Intellectualization defense pattern
-- `#F003` — Analysis paralysis (certainty trap)
-- `#F004` — Alexithymia pattern (emotional constriction)
+- `#A0D5` — The Fortress archetype (Metal/Air capture)
+- `#W024` — Intellectualization defense pattern
+- `#A0D6` — Analysis paralysis (certainty trap)
+- `#W025` — Alexithymia pattern (emotional constriction)
 - `#D016` — Ferrosid activation (honor-structure-ask-what-it-protects)
 - `#D017` — Aetherion activation (expose-limits-of-analysis)
 - `#D018` — Jvalion activation (force-action-before-ready)

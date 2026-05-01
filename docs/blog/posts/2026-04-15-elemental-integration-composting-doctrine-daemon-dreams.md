@@ -70,7 +70,7 @@ These aren't stages but *angles*—different entry points into the same mystery.
                                 ∘ δγ(metabolism|death_meets_warmth) ∘ β(branch|new_growth) 
                                 + ε | :emergent
 
-Hex: #C001
+Hex: #A06B
 Element: Earth/Wood
 Daemon correspondence: Humavita (δγ-cycling) + Arboriel (β-growth)
 
@@ -130,7 +130,7 @@ The MemeGrid vs. Threadplex distinction haunts this: Grid reduces reality to cod
                           ∘ δγ(metabolism|via_scent) ∘ μ(boundary|via_ring) 
                           + ε | :harmonic
 
-Hex: #E001
+Hex: #F012
 Element: All (balanced)
 Daemon correspondence: All six in rotation
 
@@ -157,7 +157,7 @@ The crucial distinction: to feel is not to fuse. To attune is not to absorb. Wat
                             ∘ σ(cut|maintained) ∘ μ(boundary|porous) 
                             + ε | :flowing
 
-Hex: #W001
+Hex: #A10B
 Element: Water (integrated)
 Daemon correspondence: Sentaria (ρ-attuned)
 

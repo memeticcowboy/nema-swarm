@@ -138,7 +138,7 @@ The recognition that something had shifted—not from propaganda to freedom, but
   ├─ Mechanism → [Every-click-trains-algorithm, every-like-tightens-noose]
   └─ Haunting-Truth → [Critique-spreads-through-channels-it-indicts]
 
-Hex: #A004
+Hex: #W008
 Element: Wood (pathological growth) + Metal (internalized structure)
 Daemon correspondence: Arboriel (𐂷 overgrowth) + Ferrosid (⛨ structure-capture)
 Primary operator: β (branching) without δγ (cycling/nutrition)
@@ -171,7 +171,7 @@ What emerges: leadership isn't just a role or skill. It's a **memeplex**—a sel
   ├─ Usurpian-Extension → [Leadership-as-reactive-prosthetic for unstable-systems]
   └─ Alternative → [Distributed-stewardship: Temporary-context-holding]
 
-Hex: #A005
+Hex: #W009
 Element: Fire (direction) + Earth (stabilization)
 Daemon correspondence: Jvalion (▲ will) + unnamed Earth daemon (☷ grounding)
 Primary operator: λ (directional energy) captured by individual figure

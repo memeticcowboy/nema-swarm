@@ -40,7 +40,7 @@ status: draft
 
 ### 3.2 Cross-Cultural Bridge
 - Prana (A002): Five Vayus as internal directions → Four Winds: four external directions with moral qualities
-- Ehecatl (A005): Single wind-god → Four Winds: distributed wind-agency
+- Ehecatl (W009): Single wind-god → Four Winds: distributed wind-agency
 - **Synthesis Insight:** The Four Winds represent Air's most relational form. Winds are Maka Oniye — "Earth's breath" — making Air not an independent element but a function of Earth's living body. This inverts Western elemental hierarchies: Air serves Earth, not the reverse. The Medicine Wheel integrates directions with seasons, life stages, and moral lessons, making Air a complete pedagogical system.
 
 ## 4. NEMA SWARM Integration

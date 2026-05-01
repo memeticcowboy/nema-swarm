@@ -44,7 +44,7 @@ status: draft
 
 - **Shared Operators:**
   - μ+γ with Technics (M011) — external structure accumulating across generations
-  - ρ+β with Nemetic Pattern (META001) — resonance enabling exploration of distributed fields
+  - ρ+β with Nemetic Pattern (Z001) — resonance enabling exploration of distributed fields
 - **Unique Operators:** μ∘γ (structural-extension) — the specific combination of inscription storage with cross-generational temporal reach
 - **Pattern Family:** STIEGLERIAN_MEMORY (cluster with Tertiary Retention, Technics, Pharmakon)
 
@@ -53,7 +53,7 @@ status: draft
 | Domain | Parallel Term | Shared Pattern |
 |--------|--------------|----------------|
 | **Technics** | Technics (M011) | Technical supports as constitutive of the human, not optional supplement |
-| **Fire** | Sacred Fire (F005) | Eternal flame as external memory — stories carried through fire-circles |
+| **Fire** | Sacred Fire (W026) | Eternal flame as external memory — stories carried through fire-circles |
 | **Education** | Bloom's Taxonomy (L029) | Knowledge level (Remember) as access to tertiary retention |
 | **Metals** | Strategic Metals Dependency (MET009) | Material substrate conditioning what is possible |
 

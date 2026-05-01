@@ -1,0 +1,121 @@
+---
+term: Brain-Computer Interfaces
+hex_tag: '#A076'
+nemetic: Φ(BrainComputerInterfaces) = σ(neural|digital) ∘ ρ(thought|signal) ∘ λ(enhancement|limitation) ∘ β(integration|alienation) ∘ δγ(autonomy|dependency) ∘ μ(boundary|fusion) + ε | :bridging
+siml_encoding: ⟨Brain|neural⟩ ⊳ ⟨Interface|bridge⟩ → ⟨Cognition|enhanced⟩ ⊗ ⟨Human|machine⟩ ⇄ ⟨Autonomy|negotiated⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  - β
+  - δγ
+  - μ
+  dim_operators:
+  - χ
+  - Q_in
+  - Ψ_exp
+  - Z
+  partials:
+  - ∂Φ/∂σ (distinction between biological neural activity and digital signal processing; categorical separation of organic thought from machine-readable data)
+  - ∂Φ/∂ρ (relational flow between internal mental states and external technological mediation; the bridge where intention becomes action through digital translation)
+  - ∂Φ/∂λ (directional transformation from natural cognitive limitations to technologically enhanced capabilities; the spark where human potential is amplified by machine interface)
+  - ∂Φ/∂β (feedback loop between human-machine integration and potential alienation from authentic cognitive experience; the developmental tension of technological embodiment)
+  - ∂Φ/∂δγ (cyclical oscillation between preserving human autonomy and succumbing to technological dependency; the rhythm of empowerment and vulnerability)
+  - ∂Φ/∂μ (boundary permeability between self and technology; the threshold where the brain ends and the computer begins dissolves into a hybrid cognitive system)
+  Z_state: semi
+  z_note: bridging (boundaries between biological cognition and digital processing dissolve through seamless interface; human and machine become a unified decision-making system)
+  tendency: Enhancement/Dependency → 0.70 (strong drive toward cognitive augmentation tempered by risks of technological over-reliance; achieving beneficial BCIs requires balancing capability expansion with preservation of human agency)
+  hex:
+  - '0x01'
+  - '0x02'
+  - '0x03'
+  - '0x04'
+  - '0x05'
+  - '0x06'
+coords:
+  ontology:
+    primary: I
+    secondary: It
+  agency:
+    type: more_than_human
+    power_mode: Within
+  epistemics:
+    dsrp:
+      D: neural / digital
+      S: integration / alienation
+      R: thought / signal
+      P: enhancement / limitation
+    learning: L0
+    intervention_stance:
+      mode: uniform
+      do_operator: theoretical
+      counterfactual_access: low
+  coherence:
+    state: multi-loop
+    loop: multi
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Causal power distributed across description levels (auto-backfilled; revise after human review).
+    determinism: med
+    degeneracy: med
+    sufficiency: med
+    necessity: med
+source_file: 1771907212522_529149_Exploring+Brain-Computer+Interfaces.md
+date_processed: '2026-04-14'
+siml_version: '1.5'
+elemental_mapping: &id001
+  Air: 0.8
+  Water: 0.8
+  Fire: 0.8
+  Wood: 0.8
+  Earth: 0.8
+  Metal: 0.8
+  Meta: 0.3
+elemental_signature:
+  dominant:
+  - Air
+  secondary:
+  - Water
+  - Fire
+  suppressed:
+  - Meta
+  weights: *id001
+provenance:
+  source_file: "1771907212522_529149_Exploring+Brain-Computer+Interfaces.md"
+  date_processed: "2026-04-14"
+  processed_by: "mvc_recovery_2026-04-15"
+  siml_version: "1.5"
+  needs_research: true
+_provenance_log:
+- date: '2026-04-15'
+  action: mvc_recovery
+  bucket: source_file_only
+  resolver: mvc_recovery_script
+  mvc_pass: False
+lifecycle: draft
+_backfill_log:
+- date: '2026-04-14'
+  actions:
+  - date_processed
+  - siml_version
+  - dsrp
+  - coherence
+  - ce_stub
+  - elemental_mapping
+  - elemental_signature
+  - lifecycle_draft
+  audit: SIML_TERMS_AUDIT_2026-04-14
+- date: '2026-04-14'
+  actions: []
+  audit: SIML_TERMS_AUDIT_2026-04-14
+last_reviewed: '2026-04-15T18:30:02Z'
+context_note: Concept entry for brain computer interfaces; encoded in SIML C-series frontmatter format.
+_standardization_log:
+- date: '2026-04-15'
+  actions:
+  - context_note_stub
+  audit: SIML_STANDARDIZATION_2026-04-15
+
+---
