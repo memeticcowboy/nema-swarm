@@ -31,8 +31,10 @@ SIML/
 │   │   ├── nemetic.phi     # L1 Nemetic String (required)
 │   │   └── insight.md      # Elemental insight analysis (when available)
 │   └── ...
-├── swarm_base/         # L2-L4 References (hex tags, hashes)
-├── examples/           # Example encodings and usage patterns
+├── hex_registry.yaml   # Master registry of all hex tag assignments
+├── manifest.yaml       # Term encoding status manifest
+├── SIML_v1_2_1.md      # Full formal specification
+├── SIML_Plain_English_Guide_v1.1.1.md  # Plain English guide
 └── README.md
 ```
 
