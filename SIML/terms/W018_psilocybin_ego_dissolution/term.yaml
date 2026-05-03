@@ -127,7 +127,7 @@ _provenance_log:
   bucket: empty_stub
   resolver: mvc_recovery_script
   mvc_pass: False
-lifecycle: draft
+lifecycle: working
 _backfill_log:
 - date: '2026-04-14'
   actions:
@@ -140,7 +140,7 @@ _backfill_log:
   - elemental_signature
   - lifecycle_draft
   audit: SIML_TERMS_AUDIT_2026-04-14
-last_reviewed: '2026-04-15T18:30:02Z'
+last_reviewed: '2026-05-02'
 context_note: Concept entry for psilocybin ego dissolution; encoded in SIML C-series frontmatter format.
 _standardization_log:
 - date: '2026-04-15'

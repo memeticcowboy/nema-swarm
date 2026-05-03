@@ -148,7 +148,7 @@ _provenance_log:
   bucket: source_file_only
   resolver: mvc_recovery_script
   mvc_pass: False
-lifecycle: draft
+lifecycle: working
 _backfill_log:
 - date: '2026-04-14'
   actions:
@@ -160,6 +160,6 @@ _backfill_log:
   - elemental_signature
   - lifecycle_draft
   audit: SIML_TERMS_AUDIT_2026-04-14
-last_reviewed: '2026-04-15T18:30:02Z'
+last_reviewed: '2026-05-02'
 
 ---
