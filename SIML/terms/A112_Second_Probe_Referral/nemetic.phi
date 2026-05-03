@@ -1,0 +1,16 @@
+# NEMETIC STRING
+# Second Probe Referral (A112)
+# Generated: 2026-05-02 22:54
+# SIML: v1.5
+
+Φ(Second_Probe_Referral) = σ(probe|direct_vs_referral) ∘ λ(failure|shift) ∘ μ(mediation|capture) ∘ δγ(hierarchy|reinforce) + ε | :drift ∧ :emergent
+
+# OPERATOR BREAKDOWN
+# Primary: μ
+# Secondary: σ, λ, δγ
+
+# Z-STATE: Tendency from permeable toward sealed — the referral mechanism, intended to open communication, actually seals the co-cultural respondent into a predefined frame. Z-Closure Risk: μ-lock — the mediation protocol becomes rigid, foreclosing alternative communicative strategies.
+# TENDENCY: recursive | :drift
+
+# CE-STATE: emergent
+# EI-NOTE: The structural imposition of mediation (μ) is the core mechanism of epistemic capture; the distinction between probes (σ) sets the stage, the directional shift (λ) triggers the referral, and the recursive loop (δγ) entrenches the hierarchy.

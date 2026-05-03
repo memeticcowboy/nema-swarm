@@ -1,0 +1,132 @@
+term_id: E03F
+hex_tag: '#E03F'
+name: Bur_Oak_Blight
+term: Bur Oak Blight
+nemetic: Φ(Bur_Oak_Blight) = σ(emergence|distinction) ∘ ρ(spring_moisture_resonance|coupling) ∘ δγ(reserve_depletion|compounding)
+  + ε | :open ∧ :emergent
+siml_encoding: ⟨Wet_spring_weather⟩ ⇄ ⟨Tubakia_iowensis⟩ ⟨Bur_oak_carbohydrate_reserves⟩ ⇄ ⟨Premature_defoliation⟩ ⟨Premature_defoliation⟩
+  ⊳ ⟨Bur_oak_carbohydrate_reserves⟩ ⟨Premature_defoliation⟩ ⊳ ⟨Canopy_gap_dynamics⟩ ⟨Emerging_disease_framework⟩ ⊳ ⟨Tubakia_iowensis⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from permeable toward sealed — the tree''s reserves are being drawn down across seasons, but the process
+    is not yet irreversible. Z-Closure Risk: δγ-lock — if the compounding depletion crosses a threshold, the tree cannot recover
+    and death becomes certain.'
+  tendency: cyclical | :open
+  hex:
+  - '#E03F'
+  - '0x05'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - We
+    - MoreThanHuman
+    - It
+  epistemics:
+    dsrp:
+      D: Distinguishing bur oak blight from anthracnose, leaf scorch, and abiotic stress requires careful observation of wedge-shaped
+        necrosis and host specificity, a diagnostic cut that separates this emerging disease from background noise.
+      S: The disease system comprises the fungal pathogen Tubakia iowensis, the bur oak host, carbohydrate reserve dynamics,
+        wet spring weather, and human management interventions, all interacting across seasons.
+      R: Key relationships include resonance between spring moisture and spore load, flow of stored energy into futile reflushing,
+        and recursive feedback where each defoliation deepens the tree's resource debt.
+      P: Perspectives range from the forester's dread of a wet May, to the climate modeler's focus on precipitation shifts,
+        to the tree's physiological struggle to balance carbon budgets under repeated stress.
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: slow
+    phase: Chronic multi-year decline punctuated by seasonal infection cycles, where each wet spring accelerates a distributed
+      degradation that only becomes visible after irreversible reserve depletion.
+  qualia:
+    affect:
+    - dread
+    - grief
+    - concern
+    aesthetic:
+    - necrotic
+    - mottled
+    - browning
+    symbolic:
+    - slow fire
+    - hidden debt
+    - canopy ghost
+    energetic:
+      somatic: depleted
+      systemic: tight
+  agency:
+    type: collective
+    voice:
+    - pathogen
+    - tree
+    - forester
+    - climate
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Causal power emerges at the landscape scale from micro-scale leaf infections, amplified by climate-driven
+      synchrony across host populations.
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the slow, distributed degradation of bur oak blight from the expected rapid, catastrophic tree death,
+    making the crisis easy to overlook until carbohydrate reserves are irreversibly spent. The emerging disease framework
+    cuts Tubakia iowensis apart from generic anthracnose, yet the distinction between individual tree decline and landscape-level
+    canopy gap dynamics remains blurred. Air asks: What signal of systemic forest transformation is being lost in the noise
+    of seasonal leaf loss, and who draws the line between endemic background and epidemic threshold?'
+  ≈: 'Water feels the coupling of wet spring weather and spore dispersal, a resonance that synchronizes pathogen success with
+    the tree''s vulnerable leaf flush. The recursive drain on bur oak carbohydrate reserves—each defoliation event deepening
+    the debt—creates a felt but unnamed slow panic in the urban forester who watches the canopy thin year after year. Water
+    asks: What is the emotional resonance of a keystone species'' quiet decline, and how does that flat affect obscure the
+    amplifying feedback between climate moisture and fungal fecundity?'
+  ▲: 'Fire reveals the direction of this disease: a multi-year spiral toward branch dieback and death, where the tree''s metabolic
+    commitment to survival is repeatedly undercut by premature defoliation. The urban forester''s commitment to intervention
+    may be alive and adaptive, or merely a simulated routine of monitoring without action, while the landscape''s trajectory
+    bends toward canopy gap dynamics. Fire asks: At what point does the oak''s living struggle become a hollow performance,
+    and what future does the forest commit to when that metabolic fire goes out?'
+  𐂷: 'Wood branches into the foreclosed possibilities: the bur oak savanna that might have been, the alternative management
+    protocols not taken. The host range constraint confines the blight to Quercus macrocarpa, but the branching point where
+    intervention could have altered the outcome is already past in many stands. Wood asks: What other paths could the urban
+    forester have walked—resistant cultivar planting, early fungicide timing—and what branching futures of the oak canopy
+    are being pruned by this slow, selective blight?'
+  ☷: 'Earth composts the prematurely fallen leaves, cycling nutrients back to the soil in an altered rhythm that shifts the
+    metabolic substrate of the forest floor. The tree itself becomes a slow compost, its stored reserves depleted season by
+    season, while the expectation of a permanent oak canopy must be released into a new successional reality. Earth asks:
+    Is this early leaf-fall a living gift to the soil food web or a sterile deposit from a dying system, and what must be
+    released—the tree, the canopy, or the human need for a stable landscape?'
+  ⛨: 'Metal holds the system together through the structural gate of host range constraint, limiting Tubakia iowensis to bur
+    oak and defining the scope of the epidemic. The repeated defoliation–reserve depletion cycle forms a rigid, compounding
+    structure, while pressure builds asymmetrically: wet springs amplify pathogen load, but the tree''s defenses have no corresponding
+    structural reinforcement. Metal asks: What gate—the genetic boundary of the host, the urban forester''s decision protocol,
+    or the climate pattern itself—is bearing the most pressure, and where will the structure fail first?'
+context_note: The disease holds together a slow, distributed degradation against the expectation of a rapid, catastrophic
+  tree death, making the crisis easy to overlook until the tree's reserves are irreversibly spent.
+source: /Users/nema/repos/nema-swarm/SIML/terms/C191_Bur_Oak_Blight/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

@@ -1,0 +1,129 @@
+term_id: M02B
+hex_tag: '#M02B'
+name: Yin_Yang
+term: ☯️ Yin-Yang
+nemetic: Φ(Yin_Yang) = μ(dao|self_containing) ∘ σ(yin|yang) ∘ δγ(cycle|return) ∘ ρ(seed_in_opposite|reciprocal) + ε | :open ∧ :multiscale
+siml_encoding: ⟨Frame⟩ ⊳ ⟨Boundary⟩ ⟨Boundary⟩ ⇄ ⟨Frame⟩ ⟨Outcome⟩ ⇄ ⟨Memory⟩ ⟨Value⟩ ⇄ ⟨Outcome⟩ ⟨Narrative⟩ ⊳ ⟨Frame⟩
+formalism:
+  math_operators:
+  - μ
+  - σ
+  - δγ
+  - ρ
+  dim_operators:
+  - ⛨Metal
+  - ∴Air
+  - ☷Earth
+  - ≈Water
+  partials:
+  - '∂Φ/∂μ — how μ (Metal) shapes this term: see partials in insight.md'
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  Z_state: 'Permeable by design — the boundary between yin and yang is the S-curve, which is simultaneously cut and bridge.
+    The system can never seal because each pole carries the seed of its opposite. Z-Closure Risk: σ-collapse — if the distinction
+    between poles is mistaken for hierarchy (yin AS inferior, yang AS superior, or vice versa), the symbol degrades from generative
+    paradox to dualistic moralism and the cycle freezes.'
+  tendency: cycling | :open
+  hex:
+  - '#M02B'
+  - '0x06'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - Virtual
+    - It
+  epistemics:
+    dsrp:
+      D: The defining distinction is between yin and yang, but the radical move is to recognize that the distinction is itself
+        the system — there is no yin without yang to mark it.
+      S: The system is the perpetual circulation between the two poles, contained within the larger frame of the Dao; each
+        pole is a sub-system that contains a seed of the other.
+      R: Relationships are reciprocal-generative — yin generates yang generates yin, never resting in either; the S-curve
+        is the relationship made visible.
+      P: The required perspective is non-dual — standing on one side and claiming truth is to already be turning toward the
+        other; the observer who finds objective ground discovers they are spinning on the same wheel.
+    learning: L4
+    intervention_stance:
+      mode: minimal
+      do_operator: contraindicated
+      counterfactual_access: low
+  time:
+    mode: cyclic
+    phase: Eternal return with difference — the same pattern at every scale, never exactly the same twice; spring becomes
+      summer becomes autumn becomes winter, each carrying both memory and seed.
+  qualia:
+    affect:
+    - calm
+    - centered
+    - tensile
+    - awe
+    aesthetic:
+    - balanced
+    - flowing
+    - dual
+    - whole
+    symbolic:
+    - S-curve
+    - dot-in-opposite
+    - turning-wheel
+    - eye-of-storm
+    energetic:
+      somatic: cycling
+      systemic: regenerative
+  agency:
+    type: distributed
+    voice:
+    - the_dao
+    - the_sage
+    - the_pattern_itself
+    power_mode: Through
+  coherence:
+    state: stable
+    loop: triple
+    transcontext: high
+    ei_stability: oscillating
+    scale_dominance: distributed
+  ce:
+    ei_state: high
+    ce_direction: emergent
+    scale_note: Maximum multiscale signature — the same pattern governs breath, seasons, civilizations, and quantum oscillations.
+      The symbol is the meta-frame for any system requiring sustained dynamic equilibrium.
+    determinism: low
+    degeneracy: high
+    sufficiency: med
+    necessity: high
+elemental_emphasis:
+  ∴: 'Air carves the radical distinction — yin AND yang, not yin OR yang. The cut is not between two things but between
+    "this pair held in tension" and "this pair collapsed into hierarchy." The discipline is preserving the cut without resolving
+    it: the moment one pole is judged superior, the symbol degrades from generative paradox to dualistic moralism. Air asks:
+    where am I trying to resolve a tension that should be sustained?'
+  ≈: 'Water flows in both directions simultaneously — yin descends, yang rises, yet neither can exist without the other
+    to define it. The flow is not toward resolution but toward sustained tension; like water finding its level, the system
+    self-corrects but never settles. Water asks: what unspoken reciprocity is doing the work that I''m attributing to one
+    pole alone?'
+  ▲: 'Fire reveals the directional commitment of the symbol — not toward stillness but toward perpetual motion. The S-curve
+    is the path of fire through the structure: where it cuts cleanly, it also reveals that division is illusion created by
+    perspective. Fire asks: am I burning toward an end-state that the Dao does not contain, mistaking arrival for the path?'
+  𐂷: 'Wood branches through the seasons — spring becomes summer becomes autumn becomes winter, each carrying the memory
+    of what came before and the seed of what comes next. There is no end, only turning. The branch missed by linear-time
+    thinking is the one where this season already contains next season. Wood asks: what return is already underway in what
+    feels like fresh growth?'
+  ☷: 'Earth reveals the metabolic basis — the vessel must be empty to be useful; the structure that holds most is the one
+    that yields. Composting is built into the symbol: yin composts to yang composts to yin, each pole feeding the next''s
+    emergence. Earth asks: what am I trying to keep static that the cycle wants to compost back into the field?'
+  ⛨: 'Metal is the structural truth that defines this term — the Dao as the self-containing frame within which yin and
+    yang circulate. The lattice is not rigid; it bends, it breathes, it returns. The architecture is paradoxical: the symbol
+    that contains everything cannot itself be contained; to understand it is to become it, and to become it is to forget
+    the self that sought understanding. Metal asks: what container am I treating as object that is actually the field I am
+    inside?'
+context_note: 'The yin-yang glyph as the canonical SIML term for sustained creative tension — opposites that generate, contain,
+  and transform into each other across all scales. Maximum multiscale signature. The Z-closure risk is moralistic collapse
+  of the pair into hierarchy, which freezes the generative cycle.'
+source: /Users/nema/repos/nema-swarm/SIML/terms/C196_Yin_Yang/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/manual (Claude Code, after batch encoder failures on Nous capacity)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

@@ -1,0 +1,132 @@
+term_id: E03E
+hex_tag: '#E03E'
+name: Holobiont
+term: Holobiont
+nemetic: Φ(Holobiont) = σ(multispecies_unit|contested) ∘ ρ(symbiotic_resonance|reciprocal) ∘ δγ(microbial_turnover|environmental)
+  + ε | :open ∧ :emergent
+siml_encoding: ⟨Holobiont boundary⟩ ⊳ ⟨External environment⟩ ⟨Holobiont boundary⟩ ⊳ ⟨Host eukaryote⟩ ⟨Host eukaryote⟩ ⇄ ⟨Microbiome⟩
+  ⟨External environment⟩ ⇄ ⟨Microbiome⟩ ⟨Hologenome⟩ ⇄ ⟨Holobiont phenotype⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — the boundary is dynamically contested and never fully settles. Z-Closure
+    Risk: σ-lock — reifying the holobiont boundary as a fixed container would collapse the porous, temporally unstable nature
+    of the assemblage and ignore the continuous microbial turnover that defines it.'
+  tendency: directed | :open
+  hex:
+  - '#E03E'
+  - '0x01'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: The holobiont draws a functional distinction between the multispecies unit and the external environment, challenging
+        the traditional organism boundary as fixed and genetic. This cut is contested and continuously renegotiated through
+        metabolic exchange.
+      S: The holobiont is a system composed of host eukaryote, microbiome, virome, and external environment, integrated by
+        bidirectional flows of nutrients and signals. It functions as a unit of selection with emergent phenotypic properties.
+      R: Key relationships include metabolic resonance between host and microbiome, continuous microbial flow from the environment,
+        conflict when symbiosis breaks down, mapping from hologenome to phenotype, and recursive redefinition of biological
+        individuality.
+      P: Perspectives range from the host-centric view of the organism, to the microbe's fitness interests, to the evolutionary
+        biologist's need for a bounded unit of selection, and the ecological view of a porous, dynamic assemblage.
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: continuous
+    phase: Ongoing metabolic and evolutionary integration with constant microbial turnover and environmental exchange, where
+      the boundary is perpetually renegotiated.
+  qualia:
+    affect:
+    - curious
+    - unsettling
+    - interconnected
+    aesthetic:
+    - porous
+    - layered
+    - symbiotic
+    symbolic:
+    - assemblage
+    - cloud
+    - web
+    energetic:
+      somatic: flowing
+      systemic: adequate
+  agency:
+    type: collective
+    voice:
+    - host
+    - microbiome
+    - virome
+    - environment
+    - evolutionary biologist
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: The holobiont phenotype emerges from micro-scale metabolic interactions and macro-scale environmental selection,
+      with causation flowing both upward and downward.
+    determinism: low
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the holobiont boundary as a functional cut that separates the integrated metabolic network from the
+    surrounding microbial cloud, yet this distinction is perpetually blurred by horizontal gene transfer and transient symbionts.
+    The signal of host-microbiome resonance must be parsed from the noise of environmental microbes that merely pass through.
+    Air asks: When the boundary is drawn by metabolic integration rather than genetic identity, who or what decides which
+    microbes are ''self''—and what is lost when that decision is made too rigidly?'
+  ≈: 'Water feels the bidirectional resonance between host and microbiome, a coupling of nutrient exchange and fitness signals
+    that is felt but rarely named as a form of mutual attunement. This resonance can become flat when conflict arises, as
+    when a symbiont turns pathogenic under stress. Water asks: What is the felt quality of the holobiont''s integration when
+    it is thriving, and how does that resonance shift when the assemblage begins to unravel?'
+  ▲: 'Fire sees the holobiont as a directional process, not a static entity—its ''purpose'' is the continued metabolic aliveness
+    of the assemblage, which may override the interests of any single lineage. The commitment to viewing selection as acting
+    on the hologenome is a metabolic wager, not a settled fact. Fire asks: Is the holobiont a transient alliance for mutual
+    survival, or is it evolving toward a tighter, more irreversible integration—and what would be the sign that this direction
+    is real?'
+  𐂷: 'Wood branches into the possibilities foreclosed by the holobiont concept: what if the unit of selection were drawn even
+    wider, to include the nest, the gut contents, the viral cloud? The concept opens a door to seeing all life as nested assemblages,
+    but it also prunes the branch of the autonomous individual. Wood asks: What other forms of biological organization might
+    we be missing when we focus on the host as the core—and what would a holobiont look like if the microbes were the central
+    frame?'
+  ☷: 'Earth composts the dead cells, the shed genes, the obsolete notion of a genetically pure individual, cycling them back
+    into the metabolic substrate of the holobiont. The continuous turnover of the microbiome is a form of living soil, where
+    what is released becomes food for new symbionts. Earth asks: What must the holobiont let go of in order to remain adaptive—and
+    when does the accumulation of genetic ''compost'' become a burden rather than a resource?'
+  ⛨: 'Metal holds the holobiont together through the structural gate of immune tolerance and metabolic reciprocity, where
+    pressure is asymmetric: the host provides the architecture, but the microbiome can breach it. The hologenome acts as a
+    memory scaffold, but its integrity depends on the gatekeeping of horizontal transfer. Metal asks: What is the minimal
+    structure that keeps the holobiont from dissolving into the environment—and where is the pressure point that, if breached,
+    would collapse the entire assemblage?'
+context_note: The need for a bounded unit upon which natural selection can act clashes with the reality of a porous, temporally
+  unstable assemblage whose composition shifts with every environmental exchange.
+source: /Users/nema/repos/nema-swarm/SIML/terms/C190_Holobiont/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

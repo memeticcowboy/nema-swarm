@@ -1,0 +1,16 @@
+# NEMETIC STRING
+# River Mouth (W051)
+# Generated: 2026-05-02 23:46
+# SIML: v1.5
+
+Φ(River_Mouth) = λ(river_flow|directed) ∘ σ(boundary_transition|mixing) ∘ δγ(sediment_cycling|depositional) + ε | :open ∧ :emergent
+
+# OPERATOR BREAKDOWN
+# Primary: δγ
+# Secondary: λ, σ
+
+# Z-STATE: Tendency from permeable toward sealed — the sediment metabolism is being choked by upstream damming and sea-level rise. Z-Closure Risk: δγ-lock — if sediment starvation continues, the regenerative cycle collapses into a static, eroding state with no capacity for land-building.
+# TENDENCY: cyclical | :open
+
+# CE-STATE: emergent
+# EI-NOTE: The core identity of the river mouth is its Earth (δγ) metabolism—the cycling of sediment into landforms. This metabolism is fed by the directed Fire (λ) flow of the river and shaped by the Air (σ) distinction at the fresh-salt boundary. The tension arises because the δγ cycle is being starved, making it the primary operator under threat.
