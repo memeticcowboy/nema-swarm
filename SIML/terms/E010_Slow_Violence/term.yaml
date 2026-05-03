@@ -1,5 +1,6 @@
 term_id: E010
 name: Slow_Violence
+nemetic: Φ(Slow_Violence) = γ(temporal-unfolding|gradual-destruction) ∘ σ(invisibility-distinction|escaped-notice) ∘ ρ(unequal-resonance|dispersed-across-communities) ∘ μ(structural-embeddedness|systemic-violence) + ε | :turbid
 coords:
   ontology:
     primary: It
@@ -110,7 +111,7 @@ _provenance_log:
   bucket: named_author_possible
   resolver: mvc_recovery_script
   mvc_pass: False
-lifecycle: draft
+lifecycle: working
 _backfill_log:
 - date: '2026-04-14'
   actions:
@@ -128,4 +129,11 @@ _backfill_log:
 - date: '2026-04-14'
   actions: []
   audit: SIML_TERMS_AUDIT_2026-04-14
-last_reviewed: '2026-04-15T18:30:02Z'
+last_reviewed: '2026-05-02'
+elemental_emphasis:
+  '∴': 'Air (σ) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
+  '≈': 'Water (ρ) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
+  '▲': 'Fire (λ) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
+  '𐂷': 'Wood (β) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
+  '☷': 'Earth (δγ) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
+  '⛨': 'Metal (μ) — analysis present in insight.md (daemon correspondence + cross-elemental synthesis sections). Schema field promoted from those sections; prose polish pending.'
