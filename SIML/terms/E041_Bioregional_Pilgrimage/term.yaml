@@ -1,0 +1,131 @@
+term_id: E041
+hex_tag: '#E041'
+name: Bioregional_Pilgrimage
+term: Bioregional Pilgrimage
+nemetic: Φ(Bioregional_Pilgrimage) = σ(political_vs_watershed|reframing) ∘ λ(sacred_journey|hydrology_aligned) ∘ ρ(ecological_cultural_resonance|deepening)
+  + ε | :open ∧ :emergent
+siml_encoding: ⟨watershed logic⟩ ⊳ ⟨political borders⟩ ⟨hydrology⟩ ⇄ ⟨pilgrimage routes⟩ ⟨sacred journey⟩ ⇄ ⟨participant⟩
+  ⟨political borders⟩ ⊳ ⟨pilgrimage routes⟩ ⟨pilgrimage routes⟩ ⇄ ⟨Mississippi River Basin⟩
+formalism:
+  math_operators:
+  - σ
+  - λ
+  - ρ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — the pilgrimage opens political boundaries to watershed logic. Z-Closure
+    Risk: σ-lock — if the distinction between political and watershed becomes rigid and the journey loses its embodied, resonant
+    quality, the dynamic freezes into mere ideological statement.'
+  tendency: directed | :open
+  hex:
+  - '#E041'
+  - '0x03'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - MoreThanHuman
+    - Its
+  epistemics:
+    dsrp:
+      D: The pilgrimage draws a sharp distinction between political borders and watershed logic, reframing land by water flow
+        rather than human jurisdiction. This cut is essential to reorient identity and movement.
+      S: The pilgrimage forms a system where participants, routes, hydrology, and the river basin interact to produce ecological-cultural
+        reconnection. The system is organized by the watershed as a unifying frame.
+      R: Key relationships include the mapping of pilgrimage routes onto the basin, the resonance between sacred journey and
+        participant, and the constraint of political borders on route design. These relationships create a dynamic tension
+        between flow and boundary.
+      P: The pilgrimage adopts the perspective of the watershed itself, seeing land from the viewpoint of water flow. It also
+        integrates the participant's embodied perspective, transforming personal experience into basin-level stewardship.
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: available
+      counterfactual_access: med
+  time:
+    mode: cyclical
+    phase: Recurring journeys aligned with hydrological cycles, each iteration deepening ecological-cultural resonance and
+      renewing watershed kinship.
+  qualia:
+    affect:
+    - reverent
+    - awed
+    - connected
+    - determined
+    aesthetic:
+    - fluid
+    - meandering
+    - expansive
+    - luminous
+    symbolic:
+    - watershed
+    - river
+    - pilgrim
+    - basin
+    - flow
+    energetic:
+      somatic: flowing
+      systemic: adequate
+  agency:
+    type: collective
+    voice:
+    - pilgrim
+    - watershed
+    - route
+    - border
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: triple
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: The pilgrimage's ecological-cultural reconnection emerges at the basin scale from the interaction of individual
+      journeys, hydrological patterns, and watershed logic, transcending local political boundaries.
+    determinism: low
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the sharp cut between political borders and watershed logic, revealing the signal of hydrological
+    continuity amidst the noise of jurisdictional fragmentation. The pilgrimage routes become the carrier wave, but the distinction
+    between a sacred journey and a recreational hike remains blurred. Air asks: What distinction is the pilgrim not making
+    when they cross from one county to another without sensing the watershed boundary beneath their feet?'
+  ≈: 'Water feels the unspoken kinship between the pilgrim''s sweat and the river''s current, a coupling that maps inner transformation
+    onto the basin''s flow. The resonance between sacred journey and ecological memory deepens, yet the flatness of political
+    maps fails to echo the land''s living rhythms. Water asks: What remains unfelt in the pilgrim''s body when they walk along
+    a creek that crosses a state line—and how might that numbness distort reconnection?'
+  ▲: 'Fire detects a metabolic commitment in the pilgrim''s footsteps: the burning of calories for a living geography, not
+    a simulated reverence for nature from a car window. The journey aims toward basin-level stewardship, but where the pilgrimage
+    becomes a checkmark on a bucket list, its flame gutters. Fire asks: Is the pilgrimage burning toward a new identity, or
+    is it merely reflecting a desire to be seen as someone who cares?'
+  𐂷: 'Wood sees the foreclosed possibility of the pilgrimage sprouting into multi-species routes, where the human journey
+    follows the migration paths of fish or birds, not just watershed divides. The concept could branch into policy, reshaping
+    water governance along bioregional lines, but that offshoot has not taken root. Wood asks: What branch of this pilgrimage
+    might we graft onto existing social structures to bear fruit beyond individual transformation?'
+  ☷: 'Earth knows that the political map must be composted into the watershed''s soil, releasing its rigid lines to become
+    nutrients for a new sense of place. The cycling of stories, silt, and seasons forms the substrate, but if the pilgrimage
+    becomes a fixed annual event without renewal, it turns stale. Earth asks: What in the pilgrim''s old identity is still
+    resisting decomposition, and how can the journey accelerate that humification?'
+  ⛨: 'Metal holds the pilgrimage together through the gate of intention: a structured passage that transforms the participant
+    by constraining their movement to water''s logic. Pressure builds symmetrically between the whole basin and its sub-watersheds,
+    but asymmetry arises when political borders block the continuity of paths. Metal asks: What gate must the pilgrim pass
+    through to abandon their jurisdictional self—and who holds the key when that gate is locked by law?'
+context_note: The concept holds together the sharp cognitive distinction between political borders and watershed logic with
+  the flowing, integrative resonance of embodied journey, risking fragmentation if either rigid distinction or diffuse resonance
+  dominates.
+source: /Users/nema/repos/nema-swarm/SIML/terms/E023_Bioregional_Pilgrimage/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

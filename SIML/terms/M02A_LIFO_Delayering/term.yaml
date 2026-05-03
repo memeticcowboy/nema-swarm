@@ -1,0 +1,127 @@
+term_id: M02A
+hex_tag: '#M02A'
+name: LIFO_Delayering
+term: LIFO (Last-In First-Out) Delayering
+nemetic: Φ(LIFO_Delayering) = μ(stack|layered_identity) ∘ σ(recent_layer|deep_layer) ∘ λ(peel|retrograde) ∘ ρ(emergent_protocol|recovered) + ε | :drift ∧ :emergent
+siml_encoding: ⟨Actor⟩ ⊳ ⟨Frame⟩ ⟨Frame⟩ ⊳ ⟨Signal⟩ ⟨Resource⟩ ⇄ ⟨Actor⟩ ⟨Boundary⟩ ⊳ ⟨Signal⟩ ⟨Outcome⟩ ⇄ ⟨Memory⟩
+formalism:
+  math_operators:
+  - μ
+  - σ
+  - λ
+  - ρ
+  dim_operators:
+  - ⛨Metal
+  - ∴Air
+  - ▲Fire
+  - ≈Water
+  partials:
+  - '∂Φ/∂μ — how μ (Metal) shapes this term: see partials in insight.md'
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — disciplined retrograde shedding allows stacks that were defending themselves to permit cross-cultural flow. Z-Closure Risk: σ-lock — if the distinction between "my recent layer" and "their deep layer" hardens into asymmetric peeling demands (one party always sheds, the other never does), the protocol freezes and the boundary re-seals as power asymmetry.'
+  tendency: retrograde | :drift
+  hex:
+  - '#M02A'
+  - '0x06'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - I
+  epistemics:
+    dsrp:
+      D: The central distinction is between cultural layers by recency (recent surface vs deep substrate) and between "natural"
+        feel and "acquired" status — what feels like bedrock is often the most recently installed habit.
+      S: The system is the intercultural encounter as a layered stack collision; each party's identity is a stack with surface
+        protocols defending older deep structures, and meaningful exchange requires both stacks to peel from the top.
+      R: Relationships flow between Boundary and Signal (constraint), Frame and Protocol (distinction), Memory and Outcome
+        (recursion); the most recent layer maps to the first vulnerability, and mutual ignorance feeds defensive response.
+      P: Perspectives are insider (everything I do feels universal) vs outsider (everything they do reads as choice); the
+        meta-perspective is the systemic observer who watches both stacks and notices which layers are being peeled vs defended.
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: slow
+    phase: Retrograde — progress is moving backward through accumulated layers, each peel producing temporary disorientation
+      before the next, deeper layer surfaces.
+  qualia:
+    affect:
+    - vulnerability
+    - disorientation
+    - patience
+    - relief
+    aesthetic:
+    - shedding
+    - layered
+    - exposed
+    - palimpsestic
+    symbolic:
+    - palimpsest
+    - stack
+    - peeling-onion
+    - reversed-arrow
+    energetic:
+      somatic: receding
+      systemic: adequate
+  agency:
+    type: collective
+    voice:
+    - communicator
+    - cultural_framework
+    - emergent_protocol
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: triple
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Macro cultural grammars drive micro defensive reflexes; emergent peeling protocols can re-shape future cross-cultural
+      encounters at the macro scale, creating a multiscale loop where individual disciplined acts of unlearning aggregate
+      into collective protocol.
+    determinism: low
+    degeneracy: high
+    sufficiency: low
+    necessity: high
+elemental_emphasis:
+  ∴: 'Air carries the surgery — the cut between "what I think is universal" and "what I learned recently and mistook for
+    universal." The work is to keep that distinction perpetually fresh, because every newly-installed habit immediately starts
+    masquerading as nature. Air asks: which layer am I defending right now as if it were bedrock, and when did I actually
+    install it?'
+  ≈: 'Water flows in the receding direction — meaning is recovered downward, not produced forward. The shared substrate
+    that emerges after peeling was always there; the encounter just allows it to surface. Water asks: what unspoken resonance
+    becomes audible only after we both stop performing our most recent training?'
+  ▲: 'Fire directs the deliberate retrograde — peeling is not passive forgetting, it is active shedding under discipline.
+    The aim is competence-via-incompetence, the willingness to look gauche in order to become genuinely fluent. Fire asks:
+    am I willing to appear to lose status temporarily in order to actually gain shared ground?'
+  𐂷: 'Wood branches into the territory below the surface layer — once a layer is peeled, multiple older substrates are
+    exposed at once, and a new emergent protocol can sprout from any of them. The branch foreclosed by clinging to the surface
+    is the one where genuine third-culture invention becomes possible. Wood asks: what new shared form could only grow if
+    both stacks shed two layers, not one?'
+  ☷: 'Earth recognizes the cycle — peeled layers do not vanish; they compost back into the cultural substrate, becoming
+    raw material for the next encounter''s surface. The discipline is to let the recently-acquired return to the soil rather
+    than treating it as identity. Earth asks: what recently-acquired layer am I hoarding as identity that would be more useful
+    composted back into the field?'
+  ⛨: 'Metal is the structural truth of this term — identity AS a stack, with the most recent layer always on top and always
+    the first to be tested in any cross-boundary encounter. The architecture is what makes LIFO peeling possible (and necessary).
+    The risk is that the gate that decides which layer is "current" can be hijacked by power asymmetry — one party demands
+    the other peel while refusing to peel themselves. Metal asks: who in this encounter has structural permission to keep
+    their stack intact, and at whose expense?'
+context_note: 'Identity as a layered stack where the topmost layer (most recent acquisition) is mistaken for bedrock and
+  becomes the first source of cross-cultural friction. Disciplined retrograde peeling exposes deeper shared structure. The
+  hard part: the layer that most needs peeling is the one that feels most like "just being yourself."'
+source: /Users/nema/repos/nema-swarm/SIML/terms/C195_LIFO_Delayering/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/manual (Claude Code, after batch encoder failures on Nous capacity)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

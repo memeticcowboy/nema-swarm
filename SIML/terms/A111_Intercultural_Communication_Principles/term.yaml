@@ -1,0 +1,136 @@
+term_id: A111
+hex_tag: '#A111'
+name: Intercultural_Communication_Principles
+term: Intercultural Communication Principles
+nemetic: Φ(Intercultural_Communication_Principles) = σ(frame_protocol_tension|incommensurable) ∘ ρ(signal_flow|filtered_and_conflicted)
+  ∘ δγ(memory_outcome_loop|recursive) + ε | :drift ∧ :emergent
+siml_encoding: ⟨cultural grammar⟩ ⊳ ⟨shared protocol⟩ ⟨cultural self-awareness⟩ ⊳ ⟨communicator⟩ ⟨cultural knowledge⟩ ⇄ ⟨gesture/word/silence⟩
+  ⟨stereotype⟩ ⊳ ⟨gesture/word/silence⟩ ⟨past encounters⟩ ⊳ ⟨stereotype⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from semi-permeable toward permeable — meaning is always provisional and under negotiation. Z-Closure
+    Risk: μ-lock — if stereotypes harden into rigid narratives, the recursive learning loop collapses into prejudice and the
+    system becomes sealed.'
+  tendency: recursive | :drift
+  hex:
+  - '#A111'
+  - '0x05'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: The central distinction is between one's own cultural grammar and the other's, and between cultural knowledge as
+        an enabling resource and stereotype as a constraining narrative.
+      S: The system is the intercultural encounter as a crucible where actors, frames, signals, and protocols interact recursively,
+        with no stable attractor and coherence always under negotiation.
+      R: Relationships are characterized by flow, conflict, constraint, and recursion; meaning emerges through the tension
+        between inherited norms and negotiated rules, with each outcome re-entering as memory.
+      P: Perspectives are multiple and incommensurable; competence requires holding one's own cultural lens as provisional
+        and bracketing assumptions to glimpse the other's, treating all frameworks as partial.
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: slow
+    phase: Understanding accretes through repeated encounters, with each outcome re-entering as memory and reshaping future
+      interactions in a recursive, non-linear rhythm.
+  qualia:
+    affect:
+    - discomfort
+    - tension
+    - curiosity
+    - warmth
+    - apprehension
+    aesthetic:
+    - fragile
+    - liminal
+    - tentative
+    - alive
+    symbolic:
+    - border
+    - crucible
+    - void
+    - handhold
+    - protocol
+    energetic:
+      somatic: flowing
+      systemic: adequate
+  agency:
+    type: collective
+    voice:
+    - communicator
+    - cultural framework
+    - stereotype
+    - emergent protocol
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: triple
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Macro cultural grammars constrain micro interactions, but emergent protocols can reshape future encounters,
+      creating a multiscale feedback loop.
+    determinism: med
+    degeneracy: high
+    sufficiency: low
+    necessity: high
+elemental_emphasis:
+  ∴: 'Air distinguishes the delicate cut between cultural knowledge as a handhold across the void and cultural knowledge as
+    a stereotype that filters signals before reception. The signal is the gesture, word, or silence; the noise is the predictive
+    shorthand that distorts it. The distinction that does the work is the reflexive bracketing of assumptions, but what is
+    missed is the moment when that bracketing itself becomes a new rigidity. Air asks: Where is the line between using a framework
+    and being used by it, and who gets to draw that line in the encounter?'
+  ≈: 'Water senses the unspoken resonance of vulnerability and discomfort that flows beneath the surface of the intercultural
+    encounter. The communicator’s self-awareness couples with the emergent shared protocol, while past encounters resonate
+    with future expectations, creating a felt texture that no cultural knowledge can name. What is flat is the stereotype,
+    which dampens the living resonance of the other’s presence. Water asks: What is the quality of the silence between words,
+    and how does that unspoken coupling shape what can be said?'
+  ▲: 'Fire reveals the direction of the encounter: toward emergent meaning, a provisional shared understanding that is metabolized
+    in the moment. The commitment to unlearning and holding frameworks lightly is alive, while the commitment to cultural
+    knowledge as fixed truth is merely reflected, a simulation of competence. The encounter is for bridging the incommensurable,
+    but its true purpose may be to transform the communicators themselves. Fire asks: Is the encounter burning toward genuine
+    transformation, or is it merely warming itself with the performance of openness?'
+  𐂷: 'Wood branches into the possibilities foreclosed by the framing of intercultural communication as negotiation between
+    fixed cultural grammars. What else could this be? A site of creative hybridity where a third culture emerges, or a deliberate
+    disruption of inherited norms. The branch that is missing is the one where the communicator does not merely bracket but
+    actively dissolves their own grammar. Wood asks: What new forms of meaning-making could sprout if the encounter were not
+    a negotiation but a co-creation, and what keeps that branch from growing?'
+  ☷: 'Earth reveals the cycling of past encounters into stereotypes and emergent meaning back into memory, a recursive loop
+    that can either deepen understanding or calcify prejudice. The metabolic substrate is the cultural grammar itself, which
+    may be stale if not refreshed by self-awareness. What must be released is the attachment to cultural knowledge as a fixed
+    resource, allowing it to compost into something more fertile. Earth asks: What old stories must be returned to the soil
+    so that the encounter can nourish new growth rather than recycle the same patterns?'
+  ⛨: 'Metal exposes the invisible structure that holds the shared protocol in place: a gate of cultural self-awareness that
+    brackets assumptions, but also a gate of power that determines whose grammar sets the terms. Pressure is asymmetric; one
+    cultural framework may dominate the negotiation, shaping the protocol in its image. The structure is provisional, yet
+    it constrains what can emerge. Metal asks: What gate is doing the work of inclusion and exclusion, and whose hand is on
+    the latch?'
+context_note: 'The paradox that cultural knowledge both enables and obstructs communication: the frameworks that provide handholds
+  across the void also harden into narratives that filter signals before they can be fully received.'
+source: /Users/nema/repos/nema-swarm/SIML/terms/C192_Intercultural_Communication_Principles/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

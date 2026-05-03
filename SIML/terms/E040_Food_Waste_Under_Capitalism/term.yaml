@@ -1,0 +1,132 @@
+term_id: E040
+hex_tag: '#E040'
+name: Food_Waste_Under_Capitalism
+term: Food Waste Under Capitalism
+nemetic: Φ(Food_Waste_Under_Capitalism) = σ(commodity_necessity_split|systemic) ∘ ρ(moral_outrage|collective) ∘ λ(activist_harvesting|direct)
+  + ε | :open ∧ :multiscale
+siml_encoding: ⟨Capitalism⟩ ⊳ ⟨Commercial Agriculture⟩ ⟨Commercial Agriculture⟩ ⇄ ⟨Food⟩ ⟨Food⟩ ⊳ ⟨Food Waste⟩ ⟨Activist Networks⟩
+  ⊳ ⟨Commercial Agriculture⟩ ⟨Activist Networks⟩ ⇄ ⟨Communities⟩
+formalism:
+  math_operators:
+  - σ
+  - ρ
+  - λ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from sealed toward permeable — the food system''s waste is structurally locked by profit logic, but activist
+    interventions are creating cracks in the containment. Z-Closure Risk: μ-lock — the petrodollar model''s rigid gates would
+    collapse the dynamic into permanent, unchallenged waste.'
+  tendency: directed | :open
+  hex:
+  - '#E040'
+  - '0x03'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: The foundational distinction between food as commodity and food as necessity drives the entire waste dynamic, splitting
+        value from use.
+      S: The system encompasses capitalist markets, commercial agriculture, activist networks, and communities, all interconnected
+        by flows of food, money, and moral energy.
+      R: Relationships are defined by constraint (profit logic on distribution), conflict (activists versus disposal), and
+        resonance (outrage amplifying action).
+      P: Perspectives range from the profit-maximizing view of agriculture, to the survival-based lens of hungry communities,
+        to the justice-oriented stance of activists.
+    learning: L2
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: continuous
+    phase: Ongoing systemic contradiction where production, waste, and recovery cycle continuously, punctuated by activist
+      surges.
+  qualia:
+    affect:
+    - outrage
+    - grief
+    - determination
+    aesthetic:
+    - iridescent
+    - layered
+    - metabolic
+    symbolic:
+    - cradle
+    - ember
+    - hearth
+    energetic:
+      somatic: surging
+      systemic: abundant
+      divergence_note: Somatic surging of activist energy contrasts with systemic abundance of wasted food, signaling a misalignment
+        between felt urgency and material availability.
+  agency:
+    type: collective
+    voice:
+    - activist
+    - community
+    - market
+    - moral outrage
+    power_mode: Against
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: multiscale
+    scale_note: Waste emerges from macro-level market constraints, while activist interventions operate at meso and micro
+      scales, creating multiscale causal dynamics.
+    determinism: med
+    degeneracy: high
+    sufficiency: high
+    necessity: med
+elemental_emphasis:
+  ∴: 'The primary cut is the commodity-necessity distinction, where food''s exchange value gates its flow, rendering edible
+    surplus as waste the moment profit vanishes. This distinction is doing the work of systemic exclusion, but a missed cut
+    lies between ''waste'' as a logistical category and ''waste'' as a moral indictment—the former is legible to markets,
+    the latter only to outrage. Air asks: When does an apple stop being food and start being garbage, and who holds the knife
+    that makes that cut invisible?'
+  ≈: 'Moral outrage is the named resonance, but beneath it flows a deeper, unnamed grief—the collective sorrow of a species
+    that discards life while life goes hungry. The petrodollar model couples food to oil, creating a flat, mechanical hum
+    that drowns out the resonant cry of need; activist networks, by contrast, couple directly with communities, creating a
+    counter-resonance of care. Water asks: What would it feel like if the system could hear the full emotional frequency of
+    waste—and why is that frequency so easily dampened?'
+  ▲: 'The system''s direction is metabolically alive toward profit, but the commitment to nourishment is often a simulated
+    reflection—charity that soothes without transforming. The activist impulse carries a genuine metabolic fire, redirecting
+    food toward hungry bodies, yet it risks becoming a safety valve that preserves the very engine of waste. Fire asks: Is
+    the heat of this outrage kindling a new hearth, or merely warming the hands of those who profit from the cold?'
+  𐂷: 'A foreclosed branch is the food commons, where sustenance is a shared right rather than a priced good; another is the
+    circular economy where ''waste'' is never born because all flows are designed for reuse. The very existence of activist
+    networks signals a latent branching potential—a parallel distribution system that could, under different conditions, become
+    the trunk. Wood asks: What would it take for the discarded tomato to seed a new way of feeding the world, and what pruned
+    that possibility before it could fruit?'
+  ☷: 'The metabolic substrate is the food itself, rich with potential energy, but the current cycle is broken: instead of
+    composting back into soil, waste rots in landfills, releasing death instead of life. The system must release the notion
+    that food''s only value is transactional; it must allow the organic matter to complete its cycle of decay and renewal.
+    Earth asks: How much longer can the soil tolerate being starved of its due, and what must be buried for the cycle to begin
+    again?'
+  ⛨: 'The structure is held together by the petrodollar''s iron grip, the legal gates of property that prioritize ownership
+    over need, and the asymmetric pressure where corporations discard while communities scavenge. The market gate is the key
+    mechanism: it opens only for those who can pay, creating a pressure differential that activist networks attempt to equalize
+    through direct action. Metal asks: If the gate were reforged to recognize food as a common treasury, what would the new
+    architecture of distribution look like—and who would resist its forging?'
+context_note: The capitalist food system produces both overabundance and starvation because it treats food as a commodity
+  first, creating an emergent waste crisis that activist networks struggle to mitigate.
+source: /Users/nema/repos/nema-swarm/SIML/terms/C200_Food_Waste_Under_Capitalism/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

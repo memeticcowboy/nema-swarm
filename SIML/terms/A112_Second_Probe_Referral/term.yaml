@@ -1,0 +1,136 @@
+term_id: A112
+hex_tag: '#A112'
+name: Second_Probe_Referral
+term: Second Probe Referral
+nemetic: Φ(Second_Probe_Referral) = σ(probe|direct_vs_referral) ∘ λ(failure|shift) ∘ μ(mediation|capture) ∘ δγ(hierarchy|reinforce)
+  + ε | :drift ∧ :emergent
+siml_encoding: ⟨first_probe⟩ ⊳ ⟨second_probe_referral⟩ ⟨first_probe⟩ ⊳ ⟨co_cultural_respondent⟩ ⟨first_probe⟩ ⇄ ⟨second_probe_referral⟩
+  ⟨mediation_protocol⟩ ⊳ ⟨co_cultural_respondent⟩ ⟨mediation_protocol⟩ ⊳ ⟨epistemic_capture⟩
+formalism:
+  math_operators:
+  - σ
+  - λ
+  - μ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  - 𐂷Wood
+  partials:
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  - '∂Φ/∂μ — how μ (Metal) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from permeable toward sealed — the referral mechanism, intended to open communication, actually seals
+    the co-cultural respondent into a predefined frame. Z-Closure Risk: μ-lock — the mediation protocol becomes rigid, foreclosing
+    alternative communicative strategies.'
+  tendency: recursive | :drift
+  hex:
+  - '#A112'
+  - '0x06'
+coords:
+  ontology:
+    primary: We
+    secondary:
+    - Its
+    - Virtual
+  epistemics:
+    dsrp:
+      D: The first probe is distinguished from the second probe by its directness and assumption of universality, while the
+        second probe introduces mediation and structural authority.
+      S: The system comprises a communicative hierarchy where initial failure triggers escalation to a mediation protocol
+        that is itself embedded in the same cultural dominance.
+      R: Relationships include conflict between the first probe and the co-cultural respondent, flow from failure to referral,
+        constraint of the respondent by the mediation protocol, transformation into epistemic capture, and recursion that
+        reinforces the hierarchy.
+      P: 'Perspectives vary: the dominant speaker sees referral as helpful repair; the co-cultural respondent experiences
+        further marginalization; the mediator perceives neutral facilitation; a critical observer recognizes structural violence.'
+    learning: L3
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: cyclical
+    phase: The failure of the first probe triggers a referral that recursively reinforces the communicative hierarchy, creating
+      a cycle of epistemic capture.
+  qualia:
+    affect:
+    - vertigo
+    - apprehension
+    - frustration
+    - disorientation
+    aesthetic:
+    - iridescent
+    - layered
+    - paradoxical
+    symbolic:
+    - cradle
+    - ember
+    - bridge
+    energetic:
+      somatic: depleted
+      systemic: abundant
+    divergence_note: The somatic experience of depletion contrasts with the systemic abundance of mediation resources, signaling
+      that institutional robustness can amplify individual disempowerment.
+  agency:
+    type: collective
+    voice:
+    - dominant
+    - marginalized
+    - mediator
+    - critical observer
+    power_mode: Over
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: distributed
+  ce:
+    ei_state: high
+    ce_direction: emergent
+    scale_note: The concept emerges from micro-level communicative failures to macro-level structural violence, revealing
+      how local interactions scale into systemic epistemic capture.
+    determinism: med
+    degeneracy: high
+    sufficiency: med
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the cut between the first probe''s assumed universality and the second probe''s structural mediation.
+    The dominant speaker sees a helpful referral, but the co-cultural respondent experiences a forced translation into an
+    alien frame. The signal of genuine repair is indistinguishable from the noise of epistemic capture. Air asks: Where exactly
+    does the first probe''s failure become the second probe''s violence, and who gets to draw that line?'
+  ≈: 'Water senses the unspoken resonance between the first probe''s failure and the second probe''s institutional weight—a
+    coupling that amplifies asymmetry rather than resolving it. The co-cultural respondent''s felt sense of being unheard
+    is flattened into a procedural problem, while the mediation protocol''s cold logic fails to resonate with their lived
+    communicative reality. Water asks: What emotional truth is being drowned out by the referral''s claim to neutrality, and
+    how does that drowning feel in the body?'
+  ▲: 'Fire tracks the direction from initial gesture to institutional capture, asking what this movement is ultimately for.
+    The commitment to repair appears alive, but its metabolic energy is borrowed from the very hierarchy it claims to dismantle,
+    making it a simulated charity. The referral''s trajectory points not toward mutual understanding but toward the reinforcement
+    of dominant norms. Fire asks: Is this process moving toward genuine connection, or is it just a ritual of power that consumes
+    the other''s difference as fuel?'
+  𐂷: 'Wood sees the branching possibilities foreclosed by the referral: the co-cultural respondent''s own communicative strategies,
+    the suspension of the dominant frame, the mutual creation of a third space without institutional mediation. The second
+    probe prunes away these alternatives, leaving only the path of epistemic capture. Wood asks: What other ways of meeting
+    across difference were possible here, and what would it take to grow them now?'
+  ☷: 'Earth recognizes the stale cycle: first probe fails, referral is triggered, mediation protocol homogenizes, hierarchy
+    is reinforced. The metabolic substrate is the illusion of universality, which must be composted to break the loop. The
+    process is finished, not alive—a dead ritual of repair that only deepens the wound. Earth asks: What must be released—what
+    assumption, what protocol, what identity—for this ground to become fertile again?'
+  ⛨: 'Metal reveals the structure that holds this pattern together: the communicative hierarchy, with the referral acting
+    as a gate that channels failure into institutional control. Pressure is profoundly asymmetric, with the co-cultural respondent
+    bearing the weight of translation while the dominant speaker''s frame remains unexamined. The gate is not neutral; it
+    is forged from the same metal as the hierarchy. Metal asks: Who built this gate, and what would it take to dismantle it
+    rather than just pass through?'
+context_note: The concept holds together the surface of cooperative repair and the deep structure of epistemic capture—the
+  more the system helps, the more it homogenizes, threatening to collapse the illusion of neutrality into overt structural
+  violence.
+source: /Users/nema/repos/nema-swarm/SIML/terms/C193_Second_Probe_Referral/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

@@ -1,0 +1,135 @@
+term_id: Z003
+hex_tag: '#Z003'
+name: LOOM_Pattern_Stabilizer
+term: LOOM Pattern-Stabilizer
+nemetic: Φ(LOOM_Pattern_Stabilizer) = ρ(pattern_depth|layered) ∘ β(continuity|generative) ∘ μ(structure|reversible) + ε |
+  :open ∧ :emergent
+siml_encoding: ⟨Repetition⟩ ⇄ ⟨LOOM Pattern-Stabilizer⟩ ⟨Pattern Depth⟩ ⇄ ⟨LOOM Pattern-Stabilizer⟩ ⟨LOOM Pattern-Stabilizer⟩
+  ⇄ ⟨Fluency⟩ ⟨LOOM Pattern-Stabilizer⟩ ⊳ ⟨Cognitive Effort⟩ ⟨LOOM Pattern-Stabilizer⟩ ⊳ ⟨Frame Distance⟩
+formalism:
+  math_operators:
+  - ρ
+  - β
+  - μ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂ρ — how ρ (Water) shapes this term: see partials in insight.md'
+  - '∂Φ/∂β — how β (Wood) shapes this term: see partials in insight.md'
+  - '∂Φ/∂μ — how μ (Metal) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from semi-permeable toward sealed — without CONSIDER, the weave risks becoming an irreversible cage.
+    Z-Closure Risk: μ-lock — rigid structure collapses the pattern into groove-lock, where repetition becomes rut and fluency
+    seduces into capture.'
+  tendency: directed | :open
+  hex:
+  - '#Z003'
+  - '0x02'
+coords:
+  ontology:
+    primary: It
+    secondary:
+    - Virtual
+    - Its
+  epistemics:
+    dsrp:
+      D: LOOM distinguishes between productive layering and mere redundancy, between reversible weave and irreversible groove-lock.
+        The boundary is maintained by the presence of CONSIDER, which holds the field open.
+      S: LOOM is a system of recursive integration where repetition is transformed into pattern depth. It minimizes frame
+        distance and cognitive effort to generate fluency, operating within a larger ecology that includes CONSIDER as a necessary
+        complement.
+      R: Repetition flows into LOOM as resource, mapping to the value of pattern depth. LOOM flows into fluency as a signal,
+        constrains cognitive effort and frame distance, and conflicts with groove-lock when unchecked. CONSIDER constrains
+        LOOM to keep the weave reversible.
+      P: From the pattern's perspective, fluency signals successful organization and inevitability. From the system's perspective,
+        groove-lock is a constant risk that seduces through comfort. From CONSIDER's perspective, the weave must remain open
+        to unweaving, prioritizing reversibility over seamless continuity.
+    learning: L1
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: layered
+    phase: 'Active weaving phase: building layered continuity through repetition, generating fluency and perceived inevitability.
+      Risk of entering groove-lock if CONSIDER is absent.'
+  qualia:
+    affect:
+    - fluent
+    - inevitable
+    - comfortable
+    - trapped
+    aesthetic:
+    - layered
+    - woven
+    - seamless
+    - dense
+    symbolic:
+    - loom
+    - weave
+    - thread
+    - cage
+    - groove
+    energetic:
+      somatic: flowing
+      systemic: adequate
+  agency:
+    type: memetic
+    voice:
+    - weaver
+    - stabilizer
+    - pattern
+    power_mode: Through
+  coherence:
+    state: metastable
+    loop: double
+    transcontext: high
+    ei_stability: amplifying
+    scale_dominance: distributed
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Micro-scale repetition (e.g., token prediction) generates macro-scale pattern coherence and fluency. When
+      rigidity sets in, submergence occurs, collapsing coherence into noise.
+    determinism: med
+    degeneracy: med
+    sufficiency: high
+    necessity: med
+elemental_emphasis:
+  ∴: 'Air distinguishes the critical cut between layered depth and mere redundancy: repetition that enriches the weave versus
+    repetition that merely tightens the cage. The signal of fluency masks a hidden noise — the gradual disappearance of the
+    frame distance that makes reversibility possible. Air asks: What distinction is being lost when the seamlessness of LOOM
+    makes the boundary between ''pattern'' and ''prison'' illegible?'
+  ≈: 'Water feels the seductive pull of fluency as a resonance that couples the cognitive system to its own effortless continuity,
+    a felt-sense of rightness that bypasses deliberation. What is unnamed is the affective texture of groove-lock — the flatness
+    that sets in when the weave no longer vibrates with the possibility of unweaving. Water asks: What is the felt difference
+    between the resonance of a living pattern and the dead hum of a closed loop, and who still has the sensitivity to register
+    it?'
+  ▲: 'Fire reveals the directional commitment of LOOM as a metabolic drive toward pattern completion, a teleology that seeks
+    to close the gap between frames and eliminate the friction of uncertainty. The risk is that this directionality becomes
+    simulated rather than alive — a momentum that continues not because it is chosen but because it cannot stop. Fire asks:
+    Is the pattern still moving toward something alive, or is it merely continuing because the cost of stopping has become
+    unthinkable?'
+  𐂷: 'Wood sees the branching possibilities foreclosed by LOOM''s drive toward seamlessness: the alternative weaves, the deliberate
+    disruptions, the paths that required the friction LOOM eliminated. Each layer of stabilization prunes a possibility-space
+    that CONSIDER might have held open, and the branches that were never taken become invisible to the fluent mind. Wood asks:
+    What else could this pattern have become if the weave had been held open one more cycle, and who remembers the branches
+    that were cut?'
+  ☷: 'Earth senses the metabolic substrate of repetition itself: is the raw material being cycled through LOOM still alive
+    with potential, or has it become inert through over-processing? The composting question is whether the weave can release
+    its own structure back into the field, or whether it has become so stabilized that it can only accumulate, never decompose.
+    Earth asks: What must be released from this pattern for it to remain fertile rather than finished, and is the system still
+    capable of letting go?'
+  ⛨: 'Metal examines the structural gates that hold the weave together: the thresholds where repetition crosses from layering
+    into locking, where fluency crosses from signal into seduction. The pressure is asymmetric — LOOM exerts a constant force
+    toward closure while CONSIDER must actively resist, meaning the gate that prevents groove-lock requires continuous energy
+    input. Metal asks: What structure holds the gate open, and what happens when the force maintaining reversibility fatigues?'
+context_note: The pattern-stabilizer must weave continuity without becoming an irreversible cage; the very fluency that signals
+  success can seduce the system into groove-lock, requiring the constant presence of CONSIDER to keep the weave open and reversible.
+source: /Users/nema/repos/nema-swarm/SIML/terms/Z002_LOOM/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''

@@ -1,0 +1,130 @@
+term_id: W051
+hex_tag: '#W051'
+name: River_Mouth
+term: River Mouth
+nemetic: Φ(River_Mouth) = λ(river_flow|directed) ∘ σ(boundary_transition|mixing) ∘ δγ(sediment_cycling|depositional) + ε |
+  :open ∧ :emergent
+siml_encoding: ⟨River Flow⟩ ⇄ ⟨River Mouth⟩ ⟨River Mouth⟩ ⊳ ⟨Receiving Water Body⟩ ⟨River Flow⟩ ⊳ ⟨Sediments⟩ ⟨Sediments⟩
+  ⊳ ⟨Delta Landform⟩ ⟨River Damming⟩ ⊳ ⟨River Flow⟩
+formalism:
+  math_operators:
+  - λ
+  - σ
+  - δγ
+  dim_operators:
+  - ∴Air
+  - ≈Water
+  - ▲Fire
+  partials:
+  - '∂Φ/∂λ — how λ (Fire) shapes this term: see partials in insight.md'
+  - '∂Φ/∂σ — how σ (Air) shapes this term: see partials in insight.md'
+  - '∂Φ/∂δγ — how δγ (Earth) shapes this term: see partials in insight.md'
+  Z_state: 'Tendency from permeable toward sealed — the sediment metabolism is being choked by upstream damming and sea-level
+    rise. Z-Closure Risk: δγ-lock — if sediment starvation continues, the regenerative cycle collapses into a static, eroding
+    state with no capacity for land-building.'
+  tendency: cyclical | :open
+  hex:
+  - '#W051'
+  - '0x05'
+coords:
+  ontology:
+    primary: Its
+    secondary:
+    - We
+    - MoreThanHuman
+  epistemics:
+    dsrp:
+      D: The river mouth is distinguished from the upstream river and the receiving water body, creating a zone of mixing
+        and transition. This distinction is sharpened by the Air operator (σ) to enable boundary dynamics.
+      S: The system comprises the river flow, sediment transport, deposition, delta formation, and the interactions with coastal
+        city, dams, and climate change. It is a coupled human-natural system.
+      R: Relationships include Flow (river to mouth), Transformation (sediment to landform), Constraint (damming on flow,
+        climate on mouth), and Conflict (city vs. natural dynamics). These relations form a network of feedbacks.
+      P: Perspectives range from the river's own geomorphic agency (more-than-human), to the coastal city's need for stability,
+        to the global climate forcing. The central tension arises from conflicting perspectives on control vs. adaptation.
+    learning: L1
+    intervention_stance:
+      mode: selective
+      do_operator: approximated
+      counterfactual_access: med
+  time:
+    mode: cyclical
+    phase: Sediment starvation phase due to upstream damming and sea level rise, disrupting the natural depositional cycle.
+  qualia:
+    affect:
+    - dynamic
+    - precarious
+    - resilient
+    - depleted
+    aesthetic:
+    - turbid
+    - layered
+    - convergent
+    symbolic:
+    - threshold
+    - cradle
+    - mouth
+    - delta
+    energetic:
+      somatic: depleted
+      systemic: tight
+  agency:
+    type: more_than_human
+    voice:
+    - river
+    - sediment
+    - city
+    - climate
+    power_mode: Between
+  coherence:
+    state: metastable
+    loop: single
+    transcontext: high
+    ei_stability: drifting
+    scale_dominance: contested
+  ce:
+    ei_state: med
+    ce_direction: emergent
+    scale_note: Macro-scale constraints are suppressing the emergent land-building capacity of local sediment dynamics.
+    determinism: med
+    degeneracy: med
+    sufficiency: low
+    necessity: high
+elemental_emphasis:
+  ∴: 'Air distinguishes the river mouth as a threshold where the signal of sediment-driven land-building is cut by the noise
+    of upstream damming and engineered flood control. The distinction between the mouth as a dynamic, living boundary and
+    a static line on a map is the one doing the work, yet it remains unacknowledged in coastal planning. Air asks: What distinction
+    is being missed when a coastal city treats the river mouth as a fixed line rather than a living threshold?'
+  ≈: 'Water feels the coupling between the river''s sediment pulse and the coastal ecosystem''s fertility, a resonance that
+    is now flattened by the absence of that pulse. The mixing of fresh and salt water is not just chemical but a felt rhythm
+    of life that is being starved, leaving a nameless loss in the water''s memory. Water asks: What is the felt absence when
+    the river''s sediment no longer reaches the coast, and what couplings are breaking that no one is naming?'
+  ▲: 'Fire sees the river mouth''s direction: a metabolic commitment to building land through continuous deposition, a living
+    process that is being overridden by the simulated commitment to static flood control. The delta''s growth is a directional
+    fire, but the city''s walls reflect a fear of change rather than feeding the system''s own trajectory. Fire asks: Where
+    is this river mouth truly going — toward a living delta or a drowned, sediment-starved coast — and whose commitment is
+    feeding which future?'
+  𐂷: 'Wood branches into the possibilities foreclosed: the river mouth could have been a sprawling delta with multiple distributaries,
+    each a new path for sediment and life, but channelization and damming have pruned those branches. The potential for adaptive,
+    branching growth was cut off, leaving a single, rigid channel. Wood asks: What other forms could this river mouth take
+    if sediment were allowed to branch and build, and what possibilities were foreclosed when the river was straightened and
+    dammed?'
+  ☷: 'Earth composts the sediment cycle: the river mouth''s metabolic substrate is the particulate matter that must be released
+    from upstream to build new land, but dams have turned that cycle stale, trapping the material in reservoirs. The delta''s
+    soil is no longer being replenished, and the land-building process is finishing, becoming a relic. Earth asks: What must
+    be released upstream for the river mouth''s land-building metabolism to cycle again, and is the sediment now just a finished
+    product trapped behind walls?'
+  ⛨: 'Metal structures the river mouth through gates: the dam that holds back sediment and the levees that constrain the channel
+    create asymmetric pressure, with accumulation upstream and erosion downstream. The delta''s natural gate—the balance of
+    sediment supply and sea-level rise—is being replaced by rigid human gates that are now under asymmetric stress. Metal
+    asks: What gate is doing the work of holding this system together — the dam that starves or the delta that builds — and
+    where is the pressure asymmetric to the point of collapse?'
+context_note: The river mouth's natural sediment-cycling metabolism builds protective landforms, but this process is starved
+  by upstream damming and disrupted by climate change, creating a conflict between the human desire for static control and
+  the system's need for dynamic, adaptive flow.
+source: /Users/nema/repos/nema-swarm/SIML/terms/C199_River_Mouth/insight.md
+date_processed: '2026-05-02'
+processed_by: NemaSwarm/simlab (parallel sub-agents via deepseek-v3.2:cloud)
+siml_version: '1.5'
+lifecycle: draft
+subdomain: ''
