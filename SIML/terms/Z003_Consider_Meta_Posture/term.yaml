@@ -1,0 +1,76 @@
+term_id: Z003
+concept_name: Consider_Meta_Posture
+series: Z
+source_ref: /tmp/z001-stripped.txt
+lifecycle: draft
+nemetic_string: "Φ(Consider_Meta_Posture) = σ(hold_open|partiality) ∘ ρ(tension_flow|vital_field) ∘ β(possibility|unlocked) + ε | :open ∧ :emergent ∧ :multiscale"
+active_operators:
+  - σ
+  - ρ
+  - β
+z_state: permeable
+tendency: Collapses toward premature encoding or meta-capture when sustaining conditions fail
+operational_tag: :open
+ce_tag: :emergent ∧ :multiscale
+dsrp:
+  distinctions:
+    - Open vs Closed cognitive stance
+    - Pre-operator vs Post-operator encoding
+    - Partiality vs Resolution
+    - Tension gradient vs Generated meaning
+    - Vital field vs Encoded capture
+  systems:
+    - Observer-Concept-Vital_Field triad sustained by explicit conditions
+    - Three-operator internal system: σ (distinction), ρ (resonance/flow), β (branching/exploration)
+    - Conditions-Posture-Outcome feedback loop
+  relations:
+    - Observer --holds-open--> Concept
+    - Tension-gradients --generate--> Meaning
+    - Explicit-conditions --sustain--> Posture
+    - σ --cuts--> Partiality (without resolving)
+    - ρ --flows-from--> Tension-gradients
+    - β --unlocks--> Possibilities
+    - Premature-encoding --threatens--> Openness
+  perspectives:
+    - First-person phenomenological stance (epoché)
+    - Meta-cognitive third-person (observer observing own cognition)
+    - Keatsian negative capability
+    - Pre-mortem analyst stance
+objects:
+  Actor: Observer
+  Observer: Self-reflective consciousness holding the posture
+  Frame: Pre-operator stance, vital field, Air/Water/Wood channels
+  Value: Openness, meaning-generation, sustained tension
+  Resource: Explicit conditions, tension gradients, operators σ ρ β
+  Environment: Vital field, conceptual space
+  Boundary: Conditions preventing premature closure; edge between open and encoded
+  Protocol: Three-operator activation sequence (σ → ρ → β)
+  Signal: Tension gradients, felt partiality
+  Narrative: Arc from holding-open through tension to generated meaning
+  Memory: Risk of premature encoding; epoché as suspension
+  Outcome: Generated meaning, unresolved but directed openness
+  Artifact: The sustained posture itself
+relations:
+  Distinction: Open/closed, partial/resolved, pre/post-operator
+  Containment: Concept held within vital field; operators within posture
+  Flow: Meaning flows from tension gradients in the open field
+  Resonance: Between observer and vital field; between tension and meaning
+  Conflict: Openness vs premature encoding; sustained tension vs resolution
+  Constraint: Explicit conditions prevent closure; σ cuts without resolving
+  Mapping: Meta-posture maps to negative capability, epoché, pre-mortem analysis
+  Recursion: Meta-capture risk of applying posture to itself prematurely
+  Transformation: Tension gradients transform into meaning; stance transforms concept
+tensions:
+  - Openness vs premature closure (central)
+  - Sustaining posture vs collapsing into encoding
+  - Partiality vs resolution
+  - Pre-operator freedom vs post-operator capture
+taxonomy:
+  ontology: "Phenomenological cognitive stance; pre-operational holding-pattern that treats concepts as unfolding processes rather than fixed objects. Exists in the liminal space between encounter and encoding."
+  epistemics: "Generative epistemology: meaning arises from sustained tension rather than resolution. Aligns with negative capability (Keats), phenomenological epoché (Husserl), and pre-mortem analysis (Klein). Knowledge is felt before it is formalized."
+  time: "Sustained present; a directed openness that resists temporal closure. Pre-operator (before encoding), durational, maintained across the interval between signal and capture."
+  qualia: "Felt tension gradients, the itch of partiality, the pull toward premature closure, the relief of withheld judgment, the texture of an unresolved concept vibrating in a vital field."
+  agency: "The observer is an active holder of openness, not a passive receiver. The three operators (σ, ρ, β) act as sub-agents within the posture. Agency is distributed between observer, conditions, and field."
+  coherence: "Sustained by explicit boundary conditions that prevent collapse. Threatened by meta-capture and premature encoding. Coherence is membranous: selective permeability maintaining the field."
+  ce: "Emergence is controlled by the explicit conditions; meaning emerges from tension gradients but is not allowed to crystallize prematurely. Multi-scale: applies to first-order concepts and to the observer's own cognitive process (meta-level)."
+warnings: []

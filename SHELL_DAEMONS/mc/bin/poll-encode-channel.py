@@ -158,7 +158,7 @@ def _run_encoder(source: dict) -> dict:
         args += ["--source-text", source["value"]]
     else:
         return {"ok": False, "error": f"unsupported source kind: {source['kind']}"}
-    args += ["--series", "C"]  # legacy; auto-classify lands in May 1 PR
+    args += ["--series", "auto"]  # element-first classifier (May 1 PR merged)
     try:
         proc = subprocess.run(args, capture_output=True, text=True, timeout=600)
     except subprocess.TimeoutExpired:

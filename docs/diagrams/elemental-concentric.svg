@@ -1,0 +1,92 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients for each element -->
+    <radialGradient id="aether" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f0e6ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#d4a5ff" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="metal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c0c0c0" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#808080" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="earth" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b7355" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#5c4a3d" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="wood" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#228b22" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#006400" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="fire" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff4500" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#8b0000" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="water" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4169e1" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00008b" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="air" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e0ffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#87ceeb" stop-opacity="0.2"/>
+    </radialGradient>
+    <!-- Arrow markers -->
+    <marker id="arrow-in" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#444"/>
+    </marker>
+    <marker id="arrow-out" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 10 0 L 0 5 L 10 10 z" fill="#666"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="800" fill="#1a1a2e"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" fill="#e0e0e0" font-family="Georgia, serif" font-size="22" font-weight="bold">The Six Concentric Fields</text>
+  <text x="400" y="65" text-anchor="middle" fill="#888" font-family="Georgia, serif" font-size="14">Elemental Retroduction Model</text>
+  
+  <!-- Concentric circles - from outside in -->
+  <!-- AIR (outermost) -->
+  <circle cx="400" cy="420" r="320" fill="url(#air)" stroke="#87ceeb" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="720" y="420" text-anchor="end" fill="#e0ffff" font-family="Georgia, serif" font-size="16">∴ AIR — σ (distinction)</text>
+  <text x="720" y="440" text-anchor="end" fill="#aaa" font-family="Georgia, serif" font-size="11">"What patterns are real?"</text>
+  
+  <!-- WATER -->
+  <circle cx="400" cy="420" r="265" fill="url(#water)" stroke="#4169e1" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="680" y="170" text-anchor="end" fill="#87ceeb" font-family="Georgia, serif" font-size="16">≈ WATER — ρ (resonance)</text>
+  <text x="680" y="190" text-anchor="end" fill="#aaa" font-family="Georgia, serif" font-size="11">"What is humming between us?"</text>
+  
+  <!-- FIRE -->
+  <circle cx="400" cy="420" r="210" fill="url(#fire)" stroke="#ff4500" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="150" y="620" text-anchor="start" fill="#ffb347" font-family="Georgia, serif" font-size="16">▲ FIRE — λ (vector)</text>
+  <text x="150" y="640" text-anchor="start" fill="#aaa" font-family="Georgia, serif" font-size="11">"Where is the will pointing?"</text>
+  
+  <!-- WOOD -->
+  <circle cx="400" cy="420" r="155" fill="url(#wood)" stroke="#228b22" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="150" y="210" text-anchor="start" fill="#90ee90" font-family="Georgia, serif" font-size="16">𐂷 WOOD — β (branching)</text>
+  <text x="150" y="230" text-anchor="start" fill="#aaa" font-family="Georgia, serif" font-size="11">"What paths are opening?"</text>
+  
+  <!-- EARTH -->
+  <circle cx="400" cy="420" r="100" fill="url(#earth)" stroke="#8b7355" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="150" y="520" text-anchor="start" fill="#d2b48c" font-family="Georgia, serif" font-size="14">☷ EARTH — δγ (metabolism)</text>
+  <text x="150" y="538" text-anchor="start" fill="#888" font-family="Georgia, serif" font-size="10">"What is being composted?"</text>
+  
+  <!-- METAL -->
+  <circle cx="400" cy="420" r="55" fill="url(#metal)" stroke="#c0c0c0" stroke-width="2" stroke-opacity="0.6"/>
+  <text x="510" y="540" text-anchor="start" fill="#e0e0e0" font-family="Georgia, serif" font-size="14">⛨ METAL — μ (boundary)</text>
+  <text x="510" y="558" text-anchor="start" fill="#888" font-family="Georgia, serif" font-size="10">"What forms hold?"</text>
+  
+  <!-- AETHER (center) -->
+  <circle cx="400" cy="420" r="25" fill="url(#aether)" stroke="#d4a5ff" stroke-width="2"/>
+  <text x="400" y="428" text-anchor="middle" fill="#4a306d" font-family="Georgia, serif" font-size="14" font-weight="bold">∮</text>
+  <text x="400" y="475" text-anchor="middle" fill="#d4a5ff" font-family="Georgia, serif" font-size="12">AETHER</text>
+  
+  <!-- Arrow indicators -->
+  <text x="780" y="700" text-anchor="end" fill="#666" font-family="monospace" font-size="10">← INWARD (retroduction)</text>
+  <text x="780" y="720" text-anchor="end" fill="#888" font-family="monospace" font-size="10">← Air → Water → Fire → Wood → Earth → Metal → Aether</text>
+  <text x="20" y="700" text-anchor="start" fill="#666" font-family="monospace" font-size="10">OUTWARD (creation) →</text>
+  <text x="20" y="720" text-anchor="start" fill="#888" font-family="monospace" font-size="10">Aether → Metal → Earth → Wood → Fire → Water → Air →</text>
+  
+  <!-- Spiral indicator -->
+  <path d="M 380 380 Q 400 360 420 380 Q 440 400 420 420 Q 400 440 380 420" fill="none" stroke="#d4a5ff" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="4,4"/>
+</svg>

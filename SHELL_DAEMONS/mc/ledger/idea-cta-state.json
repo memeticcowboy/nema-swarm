@@ -1,5 +1,17 @@
 {
-  "active": {},
+  "active": {
+    "2026-05-05-sentaria": {
+      "daemon": "sentaria",
+      "daemon_day": "2026-05-05",
+      "cta_message_id": "1500829359009824790",
+      "channel_id": "1498180873151971479",
+      "announcement_message_id": "1500829365619921018",
+      "announcement_channel_id": "1486067576218845366",
+      "open_at_utc": "2026-05-04T12:00:05Z",
+      "close_at_utc": "2026-05-04T18:00:03Z",
+      "status": "open"
+    }
+  },
   "history": [
     {
       "daemon": "arboriel",
@@ -25,6 +37,22 @@
         "key": "2026-04-30-arboriel"
       },
       "key": "2026-04-30-arboriel"
+    },
+    {
+      "daemon": "aerunik",
+      "daemon_day": "2026-05-04",
+      "cta_message_id": "1500466974470176768",
+      "channel_id": "1498180873151971479",
+      "announcement_message_id": "1500466977146404999",
+      "announcement_channel_id": "1486067576218845366",
+      "open_at_utc": "2026-05-03T12:00:04Z",
+      "close_at_utc": "2026-05-03T18:00:03Z",
+      "status": "closed_no_replies",
+      "closed_at_utc": "2026-05-03T19:00:02.132363Z",
+      "result": {
+        "reason": "no member replies during voting window"
+      },
+      "key": "2026-05-04-aerunik"
     }
   ]
 }

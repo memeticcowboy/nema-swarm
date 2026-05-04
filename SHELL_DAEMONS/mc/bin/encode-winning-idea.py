@@ -115,7 +115,7 @@ def _run_encoder(idea_text: str, daemon: str) -> dict:
     args = [
         "/usr/bin/python3", str(ENCODE_TO_SIML),
         "--source-text", idea_text,
-        "--series", "C",  # legacy default; auto-classify lands in May 1 PR
+        "--series", "auto",  # element-first classifier (May 1 PR merged)
         "--name-hint", daemon.capitalize() + "_idea",
     ]
     try:

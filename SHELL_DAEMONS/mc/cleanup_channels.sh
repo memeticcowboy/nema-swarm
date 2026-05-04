@@ -1,0 +1,51 @@
+#!/bin/bash
+# Cleanup script for elemental daemon channels
+# Deletes all messages except archive thread starter and pointer notice
+
+# Channel: aerunik (Air) - 1496579600204169378
+# Keep: 1500514254229344428 (pointer), 1500514149862473743 (thread starter), 1498499053510725633 (newsletter)
+# Delete the rest (older encounter content)
+
+echo "=== Cleaning aerunik (Air) ==="
+for msg_id in 1498347929562251365 1498347895139598376 1498347044165652602 1498347043301884095 1498345867617501184 1498345815331176519 1498345562410323980 1498345510027661383; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579600204169378 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleaning sentaria (Water) ==="
+for msg_id in 1498762774526910464 1498762774013984808 1498762496835416084 1498762496147116103 1498762106348879942 1498762105964576889 1498761853252677632 1498761852617646131 1498761429659349042 1498761429183881256 1498761149830799360 1498761149167378524; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579602104193197 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleaning jvalion (Fire) ==="
+for msg_id in 1496580580868599808 1496580580471713792 1496580229680820224 1496580229136158731 1496579889414414367 1496579888762732596 1496579699285471232 1496579698626256896 1496579609826410530; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579603500765295 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleaning arboriel (Wood) ==="
+for msg_id in 1496844622015221760 1496844621539753985 1496844440430592073 1496844439758979174 1496843981560451082 1496843981069180928 1496843678399778898 1496843677842522124 1496843468805234688 1496843468141850634 1496843077832990720 1496843077271457802; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579605081882675 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleaning humavita (Earth) ==="
+for msg_id in 1496656603699724353 1496656603056300032 1496656228080869417 1496656227388370985 1496655992645967932 1496655992080187462 1496655759398760458 1496655758747082752 1496655505831460904 1496655505286320138; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579606977843241 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleaning ferrosid (Metal) ==="
+for msg_id in 1497601960818118718 1497601960234123347 1497601704355348522 1497601703720443924 1497601374894002206 1497601374259007500 1497601117724168315 1497601117227102208; do
+  echo "Deleting $msg_id..."
+  openclaw message delete --channel-id 1496579608588587390 --message-id "$msg_id" 2>&1 || echo "  Failed/Already deleted"
+  sleep 1
+done
+
+echo "=== Cleanup complete ==="
