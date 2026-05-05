@@ -1,0 +1,129 @@
+term_id: Z010
+concept_name: Prescriptive Analytics
+underscored_name: Prescriptive_Analytics
+series: Z
+source_ref: "Wikipedia 'Prescriptive analytics' (https://en.wikipedia.org/wiki/Prescriptive_analytics) + Bert (Hermes/Kimi K2.5) draft 2026-05-04 07:59 PT + Daniel's Rx-Prescriptive-Analytics diagram (04 May 2026)"
+lifecycle: draft
+notes: |
+  Z004–Z009 reserved for analytics-triad siblings (Descriptive_Analytics, Predictive_Analytics) and other framework-predecessor concepts. Do not auto-fill the gap during sequential allocation. Z003 has a pre-existing collision (Z003_Consider_Meta_Posture and Z003_LOOM_Pattern_Stabilizer) — out of scope for this entry, tracked separately.
+predecessors:
+  - Predictive_Analytics (unencoded — reserve in Z004–Z009 range)
+  - Descriptive_Analytics (unencoded — reserve in Z004–Z009 range)
+related_terms:
+  - Z001_Nemetic_Pattern
+  - decision_theory
+  - operations_research
+  - optimization
+  - NEMA_loop_closure
+  - I_Tube_IF_Tube_gap
+nemetic:
+  string: "Φ(Prescriptive_Analytics) = (Ω∘λ∘σ)(observation) ⊕ action_closure + ε | :integrating"
+  active_operators:
+    - σ
+    - λ
+    - Ω
+    - ε
+  z_state: integrating
+  tendency: loop_closure
+  operational_tag: ":integrating"
+  ce_tags: ":emergent∧:irreversible"
+  signature: "loop_closure ≠ feedback. Feedback returns signal to σ for another pass; closure places action inside the observation space — the decision alters what can be observed next."
+  invariant: "The prescriptive move is irreversible. Once you ask 'what should we do?' you cannot return to 'what will happen?' as if the question were innocent. The prediction space is now shaped by the action space."
+dsrp:
+  distinctions:
+    - prediction vs. prescription
+    - feedback vs. loop-closure
+    - spectator frame vs. participant frame
+    - probabilistic forecast vs. valenced recommendation
+    - structured data vs. hybrid (structured + unstructured + business rules)
+    - causal understanding (why) vs. correlative forecast (what)
+    - descriptive (what happened) vs. predictive (what will) vs. prescriptive (what should)
+  systems:
+    - business analytics pipeline
+    - decision-theoretic optimization
+    - simulation/scenario engine
+    - business-rules constraint system
+    - NEMA loop (σ→ρ→λ→μ→Ω)
+    - knowledge-architecture self-naming layer
+  relationships:
+    - descriptive analytics grounds predictive analytics
+    - predictive analytics is subsumed by prescriptive analytics
+    - prescriptive recommendations reshape future observation spaces
+    - actions taken close the loop and alter the system being modeled
+    - business rules constrain the recommendation space
+    - ε (subjective valence) enters the formal frame at the prescriptive stage
+    - hybrid data (structured + unstructured) feeds recommendation engine
+  perspectives:
+    - operations-research view — optimization with constraints
+    - business-analytics view — decision-support layer above prediction
+    - NEMA-framework view — Ω-operator completing the analytics triad
+    - critical view — distinction from predictive is "ill-defined" (per Wikipedia)
+    - participant view — action-taker shaping the observation field
+    - meta-cognitive view — analytics frame asking what it should do about itself
+objects:
+  - Actor
+  - Observer
+  - Frame
+  - Decision
+  - Constraint
+  - Outcome
+  - Loop
+  - Closure
+  - Prescription
+  - Valence
+  - Boundary
+  - Recommendation
+  - Rule
+relations:
+  - Distinction
+  - Containment
+  - Closure
+  - Recursion
+  - Constraint
+  - Transformation
+  - Mapping
+  - Subsumption
+coords:
+  ontology: |
+    Prescriptive analytics is ontologically a closure operator over the analytics triad — it takes the descriptive-predictive substrate and binds it into an action-recommendation surface. Core entities are the Decision (the recommendation itself), the Constraint (business rules, preferences, policies, boundaries), the Outcome (the consequence-set illustrated for each option), and the Loop (the self-modifying observation field once an action is taken). Ontologically distinct from predictive analytics in that the recommendation is not merely an inference about the world but a participatory move within the world. The prediction-space ceases to be neutral once action enters: prescription transforms the analytics frame from a mirror held up to events into a hand placed inside them.
+  epistemics: |
+    Two epistemic regimes coexist. The forecasting regime treats outcomes as estimable distributions ("the model predicts X with 87% confidence"). The prescriptive regime treats outcomes as conditional on action ("if we take Y, then X with valence Z, and these other branches collapse"). Knowledge here is not just predictive accuracy but causal understanding — Wikipedia: "not only anticipates what will happen and when it will happen, but also why it will happen." The epistemic move from "what will" to "what should" introduces ε (the subjective valence) as a formal element rather than a contaminant. Recommendations carry irreducible "should"-content that pure forecasts do not.
+  time: |
+    Three temporal frames operate simultaneously. Past time is descriptive (what happened). Future time is predictive (what will happen). Action-time is prescriptive — the irreducible now in which a recommendation becomes a commitment that reshapes both past data (now interpreted through the lens of the chosen action) and future projections (now constrained to branches consistent with the chosen action). The prescriptive moment is irreversible: the decision alters which futures are reachable and which past data are relevant. Iteration is possible but always asymmetric — each new pass starts in a field already modified by the prior prescription.
+  qualia: |
+    The felt texture of the prescriptive frame is the weight of the "should" — the ethical and practical valence that mere prediction does not carry. Forecasting can be felt as detached observation; prescription cannot. There is the vertigo of irreducible choice (multiple options each with illustrated consequences), the weight of accountability (someone now owns the outcome), and the relief or anxiety of closure (the loop completes either way). For analysts, there is the qualia of stepping out of the spectator role and into the participant frame, often resisted as a category violation by those trained to treat models as windows rather than levers.
+  agency: |
+    Agency is bidirectional and recursive. The prescriptive system has agency-as-recommender — it senses, models, and proposes. The decision-maker has agency-as-actor — they accept, modify, or reject the recommendation. Once acted upon, the system itself becomes a new locus of agency — the prescription joins the field it modeled, modifying the next round of inputs. This is the move Bert calls "the analytics triad completing itself" — the framework gains a feedback handle on its own recommendations and thereby a stake in their consequences.
+  coherence: |
+    Coherence comes from the closure of the loop. Descriptive + predictive together form an open system (observation pointing toward a future). Prescriptive closes that system by routing the future-projection back as a present-action. The coherence is not stable but iterative — each prescriptive cycle modifies the observation field, requiring the next descriptive-predictive pass to re-ground itself. This is structurally distinct from feedback (which returns information to a fixed model) — closure modifies the model itself by altering the field it models. The coherence is process-coherence, not structural-coherence.
+  ce: |
+    Emergent properties: (1) the system gains the capacity to act on itself, transforming a passive analytic frame into an active participant; (2) ε (subjective valence) becomes formally tractable as the bridge by which "should" enters mathematical recommendation; (3) the analytics frame becomes self-aware of its own action-space, opening the meta-level question Bert names — "what should we name patterns, and how will those names reshape what we can observe next?" This is the I-Tube/IF-Tube gap closing for a knowledge architecture: prescription as the move from naming-what-is to naming-what-should-become. Multiscale because the same closure pattern appears at the analyst's spreadsheet, the NEMA-loop's daemon-output, and the framework's reflection on its own taxonomy.
+elemental:
+  "∴": "The model predicts X. The prescription says: do Y. The first sentence describes the world; the second changes it. Pay attention to which one you're writing."
+  "≈": "Feedback is a wave returning to its source; closure is the wave becoming the shore. Once the action is taken, the next observation is no longer of the same sea."
+  "▲": "Prediction is a torch held over the path; prescription is the foot taking the step. Both burn, but only one commits."
+  "𐂷": "What does this tree need? Not 'what will happen to it' but 'what should we do.' The branch grows differently after the choice; you cannot un-prune."
+  "☷": "The soil does not predict; it metabolizes. To prescribe is to rejoin the metabolism — your decision composts back into the field that fed it."
+  "⛨": "The boundary between forecast and recommendation is the ethical edge. Cross it on purpose. Once across, the question 'should' lives in the answer, whether you wrote it there or not."
+summary: "Prescriptive analytics is the third phase of business analytics — after descriptive (what happened) and predictive (what will happen), it answers what should we do, illustrating consequences for each decision option. Wikipedia frames it as combining mathematical sciences (optimization, ML, OR, NLP) with hybrid data (structured + unstructured + business rules) to recommend actions across domains like oil/gas, healthcare, and maritime. NEMAtically, prescriptive analytics is the Ω-operator closing the loop on the descriptive-predictive substrate: it places action inside the observation space, makes the prediction space participatory rather than spectator-neutral, and introduces ε (subjective valence) as a formal rather than contaminating element. The signature distinction from feedback is irreversibility — once 'should' enters the frame, prediction can no longer be innocent."
+elemental_signature:
+  dominant:
+    - Meta
+  secondary:
+    - Air
+    - Fire
+  suppressed: []
+  weights:
+    Air: 0.7
+    Water: 0.4
+    Fire: 0.7
+    Wood: 0.3
+    Earth: 0.4
+    Metal: 0.6
+    Meta: 0.95
+provenance:
+  date_processed: "2026-05-04"
+  processed_by: "claude-code-terminal (Claude Opus 4.7, 1M ctx) — synthesizing Bert (Hermes/Kimi K2.5) source draft + Wikipedia ground-truth"
+  siml_version: "1.5"
+  needs_research: false
+  source_draft_location: "Discord #EncodeIdea, Bert APP, 2026-05-04 07:59 PT"

@@ -1,0 +1,32 @@
+Φ(Prescriptive_Analytics) = (Ω∘λ∘σ)(observation) ⊕ action_closure + ε
+
+Where:
+  σ :: observation → prediction       ("what will happen?")
+  λ :: prediction  → decision         ("how do we benefit?")
+  Ω :: (σ, λ)      → loop_closure     ("how will decisions impact everything else?")
+  ε :: implicit valence — the "should" that enters once λ becomes prescription
+
+Composition:
+  descriptive  = σ alone over historical observation
+  predictive   = σ alone over projected observation
+  prescriptive = (Ω ∘ λ ∘ σ) — the third phase that subsumes the first two
+
+Signature:
+  loop_closure ≠ feedback.
+  Feedback returns signal to σ for another pass while the model is held fixed.
+  Closure places action inside the observation space — the decision alters
+  what can be observed next. The model itself moves. This is the move from
+  spectator to participant in the analytics frame.
+
+Invariant:
+  The prescriptive move is irreversible. Once you ask "what should we do?"
+  you cannot return to "what will happen?" as if the question were innocent.
+  The prediction space is now shaped by the action space; the action space
+  carries valence the prediction space did not.
+
+Consequence:
+  ε is not a contaminant of the formal system but a load-bearing element.
+  Pure forecasts can be ε-free. Prescriptions cannot. The "should" is the
+  bridge by which subjective valence enters mathematical recommendation.
+
+| :integrating

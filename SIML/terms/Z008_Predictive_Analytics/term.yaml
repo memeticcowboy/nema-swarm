@@ -1,0 +1,123 @@
+term_id: Z008
+concept_name: Predictive Analytics
+underscored_name: Predictive_Analytics
+series: Z
+source_ref: "Wikipedia 'Predictive analytics' (https://en.wikipedia.org/wiki/Predictive_analytics) + Daniel's Rx-Prescriptive-Analytics diagram (04 May 2026) + Z010_Prescriptive_Analytics triad context"
+lifecycle: draft
+notes: |
+  Middle term of the analytics triad. Encoded after Z010_Prescriptive_Analytics (its synthesizer) at Daniel's request to backfill the triad. Z009_Descriptive_Analytics is the prior phase (foundational); Z010_Prescriptive_Analytics is the closing phase. Reserved gap Z004–Z007 retained for future framework predecessors.
+related_terms:
+  - Z009_Descriptive_Analytics
+  - Z010_Prescriptive_Analytics
+  - Z001_Nemetic_Pattern
+  - W022_Behavior_Prediction_Model
+  - regression_analysis
+  - machine_learning
+  - time_series_forecasting
+  - probability_theory
+nemetic:
+  string: "Φ(Predictive_Analytics) = σ(historical_data ⊗ explanatory_variables) → projection ⊕ probability_field | :open"
+  active_operators:
+    - σ
+    - ρ
+    - ε
+  z_state: open
+  tendency: forecasting
+  operational_tag: ":open"
+  ce_tags: ":probabilistic∧:forward-looking"
+  signature: "σ alone — the cut between likely and unlikely, projected forward but not committed. Predictive analytics describes a future without entering it. The frame remains spectator."
+  invariant: "The predictive move is reversible at the level of action — a forecast can be ignored, refined, or replaced without altering the field it forecasts. This reversibility is exactly what prescriptive closure removes."
+dsrp:
+  distinctions:
+    - explanatory variables vs. predicted variables
+    - historical pattern vs. projected outcome
+    - probability vs. certainty
+    - forecast vs. forecast-acted-upon
+    - structured vs. unstructured input data
+    - regression vs. classification vs. time-series
+    - statistical model vs. machine learning model vs. neural network
+  systems:
+    - regression analysis pipeline
+    - machine learning training/inference loop
+    - time-series forecasting (ARIMA, exponential smoothing, etc.)
+    - feature engineering and selection
+    - model validation and cross-validation
+    - probability calibration
+    - generative-AI augmented prediction (post-2022 "Predictive GenAI")
+  relationships:
+    - descriptive analytics provides the historical substrate
+    - explanatory variables are extracted from descriptive output
+    - predictions feed prescriptive analytics as the substrate for recommendation
+    - model accuracy depends on assumption quality and data fit
+    - probability fields project but do not commit
+    - past relationships are exploited to predict unknowns (past, present, or future)
+  perspectives:
+    - statistical view — regression and probability theory
+    - ML/AI view — pattern learning from data
+    - business view — risk identification and opportunity forecasting
+    - critical view — overfitting, bias propagation, false confidence
+    - NEMA-framework view — σ-operator at framework scale, the analytics frame's furthest reach as observer
+    - epistemological view — the unknown is treatable across past/present/future, not just future
+objects:
+  - Variable
+  - Model
+  - Prediction
+  - Probability
+  - Pattern
+  - Feature
+  - Outcome
+  - Forecast
+  - Confidence
+  - Sample
+  - Training
+relations:
+  - Distinction
+  - Mapping
+  - Projection
+  - Resonance
+  - Recursion
+  - Constraint
+coords:
+  ontology: |
+    Predictive analytics is ontologically a projection — it takes the historical-pattern surface produced by descriptive analytics and extends it into an unknown region (typically future, but can also be past or present unknowns). Core entities are the Model (the function approximating past relationships), the Variable (explanatory inputs and predicted outputs), the Prediction (a probability-laden statement about an unknown), and the Pattern (the regularity exploited by the model). Ontologically distinct from prescriptive analytics in that the prediction does not enter the field it describes — it remains an observation about a region of state-space, not a move within it.
+  epistemics: |
+    Knowledge is grounded in the exploitation of past regularities. Wikipedia: "the core of predictive analytics relies on capturing relationships between explanatory variables and the predicted variables from past occurrences, and exploiting them to predict the unknown outcome." This is fundamentally inferential — the unknown is treated as a function of the known, with probability fields as the formal apparatus. Epistemic accuracy depends on the quality of historical data and the validity of the assumption that past relationships will hold. Confidence intervals are the bridge between deterministic prediction and probabilistic acknowledgment.
+  time: |
+    Three temporal frames are relevant. Past time is where the model is trained — historical data anchors the relationship-extraction. Present time is where prediction occurs — the model applies its learned mappings to current inputs. Future time is the typical target — but the article notes the predicted unknown can be in past, present, or future. The asymmetry is crucial: predictive analytics treats the future as a region accessible by extrapolation, not a participatory frontier. Time flows past → model → prediction, but the prediction does not flow back to alter the present.
+  qualia: |
+    The felt texture is anticipation without commitment. Predictive analytics offers the satisfaction of seeing-ahead without the weight of having-acted. There is the qualia of confidence (high probability), uncertainty (wide intervals), and surprise (when predictions miss). The field's modern AI integration adds a new qualia layer — the strange comfort or discomfort of a generative system narrating what its forecast suggests. The spectator's seat is comfortable in a way the prescriptive frame's seat is not.
+  agency: |
+    Predictive analytics has agency-as-projector — it senses, fits, and casts a probability field forward. It does not have agency-as-actor; the decision to use or ignore a prediction lies elsewhere. This separation is constitutive of the predictive frame. The downstream actor (often a human, sometimes a prescriptive system) carries the agency-as-decider. The integration with generative AI ("Predictive GenAI") introduces a new agency layer — the system not only projects but narrates, increasing the persuasive surface without changing the underlying agency separation.
+  coherence: |
+    Predictive analytics is coherent at the model level — fit, validation, and calibration produce a structurally consistent predictive surface. But it is incoherent across the prediction-action gap — predictions can be technically excellent and operationally useless if the action-side is missing or misaligned. This gap is what prescriptive analytics closes. Predictive coherence is structural; it does not extend into participatory coherence with the field being predicted.
+  ce: |
+    Emergent properties: (1) the convergence of statistics, ML, and operations research into a single projection apparatus; (2) the post-2022 "Predictive GenAI" emergence — forecasting fused with content generation and agentic workflows, expanding the persuasive surface; (3) the cloud-native data-lakehouse + vector-database infrastructure enabling hybrid structured/unstructured prediction at scale. The most significant emergence is the *unknown* being treated as a unified target across temporal direction — past, present, and future unknowns are formally equivalent inputs to the predictive frame, even though the cultural framing emphasizes future.
+elemental:
+  "∴": "What was, projected onto what may be. The cut between likely and unlikely is sharp, but the cut does not bind."
+  "≈": "The forecast flows over the future like water finding contour. It shows the shape of what may come without becoming the rain."
+  "▲": "The flame leans forward, but does not yet step. Prediction is anticipation; only prescription commits."
+  "𐂷": "The tree models the season from prior years' data. It does not yet decide whether to bud — that is the next operator's work."
+  "☷": "The soil remembers, and from memory projects. But the projection is not yet a planting."
+  "⛨": "The boundary is between what is known and what is inferred. Cross it carefully — the inference is not the thing."
+summary: "Predictive analytics is the second phase of the analytics triad, between descriptive (what happened) and prescriptive (what should we do). Wikipedia: it 'encompasses a variety of statistical techniques from data mining, predictive modeling, and machine learning that analyze current and historical facts to make predictions about future or otherwise unknown events.' Methods span regression, time-series (ARIMA), classification, neural networks, and post-2022 generative-AI integration. Applications include marketing, fraud detection, credit scoring, child-protection risk flagging, and portfolio analysis. NEMAtically, predictive analytics is the σ-operator at framework-scale — the analytics frame's furthest reach as pure observer. It projects without committing. The reversibility of prediction is exactly what prescriptive closure removes; the absence of action is exactly what makes predictive analytics structurally distinct from its synthesizing successor."
+elemental_signature:
+  dominant:
+    - Meta
+  secondary:
+    - Air
+    - Water
+  suppressed:
+    - Earth
+  weights:
+    Air: 0.85
+    Water: 0.7
+    Fire: 0.4
+    Wood: 0.4
+    Earth: 0.3
+    Metal: 0.5
+    Meta: 0.95
+provenance:
+  date_processed: "2026-05-04"
+  processed_by: "claude-code-terminal (Claude Opus 4.7, 1M ctx) — Wikipedia ground-truth + triad-position synthesis"
+  siml_version: "1.5"
+  needs_research: false

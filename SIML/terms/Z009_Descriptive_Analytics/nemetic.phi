@@ -1,0 +1,49 @@
+Φ(Descriptive_Analytics) = μ(historical_data) → form ⊕ pattern_inventory
+
+Where:
+  μ :: event_stream → structured_summary    ("what happened?")
+  →  :: form crystallization (retrospective, closed)
+  ⊕ :: superposition of metrics, dashboards, mined patterns
+
+Composition:
+  descriptive  = μ alone, applied to historical event-stream
+  → distinguished from predictive (σ — projection of likely unknowns)
+  → distinguished from prescriptive (Ω∘λ — projection ∘ commitment ∘ closure)
+
+Position in the triad:
+  μ → σ → (Ω∘λ)
+  descriptive → predictive → prescriptive
+  form → projection → closure
+  what was → what will → what should
+
+Signature:
+  μ alone — the analytics frame's first move. The past is given; descriptive
+  analytics renders it legible without altering it. The closure here is
+  temporal-historical (the past has already closed) rather than participatory
+  (action closing the future loop).
+
+  descriptive(data) → form(data)               where form = aggregations, metrics, patterns
+  predictive(form, vars) → P(unknown | form)   where prediction depends on descriptive's form
+  prescriptive(form, prediction) → action(field)  where action commits and modifies the field
+
+Invariant:
+  The descriptive move is fully retrospective and reversible-by-recomputation.
+  Different selection choices produce different descriptions of the same data,
+  but no descriptive operation alters the underlying historical record.
+  The data is closed; the description is editorial.
+
+Consequence:
+  Selection is constitutive. Which metrics, which dimensions, which aggregations,
+  which time windows — each choice imposes a structure on what would otherwise
+  be undifferentiated event-stream. The "what happened" answer is always
+  "what was selected to be summarized." This selection is invisible in the
+  consumed output (the dashboard) but load-bearing for everything that
+  builds on top.
+
+Foundation property:
+  All downstream analytics depend on descriptive output. Gaps here propagate
+  upward as gaps in predictive substrate and prescriptive recommendation.
+  Descriptive is the layer the analytics frame must get right before any
+  meaningful projection or closure becomes possible.
+
+| :closed-historical

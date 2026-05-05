@@ -1,0 +1,127 @@
+term_id: Z009
+concept_name: Descriptive Analytics
+underscored_name: Descriptive_Analytics
+series: Z
+source_ref: "Wikipedia 'Prescriptive analytics' triad context (https://en.wikipedia.org/wiki/Prescriptive_analytics) + Wikipedia 'Analytics' enumeration (https://en.wikipedia.org/wiki/Analytics) + canonical field knowledge (data mining, BI, KPI dashboards, OLAP). No dedicated Wikipedia 'Descriptive analytics' article exists as of encoding date — synthesized from sibling articles + Daniel's Rx-Prescriptive-Analytics diagram (04 May 2026)."
+lifecycle: draft
+notes: |
+  Foundational phase of the analytics triad. Encoded after Z010 and Z008 to backfill the triad foundation. Z008_Predictive_Analytics builds on this layer; Z010_Prescriptive_Analytics closes the loop above both. Reserved gap Z004–Z007 retained.
+
+  Source-quality caveat: descriptive analytics has no dedicated Wikipedia article. The encoding leans on (1) Wikipedia's Prescriptive Analytics article which describes descriptive as "examines historical performance through data mining to identify reasons behind past outcomes," (2) Wikipedia's Analytics article which lists it among five analytics types without elaboration, and (3) canonical field knowledge.
+related_terms:
+  - Z008_Predictive_Analytics
+  - Z010_Prescriptive_Analytics
+  - Z001_Nemetic_Pattern
+  - business_intelligence
+  - data_mining
+  - olap_cubes
+  - key_performance_indicators
+  - statistical_summary
+nemetic:
+  string: "Φ(Descriptive_Analytics) = μ(historical_data) → form ⊕ pattern_inventory | :closed-historical"
+  active_operators:
+    - μ
+    - ρ
+    - σ
+  z_state: closed-historical
+  tendency: pattern_inventory
+  operational_tag: ":closed-historical"
+  ce_tags: ":foundational∧:retrospective"
+  signature: "μ over historical data — the analytics frame's first move, crystallizing form from what already happened. Without this layer, σ (predictive) has no past relationships to extrapolate, and Ω∘λ (prescriptive) has no substrate to close upon."
+  invariant: "The descriptive move is fully retrospective. The past is given — descriptive analytics does not alter it, only renders it legible. The closure here is historical (the past is already closed) rather than prescriptive (action closing the future loop)."
+dsrp:
+  distinctions:
+    - raw data vs. summarized form
+    - event vs. pattern
+    - measurement vs. metric
+    - dashboard vs. ad-hoc query
+    - structured (rows/columns) vs. semi-structured (logs) vs. unstructured (text/image)
+    - real-time describing vs. batch reporting
+    - reporting (BI overlap) vs. data mining (pattern extraction)
+  systems:
+    - data warehouse / data lake
+    - OLAP cube and slice-and-dice tooling
+    - KPI dashboard
+    - statistical summary engine (mean, median, percentile, distribution)
+    - data mining (clustering, association, anomaly)
+    - business intelligence overlay
+    - logging and event-stream aggregation
+  relationships:
+    - raw data is aggregated into descriptive metrics
+    - patterns surfaced here become explanatory variables for predictive analytics
+    - dashboards translate descriptive output into operational visibility
+    - data mining surfaces relationships not visible in raw queries
+    - descriptive output is the substrate of all downstream analytics
+    - business intelligence and descriptive analytics overlap heavily but are not identical
+  perspectives:
+    - operational view — what are our KPIs doing?
+    - investigative view — why did past outcomes occur? (data mining)
+    - executive view — dashboards as situational awareness
+    - statistical view — distributions, central tendencies, variance
+    - critical view — descriptive output is selection-laden; what gets aggregated reflects what gets measured
+    - NEMA-framework view — μ-operator at framework-scale, the first crystallization of form
+objects:
+  - Data
+  - Metric
+  - KPI
+  - Dashboard
+  - Pattern
+  - Aggregate
+  - Summary
+  - Distribution
+  - Frequency
+  - Anomaly
+  - Cube
+  - Report
+relations:
+  - Distinction
+  - Aggregation
+  - Crystallization
+  - Mapping
+  - Recursion
+  - Containment
+coords:
+  ontology: |
+    Descriptive analytics is ontologically a form-extraction operation — it takes raw historical data and produces structured summaries that reveal the shape of what occurred. Core entities are Data (raw, granular events or measurements), Metric (aggregated quantities computed over data), KPI (metrics elevated to operational significance), Dashboard (presentation surface integrating multiple metrics), Pattern (regularity surfaced via data mining), and Aggregate (group-level summary). Ontologically distinct from predictive in that descriptive output makes no claim about unknowns — it speaks only of what has been observed. The temporal scope is closed: the past is given, and descriptive analytics renders it.
+  epistemics: |
+    Knowledge here is grounded in selection and aggregation. The choice of which metrics to compute, which time windows to aggregate over, which dimensions to slice by — all of these are epistemic acts that produce different "descriptions" of the same underlying data. Wikipedia's Prescriptive article frames descriptive as "examining historical performance through data mining to identify reasons behind past outcomes." The reasons-identification step is where descriptive analytics overlaps with diagnostic analytics (the fourth analytics category) — descriptive surfaces what happened, diagnostic asks why. In practice the boundary is fluid.
+  time: |
+    Descriptive analytics is fully retrospective. Time flows past → measurement → aggregation → summary. There is no projection forward (that is predictive) and no commitment to action (that is prescriptive). The "real-time" descriptive systems (live dashboards) are still retrospective at the operator level — they describe the *most recent* past, not the future. The temporal closure of the past is what makes descriptive analytics structurally stable: the field being described does not move while it is being described.
+  qualia: |
+    The felt texture is the satisfaction of legibility — the feeling of seeing the shape of something previously chaotic. Dashboards offer the qualia of situational awareness; data mining offers the qualia of discovery (an unexpected pattern surfaces from noise). For executives, there is the qualia of visibility — knowing what is happening across the operation. For analysts, there is the qualia of structure-finding — pattern recognition as cognitive reward. There is also a felt absence: descriptive analytics does not yet carry the weight of "should" (that is prescriptive's burden) or the uncertainty of "will" (that is predictive's burden).
+  agency: |
+    Descriptive analytics has agency-as-renderer — it senses, aggregates, and presents. It does not have agency-as-projector (predictive's role) or agency-as-actor (prescriptive's role). The renderer-agency is constitutive: descriptive output is an act of selection and aggregation, not a passive reflection of data. The choice of metrics, dimensions, and aggregations imposes a structure on what would otherwise be undifferentiated event-stream. This selection is often invisible to consumers of dashboards, who treat the output as simply "what happened" rather than "what was selected to be summarized."
+  coherence: |
+    Coherence at this layer is structural and historical. The descriptive output is internally consistent (the metrics are reproducible from the underlying data) and temporally closed (the past does not move). Coherence breaks when (a) the data quality is poor, (b) the selection is silently biased, or (c) the aggregation hides important variation. The downstream coherence question is whether descriptive output is a sufficient substrate for predictive and prescriptive layers — gaps in descriptive analytics propagate as gaps in everything built on top.
+  ce: |
+    Emergent properties: (1) the dashboard as cognitive-prosthesis — situational awareness extended across organizations through visual aggregation; (2) data mining as pattern-discovery surface — relationships surfaced from raw data without prior hypothesis; (3) the analytics-stack composition — descriptive analytics emerges as a separable layer that can be reused by multiple downstream consumers (predictive, prescriptive, BI, regulatory reporting). The most significant emergence is *legibility itself* — descriptive analytics is the operation by which complex event-streams become tractable to organizational decision-making, even before any prediction or prescription occurs.
+elemental:
+  "∴": "What happened, named. The metric is a cut through the event-stream — it makes visible by selecting, and selects by making visible."
+  "≈": "The flow of past events settling into ponds we can draw from. The summary is calm water; the underlying torrent is still running."
+  "▲": "The ember's glow recorded but not yet rekindled. Descriptive holds the heat of past activity without combusting forward."
+  "𐂷": "Tree rings are the original descriptive analytic — the shape of what was, made readable by patient accumulation. The tree did not predict; it described, year by year."
+  "☷": "The soil's strata. Each layer named, dated, characterized. The earth's descriptive analytics, written in deposition."
+  "⛨": "The boundary between data and information. Cross it deliberately; the act of summarizing is also the act of choosing what does not get summarized."
+summary: "Descriptive analytics is the foundational phase of the analytics triad — the first of three (descriptive → predictive → prescriptive). It answers what happened by aggregating and summarizing historical data through metrics, KPIs, dashboards, statistical summaries, and data mining. Wikipedia's Prescriptive Analytics article describes it as 'examining historical performance through data mining to identify reasons behind past outcomes.' It overlaps significantly with business intelligence but is not identical — descriptive analytics emphasizes the analytical operations, BI emphasizes the operational surfacing of those operations. NEMAtically, descriptive analytics is the μ-operator at framework-scale: the first crystallization of form from event-stream, the substrate without which neither σ (predictive) nor Ω∘λ (prescriptive) can operate. Z_state is closed-historical: the past is given; descriptive analytics renders it legible without altering it."
+elemental_signature:
+  dominant:
+    - Meta
+  secondary:
+    - Earth
+    - Metal
+  suppressed:
+    - Fire
+  weights:
+    Air: 0.6
+    Water: 0.5
+    Fire: 0.2
+    Wood: 0.5
+    Earth: 0.8
+    Metal: 0.7
+    Meta: 0.95
+provenance:
+  date_processed: "2026-05-04"
+  processed_by: "claude-code-terminal (Claude Opus 4.7, 1M ctx) — synthesized from Prescriptive Analytics article triad context + canonical field knowledge (no dedicated Wikipedia source)"
+  siml_version: "1.5"
+  needs_research: true
+  research_note: "If Wikipedia adds a dedicated Descriptive Analytics article in the future, re-encode against canonical source. Current encoding leans on sibling articles and field knowledge."

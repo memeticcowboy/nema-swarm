@@ -1,8 +1,11 @@
 ---
-term_id: 8A3F
-hex_tag: '#8A3F'
-name: flow
+term_id: W052
+hex_tag: '#W052'
+name: Flow
 term: Flow (流動)
+_renamed_from: 8A3F_flow
+_renamed_at: '2026-05-04'
+_renamed_reason: 'Pre-migration legacy term with no element prefix and lowercase concept_name. Reclassified under W (Water/Flow-Resonance) per the term.yaml''s nemetic Φ (ρ-water current/channel as primary operator) and the elemental analysis. Concept_name capitalized to Snake_Case per glossary.'
 nemetic: "Φ(Flow) = σ(movement|stagnation)\n         ∘ ρ(current|channel)\n         ∘ λ(descent|source)\n         ∘ β(yielding|shaping)\n         ∘ δγ(dissolution|renewal)\n         ∘ μ(container|permeability)\n         + ε | :open"
 siml_encoding: "⟨Yielding|gravity⟩\n    ⊳ ⟨Obstruction|encountered⟩\n    → ⟨Path|found⟩\n    ⊗ ⟨Rigidity|eroded⟩\n    ⇄ ⟨Form|adaptive⟩"
 formalism:

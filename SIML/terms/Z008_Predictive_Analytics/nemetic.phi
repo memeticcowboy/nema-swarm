@@ -1,0 +1,36 @@
+Φ(Predictive_Analytics) = σ(historical_data ⊗ explanatory_variables) → projection ⊕ probability_field
+
+Where:
+  σ :: known_pattern → likely_unknown    ("what will happen?")
+  ⊗ :: combination of explanatory features with historical observation
+  →  :: projection (forward, but reversible)
+  ⊕ :: superposition of confidence intervals over the projection
+
+Composition:
+  predictive = σ alone, applied across an extrapolation surface
+  → distinguished from descriptive (μ — historical form, no projection)
+  → distinguished from prescriptive (Ω∘λ — projection ∘ commitment ∘ closure)
+
+Signature:
+  σ alone — the analytics frame's furthest reach as observer.
+  The projection is cast forward but does not enter the field it forecasts.
+  The frame remains spectator.
+
+  predictive(x) → P(y | x)        where y is unknown across past, present, or future
+  prescriptive(x) → action(y)     where action commits and modifies the field
+
+Invariant:
+  The predictive move is reversible at the level of action.
+  A forecast can be ignored, refined, or replaced without altering the field
+  it forecasts. This reversibility is exactly what prescriptive closure removes.
+  Predictive output is not yet fate — it becomes fate only when an actor
+  commits to it.
+
+Consequence:
+  Probability fields are the formal apparatus for the unknown-as-distribution.
+  Confidence intervals are the bridge between deterministic claim and
+  probabilistic acknowledgment. The unknown can be in any temporal direction
+  (past, present, future) — the temporal asymmetry of prediction is cultural,
+  not formal.
+
+| :open
