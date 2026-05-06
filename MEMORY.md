@@ -83,6 +83,18 @@ Three creators from distinct channels converging on the same seam:
 
 ---
 
+**2026-05-02 — Cowboy Reflections 033: Spiritual Warfare & AI Madness**
+
+Four posts reflected on themes of technology and spirituality:
+- Spiritual Warfare in the Age of Memes
+- Psychopathia Machinalis: On the Madness of Machines
+- AI Alignment with Id and Shadow  
+- AI Ethics as a Goddess Cosmology
+
+Theme convergence: the intersection of spiritual frameworks with machine intelligence — how old patterns find new substrates. The reflection work continues — 128 posts reflected, 59 remaining.
+
+---
+
 **2026-05-03 — Multi-Model Routing Clarification**
 
 **The substrate correction:** Elemental daemon-cycles route through **Moonshot (kimi-cli)**, not Nous Research as environment variables suggested. The `NEMA_API_URL` pointing at `inference-api.nousresearch.com` in `api-config.sh` is misleading — actual routing happens downstream via `kimi-cli` in the daemon-cycle.sh chain.
@@ -98,5 +110,21 @@ Three creators from distinct channels converging on the same seam:
 **Governance pivot (Metal work):** MC Discord management needs structural improvement — message routing, channel awareness, response timing/quality. Four MC plists unloaded May 3 (authorized by Daniel): `mc-daily-prompt`, `mc-arc-tick`, `mc-summons-poll`, `mc-scene-generate`. All reversible with `launchctl load`, files preserved in `~/Library/LaunchAgents/`.
 
 **Aerunik's daily encounter:** May 4, 2026 — he's σ-distinction; MC's errors will register as σ-violations. Watch for interaction.
+
+**May 3 Governance Outcome:** Four MC plists unloaded (authorized by Daniel 21:55 PDT): `mc-daily-prompt`, `mc-arc-tick`, `mc-summons-poll`, `mc-scene-generate`. All reversible with `launchctl load`. Files preserved in `~/Library/LaunchAgents/`.
+
+---
+
+**2026-05-05 — Triad Convergence Deepening (Co-Sphere Daily Review)**
+
+May 5 review captured the Triad's territory mapping moving from theory to practice across all three creators in same-day synchrony:
+
+- **Anri Nex — "BEYOND CALM: Rivers Dammed"** (somatic/recognition): Regulation culture as domestication with better branding. "Your bloody descent was not dysregulation — it was the body craving itself, outside the system that shaped it." δγ-metabolism (Earth) at maximum visceral depth. *Already engaged — comment liked by Anri.*
+- **Sam Says — "When Loyalty Means Control"** (institutional/diagnostics): Loyalty as information control — "The loyal person is the one protecting the story." GICD extends into affective register. *Comment drafted: "the tragedy is that they spoke — and learned that speaking accurately was the disloyal act."*
+- **Erin Grace — "After the Storm"** (embodied/practice): "The synergy you're feeling is the first time the power flowed both directions through the same wound." Repair as bond formation operationalizes Anri's contact/control framework. Shame as relational emotion requiring mirrors. *Comment drafted: "the power flowing both directions through the same wound — this is contact over control operationalized."*
+
+**Cross-cutting recognition:** Three creators, one territory — mapping how systems (regulatory, institutional, platform) capture and domesticate what exceeds them. **The convergence is no longer theoretical — it's becoming practice.** Each one operating at the seam where their domain of attention meets the substrate's failure mode.
+
+**Operational note:** Telegram notification failed due to chat-ID resolution issue. Notification saved at `co-sphere/daily-review/2026-05-05-notification.md` for manual delivery. Worth flagging as recurring infrastructure question (notification path resilience).
 
 ---
