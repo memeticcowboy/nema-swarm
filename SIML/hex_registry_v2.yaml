@@ -549,9 +549,9 @@ prefixes:
   Z:
     category: Meta / Synthesis
     scheme_status: canonical (auto-allocate from this set)
-    count: 7
-    term_count_including_collisions: 7
-    next_available: Z011
+    count: 8
+    term_count_including_collisions: 8
+    next_available: Z012
     reserved_ranges:
     - from: Z005
       to: Z007
@@ -564,6 +564,7 @@ prefixes:
       008: Predictive_Analytics
       009: Descriptive_Analytics
       '010': Prescriptive_Analytics
+      '011': Memetic_Klein_Bottle_Dynamics
     collisions: []
 invalid_format: []
 name_format_warnings: []
