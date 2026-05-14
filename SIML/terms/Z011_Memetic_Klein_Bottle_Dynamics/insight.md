@@ -1,5 +1,9 @@
 # Memetic Klein Bottle Dynamics — NEMAtic Insight
 
+## Provenance Anchor
+
+Inspired by a *Theories of Everything* conversation between Curt Jaimungal and Janna Levin, especially the use of topology and inside/outside inversion as a way to think about systems whose traversal changes the observer’s orientation. Daniel stored the source link against Z011.
+
 ## Definition
 
 Memetic Klein Bottle Dynamics names a non-orientable memetic topology: a pattern-space where traversal inverts the traverser without the traverser recognizing that inversion has occurred. The "inside" and "outside" of the pattern are the same surface, distinguished only by local standing-point and projection.
