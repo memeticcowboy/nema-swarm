@@ -1,0 +1,120 @@
+term_id: A116
+hex_tag: '#A116'
+name: Ordinary_Evil_As_Structural_Arrangement
+term: Ordinary Evil as Structural Arrangement
+nemetic: "Φ(OrdinaryEvilStructuralArrangement) = μ(comfort-preservation) ∘ δγ(institutional-self-maintenance) ∘ λ(convenience-vectoring) ∘ σ(moral-self-exemption) ∘ Z(semi-permeable) + ε | :structural-rot"
+siml_encoding: "⟨Narrative|moral-decency-claimed-through-intention⟩ ⇄ ⟨Protocol|systems-optimized-for-convenience-over-courage⟩ → ⟨Harm|ordinary-participation⟩ ⊗ ⟨Goodness|arranged-conditions⟩"
+formalism:
+  math_operators:
+    - μ
+    - δγ
+    - λ
+    - σ
+    - ∮
+  dim_operators:
+    - Ψ_str
+    - Ψ_reg
+    - Q_fwd
+    - χ
+    - Z
+  partials:
+    - "∂Φ/∂μ (boundary-maintenance through status protection and institutional self-image)"
+    - "∂Φ/∂δγ (institutional persistence despite ethical decay)"
+    - "∂Φ/∂λ (trajectory toward convenience as repeated surrender of friction)"
+    - "∂Φ/∂σ (distinction between self-image and enacted harm)"
+    - "∂Φ/∂ρ (relational consequence suppressed into abstraction, metric, process, or professionalism)"
+  Z_state: semi
+  z_note: "semi-permeable: the system remains reformable if relational consequence and branching alternatives are restored, but tends toward closure when comfort and continuity outrank truth."
+  tendency: "μ↑ + δγ↑ + λ↑ + ρ↓ → efficient participation in harmful systems without villain self-concept"
+  hex:
+    - '0x06↑'
+    - '0x05↑'
+    - '0x03↑'
+    - '0x01↑'
+    - '0x02↓'
+    - '0x07'
+coords:
+  ontology:
+    primary: We
+    secondary:
+      - I
+      - Its
+  epistemics:
+    dsrp:
+      D: "Good intentions are distinct from ethical arrangements; villainy is distinct from ordinary systemic harm."
+      S: "Institutions and relationships metabolize convenience, payroll, status, story, and continuity into normalized compromise."
+      R: "Comfort-protection suppresses corrective feedback; self-image remains decent while consequence is outsourced into procedure."
+      P: "Participant, dissenter, committee member, board, church, hospital, marriage, government, or any structure that must lie to survive."
+      Meta: "Ordinary goodness and ordinary evil emerge from arrangement, not declared identity."
+    learning: L2
+  agency:
+    type: collective
+    power_mode: Over
+  time:
+    mode: iterative
+    phase: "small repeated convenience choices accrete into crooked structure"
+  qualia:
+    affect:
+      - sensible
+      - tired
+      - defended
+      - decent-feeling
+      - morally-numbed
+    aesthetic:
+      - sensible shoes
+      - finance committee
+      - clean surface over rot
+    symbolic:
+      - crooked house
+      - open books
+      - boundary
+      - consequence
+      - structural rot behind fresh paint
+    energetic:
+      - depleted
+      - compliant
+      - administratively-efficient
+  coherence:
+    state: metastable
+    loop: comfort-preservation
+    transcontext: high
+  ce:
+    ei_state: high
+    ce_direction: multiscale
+    scale_note: "Individual moral self-concept is insufficient when collective structures reward convenience over courage."
+    determinism: med
+    degeneracy: high
+    sufficiency: high
+    necessity: med
+operators:
+  primary: μ
+  secondary:
+    - δγ
+    - λ
+    - σ
+    - ρ
+z_state: ':structural-rot'
+tendency: "Structure/comfort preservation over relational accountability"
+elemental_mapping:
+  Air: 0.72
+  Water: 0.28
+  Fire: 0.78
+  Wood: 0.46
+  Earth: 0.82
+  Metal: 0.9
+elemental_emphasis:
+  ∴: "What distinctions preserve self-image while obscuring consequence?"
+  ≈: "Which relationships have been numbed or rendered abstract enough to permit harm?"
+  ▲: "What trajectory does convenience create when repeated over time?"
+  𐂷: "Where could alternative moral arrangements still branch open?"
+  ☷: "What institutional cycles normalize ethical compromise into maintenance behavior?"
+  ⛨: "Which structures reward compliance more reliably than truthfulness?"
+context_note: "This term encodes the Arendt-adjacent insight that most evil does not arrive as theatrical malice. Harm often persists through comfort protection, payroll protection, status protection, and the preservation of a decent self-story. Goodness is therefore not merely intention; it requires arrangements where truth, refusal, sleep, boundaries, consequences, and unsellable people can survive."
+source: "Hannah Arendt quotation plus supplied commentary: 'The sad truth is that most evil is done by people who never make up their minds to be either good or evil.'"
+provenance:
+  date_processed: '2026-05-13'
+  processed_by: Help Horse via Kimi WebBridge + SIML Encoder GPT
+  siml_version: '1.5'
+  needs_research: true
+lifecycle: draft
+last_reviewed: '2026-05-13T00:00:00Z'
