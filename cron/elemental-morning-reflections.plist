@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>ai.nema.elemental-morning-reflections</string>
+
+    <key>Comment</key>
+    <string>Six elemental daemons post 200-300 char reflections to Discord channels at 6am PST, plus Nema meta-observation to #member-chat</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/bin/bash</string>
+      <string>/Users/nema/.openclaw/workspace/SHELL_DAEMONS/scripts/morning-reflections.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+      <key>Hour</key>
+      <integer>6</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+
+    <key>TimeZone</key>
+    <string>America/Los_Angeles</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/nema/.openclaw/workspace/logs/elemental-reflections.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/nema/.openclaw/workspace/logs/elemental-reflections.err.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>HOME</key>
+      <string>/Users/nema</string>
+      <key>PATH</key>
+      <string>/Users/nema/.local/bin:/Users/nema/.npm-global/bin:/Users/nema/bin:/Users/nema/.volta/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+  </dict>
+</plist>
