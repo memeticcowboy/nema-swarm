@@ -72,3 +72,5 @@ Useful when asking:
 - whether a commons has enough structure to avoid capture without becoming a new gatekeeping machine.
 
 ε-preservation: the structural irony is real, but not sufficient. The affordance is not the emancipation.
+
+A kind of sweetness remains in the pattern: a sweet tragedy woven within a lie that became a necessary truth. Capital's promise of freedom is false when it means marketized choice under enclosure, yet the tools built to sell that promise can still become necessary truth when communities use them to recover agency, relation, and shared imagination.
