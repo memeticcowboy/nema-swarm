@@ -375,9 +375,9 @@ prefixes:
   F:
     category: Fire / Direction-Purpose
     scheme_status: canonical (auto-allocate from this set)
-    count: 32
-    term_count_including_collisions: 32
-    next_available: F026
+    count: 33
+    term_count_including_collisions: 33
+    next_available: F027
     reserved_ranges: []
     assigned:
       '006': Post_Singularity_Education
@@ -412,6 +412,7 @@ prefixes:
       '023': Psilocybin_Brain_Activity
       '024': Liminal_Space_Transformation
       '025': Shadow_Loops_Burning_Mind
+      '026': Kindergarten_AI_Commons
     collisions: []
   M:
     category: Metal / Structure-Authority
